@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 1 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 1 [Basel Transcription]</title>
+          <date when="2019-09-20">September 20, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-09-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#R" n="147-r"/>
+        <cb ed="#R" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l1">
+        <p xml:id="rhwis-l1-d1e97">
+          <pb ed="#B1" n="1"/>
+          <lb ed="#B1" n="1"/><quote xml:id="rhwis-l1-Qd1e102" source="http://scta.info/resource/IIreg22_2">DOMINVS PETRA MEA ET 
+          <lb ed="#B1" n="2"/>ROBVR MEVM</quote> &amp;c 2. Reg. 22] Artes &amp; 
+          <lb ed="#B1" n="3"/>scientiae humanis studijs adinuentae per occasio<lb ed="#B1" n="4"/>nem 
+          quadruplicem, materiam gloriae sibi sumunt. 
+          <lb ed="#B1" n="5"/>Artes nanque quaedam gloriosae uidentur auto<lb ed="#B1" n="6"/>rum 
+          imperiali nobilitate: quaedam ex principio<lb ed="#B1" n="7"/>rum 
+          naturali subtilitate: quaedam ex occultorum  
+          <lb ed="#B1" n="8"/>materiali difficultate: quaedam ex officiorum ge<lb ed="#B1" n="9"/>nerali 
+          utilitate. Primae autem sunt artes ciuiles siue 
+          <lb ed="#B1" n="10"/>politicae: secundae sunt artes pueriles &amp; mathematicae: tertiae sunt artes subtiles  
+          <lb ed="#B1" n="11"/>&amp; philosophicae: quartae sunt artes seruiles &amp; mechanicae. Sed Sacrae scri<lb ed="#B1" n="12"/>pturae 
+          subtilitas hominibus inspirata diuinitus, per cuiusdam praerogatiuae 
+          <lb ed="#B1" n="13"/>priuilegium singulare quatuor istas causas honoris &amp; gloriae sibi uendicat me 
+          <lb ed="#B1" n="14"/>rito super omnes: utpote cuius autore nihil sublimius, quia DOMINVS 
+          <lb ed="#B1" n="15"/>cuius tenore nihil solidius, quia petra: cuius uigore nihil potentius, quia 
+          <lb ed="#B1" n="16"/>robur: cuius ualore nihil locupletius, quia mea &amp; meum: ut sic soli Sacrae scri<lb ed="#B1" n="17"/>pturae 
+          conueniat merito dicere uerba thematis praeassumpti.
+        </p>
+        <p xml:id="rhwis-l1-d1e139">
+          <lb ed="#B1" n="18"/><quote xml:id="rhwis-l1-Qd1e143" source="http://scta.info/resource/IIreg22_2">Dominus petra mea &amp; robur meum</quote>.] In quibus, quo ad quatuor eius cau<lb ed="#B1" n="19"/>sas, 
+          efficientem &amp; materialem, formalem &amp; finalem, quatuor dignificant eam  
+          <lb ed="#B1" n="20"/>&amp; extollunt uidelicet Munimentum maiestatis: fundamentum firmitatis: com<lb ed="#B1" n="21"/>plementum 
+          potestatis, &amp; emolimentum proprietatis. Primum magnificat:  
+          <lb ed="#B1" n="22"/>secundum ratificat: tertium fortificat: &amp; quartum dignificat. Munimentum 
+          <lb ed="#B1" n="23"/>maiestatis quoad causam efficientem notatur, cum praemittitur, Dominus, 
+          <lb ed="#B1" n="24"/>De quo in Psalmo: <quote xml:id="rhwis-l1-Qd1e159" source="http://scta.info/resource/ps28_3">Vox Domini super aquas, Deus maiestatis intonuit,  
+          <lb ed="#B1" n="25"/>Dominus super aquas multas</quote>. Fundamentum firmitatis quo ad mate<lb ed="#B1" n="26"/>riam 
+          subiacentem, notatur in petra, <ref xml:id="rhwis-l1-Rd1e166">Eccl. 26.</ref> <quote xml:id="rhwis-l1-Qd1e169" source="http://scta.info/resource/sir26_24">fundamenta aeterna supra pe<lb ed="#B1" n="27"/>tram 
+          solidam</quote>, &amp; mandatao DEI in corde mulieris sanctae: id est, militantis ec<lb ed="#B1" n="28"/>clesiae 
+          secundum glossam. Complementum potestatis quo ad formam relucen<lb ed="#B1" n="29"/>tem 
+          importat robur, ut de ea digne verificetur illud <ref xml:id="rhwis-l1-Rd1e179">Esa. 40.</ref> <quote xml:id="rhwis-l1-Qd1e182" source="http://scta.info/resource/sir40_29">Dat lasso uirtu<lb ed="#B1" n="30"/>tem, 
+          &amp; his qui non sunt, fortitudinem &amp; robur multiplicat</quote>. Emolimentum pro<lb ed="#B1" n="31"/>prietatis, 
+          quo ad finem consequentem designatur in duplici pronomine posses<lb ed="#B1" n="32"/>siuo, 
+          mea &amp; meum: vt digne dicat illud <ref xml:id="rhwis-l1-Rd1e192">Deut. 32.</ref> <quote xml:id="rhwis-l1-Qd1e195" source="http://scta.info/resource/deut32_2">Concrescat ut pluuia doctrina 
+          <lb ed="#B1" n="33"/>mea, fluat ut ros eloquium meum</quote>: <quote xml:id="rhwis-l1-Qd1e200" source="http://scta.info/resource/IIreg22_2">Dominus (inquam) petra mea &amp; robur meum</quote>.
+        </p>
+        <p xml:id="rhwis-l1-d1e176">
+          <lb ed="#B1" n="34"/>Circa primum advertendum quod autor egregius huius sacratissimae 
+          <lb ed="#B1" n="35"/>facultatis in ipsis auditoribus quatuor dispositiones uirtuosas requirit: scili<lb ed="#B1" n="36"/>cet 
+          intentionis simplicitatem: aestimationis humilitatem: communicatio<lb ed="#B1" n="37"/>nis 
+          liberalitatem, &amp; operationis conformitatem. Primo dico requirit in<lb ed="#B1" n="38"/>tentionis 
+          simplicitatem: iuxta illud Sapientiae primo: <quote xml:id="rhwis-l1-Qd1e217" source="http://scta.info/resource/sap1_1">Sentite de Domi<lb ed="#B1" n="39"/>no 
+          in bonitate, &amp; in simplicitate cordis quaerite illum</quote>. Nam sicut <quote xml:id="rhwis-l1-Qd1e222" source="http://scta.info/resource/mt6_24">nemo
+          <pb ed="#B1" n="2"/>
+          <lb ed="#B1" n="1"/>potest duobus dominis seruire: Aut enim unum odio habebit: &amp; alterum  
+          <lb ed="#B1" n="2"/>diliget: aut unum sustinebit, &amp; alterum contemnet</quote>, <ref xml:id="rhwis-l1-Rd1e231">Matth. 6</ref>. Ita nemo potest 
+          <lb ed="#B1" n="3"/>distinctis facultatibus utiliter applicari. Et ideo sicut dicitur Matth. 4. <quote xml:id="rhwis-l1-Qd1e236" source="http://scta.info/resource/mt4_10">Domi<lb ed="#B1" n="4"/>num DEUM tuum adorabis &amp; illi soli seruies</quote>, eius scripturis totaliter inten<lb ed="#B1" n="5"/>dendo: 
+          Secundo requirit Spiritus sanctus in auditore scripturae, aestimatio<lb ed="#B1" n="6"/>nis 
+          humilitatem, ut siue doctor siue discipulus humiliter sentiat de seipso, iu<lb ed="#B1" n="7"/>xta 
+          principalis magistri exemplum, <ref xml:id="rhwis-l1-Rd1e248">Ioh. 13</ref>. <quote xml:id="rhwis-l1-Qd1e251" source="http://scta.info/resource/io13_13 http://scta.info/resource/io13_14">Vos uocatis me magister &amp; do<lb ed="#B1" n="8"/>mine, 
+          &amp; bene dicitis: sum etenim: si ergo ego laui uestros pedes Dominus &amp;  
+          <lb ed="#B1" n="9"/>magister, &amp; uos debetis alter alterius lauare pedes. <!-- quote may go into verse 14--></quote> Exemplum enim dedit ma<lb ed="#B1" n="10"/>gister 
+          noster in seipso, reprimens inflationem &amp; ad alios indignationem, eo quod  
+          <lb ed="#B1" n="11"/>scientia inflat, et si charitas non assistat. <quote xml:id="rhwis-l1-Qd1e264" source="http://scta.info/resource/qoh1_18">Et in multa sapientia sit multa indigna<lb ed="#B1" n="12"/>tio</quote>, 
+          <ref xml:id="rhwis-l1-Rd1e269">Eccl. primo.</ref> De ista materia loquitur <ref xml:id="rhwis-l1-Rd1e272">Bernhard, super Canti. sermone 41</ref> 
+          <lb ed="#B1" n="13"/>Et dicit sic: Vae quibene de DEO &amp; assentire &amp; eloqui acceperunt, si quaestum 
+          <lb ed="#B1" n="14"/>aestimauerunt pietatem, si conuertant ad inanem gloriam, quod ad lucrum DEI 
+          <lb ed="#B1" n="15"/>acceperunt erogandum: si alta sapientes humilibus non consentiant. Paueant 
+          <lb ed="#B1" n="16"/>illud, quod in propheta legitur, dicente Domino: Dedi eis aurum meum &amp; 
+          <lb ed="#B1" n="17"/>argentum: ipsi autem de argento meo &amp; auro meo operati sunt Baal. Haec 
+          <lb ed="#B1" n="18"/>Bernh. Tertio requirit autor scripturae Sacrae in auditore ipsius communica<lb ed="#B1" n="19"/>tionis 
+          liberalitatem, ut quod <quote xml:id="rhwis-l1-Qd1e290" source="http://scta.info/resource/sap7_13">sine fictione didicitur, sine inuidia commumce<lb ed="#B1" n="20"/>tur</quote>, 
+          <ref xml:id="rhwis-l1-Rd1e295">Sap. 7</ref>. Sicut enim dicit <ref xml:id="rhwis-l1-Rd1e299">Seneca</ref>: <quote xml:id="rhwis-l1-Qd1e302">Sapientia est nobilis animi possessio, aua<lb ed="#B1" n="21"/>rum 
+            dedignans possessorem, quae cum sit distributa, recipit incrementum seu 
+          <lb ed="#B1" n="22"/>augmentum</quote>. Et <ref xml:id="rhwis-l1-Rd1e309">Augustinus de doctrina Christiana cap. 5</ref>. <quote xml:id="rhwis-l1-Qd1e312" source="http://scta.info/resource/addc-l1-d1e110">Omnis res quae dan<lb ed="#B1" n="23"/>do 
+          non deficit dum habetur, &amp; non datur, nondum habetur, quomodo ha<lb ed="#B1" n="24"/>benda sit</quote>. 
+          Est enim officium sapientis rudiores instruere &amp; minus informa<lb ed="#B1" n="25"/>tos 
+          curialiter supportare, iuxta illud <ref xml:id="rhwis-l1-Rd1e321">Esa. 50.</ref> <quote xml:id="rhwis-l1-Qd1e325" source="http://scta.info/resource/is50_4">Dominus dedit mihi linguam eru<lb ed="#B1" n="26"/>ditam, 
+          ut sciam sustentare illum qui lapsus est uerbo</quote>. Quarto requirit opera<lb ed="#B1" n="27"/>tionis 
+          conformitatem: Non enim decet subtiliter sapere &amp; seruiliter uiuere,  
+          <lb ed="#B1" n="28"/><ref xml:id="rhwis-l1-Rd1e333">Proverb. 9.</ref> <quote xml:id="rhwis-l1-Qd1e336" source="http://scta.info/resource/prov9_11">Principium sapientiae timor Domini, &amp; scientia sanctorum pru<lb ed="#B1" n="29"/>dentia</quote>. 
+          <quote xml:id="rhwis-l1-Qd1e341" source="http://scta.info/resource/aristneth-l6">Prudentia enim est recta ratio agibilium</quote>: sicut dicit <ref xml:id="rhwis-l1-Rd1e345">Aristot. 6. Ethic. li<lb ed="#B1" n="30"/>bro</ref>. 
+          Sicut enim autor Sacrae paginae DEVS scientiarum dominus est: Ita 
+          <lb ed="#B1" n="31"/>Sacra scriptura omnium facultatum domina dici debet, &amp; non illa vana Me<lb ed="#B1" n="32"/>taphysica, 
+          quam deam scientiarum &amp; dominam Arist. uocat siue aestimat, <ref xml:id="rhwis-l1-Rd1e354">pri<lb ed="#B1" n="33"/>mo Metha. cap. 3</ref>. Istius enim dominae ministeriis reuerendis: artes &amp; scien<lb ed="#B1" n="34"/>tiae 
+          liberales tenentur intendere, sicut <quote xml:id="rhwis-l1-Qd1e361" source="http://scta.info/resource/ps122_2">oculi ancillae in manibus dominae suae</quote>: 
+          <lb ed="#B1" n="35"/>quia sicut dicit glossa quaedam interlinearis, Leuit. 2. omnes artes philosophiae 
+          <lb ed="#B1" n="36"/>eo fine distinguuntur ut per eas quasi quodam novo instrumento theolo<lb ed="#B1" n="37"/>gia 
+          sacratissima proferatur.
+        </p>
+        <p xml:id="rhwis-l1-d1e274">
+          <lb ed="#B1" n="38"/>De ista, domina theologia figuratiue scribitur Hester 15 quod assumpsit 
+          <lb ed="#B1" n="39"/>duas famulas, &amp; super unam quaedam immittebatur quasi prae delicijs &amp; nimia 
+          <lb ed="#B1" n="40"/>teneritate corpus suum ferre non sustinens: altera autem famularum seque<lb ed="#B1" n="41"/>batur 
+          dominam: defluentia in humum indumenta sustentans. Moraliter prima 
+          <lb ed="#B1" n="42"/>istarum famularum est sapientia philosophorum. Secunda est lex pontificum 
+          <lb ed="#B1" n="43"/>&amp; imperatorum. Super primam, sacra theologia cum sit sibiipsi sufficiens &amp; ro<lb ed="#B1" n="44"/>busta, 
+          prae delicijs tamen simulat se inniti quasi dictis &amp; modis eorum, loquen<lb ed="#B1" n="45"/>do, 
+          opponendo, respondendo, probando, &amp; reprobando: non pro necessi<lb ed="#B1" n="46"/>tate, 
+          sed prae delicijs utitur sicuti placet. Secunda uero scilicet lex pontificum 
+          <lb ed="#B1" n="47"/>&amp; imperatorum dominam sequi debet, &amp; eius indumenta in terram defluen 
+          <lb ed="#B1" n="48"/>tia: id est, iura de decimis &amp; oblationibus &amp; alijs temporalibus, quibus ad tem 
+          <lb ed="#B1" n="49"/>pus inuestitur Ecclesia, sustentare. Et signanter dicitur quod ista famula do 
+          <lb ed="#B1" n="50"/>minam sequebatur. Nimis enim periculosum est &amp; inconueniens &amp; absurdum
+          <pb ed="#B1" n="3"/>
+          <lb ed="#B1" n="1"/>quod cum sua domina pari passu incedat, quod ipsa de fidei articulis, de Ec<lb ed="#B1" n="2"/>clesiae 
+          sacramentis, de uisione beatorum, vel* pondere peccatorum determinet, iux<lb ed="#B1" n="3"/>ta 
+          uerba legum, in terrenis negociis usitata: haec enim catholicos in schismaticos 
+          <lb ed="#B1" n="4"/>&amp; infideles &amp; doctores in adulatores conuertit, sicut recenter uobis occurrit, nu<lb ed="#B1" n="5"/>per 
+          experimento uidistis. Haec enim facultas est illa ancilla Agar, de qua scribitur  
+          <lb ed="#B1" n="6"/>in figura, Gen.16. quod concepisse se uidens contempsit dominam suam, &amp; afflicta 
+          <lb ed="#B1" n="7"/>dominam suam fugit, fugiens super his uerbis ab angelo reuocatur: Reuertere ad 
+          <lb ed="#B1" n="8"/>dominam tuam &amp; humiliare sub manibus eius. Leges enim &amp; canones istis tem<lb ed="#B1" n="9"/>poribus 
+          mirabiliter foecunde concipiunt diuitias &amp; pariunt dignitates. Et  
+          <lb ed="#B1" n="10"/>ideo Sacra scriptura quae est omnium scientiarum domina derelicta est, &amp; 
+          <lb ed="#B1" n="11"/>ad illas confluit quasi tota multitudo scholarium his diebus, &amp; flebilis ad 
+          <lb ed="#B1" n="12"/>impletur lamentatio, Hierem. Thren.1. Facta est quasi uidua domina Gen<lb ed="#B1" n="13"/>tium. 
+          Haec est etiam causa quare non solum illa, imo ancilla sua prima philo<lb ed="#B1" n="14"/>sophia 
+          videlicet a paucis reuerenter modernis temporibus frequentatur: sicut  
+          <lb ed="#B1" n="15"/>plangit <ref xml:id="rhwis-l1-Rd1e437"><name>Ouidius</name> de uetula lib. 1</ref>. sic dicens: 
+          <quote xml:id="rhwis-l1-Qd1e442"><lb ed="#B1" n="16"/>omnes declinant ad eam quae lucra ministrat.  
+          <lb ed="#B1" n="17"/>Vtque sciant discunt pauci, plures vt abundent.  
+          <lb ed="#B1" n="18"/>Sic te prostituunt o virgo scientia, sic te 
+          <lb ed="#B1" n="19"/>Venalem faciunt castis amplexibus aptam, 
+          <lb ed="#B1" n="20"/>Non te propter te quaerentes sed lucra per te 
+          <lb ed="#B1" n="21"/>Ditarique volunt, potius quam philosophari.</quote> 
+          <lb ed="#B1" n="22"/>Et infra sic:  
+          <lb ed="#B1" n="23"/><quote xml:id="rhwis-l1-Qd1e459">Exilium patitur nunc philo pecunia regnat</quote>.
+        </p>
+        <p xml:id="rhwis-l1-d1e357">
+          <lb ed="#B1" n="24"/>Sed caueant sibi ne dominam hanc contemnant: quia ad eam oportet o<lb ed="#B1" n="25"/>mnes 
+          finaliter reuerti &amp; sub manibus ipsis humiliari, si tamen uelint saluari: 
+          <lb ed="#B1" n="26"/>Non enim delegibus illis, sed de ista sola dicitur per Psalmum: Beatus homo quem 
+          <lb ed="#B1" n="27"/>tu erudieris Domine, &amp; de lege tua docueris eum. Sic ergo declaratum est muni<lb ed="#B1" n="28"/>mentum 
+          maiestatis Sacrae scripturae scientiarum dominae, quod est principium 
+          <lb ed="#B1" n="29"/>principale in themate lectionis
+        </p>
+        <p xml:id="rhwis-l1-d1e374">
+          <lb ed="#B1" n="30"/>Secundum quod scripturam Sacram commendat in uerbis istis, est fun<lb ed="#B1" n="31"/>damentum 
+          firmitatis, quo ad materiam subiacentem, cum dicitur petra. Haec  
+          <lb ed="#B1" n="32"/>est enim petra aquosa ad potandum, petra mellosa ad cibandum, petra olei 
+          <lb ed="#B1" n="33"/>perforata ad lenimentum poenitentium, petra scandali destinata ad detrimen 
+          <lb ed="#B1" n="34"/>tum discedentium
+        </p>
+        <p xml:id="rhwis-l1-d1e387">
+          <lb ed="#B1" n="35"/>Primo dico quod Sacra scriptura est petra aquosa ad potandum, De qua 
+          <lb ed="#B1" n="36"/><ref xml:id="rhwis-l1-Rd1e498">1. Corinth. 10.</ref> <quote xml:id="rhwis-l1-Qd1e501" source="http://scta.info/resource/Icor10_4">Bibebant autem omnes de spirituali consequente eos petra</quote> 
+          <lb ed="#B1" n="37"/>Et <ref xml:id="rhwis-l1-Rd1e506">Sapientiae 11</ref>. <quote xml:id="rhwis-l1-Qd1e510" source="http://scta.info/resource/sap11_4">Sitierunt &amp; inuocauerunt te Domine &amp; data est illis aqua 
+          <lb ed="#B1" n="38"/>de petra altissima</quote>. Est enim petra altissima propter eius sublimitatem: dul<lb ed="#B1" n="39"/>cissima 
+          propter eius suauitatem: durissima propter eius difficultatem, ut me<lb ed="#B1" n="40"/>rito 
+          possit dicere illud <ref xml:id="rhwis-l1-Rd1e519">Esa. 50.</ref> <quote xml:id="rhwis-l1-Qd1e522" source="http://scta.info/resource/is50_7">Posui faciem meam ut petram durissimam: &amp;  
+          <lb ed="#B1" n="41"/>scio quoniam non confundar</quote>. Faciem: id est, noticiam sensuum diuersorum: In fa<lb ed="#B1" n="42"/>cie 
+          enim naturaliter patent sensus: &amp; scio, quoniam non confundat, licet enim 
+          <lb ed="#B1" n="43"/>haereses semper manebunt in mundo usque ad finem mundi: sicut dicit quae<lb ed="#B1" n="44"/>dam 
+          <ref xml:id="rhwis-l1-Rd1e534">glossa, Esa. 7. uel 4</ref>. Contra eos tamen semper erunt quidam spirituales  
+          <lb ed="#B1" n="45"/>doctores in Ecclesia, sicut dicit alia <ref xml:id="rhwis-l1-Rd1e539">glossa, Exod. 26</ref>. Et ideo signanter di<lb ed="#B1" n="46"/>cit 
+          Scriptura, scio, quoniam non confundar, nec mirum. Aedificata est enim 
+          <lb ed="#B1" n="47"/>supra firmam petram. De qua <ref xml:id="rhwis-l1-Rd1e547">1. Corinth. 10.</ref> <quote xml:id="rhwis-l1-Qd1e550" source="http://scta.info/resource/Icor10_4">Petra autem erat CHRI<lb ed="#B1" n="48"/>STVS</quote>, 
+          cui nullus haereticus nec philosophus comparatur: sicut in <ref xml:id="rhwis-l1-Rd1e555">Psal.140.</ref>  
+          <lb ed="#B1" n="49"/>dicitur: <quote xml:id="rhwis-l1-Qd1e560" source="http://scta.info/resource/ps140_6">Absorpti sunt iuncti petrae iudices eorum</quote>, glossa. Iudices eorum sunt  
+          <lb ed="#B1" n="50"/>potentes &amp; doctores qui de moribus iudicabant, <name>Plato</name>, <name>Pythagoras</name> &amp; <name>Ari<lb ed="#B1" n="51"/>stoteles</name>. <mentioned>Absorpti sunt petrae iuncti</mentioned>, &amp; comparati CHRISTO super se 
+          <lb ed="#B1" n="52"/>uidentur aliquid dicere: sed iunge &amp; compata eos CHRISTO &amp; nihil sunt,
+          <pb ed="#B1" n="4"/>
+          <lb ed="#B1" n="1"/>mortui iacent: stulta est sapientia eorum: haec glossa.
+        </p>
+        <p xml:id="rhwis-l1-d1e433">
+          <lb ed="#B1" n="2"/>Secundo ista petra est mellosa ad cibandum, de qua Psalm. <quote xml:id="rhwis-l1-Qd1e592" source="http://scta.info/resource/ps80_17">Cibauit eos 
+          <lb ed="#B1" n="3"/>ex adipe fru. &amp; de petra mellis saturauit eos</quote>. Vnde <ref xml:id="rhwis-l1-Rd1e597">Hugo in Didascalico, lib.  
+          <lb ed="#B1" n="4"/>4. cap. 4</ref>. Diuina eloquia aptissime fauo comparantur, quae etiam propter 
+          <lb ed="#B1" n="5"/>simplicitatem sermonis arida apparent, exterius &amp; intus dulcedine plena 
+          <lb ed="#B1" n="6"/>sunt. Sicut enim lac secundum medicos melius nutrit si sugatur: Ita mel 
+          <lb ed="#B1" n="7"/>Sacrae scripturae si sugatur per studium &amp; deuotionem multo melius nutrit 
+          <lb ed="#B1" n="8"/>quam si per breuem auditionem faciliter capiatur. Et ideo de deuoto theolo<lb ed="#B1" n="9"/>go 
+          dicitur Deutero.32. <quote xml:id="rhwis-l1-Qd1e613" source="http://scta.info/resource/deut32_13">Constituit eum super excelsam terram, ut comede<lb ed="#B1" n="10"/>ret 
+          fructus agrorum, ut sugeret mel de petra</quote>. Conuenienter autem Sacrae 
+          <lb ed="#B1" n="11"/>scripturae difficultati dulcis &amp; utilis suauitas est annexa. Quia secundum 
+          <lb ed="#B1" n="12"/>Horatium in poetria sua, &amp;, est ad propositum: 
+          <lb ed="#B1" n="13"/>omne tulit punctum qui miscuit vtile dulci. 
+        </p>
+        <p xml:id="rhwis-l1-d1e462">
+          <lb ed="#B1" n="14"/>Omne tulit: id est, Poëta qui in libro suo approbationem &amp; favorem  
+          <lb ed="#B1" n="15"/>habuit omnium Romanorum. Populus enim Romanus in quinque or<lb ed="#B1" n="16"/>dines 
+          erat distinctus. Erant enim patres conscripti, senatores, ordinarii, equi<lb ed="#B1" n="17"/>tes, 
+          plebs. Si ergo Poëta quicunque opus nobile edidisset, coram populo  
+          <lb ed="#B1" n="18"/>publice legebatur: si generaliter placuit, unusquisque ordo unum punctum 
+          <lb ed="#B1" n="19"/>apposuit in fine scripti, &amp; tunc carmen illud deinceps autenticum habeba<lb ed="#B1" n="20"/>tur: 
+          &amp; ideo docet Horatius quod qui uult opus suum omnibus placere,  
+          <lb ed="#B1" n="21"/>uideat quod opus suum habeat illa duo: scilicet quod sit delectabile &amp; uti  
+          <lb ed="#B1" n="22"/>se, quia: omne tulit punctum qui miscuit vtile dulci. Hoc autem maxi<lb ed="#B1" n="23"/>me 
+          facit Sacra scriptura. Vnde <ref xml:id="rhwis-l1-Rd1e649"><name>Augustinus</name> de uera innocentia, capite sexa<lb ed="#B1" n="24"/>gesimosexto</ref>: 
+          Bonae (inquit) in Scripturis sanctis mysteriorum prosundita<lb ed="#B1" n="25"/>tes, 
+          quae ob hoc teguntur, ne uilescant: ob hoc quaeruntur ut exerceant: ob  
+          <lb ed="#B1" n="26"/>hoc aperiuntur, ut pateant. Est igitur haec Sacra scriptura petra mellosa ad  
+          <lb ed="#B1" n="27"/>cibandum.
+        </p>
+        <p xml:id="rhwis-l1-d1e495">
+          <lb ed="#B1" n="28"/>Tertio Sacra scriptura est petra olei perforata ad lenimentum poeniten<lb ed="#B1" n="29"/>tium, 
+          de qua <ref xml:id="rhwis-l1-Rd1e670">Iob. 29</ref>. <quote xml:id="rhwis-l1-Qd1e673" source="http://scta.info/resource/iob29_6">Petra fundebat mihi riuos olei</quote>. Perforatur autem per acu<lb ed="#B1" n="30"/>tas 
+          &amp; subtiles expositones, ut anima deuota intrinsecus introgressa in CHRI<lb ed="#B1" n="31"/>STI 
+          amplexibus delectetur cum sponsa: de qua <ref xml:id="rhwis-l1-Rd1e681">Canti. 2.</ref> <quote xml:id="rhwis-l1-Qd1e684" ana="#http://scta.info/resource/cant2_14">Columba mea in fo<lb ed="#B1" n="32"/>raminibus 
+          petrae</quote>: haec sunt foramina domunculae siue casae, in quibus iuxta co<lb ed="#B1" n="33"/>gnominis 
+          mei consensum conuersari debeo. Sicut enim nomen a robo  
+          <lb ed="#B1" n="34"/>re deriuatum: ita cognomen habeo a foramine casae datum: &amp; ideo sicut  
+          <lb ed="#B1" n="35"/>nomen meum Robertus in robore, ita Holkot cognomen intueor in fora 
+          <lb ed="#B1" n="36"/>mine petrae. Igitur Sacrae scripturae foramen ingressus rogabo cum Moyse, 
+          <lb ed="#B1" n="37"/><ref xml:id="rhwis-l1-Rd1e699">Exod. 33.</ref> <quote xml:id="rhwis-l1-Qd1e702" source="http://scta.info/resource/ex33_18">Domine ostende mihi gloriam tuam</quote>, &amp; ipse dignabitur mihi re<lb ed="#B1" n="38"/>spodere: 
+          <quote xml:id="rhwis-l1-Qd1e707" source="http://scta.info/resource/ex33_17">Tu inuenisti gratiam coram me</quote>, &amp; <quote xml:id="rhwis-l1-Qd1e711" source="http://scta.info/resource/ex33_17">temetipsum novi ex nomine</quote>, <quote xml:id="rhwis-l1-Qd1e714" source="http://scta.info/resource/ex33_19">ego 
+          <lb ed="#B1" n="39"/>ostendam omne bonum tibi</quote>. <quote xml:id="rhwis-l1-Qd1e719" source="http://scta.info/resource/ex33_21">Ecce est locus apud me, &amp; stabilis supra pe<lb ed="#B1" n="40"/>tram</quote>: 
+          <quote xml:id="rhwis-l1-Qd1e724" source="http://scta.info/resource/ex33_22">Cumque transibit gloria mea, ponam te in foramine petrae, &amp; protegam  
+          <lb ed="#B1" n="41"/>te dextera mea</quote>.
+        </p>
+        <p xml:id="rhwis-l1-d1e528">
+          <lb ed="#B1" n="42"/>Quarto Sacra scriptura est petra scandali destinata ad detrimentum dis  
+          <lb ed="#B1" n="43"/>credentium, de qua 1. Pet. 2. <quote xml:id="rhwis-l1-Qd1e736" source="http://scta.info/resource/Ipetr2_7 http://scta.info/resource/Ipetr2_8">Non credentibus autem lapis quem repro<lb ed="#B1" n="44"/>bauerunt 
+          aedificantes, hic factus est in caput anguli, &amp; lapis offensionis 
+          <lb ed="#B1" n="45"/>&amp; petra scandali his, qui offendunt uerbo, nec credunt, in quo &amp; posi<lb ed="#B1" n="46"/>ti 
+          sunt</quote>.
+        </p>
+        <p xml:id="rhwis-l1-d1e542">
+          <lb ed="#B1" n="47"/>Tertium, quod Sacram scripturam principaliter commendat, est complemen<lb ed="#B1" n="48"/>tum 
+          potestatis quo ad formam relucentem, quia robur. Robur namque scientia<lb ed="#B1" n="49"/>rum 
+          secularium non excedit potestatem rationis humanae, sed certe robur sa<lb ed="#B1" n="50"/>cratisaimae 
+          Theologiae est primae ueritatis autoritas, quae cuiuslibet ingenii<lb ed="#B1" n="51"/>um 
+          excedit: &amp; ideo haec unumquemque Theologum consolatur, &amp; admonet  
+          <pb ed="#B1" n="5"/>
+          <lb ed="#B1" n="1"/>dicens illud <ref xml:id="rhwis-l1-Rd1e764">Deut. 34.</ref> <quote xml:id="rhwis-l1-Qd1e767" source="http://scta.info/resource/deut31_7 http://scta.info/resource/deut31_23">Confortare &amp; esto robustus</quote>, quasi diceret: Esto robu<lb ed="#B1" n="2"/>stus 
+          ad expugnandum, ad supportandum, ad alleuandum &amp; tolerandum, 
+          <lb ed="#B1" n="3"/>Ad expugnandum errores &amp; uitia: &amp; supportandum honores &amp; officia:  
+          <lb ed="#B1" n="4"/>Ad alleuandum dolores &amp; supplicia: ad tolerandos terrores pro iusticia.
+        </p>
+        <p xml:id="rhwis-l1-d1e566">
+          <lb ed="#B1" n="5"/>Primo tenetur doctor catholicus realiter esse robustus ad expugnandum 
+          <lb ed="#B1" n="6"/>errores &amp; uitia iuxta zelum sanctorum patrum, qui nos in Ecclesia praecesse<lb ed="#B1" n="7"/>runt, 
+          talis fuit Helias, sicut <ref xml:id="rhwis-l1-Rd1e786">4. Reg</ref>. patet, qui robustus dominator inter<lb ed="#B1" n="8"/>pretatur. 
+          Talis fuit Dauid sicut <ref xml:id="rhwis-l1-Rd1e792">2. Reg.</ref> patet, qui manu fortis interpreta<lb ed="#B1" n="9"/>tur. 
+          Talis fuit Boos, de quo <ref xml:id="rhwis-l1-Rd1e797">Ruth. 4</ref>: qui similiter interpretatur robustus. Ta<lb ed="#B1" n="10"/>lis 
+          fuit Oza qui arcam declinantem manu voluit erexisse, <ref xml:id="rhwis-l1-Rd1e802">2. Reg. 6.</ref> qui simi<lb ed="#B1" n="11"/>liter 
+          interpretatur robustus. Et multi alii de quibus verificatur illud <ref xml:id="rhwis-l1-Rd1e808">Iudi. 2</ref>: 
+          <lb ed="#B1" n="12"/><quote xml:id="rhwis-l1-Qd1e812" source="http://scta.info/resource/iud20_44">Omnes robustissimi pugnatores</quote>.
+        </p>
+        <p xml:id="rhwis-l1-d1e586">
+          Secundo tenetur esse robustus ad sup<lb ed="#B1" n="13"/>portandum 
+          honores &amp; officia, ut sit quasi columna ad supportandum ec<lb ed="#B1" n="14"/>clesiam 
+          militantem. In cuius figuram Salomon in porticu templi DEI duas 
+          <lb ed="#B1" n="15"/>columnas collocauit, quarum unam uocauit lachim, quod est firmitas, &amp; 
+          <lb ed="#B1" n="16"/>alteram Boos, quod sonat robur uel in robore, <ref xml:id="rhwis-l1-Rd1e826">3. Reg. v.</ref> Porticus tem<lb ed="#B1" n="17"/>pli 
+          DEI id est, coeli est Ecclesia militans, cuius gloria creatur &amp; crescit si 
+          <lb ed="#B1" n="18"/>eius honores &amp; onera deferantur sapientibus &amp; robustis iuxta illud <ref xml:id="rhwis-l1-Rd1e834">Pro<lb ed="#B1" n="19"/>uerb. 
+          11</ref>, <quote xml:id="rhwis-l1-Qd1e839" source="http://scta.info/resource/prov11_16">mulier gratiosa</quote>: id est, militans Ecclesia inuenit gloriam &amp; robu<lb ed="#B1" n="20"/>sti 
+          habebunt diuitias: quia sicut scribitur <ref xml:id="rhwis-l1-Rd1e844">Proverb. 24.</ref> <quote xml:id="rhwis-l1-Qd1e848" source="http://scta.info/resource/prov24_5">Vir sapiens fortis &amp; 
+          <lb ed="#B1" n="21"/>uir doctus robustus &amp; ualidus</quote>.
+        </p>
+        <p xml:id="rhwis-l1-d1e608">
+          Tertio tenetur doctor catholicus esse ro<lb ed="#B1" n="22"/>bustus 
+          ad alleuandum dolores &amp; supplicia, quae interdum iniuste innocen<lb ed="#B1" n="23"/>tibus 
+          inferuntur: iuxta illud <ref xml:id="rhwis-l1-Rd1e860">Esa. 35.</ref> <quote xml:id="rhwis-l1-Qd1e863" source="http://scta.info/resource/is35_3">Confortate manus dissolutas &amp; genua 
+          <lb ed="#B1" n="24"/>debilia roborate</quote>: ut sibi merito dici possit illud Iob. 4. <quote xml:id="rhwis-l1-Qd1e868" source="http://scta.info/resource/">Ecce docuisti pluri<lb ed="#B1" n="25"/>mos 
+          &amp; manus lassas roborasti: uacillantes confirmauerunt sermones tui, &amp; 
+          <lb ed="#B1" n="26"/>genua debilia confortasti</quote>.
+        </p>
+        <p xml:id="rhwis-l1-d1e621">
+          Quarto tenetur theologus esse robustus ad to<lb ed="#B1" n="27"/>ierandum 
+          terrores pro iusticia &amp; veritate sanae doctrinae: quia secundum 
+          <lb ed="#B1" n="28"/><ref xml:id="rhwis-l1-Rd1e881">Gregorium 26, moral cap. 29. exponens illud Iob. 36.</ref> pro robustis populi  
+          <lb ed="#B1" n="29"/>ascendant. Robusti sunt illi qui pro ueritate quam detinent, despici non ti<lb ed="#B1" n="30"/>mescunt: 
+          robusti sunt illi qui ad uincendum huiusmodi desideria conuale<lb ed="#B1" n="31"/>scunt: 
+          sed pro robustis populi tunc ascendunt si per negligentiam agitur, ut 
+          <lb ed="#B1" n="32"/>doctorum &amp; fortium loca indocti ac debiles sortiantur: haec Greg. De tali<lb ed="#B1" n="33"/>bus 
+          nanque verificatur illud <ref xml:id="rhwis-l1-Rd1e895">Hiere. lib. 51.</ref> Deuoratum est robur eorum, fa<lb ed="#B1" n="34"/>cti 
+          sunt quasi mulieres: Non sic uiri theologi, quibus pro ueritate defenden 
+          <lb ed="#B1" n="35"/>da districte dicitur, Iosua 10. <quote xml:id="rhwis-l1-Qd1e902" source="http://scta.info/resource/ios10_25">Nolite timere, nec paueatis, confortamini &amp;  
+          <lb ed="#B1" n="36"/>estote robusti</quote>. Quartum &amp; ultimum quod Sacram scripturam extollit, est 
+          <lb ed="#B1" n="37"/>emolimentum proprietatis, quo ad finem consequentem, quod notatur cum 
+          <lb ed="#B1" n="38"/>dicitur: mea &amp; meum: cum enim sit scientiarum domina, sicut superius est 
+          <lb ed="#B1" n="39"/>probatum, iuste sibi conuenit pronominibus istis uti: lpsa enim est quae sin<lb ed="#B1" n="40"/>gulariter 
+          dicit Proverb. 8. <quote xml:id="rhwis-l1-Qd1e916" source="http://scta.info/resource/prov8_14">Meum est consilium, &amp; mea est aequitas: mea est 
+          <lb ed="#B1" n="41"/>prudentia, mea est fortitudo</quote>: ubi quatuor sibi appropriat uirtutes insignes. 
+          <lb ed="#B1" n="42"/>Consilium discernendo, aequitatem exaequendo, prudentiam in praecauen<lb ed="#B1" n="43"/>dis, 
+          &amp; fortitudinem in sustinendis. Vt autem per studium Sacrae scripturae has 
+          <lb ed="#B1" n="44"/>uirtutes diuinitus consequamur: dicam iam in fine lectionis illud, quod  
+          <lb ed="#B1" n="45"/>scribit <ref xml:id="rhwis-l1-Rd1e930">Cassiodorus lib. suo institutionum diuinarum literarum cap. ult.</ref> Prae<lb ed="#B1" n="46"/>sta 
+          Domine legentibus profectum, legem tuam quaerentibus remissionem 
+          <lb ed="#B1" n="47"/>omnium peccatorum, ut qui desiderio magno ad lumen scripturarum 
+          <lb ed="#B1" n="48"/>tuarum peruenire cupimus, nullis peccatis caligantibus obscuremur, &amp; tra<lb ed="#B1" n="49"/>he 
+          nos ad te uirtute omnipotentiae tuae, &amp; non relinquas sua voluntate ua 
+          <lb ed="#B1" n="50"/>gari, quos precioso sanguine redemisti. Quod nobis concedat, &amp;c
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
