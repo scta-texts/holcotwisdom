@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 1 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 1 [Basel Transcription]</title>
+          <date when="2019-09-20">September 20, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-09-20" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="6"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l2">
+        <head xml:id="rhwis-l2-Hd1e95">Lectio 2</head>
+        <p xml:id="rhwis-l2-d1e98">
+          <pb ed="#B1" n="6"/>
+          <lb ed="#B1" n="1"/>CIRCA librum istum, qui liber Sapientiae nuncupatur,  
+          <lb ed="#B1" n="2"/>sunt in principio tria notanda. Primum est de eius nomi<lb ed="#B1" n="3"/>ne: 
+          Secundum de eius autore: Tertium de eius fine. Cir<lb ed="#B1" n="4"/>ca 
+          nomen huius libri dico quod iste est titulus, Sapientia:  
+          <lb ed="#B1" n="5"/>&amp; est sciendum quod tripliciter accipitur a diuersis. Nam 
+          <lb ed="#B1" n="6"/>primo apud Peripatheticos dicitur, una uirtus intelle<lb ed="#B1" n="7"/>ctualis 
+          &amp; speculatiua inter omnes uirtutes intellectuales  
+          <lb ed="#B1" n="8"/>nobilissima: Et sic de ea tractat <ref xml:id="rhwis-l2-Rd1e119">Arist. 6. Ethicorum cap. 6</ref>: &amp; <ref xml:id="rhwis-l2-Rd1e122">1. Metaph cap.  
+          <lb ed="#B1" n="9"/>5</ref> ubi descriptionem sapientis inuestigat talem. Sapiens est qui scit omnia, 
+          <lb ed="#B1" n="10"/>&amp; difficilia propter certitudinem &amp; causam, ipsum scire propter se quaerens, 
+          <lb ed="#B1" n="11"/>&amp; animos ordinans &amp; persuadens: Etiam ibidem dicit quod sapiens debeat  
+          <lb ed="#B1" n="12"/>non solum scire per causam, sed etiam per altissimas causas: Hoc autem no<lb ed="#B1" n="13"/>men 
+          sapiens in Latino, <foreign>σοϕός</foreign> in Graeco interpretatur.
+        </p>
+        <p xml:id="rhwis-l2-d1e140">
+          Vnde antiqui<lb ed="#B1" n="14"/>tus 
+          ante tempora Pythagorae omnes qui se studio sapientiae manciparunt,  
+          <lb ed="#B1" n="15"/><foreign>σοϕοί</foreign> dicebantur. Tandem Pythagoras ille famosus qui tantae fuit autorita<lb ed="#B1" n="16"/>tis 
+          in populo, quod de eius sententia nulli licuit disputare, iudicans quod prae 
+          <lb ed="#B1" n="17"/>sumptuosum esset, sic uocari. <quote xml:id="rhwis-l2-Qd1e152" source="http://scta.info/resource/adcd-l8-d1e1115">Cum interrogaretur, quid se profiteretur: Non 
+          <lb ed="#B1" n="18"/>sapientem, sed philosophum: id est, amatorem sapientiae se uocauit, eo quod se 
+          <lb ed="#B1" n="19"/>sapientem profiteri arroganuissimum uidebatur</quote>: sicut dicit <ref xml:id="rhwis-l2-Rd1e160">August. 8. de ciu. 
+          <lb ed="#B1" n="20"/>DEI cap. 2.</ref> Ex quo patet quod autor huius libri philosophus dici potest.
+        </p>
+        <p xml:id="rhwis-l2-d1e166">
+          <lb ed="#B1" n="21"/>Secundo apud theologos accipitur sapientia pro dono supernaturali  
+          <lb ed="#B1" n="22"/>siue infuso, per quod homo noticiam habet diuinorum &amp; humanorum, 
+          <lb ed="#B1" n="23"/>uel ex inspiratione speciali, uel ex quadam uicinitate gratiosa ad DEVM, 
+          <lb ed="#B1" n="24"/>sicut dicit <ref xml:id="rhwis-l2-Rd1e176">Dyoni. cap. 5. de diuinis nominibus</ref>: Quod Hierotheus pa<lb ed="#B1" n="25"/>tiendo 
+          diuina didicit. Sicut autem sapientia adquisita, quae uocatur natu<lb ed="#B1" n="26"/>ralis, 
+          perfectior est scientia, &amp; intellectum etiam principiorum comprehendit,  
+          <lb ed="#B1" n="27"/>sicut patet <ref xml:id="rhwis-l2-Rd1e186">6. Ethicorum</ref>: quia haec sola contra negantes principia arguit, sicut <ref xml:id="rhwis-l2-Rd1e189">4 
+          <lb ed="#B1" n="28"/>Meth.</ref> dicitur Ita hoc donum fidem praesupponit &amp; defendit: de hac sapientia dici<lb ed="#B1" n="29"/>tur 
+          <ref xml:id="rhwis-l2-Rd1e190">Esa. 12</ref>. <quote xml:id="rhwis-l2-Qd1e194" source="http://scta.info/resource/is11_2">Requiescet super eum spiritus Domini, spiritus sapientiae</quote>.
+        </p>
+        <p xml:id="rhwis-l2-d1e198">
+          <lb ed="#B1" n="30"/>Tertio modo accipitur sapientia apud Stoicos &amp; morales philosophos, si<lb ed="#B1" n="31"/>cut 
+          fuerunt Socrates, Seneca &amp; Boëtius, qui nihil aliud vocant sapientiam quam col  
+          <lb ed="#B1" n="32"/>lectionem uirtutum intellectualium &amp; moralium, &amp; illo modo sapiens est idem quod  
+          <lb ed="#B1" n="33"/>perfecte uirtuosus. Vnde de sapiente sic accepto dicit Seneca in libro quodam, 
+          <lb ed="#B1" n="34"/>qui intitulatur de traquillitate animi. Quod in sapientem non cadit iniuria: in quo 
+          <lb ed="#B1" n="35"/>libro probat, quod sapiens non potest offendi, &amp; quod sapientis animus sem 
+          <lb ed="#B1" n="36"/>per est in tranquillitate, &amp; quod cor sapientis est sicut adamas, &amp; multa talia, 
+          <lb ed="#B1" n="37"/>de quibus alias erit sermo. Sic etiam loquitur <ref xml:id="rhwis-l2-Rd1e217">Lactantius lib. 4</ref>. Virtus cum scientia 
+          <lb ed="#B1" n="38"/>coniuncta, est sapientia. Naturam enim hominis DEUS hanc esse uoluit, ut  
+          <lb ed="#B1" n="39"/>duarum rerum cupidus &amp; appetens esset: sapientiae scilicet &amp; religionis,
+          <pb ed="#U" n="7"/>
+          <lb ed="#B1" n="1"/>&amp; homines ideo fallantur: quia aut religionem suscipiunt omissa sapientia, 
+          <lb ed="#B1" n="2"/>aut sapientiae soli student religionis cura omissa, cum alterum sine altero esse  
+          <lb ed="#B1" n="3"/>non possit. Et sic mihi uidetur quod accipit sapientiam autor huius libri: 
+          <lb ed="#B1" n="4"/>cuius ratio est: quia nomen libri communiter accipitur a materia, de qua tra<lb ed="#B1" n="5"/>ctatur. 
+          Nam in hoc libro non tractatur praecipue nec principaliter de aliqua 
+          <lb ed="#B1" n="6"/>uirtute intellectuali vel morali, sed de omni uirtute. Et ideo nomen sapien<lb ed="#B1" n="7"/>tiae 
+          non hic ponitur pro dono supernaturali: nec pro uirtute intellectuali,  
+          <lb ed="#B1" n="8"/>sed pro summa uirtutum totali. Quod autem dicit Hieron. in Prologo quod 
+          <lb ed="#B1" n="9"/>proinde liber Sapientiae nominatur: quia in eo CHRISTI aduentus &amp; eius 
+          <lb ed="#B1" n="10"/>passio euidenter exprimitur, quae est sapientia DEI Patris, uidetur esse quae<lb ed="#B1" n="11"/>dam 
+          aptatio modalis uel congruentia: magis quam denominatio literalis.
+        </p>
+        <p xml:id="rhwis-l2-d1e252">
+          <lb ed="#B1" n="12"/>Secundo sciendum de huius libri autore: sunt enim apud sanctos uariae  
+          <lb ed="#B1" n="13"/>opiniones, quis autor fuerit huius libri: uidetur enim Hieronym. dicere,  
+          <lb ed="#B1" n="14"/>quod Philo quidam ludaeus in lingua Graeca disertissimus librum istum, 
+          <lb ed="#B1" n="15"/>qui Sapientia inscribitur, ex multis sententijs editis a Salomone, compilauit.  
+          <lb ed="#B1" n="16"/>Vnde Philonis hunc librum dicit esse non Salomonis, nec haberi apud He<lb ed="#B1" n="17"/>braeos 
+          nec inter Scripturas sacras computari debere. Sed contra istam sen<lb ed="#B1" n="18"/>tentiam 
+          sunt euidentia argumenta. Primo quod in <ref xml:id="rhwis-l2-Rd1e269">4 lib. Eccles. histor.</ref> dici<lb ed="#B1" n="19"/>tur 
+          sic. Egesippus &amp; Irenaeus omnium antiquorum * Chorus, librum, qui in 
+          <lb ed="#B1" n="20"/>titulatur Sapientia, Salomonis esse dixerunt.
+        </p>
+        <p xml:id="rhwis-l2-d1e283">
+          Item <ref xml:id="rhwis-l2-Rd1e276">Matth. 27. glos</ref>. praedictum 
+          <lb ed="#B1" n="21"/>erat in libro Sapientiae: Morte turpissima condemnemus eum. Ergo ante 
+          <lb ed="#B1" n="22"/>passionem CHRISTI fuit liber editus. Non ergo a Philone qui floruit tem 
+          <lb ed="#B1" n="23"/>pore Apostolorum.
+        </p>
+        <p xml:id="rhwis-l2-d1e295">
+          Item libri Philonis eiusdem in Ecclesiasticis historijs nu<lb ed="#B1" n="24"/>merantur, 
+          ubi non ponitur liber iste. Item infra cap. 9. dicitur sic: Tu elegisti 
+          <lb ed="#B1" n="25"/>me regem populo tuo, &amp; iudicem filiorum tuorum: quod Philoni non  
+          <lb ed="#B1" n="26"/>conuenit, qui fuit iudex Alexandrinus in Aegypto, secundum Hieron. lib. de 
+          <lb ed="#B1" n="27"/>Hebraicis nominibus.
+        </p>
+        <p xml:id="rhwis-l2-d1e306">
+          Item <ref xml:id="rhwis-l2-Rd1e295">Ambrosius lib. super tres quaestiones Salomonis</ref>  
+          <lb ed="#B1" n="28"/>dicit: Sapientissimus omnium hominum Salomon propheta tria proposuit  
+          <lb ed="#B1" n="29"/>impossibilia. Et infra sic ipse in libro Sapientiae suae se dominum omnipoten 
+          <lb ed="#B1" n="30"/>tem deprecatum fuisse commemorat, dicens: Da mihi Domine sedium tua 
+          <lb ed="#B1" n="31"/>rum assistricem sapientiam. Ergo uult, quod Salomon sit autor huius libri
+        </p>
+        <p xml:id="rhwis-l2-d1e307">
+          <lb ed="#B1" n="32"/>Item beatus Augustinus fuit aliquando istius opinionis, quod Iesus filius 
+          <lb ed="#B1" n="33"/>Syrach fecerit librum Sapientiae, sicut &amp; Ecclesiasticum, Dicit namque sic: Illi  
+          <lb ed="#B1" n="34"/>duo libri, unus qui Sapientia: alius qui Ecclesiasticus inscribitur, de quadam  
+          <lb ed="#B1" n="35"/>similitudine Salomonis esse dicuntur. Nam Iesus filius Syrach eos con 
+          <lb ed="#B1" n="36"/>scripsisse constantissime perhibetur. Hanc autem sententiam retractauit <ref xml:id="rhwis-l2-Rd1e320">Au<lb ed="#B1" n="37"/>gustinus 
+          2. lib. Retractationum cap. quarto</ref>, sub his uerbis: De autore libri 
+          <lb ed="#B1" n="38"/>quamplures uocant Sapientiam Salomonis, quod &amp; ipsum sic Ecclesiasti 
+          <lb ed="#B1" n="39"/>cum Iesus filius Syrach scripsit, nec ita constare sicut a me dictum est, po<lb ed="#B1" n="40"/>stea 
+          didici. Et ideo probabilius comperi non esse hunc eius autorem. Ex qui<lb ed="#B1" n="41"/>bus 
+          uidetur quod beatus Augustinus dubitauerit, quis fuerit autor huius  
+          <lb ed="#B1" n="42"/>libri, uel quod senserit, Salomonem fuisse huius autorem.
+        </p>
+        <p xml:id="rhwis-l2-d1e349">
+          <lb ed="#B1" n="43"/>Item feria quarta in hebdomada Penthecoste legitur in missa: Dixit 
+          <lb ed="#B1" n="44"/>Salomon filijs Israel: Diligite iusticiam qui iudicatis terram. Constat 
+          <lb ed="#B1" n="45"/>quod Ecclesia nec dubium nec falsum asserere uult in missa. Propter 
+          <lb ed="#B1" n="46"/>istas septem rationes tenendas apparet, quod Salomon fuit autor istius 
+          <lb ed="#B1" n="47"/>libri principalis. Possibile est autem quod ludaeus ille Philo qui multum  
+          <lb ed="#B1" n="48"/>fuit peritus in lingua Graeca, librum Salomonis uel libri sententias, quomodo  
+          <lb ed="#B1" n="49"/>cunque contentas in Graeco ediderit, &amp; quod de Graeco translatus sit liber suus 
+          <lb ed="#B1" n="50"/>in Latinum, &amp; pro tanto ipsius autor dicatur. Quantum autem ad Hieron.
+          <pb ed="#U" n="8"/>
+          <lb ed="#B1" n="1"/>Verum est quod non asserit librum istum Philonis fuisse, sed dicit quod Iu 
+          <lb ed="#B1" n="2"/>daei librum istum cuiusdam Philonis fuisse affirmant. Vnde Rabanus in 
+          <lb ed="#B1" n="3"/>glos. super principium istius libri: Male hoc imponitur Hieron. quia Hiero  
+          <lb ed="#B1" n="4"/>nymus non asserit, sed recitatiue scribit. Quod autem inter Sacras scripturas 
+          <lb ed="#B1" n="5"/>debeat numerari, expresse dicit <ref xml:id="rhwis-l2-Rd1e368">August. de doctrina Christiana</ref>, ubi prius 
+          <lb ed="#B1" n="6"/>omnes libros Canonis &amp; Bibliae consequenter enumerans, de Sapientia, &amp; 
+          <lb ed="#B1" n="7"/>Ecclesiast. sic dicit: <quote xml:id="rhwis-l2-Qd1e376" source="http://scta.info/resource/addc-l2-d1e214">Qui quoniam in autoritatem recipi meruerunt, inter 
+          <lb ed="#B1" n="8"/>prophetieos enim enumerandi sunt</quote>. Ex istis patet quod iste liber inter scri<lb ed="#B1" n="9"/>pturas 
+          canonicas apud Ecclesiam computatur. Et quod eius autor Salo 
+          <lb ed="#B1" n="10"/>mon fuisse dicendus est. Licet a Iudaeis oppositum sentiatur. Vnde <ref xml:id="rhwis-l2-Rd1e385">Dama<lb ed="#B1" n="11"/>scenus 
+            4. lib. sententiarum suarum cap. 9</ref>. ubi libros Sacrae scripturae enumerat,  
+          <lb ed="#B1" n="12"/>dicit sic: Apocriphi, hoc est, liber Sapientiae Salomonis, &amp; sapientia IESV: 
+          <lb ed="#B1" n="13"/>id est, Ecclesiasticus uirtuosi quidem &amp; boni, licet non numerentur, neque ta<lb ed="#B1" n="14"/>men 
+          iacebunt in arca. Haec ille: &amp; ideo licet apud Iudaeos non numerantur,  
+          <lb ed="#B1" n="15"/>apud fideles tamen magnae autoritatis habentur.
+        </p>
+        <p xml:id="rhwis-l2-d1e400">
+          <lb ed="#B1" n="16"/>Patet ergo primo de huius libri nomine. Secundo de huius libri autore.  
+          <lb ed="#B1" n="17"/>Tertio restat uidere de huius libri fine. Vbi sciendum quod finis Sapientiae, quae 
+          <lb ed="#B1" n="18"/>in hoc libro tractatur, est, hominem disponere, &amp; dignificare specialiter, quo 
+          <lb ed="#B1" n="19"/>ad tria. Primo ad gubernandum ciuilem communitatem. Principium enim 
+          <lb ed="#B1" n="20"/>leges condendi, &amp; humanam politiam statuendi fuit sapientia, per eloquen<lb ed="#B1" n="21"/>tiam 
+          ordinata, sicut narrat <ref xml:id="rhwis-l2-Rd1e415">Tullius in prologo Rhetoricae, in 1. lib. de Inuen<lb ed="#B1" n="22"/>tione</ref> 
+          ita dicens: Fuit quondam tempus cum in agris homines passim be<lb ed="#B1" n="23"/>stiarum 
+          more uagabantur, sibi &amp; uictu ferino uitam propagabant: nec ra<lb ed="#B1" n="24"/>tione 
+          animi quicquam, sed pleraqe uiribus corporis administrabant, nedum 
+          <lb ed="#B1" n="25"/>diuinae religionis, non humani officij ratio colebatur. Nemo nuptias legiti<lb ed="#B1" n="26"/>mas 
+          uiderat, non certos quisquam conspexerat liberos, non ius aequale quid  
+          <lb ed="#B1" n="27"/>utilitatis haberet acceperat. Ita propter errorem atque inscitiam caeca atque te<lb ed="#B1" n="28"/>meraria 
+          dominatrix cupiditas ad se explenda, uiribus corporis abutebatur  
+          <lb ed="#B1" n="29"/>perniciosissimis satellitibus. Quo tempore, inquit Tullius, uir quidam ma<lb ed="#B1" n="30"/>gnius 
+          &amp; sapiens cognouit quae materia esset &amp; quanta opportunitas ad ma<lb ed="#B1" n="31"/>ximas 
+          res animis inesset hominum: si quis eam posset elicere &amp; praecipien<lb ed="#B1" n="32"/>do 
+          meliorem reddere, qui dispersos homines in agros &amp; in terris syluestri<lb ed="#B1" n="33"/>bus 
+          abditos, ratione quandam compulit, ad unum locum congregauit, &amp; e<lb ed="#B1" n="34"/>os 
+          in unamquamque rem reducens utilem &amp; honestam: Primum propter inso<lb ed="#B1" n="35"/>lentiam 
+          reclamantes: deinde propter rationum &amp; orationum studiosum au<lb ed="#B1" n="36"/>ditum 
+          ex feris &amp; immanibus mites reddidit &amp; mansuetos: &amp; hoc quidem  
+          <lb ed="#B1" n="37"/>non tacita uidetur nec inops dicendi sapientia perficere potuisse: haec ille
+        </p>
+        <p xml:id="rhwis-l2-d1e453">
+          <lb ed="#B1" n="38"/>Hoc idem poëtae signare uolebant, qui fabulam de Orpheo fecerunt, qui  
+          <lb ed="#B1" n="39"/>tam subtilis extitit citharoedus, quod flumina stare, syluas recurrere coëgit, cer<lb ed="#B1" n="40"/>tiam 
+          coniunxit leoni, &amp; leporem cani, &amp; in infernalibus furijs cantauit pie<lb ed="#B1" n="41"/>tatem: 
+          sicut recitat <ref xml:id="rhwis-l2-Rd1e463">Boëtius 3 de consol.</ref> Orpheus in rei ueritate sapientes de 
+          <lb ed="#B1" n="42"/>signat, quorum est homines uitiosos &amp; a se inuicem per passiones uarias 
+          <lb ed="#B1" n="43"/>discordantes in unam ciuilitatem recolligere, &amp; eos per leges &amp; rationes sa<lb ed="#B1" n="44"/>pientiae 
+          castigare, propter quod significanter dicitur Sapientiae 6. <quote xml:id="rhwis-l2-Qd1e487" source="http://scta.info/resource/sap6_22">Si dele<lb ed="#B1" n="45"/>ctamini 
+          in sedibus &amp; sceptris o reges, populi, diligite sapientiam ut in per 
+          <lb ed="#B1" n="46"/>petuum regnetis</quote>. versus: 
+          <lb ed="#B1" n="47"/>Regna beata forent si vel contingeret esse. 
+        </p>
+        <p xml:id="rhwis-l2-d1e480">
+          <lb ed="#B1" n="48"/>Philosophos reges, uel reges philosophari. <quote xml:id="rhwis-l2-Qd1e501">Boëtius in de consol. lib. 1. 
+          <lb ed="#B1" n="49"/>Psalm. 4</quote>. At qui tu hanc sententiam Platonis ore sanxisti. Beatas fore respu<lb ed="#B1" n="50"/>blicas 
+          si eas uel studiosi sapientiae regerent, uel earum rectores studere sapi<pb ed="#U" n="9"/><lb ed="#B1" n="1"/>entiae 
+          contigisset, tu eiusdem uiri ore hanc sapientibus capescendi Rei<lb ed="#B1" n="2"/>publicae 
+          causam esse necessariam monuisti ne improbis flagitosis<lb ed="#B1" n="3"/>que 
+          ciuibus urbium relicta gubernacula: pestem bonis ac perniciem fer<lb ed="#B1" n="4"/>rent.
+        </p>
+        <p xml:id="rhwis-l2-d1e500">
+          <lb ed="#B1" n="5"/>Secundo conuenit huic scientiae hominem disponere ac dignificare ad expu<lb ed="#B1" n="6"/>gnandum 
+          hostilem aduersitatem, Ecclesiastic. 9. <quote xml:id="rhwis-l2-Qd1e506" source="http://scta.info/resource/qoh9_14 http://scta.info/resource/qoh9_15">Ciuitas parua &amp; pauci in ea 
+          <lb ed="#B1" n="7"/>uiri, uenit contra eam rex magnus, &amp; uallauit eam, extruxitque munitiones  
+          <lb ed="#B1" n="8"/>per gyrum, &amp; facta est obsidio. Inuentus est in ea uir sapiens &amp; pauper &amp; libe  
+          <lb ed="#B1" n="9"/>rauit ciuitatem per sapientiam suam</quote>. Et quia <quote xml:id="rhwis-l2-Qd1e515" source="http://scta.info/resource/iob12_12">in antiquis est sapientia</quote>, Iob. 
+          <lb ed="#B1" n="10"/>duodecimo: &amp; <quote xml:id="rhwis-l2-Qd1e521" source="http://scta.info/resource/iob32_7">annorum multitudo docet sapientiam</quote>, Iob. 32. Ideo Ale<lb ed="#B1" n="11"/>xander 
+          Magnus nullum in exercitu suo ducem habuit, nisi sexagenarium: ut  
+          <lb ed="#B1" n="12"/>magis senatores quam milites uiderentur. Sciuit enim quod quantumcunque  
+          <lb ed="#B1" n="13"/>homo sit fortis uiribus &amp; honestus corpore: si sapientia careat, nihil ualet pro 
+          <lb ed="#B1" n="14"/>rege uel duce. Vnde secundum Aristotelem, Sapientis est regere &amp; ordinaret 
+          <lb ed="#B1" n="15"/>sed fortium est obseruare &amp; ministrare. Et hoc est quod dicitur <ref xml:id="rhwis-l2-Rd1e554">Sapien<lb ed="#B1" n="16"/>tiae 
+          6</ref>. <quote xml:id="rhwis-l2-Qd1e537" source="http://scta.info/resource/sap6_1">Melior est sapientia quam uires, &amp; uir prudens magis quam uir 
+          <lb ed="#B1" n="17"/>fortis</quote>
+        </p>
+        <p xml:id="rhwis-l2-d1e544">
+          <lb ed="#B1" n="18"/>Tertio conuenit huic scientiae hominem disponere &amp; dignificare ad casti<lb ed="#B1" n="19"/>gandum 
+          puerilem, fatuitatem, Proverbior. 29. <quote xml:id="rhwis-l2-Qd1e550" source="http://scta.info/resource/prov29_15">Virga atque correctio tri<lb ed="#B1" n="20"/>buet 
+          sapientiam. Puer autem qui dimittitur uoluntati suae, confundet ma<lb ed="#B1" n="21"/>trem suam</quote>. 
+          Erimus igitur apti per notitiam huius libri ad gubernandum 
+          <lb ed="#B1" n="22"/>ciuilem communitatem, ad expugnandum hostilem aduersitatem, &amp; ad  
+          <lb ed="#B1" n="23"/>castigandum puerilem fatuitatem. Et ideo sicut scribitur Proverbior. octauo:  
+          <lb ed="#B1" n="24"/><quote xml:id="rhwis-l2-Qd1e584" source="http://scta.info/resource/prov8_33">Audite disciplinam &amp; estote sapientes &amp; nolite abijcere eam</quote>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

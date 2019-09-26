@@ -41,12 +41,12 @@
   <text xml:lang="la">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#R" n="147-r"/>
-        <cb ed="#R" n="a"/>
+        <pb ed="#B1" n="1"/>
       </div>
     </front>
     <body>
       <div xml:id="rhwis-l1">
+        <head xml:id="rhwis-l1-Hd1e95">Lectio 1</head>
         <p xml:id="rhwis-l1-d1e97">
           <pb ed="#B1" n="1"/>
           <lb ed="#B1" n="1"/><quote xml:id="rhwis-l1-Qd1e102" source="http://scta.info/resource/IIreg22_2">DOMINVS PETRA MEA ET 
