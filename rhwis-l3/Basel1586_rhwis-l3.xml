@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 3 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 3 [Basel Transcription]</title>
+          <date when="2019-09-28">September 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-09-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="9"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l3">
+        <p xml:id="rhwis-l3-d1e95">
+          <lb ed="#B1" n="25"/>CTVRVS de sapientia sapientissimus Salomon in hoc libro,  
+          <lb ed="#B1" n="26"/>ut ad eam auditores illiciat, sic procedit. Primo enim determi<lb ed="#B1" n="27"/>nat 
+          ipsius sapientiae nobilitatem &amp; commendationem: Secun<lb ed="#B1" n="28"/>do 
+          eius utilitatem &amp; operationem, capit. 9. Deus parrum 
+          <lb ed="#B1" n="29"/>nostrorum &amp; Domine misericordiae, &amp;c] Nam per sapientiam sa<lb ed="#B1" n="30"/>nati 
+          sunt quicunque placuerunt tibi Domine. Sequitur circa primum, pri<lb ed="#B1" n="31"/>mo 
+          ostendit quomodo homo possit sapientiam adquirere: Secundo quo 
+          <lb ed="#B1" n="32"/>modo adquisita possit hominem perficere, intra cap. sexto. Melior est sa<lb ed="#B1" n="33"/>pientia.] 
+          Circa primum, primo ostendit quod pro sapientia adquirenda 
+          <lb ed="#B1" n="34"/>oportet hominem iusticiam habere. Secundo excludit opinionem, iu<lb ed="#B1" n="35"/>sticiae 
+          &amp; sapientiae contrariam, capite secundo. Dixerunt impii. Circa pri<lb ed="#B1" n="36"/>primum 
+          duo facit. Primo proponit quod ad habendam sapientiam opor<lb ed="#B1" n="37"/>tet 
+          amare iusticiam. Secundo ostendit quod haec iusticia diuidit se trifa<lb ed="#B1" n="38"/>tiam. 
+          ibi: Sentite. Dicit ergo primo sic: Diligite iusticiam qui iudica<lb ed="#B1" n="39"/>tis 
+          terram.
+        </p>
+        <p xml:id="rhwis-l3-d1e130">
+          <lb ed="#B1" n="40"/>Notandum autem quod in generatione animalis natura non incipit 
+          <lb ed="#B1" n="41"/>a digito vel a pede, sed a corde, pulmone &amp; capite &amp; membris princi<lb ed="#B1" n="42"/>palibus: 
+          Sic huius libri autor, uolens informare corpus Ecclesiae in uirtu<lb ed="#B1" n="43"/>tibus 
+          moralibus incipit a dominis &amp; praelatis, quibus incumbit ordinate &amp; 
+          <lb ed="#B1" n="44"/>iudicare: Extendit enim se haec doctrina moralis generaliter ad omnes. 
+          <lb ed="#B1" n="45"/>Conversatione autem semper plebs Dominos imitatur, &amp; superiores.  
+          <pb ed="#B1" n="10"/><!--sap_Page_043.xml-->
+          <lb ed="#B1" n="1"/>Ideo Salomon afflatus Spiritu sancto in principio suae doctrinae aggreditur  
+          <lb ed="#B1" n="2"/>informare praelatos &amp; iudices: sciens quoniam si illi fuerit virtuosi: ho<lb ed="#B1" n="3"/>mines 
+          subiecti uitiosi esse non poterunt, Eccles. 10. <quote xml:id="rhwis-l3-Qd1e155" source="http://scta.info/resource/sir10_1 http://scta.info/resource/sir10_2">Iudex sapiens iudica<lb ed="#B1" n="4"/>bit 
+          populum suum &amp; principatus sensati stabilis erit: secundum iudicem  
+          <lb ed="#B1" n="5"/>populi, sic &amp; ministri eius: &amp; qualis rector ciuitatis, tales &amp; habitantes 
+          <lb ed="#B1" n="6"/>in ea</quote>.
+        </p>
+        <p xml:id="rhwis-l3-d1e165">
+          <lb ed="#B1" n="7"/>Notandum est secundo quod non est mirabile si populus suum princi<lb ed="#B1" n="8"/>pem 
+          imitetur. Corpora enim coelestia quae continentur sub primo mobili  
+          <lb ed="#B1" n="9"/>omnia, habent motum secundum motum illius. Habent tamen nihilomi<lb ed="#B1" n="10"/>nus 
+          suos motus proprios. Sit qualitercunque, oportet quod populi suo principi 
+          <lb ed="#B1" n="11"/>se conforment, iuxta illud Poëtae: 
+          <lb ed="#B1" n="12"/>Mobile mutatur semper cum principe vulgus.
+        </p>
+        <p xml:id="rhwis-l3-d1e181">
+          <lb ed="#B1" n="13"/>Cuius ratio est: quia principes se habent ad populos, sicut caput ad mem<lb ed="#B1" n="14"/>bra: 
+          quia ipsi sunt minorum capita, fontes &amp; exemplaria. Modo a capite 
+          <lb ed="#B1" n="15"/>corpus recipit regimen: Riuulus a fonte capit aquam, &amp; ab exemplari scri<lb ed="#B1" n="16"/>ptor 
+          accipit hoc quod scribit. Vnde si exemplare sit corruptum &amp; falsum, 
+          <lb ed="#B1" n="17"/>scriptor sufficienter excusatur, licet scripserit falsum librum. Et ideo solet 
+          <lb ed="#B1" n="18"/>medicus curare praecipue quod caput sit sanum: quia si caput infirmum, 
+          <lb ed="#B1" n="19"/>caetera membra dolent. Facientes artificialiter aquaeductus curant princi<lb ed="#B1" n="20"/>paliter 
+          quod fons sit clarus: Et stationarij solent esse solliciti ut exemplaria sint 
+          <lb ed="#B1" n="21"/>correcta, de quibus scriptoribus copia ministratur: Isto modo per omnia 
+          <lb ed="#B1" n="22"/>autor huius libri volens per totum corpus Ecclesiae uirtutes morales trans 
+          <lb ed="#B1" n="23"/>fundere, incipit a iudicibus, principibus, &amp; praelatis, dicens: Diligite iu<lb ed="#B1" n="24"/>sticiam.
+        </p>
+        <p xml:id="rhwis-l3-d1e210">
+          <lb ed="#B1" n="25"/>Notandum est tertio quod principaliter intentio Salomonis est docere sa<lb ed="#B1" n="26"/>pientiam. 
+          Medium autem ad adquirendum sapientiam est iusticia. Iuxta illud <ref xml:id="rhwis-l3-Rd1e216">Eccl. 
+          <lb ed="#B1" n="27"/>3</ref> <quote xml:id="rhwis-l3-Qd1e221" source="http://scta.info/resource/sir1_33">Fili concupiscens sapientiam serua iusticiam, &amp; Dominus praebebit tibi illam</quote>: 
+          <lb ed="#B1" n="28"/>propter quod pro medio tanquam necessario ad sapientiam, dicit, iudicibus 
+          <lb ed="#B1" n="29"/>principibus &amp; praelatis: Diligite iusticiam. Videmus enim quod illud quod 
+          <lb ed="#B1" n="30"/>est preciosum, charum uel amatum a principe, in ornatu, gestu uel uictu illud  
+          <lb ed="#B1" n="31"/>trahitur ad consequentiam a subditis, &amp; siue situtile siue inutile, saltem nobile 
+          <lb ed="#B1" n="32"/>negocium reputatur, effigiare principem in his, quae ab ipso diligi cognoscun<lb ed="#B1" n="33"/>tur. 
+          Vndesi iudices, domini &amp; praelati uellent amare iusticiam, non est du<lb ed="#B1" n="34"/>bium, 
+          quin eam subditi amarent. Nec mirum: qui enim potest de sacta re<lb ed="#B1" n="35"/>gis 
+          &amp; roba, de eodem uel consimili panno indui, bene habet materiam gau<lb ed="#B1" n="36"/>dij: 
+          Roba autem principis &amp; praelati iudicis debet esse iusticia secundum il<lb ed="#B1" n="37"/>lud 
+          Iob. uigesimonono: Iusticia indutus sum, &amp; uestiuit me sicut uestimento. 
+          <lb ed="#B1" n="38"/>Et in Psalmo centesimo trigesimo primo: Sacerdotes tui induantur iusti  
+          <lb ed="#B1" n="39"/>cia. Sed reuera tam sacerdotes quam alij scholares, &amp; laici nunquam si<lb ed="#B1" n="40"/>bi 
+          ita parauerunt indumenta, sicut modernis temporibus iam uidemus &amp;  
+          <lb ed="#B1" n="41"/>certe sicut est de ueste corporis, ita de uestitu mentis &amp; ideo necesse est de 
+          <lb ed="#B1" n="42"/>eis dicere: Diligite iusticiam. Vbi breuiter eos docet tria, videlicet qua<lb ed="#B1" n="43"/>liter 
+          sint affecti: diligite iusticiam, ad quid sint electi: quia ad iudicandum: &amp; 
+          <lb ed="#B1" n="44"/>qui sunt eis subiecti, quia terram: id est, homines terrenos &amp; terrenis deside<lb ed="#B1" n="45"/>rijs 
+          inhaerentes. Ad hoc quod homo sit iustus, non sufficit iusta facere, sed  
+          <lb ed="#B1" n="46"/>requiritur quod iuste faciat iusta: secundum Aristotelem secundo &amp; quinto  
+          <lb ed="#B1" n="47"/>Ethicorum. Vnde qui suspendit furem zelo uindictae propter grauamen per 
+          <lb ed="#B1" n="48"/>sonale, facit quidem iustum, sed non iuste: sed ad hoc quod homo sit iustus re<lb ed="#B1" n="49"/>quiritur, 
+          quod iusta faciat amore iusticiae. Et ideo dicit <ref xml:id="rhwis-l3-Rd1e272">Anshelmus de 
+          <lb ed="#B1" n="50"/>libero arbitrio cap. 3.</ref> quod iusticia est rectitudo uoluntatis propter se ser<lb ed="#B1" n="51"/>uata, 
+          &amp; <ref xml:id="rhwis-l3-Rd1e279">Deuteronom. 16.</ref> <quote xml:id="rhwis-l3-Qd1e283" source="http://scta.info/resource/deut16_20">Iuste quod iustum est exequere</quote>. Ex quibus patet  
+          <pb ed="#B1" n="11"/> <!--sap_Page_045 -->
+          <lb ed="#B1" n="1"/>quod quatuor genera hominum sunt, qui iusticiam quodammodo faci<lb ed="#B1" n="2"/>unt, 
+          &amp; tamen eam non diligunt, uidelicet: Appetatiui honoris &amp; reuerentiae: 
+          <lb ed="#B1" n="3"/>uindicatiui rancorum &amp; impatientiae: Lucratiui munerum: &amp; dissimulatiui  
+          <lb ed="#B1" n="4"/>scelerum.
+        </p>
+        <p xml:id="rhwis-l3-d1e301">
+          <lb ed="#B1" n="5"/>Sunt enim primo quidam qui licet iusticiam non diligant, uolunt tamen 
+          <lb ed="#B1" n="6"/>uideri iusti: arguunt delinquentes, uituperant uitia, docent uirtutes, puniunt  
+          <lb ed="#B1" n="7"/>sine misericordia: &amp; tamen cum omni intentionem corrupta. Quia non ob  
+          <lb ed="#B1" n="8"/>aliud nisi honorificentur ab hominibus &amp; uocentur iusticiae zelatores. Ta<lb ed="#B1" n="9"/>lis 
+          fuerunt Scribae &amp; Pharisaei, de quibus Matth. 5. Nisi abundauerit iu<lb ed="#B1" n="10"/>sticia 
+          uestra plus quam Scribarum &amp; Pharisaeorum, non intrabitis in re<lb ed="#B1" n="11"/>gnum 
+          coelorum.
+        </p>
+        <p xml:id="rhwis-l3-d1e319">
+          <lb ed="#B1" n="12"/>Secundo uindicatiui rancorum, &amp; impatientiae, praetendunt, se esse ama<lb ed="#B1" n="13"/>tores 
+          iusticiae &amp; non sunt: sicut enim iusticia uult uindicare delicta: sic &amp; ira 
+          <lb ed="#B1" n="14"/>Vnde iratus ante uindicta dolet, quasi patiens aliquod iniustum. Sed quan<lb ed="#B1" n="15"/>do punit, 
+          delectatur sicut dicitur, <ref xml:id="rhwis-l3-Rd1e329">Excechiel. 22: cap.</ref> Tales fuerunt illi duo se<lb ed="#B1" n="16"/>nes 
+          iudices, qui Susannam adiudicauerant morti: quia eorum libidinosum 
+          <lb ed="#B1" n="17"/>amorem contempsit: sicut dicitur <ref xml:id="rhwis-l3-Rd1e337">Daniel. 13.</ref> Inter enim passiones malas 
+          <lb ed="#B1" n="18"/>quae in iudice esse possunt, ira estuna de peioribus: nam ira impedit animum 
+          <lb ed="#B1" n="19"/>ne possit cernere uerum, sicut dicit Cato: Ira excogitat causas calumniandi, 
+          <lb ed="#B1" n="20"/>&amp; ubi culpa non subest, ira in poenis nescit modum tenere: Vnde <ref xml:id="rhwis-l3-Rd1e347">Seneca in 
+          <lb ed="#B1" n="21"/>lib. 1. de Ira ad Nouatum</ref>, de iudice quodam malo dicit, quod furore accen<lb ed="#B1" n="22"/>sus 
+          condemnauit ad mortem tres milites innocentes per hunc modum: V 
+          <lb ed="#B1" n="23"/>num iussit occidi: quia de uia redierat sine socio commilitone, imponens ei 
+          <lb ed="#B1" n="24"/>quod eum interfecerit, praecepitque statim cuidam militi astanti quod eum du<lb ed="#B1" n="25"/>ceret 
+          ad locum supplicij, ubi morte plecteretur: cum autem esset eductus, re<lb ed="#B1" n="26"/>dijt 
+          commilito sanus &amp; incolumis, pro quo alius morte plectendus duce<lb ed="#B1" n="27"/>batur. 
+          Videns autem hoc tertius miles, qui primum ducebatuersus suppli<lb ed="#B1" n="28"/>cium, 
+          redijt ad iudicem &amp; ambos coram illo milites praesentauit, quos ut ui<lb ed="#B1" n="29"/>dit 
+          tyrannus furore accensus iudicium dedit tale
+        </p>
+        <p xml:id="rhwis-l3-d1e370">
+          <lb ed="#B1" n="30"/>Primo dixit te iubeo occidi: quia iussus es occidere, &amp; imperatori non o<lb ed="#B1" n="31"/>bedisti: 
+          secundo te (inquit) iubeo interfici: quia damnatus es: &amp; tertio te  
+          <lb ed="#B1" n="32"/>inquit, similiter iubeo interfici: quia causa commilitoni damnationis  
+          <lb ed="#B1" n="33"/>fuisti. Et subdit Seneca ibidem: O quam solers est iracundia ad fin<lb ed="#B1" n="34"/>gendum 
+          causas furoris: tres enim ibi puniti sunt ob unius innocentiam. 
+          <lb ed="#B1" n="35"/>Excogitat iste quemadmodum faceret crimina cum nullum inueniret: ha<lb ed="#B1" n="36"/>bet 
+          enim iracundia hoc malum quod non uult regi. Nam ipsi ueritati irasci 
+          <lb ed="#B1" n="37"/>tursi contra uoluntatem eius aliquid faciet. Haec Seneca. Et ideo signanter 
+          <lb ed="#B1" n="38"/>dicitur <ref xml:id="rhwis-l3-Rd1e391">Iacob. 1.</ref> <quote xml:id="rhwis-l3-Qd1e394" source="http://scta.info/resource/iac1_19 http://scta.info/resource/iac1_20">Sit autem omnis homo uelox ad audiendum, tardus ad i<lb ed="#B1" n="39"/>ram. 
+          Ira enim viri iusticiam DEI non operatur</quote>.
+        </p>
+        <p xml:id="rhwis-l3-d1e400">
+          <lb ed="#B1" n="40"/>Tertio lucratiui munerum praetendunt se iusticiam diligere, sed men<lb ed="#B1" n="41"/>tiuntur 
+          omnino. Diligunt enim pecuniam &amp; propter pecuniam faciunt  
+          <lb ed="#B1" n="42"/>iusticiam. Isti non diligunt iusticiam nisi sicut ueneficus uenenum &amp; Iu<lb ed="#B1" n="43"/>das 
+          CHRISTVM ad uendendum: Isti enim sunt mercatores iusticiae &amp; non 
+          <lb ed="#B1" n="44"/>amatores. Et sicut mercator non curat cui uendat merces suas, nisi quod ille 
+          <lb ed="#B1" n="45"/>habeat qui plus offert de pecunia: ita tales iudicium suum uendunt indiffe<lb ed="#B1" n="46"/>renter 
+          iusto &amp; iniusto: dummodo ille potius habeat qui plus de pecunia eis  
+          <lb ed="#B1" n="47"/>donat. Quibus DEVS merito maledixit <ref xml:id="rhwis-l3-Rd1e419">Esa. 5.</ref> <quote xml:id="rhwis-l3-Qd1e422" source="http://scta.info/resource/is5_23">Vae qui iustificatis impium 
+          <lb ed="#B1" n="48"/>pro muneribus &amp; iusticiam iusti aufertis ab eo</quote>.
+        </p>
+        <p xml:id="rhwis-l3-d1e428">
+          <lb ed="#B1" n="49"/>Quarto dissimulatiui scelerum, non sunt iusticiae dilectores. Habent  
+          <lb ed="#B1" n="50"/>enim iusticia quod culpae correspondeat poena, sicut morbo medicina: 
+          <pb ed="#B1" n="12"/><!--sap_Page_046.xml-->
+          <lb ed="#B1" n="1"/>&amp; ideo talis pietas uel compassio falsa est &amp; iniusta: sic enim mater quandoque 
+          <lb ed="#B1" n="2"/>non sustinet filium verberariut corrigatur, nec filiam aduri ut sanetur. Et 
+          <lb ed="#B1" n="3"/>contra tales loquens <ref xml:id="rhwis-l3-Rd1e444">Augustin. in quadam epistola</ref> dicit: Molestus est me<lb ed="#B1" n="4"/>dicus 
+          furenti phrenetico, &amp; pater in disciplinato filio: ille ligando, iste ceden  
+          <lb ed="#B1" n="5"/>do: si autem illos negligant &amp; perire permittant, ista potius falsa mansue<lb ed="#B1" n="6"/>tudo 
+          &amp; credulitas est. Et ideo signanter dicitur in Psalmo: Beati qui custo<lb ed="#B1" n="7"/>diunt 
+          iudicium &amp; faciunt iusticiam. Et <ref xml:id="rhwis-l3-Rd1e456">Matth. 5.</ref> <quote xml:id="rhwis-l3-Qd1e459" source="http://scta.info/resource/mt5_6">Beati qui esuriunt &amp; sitiunt  
+          <lb ed="#B1" n="8"/>iusticiam</quote>, &amp;c. Vnde nota secundum <ref xml:id="rhwis-l3-Rd1e464">Anshelmum de concordia</ref> quod duplex  
+          <lb ed="#B1" n="9"/>est affectio animae, quedam commodi &amp; quaedam iusti. Prima est affectio a uo<lb ed="#B1" n="10"/>luntate 
+          inseparabilis: Secunda est separabilis: sub prima cadit affectio cibi &amp; 
+          <lb ed="#B1" n="11"/>potus &amp; huiusmodi: sicut igitur omni die renouatur in nobis esuries &amp; sitis: 
+          <lb ed="#B1" n="12"/>ita affectio iusticiae in criminibus corrigendis semper debet esse in nobis re<lb ed="#B1" n="13"/>cens 
+          &amp; inseparabilis. Et ideo dicit: Beati qui esuriunt, &amp;c. Glos. Amatoribus 
+          <lb ed="#B1" n="14"/>ueri boni non satis est quod iusti sunt, sed semper sitiunt opera iusticiae ut de 
+          <lb ed="#B1" n="15"/>quolibet tali verificetur illud <ref xml:id="rhwis-l3-Rd1e482">Apocal. 22</ref>. <quote xml:id="rhwis-l3-Qd1e485" source="http://scta.info/resource/ap22_11">Iustus iustificabitur adhuc</quote>. Dicit 
+          <lb ed="#B1" n="16"/>ergo: Diligite iusticiam.
+        </p>
+        <p xml:id="rhwis-l3-d1e492">
+          <lb ed="#B1" n="17"/>Est autem hic primo dubium quare principibus &amp; praelatis potius dici<lb ed="#B1" n="18"/>tur, 
+          diligite iusticiam quam diligite prudentiam, uel aliquam aliam uirtu<lb ed="#B1" n="19"/>tem 
+          moralem. Ad hoc dicitur quod huius duplex est causa. Vna: quia habi<lb ed="#B1" n="20"/>ta 
+          iusticia in praelatis, habentur communiter omnes uirtutes: &amp; hoc est 
+          <lb ed="#B1" n="21"/>quod dicit Ambrosius in hexametro. Vbi (inquit) est prudentia, ibi interdum 
+          <lb ed="#B1" n="22"/>est malicia: ubi fortitudo, ibi iracundia: ubi temperantia, ibi impatientia, ple<lb ed="#B1" n="23"/>raque 
+          alia uitia. Vbi autem iusticia, ibi est concordia uirtutum caeterarum. 
+          <lb ed="#B1" n="24"/>Secunda causa est, quia sine iusticia non possunt reges &amp; principes esse do<lb ed="#B1" n="25"/>mini: 
+          &amp; ideo multum diligere debent illud sine quo domini esse non pos  
+          <lb ed="#B1" n="26"/>sunt. Amota enim iusticia siunt reges tyranni. Vnde <ref xml:id="rhwis-l3-Rd1e515">Augustinus 4. de ciui<lb ed="#B1" n="27"/>tate 
+          Dei cap. 4.</ref> <quote xml:id="rhwis-l3-Qd1e521" source="http://scta.info/resource/adcd-l4-d1e535">Remota iusticia quid sunt regna nisi magna latrocinia, &amp; la<lb ed="#B1" n="28"/>trocinia 
+          quid sunt nisi parua regna</quote>: Ad quod ostendendum inducit August. 
+          <lb ed="#B1" n="29"/>historiam de Alexandro magno &amp; quodam pyrata, qui uocabatur Dyoni<lb ed="#B1" n="30"/>des, 
+          quae tamen plenius narratur, <ref xml:id="rhwis-l3-Rd1e530">Politic. lib. 3.</ref> Vbi dicitur quod cum pira<lb ed="#B1" n="31"/>ta 
+          comprehensus esset: &amp; cum Alexander interrogaret propter quid mare 
+          <lb ed="#B1" n="32"/>haberet infestum: respondit libera uoce: Tu propter quid orbem terrarum: 
+          <lb ed="#B1" n="33"/>Sed quia ego facio illud paruo nauigio, latro uocor: tu autem quae magna 
+          <lb ed="#B1" n="34"/>classe facis, dixeris Imperator. Si solus captus fuerit Alexandro, latro erit:  
+          <lb ed="#B1" n="35"/>nam si ad nutum Dyonidis populi famularentur, erit Dyonides imperator: 
+          <lb ed="#B1" n="36"/>nam quantum ad causam non differunt, nisi qui deterior est qui rapitim 
+          <lb ed="#B1" n="37"/>probius, qui iusticiam desierit abiectius uam qui manifestius impugnat le<lb ed="#B1" n="38"/>ges. 
+          Quas ego fugio, tu per se quaeris, ego utrumque uereor tu contemnis: me 
+          <lb ed="#B1" n="39"/>fortunae iniquitas &amp; rei familiaris angustia, te fastus intolerabilis &amp; inex<lb ed="#B1" n="40"/>plicabilis 
+          auaricia furem facit, si fortuna mansuesceret, fierem, forte melior  
+          <lb ed="#B1" n="41"/>&amp; tu qui fortunatior, nequeor eris. Miratus Alexander constantiam ho<lb ed="#B1" n="42"/>minis, 
+          cum increparetur iuste &amp; merito argueretur. Experiar inquit an fu<lb ed="#B1" n="43"/>turus 
+          sit melior: fortunam mutabo ne tunc aliqui quod deliquisti, sed tuis mo<lb ed="#B1" n="44"/>ribus 
+          ascribatur. Eumque fieri iussit militem ut posset exinde saluis legibus mi<lb ed="#B1" n="45"/>litare. 
+          Ex isto sequitur quod sine iusticia non possunt reges iuste regnare.
+        </p>
+        <p xml:id="rhwis-l3-d1e568">
+          <lb ed="#B1" n="46"/>Secundum potest esse dubium, quae est magis necessaria reipublicae, uel 
+          <lb ed="#B1" n="47"/>iusticia, uel amiticia. Et uidetur quod iusticia. Quia <ref xml:id="rhwis-l3-Rd1e574">5. Ethi. cap. 8.</ref> in qua<lb ed="#B1" n="48"/>dam 
+          proportione permanet ciuitas, sed hoc pertinet ad iusticiam. Item <ref xml:id="rhwis-l3-Rd1e579">cap. 
+          <lb ed="#B1" n="49"/>2.</ref> Iusticia est praeclarissima uirtutum &amp; est uirtus perfecta &amp;, neque Vesperus 
+          <lb ed="#B1" n="50"/>neque Lucifer est ita admirabilis.
+        </p>
+        <p xml:id="rhwis-l3-d1e588">
+          Ad oppositum arguitur per <ref xml:id="rhwis-l3-Rd1e590">Tullium 
+          <pb ed="#B1" n="13"/><!--sap_Page_047.xml-->
+          <lb ed="#B1" n="1"/>de Amicitia.</ref> Est enim amicitia secundum eum, omnium diuinarum huma<lb ed="#B1" n="2"/>narumque 
+          rerum cum beneuolentia &amp; charitate consensio: sed illa est maxime 
+          <lb ed="#B1" n="3"/>necessaria Reipublicae ergo, &amp;c. Et addit quod si omnes homines essent ami<lb ed="#B1" n="4"/>ci, 
+          non indigeremus iusticia: sed quantumcunqe homines essent iusti, adhuc 
+          <lb ed="#B1" n="5"/>indigeremus amicitia. Et ideo dicit Aristoteles quod amicitia est magis ne<lb ed="#B1" n="6"/>cessaria 
+          quam iusticia.
+        </p>
+        <p xml:id="rhwis-l3-d1e610">
+          Dicendum quod sicut dicit <ref xml:id="rhwis-l3-Rd1e612">Aristoteles 5. Ethicorum</ref>, 
+          <lb ed="#B1" n="7"/>iusticia est duplex, nimirum iusticia legalis, quae est communis uirtus &amp; non 
+          <lb ed="#B1" n="8"/>est pars uirtutis, sed est tota uirtus. Alia est uirtus particularis quae secundum 
+          <lb ed="#B1" n="9"/>eum diuiditur in commutatiuam &amp; distributiuam.
+        </p>
+        <p xml:id="rhwis-l3-d1e622">
+          Si igitur quaeritur, An 
+          <lb ed="#B1" n="10"/>iusticia sit magis necessaria Reipublicae vel amicitia: &amp; fiat quaestio de iusticia 
+          <lb ed="#B1" n="11"/>generali: Dicendum quod illa est magis necessaria, sicut totum est melius sua par<lb ed="#B1" n="12"/>te. 
+          Si uero de iusticia particulari: dicendum quod amicitia est magis necessaria: 
+          <lb ed="#B1" n="13"/>&amp; hoc satis innuit <ref xml:id="rhwis-l3-Rd1e632">Aristoteles sexto Ethicorum cap. 1</ref> ubi dicit quod amici<lb ed="#B1" n="14"/>tia 
+          continet &amp; conseruat ciuitates: &amp; legis positores magis circa eam amici<lb ed="#B1" n="15"/>tiam 
+          student, quam circa eam iusticiam.
+        </p>
+        <p xml:id="rhwis-l3-d1e641">
+          Ad argumentum in oppositum 
+          <lb ed="#B1" n="16"/>uerum est quod per iusticiam permanet ciuitas magis quam per amicitiam. 
+          <lb ed="#B1" n="17"/>Quod autem dicitur quod iusticia est praeclarissima uirtutum: loqui<lb ed="#B1" n="18"/>tur 
+          ibi de iusticia legali, non de iusticia particulari. Sequitur: Qui iudicatis  
+          <lb ed="#B1" n="19"/>terram.
+        </p>
+        <p xml:id="rhwis-l3-d1e652">
+          <lb ed="#B1" n="20"/>Et ista litera tripliciter exponitur. Primo modo sic, terram: id est, homines. 
+          <lb ed="#B1" n="21"/>Generaliter enim homines possunt uocari terra. Tum quia de terra sunt, ori<lb ed="#B1" n="22"/>ginem 
+          ducentes, <ref xml:id="rhwis-l3-Rd1e660">Eccles. 33</ref>. <quote xml:id="rhwis-l3-Qd1e663" source="http://scta.info/resource/sir33_10">Omnes homines de solo &amp; terra sunt. Vnde crea<lb ed="#B1" n="23"/>tus 
+          est Adam</quote>, ut terram inhabitet. Vnde Psalmus 118. <quote xml:id="rhwis-l3-Qd1e669" source="http://scta.info/resource/ps118_19">Incola ego sum in 
+          <lb ed="#B1" n="24"/>terra</quote>. Tum quia ex terra sunt existentes, Ecclesiast. 18. <quote xml:id="rhwis-l3-Qd1e674" source="http://scta.info/resource/sir17_31">Omnis homo terra &amp; 
+          <lb ed="#B1" n="25"/>cinis</quote>. Tum quia in terram reuertentur, Eccles. 4. <quote xml:id="rhwis-l3-Qd1e679" source="http://scta.info/resource/sir40_11">Qui de terra sunt, in terram  
+          <lb ed="#B1" n="26"/>reuertentur</quote>: Vnde in hoc quod dicit terram, reprimit superbiam iudicum &amp; 
+          <lb ed="#B1" n="27"/>praelatorum. Terra enim utilis est &amp; infimum omnium corporum. Vnde 
+          <lb ed="#B1" n="28"/><ref xml:id="rhwis-l3-Rd1e687">Eccles. 14.</ref> dicitur: <quote xml:id="rhwis-l3-Qd1e691" source="http://scta.info/resource/sir10_9">Quid superbis terra &amp; cinis</quote>: Debent ergo iudices &amp; prae<lb ed="#B1" n="29"/>lati 
+          considerare iudicando, quod ipsi non sunt coelestes, sed terreni sunt homi<lb ed="#B1" n="30"/>nes 
+          alijs similes in conditionis fragilitate: alijs conuertibiles in corruptibili<lb ed="#B1" n="31"/>tate: 
+          alijs aequales in naturae uilitate, quia terra. Nam secundum philosophum 
+          <lb ed="#B1" n="32"/>terra est mater omnium corporum: unde &amp; ipsi sunt filij matris nostrae ge<lb ed="#B1" n="33"/>neralis 
+          quae est terra, &amp; etiam ipsi sunt filij patris nostri generalis, quae est ter<lb ed="#B1" n="34"/>ra, 
+          fex &amp; putredo omnium elementorum. Quod considerans beatus Iob. 17. 
+          <lb ed="#B1" n="35"/>cap. Ipsi terrae dixit: <quote xml:id="rhwis-l3-Qd1e709" source="http://scta.info/resource/iob17_14">Pater meus es &amp; mater mea</quote>.
+        </p>
+        <p xml:id="rhwis-l3-d1e714">
+          <lb ed="#B1" n="36"/>Secundo modo exponitur ista litera de terra: id est, de Ecclesia propter 
+          <lb ed="#B1" n="37"/>tres conditiones terrae, quae Ecclesiae conueniunt: uidelicet humilitatem, sta<lb ed="#B1" n="38"/>bilitatem, 
+          &amp; fertilitatem: Vnde <ref xml:id="rhwis-l3-Rd1e722">Bernhard, super cantica de Ecclesia</ref> sic excla<lb ed="#B1" n="39"/>mat: 
+          O humilitas &amp; sublimitas, &amp; tabernaculum kedar &amp; sanctuarium DEI, 
+          <lb ed="#B1" n="40"/>terrenum habitaculum, &amp; coeleste palacium: domus lutea &amp; aula regia: &amp; 
+          <lb ed="#B1" n="41"/>thorus mortis &amp; templum lucis: &amp; despectio superbis, &amp; sponsa CHRISTI: 
+          <lb ed="#B1" n="42"/>&amp; stabilimentum sanae doctrinae, fertilitas fidei Christianae: quasi diceret: Mul  
+          <lb ed="#B1" n="43"/>ta bona in te relucent, si benem fuerint iudicata
+        </p>
+        <p xml:id="rhwis-l3-d1e737">
+          <lb ed="#B1" n="44"/>Tertio modo exponitur illa litera de terra: id est, de carne nostra, &amp; corpore 
+          <lb ed="#B1" n="45"/>nostro, quod debet iuste iudicare, ut eius obsequium rationabile fiat, &amp;oEo 
+          <lb ed="#B1" n="46"/>placeat. Vnde Grego. in Moral. dum carnalis uita corrigitur &amp; usqe ad absti<lb ed="#B1" n="47"/>nentiae 
+          studium a proficientibus peruenitur quasi in altari iam corpus no<lb ed="#B1" n="48"/>strum 
+          uel caro nostra incenditur uel offertur, ut inde in conspectu 
+          <lb ed="#B1" n="49"/>omnipotentis sacrificium placeat, unde prius culpa displi<lb ed="#B1" n="50"/>cebat. 
+          Qui ergo diligitis iusticiam, sic iudica<lb ed="#B1" n="51"/>te 
+          terram.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
