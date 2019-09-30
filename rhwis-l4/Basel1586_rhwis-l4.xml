@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 4 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 4 [Basel Transcription]</title>
+          <date when="2019-09-30">September 30, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-09-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="14"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l4">
+        <head xml:id="rhwis-l4-Hd1e95">Lectio 4</head>
+        <p xml:id="rhwis-l4-d1e98">
+          <!--sap_Page_048.xml-->
+          <pb ed="#B1" n="14"/>
+          <lb ed="#B1" n="1"/>VIA proposuit Salomon quod ad inquirendam sapientiam, 
+          <lb ed="#B1" n="2"/>de qua intentio est principalis huius libri, necessaria est iusticia. 
+          <lb ed="#B1" n="3"/>Postquam praemisit: hic de, ipsa iusticia prosequitur consequen<lb ed="#B1" n="4"/>ter. 
+          Et quia iusticia a cultu Dei incipit: Ideo primo ostendit quo 
+          <lb ed="#B1" n="5"/>modo homo debet ordinari ad DEVM in mente: Secundo quo 
+          <lb ed="#B1" n="6"/>modo in sermone, ibi, benignus est enim: &amp; tertio, generaliter, quomodo in 
+          <lb ed="#B1" n="7"/>tota conuersatione, ibi, nolite zelare. Circa primum ostendit primo, quomo<lb ed="#B1" n="8"/>do 
+          DEVS per uirtuosas cogitationes placatur: secundo, quomodo per uicio<lb ed="#B1" n="9"/>sas 
+          ab homine separatur, ibi, peruerse enim, &amp;c
+        </p>
+        <p xml:id="rhwis-l4-d1e124">
+          <lb ed="#B1" n="10"/>Circa primum est sciendum quod mens humana ordinatur ad DEVM per 
+          <lb ed="#B1" n="11"/>tria. Per fidei integritatem, per cordis charitatem, &amp; per spei firmitatem. Et  
+          <lb ed="#B1" n="12"/>haec tria in textu isto notantur. Primo quia sine fide impossibile est placere 
+          <lb ed="#B1" n="13"/>DEO: praemittit fidei integritatem dicens: Sentite de Domino, &amp;c. De Domi<lb ed="#B1" n="14"/>no: 
+          &amp; ea quae sunt de Domino reuelata: quasi diceret, Sacram scripturam, per 
+          <lb ed="#B1" n="15"/>quam DEVS cognoscitur, pie &amp; humiliter &amp; studiose legite &amp; intelligite: &amp; 
+          <lb ed="#B1" n="16"/>quae non potestis de DEO probare, pie credite. Quia sicut dicitur <ref xml:id="rhwis-l4-Rd1e141">Prover. 25</ref>: 
+          <lb ed="#B1" n="17"/><quote xml:id="rhwis-l4-Qd1e145" source="http://scta.info/resource/prov25_27">Qui scrutator est maiestatis, opprimetur a gloria</quote>. Secundo, quia fides non sal<lb ed="#B1" n="18"/>uat 
+          sine charitate. Quia <quote xml:id="rhwis-l4-Qd1e151" source="http://scta.info/resource/Icor13_2">si habuero omnem fidem ita ut montes transferam: 
+          <lb ed="#B1" n="19"/>charitatem autem non habeam, nihil sum</quote>, <ref xml:id="rhwis-l4-Rd1e156">1. Corint. 13</ref>. Ideo postquam 
+          <lb ed="#B1" n="20"/>mens humana est primo illuminata per fidem, oportet quod secundo sit infla<lb ed="#B1" n="21"/>mata 
+          per charitatem. Et ideo subditur in simplicitate cordis quaerite illum.] Quae<lb ed="#B1" n="22"/>ritur 
+          enim per amorem &amp; dilectionem. Iuxta illud <ref xml:id="rhwis-l4-Rd1e165">Cant. 3.</ref> <quote xml:id="rhwis-l4-Qd1e169" source="http://scta.info/resource/cant3_1">Quaesiui quem di<lb ed="#B1" n="23"/>ligit 
+          anima mea</quote>. <ref xml:id="rhwis-l4-Rd1e174">Bernhard, super cantica Sermone 20</ref>. Non abduci blandicijs  
+          <lb ed="#B1" n="24"/>nec frangi iniurijs, nec seduci flagitijs, toto corde, tota anima, tota uirtute di<lb ed="#B1" n="25"/>ligere 
+          est. Et ut breuiter dicam toto corde diligere est omne quod blanditur  
+          <lb ed="#B1" n="26"/>de propria carne, uelut illicita respuere. Sed quia iam nemo quaerit efficaciter 
+          <lb ed="#B1" n="27"/>quod non sperat: ideo post fidei integritatem &amp; amoris charitatem, subdit spei 
+          <lb ed="#B1" n="28"/>firmitatem, dicens: Quoniam inuenitur ab his qui non tentant illum.] <ref xml:id="rhwis-l4-Rd1e188">Glo. su<lb ed="#B1" n="29"/>per 
+          illud Matth. 4</ref>. <quote xml:id="rhwis-l4-Qd1e193" source="http://scta.inof/resource/mt4_7">Non tentabis dominum DEVM tuum</quote>. Dicit sic: Nemo 
+          <lb ed="#B1" n="30"/>tentare debet DEVM quando ex humana ratione habet quid faciat: Ille enim 
+          <lb ed="#B1" n="31"/>tentat DEVM, qui committit se periculo quando ex humana ratione patet  
+          <lb ed="#B1" n="32"/>euasio, &amp; ideo CHRISTVS dixit <ref xml:id="rhwis-l4-Rd1e203">Matth. 10.</ref> <quote xml:id="rhwis-l4-Qd1e206" source="http://scta.info/resource/mt10_23">Cum uos persecuti fuerint in u<lb ed="#B1" n="33"/>na ciuitate, fugite in aliam</quote>: sicut ipse idem fugit &amp; latuit paruulus in Aegypto, 
+          <lb ed="#B1" n="34"/><ref xml:id="rhwis-l4-Rd1e212">Matth. 2.</ref> Et postea iam factus uir idem fecit <ref xml:id="rhwis-l4-Rd1e215">Iohan. 8.</ref> Sic Paulus dimissus in 
+          <lb ed="#B1" n="35"/>sporta euasit, <ref xml:id="rhwis-l4-Rd1e221">2. Corinth. 2</ref>. Sed sicut dicit <ref xml:id="rhwis-l4-Rd1e224">Glo.</ref> ubi prius postquam humana 
+          <lb ed="#B1" n="36"/>ratio defecerit, commendet se homo DEO non tentando, sed deuote confiten 
+          <lb ed="#B1" n="37"/>do propriam infirmitatem, <ref xml:id="rhwis-l4-Rd1e231">2. Paralip. 24</ref>. Cum ignoremus quid agere debe 
+          <lb ed="#B1" n="38"/>mus, hoc solum habemus residui, ut oculos nostros dirigamus ad te. Item  
+          <lb ed="#B1" n="39"/><ref xml:id="rhwis-l4-Rd1e238">Glo. supra Psal. 81. uel 82</ref>. Tentare est cum in uerbis est simplicitas &amp; in cor<lb ed="#B1" n="40"/>de 
+          est malicia. Et tales non quaerunt DEVM in simplicitate cordis, &amp; ideo 
+          <lb ed="#B1" n="41"/>non inuenitur ab eis qui tentat eum. Apparet autem eis, qui habent fidem  
+          <lb ed="#B1" n="42"/>in illum. Hic est notandum, quod aliqui tentant DEI clementiam, qui negli<!--sap_Page_049.xml--><pb ed="#B1" n="15"/><lb ed="#B1" n="1"/>genter 
+          orant sine deuotione, sicut si aliquis tentaret si homo dormiat uel non 
+          <lb ed="#B1" n="2"/>Eccles. 18. <quote xml:id="rhwis-l4-Qd1e254" source="http://scta.info/resource/sir18_23">Ante orationem praepara animam tuam, &amp; noli esse quasi qui  
+          <lb ed="#B1" n="3"/>DEVM tentat</quote>. Aliqui tentant DEI patientiam, qui perseuerant in peccatis: in 
+          <lb ed="#B1" n="4"/>Psal. <quote xml:id="rhwis-l4-Qd1e261" source="http://scta.info/resource/ps77_56">Tentauerunt &amp; exacerbauerunt DEVM excelsum, &amp; testimonia eius 
+          <lb ed="#B1" n="5"/>non custodierunt</quote>. Aliqui tentant DEI iusticiam, qui orant uindictam, <ref xml:id="rhwis-l4-Rd1e266">Luc. 9.</ref> 
+          <lb ed="#B1" n="6"/>Vis dicamus ut descendat ignis de coelo. Aliqui tentant DEI potentiam, ut  
+          <lb ed="#B1" n="7"/>temerarij in periculis, <ref xml:id="rhwis-l4-Rd1e274">Iudit. 8</ref>. Qui estis uox qui tentastis Dominum, Loqui<lb ed="#B1" n="8"/>tur 
+          contra sacerdotes, qui statuerunt ut DEVS eos liberaret infra aliquos dies. 
+          <lb ed="#B1" n="9"/>Quidam tentant sapientiam DEI, qui exponunt se sine studio ad docendum 
+          <lb ed="#B1" n="10"/>&amp; praemeditatione, Psal. <quote xml:id="rhwis-l4-Qd1e284" source="http://scta.info/resource/ps77_18">Tentauerunt DEVM in cordibus suis, ut peterent  
+          <lb ed="#B1" n="11"/>escas animabus suis</quote>. Non solum autem inuenitur ab his qui non tentant il<lb ed="#B1" n="12"/>lum, 
+          sed apparet: id est, sponte se eis ostendit non tamen adhuc statim per spe<lb ed="#B1" n="13"/>ciem, 
+          sed per fidem primo &amp; post per spem, &amp; ideo subdit: Apparet autem 
+          <lb ed="#B1" n="14"/>bis qui habent sidem in illum] id est, fidem tendentem in iuum per dilectionem. 
+          <lb ed="#B1" n="15"/>Sic ergo has tres uirtutes Theologicas ordinantes mentem in DEVM, ho<lb ed="#B1" n="16"/>mini 
+          iusto esse necessarias patet manifeste. 
+        </p>
+        <p xml:id="rhwis-l4-d1e300">
+          <lb ed="#B1" n="17"/>Primo potest esse dubium hic utrum praeter uirtutes morales adquisitas 
+          <lb ed="#B1" n="18"/>necesse sit ponere Theologicas.
+        </p>
+        <p xml:id="rhwis-l4-d1e307">
+          Et uidetur quod non: quia de omnibus uir 
+          <lb ed="#B1" n="19"/>tutibus necessarijs ad felicitatem uel beatitudinem, determinat Aristoteles  
+          <lb ed="#B1" n="20"/>sufficienter in Moralibus suis, &amp; non facit mentionem nisi de naturalibus, 
+          <lb ed="#B1" n="21"/>uel acquisibilibus aut consimilibus: ergo illae solae sufficiunt.
+        </p>
+        <p xml:id="rhwis-l4-d1e317">
+          Praeterea homo 
+          <lb ed="#B1" n="22"/>potest ex naturalibus suis assentire his quae fides praedicat de DEO, si bene 
+          <lb ed="#B1" n="23"/>instruatur. Similiter DEVM congnitum potest amare super omnia &amp; spera 
+          <lb ed="#B1" n="24"/>re quod Dominus dabit sibi uitam immortalem. Ergo ad illos actus non est 
+          <lb ed="#B1" n="25"/>necesse ponere habitus infusos. Antecedens patet: quia aliter homo infidelis  
+          <lb ed="#B1" n="26"/>non foret uituperandus si non crederet ad praedicationem Doctorum catho<lb ed="#B1" n="27"/>licorum.
+        </p>
+        <p xml:id="rhwis-l4-d1e333">
+          Praeterea si tales habitus infusi forent in nobis, homo posset scire &amp; 
+          <lb ed="#B1" n="28"/>experiri eos per eorum operationes &amp; sic posset homo de lege communi sci 
+          <lb ed="#B1" n="29"/>re se esse in charitate: consequens falsum: consequentia patet: quia inconue<lb ed="#B1" n="30"/>niens 
+          est nobilissimos habitus esse in nobis &amp; latere nos.
+        </p>
+        <p xml:id="rhwis-l4-d1e342">
+          Ad oppositum est <ref xml:id="rhwis-l4-Rd1e344">A<lb ed="#B1" n="31"/>postolus 
+          1. Corinth. 13.</ref> <quote xml:id="rhwis-l4-Qd1e349" source="http://scta.info/resource/Icor13_13">Nunc autem manent Fides, Spes, Charitas tria haec</quote>
+        </p>
+        <p xml:id="rhwis-l4-d1e353">
+          
+          <lb ed="#B1" n="32"/>Ad istud dubium dicenda sunt duo. Primum est quod sicut reuelatum est 
+          <lb ed="#B1" n="33"/>sanctis Patribus, sic schola Catholica tenet, &amp; Ecclesia tradit: ratio est, quia 
+          <lb ed="#B1" n="34"/>duplex est hominis felicitas.
+          <!-- paragraph break here in Basel 1586-->
+          <lb ed="#B1" n="35"/>Naturalis &amp; supernaturalis. Prima est proporcionata naturae huma<lb ed="#B1" n="36"/>nae, 
+          ad quam potest pertingere per principia naturae suae: Alia excedit  
+          <lb ed="#B1" n="37"/>&amp; ad illam non potest pertingi nisi diuina uirtute secundum quandam  
+          <lb ed="#B1" n="38"/>diuinitatis participationem. Et ideo ad illam consequendam, oportet quod  
+          <lb ed="#B1" n="39"/>homini superaddantur uirtutes Theologicae. Quae: ideo Theologicae 
+          <lb ed="#B1" n="40"/>dicuntur: quia a solo DEO infunduntur &amp; sola diuina reuelatione in Sacra 
+          <lb ed="#B1" n="41"/>scriptura nobis traduntur.
+        </p>
+        <p xml:id="rhwis-l4-d1e379">
+          Ad primam, Arist. non tradit nisi de uirtutibus or<lb ed="#B1" n="42"/>dinantibus 
+          hominem ad felicitatem humanam.
+        </p>
+        <p xml:id="rhwis-l4-d1e384">
+          Ad secundum patet quod  
+          <lb ed="#B1" n="43"/>hoc non potest homo facere meritorie ex naturalibus.
+        </p>
+        <p xml:id="rhwis-l4-d1e390">
+          Ad tertium non sim<lb ed="#B1" n="44"/>pliciter 
+          latent, sed credimus nos tales habitus habere. Verbum aut Philoso<lb ed="#B1" n="45"/>phi 
+          debet intelligi de habitibus naturalibus.
+        </p>
+        <p xml:id="rhwis-l4-d1e397">
+          In simplicitate cordis quaerite il<lb ed="#B1" n="46"/>lum] 
+          Circa quod nota quod in hoc quatuor innuuntur, quae uitam boni 
+          <lb ed="#B1" n="47"/>Christiani faciunt meritoriam in praesenti. Rectitudo sanctae conuersationis: 
+          <lb ed="#B1" n="48"/>in simplicitate. Gratitudo piae deuotionis: cordis. Solicitudo discrete inquisi<lb ed="#B1" n="49"/>tionis: 
+          Quaerite: &amp; altitudo quietae contemplationis: Illum. Simplicitas autem 
+          <lb ed="#B1" n="50"/>illa debet esse cum prudentia sicut dicitur, Matth. 10. <quote xml:id="rhwis-l4-Qd1e410" source="http://scta.info/resource/mt10_16">Estote prudentes sicut</quote>,  
+          <lb ed="#B1" n="51"/>&amp;c. Vnde <ref xml:id="rhwis-l4-Rd1e415">Genes. 35.</ref> dicit de Iacob, quod <quote xml:id="rhwis-l4-Qd1e418" source="http://scta.info/resource/gen25_27">uir simplex habitabat in taberna<lb ed="#B1" n="52"/>culis</quote>, 
+          &amp; tamen quantae prudentiae fuit erga fratrem suum Esau in emendo 
+          <lb ed="#B1" n="53"/>primogenita sua: erga patrem in surripiendo benedictionem: erga auuncu<!--sap_Page_050.xml--><pb ed="#B1" n="16"/><lb ed="#B1" n="1"/>lum 
+          in custodiendo greges: erga uxores pacifice eas regendo &amp; in multis a<lb ed="#B1" n="2"/>lijs 
+          patet in <ref xml:id="rhwis-l4-Rd1e432">Gen. diffuse</ref>: &amp; ideo simplicitas asinina non est comendabilis, sed  
+          <lb ed="#B1" n="3"/>columbina, <ref xml:id="rhwis-l4-Rd1e437">Rom. 16</ref>. <quote xml:id="rhwis-l4-Qd1e441" source="http://scta.info/resource/rom16_19">Volo uos sapientes esse in bono: simplices autem in 
+          <lb ed="#B1" n="4"/>malo</quote>. Et debet haec simplicitas esse: sine plica uanae intentionis: sine ruga fal<lb ed="#B1" n="5"/>sae 
+          opinionis: sine tegumento paliatae fictionis.
+        </p>
+        <p xml:id="rhwis-l4-d1e449">
+          <lb ed="#B1" n="6"/>Primam simplicitatem non habent quae faciunt opera de genere bono<lb ed="#B1" n="7"/>rum 
+          intentione humanae laudis, uel lucri temporalis &amp; non propter uerita<lb ed="#B1" n="8"/>tem 
+          &amp; honorem DEI, contra quos dicitur <ref xml:id="rhwis-l4-Rd1e457">Matth. 6</ref>. <quote xml:id="rhwis-l4-Qd1e460" source="http://scta.info/resource/mt6_22">Si oculus tuus fuerit 
+          <lb ed="#B1" n="9"/>simplex, totum corpus tuum lucidum erit</quote>. Quod exponens bene <ref xml:id="rhwis-l4-Rd1e466">Augustin. 
+          <lb ed="#B1" n="10"/>lib. 2. de praed. Donum in monte</ref>. Dicit, oculus dicitur intentio qua quilibet  
+          <lb ed="#B1" n="11"/>in opere suo finem intuetur: Corpus uero congeries operum intelligitur.  
+          <lb ed="#B1" n="12"/>Tunc autem oculus est simplex, quando intentio solummodo in DEVM 
+          <lb ed="#B1" n="13"/>dirigitur, &amp; quando sic est, tunc tota congeries operum luce iusticiae coram  
+          <lb ed="#B1" n="14"/>DEO resplendet. Vnde <ref xml:id="rhwis-l4-Rd1e479">Greg. super Excech. lib. 1. cap. 7</ref>. Si nostra intentio 
+          <lb ed="#B1" n="15"/>apud DEVM fuerit simplex eius iudicio, nostra actio tenebrosa non erit. Se<lb ed="#B1" n="16"/>cundam 
+          simplicitatem non habent haeretici qui ueris sententijs fidei Christianae 
+          <lb ed="#B1" n="17"/>commiscent errores falsarum opinionum: Vnde hi non sunt simplices cor 
+          <lb ed="#B1" n="18"/>de &amp; lingua, imo duplices &amp; bilingues: contra quos <ref xml:id="rhwis-l4-Rd1e491">Proverb. 18</ref>. <quote xml:id="rhwis-l4-Qd1e494" source="http://scta.info/resource/prov18_8">Verba bi<lb ed="#B1" n="19"/>linguis 
+          quasi simplicia, &amp; perueniunt usque ad interiora uentris</quote>: &amp; <ref xml:id="rhwis-l4-Rd1e500">Eccles. 2</ref>: 
+          <lb ed="#B1" n="20"/><quote xml:id="rhwis-l4-Qd1e504" source="http://scta.info/resource/sir2_14">Vae duplici corde &amp; labijs sceleratis &amp; manibus malefacientibus, &amp; pecca<lb ed="#B1" n="21"/>tori 
+          ingredienti terram duabus uijs</quote>. Tertiam simplicitatem non habent pro<lb ed="#B1" n="22"/>ditores 
+          &amp; dolosi, qui praetendunt unum in ore &amp; aliud habent in corde. De 
+          <lb ed="#B1" n="23"/>quibus in Psal. Labia dolosa in corde, &amp; corde locuti sunt,. De quibus verifi<lb ed="#B1" n="24"/>catur 
+          illud <ref xml:id="rhwis-l4-Rd1e516">Iacob. 1.</ref> <quote xml:id="rhwis-l4-Qd1e519" source="http://scta.info/resource/iac1_8">Vir duplex animo inconstans est, in omnibus uijs suis</quote>.  
+          <lb ed="#B1" n="25"/>Dicit <ref xml:id="rhwis-l4-Rd1e524">Aristot. 18: de animalibus cap. 4</ref>: quod in animali non est nisi cor unum 
+          <lb ed="#B1" n="26"/>anima una. Secundo debet homo habere gratitudinem piae deuotionis &amp;  
+          <lb ed="#B1" n="27"/>ideo dicitur corde. Vbi notandum, quod DEVS exigit cor humanum sibi 
+          <lb ed="#B1" n="28"/>dari tripliciter, scilicet liberaliter, integraliter &amp; perpetualiter
+        </p>
+        <p xml:id="rhwis-l4-d1e535">
+          <lb ed="#B1" n="29"/>Primo uult DEVS quod tu des sibi libere cor tuum, non quod mu 
+          <lb ed="#B1" n="30"/>tues, non quod uendas, sed quod dones. Mutuant qui sibi seruauerunt pro 
+          <lb ed="#B1" n="31"/>temporali prosperitate consequenda, &amp; quando eis subtrahitur prosperitas. 
+          <lb ed="#B1" n="32"/>subtrahunt &amp; illi cor a DEO, Psal. <quote xml:id="rhwis-l4-Qd1e545" source="ps48_19">Confitebitur tibi cum benefeceris ei</quote>. Illi  
+          <lb ed="#B1" n="33"/>autem uendunt qui eum diligunt pro mercede, qui tantum de DEO cogitant  
+          <lb ed="#B1" n="34"/>quantum iam debeneficijs ab ipso se percepisse cognoscunt. Primi enim mu<lb ed="#B1" n="35"/>tuant 
+          sub spe futuri commodi: sed isti uendunt iam pro mercede accepta. De 
+          <lb ed="#B1" n="36"/>quibus dicit populus hic: Labijs me honorat, cor autem eorum longe est a 
+          <lb ed="#B1" n="37"/>me. Illi autem cor suum DEO donant qui meram DEI bonitatem &amp; bene<lb ed="#B1" n="38"/>ficia 
+          spiritualia cogitant: nec non &amp; amore coelestis patriae cor suum custo<lb ed="#B1" n="39"/>diendum 
+          &amp; regendum in manibus DEI ponunt. Et istum modum exigit si<lb ed="#B1" n="40"/>bi 
+          DEVS. Vnde signanter dicitur <ref xml:id="rhwis-l4-Rd1e566">Prover. 13.</ref> <quote xml:id="rhwis-l4-Qd1e569" source="http://scta.info/resource/prov23_26">Praebe, fili mi, cor tuum mihi</quote> 
+          <lb ed="#B1" n="41"/>Quasi diceret, Fili mi, per creationem: fili mi, per informationem, fili mi, per re 
+          <lb ed="#B1" n="42"/>demptionem: praebe per donationem: cor, per dilectionem: tuum, per pos  
+          <lb ed="#B1" n="43"/>sessionem: mihi per deuotionem. Vult ergo primo quod des sibi cor tuum 
+          <lb ed="#B1" n="44"/>liberaliter.
+        </p>
+        <p xml:id="rhwis-l4-d1e582">
+          <lb ed="#B1" n="45"/>Secundo quod des ei cor tum integraliter, Matt. 22. <quote xml:id="rhwis-l4-Qd1e586" source="http://scta.info/resource/mt22_37">Diliges Dominum 
+          <lb ed="#B1" n="46"/>DEVM tuum ex toto corde tuo &amp; ex tota anima tua</quote>. Est enim DEVS sicut ho<lb ed="#B1" n="47"/>mo 
+          Zelotypus qui non permittit uxori suae alios diligere, Exod. 34. <quote xml:id="rhwis-l4-Qd1e593" source="http://scta.info/resource/ex34_14">Noli ad<lb ed="#B1" n="48"/>orare DEVM alienum. DEVS enim zelotes nomen eius dominus &amp; aemula 
+          <lb ed="#B1" n="49"/>tor</quote>: nec mirum quia solus redemit te. Auis generosa cum diu volauerit &amp; 
+          <lb ed="#B1" n="50"/>se fatigauerit &amp; praedam suam coeperit, requirit cor, praedae suae pro merce<lb ed="#B1" n="51"/>de. 
+          Sic CHRISTVS generosus ille falco, qui pro te sua praeda capienda uo<lb ed="#B1" n="52"/>lauit 
+          de coelo in uirginis uterum: &amp; de uirginis utero ad patibulum, de pati<lb ed="#B1" n="53"/>bulo 
+          ad infernum: de inferno in mudum: de mundo ad coelum: &amp; ideo merito sibi 
+          <!--sap_Page_051.xml-->
+          <pb ed="#B1" n="17"/>
+          <lb ed="#B1" n="1"/>uendicat totum cor parare. Ergo debemus cor nostrum ei dare, sicut aui praedali  
+          <lb ed="#B1" n="2"/>paratur cor predae suae, primo extrahitur, lauatur &amp; comprimitur, &amp; sanguis niger 
+          <lb ed="#B1" n="3"/>exprimitur &amp; in partes descinditur. Sic moraliter. Extrahamus cor nostrum per 
+          <lb ed="#B1" n="4"/>peccatorum occultorum recordationem in Psal. Effundite coram illo corda uestra. La<lb ed="#B1" n="5"/>uetur 
+          per lachrymarum supra infusionem, <ref xml:id="rhwis-l4-Rd1e624">Hier. 4.</ref> <quote xml:id="rhwis-l4-Qd1e627" source="http://scta.info/resource/ier4_14">Laua a malicia cor tuum, ut saluus 
+          <lb ed="#B1" n="6"/>fias</quote>. Comprimatur per contritionem, &amp; sanguis: id est, peccatum exprimatur per 
+          <lb ed="#B1" n="7"/>confessionem: tandem descindatur per poenosam satisfactionem, &amp; tunc debet si<lb ed="#B1" n="8"/>bi 
+          totaliter dari per deuotionem: Vnde Ioelis 2. <quote xml:id="rhwis-l4-Qd1e637" source="http://scta.info/resource/ioel2_12">Convertimini ad me in toto 
+          <lb ed="#B1" n="9"/>corde uestro</quote>.
+        </p>
+        <p xml:id="rhwis-l4-d1e643">
+          <lb ed="#B1" n="10"/>Tertio uult DEVS quod des sibi cor tuum perpetualiter. Solent enim homines 
+          <lb ed="#B1" n="11"/>quando uolunt simpliciter &amp; perpetuo aliquid dare alicui, facere sibi bonam 
+          <lb ed="#B1" n="12"/>chartam &amp; bene scriptam, &amp; postea illam signant sigillo, &amp; tandem ponunt eam in possessio  
+          <lb ed="#B1" n="13"/>nem, &amp; tunc est securus pro perpetuo: isto modo ut DEVM pro animabus nostris  
+          <lb ed="#B1" n="14"/>assecuremus pro perpetuo: faciamus sibi chartam de corde nostro scribendo in il<lb ed="#B1" n="15"/>lo 
+          mandata &amp; praecepta sua, Prou. 7. <quote xml:id="rhwis-l4-Qd1e658" source="http://scta.info/resource/prov7_3">Scribe illam id est legem DEI in tabulis cordis tui</quote>,  
+          <lb ed="#B1" n="16"/>&amp; postea signetur sigillo humanitatis CHRISTI quod sculptum fuit multis lite<lb ed="#B1" n="17"/>ris, 
+          hoc est, in passione, applicemus per deuotam contemplationem menti nostrae 
+          <lb ed="#B1" n="18"/>memoriam illius passionis, 8. Cant. Pone me sicut signaculum super cor tuum, &amp; tunc  
+          <lb ed="#B1" n="19"/>ponemus eum in possessionem, ut in mente nostra per gratiam inhabitare dignetur,  
+          <lb ed="#B1" n="20"/>Ephes. 3. <quote xml:id="rhwis-l4-Qd1e672" source="http://scta.info/resource/eph3_16 http://scta.info/resource/eph3_17">Det uobis DEVS secundum diuitias gloriae suae uirtutem corroborari per 
+          <lb ed="#B1" n="21"/>Spiritum in interiori homine habitare CHRISTVM per fidem in cordibus uestris</quote>: 
+          <lb ed="#B1" n="22"/>Et sic in simplicitate cordis quaerite illum. Vbi notatur solicitudo discretae in<lb ed="#B1" n="23"/>quisitionis. 
+          Et ideo primo quaerere debemus DEVM sapienter cum tribus Ma<lb ed="#B1" n="24"/>gis, 
+          de quibus <ref xml:id="rhwis-l4-Rd1e683">Matth. 2.</ref> Illi enim quaesierunt stella duce: Et nos * ducente CHRISTO qui 
+          <lb ed="#B1" n="25"/>est stella maris. Vnde Bernhard. super Missus est homel. 3. Si insurgunt uentit  
+          <lb ed="#B1" n="26"/>tentationum, si incurris scopulos tribulationis, respice stellam, inuocat CHRISTVM 
+          <lb ed="#B1" n="27"/>Quaeramus 2. dolenter cum Maria &amp; Ioseph, de quibus <ref xml:id="rhwis-l4-Rd1e693">Luc. 2.</ref> <quote xml:id="rhwis-l4-Qd1e696" source="http://scta.info/resource/lc2_48">Dolentes quae<lb ed="#B1" n="28"/>rebamus te</quote>. 
+          Illi per triduum quaesierunt CHRISTVM, &amp; post triduum inuene<lb ed="#B1" n="29"/>tunt. 
+          Tertio quaeramus CHRISTVM diligenter, <ref xml:id="rhwis-l4-Rd1e704">Luc. 15.</ref> <quote xml:id="rhwis-l4-Qd1e707" source="http://scta.info/resource/lc15_8">Quae mulier habens  
+          <lb ed="#B1" n="30"/>drachmas 10.</quote> &amp;c. Quarto permanenter, <ref xml:id="rhwis-l4-Rd1e712">Matth. 7.</ref> <quote xml:id="rhwis-l4-Qd1e715" source="http://scta.info/resource/mt7_7">Petite &amp; accipietis, quaerite 
+          <lb ed="#B1" n="31"/>&amp; inuenietis</quote>: Quartum quod uitam Christianam rectificat, est altitudo quie<lb ed="#B1" n="32"/>tae 
+          contemplationis, quia illum. In illo enim &amp; non in alio quietatur nostrae con<lb ed="#B1" n="33"/>templationis 
+          intentio. Vnde <ref xml:id="rhwis-l4-Rd1e725">August. 1. lib. confess.</ref> <quote xml:id="rhwis-l4-Qd1e728" source="http://scta.info/resource/aconf-l1-d1e102">Tu Domine fecisti nos ue<lb ed="#B1" n="34"/>nire 
+          ad te. Et inquietum est cor nostrum donec requiescat in te</quote>. In simplicitate 
+          <lb ed="#B1" n="35"/>igitur cordis quaerite illum 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
