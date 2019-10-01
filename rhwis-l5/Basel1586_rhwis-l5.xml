@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 5 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 5 [Basel Transcription]</title>
+          <date when="2019-09-30">September 30, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-09-30" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="17"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l5">
+        <head xml:id="rhwis-l5-Hd1e95">Lectio 5</head>
+        <p xml:id="rhwis-l5-d1e98">
+          <lb ed="#B1" n="36"/>OSTQVAM determinatum est qualiter homo conuenienter ad 
+          <lb ed="#B1" n="37"/>sapientiam percipiendam disponitur: Hic ostendit per quid homo 
+          <lb ed="#B1" n="38"/>a sapientia principaliter impeditur. Impeditur autem spiritus sapien<lb ed="#B1" n="39"/>tiae, 
+          ne hominem inhabitet spiritualiter: propter duplex obstaculum. 
+          <lb ed="#B1" n="40"/>Primum est mentalis malicia: Secundum corporalis immundicia. Et secundum 
+          <lb ed="#B1" n="41"/>hoc lectio ista diuiditur in duas partes. Nam primo docet uitare maliciam men<lb ed="#B1" n="42"/>tis: 
+          secundo uitare immundiciam corporis. ibi: nec habitabit. Dicit ergo primo:  
+          <!--sap_Page_052.xml-->
+          <pb ed="#B1" n="18"/>
+          <lb ed="#B1" n="1"/>peruersa cogitationes separant a DEO. Et notandum quod non accipiuntur hic  
+          <lb ed="#B1" n="2"/>cogitationes distinguendo cogitationem contra actum uoluntatis. Sed in 
+          <lb ed="#B1" n="3"/>cludendo tam actum voluntatis quam intellectus: quia sic sunt cogitationes pec 
+          <lb ed="#B1" n="4"/>cata. Nulla enim res peccatum nisi actus elicitus a uoluntate uel imperatus. Vn<lb ed="#B1" n="5"/>de 
+          Augustinus: Peccatum adeo est uoluntarium, quod si non sit uoluntarium, 
+          <lb ed="#B1" n="6"/>non est peccatum: alias homo peccaret nolens. Et sic puniretur, ubi noluisset  
+          <lb ed="#B1" n="7"/>delinquere quod non est rationabile propter hoc. Illa beata Agnes dixit tyran<lb ed="#B1" n="8"/>no: 
+          Tu autem si me inuitam feceris scortari, castitas mihi duplicabitur ad coro 
+          <lb ed="#B1" n="9"/>nam. Est igitur sensus. Primum quod a DEO separat, est peruersa cogitatio: id  
+          <lb ed="#B1" n="10"/>est, affectio cogitationis, per quam DEVS non diligitur nec adoratur, nec in 
+          <lb ed="#B1" n="11"/>eum creditur. Probata autem uirtus: id est, fides operans per dilectionem cor<lb ed="#B1" n="12"/>ripit 
+          insipientes: id est, arguendo conscientiam de errore &amp; ingratitudine erga 
+          <lb ed="#B1" n="13"/>DEVM. Et sic corripiendo suadet amare &amp; timere DEVM quod est uera sapien<lb ed="#B1" n="14"/>tia. 
+          Causa autem quare cogitationes infidelitatis separant a DEO, est: quia ta<lb ed="#B1" n="15"/>les 
+          homines sunt in mente maliciosi, &amp; in corpore uoluptuosi, &amp; in illos non 
+          <lb ed="#B1" n="16"/>potest sapientia introire. Sapientia: id est, uerbum DEI, <ref xml:id="rhwis-l5-Rd1e154">Eccles. 1.</ref> <quote xml:id="rhwis-l5-Qd1e157" source="http://scta.info/resource/sir1_5">Fons sapien<lb ed="#B1" n="17"/>tiae 
+          uerbum DEI in excelsis</quote>. Vel sapientia: id est, collectio uirtutum moralium 
+          <lb ed="#B1" n="18"/>&amp; intellectualium: quia si unum contrariorum fuerit in summo, nihil secum com 
+          <lb ed="#B1" n="19"/>patitur de suo contrario. DEVS autem est summa bonitas, &amp; ideo nullo modo  
+          <lb ed="#B1" n="20"/>cohabitat cum malicia. Et ideo in maleuolam animam non introibit sapientia. 
+          <lb ed="#B1" n="21"/>Et nota quod dicit in maleuolam animam, non solum non inhabitabit, sed non 
+          <lb ed="#B1" n="22"/>introibit in eam. De corpore autem subdito peccatis, dicit quod in isto non in 
+          <lb ed="#B1" n="23"/>habitabit: quin tamen aliquando introeat in eam non negat.
+        </p>
+        <p xml:id="rhwis-l5-d1e176">
+          <lb ed="#B1" n="24"/>Huius dicti ratio potest esse ut ostendat differentiam inter peccata carnalia 
+          <lb ed="#B1" n="25"/>&amp; spiritualia, &amp; maximae maliciae peccata: cuiusmodi sunt ira, inuidia &amp; huius  
+          <lb ed="#B1" n="26"/>modi: quia ista sunt minoris uerecundiae &amp; maioris culpae secundum Greg. 
+          <lb ed="#B1" n="27"/>Econtra uero carnalia sunt maioris uerecundiae &amp; minoris culpae: &amp; ideo ut co<lb ed="#B1" n="28"/>muniter 
+          facilius conteruntur homines de peccato carnali &amp; cum maiore uere<lb ed="#B1" n="29"/>cundia 
+          satisfaciunt quam de peccatis spiritualibus. Vnde peccata spiritualia sicut o<lb ed="#B1" n="30"/>dium, 
+          inuidia, superbia, magis in hominibus continuantur quam peccata carnis, 
+          <lb ed="#B1" n="31"/>&amp; ideo dicit, quod in maleuolam animam, &amp;c. Sed in peccatores &amp; reos pec<lb ed="#B1" n="32"/>catorum 
+          carnalium bene intrat aliquando: sed tamen non inhabitat in eis. Vnde 
+          <lb ed="#B1" n="33"/>Gregor. dicit Maleuola anima est quae in corde odium tenet uel rancorem. Cor<lb ed="#B1" n="34"/>pus 
+          autem subiectum peccatis est, quod secundum Apostolum fornicationi,  
+          <lb ed="#B1" n="35"/>non Domino seruit. Sunt autem quatuor genera malarum cogitationum, ma<lb ed="#B1" n="36"/>liciosae, 
+          ambitiosae, uoluptuosae &amp; infructuosae.
+        </p>
+        <p xml:id="rhwis-l5-d1e207">
+          <lb ed="#B1" n="37"/>Cogitatio maliciosa est quae procedit ex animo offendendi uel nocendi, cui com<lb ed="#B1" n="38"/>tradicit 
+          Psal. <quote xml:id="rhwis-l5-Qd1e213" source="http://scta.info/resource/ps51_3 http://scta.info/resource/ps51_4">Quid gloriaris in malicia, qui potens es iniquitate tota die iniusti<lb ed="#B1" n="39"/>ciam 
+          cogitauit lingua tua</quote>. Talis fuit conitatio Saulis contra Dauid, 1. Reg. 18. 
+          <lb ed="#B1" n="40"/>Saul cogitauit tradere Dauid in manus Philistinorum: Et cogitatio fratrum contra 
+          <lb ed="#B1" n="41"/>Ioseph <ref xml:id="rhwis-l5-Rd1e223">Genes. 37.</ref> <quote xml:id="rhwis-l5-Qd1e226" source="http://scta.info/resource/gen37_18">Qui cum uidissent eum procul antequam accederet ad eos, cogi<lb ed="#B1" n="42"/>tauerunt 
+          eum occidere</quote>. Nota de malicia ipsius qui crocodilum adduxit ut ger<lb ed="#B1" n="43"/>manum 
+          suum deuorasset: &amp; ideo de teste maliciosa dedit DEVS legem talio<lb ed="#B1" n="44"/>nis, 
+          Deu.19. Reddet ei sicut fratri suo cogitauit.
+        </p>
+        <p xml:id="rhwis-l5-d1e236">
+          <lb ed="#B1" n="45"/>De cogitatione ambitiosa scribitur Luc. 9. <quote xml:id="rhwis-l5-Qd1e240" source="http://scta.info/resource/lc9_46">Intrauit cogitatio in eos, quis eorum 
+          <lb ed="#B1" n="46"/>maior esset</quote>. Vbi notandum, quod ambitio est simia caritatis sicut dicit Petrus Blesensis 
+          <lb ed="#B1" n="47"/>in quadam Epist. ad clericos de capella regis Heinrici dictata: Ambitio dicit ipse  
+          <lb ed="#B1" n="48"/>est quaedam simia caritatis. Caritas enim patiens est pro aeternis ambitio patitur omnia  pro ca<lb ed="#B1" n="49"/>ducis. 
+          Caritas benigna est pauperibus Ambitio uero diuitibus Caritas oia suffert 
+          <lb ed="#B1" n="50"/>pro ueritate: Ambitio pro uanitate. Vtraqe omnia credit, omnia sperat: sed longe dissimili 
+          <lb ed="#B1" n="51"/>modo haec ad gloriam huius uitae: illa ad gloriam sine fine. Et infra: Omnes qui militant in 
+          <lb ed="#B1" n="52"/>castris ambitionis, capti sunt a Naas Amonita: Dextrosque oculos amiserunt. Pro 
+          <lb ed="#B1" n="53"/>spicientes enim sunt in adquisitione temporalium: iacturam uero uitae quae praeterit &amp; imminen<!--sap_Page_053.xml--><pb ed="#B1" n="19"/><lb ed="#B1" n="1"/>tia 
+          mortis aeternae supplicia non attendunt. Et parum supra in eadem Epistola pro 
+          <lb ed="#B1" n="2"/>uanissima uanitate militant hodie nostri curiales, in labore, in aerumna, in uigi<lb ed="#B1" n="3"/>lijs 
+          multis, &amp; periculis magnis, periculis maris, periculis fluminum, periculis po<lb ed="#B1" n="4"/>tium, 
+          periculis montium, periculis in falsis fratribus, in mortibus frequenter, in com<lb ed="#B1" n="5"/>fractione, 
+          in lassitudine corporis, atque in alijs uitae discriminibus: in quibus glo<lb ed="#B1" n="6"/>riam 
+          Martyrij mererentur: si haec pro CHRISTI nomine sustinerent: Nunc au<lb ed="#B1" n="7"/>tem 
+          martyres sunt mundi, seculi professores, discipuli curiae: milites uel armi<lb ed="#B1" n="8"/>gerae. 
+          Per multas equidem tribulationes intrant iusti in regnum coelorum: Hi 
+          <lb ed="#B1" n="9"/>autem per multas tribulationes promerentur infernum.
+        </p>
+        <p xml:id="rhwis-l5-d1e284">
+          <lb ed="#B1" n="10"/>Tertium genus malarum cogitationum sunt cogitationes uoluptuosae,  
+          <lb ed="#B1" n="11"/><ref xml:id="rhwis-l5-Rd1e289">Gen. 8.</ref> <quote xml:id="rhwis-l5-Qd1e292" source="http://scta.info/resource/gen8_21">Sensus enim &amp; cogitatio humani cordis proni sunt ad malum ab ado<lb ed="#B1" n="12"/>es 
+          centia sua</quote>: ex quo corrupta fuit in primis parentibus certe modicum meliorata 
+          <lb ed="#B1" n="13"/>est in suis posteris. <ref xml:id="rhwis-l5-Rd1e299">Albertus in tractatu secundo lib. 2. de causis proprietatum 
+          <lb ed="#B1" n="14"/>elementorum cap. 2.</ref> dicit, quod si super carbonem candelae extinctae non tamen 
+          <lb ed="#B1" n="15"/>sic omnino mortificatae: quin ibi aliqualis ignis remaneat, superproiiciatur te<lb ed="#B1" n="16"/>nuis 
+          puluis sulphuris, candela re accenditur. Moraliter, quantumcunque homo in se 
+          <lb ed="#B1" n="17"/>flammas uoluptatis extinxerit: semper tamen manet igniculus non mortificatus: hoc 
+          <lb ed="#B1" n="18"/>est, fomes carnalis concupiscentiae, quae in uita ista totaliter extingui non potest. 
+          <lb ed="#B1" n="19"/>Et ideo summopere cauendum est, ne proijciatur super talem scintillulam tenuis pul<lb ed="#B1" n="20"/>uis 
+          sulphuris, sulphur est calidus, foetidus &amp; tenax, &amp; designat luxuriam. Et pul<lb ed="#B1" n="21"/>uis 
+          tenuis huius sulphuris est cogitatio morosa, de circumstantijs huius actus &amp;  
+          <lb ed="#B1" n="22"/>delectationibus eiusdem. Vnde Greg super illud Iob. 18. Aspergatur in tabernaculo 
+          <lb ed="#B1" n="23"/>eius sulphur. Dicit sulphur, sic ignem nutritur in se sit grauissime foetoris. Ideo in 
+          <lb ed="#B1" n="24"/>eo peccatum carnis intelligimus quid dum puersis cogitationibus quasi foetoribus men<lb ed="#B1" n="25"/>tem 
+          implet: aeterna incendia fovet. Vnde Dominus in Sodomam pluit ignem &amp; sulphur.
+        </p>
+        <p xml:id="rhwis-l5-d1e329">
+          <lb ed="#B1" n="26"/>Cauendum est igitur cuicumque poenitenti de praeteritis, ne de eisdem cogita<lb ed="#B1" n="27"/>tiones 
+          recordatiuas admittat: quia secundum <ref xml:id="rhwis-l5-Rd1e335">Greg. 3. Mor. cap. 5.</ref> Saepe mens ita 
+          <lb ed="#B1" n="28"/>in culpae recordatione concutitur, ut ad perpetrationem illius longe grauius quam pri<lb ed="#B1" n="29"/>us 
+          capta fuerat, urgeatur. Et ideo signanter dicitur, <ref xml:id="rhwis-l5-Rd1e343">Deut. 15.</ref> <quote xml:id="rhwis-l5-Qd1e346" source="http://scta.info/resource/deut15_9">Caue ne subrepat ti<lb ed="#B1" n="30"/>bi 
+          impia cogitatio</quote>. Sicut enim paruus latrunculus per fenestram immittitur, ut maioribus  
+          <lb ed="#B1" n="31"/>latronibus seras aperiat: ita Diabolus paruas cogitationes immittit: &amp; si ille per 
+          <lb ed="#B1" n="32"/>negligentiam admittatur, trahunt mentem ad consensum. Vnde <ref xml:id="rhwis-l5-Rd1e355">sextus Iulius Strata<lb ed="#B1" n="33"/>gematum, 
+          li. 4. ca. 9.</ref> dicit: Cn. Pompeius cum suspectos haberet Thaucenses uel Cre<lb ed="#B1" n="34"/>tenses, 
+          &amp; ueretur ne praesidium reciperent: petijt ab eis ut aegros interim apud se re<lb ed="#B1" n="35"/>fici 
+          paterentur. Fortissimis deinde habitu languentium missis, ciuitatem occupa<lb ed="#B1" n="36"/>uit. 
+          Contigitque. Isto modo Diabolus perpendens aliquos uiros sanctos nolle 
+          <lb ed="#B1" n="37"/>recipere suggestiones in grossa materia, sicut in opere exteriori: suadet eis  
+          <lb ed="#B1" n="38"/>saltem cogitare de illecebris. Fingens non esse periculum in debilibus cogita<lb ed="#B1" n="39"/>tionibus. 
+          Sed certe mendax est: quia sub infirmis cogitationibus fortissimas 
+          <lb ed="#B1" n="40"/>delectationes immittit, &amp; sic mentem &amp; consensum deducit. Etiam statim summa ui<lb ed="#B1" n="41"/>gilantia 
+          &amp; prudentia examinanda est cogitatio, quae occurrit: &amp; si est noxia uel im<lb ed="#B1" n="42"/>munda, 
+          expellenda est a corde &amp; praeuenienda est ne fiat morosa propter quod designam<lb ed="#B1" n="43"/>ter 
+          dicit <ref xml:id="rhwis-l5-Rd1e382">Hier. 4.</ref> <quote xml:id="rhwis-l5-Qd1e385" source="http://scta.info/resource/ier4_14">Vsquequo morabuntur in te cogitationes noxiae</quote>: Quam autorita<lb ed="#B1" n="44"/>tem 
+          pertractans beatus <ref xml:id="rhwis-l5-Rd1e391">Greg. 17. Mora. ca. 10.</ref> dicit sic: Non reprehendit cur ueniunt,  
+          <lb ed="#B1" n="45"/>sed cur morantur. Etenim in bona corda cogitationes illicite ueniunt, sed morari 
+          <lb ed="#B1" n="46"/>prohibentur. Vnde Hier. ad Eustochium: Dum paruus est hostis, interfice, ut eius ne<lb ed="#B1" n="47"/>quicia 
+          elidat in semine. Ille praedicatur beatus qui statim ut coeperit cogitare, inter<lb ed="#B1" n="48"/>ficit 
+          cogitatus eius, &amp; allidit ad petram. Et <ref xml:id="rhwis-l5-Rd1e402">Cassiodorus</ref> exponens illud Psal. <quote xml:id="rhwis-l5-Qd1e406" source="http://scta.info/resource/ps136_8">Filia  
+          <lb ed="#B1" n="49"/>Babylonis misera</quote>, &amp;c. Filia inquam Babylonis est charo: quia confusionem peccatorum 
+          <lb ed="#B1" n="50"/>ingerit, cui digna compensatio dat, ut sicut concitat ad uitia, ita repressa subdatur uir<lb ed="#B1" n="51"/>tutibus. Vnde subdit: Beatus, qui retribuet tibi retri: tuam quam retribuisti nobis. Quam 
+          <lb ed="#B1" n="52"/>carnem retribuere bonorum est: qui etiam paruulos qui ex carne nascuntur: id est, malos 
+          <lb ed="#B1" n="53"/>motus antequam crescant, retinent, ne sint liberi &amp; allidunt ad petra CHRISTVM, 
+          <!--sap_Page_054.xml-->
+          <pb ed="#B1" n="20"/>
+          <lb ed="#B1" n="1"/>ut confracti dispereant: id est, cogitationes facilius uincuntur cum, paruae sunt.
+        </p>
+        <p xml:id="rhwis-l5-d1e427">
+          <lb ed="#B1" n="2"/>Et notandum quod non solum apud catholicos, imo apud gentiles mun<lb ed="#B1" n="3"/>dicia 
+          mentis uirginitati corporis praeferebatur, in tantum quod ubicunque po<lb ed="#B1" n="4"/>tuerit 
+          hoc perpendere, quod aliqua uirgo consecrata corrupta erat mente, i<lb ed="#B1" n="5"/>psam 
+          repulerunt a sacerdotio ac sacrificio. Narrat <ref xml:id="rhwis-l5-Rd1e437">Seneca lib. 6. declamatio<lb ed="#B1" n="6"/>num, 
+          declamatione 8 de uirgine uestali</ref>: quia scripsit hunc uersum: 
+          <lb ed="#B1" n="7"/>Felices nupte moriar vbi nubere dulce est.
+        </p>
+        <p xml:id="rhwis-l5-d1e446">
+          <lb ed="#B1" n="8"/>Et ob hanc causam uoluerunt eam sacerdotio priuasse, Esa. 1. <quote xml:id="rhwis-l5-Qd1e450" source="http://scta.info/resource/is1_16">Auferte ma<lb ed="#B1" n="9"/>lum 
+          cogitationum uestrarum ab oculis meis</quote> dicit Dominus. Et Esa. 55. <quote xml:id="rhwis-l5-Qd1e455" source="http://scta.info/resource/is55_7">Dere<lb ed="#B1" n="10"/>linquat 
+          impius uiam suam, &amp; uir iniquus cogitationes suas.</quote> 
+        </p>
+        <p xml:id="rhwis-l5-d1e461">
+          <lb ed="#B1" n="11"/>Quartum genus malarum cogitationum sunt, cogitationes infructuosae  
+          <lb ed="#B1" n="12"/>&amp; uanae, quae sine fructu &amp; utilitate sunt, de quibus in Psal. DEVS scit cogi<lb ed="#B1" n="13"/>tationes 
+          hominum, quoniam uanae sunt. Et alibi: In illa die: id est, in die mortis  
+          <lb ed="#B1" n="14"/>peribunt omnes cogitationes eorum.
+        </p>
+        <p xml:id="rhwis-l5-d1e472">
+          <lb ed="#B1" n="15"/>Vbi notandum quod omnis cogitatio mundanorum, uel est de terreno<lb ed="#B1" n="16"/>rum 
+          prouidentia: uel est de differenda poenitentia: &amp; certe utraque istarum cogi<lb ed="#B1" n="17"/>tationum 
+          perit in morte uel in die mortis. Qualiter autem perit prima cogita<lb ed="#B1" n="18"/>tio 
+          patet Luc. 12. de diuite qui cogitabat horrea sua dilatare: qualiter autem co<lb ed="#B1" n="19"/>gitatio 
+          secunda perit expresse narratur 4. Reg. 21 de Amon filio Manasse, qui  
+          <lb ed="#B1" n="20"/>uitam malam patris sui cogitans &amp; misericordiam DEI sibi finaliter conces<lb ed="#B1" n="21"/>sam: 
+          deliberauit quod in peccatis more patris iuuentutem suam duceret: postea 
+          <lb ed="#B1" n="22"/>finaliter sicut pater fecerat, poeniteret. Sed illa cogitatio perijt, quia in medio ma<lb ed="#B1" n="23"/>liciae 
+          suae a proprijs seruis interfectus est. De talibus praesumptuosis dicitur in Psal. 
+          <lb ed="#B1" n="24"/>20. <quote xml:id="rhwis-l5-Qd1e495" source="http://scta.info/resource/ps20_12">Quoniam declinauerunt in te mala, cogitauerunt consilia quae non potuerunt  
+          <lb ed="#B1" n="25"/>stabilire</quote>. Hoc est, permittente: quia maliciam conceperunt tua bonitate &amp; 
+          <lb ed="#B1" n="26"/>misericordia, &amp; sic mala sua in te declinauerunt, ideo iusto tuo iudicio cogita<lb ed="#B1" n="27"/>uerunt 
+          consilia, quae non potuerunt stabilire. Cogitatio secundum Greg. com<lb ed="#B1" n="28"/>paratur 
+          radici, 12. Mora. cap. 18. quia quod radix arbori, hoc unicuique homini 
+          <lb ed="#B1" n="29"/>sua cogitatio est. Ratio est, quia sicut radix occultatur sub terra, sed in planta su<lb ed="#B1" n="30"/>per 
+          terram manifestatur. Sic cogitatio latet sub terra corporis in praesenti, sed  
+          <lb ed="#B1" n="31"/>in operatione patet: Et in futuro erit sicut in corpore uitreo. Nunc autem est in 
+          <lb ed="#B1" n="32"/>corpore luteo, 18. Moral ca. 33. Quando autem radix desiccatur, tota planta de<lb ed="#B1" n="33"/>ficit 
+          secundum <ref xml:id="rhwis-l5-Rd1e518">Greg. 14. Mor. ca. 8.</ref> Vbi dicit: Omnis iniquus prius in cogita<lb ed="#B1" n="34"/>tionibus 
+          arescit: &amp; postea a bonis actibus deficit: Et ideo sicut ille qui uult ar<lb ed="#B1" n="35"/>borem 
+          habere bene crescentem &amp; fructiferam, summe curare debet quod 
+          <lb ed="#B1" n="36"/>radix non arescat per siccitatem: ita qui uult semetipsum fructiferum reddere 
+          <lb ed="#B1" n="37"/>in operibus uirtuosis: curet omnino quod non sit aridus in cogitationibus suis: 
+          <lb ed="#B1" n="38"/>quia nihil ita seruat hominem in mente, nec ieiunium, nec cilicium, nec uigiliae: 
+          <lb ed="#B1" n="39"/>sicut sancta contemplatio uel cogitatio contemplatiua, &amp; sicut illa duo maxi<lb ed="#B1" n="40"/>me 
+          humectant radicem ne arefiat, scilicet fimus &amp; sanguis humanus: si cali<lb ed="#B1" n="41"/>dus 
+          apponatur: ita duplex cogitatio, uidelicet de morte nostra, &amp; de CHRI<lb ed="#B1" n="42"/>STI 
+          passione praecipue in omnibus operibus nos foecundat, <ref xml:id="rhwis-l5-Rd1e541">1. Pet. 4.</ref> <quote xml:id="rhwis-l5-Qd1e544" source="http://scta.info/resource/Ipetr4_1">CHRI<lb ed="#B1" n="43"/>STO 
+          in carne passo &amp; uos eadem cogitatione armamini</quote>. Item Eccles. 7. <quote xml:id="rhwis-l5-Qd1e549" source="http://scta.info/resource/qoh7_3">Me<lb ed="#B1" n="44"/>lius 
+          est ire ad domum luctus quam ad domum conuiuij. In illa enim cuncto<lb ed="#B1" n="45"/>rum 
+          finis admonetur hominem, &amp; uiuens cogitat quid futurum sit</quote>. Secunda 
+          <lb ed="#B1" n="46"/>cogitatio comparatur tineae, secundum eundem 2. Mora. ca. 21. quia sicut tinea sine 
+          <lb ed="#B1" n="47"/>sonitu penetrat uestimentum: ita cogitatio transfigit mentem antequam per 
+          <lb ed="#B1" n="48"/>pendatur, Iob. 13. quasi putredo consumendus sum &amp; quasi uestimentum quod  
+          <lb ed="#B1" n="49"/>comeditur a tinea. Tertio comparatur ori, Mora. 15. cap. 4. Os quippe cogitatio 
+          <lb ed="#B1" n="50"/>cordis est. Omnis homo nititur habere os suum mundum &amp; summe cauet aliquid  
+          <lb ed="#B1" n="51"/>ponere foetidum in ore suo, Prover.15. Abominatio Domini cogitationes ma<lb ed="#B1" n="52"/>lae. 
+          Quarto pilis carnis comparatur, 5. Moral. 29. Pili carnis sunt uitae ueteris co<lb ed="#B1" n="53"/>gitationes. 
+          Vnde bene per Moysen dicitur, Numeri 8. Leuitae <quote xml:id="rhwis-l5-Qd1e573" source="http://scta.info/resource/num8_7">radant omnes 
+          <!--sap_Page_055.xml-->
+          <pb ed="#B1" n="21"/>
+          <lb ed="#B1" n="1"/>pilos carnis suae</quote>: quia is qui in diuinum obsequium assumitur, debet ante 
+          <lb ed="#B1" n="2"/>DEI oculos a cunctis carnis cogitationibus mundus apparere. Vtinam sic  
+          <lb ed="#B1" n="3"/>esset modernis temporibus.
+        </p>
+        <p xml:id="rhwis-l5-d1e589">
+          Sed notandum quanta est fragilitas nostra, si 
+          <lb ed="#B1" n="4"/>comparemur Apostolis, qui in primitiua Ecclesia fuerunt Apostolus enim 
+          <lb ed="#B1" n="5"/>quaerit quasi pro mirabili, Rom. 8. <quote xml:id="rhwis-l5-Qd1e595" source="http://scta.info/resource/rom8_35">Quis nos separabit a charitate CHRISTI</quote> 
+          <lb ed="#B1" n="6"/>&amp;c. Et reuera tales clerici qui successerunt in locum eorum, possunt respondere: 
+          <lb ed="#B1" n="7"/>Non mors, non gladius, sed peruersae &amp; uoluptuosae cogitationes separant 
+          <lb ed="#B1" n="8"/>nos a DEO, &amp; seruiunt hodie in Ecclesia tales presbyteri, de quibus dicitur  
+          <lb ed="#B1" n="9"/>Daniel. 13. <quote xml:id="rhwis-l5-Qd1e607" source="http://scta.info/resource/dan13_28">Venerunt duo presbyteri pleni iniqua cogitatione aduersus Su<lb ed="#B1" n="10"/>sannam</quote>: 
+          quia noluerat eis commisceri. Vos enim non sic charissimi, sed iuxta 
+          <lb ed="#B1" n="11"/>consilium Hierem. 25. <quote xml:id="rhwis-l5-Qd1e614" source="http://scta.info/resource/ier25_5">Reuertatur unusquisque a uia sua mala &amp; a cogitatio<lb ed="#B1" n="12"/>nibus 
+          suis pessimis.</quote> De secundo autem principali quod ut praemissum est, tan<lb ed="#B1" n="13"/>gitur 
+          ibi: Nec habitabit in corpore subdito peccatis: quamuis sedes DEI &amp; 
+          <lb ed="#B1" n="14"/>per consequens Sancti spiritus sit principaliter anima: tamen etiam in corpo<lb ed="#B1" n="15"/>re 
+          dicitur habitare: quia corpus accipitur pro toto composito saepius in scri<lb ed="#B1" n="16"/>pturis 
+          Sanctis, ut cum dixit CHRISTVS, hoc est corpus meum. Aut cum 
+          <lb ed="#B1" n="17"/>dicitur, homo est corpus sensitiuum: &amp; sic de similibus. Et est similis ratio hu<lb ed="#B1" n="18"/>ius 
+          sicut primi. Nam opposita non sunt in eodem. Et maxime bene apparet  
+          <lb ed="#B1" n="19"/>in operationibus corporalibus sicut patet in peruersis cogitationibus. Nam 
+          <lb ed="#B1" n="20"/>sicut ignis in sinu non absconditur: Et ex uultu animus hominis cognosci<lb ed="#B1" n="21"/>tur: 
+          Ita qualiscunque quis est sic loquitur, iudicat &amp; operatur: probatio enim di<lb ed="#B1" n="22"/>lectionis: 
+          id est, amoris qui spiritus est, exhibitio est operis: teste Greg. in ho<lb ed="#B1" n="23"/>mel. 
+          Pentecostis: Assit ergo mundicia corporis: id est, uitemus peccata carna<lb ed="#B1" n="24"/>lia 
+          &amp; corporalia: Et non regnet in cogitatu: praenominata multiplex mali<lb ed="#B1" n="25"/>cia, 
+          Et remota sunt a nobis duo sapientiae diuinae obstacula:
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
