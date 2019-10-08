@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 6 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 6 [Basel Transcription]</title>
+          <date when="2019-10-08">October 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-10-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="21"/><!--sap_Page_055.xml-->
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l6">
+        <head xml:id="rhwis-l6-Hd1e96">Lectio 6</head>
+        <p xml:id="rhwis-l6-d1e99">
+          <lb ed="#B1" n="26"/>OSTQUAM ostensum est quod per duplicem indispositionem 
+          <lb ed="#B1" n="27"/>homo impeditur ne sapientiam consequatur, uidelicet per men<lb ed="#B1" n="28"/>tis 
+          maliciam &amp; carnis immundiciam: In ista parte utriusque ratio<lb ed="#B1" n="29"/>nem assignat ostendendo quod peccatum duo mala homini fa<lb ed="#B1" n="30"/>cit. 
+          Nam aufert gratiam &amp; affert poenam: &amp; sic in ista lectione tria facit. Primo osten<lb ed="#B1" n="31"/>dit 
+          quomodo peccator quodammodo necessitat DEVM ad eum relinquendum 
+          <lb ed="#B1" n="32"/>Secundo ostendit quod hoc non est simpliciter sentiendum, imo DEVS iuste 
+          <lb ed="#B1" n="33"/>&amp; sine compulsione se subtrahit peccatori, ibi. Et aufert se.] Et tertio subiungit,  
+          <lb ed="#B1" n="34"/>quod homo per peccatum uelit nolit obligat se finaliter puniendum. ibi: Et  
+          <lb ed="#B1" n="35"/>corripietur. Dicit ergo primo sic: Spiritus enim sanctus disciplinae effugiet fictum.] 
+          <lb ed="#B1" n="36"/>Ista litera dupliciter legitur: Vno modo ut ille genitiuus disciplinae construatur  
+          <lb ed="#B1" n="37"/>cum eo quod praecedit: sic Spiritus sanctus disciplinae: id est, dator uel inspira<lb ed="#B1" n="38"/>tor 
+          disciplinae, effugiet fictum: id est, hypocritam, qui bonum praetendit ex<lb ed="#B1" n="39"/>terius, 
+          &amp; maliciam gerit interius. Vnde non est mirum si sapientia in mali  
+          <lb ed="#B1" n="40"/>uolam animam non introibit: quia Spiritus sanctus qui est autor &amp; dator sa<lb ed="#B1" n="41"/>pientiae, 
+          effugiet talem fictum. Et sic in isto assignatur ratio, quare in mali  
+          <lb ed="#B1" n="42"/>uolam animam non introibit sapientia. Consequenter subdit rationem quare 
+          <lb ed="#B1" n="43"/>nec habitabit in corpore subdito peccatis quia aufert se a cogitationibus libidi<lb ed="#B1" n="44"/>nosis 
+          &amp; bestialibus, cum sit spiritus mundiciae &amp; honestatis: Vnde quia Spiritus 
+          <!--sap_Page_056.xml-->
+          <pb ed="#B1" n="22"/>
+          <lb ed="#B1" n="1"/>ueritatis effugiet fictiones: sed quia est spiritus honestatis, effugiet bestiales co<lb ed="#B1" n="2"/>gitationes. 
+          Et hoc est quod dicit: Aufert se a cogitationibus quae sunt sine in<lb ed="#B1" n="3"/>tellectu. 
+          Aliter exponitur ista litera, ut ille genitiuus disciplinae construatur cum 
+          <lb ed="#B1" n="4"/>hoc quod dicit fictum. Et est sensus: Spiritus enim sanctus effugiet fictum disci<lb ed="#B1" n="5"/>plinae: 
+          id est, illum qui fingit se habere disciplinam cum non habeat. Sed pri<lb ed="#B1" n="6"/>mus 
+          modus legendi concordat cum Glos. Sic ergo nemo potest DEO impo<lb ed="#B1" n="7"/>nere, 
+          quod ipse sponte hominem delinquat, immo per maliciam fugatur ab eo.  
+          <lb ed="#B1" n="8"/>Et ideo dicit: Spiritus sanctus, &amp;c] Nec iterum potest homo imponete DEO, 
+          <lb ed="#B1" n="9"/>quod consentit &amp; fauet uoluptatibus bestialibus &amp; repugnantibus rationi: quia 
+          <lb ed="#B1" n="10"/>statim aufert se a cogitationibus, quae sunt sine intellectu. Cum enim intellectus 
+          <lb ed="#B1" n="11"/>sit hominis naturalis perfectio &amp; suprema nobilitas, per quem compescere de<lb ed="#B1" n="12"/>bet 
+          motus irrationabiles carnis: quando ita est quod aliquis carnalibus cogita<lb ed="#B1" n="13"/>tionibus 
+          est subditus, talis cogitationes habet sine intellectu, totaliter sensua<lb ed="#B1" n="14"/>les 
+          &amp; bestiales: contra quales loquitur Psal. <quote xml:id="rhwis-l6-Qd1e177" source="http://scta.info/resource/ps31_9">Nolite fieri sicut equus &amp; mulus, 
+          <lb ed="#B1" n="15"/>quibus non est intellectus</quote>. Quia a talibus se aufert Spiritus sapientiae.
+        </p>
+        <p xml:id="rhwis-l6-d1e183">
+          <lb ed="#B1" n="16"/>Notandum est secundum <ref xml:id="rhwis-l6-Rd1e187" target="http://scta.info/resource/aristneth-l7">Aristotelem 7. Ethico. cap. 3.</ref> tres sunt species fu<lb ed="#B1" n="17"/>giendae 
+          circa mores, uidelicet incontinentia, malitia, &amp; bestialitas. Incontinen<lb ed="#B1" n="18"/>tia 
+          est secundum Aristotelem quando ita est quod aliquis habet rectam aestima<lb ed="#B1" n="19"/>tionem 
+          &amp; sufficientem informationem quid deberet facere &amp; quid uitare: pas<lb ed="#B1" n="20"/>sio 
+          tamen tentationis est uehemens in appetitu sensitiuo, quod ipse succum<lb ed="#B1" n="21"/>bit 
+          passioni, &amp; recedit a sententia sui iudicij, &amp; propriae conscientiae: faciendo 
+          <lb ed="#B1" n="22"/>illud quod scit sibi esse prohibitum, &amp; ideo uocatur incontinens: quia non com<lb ed="#B1" n="23"/>tinet 
+          se infra limites propriae conscientiae, sed propter passionem regreditur &amp; 
+          <lb ed="#B1" n="24"/>recedit a iudicio conscientiae. Et haec est prima species fugienda circa mores.
+        </p>
+        <p xml:id="rhwis-l6-d1e208">
+          <lb ed="#B1" n="25"/>Secunda est malicia: &amp; est secundum eum habitus malus generatus ex assue 
+          <lb ed="#B1" n="26"/>factione sequendi passiones per quem malum habitum recta aestimatio siue bo<lb ed="#B1" n="27"/>na 
+          conscientia iam est corrupta, in tantum, quod iudicat omne illud esse bonum 
+          <lb ed="#B1" n="28"/>&amp; persequendum ad quod appetitus sensitiuus inclinat. Et ideo talis iam ex ele<lb ed="#B1" n="29"/>ctione 
+          &amp; non ex passione operatur peruersa: &amp; iste multo peior est quam incon<lb ed="#B1" n="30"/>tinens: 
+          unde talis apud <name>Aristotelem</name> uocatur intemperatus: sicut patet <ref xml:id="rhwis-l6-Rd1e226" target="http://scta.info/resource/aristneth-l7"><!-- dbcheck ref-->cap. 10. 
+          <lb ed="#B1" n="31"/>eiusdem libri</ref>. Vnde <name>Seneca</name> de copia uerborum pene ante finem. Tunc est con<lb ed="#B1" n="32"/>summata 
+          infelicitas ubi turpia non solum delectant, sed etiam placent, &amp; desi 
+          <lb ed="#B1" n="33"/>nit esse remedio locus: ubi quae fuerant uitia, mores sunt.
+        </p>
+        <p xml:id="rhwis-l6-d1e240">
+          <lb ed="#B1" n="34"/>Tertia species fugiendorum circa mores uocatur bestialitas. Sicut autem ma<lb ed="#B1" n="35"/>licia 
+          excedit incontinentiam, ita bestialitas excedit maliciam. Vnde quando  
+          <lb ed="#B1" n="36"/>malicia est tanta quod excedit limites humanae affectionis circa materiam irae 
+          <lb ed="#B1" n="37"/>uel libidinis uel cuiuscunque peecati: tunc dicitur talis homo bestialis, &amp; malicia 
+          <lb ed="#B1" n="38"/>sua vocatur bestialitas. Sicut enim quando affectiones partis intellectiuae, assi<lb ed="#B1" n="39"/>milantur 
+          in claritate &amp; honestate cogitationibus &amp; affectionibus intelligen<lb ed="#B1" n="40"/>tiarum 
+          siue angelorum, uocatur uirtus diuina siue heroica: Ita per oppositum 
+          <lb ed="#B1" n="41"/>quando per affectiones partis sensitiuae corrumpuntur &amp; deprimuntur ad si 
+          <lb ed="#B1" n="42"/>militudinem bestiarum: malicia talis personae uocatur bestialitas. Homo enim 
+          <lb ed="#B1" n="43"/>in quodam medio confinio constituitur inter substantias diuinas &amp; bestias: &amp; 
+          <lb ed="#B1" n="44"/>ideo si sapiat naturam alterius extremi ab illo denominatur. Et ideo uiri excel<lb ed="#B1" n="45"/>lentes 
+          in contemplatione &amp; honestate uocantur diuini uiri: &amp; excedentes in 
+          <lb ed="#B1" n="46"/>malicia uocantur bestiales, sicut <ref xml:id="rhwis-l6-Rd1e270" target="http://scta.info/resource/aristneth-l7"><!-- dbcheck ref -->ibidem dicit Arist.</ref> &amp; a talibus cogitationibus 
+          <lb ed="#B1" n="47"/>tam incontinentiae quam maliciae &amp; bestialitatis aufert se Spiritus sanctus, &amp; 
+          <lb ed="#B1" n="48"/>eas diligentem proijcit in infernum. Contra quod signanter petit Psal. <quote xml:id="rhwis-l6-Qd1e278" source="http://scta.info/resource/ps50_13">ne pro<lb ed="#B1" n="49"/>ijcias 
+          me a facie tua, &amp; Spiritum sanctum tuum ne auferas a me</quote>. Sequitur in li<lb ed="#B1" n="50"/>tera 
+          uel textu: Et corripietur a superueniente iniquitate.] id est, fictus talis qui  
+          <lb ed="#B1" n="51"/>per suam maliciam fugat a se Spiritum sanctum, certe non euadit finaliter im<lb ed="#B1" n="52"/>pune: 
+          immo corripietur: id est, per rationem iuste damnabitur: &amp; hoc a super 
+          <lb ed="#B1" n="53"/>ueniente iniquitate: id est, propter iniquitatem quae eius conscientiam opprimet,  
+          <!--sap_Page_057.xml-->
+          <pb ed="#B1" n="23"/>
+          <lb ed="#B1" n="1"/>sicut onus graue, iuxta illud Psalm. <quote xml:id="rhwis-l6-Qd1e299" source="http://scta.info/resource/ps37_5">Iniquitates meae supergressae sunt caput 
+          <lb ed="#B1" n="2"/>meum</quote>, &amp; sicut onus graue grauatae sunt super me. Et nota quod aliter corri<lb ed="#B1" n="3"/>pitur 
+          poenitens de peccato, &amp; aliter impoenitens: Nam in correptione poeni<lb ed="#B1" n="4"/>tentis 
+          superueniet mansuetudo &amp; misericordia per quam peccatum dimitti 
+          <lb ed="#B1" n="5"/>tur, &amp; homo DEO reconciliatur. Vnde Psal. <quote xml:id="rhwis-l6-Qd1e310" source="http://scta.info/resource/ps89_10">Quoniam superuenit mansuetudo 
+          <lb ed="#B1" n="6"/>&amp; corripiemur</quote>. Sed certe in correptione impoenitentis finaliter superueniet ira 
+          <lb ed="#B1" n="7"/>DEI ex una parte, &amp; propria iniquitas ex alia parte, Baruch. 4. <quote xml:id="rhwis-l6-Qd1e318"><!--baruch 4:35 -->Ignis enim su<lb ed="#B1" n="8"/>perueniet 
+          ab aeterno in longiturnis diebus</quote>.
+        </p>
+        <p xml:id="rhwis-l6-d1e326">
+          <lb ed="#B1" n="9"/>Dubitatio potest esse, an Spiritus sanctus detestetur &amp; fugiat omnem fi<lb ed="#B1" n="10"/>ctionem.
+        </p>
+        <p xml:id="rhwis-l6-d1e333">
+          Et probatur quod non. Quia Lucae ultimo dicitur de CHRISTO, 
+          <lb ed="#B1" n="11"/>quod longius se finxit ire, &amp; tamen proposuit cum eis manere. Ergo simula<lb ed="#B1" n="12"/>batunum 
+          exterius &amp; aliud intendebat interius.
+        </p>
+        <p xml:id="rhwis-l6-d1e340">
+          Praeterea <ref xml:id="rhwis-l6-Rd1e342">Luc. 9.</ref> legitur, &amp; <ref xml:id="rhwis-l6-Rd1e345">Matt.  
+          <lb ed="#B1" n="13"/>17</ref> quod CHRISTO transfigurato coram discipulis apparuerunt Moyses &amp; 
+          <lb ed="#B1" n="14"/>Helias. Quaero ergo an apparuerunt ibi uere, aut imaginarie: si imaginarie, tunc 
+          <lb ed="#B1" n="15"/>fuit fictio. Si uere, tunc Moyses fuit ibi suscitatus, &amp; Helias de Paradiso trans<lb ed="#B1" n="16"/>latus. 
+          Sed hoc non apparet uerum: quia beatus Augustinus habet pro incon<lb ed="#B1" n="17"/>uenienti 
+          quod anima Samuelis fuit resuscitata quando Samuel mortuus ui<lb ed="#B1" n="18"/>debatur 
+          apparere Sauli. Et dicit quod fuit illusio imaginaria Diaboli, &amp; non 
+          <lb ed="#B1" n="19"/>spiritus Samuelis a requie sua suscitatus.
+        </p>
+        <p xml:id="rhwis-l6-d1e364">
+          Praeterea Gloss. Luc. 9. super illud: Ap<lb ed="#B1" n="20"/>paruerunt 
+          Moyses &amp; Helias, dicit. Sciendum est, non corpora uel animas Moysis &amp;  
+          <lb ed="#B1" n="21"/>Heliae ibi apparuisse, sed in subiecta creatura illa corpora fuisse formata. Potest 
+          <lb ed="#B1" n="22"/>etiam credi quod angelico ministerio factum sit, ut angeli eorum personas assumerent.
+        </p>
+        <p xml:id="rhwis-l6-d1e373">
+          <lb ed="#B1" n="23"/>Praeterea illa claritas transfigurationis aut fuit uera, &amp; in CHRISTI cor<lb ed="#B1" n="24"/>pore 
+          realiter, uel imaginarie tantum. Si secundum habetur propositum: si 
+          <lb ed="#B1" n="25"/>primum, contra. Corpus CHRISTI in rei ueritate fuit opacum &amp; terminatum 
+          <lb ed="#B1" n="26"/>&amp; coloratum. Gloss. Bed. Luc. 9. super illud: Non gustabunt mortem donec uide<lb ed="#B1" n="27"/>rint 
+          regnum DEI: id est, glorificationem corporis in imaginaria repraesentatione. 
+          <lb ed="#B1" n="28"/>Ergo illa claritas fuit imaginaria tantum.
+        </p>
+        <p xml:id="rhwis-l6-d1e389">
+          Praeterea in corpore CHRISTI post re<lb ed="#B1" n="29"/>surrectionem 
+          apparuerunt cicatrices, imo discontinuatio carnis: quia Thomas 
+          <lb ed="#B1" n="30"/>misit manum in latus CHRISTI. Quaero ergo aut apparuit imaginarie tantum, 
+          <lb ed="#B1" n="31"/>&amp; sic fuerunt Apostoli delusi, &amp; non fuit probatio resurrectionis uera: uel fuit illa 
+          <lb ed="#B1" n="32"/>apertura uulnerum uera &amp; realis: &amp; si sic, contra: In corpore glorioso nullus ma<lb ed="#B1" n="33"/>nebit 
+          defectus naturae, uel corruptio, uel deformitas. Sed cicatrices aperturae,  
+          <lb ed="#B1" n="34"/>uel discontinuatio partium corporis CHRISTI fuit deformitas &amp; defectus natu<lb ed="#B1" n="35"/>rae. 
+          Ergo nihil tale ibi fuit. Quia corpus CHRISTI fuit tunc ita gloriosum sicut  
+          <lb ed="#B1" n="36"/>est modo.
+        </p>
+        <p xml:id="rhwis-l6-d1e410">
+          Ad oppositum est Scriptura sacra hic: Item Gre. in Hom. Nihil per duplici<lb ed="#B1" n="37"/>tatem 
+          simplex ueritas fecit: sed talem se foris exhibuit eis in corpore, qualis erat eis  
+          <lb ed="#B1" n="38"/>in mente. Hoc enim egit foris Dominus in oculis corporis, quid apud illos agebatur 
+          <lb ed="#B1" n="39"/>in oculis mentis. Apud semetipsos intus eum amabant, &amp; dubitabant: Et Dominus eis  
+          <lb ed="#B1" n="40"/>praesens aderat propter hoc quod amabant: sed aberat, propter hoc quid dubitabant.
+        </p>
+        <p xml:id="rhwis-l6-d1e421">
+          <lb ed="#B1" n="41"/>Ad istam quaestionem aliter respondendum est secundum usum loquendi moder<lb ed="#B1" n="42"/>norum, 
+          &amp; aliter secundum modum loquendi sanctorum. Apud modernos nanque  
+          <lb ed="#B1" n="43"/>ex comuni usu loquendi. Iste terminus fictio importat deordinationem &amp; falsi<lb ed="#B1" n="44"/>tatem: 
+          &amp; secundum hoc manifestum est, quod Spiritus sanctus effugiet omnem fi<lb ed="#B1" n="45"/>ctionem. 
+          Sed secundum modum loquendi sanctorum, iste terminus fictio, 
+          <lb ed="#B1" n="46"/>non necessario importat siue connotat falsitatem siue deordinationem, sed  
+          <lb ed="#B1" n="47"/>possibile est, quod fictio significet sicut est: &amp; tunc fictio non est falsum: Vnde 
+          <lb ed="#B1" n="48"/><ref xml:id="rhwis-l6-Rd1e439">Augustinus in libro de quaestionibus Euangelij</ref>: Non omen quod fingimus 
+          <lb ed="#B1" n="49"/>mendacium est, sed quando illud fingimus quod nihil significat, tunc menda<lb ed="#B1" n="50"/>cium 
+          est. Cum autem fictio nostra referatur ad aliquam significationem, non 
+          <lb ed="#B1" n="51"/>est mendacium, sed aliqua figura ueritatis: sic enim Dominus finxit se longius 
+          <lb ed="#B1" n="52"/>ire: quia composuit motum suum quem uolens ire ad aliquid significandum.
+          <!-- para break -->
+          <lb ed="#B1" n="53"/>Item <ref xml:id="rhwis-l6-Rd1e455">Damas. 4. Sententiarum cap. 10</ref>. Eorum quae post resurrectionem CHRI<!--sap_Page_058.xml--><pb ed="#B1" n="24"/><lb ed="#B1" n="1"/>STO 
+          infuerunt, modi sunt diuersi. Nam haec quidem naturae, sed non secun<lb ed="#B1" n="2"/>dum 
+          naturam: sed secundum dispensationem ad certificandum uel credi facien<lb ed="#B1" n="3"/>dum, 
+          quoniam ipsum quod passum est corpus resurrexit, ut, cicatrices, pota<lb ed="#B1" n="4"/>tio, 
+          cibatio post resurrectionem. Alia autem uere &amp; secundum naturam, ut 
+          <lb ed="#B1" n="5"/>transire de loco ad locum infatigabiliter, &amp; per clausas ianuas intrare. Alia 
+          <lb ed="#B1" n="6"/>autem secundum fictionem, ut illud finxit se longius ire. Ex istis patet quod  
+          <lb ed="#B1" n="7"/>non omnis fictio conuoluit secum maliciam uel dcordinatam. Et dicendum 
+          <lb ed="#B1" n="8"/>est ad quaestionem quod Spiritus sanctus quamlibet fictionem deordinatam  
+          <lb ed="#B1" n="9"/>detestatur &amp; non aliam.
+        </p>
+        <p xml:id="rhwis-l6-d1e481">
+          <lb ed="#B1" n="10"/>Per hoc ad primum argumentum quod illa non fuit deordinata. Sed fuit  
+          <lb ed="#B1" n="11"/>figura significans quales fuerunt illi discipuli amando &amp; dubitando secundum 
+          <lb ed="#B1" n="12"/>Greg. Ad secundum dicendum quod in transfiguratione Domini Moyses &amp; 
+          <lb ed="#B1" n="13"/>Helias uere realiter &amp; personaliter apparuerunt ibi: sicut docet Augustinus de Mi<lb ed="#B1" n="14"/>rabilibus 
+          diuinarum scripturarum cap. 9.
+        </p>
+        <p xml:id="rhwis-l6-d1e494">
+          <lb ed="#B1" n="15"/>Circa quorum apparitionem notanda sunt quatuor. Primum quod in suis 
+          <lb ed="#B1" n="16"/>ueris corporibus ibi fuerit. Secundum, quod in Moyse non fuit finaliter resur<lb ed="#B1" n="17"/>rectio 
+          completa, sed corpus suum iterato in terram seu puluerem est reuersum, 
+          <lb ed="#B1" n="18"/>Tertium est quod corpora sanctorum istorum non perfecte sed similitudinarie, 
+          <lb ed="#B1" n="19"/>habuerunt resurrectionis futurae gloriam pro tunc: unde <ref xml:id="rhwis-l6-Rd1e507">Luc. 9.</ref> dicitur, quod  
+          <lb ed="#B1" n="20"/>Moyses &amp; Helias uisi erant in maiestate &amp; gloria. Quantum ad hoc dicit san<lb ed="#B1" n="21"/>ctus 
+          Thomas, quod claritas in Moyse &amp; Helia non fuit eiusdem generis cum 
+          <lb ed="#B1" n="22"/>claritate corporum in patria, sicut claritas CHRISTI fuit: sed fuit quae<lb ed="#B1" n="23"/>dam 
+          claritas sic se habens ad illam, sicut fides in uia ad uisionem in patria, &amp; 
+          <lb ed="#B1" n="24"/>ideo aspectum Apostolorum non offendebat quod non fuit de claritate 
+          <lb ed="#B1" n="25"/>CHRISTI. Et huius ratio est: quia anima CHRISTI glorificata fuit, non autem 
+          <lb ed="#B1" n="26"/>anima Moysis. Et ideo corpori eius potuit conuenienter attribui claritas 
+          <lb ed="#B1" n="27"/>gloriosa, non autem corpori Moysis, ne prius esset gloria in corpore, quam in 
+          <lb ed="#B1" n="28"/>anima: &amp; hoc uidetur mihi rationabiliter dictum. Quartum est quod aliter 
+          <lb ed="#B1" n="29"/>fuit de apparitione Samuelis: quia ibi fuit unum corpus formatum ex aëre,  
+          <lb ed="#B1" n="30"/>quod apparuit esse corpus Samuelis per opus Diaboli.
+        </p>
+        <p xml:id="rhwis-l6-d1e534">
+          <lb ed="#B1" n="31"/>Ad secundum argumentum aliter respondet sanctus <ref xml:id="rhwis-l6-Rd1e538">Thomas super 3 
+          <lb ed="#B1" n="32"/>senten.16. quaestione 4 arti. 5.</ref> ibi dicit quod glossa quae allegatur in tertio ar<lb ed="#B1" n="33"/>gumento 
+          est a magistris impunctata uel suspecta, &amp; subdit: Vnde dicen<lb ed="#B1" n="34"/>dum 
+          est, quod uterque illorum ibi apparuit: sed Helias in corpore &amp; anima, 
+          <lb ed="#B1" n="35"/>Moyses in anima tantum, quae apparere potuit: uel per corpus assumptum, si 
+          <lb ed="#B1" n="36"/>cut angeli apparent: uel poterat anima speciem causare in oculis uidentium 
+          <lb ed="#B1" n="37"/>repraesentantem hominem, cuius erat illa anima. Sed haec responsio uidetur  
+          <lb ed="#B1" n="38"/>dici oppositum. Nam dicit, quod Moyses &amp; Helias ibi uere apperuerunt, &amp; tamen 
+          <lb ed="#B1" n="39"/>tantum fuit ibi alter eorum. Et similiter <ref xml:id="rhwis-l6-Rd1e558">Augustinus dicit oppositum de mira<lb ed="#B1" n="40"/>bilibus 
+          diuinarum scripturarum cap. 9</ref>. Et <ref xml:id="rhwis-l6-Rd1e563">textus Euangelij</ref> idem sonat. Et si 
+          <lb ed="#B1" n="41"/>militer dicit <ref xml:id="rhwis-l6-Rd1e569">Albertus super Luc. cap. 9.</ref> quod ibi Moyses apparuit in propria 
+          <lb ed="#B1" n="42"/>persona: quia aliter eius testimonium parum ualuisset: &amp; tamen nullus erat  
+          <lb ed="#B1" n="43"/>ibi in proprio corpore, sed in corpore sibi ab angelis aptato: nec est credendum 
+          <lb ed="#B1" n="44"/>quod corpus suum putridum resurrexit ad hanc uisionem peragendam: ani<lb ed="#B1" n="45"/>ma 
+          tamen sua de limbo uenit. Poenam tamen uidelicet carentiam diui<lb ed="#B1" n="46"/>nae 
+          uisionis non amisit: Vnus uenit de inferno, alius de Paradiso, unus de 
+          <lb ed="#B1" n="47"/>mortuis, alter de uiuis: ut ille ostenderetur de quo <ref xml:id="rhwis-l6-Rd1e585">Sapientiae 16</ref>. <quote xml:id="rhwis-l6-Qd1e588">Tu es Domi<lb ed="#B1" n="48"/>ne 
+            qui uitae &amp; mortis habes potestatem</quote>. Sed tam Albertus quam sanctus Tho<lb ed="#B1" n="49"/>mas 
+          uidentur sic dicere diminute sine praeiudicio. Textus enim dicit, <ref xml:id="rhwis-l6-Rd1e595">Luc. 9.</ref> 
+          <lb ed="#B1" n="50"/>expresse, quod duo uiri loquebantur cum illo. Erant autem Moyses &amp; Helias 
+          <lb ed="#B1" n="51"/>uisi in maiestate. Item <ref xml:id="rhwis-l6-Rd1e603">Chrysostomus</ref> dicit, quod unus de mortuis, alius de ui<lb ed="#B1" n="52"/>uis 
+          adducti sunt ad testificandum. Et satis credibile &amp; rationabile est quod  
+          <lb ed="#B1" n="53"/>corpus Moysi resuscitatum fuit propter idem testimonium peragendum: sicut 
+          <!--sap_Page_059.xml-->
+          <pb ed="#B1" n="25"/>
+          <lb ed="#B1" n="1"/>multi alij resurrexerunt CHRISTO resurgente, qui postea obierunt secun<lb ed="#B1" n="2"/>dum 
+          <ref xml:id="rhwis-l6-Rd1e619">Aug. de Mirabilibus diuinarum scripturarum lib. 3. cap. 10.</ref>
+        </p>
+        <p xml:id="rhwis-l6-d1e623">
+          <lb ed="#B1" n="3"/>Ad tertium argumentum dicendum est, quod Glossa illa est suspecta, &amp; 
+          <lb ed="#B1" n="4"/>antiquis magistris negata.
+        </p>
+        <p xml:id="rhwis-l6-d1e631">
+          <lb ed="#B1" n="5"/>Ad quartum de claritate faciei Domini in transfiguratione dicendum, 
+          <lb ed="#B1" n="6"/>quod fuit in ea uere &amp; realiter: tamen per miraculum &amp; non per aliquam for<lb ed="#B1" n="7"/>mam 
+          immanentem corpori CHRISTI, sicut erit in corporibus glorificatis 
+          <lb ed="#B1" n="8"/>post resurrectionem. Et fuit ille fulgur eiusdem speciei cum fulgore corporum glo<lb ed="#B1" n="9"/>rificatorum: 
+          non ita tamen perfectus sicut claritas uiae assimilatur claritati patriae. 
+          <lb ed="#B1" n="10"/>Non tamen fuit in toto profundo corporis, sed in superficie tantum: &amp; sic non 
+          <lb ed="#B1" n="11"/>est impossibile idem corpus fore opacum intrinsecus &amp; lucidum in superficie. 
+          <lb ed="#B1" n="12"/>Quod autem dicit Gloss. Bedae, quod fuit imaginaria repraesentatio, dicit pro 
+          <lb ed="#B1" n="13"/>tanto: quia fuit imago &amp; figura glorificationis futurae.
+        </p>
+        <p xml:id="rhwis-l6-d1e653">
+          <lb ed="#B1" n="14"/>Ad quintum de uulneribus &amp; cicatricibus in corpore CHRISTI post resur<lb ed="#B1" n="15"/>rectionem: 
+          dicendum quod aliud est loqui de cicatricibus, &amp; aliud de uulneribus 
+          <lb ed="#B1" n="16"/>siue de discontinuatione carnis in corpore CHRISTI. Nam quod fuerunt ci<lb ed="#B1" n="17"/>catrices, 
+          omnes doctores concedunt. Sed de uulneribus uel discontinuatione 
+          <lb ed="#B1" n="18"/>plane hoc negat Albertus. Imo hoc repugnaret glorificationi, quae non erit si 
+          <lb ed="#B1" n="19"/>ne integritate naturae. Nec est credendum quod Thomas miserit manus suas 
+          <lb ed="#B1" n="20"/>intra latus CHRISTI: quia hoc fuisset temerarium in Apostolo &amp; infirmum 
+          <lb ed="#B1" n="21"/>in Domino: sed uerum est quod latus tetigit &amp; cicatrices uidit: unde ad aspe<lb ed="#B1" n="22"/>ctum 
+          uulnerum credidit &amp; non ad tactum: &amp; ideo dictum est ei: quia uidisti 
+          <lb ed="#B1" n="23"/>me, &amp;c. Et addit Albertus, quod cicatrix non affert difformitatem, nisi quod  
+          <lb ed="#B1" n="24"/>mutat situm uel figuram membris: sed cicatrices in CHRISTO fuerunt ita sub  
+          <lb ed="#B1" n="25"/>tiles, quod hoc non fecerint. Vnde secundum <ref xml:id="rhwis-l6-Rd1e681" target="http://scta.info/resource/adcd-l22-d1e3745">Augustinum ultimo de Ciu. DEI cap.  
+          <lb ed="#B1" n="26"/>19.</ref><!-- no real direct quote here --> huiusmodi cicatrices uulnerum manebunt in martyribus sine quacunque 
+          <lb ed="#B1" n="27"/>difformitate: imo ad decorem quasi quaedam insignia uictoriae suae: Et sic pro<lb ed="#B1" n="28"/>babiliter 
+          tenetur quod cicatrices sunt &amp; semper manebunt in corpore CHRI<lb ed="#B1" n="29"/>STI, 
+          sicut dicit <ref xml:id="rhwis-l6-Rd1e694" target="http://scta.info/resource/ta-l3d21q2-d1e414"><!--ref needs dbcheck -->sanctus Thomas super tertium Sententiarum dist. 21. articulo  
+          <lb ed="#B1" n="30"/>penult.</ref> Quod autem uulnera ibi non fuerunt, dicit <ref xml:id="rhwis-l6-Rd1e700">beatus Augustinus lib. 6. 
+          <lb ed="#B1" n="31"/>quaestionum contra Pelagianos</ref>: Sciant, inquit, qui has quaestiones proposue<lb ed="#B1" n="32"/>runt: 
+          CHRISTVM non uulnera, sed signa vulnerum cicatrices discipulis de<lb ed="#B1" n="33"/>monstrasse, 
+          quae tunc falsae essent, si nulla vulnera praecessissent. <ref xml:id="rhwis-l6-Rd1e709">Sanctus Tho<lb ed="#B1" n="34"/>mas 
+          supra quarto quaestione 24. articulo autem ultimo in solutione secundi ar<lb ed="#B1" n="35"/>gumenti</ref> 
+          tenet, quod in CHRISTO fuit apertura uulnerum &amp; solutio continuita<lb ed="#B1" n="36"/>tis 
+          recompensata per maiorem decorem gloriae, &amp; quod Thomas tetigit uulnera.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
