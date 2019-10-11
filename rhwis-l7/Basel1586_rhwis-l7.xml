@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 7 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 6 [Basel Transcription]</title>
+          <date when="2019-10-10">October 10, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-10-10" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="25"/><!--sap_Page_059.xml-->
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l7">
+        <head xml:id="rhwis-l7-Hd1e96">Lectio 7</head>
+        <p xml:id="rhwis-l7-d1e99">
+          <lb ed="#U" n="37"/>HVC usque docuit Sapiens, qualiter homo uirtuosus ordinare debet  
+          <lb ed="#U" n="38"/>in DEUM suas affectiones. Hic autem exequitur informare quo 
+          <lb ed="#U" n="39"/>modo debet in DEVM ordinare suas locutiones. Et circa hoc sic
+          <!--sap_Page_060.xml-->
+          <pb ed="#B1" n="26"/>
+          <lb ed="#B1" n="1"/>procedit: Primo docet uitare maliciam loquendi in generali. Secundo quaedam uitia 
+          <lb ed="#B1" n="2"/>loquendi dissuadet in speciali, ibi: custodite igitur vos. Circa primum duo facit. 
+          <lb ed="#B1" n="3"/>Primo ostendit quod maliloquus non potest euadere impunitus in iudicio  
+          <lb ed="#B1" n="4"/>per culpae suae tergiuersionem. Secundo quod non potest euadere impunitus 
+          <lb ed="#B1" n="5"/>per culpae suae occultationem, ibi: Propter hoc qui loquitur. Circa primum duo 
+          <lb ed="#B1" n="6"/>facit: Primo ostendit, quod iudex suus habet de eo plenariam cognitionem. 
+          <lb ed="#B1" n="7"/>Secundo suae tantae noticiae assignat rationem, ibi: quoniam spiritus Domini, &amp;c 
+          <lb ed="#B1" n="8"/>Circa primum adhuc duo facit. Nam primo ostendit quod iudex peccatoris ma<lb ed="#B1" n="9"/>liloqui 
+          habet ad bonos summam pietatem: Secundo quod seruat ad malos iustam  
+          <lb ed="#B1" n="10"/>aequitatem, ibi: &amp; non liberabit maledictum. Dicit ergo primo sic: Benignus est 
+          <lb ed="#B1" n="11"/>spiritus sapientiae, &amp; potest hic spiritus accipi dupliciter: notionaliter pro Spi<lb ed="#B1" n="12"/>ritu 
+          sancto, iuxta illud <ref xml:id="rhwis-l7-Rd1e138">Ioh. 15.</ref> <quote xml:id="rhwis-l7-Qd1e141" source="http://scta.info/resource/io15_26">Spiritus ueritatis, qui a patre, procedit, ille testimo<lb ed="#B1" n="13"/>nium 
+          perhibebit de me</quote>: essentialiter, pro tota Trinitate, quae est DEVS, iuxta illud  
+          <lb ed="#B1" n="14"/>4. Spiritus est DEVS &amp; eos qui adorant eum in spiritu &amp; veritate, oportet adora<lb ed="#B1" n="15"/>re. 
+          Et siue uno modo accipiatur, siue alio modo, benignus est spiritus sapientiae.
+        </p>
+        <p xml:id="rhwis-l7-d1e151">
+          <lb ed="#B1" n="16"/>Est enim benignus iustos exaudiendo, malos reducendo, cunctos recte regendo:  
+          <lb ed="#B1" n="17"/>de primo in Psal. <quote xml:id="rhwis-l7-Qd1e157" source="http://scta.info/resource/ps68_17">Exaudi me Domine, quoniam benigna est misericordia tua</quote>. Est 
+          <lb ed="#B1" n="18"/>etiam benignus malos reducendo, iuxta illud <ref xml:id="rhwis-l7-Rd1e162">Rom. 2.</ref> <quote xml:id="rhwis-l7-Qd1e166" source="http://scta.info/resource/rom2_4">ignoras quoniam benignitas DEI 
+          <lb ed="#B1" n="19"/>ad poenitentiam te adducit</quote>. De tertio <ref xml:id="rhwis-l7-Rd1e171">Luc. 6.</ref> <quote xml:id="rhwis-l7-Qd1e174" source="http://scta.info/resource/lc6_35">Benignus est super ingratos &amp; malos</quote> 
+          <lb ed="#B1" n="20"/>Et <ref xml:id="rhwis-l7-Rd1e179">Matt. 5.</ref> <quote xml:id="rhwis-l7-Qd1e182" source="http://scta.info/resource/mt5_45">Solem suum oriri facit super bonos &amp; malos</quote>. Sic igitur iste sapientiae spi<lb ed="#B1" n="21"/>ritus 
+          habet ad bonos summam pietatem, &amp; tamen non ideo praesumat peccator ma<lb ed="#B1" n="22"/>liloquus, 
+          qui se finaliter non emendat que sit euasurus impune: quia non liberabit  
+          <lb ed="#B1" n="23"/>maledictum id est maledicentem uel detractorem a labijs suis id est a poena sibi debita pro 
+          <lb ed="#B1" n="24"/>peccatis labiorum suorum: Quia sic dicit Psalmista, <ref xml:id="rhwis-l7-Rd1e194">Ps.139.</ref> <quote xml:id="rhwis-l7-Qd1e197" source="http://scta.info/resource/ps139_10 http://scta.info/resource/ps139_11 http://scta.info/resource/ps139_12">Labor labiorum operiet  
+          <lb ed="#B1" n="25"/>eos (usque) uir linguosus non diriget in terra, uirum iniustum mala capient in interritu</quote> 
+          <lb ed="#B1" n="26"/>Et quia posset aliquis quarere quomodo puniet Spiritus sanctus malos homines 
+          <lb ed="#B1" n="27"/>cum non ostendat se modo nosse eorum peccata. Ideo consequenter ostendit que iudex  
+          <lb ed="#B1" n="28"/>ille omnium peccatorum plenariam habet cognitionem. Et subdit: quoniam renum illius 
+          <lb ed="#B1" n="29"/>testis est DEVS &amp; cordis ipsius scrutator.] Tria enim sunt quae uellet peccator maxi 
+          <lb ed="#B1" n="30"/>me latere: uidelicet delectationem suae uoluptatis: cogitationem conceptae uanitatis: 
+          <lb ed="#B1" n="31"/>locutionem communicatae peruersitatis: &amp; tamen omnia ista DEVS nude uidet.  
+          <lb ed="#B1" n="32"/>Ista aut tria tangit Sapiens per tria corporis organa, uidelicet renes, cor &amp; linguam. 
+          <lb ed="#B1" n="33"/>In renibus uiget uoluptas: in corde uanitas: &amp; in lingua peruersitas: Et respectu 
+          <lb ed="#B1" n="34"/>istorum trium tres actus DEO attribuit. Nam respectu uoluptatis ipse est testis: 
+          <lb ed="#B1" n="35"/>respectu uanitatis ipse est scrutator. Scrutari enim est ad interiora &amp; latentia pe<lb ed="#B1" n="36"/>netrare, 
+          in Psalm. <quote xml:id="rhwis-l7-Qd1e226" source="http://scta.info/resource/ps7_10">Scrutans corda &amp; renes DEVS</quote>: sed respectu peruersitatis suae 
+          <lb ed="#B1" n="37"/>falsitatis ipse est auditor: ergo habemus quod DEVS potest esse iudex &amp; te<lb ed="#B1" n="38"/>stis. 
+          Testis, quia uidet &amp; audit: iudex, quia scrutator &amp; inuestigator est cordis, 
+          <lb ed="#B1" n="39"/><ref xml:id="rhwis-l7-Rd1e235">Hier. 29.</ref> <quote xml:id="rhwis-l7-Qd1e238" source="http://scta.info/resource/ier29_23">Ego sum iudex &amp; testis dicit Dominus</quote>. Ergo patet cum sit summe 
+          <lb ed="#B1" n="40"/>iustus, non liberabit maledictum a labijs suis. Sed quia posset esse dubium, 
+          <lb ed="#B1" n="41"/>unde habet ille spiritus sapientiae quod uideat &amp; audiat &amp; scrutetur omnia: 
+          <lb ed="#B1" n="42"/>ideo consequenter assignat suae cognitionis rationem. Est autem ratio: quia spi<lb ed="#B1" n="43"/>ritus 
+          ille est ubique praesentialiter &amp; potentialiter, &amp; essentialiter: &amp; hoc est quod  
+          <lb ed="#B1" n="44"/>subdit: quoniam spiritus Domini repleuit orbem terrarum. Et potest legi hoc nomen 
+          <lb ed="#B1" n="45"/>Domini, uel intransitiue: ut sit similis, spiritus Domini id est spiritus qui est Dominus: 
+          <lb ed="#B1" n="46"/>uel transitiue: id est, spiritus qui est a DEO Patre &amp; a DEO Filio, iste repleuit orbem 
+          <lb ed="#B1" n="47"/>terrarum, <ref xml:id="rhwis-l7-Rd1e259">Hier. 23.</ref> <quote xml:id="rhwis-l7-Qd1e262" source="http://scta.info/resource/ier23_24">Coelum &amp; terram ego impleo</quote>. Et <ref xml:id="rhwis-l7-Rd1e265">Aug.</ref> Vbique est DEVS inter omnia, 
+          <lb ed="#B1" n="48"/>non inclusus extra omnia, non exclusus, super omnia non elatus: infra omnia non de<lb ed="#B1" n="49"/>pressus. 
+          Et hoc quid continet omnia: id est, idem spiritus qui omnia continet: id  
+          <lb ed="#B1" n="50"/>est, gubernat &amp; seruat omnia, scientiam habet uocis: id est, noticiam omnium, quae ab 
+          <lb ed="#B1" n="51"/>homine dici possunt quacumque utatur lingua. Et ideo cauere debemus in quibus de<lb ed="#B1" n="52"/>lectemur, 
+          quae meditemur, &amp; qualia loquamur: quia iudex noster uidet et audit quid 
+          <lb ed="#B1" n="53"/>quid homo cogitat uel dicit: &amp; hoc est quid concludit <ref xml:id="rhwis-l7-Rd1e281">Boetius ultimo libro conso. suarum.</ref> <quote xml:id="rhwis-l7-Qd1e284">Auer<!--sap_Page_061.xml--><pb ed="#B1" n="27"/><lb ed="#B1" n="1"/>samini 
+          inquit uitia: colite uirtutes, ad rectas species animum subleuate. Humi 
+          <lb ed="#B1" n="2"/>les preces in excelsa porrigite. Magna vobis, si dissimulare non uultis, indicta 
+          <lb ed="#B1" n="3"/>est necessitas probitatis cum omnia ante oculos agitis iudicis cuncta cer<lb ed="#B1" n="4"/>nentis</quote> 
+        </p>
+        <p xml:id="rhwis-l7-d1e298">
+          <lb ed="#B1" n="5"/>Notandum quod hic tangit Sapiens tria corporis organa, quae difficili<lb ed="#B1" n="6"/>mum 
+          est regere ratione. Renes, cor, &amp; linguam: nam in renibus uoluptas: in 
+          <lb ed="#B1" n="7"/>corde uanitas: in lingua falsitas dominatur. Et ideo difficilimum est etiam san<lb ed="#B1" n="8"/>ctis 
+          quod se regnent perfecte in delectationibus, quae per renes signantur: in 
+          <lb ed="#B1" n="9"/>cogitationibus quae per cor in locutionibus, quae per linguam notantur dicit 
+          <lb ed="#B1" n="10"/><ref xml:id="rhwis-l7-Rd1e312">Arist. 13. de animalibus</ref>: <quote xml:id="rhwis-l7-Qd1e315">Infirmitas renum in homine est difficilis curationis.</quote> 
+          <lb ed="#B1" n="11"/>Moraliter: quia in renibus dominatur uoluptas: ideo infirmitas renum carna<lb ed="#B1" n="12"/>lem 
+          nominat concupiscentiam, quae uocatur languor naturae. In <ref xml:id="rhwis-l7-Rd1e322">Psalm.</ref> <quote xml:id="rhwis-l7-Qd1e326" source="http://scta.info/resource/ps6_3">Mise<lb ed="#B1" n="13"/>rere 
+          mei DEVS, quoniam infirmus sum</quote>: haec infirmitas est difficilis curatio<lb ed="#B1" n="14"/>nis, 
+          sicut patuit in Paulo &amp; in alijs sanctis. Vnde mitigari potest, tolli non potest 
+          <lb ed="#B1" n="15"/>citra mortem omnino secundum <ref xml:id="rhwis-l7-Rd1e335">August. de perfectione iusticiae humanae</ref>. Et  
+          <lb ed="#B1" n="16"/>Bern. Siue uelimus, siue nolimus. Iebusaeus iste in finibus nostris habitat, suppri<lb ed="#B1" n="17"/>mi 
+          potest, extingui non potest. Vnde narrat <ref xml:id="rhwis-l7-Rd1e343">Greg. 4. Dialogorum cap. 13</ref>. de 
+          <lb ed="#B1" n="18"/>Vrsino presbytero, qui sic conuixerat suae presbyterae tanquam frater cum so<lb ed="#B1" n="19"/>rore, 
+          continens a tempore ordinationis suae. Ille cum esset confectus aetate, &amp; 
+          <lb ed="#B1" n="20"/>iaceret infirmatus ad mortem, &amp; in tantum inualuisset infirmitas quod dubi<lb ed="#B1" n="21"/>tabant 
+          aliqui an spiritus exiuisset an non: accessit ad eum presbytera sua &amp; na<lb ed="#B1" n="22"/>ribus 
+          suis aures apposuit, ut sciret si corpori suo aliquis uitalis spiritus inesset,  
+          <lb ed="#B1" n="23"/>quod ille iam semimortuus sentiens recollectis uiribus, quas habebat erupuit  
+          <lb ed="#B1" n="24"/>in uocem, &amp; ait: Recede a me mulier adhuc igniculus uiuit, tolle paleam. Et  
+          <lb ed="#B1" n="25"/>cito post uenientibus ad se Petro &amp; Paulo Apostolis sicut sibi uidebatur, spi<lb ed="#B1" n="26"/>ritum 
+          exhalabat. Ille potuit DEO regratiari &amp; dicere cum Psal. Benedicam  
+          <lb ed="#B1" n="27"/>Dominum qui tribuit mihi intellectum insuper usque ad noctem increpue<lb ed="#B1" n="28"/>runt 
+          me renes mei: id est, usque ad mortem secundum gloss. increpuerunt: id  
+          <lb ed="#B1" n="29"/>est, arguerunt uel tentauerunt me renes mei. Dicitur enim communiter, quod  
+          <lb ed="#B1" n="30"/>infirmitas renum est difficilis curationis, quae non recipit curam sine adustio<lb ed="#B1" n="31"/>ne. 
+          Talis est fomes carnis propter quod petijt Psal. signanter: <quote xml:id="rhwis-l7-Qd1e376" source="http://scta.info/resource/ps25_2">Proba me Do<lb ed="#B1" n="32"/>mine, 
+          &amp; tenta me, ure renes meos &amp; cor meum</quote>. <ref xml:id="rhwis-l7-Rd1e381">Gloss.</ref> Proba me: id est, iudica 
+          <lb ed="#B1" n="33"/>me esse probatum non tibi, qui omnia nosti, sed mihi &amp; hominibus ne quid de<lb ed="#B1" n="34"/>licti 
+          maneat. Ideo dicit tentat me: quia nisi tentares, negligentes essemus. Et ure<lb ed="#B1" n="35"/>igne 
+          tribulationis renes meos &amp; cor meum: id est, adhibe medicinalem pur<lb ed="#B1" n="36"/>gationem 
+          tribulationis delectationibus meis ne quid mali delectet me, &amp; co<lb ed="#B1" n="37"/>gitationibus 
+          ne quid mali cogitem. Cor nanque pro cogitationibus: renes pro 
+          <lb ed="#B1" n="38"/>delectationibus posuit haec glossa.
+        </p>
+        <p xml:id="rhwis-l7-d1e398">
+          <lb ed="#B1" n="39"/>Secundum organum corporis quod nimis est difficile regere ratione, est 
+          <lb ed="#B1" n="40"/>cor: unde <ref xml:id="rhwis-l7-Rd1e404">Greg. 4. Mora.</ref> Facile est peruersa opera uitare. Sed nimis difficile est 
+          <lb ed="#B1" n="41"/>ab illicita cogitatione corrigere. Quia sicut <ref xml:id="rhwis-l7-Rd1e409">Bernhard. dicit in meditationibus 
+          <lb ed="#B1" n="42"/>suis</ref>: Nihil in me corde meo fugacius: quod quotiens me deserit &amp; per prauas 
+          <lb ed="#B1" n="43"/>cogitationes defluit, totiens DEVM offendit cor meum, cor uagum, instabile 
+          <lb ed="#B1" n="44"/>dum suo ducitur arbitrio &amp; diuino caret consilio. In semetipso non potest con<lb ed="#B1" n="45"/>sistere, 
+          sed omni mobili mobilius per infinita distrahitur. Et ideo signanter di<lb ed="#B1" n="46"/>citur 
+          <ref xml:id="rhwis-l7-Rd1e423">Proverb. 4.</ref> <quote xml:id="rhwis-l7-Qd1e426" source="http://scta.info/resource/prov4_23">Omni custodia serua cor tuum: quia ex ipso uita procedit</quote>. Est 
+          <lb ed="#B1" n="47"/>autem de corde humano sicut de argento uiuo quod est semper in motu: sisti<lb ed="#B1" n="48"/>tur 
+          tamen aliqualiter &amp; mortificatur per odorem: hoc est, per fumum sulphu<lb ed="#B1" n="49"/>ris, 
+          sicut docet <ref xml:id="rhwis-l7-Rd1e436">Arist. 4. Metheoro</ref>. Moraliter. Si sistere &amp; domare uelimus cor 
+          <lb ed="#B1" n="50"/>nostrum a uagis motibus superbiae &amp; elationis, adhibeamus ei odorem sul<lb ed="#B1" n="51"/>phuris: 
+          id est, imaginationem pene aeternalis uel gehennalis, cuius una portio 
+          <lb ed="#B1" n="52"/>dicitur esse sulphur. Iuxta illud: <quote xml:id="rhwis-l7-Qd1e446" source="http://scta.info/resource/ps10_7">Ignis sulphur spiritus procellarum pars calicis  
+          <lb ed="#B1" n="53"/>eorum</quote>: &amp; Apoc. 21. Psal. Illorum erit in stagno ardente &amp; sulphure, &amp; statim  
+          <!--sap_Page_062.xml-->
+          <pb ed="#B1" n="28"/>
+          <lb ed="#B1" n="1"/>concipiemus timorem, &amp; per timorem continebimus &amp; congregabimus cor 
+          <lb ed="#B1" n="2"/>nostrum, Eccl. 30. <quote xml:id="rhwis-l7-Qd1e460" source="http://scta.info/resource/sir30_24">Contine &amp; congrega cor tuum in sanctitate eius &amp; tristiciam 
+          <lb ed="#B1" n="3"/>longe expelle a te</quote>. Refert <ref xml:id="rhwis-l7-Rd1e465"><name>Giraldus Cambrensis</name> in libro suo de Topographia 
+          <lb ed="#B1" n="4"/>Hyberniae</ref>, quod quondam in mari prope Hyberniam apparuit subito quaedam 
+          <lb ed="#B1" n="5"/>insula, iuuenes uero de Hybernia ascendentes. scaphas &amp; naues nitebantur  
+          <lb ed="#B1" n="6"/>ad istam insulam applicare. Cum autem ita prope insulam nauis esset, quod eo<lb ed="#B1" n="7"/>rum 
+          iudicio ponere possent paedes suos descedendo, statim insula ab eis fugit 
+          <lb ed="#B1" n="8"/>&amp; se ad alium locum mouit. Cum ergo hoc mirabile frequenter tentassent, &amp; 
+          <lb ed="#B1" n="9"/>semper modo praedicto delusi fuissent: tandem dixit eis unus senex: Audiui  
+          <lb ed="#B1" n="10"/>inquit, quod ignis ualet contra phantasmata. Accipiat ergo aliquis sagittam igni<lb ed="#B1" n="11"/>tam 
+          &amp; sagittet in ipsulam, &amp; statim phantasmata cessabunt. Et factum est iuxta 
+          <lb ed="#B1" n="12"/>consilium eiusdem senis &amp; insulastabilita est, quae propter suae mirabilem fu<lb ed="#B1" n="13"/>gam 
+          uocata est deinceps insula fugitiua. Insula ista phantastica &amp; fugitiua cor 
+          <lb ed="#B1" n="14"/>designat humanum: quia semper mutabile uarijs phantasijs fatigatur nisi diui<lb ed="#B1" n="15"/>na 
+          gratia stabiliatur, <ref xml:id="rhwis-l7-Rd1e496">Eccles. 34.</ref> <quote xml:id="rhwis-l7-Qd1e499" source="http://scta.info/resource/sir34_6">sicut parturiens cor tuum phantasias patitur, ni<lb ed="#B1" n="16"/>si 
+          ab altissimo missa fuerit uisitatio</quote>: stabilitur autem per ignitam sagittam uer<lb ed="#B1" n="17"/>bi 
+          DEI, de qua in Psal. <quote xml:id="rhwis-l7-Qd1e506" source="http://scta.info/resource/119_4">Sagittae potentis acutae cum carbonibus desolatorijs</quote>, 
+          <lb ed="#B1" n="18"/>&amp; alibi: <quote xml:id="rhwis-l7-Qd1e512" source="http://scta.info/resource/118_140">Ignitum eloquium, tuum vehementer</quote>. Et istud est optimum stabili  
+          <lb ed="#B1" n="19"/>gmentum humani cordis, iuxta illud Hebr. 13. <quote xml:id="rhwis-l7-Qd1e517" source="http://scta.info/resource/hebr13_9">Optimum enim est gratia stabi<lb ed="#B1" n="20"/>lite 
+          cor</quote>. <ref xml:id="rhwis-l7-Rd1e522">Greg. 28. Moral cap. 18.</ref> Quid est, inquit, mare nisi cor nostrum furore 
+          <lb ed="#B1" n="21"/>furbidum, rixis amarum, elatione superbiae tumidum: fraude maliciae obscurum. 
+          <lb ed="#B1" n="22"/>Quod mare quantum saeuiat, attendat, quisque in se &amp; occultas tentationum co<lb ed="#B1" n="23"/>gitationes 
+          intelliget.
+        </p>
+        <p xml:id="rhwis-l7-d1e534">
+          <lb ed="#B1" n="24"/>Tertium, organum corporis quod difficile est, regere est lingua, de qua <ref xml:id="rhwis-l7-Rd1e538">Ia<lb ed="#B1" n="25"/>cobi 
+          3</ref>: <quote xml:id="rhwis-l7-Qd1e543" source="http://scta.info/resource/iac3_5">Lingua modicum membrum est &amp; magna exaltat</quote>. Et cito post: <quote xml:id="rhwis-l7-Qd1e546" source="http://scta.info/resource/3_6">Lin<lb ed="#B1" n="26"/>gua 
+          constituitur in membris quae maculat totum corpus, &amp; inflammat rotam  
+          <lb ed="#B1" n="27"/>natiuitatis nostrae inflammata a gehenna</quote>: Et infra: <quote xml:id="rhwis-l7-Qd1e553" source="http://scta.info/resource/iac3_8">Linguam autem nullus ho<lb ed="#B1" n="28"/>mo 
+          domare potest</quote>. Quam autoritatem pertractans Augustinus de Natura &amp; 
+          <lb ed="#B1" n="29"/>gratia, dicit: Non ait linguam nullus domare potest, sed nullus hominum, ut  
+          <lb ed="#B1" n="30"/>cum domatur diuino adiutorio, &amp; gratia fieri fateamur. Vnde non est expres<lb ed="#B1" n="31"/>sio, 
+          impossibilitatis, sed magnae difficultatis. In cuius figuram natura ordinauit  
+          <lb ed="#B1" n="32"/>circa linguam, quod duplici muro clauderetur, osseo &amp; carneo: ad docendum 
+          <lb ed="#B1" n="33"/>quod duplex examinatio fieri debet, antequam lingua suum opus exerceat.  
+          <lb ed="#B1" n="34"/>Primo enim debet considerari an sit licitum. Secundo an sit expediens, &amp; 
+          <lb ed="#B1" n="35"/>istae sunt uiae per quas sermo debet transire: de quibus Psal. Dixi custodiam ui<lb ed="#B1" n="36"/>as 
+          meas ut non delinquam in lingua mea Posui ori meo custodiam, &amp;c. Vnde 
+          <lb ed="#B1" n="37"/>abbas <name>Paphus</name> sicut narratur <ref xml:id="rhwis-l7-Rd1e581">li. 9. Historiae Tripartitae</ref> cum esset sine literis, ac<lb ed="#B1" n="38"/>cessit 
+          ad quendam ut addisceret, &amp; cum deuenisset ad istum uersum: Dixi cu<lb ed="#B1" n="39"/>stodiam 
+          uias, &amp;c. dixit se satis didicisse nec oporteret ulterius addiscere, si istam 
+          <lb ed="#B1" n="40"/>lectionem posset bene scire, <ref xml:id="rhwis-l7-Rd1e591">Eccl. 25</ref>. <quote xml:id="rhwis-l7-Qd1e594" source="http://scta.info/source/sir25_11">Beatus uir qui habitat cum muliere sensa<lb ed="#B1" n="41"/>ta, 
+          &amp; qui in lingua sua non est lapsus</quote>. Et licet iustus aliquando corripiat, habet  
+          <lb ed="#B1" n="42"/>tamen mel &amp; lac sub lingua, Bernh. Mala lingua est quae aut peruersa laudat 
+          <lb ed="#B1" n="43"/>aut recta reprehendit. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
