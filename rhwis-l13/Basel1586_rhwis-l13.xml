@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 13 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 13 [Basel Transcription]</title>
+          <date when="2019-10-23">October 23, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-10-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="43"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l13">
+        <p xml:id="rhwis-l13-d1e95">
+          <lb ed="#B1" n="30"/>POSTQVAM Spiritus sanctus dissuasit peccatum iniquae ope 
+          <lb ed="#B1" n="31"/>rationis incutiendo timorem per poenam quae sequitur: Hic dis  
+          <lb ed="#B1" n="32"/>suadet id idem alliciendo per amorem recitando diuina beneficia, 
+          <lb ed="#B1" n="33"/>quae homini conferuntur. Et circa hoc duo facit: nam primo decla 
+          <lb ed="#B1" n="34"/>rat quales DEVS fecit homines quantum ad naturalia. Secundo excludit  
+          <lb ed="#B1" n="35"/>tria per quae homines se excusant a peccatis quantum ad mortalia, ibi: non enim 
+          <lb ed="#B1" n="36"/>est illis. Circa primum duo facit: quia primo ostendit qualiter DEVS creauit  
+          <lb ed="#B1" n="37"/>omnia generaliter: Secundo quale fecit genus humanum specialiter, ibi: &amp; 
+          <lb ed="#B1" n="38"/>sanabiles fecit. Quantum ad primum continuans se ad praecedentia, dicit sic:  
+          <lb ed="#B1" n="39"/>Ideo DEVS non fecit mortem: id est, peccatum, quod ducit ad mortem: Quia 
+          <lb ed="#B1" n="40"/>DEVS creauit vt essent omnia. Mors autem &amp; peccatum facit hominem 
+          <lb ed="#B1" n="41"/>non esse, Trenorum 4. Patres nostri peccauerunt &amp; non sunt. Et 1. ad Co 
+          <lb ed="#B1" n="42"/>rinth.13. Si linguis hominum loquor, charitatem autem non habuero, ni 
+          <lb ed="#B1" n="43"/>hil sum: &amp; Augustinus super lohannem: Peccatum nihil est, &amp; nihil siunt ho 
+          <!--sap_Page_081.xml-->
+          <pb ed="#B1" n="47"/>
+          <lb ed="#B1" n="1"/>mines dum peccant: Ex quo ergo DEVS non solum creauit homines 
+          <lb ed="#B1" n="2"/>ut essent, sed etiam omnes res ut essent, unaquaeque in sua natura mani 
+          <lb ed="#B1" n="3"/>festum est quod DEVS non fecit peccatum: &amp; ideo non approbat pec 
+          <lb ed="#B1" n="4"/>catum per quod peccantes a perfectione suae naturae deficiunt. Dicit er 
+          <lb ed="#B1" n="5"/>go: Creauit enim DEVS vt essent omnia. Creauit scilicet per potentiam, 
+          <lb ed="#B1" n="6"/>omnia in sapientia, Psalm. Omnia in sapientia fecisti, ut essent. Ecce bo 
+          <lb ed="#B1" n="7"/>nitas siue clementia. Augustinus 11. de Ciuit. DEI, cap. 21. Tria ma 
+          <lb ed="#B1" n="8"/>xime scienda sunt de creatura. Quis eam fecit, per quid eam fecit, &amp; qua 
+          <lb ed="#B1" n="9"/>re eam fecerit. 
+        </p>
+        <p xml:id="rhwis-l13-d1e152">
+          <lb ed="#B1" n="10"/>Et haec tria insinuat Scriptura cum dicit: Dixit DEVS, fiat lux, &amp; facta 
+          <lb ed="#B1" n="11"/>est lux, &amp; uidit DEVS lucem quod esset bona. Si ergo quaerimus quis fece 
+          <lb ed="#B1" n="12"/>rit: DEVS est: si, per quid fecerit: dixit, fiat &amp; factum est: si, quare fecerit: quia 
+          <lb ed="#B1" n="13"/>bonus est. Haec ille. Vnde Damascenus lib. 2. cap. 2. Quia bonus &amp; superbo  
+          <lb ed="#B1" n="14"/>nus est DEVS, non est contentus suijpsius contemplatione, sed superabun 
+          <lb ed="#B1" n="15"/>dantia bonitatis: acceptauit generare quaedam, quibus benefaceret &amp; partici 
+          <lb ed="#B1" n="16"/>pata sua bonitate ex non esse ad esse deduxit, &amp; condidit uniuersa. Et Plato in 
+          <lb ed="#B1" n="17"/>Timaeo optimis erat ab optimo, porro inuidia religata est. Itaque conse 
+          <lb ed="#B1" n="18"/>quenter fui similia cuncta, prout cuiusque natura capax beatitudinis esse po 
+          <lb ed="#B1" n="19"/>terat, effici uoluit. Quam quidem uoluntatem DEI originem rerum certissi 
+          <lb ed="#B1" n="20"/>mam si quis ponat, recte eum putare consentiam. Haec Plato. Ex quibus for 
+          <lb ed="#B1" n="21"/>matur talis ratio: Amor &amp; gratitudo compellunt hominem cauere offensam 
+          <lb ed="#B1" n="22"/>benefactorum &amp; amicorum. Sed DEVS est benefactor &amp; amicus hominum 
+          <lb ed="#B1" n="23"/>praecipuus, qui creauit hominem &amp; alia omnia propter hominem. Ergo o 
+          <lb ed="#B1" n="24"/>mnis homo uitare tenetur ne eum offendat: &amp; haec ratio innuitur in litera:  
+          <lb ed="#B1" n="25"/>Creauit DEVS vt essent omnia. Consequenter post beneficium creationis sub  
+          <lb ed="#B1" n="26"/>iungit beneficium recreationis seu reformationis. Et dicit quod non solum 
+          <lb ed="#B1" n="27"/>DEVS creauit homines inter omnia alia, imo fecit eos tales quod si laberen 
+          <lb ed="#B1" n="28"/>tur in peccatum, sanari possunt per sua sacramenta. Et hoc est quod dicit: Et 
+          <lb ed="#B1" n="29"/>sanabiles fecit nationes orbis terrarum: hoc est, homines qui nascuntur de terra 
+          <lb ed="#B1" n="30"/>Et hoc est speciale beneficium quod solis hominibus est collatum. Angeli e 
+          <lb ed="#B1" n="31"/>nim insanabiliter peccauerunt. Vnde Damascenus lib. 2. cap. 3. Scire oportet  
+          <lb ed="#B1" n="32"/>quoniam quod hominibus est mors, hoc est angelis casus: &amp; per consequens, 
+          <lb ed="#B1" n="33"/>sicut homo mortuus est insanabilis per naturam: ita angelus post casum. Sed  
+          <lb ed="#B1" n="34"/>homini est hoc collatum quod licet multotiens infirmetur per peccatum: sem 
+          <lb ed="#B1" n="35"/>per tamen manet sanabilis citra mortem: &amp; hoc est quod deuote recolit Psal.  
+          <lb ed="#B1" n="36"/>Benedic anima mea Domino, &amp; noli obliuisci omnes retributiones eius. 
+          <lb ed="#B1" n="37"/>Qui propiciatur omnibus iniquitatibus tuis, qui sanat omnes infirmitates 
+          <lb ed="#B1" n="38"/>tuas. Ex istis recolligitur talis ratio: Amor &amp; gratitudo compellunt ho 
+          <lb ed="#B1" n="39"/>minem uitare offensum illius, qui sanat &amp; curat omnes infirmitates suas. 
+          <lb ed="#B1" n="40"/>Sed DEVS hoc facit homini, si uelit: Ergo, &amp;c. Et haec ratio innuitur  
+          <lb ed="#B1" n="41"/>inhac litera: Et sanabiles fecit nationes orbis terrarum. Non nationes coe 
+          <lb ed="#B1" n="42"/>lorum, uidelicet angelos, sed specialiter nationes Christianorum, in Psal. Non  
+          <lb ed="#B1" n="43"/>fecit taliter omni nationi. Nobis autem iam in nova lege prouidit de tot re 
+          <lb ed="#B1" n="44"/>medijs, tot sacramentis, tot indulgentijs, quibus sanari possumus si ue 
+          <lb ed="#B1" n="45"/>limus. Sed heu Hieremiae lib. dicitur: Curauimus Babylonem, &amp; non
+        </p>
+        <p xml:id="rhwis-l13-d1e233">
+          <lb ed="#B1" n="46"/>Consequenter cum dicit: Non enim est illis, &amp;c. Excludit tripli  
+          <lb ed="#B1" n="47"/>cem excusationem, quam etiam solent peccatores allegare. Ad excu 
+          <lb ed="#B1" n="48"/>sandas excusationes in peccatis. Dicunt enim quod speciositas &amp; bo 
+          <lb ed="#B1" n="49"/>nitas rerum creaturarum allicit hominem &amp; incitat hominem ad concu 
+          <lb ed="#B1" n="50"/>piscentiam oculorum contra legem DEI. Secundo addunt &amp; dicunt  
+          <lb ed="#B1" n="51"/>carnis fragilitatem necessitare hominem ad peccatum. Tertio dicunt  
+          <lb ed="#B1" n="52"/>quod daemones homines decipiunt &amp; peccare faciunt quadam uiolentia 
+          <!--sap_Page_082.xml-->
+          <pb ed="#B1" n="48"/>
+          <lb ed="#B1" n="1"/>extrinseca. Sed istas tres excusationes irrationabiles tollit Spiritus sanctus 
+          <lb ed="#B1" n="2"/>per duas negatiuas. Primo duas primas simul per istam negatiuam. Non est e 
+          <lb ed="#B1" n="3"/>nim illis medicamentum exterminij. ] illis: id est, creaturis omnibus, quas DEVS 
+          <lb ed="#B1" n="4"/>posuit in mundo, non est refectio ad causandum peccatum. Tertiam uero ex  
+          <lb ed="#B1" n="5"/>cusationem tollit per secundam negationem, ibi: Nec inferorum regnum in ter 
+          <lb ed="#B1" n="6"/>ra. Contra duas primas ergo dicitur: Non est illis: id est, omnibus rebus, quas 
+          <lb ed="#B1" n="7"/>creauit DEVS: id est, quas posuit in mundum, medicamentum exterminij: haec 
+          <lb ed="#B1" n="8"/>est necessaria immutatio uel infectio ad causandum exterminium: id est, pec 
+          <lb ed="#B1" n="9"/>catum propter quod homo exterminatur: id est, incurrit exterminium aeternum 
+          <lb ed="#B1" n="10"/>uel exterminatur: id est, extra terminos Ecclesiae utriusque ponitur. Et est me 
+          <lb ed="#B1" n="11"/>taphoricus modus loquendi, quasi medicus diceret infirmo, ostendendo sibi 
+          <lb ed="#B1" n="12"/>aliquem cibum extraneum: comedas secure de isto, moderate tamen: quia ni 
+          <lb ed="#B1" n="13"/>hil periculi, nihil mali in eo est, nisi tu facias excessum. Et uult dicere quod hoc 
+          <lb ed="#B1" n="14"/>nullo modo est imputandum bonitati rerum uel speciei uel formae, quod ho 
+          <lb ed="#B1" n="15"/>mines in amore mundanorum contra amorem DEI finguntur: sed tantum, 
+          <lb ed="#B1" n="16"/>modo peruersitati hominum, qui male utuntur rebus bene creatis: &amp; sic tolli  
+          <lb ed="#B1" n="17"/>tur prima excusatio. Vnde Augustinus de uera religione cap. 38. Nec aqua 
+          <lb ed="#B1" n="18"/>malum, nec animal quod in aëre uiuit NNam ista substantiae sunt.) sed malum 
+          <lb ed="#B1" n="19"/>est uoluntaria praecipitatio in aquam &amp; suffocatio quam mersus patitur. Sty 
+          <lb ed="#B1" n="20"/>lus ferreus alia parte qua scribamus: alia qua deleamus fabricatus est in suo ge 
+          <lb ed="#B1" n="21"/>nere pulcher &amp; ad usum nostrum accommodatus, &amp; si quisquam ea parte scri 
+          <lb ed="#B1" n="22"/>beret qua deletur, &amp; ea uelit delere qua scribitur, nullo modo stylum malum fe 
+          <lb ed="#B1" n="23"/>cerit, sed ipsum factum iure uituperaret. Haec Augustinus
+        </p>
+        <p xml:id="rhwis-l13-d1e305">
+          <lb ed="#B1" n="24"/>Secunda excusatio peccatorum, quae dicunt fragilitatem carnis ad peccandum im 
+          <lb ed="#B1" n="25"/>pellere: excluditur per illud idem. Non enim est illis medicamentum exterminij: 
+          <lb ed="#B1" n="26"/>hoc est, concupiscentia necessitans uel exterminans: sed excitans tantum quam homo 
+          <lb ed="#B1" n="27"/>peccando habere meruit, &amp; de qua, si uelit, proficit si resistit. Vnde Greg. 9. Mo 
+          <lb ed="#B1" n="28"/>ral ca. 36. Superna dispesatio idcirco nos tota sibi intentione seruientes, carnem 
+          <lb ed="#B1" n="29"/>nostram permittit impugnationibus concuti, ne mens nostra audeat in superbiam  
+          <lb ed="#B1" n="30"/>praesumptione suae securitatis eleuari, ut dum pulsata trepidet, in solo autoris  
+          <lb ed="#B1" n="31"/>adiutorio pedem robustius spei figat. Item ibidem li. 9. cap. 3. dicit sic: Ad ima 
+          <lb ed="#B1" n="32"/>quippe trahit caro, ne extollatur spiritus: &amp; ad summa trahit spiritus, ne pro 
+          <lb ed="#B1" n="33"/>sternatur caro: spiritus leuat, ne iaceamus in imis: caro aggrauat, ne extollamur 
+          <lb ed="#B1" n="34"/>ex summis: Et sic secundum Greg. quodam certo moderamine fitut carne de 
+          <lb ed="#B1" n="35"/>primente, sed non prosternente: homo desperationis lapsum caueat: &amp; spiritu 
+          <lb ed="#B1" n="36"/>eleuante, &amp; tamen tentationes sentiente superbiae casum euadat. Et sic dum 
+          <lb ed="#B1" n="37"/>spiritus sursum trahit, &amp; caro retrahit subtilissimo interni iudicij moderamine, 
+          <lb ed="#B1" n="38"/>infra summa &amp; supra infima in quodam medio anima liberatur. Et sic pater  
+          <lb ed="#B1" n="39"/>quod non est in homine medicamentum exterminij. Sapiens intra cap. 2. in 
+          <lb ed="#B1" n="40"/>quit: DEVS creauit hominem inexterminabilem, &amp; ad imaginem similitudi 
+          <lb ed="#B1" n="41"/>nis suae fecit illum
+        </p>
+        <p xml:id="rhwis-l13-d1e347">
+          <lb ed="#B1" n="42"/>Tertia excusatio peccatorum est propter daemonum infestationes: sed excu 
+          <lb ed="#B1" n="43"/>satio ista excluditur per tertiam negatiuam, quae est ista: Nec inferorum regnum in ter 
+          <lb ed="#B1" n="44"/>ra. 1. regnum uel dominium: infernorum. i. demonum: non est in terra. 8. in hominibus ui  
+          <lb ed="#B1" n="45"/>uentibus in terra, et de terra existentibus Et ideo licet hominibus possint malum suggere 
+          <lb ed="#B1" n="46"/>&amp; tentare, sed nullo modo uiolentare permittuntur hominem: &amp; ideo dominium 
+          <lb ed="#B1" n="47"/>non habent in homine, nisi homo sponte per liberum arbitrium eis subdi velit. Vn 
+          <lb ed="#B1" n="48"/>de Bern. super Can. ser. 86. Impulsor hominis Diabolus est. Impulsor mundus: 
+          <lb ed="#B1" n="49"/>impulsor homo. Quis iste homo sit quaeris: quisque homo sui. Noli mirari us  
+          <lb ed="#B1" n="50"/>queadeo impulsor sibi est &amp; suimet praecipitator, ut non sit quod in altero im 
+          <lb ed="#B1" n="51"/>pulsare formidas: si ipse ad te proprias contineas manus, manus tua consen 
+          <lb ed="#B1" n="52"/>ius tuus. 
+        </p>
+        <p xml:id="rhwis-l13-d1e374">
+          <lb ed="#B1" n="53"/>Nota super illud: Creauit DEVS vt essent omnia.] Quod consideratio crea 
+          <!--sap_Page_083.xml-->
+          <pb ed="#B1" n="49"/>
+          <lb ed="#B1" n="1"/>turarum propter hominem factarum, movet hominem erga DEVM ad quin 
+          <lb ed="#B1" n="2"/>que laudabiles dispositiones. Mouet enim ad amorem, ad honorem, ad stupo 
+          <lb ed="#B1" n="3"/>rem, ad timorem, &amp; ad laborem: De 1. Aug. 10. Confes. ca. 18. Coelum &amp; terra &amp; 
+          <lb ed="#B1" n="4"/>omnia quae in eis sunt: ecce undique mihi dicunt ut te amem, nec cessant dicere 
+          <lb ed="#B1" n="5"/>omnibus ut sint inexcusabiles. Et infra ca. 7. Quid autem amo, cum te amo, non specien 
+          <lb ed="#B1" n="6"/>corporis, non decus temporis, nec candorem lucis, nec dulces melodias canti  
+          <lb ed="#B1" n="7"/>lenarum, non florum &amp; unguentorum &amp; aromatum suauitatem, non mana &amp; 
+          <lb ed="#B1" n="8"/>mella, non membra acceptabilia carnis amplexibus. Non haec amo cum amo 
+          <lb ed="#B1" n="9"/>DEVM meum, &amp; tamen amo quandam lucem, &amp; quandam uocem, &amp; quen 
+          <lb ed="#B1" n="10"/>dam odorem, &amp; quendam cibum, &amp; quendam amplexum interioris hominis 
+          <lb ed="#B1" n="11"/>mei: ubi fulget animo meo quod non capit locus, &amp; ubi sonat quod non capit 
+          <lb ed="#B1" n="12"/>tempus, &amp; ubi olet quod non spargit flatus, &amp; ubi sapit quod non minuit eda 
+          <lb ed="#B1" n="13"/>citas, &amp; ubi haeret quod non diuellit sacietas: hoc est quod amo, cum DEVM meum 
+          <lb ed="#B1" n="14"/>amo. De isto amore Hugo de arca animae, loquens animae suae dicit: Magno de 
+          <lb ed="#B1" n="15"/>bito obligata es anima mea, &amp; multum accepisti uel habuisti, &amp; pro his omni 
+          <lb ed="#B1" n="16"/>bus non habes quid retribuas, nisi ut tantum diligas: Nam quod per dilectio  
+          <lb ed="#B1" n="17"/>nem datum est, non melius nec decentius quam per dilectionem rependi po 
+          <lb ed="#B1" n="18"/>test, Sapientiae 11. in fine: Diligis omnia quae sunt, &amp; nihil odisti eorum quae 
+          <lb ed="#B1" n="19"/>fecisti. Ex quo ergo propter dilectionem hominis omnia fecit, rationabile est 
+          <lb ed="#B1" n="20"/>quod super omnia: ab homine diligatur: imo sicut a DEO per amorem proce 
+          <lb ed="#B1" n="21"/>dunt, ita per amorem reguntur, &amp; per amorem in DEVM redeunt quantum 
+          <lb ed="#B1" n="22"/>possunt secundum Boëtium 4 de Consola. metro. 6. Vnde omnis res nititur  
+          <lb ed="#B1" n="23"/>facere orbem sui: id est, cireulum. Vnde dicit: Hic est cunctis communis amor.
+        </p>
+        <p xml:id="rhwis-l13-d1e433">
+          <lb ed="#B1" n="24"/>Secunda consideratio creaturarum monet hominem ad honorem debitum, 
+          <lb ed="#B1" n="25"/>DEO impendendum. Omnis enim creatura pro suae naturae potentia DEVM 
+          <lb ed="#B1" n="26"/>nititur honorare, nec est aliqua res corporea, quae suis legibus nititur obuiare. 
+          <lb ed="#B1" n="27"/>Vnde Boëtius 3 de Consolatione, prosa. 22. probatquod omnes res a DEO 
+          <lb ed="#B1" n="28"/>quasi uoluntarie reguntur, seqe ad disponentis nutum conuenienter &amp; contem 
+          <lb ed="#B1" n="29"/>perate conuertunt: nec bonum regimen foret si foret iugum detractantium, non 
+          <lb ed="#B1" n="30"/>obtemperantium salus. Ideo concludit quod nihil naturam seruans DEO com  
+          <lb ed="#B1" n="31"/>trariari conatur, &amp; hoc est quod dicitur Sap. 8. in principio: Attingens a fine 
+          <lb ed="#B1" n="32"/>usque ad finem fortiter &amp; disponens omnia suauiter. De isto honore loquitur  
+          <lb ed="#B1" n="33"/>Anshelmus primo, cur, DEUS homo, ca. 12. sic omnis uoluntas rationalis crea 
+          <lb ed="#B1" n="34"/>turae subiecta debet esse uoluntati DEI: &amp; hoc est debitum, quod debet ange 
+          <lb ed="#B1" n="35"/>lus &amp; homo DEO: quod soluendo nullus peccat, &amp; quod omnis qui non sol  
+          <lb ed="#B1" n="36"/>uit, peccat. Haec est iusticia siue rectitudo uoluntatis, quae iustos facit siue re 
+          <lb ed="#B1" n="37"/>ctos corde: id est, uoluntate. Hic est solus honor &amp; totus quem debemus DEO, 
+          <lb ed="#B1" n="38"/>&amp; a nobis exigit DEVS. Haec Anshelmus. Hanc considerationem creaturarum 
+          <lb ed="#B1" n="39"/>habuerunt illi tres pueri in fornace, qui omnes creaturas singillatim ad DEVM 
+          <lb ed="#B1" n="40"/>laudandum &amp; honorandum &amp; inuocandum induxerunt. Daniel. 3. Benedi 
+          <lb ed="#B1" n="41"/>cite omnia opera Domini Domino, 1. Pet. 4. In omnibus honorificetur  
+          <lb ed="#B1" n="42"/>DEVS 
+        </p>
+        <p xml:id="rhwis-l13-d1e477">
+          <lb ed="#B1" n="43"/>Tertia consideratio creaturarum monet ad stuporem. Non enim est tam 
+          <lb ed="#B1" n="44"/>parua creatura in hoc mundo, cuius naturam, compositonem &amp; uirtutem pos  
+          <lb ed="#B1" n="45"/>sit comprehendere intellectus: sed magis stupere &amp; mirari. Hierem. 5. in fine: 
+          <lb ed="#B1" n="46"/>Stupor &amp; mirabilia facta sunt in terra, Eccles. 11. Mirabilia opera Altissimi so 
+          <lb ed="#B1" n="47"/>lius &amp; gloriosa &amp; abscondita &amp; immensa opera illius.
+        </p>
+        <p xml:id="rhwis-l13-d1e490">
+          <lb ed="#B1" n="48"/>Quarta consideratio creaturae monet hominem ad timorem. Omnis enim 
+          <lb ed="#B1" n="49"/>creatura triplici uoce alloquitur hominem, sicut dicit Hugo de arca Noe. In 
+          <lb ed="#B1" n="50"/>hoc enim genere contemplationis audiuimus omnem creaturam tribus uo 
+          <lb ed="#B1" n="51"/>cibus nobis loquentem. 
+        </p>
+        <p xml:id="rhwis-l13-d1e501">
+          <lb ed="#B1" n="52"/>Prima vox dicit, Accipe: secunda dicit, redde: tertia, fuge. Accipe beneficium, 
+          <lb ed="#B1" n="53"/>redde debitum, fuge supplicium. Prima uox est famulantis: secunda est ad 
+          <!--sap_Page_084.xml-->
+          <pb ed="#B1" n="50"/>
+          <lb ed="#B1" n="1"/>monentis: tertia comminantis. Vox famulantis est coelum: dicit, ego ministro 
+          <lb ed="#B1" n="2"/>tibi, lucem in die ut uigiles, tenebras in nocte ut pauses. Ego ad oblectationes  
+          <lb ed="#B1" n="3"/>tuas gratas temporum uicissitudines paro, &amp; temperiem ueris, &amp; aestatis fer 
+          <lb ed="#B1" n="4"/>uorem: autumni plenitudinem, algorem hyemis, &amp; ego alternantibus incre 
+          <lb ed="#B1" n="5"/>mentis dierum &amp; noctium spacia simili ratione dissimiliter extendo: ut &amp; ua 
+          <lb ed="#B1" n="6"/>rietas tollat fastidium, &amp; nova oblatio pareat oblectamentum. Aenr dicit, Vtilem  
+          <lb ed="#B1" n="7"/>tibi praebeo flatum, &amp; omne genus animalium ad tuum mitto obsequium. Aqua 
+          <lb ed="#B1" n="8"/>dicit, Potum tibi praebeo, sordes purgo, arentia rigo, &amp; diuersa genera piscium 
+          <lb ed="#B1" n="9"/>ad tuum usum ministro: Terra dicit, Ego te porto, pane conforto, uino laetifico, 
+          <lb ed="#B1" n="10"/>omne genere fructuum oblecto, diuersis animalibus mensas tuas impleo.
+        </p>
+        <p xml:id="rhwis-l13-d1e534">
+          <lb ed="#B1" n="11"/>Secunda uox admonentis est: Mundus dicit, Vide ama quomodo ama 
+          <lb ed="#B1" n="12"/>uit te, qui propter te fecit me, seruio tibi: quia factus sum propter te, ut tu ser 
+          <lb ed="#B1" n="13"/>uies illi, qui fecit te, &amp; me, propter te: te propter se. Si sentis beneficium, redde 
+          <lb ed="#B1" n="14"/>debitum. Accipis benignitatem, redde charitatem: hoc tribuit DEVS, hoc exi 
+          <lb ed="#B1" n="15"/>git DEVS 
+        </p>
+        <p xml:id="rhwis-l13-d1e548">
+          <lb ed="#B1" n="16"/>Tertia uox comminantis est. Ignis dicit, a me combureris: aqua dicit, in me 
+          <lb ed="#B1" n="17"/>submergeris: terra dicit, a me obsorberis: infernus, a me deglutieris: quia omnis  
+          <lb ed="#B1" n="18"/>creatura sicut ex conditione homini famulatur: sic etiam peccatoribus pro ma 
+          <lb ed="#B1" n="19"/>lorum suorum conscientia cominatur, ut in singulis creaturis se punire timeant.  
+          <lb ed="#B1" n="20"/>quod se meruisse cognoscunt. Haec ille. Et ideo signanter dicitur Eccles. 25. Ti 
+          <lb ed="#B1" n="21"/>mor Domini super omnia se superposuit: quia ex omni creatura homo debet  
+          <lb ed="#B1" n="22"/>concipere timorem DEI,
+        </p>
+        <p xml:id="rhwis-l13-d1e566">
+          <lb ed="#B1" n="23"/>Quinta consideratio creaturarum seu uniuersi monet hominem ad labo  
+          <lb ed="#B1" n="24"/>rem. Omnis enim creata natura habet aliquam utilem operationem. Vnde com 
+          <lb ed="#B1" n="25"/>mentator 9. Metaphys. cap. 7. Qui aufert proprias operationes a rebus, aufert 
+          <lb ed="#B1" n="26"/>rerum essentias: homo autem ad laborem nascitur, lob. 5. Et ideo cauendum est sibi 
+          <lb ed="#B1" n="27"/>ne ociosus &amp; inutilis habeatur. Et rogandus est DEVS, ut nobis cooperari di 
+          <lb ed="#B1" n="28"/>gnetur: quia ipse est de quo scribitur Esa. 26. Omnia opera nostra operatus es  
+          <lb ed="#B1" n="29"/>in nobis Domine. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

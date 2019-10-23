@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 9 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 9 [Basel Transcription]</title>
+          <date when="2019-10-23">October 23, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-10-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="32"/><!--sap_Page_066.xml-->
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l9">
+        <p xml:id="rhwis-l9-d1e96">
+          <lb ed="#B1" n="12"/>POSTOVAM Sapiens dissuasit omnem locutionis maliciam gene 
+          <lb ed="#B1" n="13"/>raliter: Hic particulariter descendendo dissuadet quasdam linguae 
+          <lb ed="#B1" n="14"/>malicias specialiter. Et sunt tria, murmuratio, detractio &amp; men 
+          <lb ed="#B1" n="15"/>dacium. Et secundum hoc lectio diuiditur in tres partes sicut  
+          <lb ed="#B1" n="16"/>patet intuenti. Dicit ergo inferens conclusionaliter ex praece 
+          <lb ed="#B1" n="17"/>dentibus. Ex quo sic est quod peccator maliloquus nullo modo potest euade 
+          <lb ed="#B1" n="18"/>re impunitus, sed iudicabitur &amp; corripietur a DEO. Ergo custodite uos a mur 
+          <lb ed="#B1" n="19"/>muratione, quae est species una locutionis, quae multum DEVM offendit, &amp; 
+          <lb ed="#B1" n="20"/>non solum cauenda est propter DEI iudicantis seueritatem, imo propter sum 
+          <lb ed="#B1" n="21"/>inutilitatem. Et ideo subdit: quae nihil prodest. 
+        </p>
+        <p xml:id="rhwis-l9-d1e120">
+          <lb ed="#B1" n="22"/>Et est notandum circa istud uitium quid sit &amp; quantae grauitatis apud DEVM 
+          <lb ed="#B1" n="23"/>Est enim murmuratio querela cum impatientia in his quae homo debet ferre 
+          <lb ed="#B1" n="24"/>patienter uel sustinere. Et committitur quandoque contra DEVM per displicen 
+          <lb ed="#B1" n="25"/>tiam: quandoque contra praelatum per inobedientiam: quandoque contra proxi 
+          <lb ed="#B1" n="26"/>mum per inuidentiam. Primo enim inueniuntur quidam qui murmurant con 
+          <lb ed="#B1" n="27"/>tra DEVM per displicentiam, quam habent de suo regimine &amp; administratio  
+          <lb ed="#B1" n="28"/>ne, quam facit circa homines: Et hoc est multum irrationabile. Vnde Seneca: 
+          <lb ed="#B1" n="29"/>Optimum est pati quod emendare non possis, &amp; DEVM a quo autore cuncta 
+          <lb ed="#B1" n="30"/>proueniunt sine murmuratione comitari. Malus enim miles est, qui imperato  
+          <lb ed="#B1" n="31"/>rem gemens sequitur. Seneca in Epistola 14. Vbi nulla prudentia est, subtiles  
+          <lb ed="#B1" n="32"/>artifices multum indignantur: &amp; merito: quando corripiuntur &amp; instruuntur ab  
+          <lb ed="#B1" n="33"/>inscijs &amp; ignaris artis suae. Certe de mundi regimine nos sumus ignari: DEVS 
+          <lb ed="#B1" n="34"/>aut solus scit quid omnibus expediat.. Et ideo quicunque contra diuinas ordina 
+          <lb ed="#B1" n="35"/>tiones &amp; dispositiones murmurat, ostendit se esse fatuum &amp; indisciplinatum, 
+          <lb ed="#B1" n="36"/>Eccles. 10. Vir prudens &amp; disciplinatus non murmurat. Murmurant tamen mun 
+          <lb ed="#B1" n="37"/>diales contra DEVM propter quatuor:  
+        </p>
+        <p xml:id="rhwis-l9-d1e157">
+          <lb ed="#B1" n="38"/>Primo de hoc quod temperiem &amp; tempestates non tribuit eis semper secundum 
+          <lb ed="#B1" n="39"/>eorum uoluntates. Secundo de hoc quod prosperitatem &amp; aduersitatem non tribuit  
+          <lb ed="#B1" n="40"/>in uita ista iuxta merita &amp; demerita hominum. Tertio de hoc quio DEVS eis fre 
+          <lb ed="#B1" n="41"/>quenter immittit tribulationes &amp; infirmitates. Quarto specialiter murmurant  
+          <lb ed="#B1" n="42"/>pauperes inuoluntarij contra DEVM, de eo quod non ita abundanter tribuit eis si 
+          <lb ed="#B1" n="43"/>cut quibusdam diuitibus. Primi homines multum faciunt contra se ipsos: quia 
+          <lb ed="#B1" n="44"/>impediunt propriam tranquillitatem &amp; pacem, non conformando se diuinae 
+          <lb ed="#B1" n="45"/>uoluntati: imo si sic esset sicut uellent, mundus periret: quia talis temperies  
+          <!--sap_Page_067.xml-->
+          <pb ed="#B1" n="33"/>
+          <lb ed="#B1" n="1"/>qualem uhus homo uellet pro oleribus suis uel pro agro suo displiceret uel noceret  
+          <lb ed="#B1" n="2"/>uicino suo, imo sibiipsi dilpliceret uel noceret: postea quia homo nescit quid sibi 
+          <lb ed="#B1" n="3"/>uel suis expedit. Tales uidentur consimilis affectionis qualis fuit Phaenton secum 
+          <lb ed="#B1" n="4"/>dum fabulas, de quo Ouid. 2. Methamor. Qui fuit filius Phoebi, qui petijt a pa 
+          <lb ed="#B1" n="5"/>tre, quod posset regere currum Solis. Rexit igit iste puer inscis &amp; inexpertus, aliquan 
+          <lb ed="#B1" n="6"/>do duxit Solem ita procul a terra, quo omnia per frigus congelabant. Aliquando ita 
+          <lb ed="#B1" n="7"/>: prope terram, quod omnia coburebant, propter quod a loue fulminatus interijt. Ita 
+          <lb ed="#B1" n="8"/>contingeret istis fatuis &amp; praesumptuosis qui de diuina gubernatione murmurant.  
+          <lb ed="#B1" n="9"/>Sed si secundum eos fieret gubernatio, pro sua affectione sentiunt, &amp; facerent  
+          <lb ed="#B1" n="10"/>sua fatuitate, ut tota mundi machina solueretur. Vnde narratur de, quo 
+          <lb ed="#B1" n="11"/>dam heremita, qui seminauerat olera, &amp; petiuit pluuiam a DEO &amp; obtinuit. Po 
+          <lb ed="#B1" n="12"/>stea serenitatem, &amp; obtinuit. Iterum pluuiam, &amp; habuit: &amp; quale, temporis  
+          <lb ed="#B1" n="13"/>uoluit, DEVS dedit, &amp; tamen nec unum olus excreuit: cogitauit ergo heremita quo  
+          <lb ed="#B1" n="14"/>esset uniuersalis defects olerum in toto mundo, &amp; patienter sustinuit. Casu tamen co 
+          <lb ed="#B1" n="15"/>tingente diuertit ad locum alterius heremitae, &amp; uidit ibi olera pulcherrima. Quo 
+          <lb ed="#B1" n="16"/>modo, inquit, habes tu olera ita pulchra, ego seminaui olera &amp; pluiliam a DEO 
+          <lb ed="#B1" n="17"/>postulaui, sicut mihi uidebatur expedire &amp; obtinui, &amp; tamen nihil habeo. Certe 
+          <lb ed="#B1" n="18"/>respondit alis: Hoc iuste &amp; rationabiliter tibi accidit: putabas te sapientiorem DEO 
+          <lb ed="#B1" n="19"/>&amp; ipse tibi ostendit fatuitatem tuam. Vnde etiam de quodam agricola narrat qui com 
+          <lb ed="#B1" n="20"/>muniter habuit in agris, in uineis &amp; pascuis uberiores fructus &amp; herbas quam uici 
+          <lb ed="#B1" n="21"/>ni sui. Requisitus aut quare: Respondit quod semper habuit talem temperiem, qualem 
+          <lb ed="#B1" n="22"/>uolebat. Requisitus quare: Respondit: Ego nunque aliud tempus appeto quam 
+          <lb ed="#B1" n="23"/>DEVS dat. Vnde murmuratores ex causa tali sunt similes Gaio Caesari, de o 
+          <lb ed="#B1" n="24"/>narrat Seneca lib. 1. de ira in fine, &amp; Sueto. in lib. de uita 12. caesa. Iste Gaius or 
+          <lb ed="#B1" n="25"/>dinauit facerae solenissimum festum suis nobilibus. Contigit ergo ipso die festi tom 
+          <lb ed="#B1" n="26"/>trua fulmina &amp; pluuias maximas fieri. Rex fatuus indignatus indixit bellum com 
+          <lb ed="#B1" n="27"/>tra louem, &amp; iussit balistiarios suos. &amp; sagittarios &amp; magistros machinarum suarum 
+          <lb ed="#B1" n="28"/>sagittas &amp; tela iacere contra louem. Isti fatui obedientes suo principi, sagittauerunt  
+          <lb ed="#B1" n="29"/>tela &amp; iecerunt lapides contra coelum, quae omnia in populum descendentia, magnam 
+          <lb ed="#B1" n="30"/>partem populi peremerunt. Reuera sic est de illis qui murmurant de diuinis disi 
+          <lb ed="#B1" n="31"/>positionibus, iaciunt uerba impatientiae contra DEVM, quae DEO nocere non pos  
+          <lb ed="#B1" n="32"/>sunt, sed praecise in damnum proprium retorquentur. Sic murmurauerunt filij firael  
+          <lb ed="#B1" n="33"/>in deserto contra DEVM, &amp; perierunt: nec intrare potuerunt in terram promissio  
+          <lb ed="#B1" n="34"/>nis. Vnde Nume.14. Omnes qui numerati estis a uiginti annis &amp; supra, mur 
+          <lb ed="#B1" n="35"/>m: urastis contra me: non intrabitis terram, super quam leuaui manum mea, ut habi  
+          <lb ed="#B1" n="36"/>tare uos facerent in ea praeter Raleph filium lephune &amp; Iosuae filium, Num. Et  
+          <lb ed="#B1" n="37"/>ideo signanter dicitur 1. Corinth.10. Neque murmuraueritis sicut quidam eo 
+          <lb ed="#B1" n="38"/>rum murmurauerunt, &amp; perierunt ab exterminatore.
+        </p>
+        <p xml:id="rhwis-l9-d1e264">
+          Secundo inueniunt ho 
+          <lb ed="#B1" n="39"/>mines qui murmurant contrao DEVM, eo quod prosperitatem &amp; aduersitatem non distri 
+          <lb ed="#B1" n="40"/>buit in uita psenti, iuxta merita &amp; demerita personarum. Et haec est antiquissima 
+          <lb ed="#B1" n="41"/>querela gentilium philosophorum contra DEVM: &amp; causa propter quam plerique dixerunt,  
+          <lb ed="#B1" n="42"/>mundum no regi a Deo, sed a casu, Iuxta illud Claudiani in 1, ma. suae in principio:  
+          <lb ed="#B1" n="43"/>Sepe mihi dubiam traxit sententia mentem  
+          <lb ed="#B1" n="44"/>Curarent superi terras aut nullus inesset  
+          <lb ed="#B1" n="45"/>Rector &amp; incerto fluerent moralia casu.
+        </p>
+        <p xml:id="rhwis-l9-d1e282">
+          <!-- verse lines out of order here -->
+          <lb ed="#B1" n="46"/>Et Boëtius in de conso: lib. 1, metro. 5. offelliseri eediorortis. &amp; postea circa 
+          <lb ed="#B1" n="47"/>medium metri: 
+          <lb ed="#B1" n="48"/>Debita sceleri noxia pond, 
+          <lb ed="#B1" n="49"/>clara tenebrit iustusque uulit  
+          <lb ed="#B1" n="50"/>Omua certo fine gubern m: 
+          <lb ed="#B1" n="51"/>Crimen migpum. 
+          <lb ed="#B1" n="52"/>Ae peruersi resident celso.  
+          <lb ed="#B1" n="53"/>Hominum solus respuit actus.  
+          <lb ed="#B1" n="54"/>Nil peruria, nil notet ipsiit 
+          <lb ed="#B1" n="55"/>Mores solio. sanctaque taleat  
+          <lb ed="#B1" n="56"/>Mertro fector cohibere modo:  
+          <lb ed="#B1" n="57"/>Iniusta iuce colla nocentes. 
+          <lb ed="#B1" n="58"/>Nam cur tanias lubrita versat  
+          <lb ed="#B1" n="59"/>Praus, mendac, compia eolore, &amp;c 
+          <lb ed="#B1" n="60"/>Fortima uices: premit insontes 
+          <lb ed="#B1" n="61"/>Latet obscurit condita uirini
+        </p>
+        <p xml:id="rhwis-l9-d1e322">
+          <lb ed="#B1" n="62"/>Sed posito sicut ueritas se habet, quod DEVS regit mundum, 
+          <lb ed="#B1" n="63"/>tunc apparet magis mirabile, quare mali reportant praemia iustorum, 
+          <!--sap_Page_068.xml-->
+          <pb ed="#B1" n="34"/>
+          <lb ed="#B1" n="1"/>&amp; sancti aliquando luunt &amp; puniuntur loco malorum. Vnde dicit Boëtius lo 
+          <lb ed="#B1" n="2"/>quens ad Philosophiam prosa 5. lib. 4. Cur ergo haec uiceuersa mutentur, scele 
+          <lb ed="#B1" n="3"/>rosorum supplicia bonos premant. Praemia uirtutum mali rapient uehementer 
+          <lb ed="#B1" n="4"/>admiror, quae tam iniustae confusionis ratio uideatur, ex te scire desidero. Minus 
+          <lb ed="#B1" n="5"/>enim mirarer si misceri omnia fortu itis casibus crederem. Nunc stuporem me 
+          <lb ed="#B1" n="6"/>um DEVS rector exaggerat, qui cum saepe bonis iocunda, malis aspera: con 
+          <lb ed="#B1" n="7"/>traqe bonis dura tribuat, malis optata concedat: nisi causa deprehendatur: quid  
+          <lb ed="#B1" n="8"/>est quod a fortuitis casibus differri uideatur. Non solum autem gentiles philo 
+          <lb ed="#B1" n="9"/>sopni: sed sancti DEI prophetae uidentur de hoc murmurasse. Sed non murmu 
+          <lb ed="#B1" n="10"/>rauerunt, sed potius admirantes exclamauerunt qualiter inconprehensibilia sunt  
+          <lb ed="#B1" n="11"/>iudicia DEI &amp; inuestigabiles uiae eius. Ad Ron. 11. Vnde Iob. 21. Quare impii 
+          <lb ed="#B1" n="12"/>uiuunt, sublimati sunt cofortatique in diuitijs. Et Hierem.12. Quare uia impiorum pro 
+          <lb ed="#B1" n="13"/>speratur: Bene est omnibus qui praeuaricantur &amp; inique agunt. Item Psal. Vsquequo 
+          <lb ed="#B1" n="14"/>Domine peccatores, usquequo peccatores gloriabunt. Item Abacuc 1. Quare 
+          <lb ed="#B1" n="15"/>non respicis super contemptores, &amp; taces conculcante impio iustiorem se. Sed certe 
+          <lb ed="#B1" n="16"/>istud murmur est irrationabile, si causa penset. Medicus prudens &amp; fidelis aegro, 
+          <lb ed="#B1" n="17"/>de quo desperat, omnia indifferenter concedit quaecunque desiderat: Aegro ue 
+          <lb ed="#B1" n="18"/>ro de cuius salute spem habet, multa negat: dietas &amp; abstinentias ordinat &amp; a 
+          <lb ed="#B1" n="19"/>maras potiones: tamen salubres ei propinat. Isto modo DEVS reprobis in hac 
+          <lb ed="#B1" n="20"/>uita abundantiam temporalium bonorum tribuit ut pro paucis bonis operibus  
+          <lb ed="#B1" n="21"/>paucis diebus in hac uita praemientur. Et hoc est quod dicit beatus Gregorius, 
+          <lb ed="#B1" n="22"/>21. Moralium, capitulo quarto super illud lob. 31. Nunquid non est perditio 
+          <lb ed="#B1" n="23"/>iniquo: Dicit Gregorius: Iniustus ad debitum mortis currens effraenatis uolu 
+          <lb ed="#B1" n="24"/>ptatibus utitur: quia &amp; uituli qui mactandi sunt in uberioribus pascuis relin 
+          <lb ed="#B1" n="25"/>quuntur. At contra iustus a delectationis transitoriae iocunditate restringitur:  
+          <lb ed="#B1" n="26"/>quia &amp; nimirum uitulus ad laboris usum uitae deputatus sub iugo detinetur:  
+          <lb ed="#B1" n="27"/>Et consequenter ponit exemplum de aegro desperato. Et de ista materia loqui  
+          <lb ed="#B1" n="28"/>tur idem Greg. 6. Moral cap. 3. Quasi per amoena prata in carcerem uenit, qui  
+          <lb ed="#B1" n="29"/>per praesentis uitae prospera ad interitum tendit.
+        </p>
+        <p xml:id="rhwis-l9-d1e396">
+          <lb ed="#B1" n="30"/>Tertio inueniuntur quidam mundiales, murmurantes contra DEVM 
+          <lb ed="#B1" n="31"/>quando eos flagellat uel per tribulationes, uel per infirmitates. Et hoc fatuum 
+          <lb ed="#B1" n="32"/>est &amp; irrationabile, cum frequenter infirmitas situtilior homini quam sani 
+          <lb ed="#B1" n="33"/>tas. Vnde in uitas Patrum legitur, quod cum quidam petijt liberari a tertia 
+          <lb ed="#B1" n="34"/>na a Iohanne heremita, respondit: Rem tibi necessariam cupis abijcere. Dicit 
+          <lb ed="#B1" n="35"/>enim Aristoteles 3. Topicorum: Illud quod est effectiuum beatitudinis magis 
+          <lb ed="#B1" n="36"/>est eligendum quam quod sanitatis: sed tale est frequenter infirmitas. Vnde 
+          <lb ed="#B1" n="37"/>Ecles. 31. Infirmitas grauis sobriam facit animam, flagella etiam &amp; tribulatio  
+          <lb ed="#B1" n="38"/>nes &amp; taedia faciunt nos fugere ad DEVM. Et ideo considerato, quod Pater no 
+          <lb ed="#B1" n="39"/>ster est qui nos flagellat &amp; verberat: &amp; quod nobis haereditatem seruat, patien 
+          <lb ed="#B1" n="40"/>ter debemus sustinere quidquid nobis irrogat. Vnde Grego. 6. Moralium 3 
+          <lb ed="#B1" n="41"/>ca. Quidam tunc prosperitatem despiciunt cum malum eius exitum cernunt,  
+          <lb ed="#B1" n="42"/>sed perfecti econuerso. Vnde tunc est prosperitas pensanda quam nihil sit: cum 
+          <lb ed="#B1" n="43"/>sese supra caeteros successibus extollit. Narrat Seneca6. declamationum cap. 1 
+          <lb ed="#B1" n="44"/>quod quidam abdicauit filium suum: ad quem frater suus accessit rogans, quod  
+          <lb ed="#B1" n="45"/>patri suo nullo modo dure responderet: sed abdicationem patienter sustineret, sub  
+          <lb ed="#B1" n="46"/>quo pacto chirographum suum sibi dedit, permittens se daturum sibi dimidiam 
+          <lb ed="#B1" n="47"/>partem haereditatis suae: ille tacuit &amp; frater alius abdicatur: tunc declamatione 
+          <lb ed="#B1" n="48"/>racta super casum, frater ille gratus dicit germano suo: In omnem me fortunam  
+          <lb ed="#B1" n="49"/>frater tibi iungam comitem, si militandum est, una militabimus: si peregrinan 
+          <lb ed="#B1" n="50"/>dum, una peregrinabimur: si quotidianam rogauero stipem, illam tecum diui  
+          <lb ed="#B1" n="51"/>dam. Nolui recentem patris iram exagitare: malui ut tacendo patrem uincerem, 
+          <lb ed="#B1" n="52"/>meae partis haereditas erit tuae custos. Moraliter loquendo: Frater iste charissimus 
+          <lb ed="#B1" n="53"/>CHRISTVM significat, qui nos fratres suos uocat, ad Hebraeos 5. Non con 
+          <!--sap_Page_069.xml-->
+          <pb ed="#B1" n="35"/>
+          <lb ed="#B1" n="1"/>funditur, fratres eos uocare pater noster DEVS, Deutero. 32. Nunquid non 
+          <lb ed="#B1" n="2"/>ipse est pater tuus: Iste pater unumquemque de nobis totiens abdicat, quotiens e 
+          <lb ed="#B1" n="3"/>um aduersitate flagellat. Quid igitur dicit CHRISTVS frater noster tali homi 
+          <lb ed="#B1" n="4"/>ni a DEO tribulato. Certe sic dicit ille frater gratissimus: sustineas patienter &amp; 
+          <lb ed="#B1" n="5"/>patri nostro nihil dure respondeas, &amp; dabo tibi medietatem haereditatis meae: 
+          <lb ed="#B1" n="6"/>&amp; simul cum hoc in omni fortuna stabo tecum: nec te deseram: nec dimittam  
+          <lb ed="#B1" n="7"/>dummodo hoc unum concedas, quod patri non remurmures. Et ideo Treno 
+          <lb ed="#B1" n="8"/>3. scribitur: Quid murmurabit homo uiuens, nisi pro peccatis suis: Scrutemur 
+          <lb ed="#B1" n="9"/>uias nostras, &amp; quaeramus, &amp; reuertamur ad Dominum: quia Greg. 5. Moral  
+          <lb ed="#B1" n="10"/>cap. 13. quod qui in poenis murmurat, iusticiam ferientis accusat, &amp; DEVM post 
+          <lb ed="#B1" n="11"/>ponit. Vnde Aristoteles dicit 6. Topicorum: Quod proterue respondens, est 
+          <lb ed="#B1" n="12"/>causa quare frequenter non bene disputatur. Et 2. elenchorum dicit: quod si re 
+          <lb ed="#B1" n="13"/>spondens contra argumentetur, cum debeat soluere, peccat contra leges bene 
+          <lb ed="#B1" n="14"/>respondendi. Moraliter. Disputatio est inter DEVM &amp; hominem. DEUS habet  
+          <lb ed="#B1" n="15"/>opponere &amp; arguere, Apoc. 3. Ego quos amo, castigo &amp; arguo: &amp; hominis  
+          <lb ed="#B1" n="16"/>est in ista disputatione respondere, lob. 30. disputare cum DEO cupio. Si ergo il  
+          <lb ed="#B1" n="17"/>le respondens proterue &amp; contra argumentando &amp; remurmurando respon 
+          <lb ed="#B1" n="18"/>deat: Reuera non bene disputabitur a parte sua: sed si patienter sustinet &amp; gra 
+          <lb ed="#B1" n="19"/>tias agit DEO, disputatio bene finietur. Sicut responderunt sancti Martyres. 
+          <lb ed="#B1" n="20"/>De quibus canit Ecclesia: Non murmur resonat, non querimonia: &amp; est Ambrosij.
+        </p>
+        <p xml:id="rhwis-l9-d1e498">
+          <lb ed="#B1" n="21"/>Quartum genus murmurantium contra DEUM sunt pauperes inuoluntarij,  
+          <lb ed="#B1" n="22"/>qui non uirtute, sed necessitate ad paupertatem coguntur: &amp; isti sunt ualde fatui: 
+          <lb ed="#B1" n="23"/>quia si de sua necessitate uirtutem facerent: indubitanter eligerentur ad regnum 
+          <lb ed="#B1" n="24"/>coelorum, Iac. 2. Nonne DEVS elegit pauperes in mundo, diuites in fide &amp; hae 
+          <lb ed="#B1" n="25"/>redes regni: Multos tamen iuuat paupertas ad uitam aeternam consequendam: 
+          <lb ed="#B1" n="26"/>scitis quod pauper scholaris deficientibus uictualibus suis plus appetit repatriari quam 
+          <lb ed="#B1" n="27"/>ille qui abundat. Et peregrinus in terra extranea deficientibus expensis facit 
+          <lb ed="#B1" n="28"/>maiores dietas. Et falco famelicus auidius uolat ad praedam: Et reuera isto mo 
+          <lb ed="#B1" n="29"/>do pauperes multi qui sunt in ista uita sicut scholares, quibus uictualia quoti  
+          <lb ed="#B1" n="30"/>die deficiunt sicut peregrini, qui paruas expensas habent, &amp; sicut falco fameli 
+          <lb ed="#B1" n="31"/>cus, multo auidius desiderant coelestem patriam &amp; versus eam peregrinantur 
+          <lb ed="#B1" n="32"/>quam diuites impinguati &amp; abundantes in seculo. Et hic est notandum quod horror 
+          <lb ed="#B1" n="33"/>paupertatis uoluntariae, quam ita detestantur homines his diebus, procedit ex de 
+          <lb ed="#B1" n="34"/>fectu fidei: quia non credunt DEVM uelle sufficienter subuenire his quae siunt  
+          <lb ed="#B1" n="35"/>pauperes pro amore suo. Et non aduertunt fatui quod pater habens multos fi 
+          <lb ed="#B1" n="36"/>lios, plus de illo solicitatur, qui minus potest seipsum iuuare, &amp; cui nondum pr 
+          <lb ed="#B1" n="37"/>uisum est unde possit uiuere: &amp; mater plus solicitat circa unum filium infirmum, quam 
+          <lb ed="#B1" n="38"/>circa multos sanos. Ita DEVS circa pauperes uoluntarios, qui pro amore suo sunt  
+          <lb ed="#B1" n="39"/>pauperesplus solicitat quam circa diuites. Vnde in Psal. Ego uero egenus, &amp; pau 
+          <lb ed="#B1" n="40"/>per sum, DEVS adiuua me. De istis pauperibus murmurantibus dicit Psal. Ipsi 
+          <lb ed="#B1" n="41"/>dispergentur ad manducandum: si uero non fuerint saturi, murmurabunt. Non 
+          <lb ed="#B1" n="42"/>sic uos charissimi, sed sicut ad Phil. scribitur: Omnia facite sine murmuratione
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

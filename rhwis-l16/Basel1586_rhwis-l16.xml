@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 16 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 16 [Basel Transcription]</title>
+          <date when="2019-10-23">October 23, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-10-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="57"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l16">
+        <p xml:id="rhwis-l16-d1e95">
+          <lb ed="#B1" n="34"/>POSITA erronea opinione, hic exequitur de eius insufficienti 
+          <!-- line numbering errors here --> 
+          <lb ed="#B1" n="38"/>probatione. Et est probatio talis. Nulla res quae moriendo pe 
+          <!-- line numbering errors here -->
+          <lb ed="#B1" n="41"/>rit &amp; annihilatur, praemiatur uel punitur post mortem. Sed omnis  
+          <!-- line numbering errors here --> 
+          <lb ed="#B1" n="44"/>homo est talis: Ergo, &amp;c. Istius rationis solum ponit minorem, &amp; pr 
+          <!-- line numbering errors here --> 
+          <lb ed="#B1" n="46"/>bat eam: uidelicet, quod post haec, scilicet uitam praesentem, erimus 
+          <!--sap_Page_092.xml-->
+          <pb ed="#B1" n="58"/>
+          <lb ed="#B1" n="1"/>tanquam non fuerimus: id est, nec corpus uiuet, nec anima: &amp; ita homo moren 
+          <lb ed="#B1" n="2"/>do perit totaliter. Circa probationem istius minoris duo facit. Primo pro 
+          <lb ed="#B1" n="3"/>bat quod homo totaliter peribit secundum rem. Secundo probat quod se 
+          <lb ed="#B1" n="4"/>cundum nomen, ibi: Et nomen nostrum. Circa primum duo facit: quia primo  
+          <lb ed="#B1" n="5"/>persuadetur haec opinio naturaliter &amp; philosophice. Secundo exemplariter 
+          <lb ed="#B1" n="6"/>&amp; rethorice, ibi: Transiet. Circa primum duo facit: Primo probathoc ex 
+          <lb ed="#B1" n="7"/>hominis productione. Secundo ex hominis resolutione, ibi: Extinctus,
+        </p>
+        <p xml:id="rhwis-l16-d1e136">
+          <lb ed="#B1" n="8"/>Circa primum duo facit. Primo probat hoc ex parte termini a quo. Secun 
+          <lb ed="#B1" n="9"/>do ex parte termini ad quem, productionis humanae, ibi: Quoniam fumus, 
+          <lb ed="#B1" n="10"/>Est ergo prima ratio talis. Productio &amp; corruptio sunt mutationes oppositae, 
+          <lb ed="#B1" n="11"/>&amp; inter terminos oppositos: sed productio nostra est ex nihilo, sicut a termino 
+          <lb ed="#B1" n="12"/>a quo &amp; ad esse sicut ad terminum ad quem. Ergo corruptio est ad nihil, si 
+          <lb ed="#B1" n="13"/>cut terminum ad quem, &amp; ab esse sicut a termino a quo. Dicit ergo: Quia ex  
+          <lb ed="#B1" n="14"/>nihilo nati sumus. Ideo consequens est &amp; liquet: quia stat ibi consecutiue quasi in 
+          <lb ed="#B1" n="15"/>nuerent istam consequentiam: Ex nihilo nati sumus: Ergo post haec erimus quasi non 
+          <lb ed="#B1" n="16"/>fuerimus: sed ista ratio nihil ualet: quia productio animae est ex nihilo: sed  
+          <lb ed="#B1" n="17"/>pductio corporis ex aliquo est, scilicet ex semine uiri &amp; mulieris. Anima uero 
+          <lb ed="#B1" n="18"/>corrumpi non potest: sed si corrumperetur, corrumperet in nihil: corpus uero 
+          <lb ed="#B1" n="19"/>corrumpitur in illa ex quibus generatur uel componitur: &amp; i deo haec est falsa. Pro 
+          <lb ed="#B1" n="20"/>ductio hominis est ex nihilo: quia corpus a parentibus propagatur &amp; anima a 
+          <lb ed="#B1" n="21"/>DEO creatur &amp; infunditur. Et ideo in corruptione hominis corpus resoluitur,  
+          <lb ed="#B1" n="22"/>&amp; anima separata uiuit. Consequenter, ibi: Quoniam fumus. Ponit secun 
+          <lb ed="#B1" n="23"/>dam rationem ad istam falsam opinionem, &amp; sumitur ista ex parte termini ad 
+          <lb ed="#B1" n="24"/>quem. In productione hominis terminus ad quem est homo uiuens. In isto au 
+          <lb ed="#B1" n="25"/>tem termino quatuor sunt in quibus uidetur uita perpendi, uidelicet respiratio 
+          <lb ed="#B1" n="26"/>&amp; inspiratio, sensus, calor &amp; motus. Vnde anima nihil aliud est nisi aliquod i 
+          <lb ed="#B1" n="27"/>storum secundum eos: sed quodlibet istorum annihilatur: Ergo &amp; anima. Quan 
+          <lb ed="#B1" n="28"/>tum ad primum dicit: Quoniam fumus, &amp; flatus est in naribus nostris: id est, in 
+          <lb ed="#B1" n="29"/>corpore nostro, &amp; ponitur pars pro toto: quia ibi patet sensibiliter egressio spi 
+          <lb ed="#B1" n="30"/>ritus de corpore. Quantum ad secundum uidelicet quantum ad sensum dicit. 
+          <lb ed="#B1" n="31"/>Et sermo. Sermo enim non est sine imaginatione, nec imaginatio sine sensibus. 
+          <lb ed="#B1" n="32"/>Sicut patet 2. de Anima: sed constat quod sensus perit corpore mortuo. Quan 
+          <lb ed="#B1" n="33"/>tum ad tertium dicit: Scintilla: id est, calor naturalis: quia calor similiter perit. 
+          <lb ed="#B1" n="34"/>Quantum ad motum dicit, ad commouendum oor nostrum: id est, calorem qui  
+          <lb ed="#B1" n="35"/>est in corpore nostro ad ministrandum motum in corpore nostro, qui motus 
+          <lb ed="#B1" n="36"/>deriuatur a corde. Sicut docet Aristot. in de motu cordis: &amp; sic tangit quatu  
+          <lb ed="#B1" n="37"/>or falsas opiniones de anima, quas reprobat Arist. 1. de Anima. Prima fuit He 
+          <lb ed="#B1" n="38"/>racliti, qui posuit animam esse uaporem, quem impii uocant fumum, uel flatum.  
+          <lb ed="#B1" n="39"/>Secunda fuit Diogenis, qui posuit animam esse aërem, quem aërem impiij uo 
+          <lb ed="#B1" n="40"/>cant sermonem: quia sermo est uox significatiua articulata, &amp; uox est aer per 
+          <lb ed="#B1" n="41"/>cussus secundum Priscianum. Tertia fuit quorundam antiquorum, quod a 
+          <lb ed="#B1" n="42"/>nima est ignis, quem impii uocant scintillam. Quarta fuit Melissi Italici, quod  
+          <lb ed="#B1" n="43"/>anima est quoddam motiuum corporis, &amp; illa tangitur cum dicitur: Ad commo 
+          <lb ed="#B1" n="44"/>uendum cor nostrum. Consequenter, bi: Quia extinctus cinis, propant quod  
+          <lb ed="#B1" n="45"/>homo totaliter moritur ex hominis resolutione. Et quia inter positiones quae 
+          <lb ed="#B1" n="46"/>ponunt animam esse de natura alicuius elementi, illae sunt probabiliores, quae 
+          <lb ed="#B1" n="47"/>ponunt eam esse de natura ignis uel aëris. De natura enim terrae nullus sim 
+          <lb ed="#B1" n="48"/>pliciter poit, propter eius grossiciem, nec de natura aquae nisi ualde grossi phi  
+          <lb ed="#B1" n="49"/>losophi. Sicut dicit Aristoteles primo de Anima: Et ideo tantum duas opinio 
+          <lb ed="#B1" n="50"/>nes exequitur. Et arguitur primo sic, secundum primam opinionem. Sicut  
+          <lb ed="#B1" n="51"/>enim quando ignis extinguitur, nihil remanet nisi cinis extinctus: ita quando  
+          <lb ed="#B1" n="52"/>anima moritur, nihil remanet nisi extinctus cinis. Et sicut cinis totaliter ex  
+          <lb ed="#B1" n="53"/>tinctus non accenditur iterum: ita nec corpus nostrum iterum accenditur per 
+          <!--sap_Page_093.xml-->
+          <pb ed="#B1" n="59"/>
+          <lb ed="#B1" n="1"/>uiuificationem &amp; resurrectionem secundum istos. Iuxta secundam opinio 
+          <lb ed="#B1" n="2"/>nem arguitur sic: Quando uas repletum aëre euacuatur, ab aëre nihil rema 
+          <lb ed="#B1" n="3"/>net, ibi nisi uas repletum aliquo alio. Sic quando homo moritur, aër a cor 
+          <lb ed="#B1" n="4"/>pore expellitur, &amp; nulla alia vita manet. Et sunt iste rationes stolidae innitentes 
+          <lb ed="#B1" n="5"/>totaliter sensui, nec aliquam rem credunt tales esse, nisi quae possit uideri uel 
+          <lb ed="#B1" n="6"/>tangi. Secunda ratio tangitur cum subditur: Et spiritus: id est, anima, dis 
+          <lb ed="#B1" n="7"/>fundetur: id est, in nihium, de facile resoluetur, tanquam mollis aër: id  
+          <lb ed="#B1" n="8"/>est, tenuis uel humidus: quia dicitur in litera quod corpus humanum est 
+          <lb ed="#B1" n="9"/>cinis extinctus. Et uidentur innuere isti impii quod haec est generalis con 
+          <lb ed="#B1" n="10"/>ditio humani generis, quod corpus resoluatur in cineres: unde potest esse  
+          <lb ed="#B1" n="11"/>dubium.
+        </p>
+        <p xml:id="rhwis-l16-d1e266">
+          <lb ed="#B1" n="12"/>Vtrum omne corpus humanum sit de lege communi in cineres redigendum 
+          <lb ed="#B1" n="13"/>Et uidetur quod non: quia aliqui homines morientur immediate ante iudicium 
+          <lb ed="#B1" n="14"/>&amp; ante resurrectionem: sed corpus hominis non incineratur, nisi per magnum 
+          <lb ed="#B1" n="15"/>tempus post mortem: Ergo saltem corpora talium non incinerabuntur. Et de 
+          <lb ed="#B1" n="16"/>aliquibus dicitur quod simul rapientur in nubibus obuiam CHRISTO in aëra, 1. ad  
+          <lb ed="#B1" n="17"/>Thessal. 4. Praeterea, si omnia corpora redigerentur in cineres, tunc non foret 
+          <lb ed="#B1" n="18"/>maior inclinatio in cineribus Petri ad animam Petri quam Pauli. Consequen 
+          <lb ed="#B1" n="19"/>tia patet: quia omnes cineres istorum corporum sunt eiusdem rationis: sed com 
+          <lb ed="#B1" n="20"/>sequens falsum: quia si nulla inclinatio foret in illis cineribus ad animam Petri: 
+          <lb ed="#B1" n="21"/>nulla differentia foret ex quibus cineribus corpus Petri formaretur. Sed hoc 
+          <lb ed="#B1" n="22"/>aest falsum: quia sic non foret idem homo, qui prius. propterea: Si sic tunc omnia 
+          <lb ed="#B1" n="23"/>corpora hominum essent combusta aut comburenda: sed hoc est falsum. Con 
+          <lb ed="#B1" n="24"/>sequentia patet: quia nihil resoluitur in cineres nisi per combustionem. Praete 
+          <lb ed="#B1" n="25"/>rea de multis sanctis legitur, quorum corpora non incinerantur, quorum reli  
+          <lb ed="#B1" n="26"/>quiae habentur. Ad oppositum est quod dicit Haymo, quod omnes natos in o 
+          <lb ed="#B1" n="27"/>riginali tenet haec sententia: Terra es &amp; in terram ibis. Et Genes. 3. Puluis es &amp; 
+          <lb ed="#B1" n="28"/>in puluerem reuerteris. Pro isto dubio notanda sunt tria: Primum est quod ad 
+          <lb ed="#B1" n="29"/>uirtutem uocis loquendo corpora humana non sunt in cineres redigenda. Se 
+          <lb ed="#B1" n="30"/>cundum est quod ad intentionem sanctorum loquendo: haec est sententia ge 
+          <lb ed="#B1" n="31"/>neralis, quod corpora de lege communi sunt in pulueres uel cineres redigen 
+          <lb ed="#B1" n="32"/>da. Tertium est, quare utuntur sancti isto modo loquendi. Primum patet breui  
+          <lb ed="#B1" n="33"/>ter ex tertio argumento: quia cineres non uocantur nisi combusta per ignem. 
+          <lb ed="#B1" n="34"/>Secundum patet sic: Sententia lata a DEO pro peccato originali circa poenam  
+          <lb ed="#B1" n="35"/>corporis tenebit de lege communi usque ad resurrectionem: sed illa sententia 
+          <lb ed="#B1" n="36"/>non fuit solum de morte, sed etiam de resolutione in elementa, Genes. tertio:  
+          <lb ed="#B1" n="37"/>Puluis es &amp; in puluerem reuerteris. Ergo illa tenebit sicut illa de morte: Sed 
+          <lb ed="#B1" n="38"/>sententia mortis transit in omnes in quos transit peccatum originale. Ergo 
+          <lb ed="#B1" n="39"/>&amp; sententia incinerationis ad Hebr. 9. Statutum est hominibus semel mo 
+          <lb ed="#B1" n="40"/>ri. Et 1. ad Corinth.15. In Adam omnes moriuntur. De tertio haec est 
+          <lb ed="#B1" n="41"/>ratio, quare resolutio corporis humani in illa ex quibus componitur, uocatur  
+          <lb ed="#B1" n="42"/>incineratio apud sanctos. Primo propter antiquam consuetudinem, qua hu  
+          <lb ed="#B1" n="43"/>mana corpora comburebantur: &amp; maxime nobilium ne in elementa uiliora 
+          <lb ed="#B1" n="44"/>reuerterentur: &amp; postea cineres conseruabantur in memoriam in urnis: &amp; i 
+          <lb ed="#B1" n="45"/>deo mos inoleuit, dicere quod illa in quae resoluitur corpus humanum, 
+          <lb ed="#B1" n="46"/>dicantur cineres. Secundo propter causam resolutionis corporis huma 
+          <lb ed="#B1" n="47"/>ni, quae est ignis concupiscentiae carnalis, quae uocatur fomes, quae de lege com 
+          <lb ed="#B1" n="48"/>muni corpus humanum continue accendit. Propter quem fomitem cor 
+          <lb ed="#B1" n="49"/>pus humanum in elementa resoluitur ad huius infectionis purgationem. Il  
+          <lb ed="#B1" n="50"/>lud autem quod per accensionem ignis resoluitur, si combustum fuerit, dici 
+          <lb ed="#B1" n="51"/>tur in cineres resolui. Ad primum dico, quod tales resoluentur per ignem, 
+          <lb ed="#B1" n="52"/>qui mundum ante iudicium concremabit: &amp; sic resoluentur &amp; cito repara 
+          <lb ed="#B1" n="53"/>buntur. Ad secundum dico, quod nulla est naturalis inclinatio in cineribus 
+          <!--sap_Page_094.xml-->
+          <pb ed="#B1" n="60"/>
+          <cb ed="#B1" n=""/>
+          <lb ed="#B1" n="1"/>Petri ad animam Petri: sed ordo prouidentiae diuinae hoc faciet, quod illi cine 
+          <lb ed="#B1" n="2"/>res magis unientur animae Petri quam alteri, ut idem homo resurgat. Ad ter 
+          <lb ed="#B1" n="3"/>tium dico, quod Scriptura loquitur figuratiue, ut iam dictum est. Ex his pa 
+          <lb ed="#B1" n="4"/>tet, quod corpus Virginis benedictae resoluendum non fuit: quia in eo fomes 
+          <lb ed="#B1" n="5"/>extinctus extitit. Similiter est de alijs, si qui alij sunt huiusmodi, quod eis est com 
+          <lb ed="#B1" n="6"/>cessum ex priuilegio speciali. Idem est de reliquijs dicendum Sanctorum quod 
+          <lb ed="#B1" n="7"/>de lege communi ante resurrectionem communem incinerabuntur, uel si non 
+          <lb ed="#B1" n="8"/>hoc eis erit concessum ex priuilegio speciali.
+        </p>
+        <p xml:id="rhwis-l16-d1e383">
+          <lb ed="#B1" n="9"/>Notandum est hic quod contra materiam uanae gloriae de aliquo, cuius 
+          <lb ed="#B1" n="10"/>delectatio mouet in praesenti, ualde expedit praecogitare, quid de illo delecta 
+          <lb ed="#B1" n="11"/>bili eueniet in futuro, sicut legimus in diuersis tractatibus. Et imuita beati lo 
+          <lb ed="#B1" n="12"/>hanis Eleemosinarij habentur. Quod mos erat antiquitus apud Graecos, quod  
+          <lb ed="#B1" n="13"/>statim imperatore electo &amp; coronato, aedificatores monumentorum, quatuor  
+          <lb ed="#B1" n="14"/>genera marmorum ei afferentes, sibi dicerent isto modo. De quali marmore 
+          <lb ed="#B1" n="15"/>iubet imperium tuum sibi fieri monumentum, ne per gloriam imperialis di 
+          <lb ed="#B1" n="16"/>gnitatis in uanam gloriam efferretur. Similiter dicitur fieri in consecratione 
+          <lb ed="#B1" n="17"/>papali, stuppa coram oculis eius accenditur &amp; comburitur, &amp; sic sibi dicitur:  
+          <lb ed="#B1" n="18"/>Sic transit gloria mundi. Similiter legitur in historijs Romanorum, quod trium 
+          <lb ed="#B1" n="19"/>phanti in curru assidebat quidam ribaldus, qui ei impune conuitiabatur, &amp; 
+          <lb ed="#B1" n="20"/>interdum colaphiaabat, ne excessus honoris qui illo die sunt collati, eum super 
+          <lb ed="#B1" n="21"/>homines transmutarent. Summum uero accensiuum uanae gloriae est nobilitas 
+          <lb ed="#B1" n="22"/>iuuentutis humani corporis, contra quod &amp; ad quod re primendum metrice 
+          <lb ed="#B1" n="23"/>dicitur: 
+          <lb ed="#B1" n="24"/>Forma, genus, mores. sapientia, vis &amp; honores. 
+          <lb ed="#B1" n="25"/>Non retinent hominem quin redit in cinerem.
+        </p>
+        <p xml:id="rhwis-l16-d1e422">
+          <lb ed="#B1" n="26"/>Vnde satis admiratiue dicitur Eccles. 10. Quid superbis cinis &amp; terra. Et  
+          <lb ed="#B1" n="27"/>ideo cui unicuique nostrum expedit commemori pluries hoc uerbum. Extin 
+          <lb ed="#B1" n="28"/>ctus cinis erit corpus nostrum. Potest etiam hoc uerbum dici delicate &amp; sum 
+          <lb ed="#B1" n="29"/>ptuose nutrientibus corpus suum: nunc calidis speciebus, nunc electissimis 
+          <lb ed="#B1" n="30"/>carnibus tam domesticis quam ferinis, nunc uestibus mollissimis &amp; suauibus: 
+          <lb ed="#B1" n="31"/>ac si putarent quod calorem &amp; ignem uitae naturalis perpetuare possent. Sed  
+          <lb ed="#B1" n="32"/>ualde decipiuntur: quia lob. 34. Omnis caro deficiet, &amp; homo in cinerem com  
+          <lb ed="#B1" n="33"/>uertetur. Item hoc patet de pigris remissis &amp; ociosis, qui sua corpora tantum 
+          <lb ed="#B1" n="34"/>appreciantur, quod nulli poenitentiae se uolunt exponere, &amp; tamen post mo 
+          <lb ed="#B1" n="35"/>dicum nihil aliud erit quam extinctus cinis: &amp; ideo in signum istorum dicitur  
+          <lb ed="#B1" n="36"/>unicuique nostrum in die cinerum in capite ieiunij a sacerdote. Memento ho 
+          <lb ed="#B1" n="37"/>mo quod cinis es, &amp; in cinerem reuerteris. Dicamus ergo &amp; mente sentiamus: 
+          <lb ed="#B1" n="38"/>quia extinctus cinis erit corpus nostrum. Duo sunt in quibus laus corporalis  
+          <lb ed="#B1" n="39"/>consistit: scilicet pulchritudo &amp; fortitudo. Pulchritudo consistit in quadam pro 
+          <lb ed="#B1" n="40"/>portionabili claritate bonae complexionis: &amp; ideo uere pulchri desiderant esse, 
+          <lb ed="#B1" n="41"/>in lumine ut uideantur ab hominibus. Vnde corpus animalium est quasi quae 
+          <lb ed="#B1" n="42"/>dam lucerna, quae non est pulchra nisi anima lucente &amp; ipsum uiuificante re 
+          <lb ed="#B1" n="43"/>fulget. Et ideo mali homines quando moriuntur, pulchritudinem totam per 
+          <lb ed="#B1" n="44"/>dunt, Proverb. 13. Lucerna impiorum extinguetur. Secundo fortitudo con 
+          <lb ed="#B1" n="45"/>sistit in quadam naturali potestate facilis operationis: haec autem potestas re 
+          <lb ed="#B1" n="46"/>sultat ex solida &amp; compacta connectione ossium &amp; neruorum. Sed haec forti 
+          <lb ed="#B1" n="47"/>tudo quantumcunque fuerit ualida finaliter dissoluetur, &amp; erit cinis, Esa. 33. 
+          <lb ed="#B1" n="48"/>Erunt populi quasi de incendio cinis. Sit ergo recordatio nostra frequens &amp;  
+          <lb ed="#B1" n="49"/>assidua quod extinctus cinis erit corpus nostrum,
+        </p>
+        <p xml:id="rhwis-l16-d1e478">
+          <lb ed="#B1" n="50"/>Et est notandum, quod iste cinis intense recogitatus: fugat tentationem, 
+          <lb ed="#B1" n="51"/>seruat deuotionem, ornat orationem. Primo dico, fugat tentationem. Experi 
+          <lb ed="#B1" n="52"/>mentum esse dicitur, &amp; imponitur Alberto libro suo de uegetabilibus. Quod  
+          <lb ed="#B1" n="53"/>si coruus nidificauerit in arbore, &amp; oua posuerit, per talem cautelam potest fa 
+          <!--sap_Page_095.xml-->
+          <pb ed="#B1" n="61"/>
+          <lb ed="#B1" n="1"/>ciliter impediri, ne de ouis ualeat pullos procreare. Accipiatur cinis uitri, &amp; po 
+          <lb ed="#B1" n="2"/>natur subtiliter inter lignum &amp; cortices arboris portantis nidum, &amp; quamdiu 
+          <lb ed="#B1" n="3"/>cinis ibi durauit, coruus nunquam pullificabit. Coruus Diabolum signat  
+          <lb ed="#B1" n="4"/>Tneodolus: Coruum perfidiae damnant animalia quaeq.
+        </p>
+        <p xml:id="rhwis-l16-d1e502">
+          <lb ed="#B1" n="5"/>Homo est moraliter arbor, sicut dicit Saluator Matt. 7. Arbor bona, fructus 
+          <lb ed="#B1" n="6"/>bonos facit. In ista arbore Diabolus per tentationem nititur nidificare: qua po 
+          <lb ed="#B1" n="7"/>nere &amp; postea pullos producere. Nidos facit de ramusculis diuersarum cogita 
+          <lb ed="#B1" n="8"/>tionum, qua ponit de munusculis peruersarum delectationum: sed pullos pro 
+          <lb ed="#B1" n="9"/>ducit per consensum. Si ergo istum coruum impedire uelimus: etiamsi nidum 
+          <lb ed="#B1" n="10"/>fecerit per aduenticias cogitationes, etiamsi oua posuerit per surrepticias de 
+          <lb ed="#B1" n="11"/>lectationes: ne pullos producat per assensiuam electionem, accipiamus cine 
+          <lb ed="#B1" n="12"/>res uitri. Vitrum quod est fragile, est caro nostra, quae fragitur omni ictu. Cinis  
+          <lb ed="#B1" n="13"/>huius uitri est memoria status, quem caro nostra habebit post mortem, qui erit 
+          <lb ed="#B1" n="14"/>ad literam status cineris, lob. 13. Memoria nostra comparabitur cineri. Pona 
+          <lb ed="#B1" n="15"/>mus ergo istum cinerem sub cortice: id est, sub nostra exteriori conuersatione 
+          <lb ed="#B1" n="16"/>per priuatas &amp; occultas meditationes mortis &amp; infallibiliter nunquam con 
+          <lb ed="#B1" n="17"/>sentiemus suggestionibus Diaboli per cogitationes &amp; delectationes conceptas. 
+          <lb ed="#B1" n="18"/>Et hoc est, quod dicitur Eccles. 7. Memorare novissima tua, &amp; in aeternum non 
+          <lb ed="#B1" n="19"/>peccabis. Iste est cinis uaccae immolatae: id est, carnis mortificatae, uel in forma 
+          <lb ed="#B1" n="20"/>mortis recogitatae, quem uir mundus colligere iubetur, &amp; in loco mundissimo  
+          <lb ed="#B1" n="21"/>ponetur, Nume.19. De quo Apostolus etiam ad Hebr. 9. Cinis uitulae asper 
+          <lb ed="#B1" n="22"/>sus inquinatos sanctificat ad emundationem carnis
+        </p>
+        <p xml:id="rhwis-l16-d1e544">
+          <lb ed="#B1" n="23"/>Secundo cinis iste conseruat deuotionem. Ignis enim cineribus coopertus c 
+          <lb ed="#B1" n="24"/>optime seruatur, maxime iuniperi, di. 2. Isidor. 17. Ethymol c. 7. Quod lunipe 
+          <lb ed="#B1" n="25"/>rus arbor sic uocatur ideo: quia gignens * pyri: id est, ignem: quia conceptum 
+          <lb ed="#B1" n="26"/>ignem a DEO diu conseruat, quod si prunae ex eius cineribus fuerint cooper 
+          <lb ed="#B1" n="27"/>tae, usqe ad annum perdurant. luniperus quasi gignens pyr: id est, ignem, debet  
+          <lb ed="#B1" n="28"/>esse homo moraliter qui ignem feruentis &amp; deuotae deuotionis in altari sui cor 
+          <lb ed="#B1" n="29"/>dis iugiter conseruare tenetur. Iuxta illud Leuit. 6. Ignis in altari meo semper ar 
+          <lb ed="#B1" n="30"/>debit. Si ergo istum ignem deuotionis &amp; dilectionis DEI per totum annum 
+          <lb ed="#B1" n="31"/>uitae nostrae seruare uelimus, inuoluamus eum in cineribus carnis nostrae. In al 
+          <lb ed="#B1" n="32"/>tissimis montibus inueniuntur cineres inconuulsae per annum: sic in mentibus 
+          <lb ed="#B1" n="33"/>sanctorum iugis est memoria mortis cum deuotione &amp; poenitentia &amp; reprehen 
+          <lb ed="#B1" n="34"/>si one suorum uitiorum. Exemplo lob, qui dixit: Meipsum reprehendo, &amp; ago 
+          <lb ed="#B1" n="35"/>poenitentiam in fauilla &amp; cinere, lob. 42:
+        </p>
+        <p xml:id="rhwis-l16-d1e575">
+          <lb ed="#B1" n="36"/>Tertio iste cinis ornat orationem. Quanto enim pauper se magis humiliat, &amp; c 
+          <lb ed="#B1" n="37"/>necessitates suas declarat, tanto facilius impetrat quod implorat. Sic nos quanti 
+          <lb ed="#B1" n="38"/>do fragilitatem nostram coram DEO fatemur, faciliter expedimus. Exemplum 
+          <lb ed="#B1" n="39"/>habemus de Abraam, Genes. 18. Qui Domino supplicare proponens praemi 
+          <lb ed="#B1" n="40"/>sit. Loquar ad Dominum meum cum sim puluis &amp; cinis. Et in huius figuram  
+          <lb ed="#B1" n="41"/>ludaei DEVM orare uolentes, capita sua cineribus consparserunt. Sicut in mul  
+          <lb ed="#B1" n="42"/>tis locis Scripturae sacrae dicitur. Vnde si sic fecerimus, dabitur nobis corona 
+          <lb ed="#B1" n="43"/>pro cinere. Sicut dicitur Esa. 61. unde uersus: 
+          <lb ed="#B1" n="44"/>Dic homo vas cinerum quid confert slos facierum. 
+          <lb ed="#B1" n="45"/>Copia quid rerum mors vltima meta dierum. 
+          <lb ed="#B1" n="46"/>Hos est marcesces candens, in morte nigresces. 
+          <lb ed="#B1" n="47"/>Audis sor desces formides, nulla pauesces. 
+          <lb ed="#B1" n="48"/>Hec lege, lecta tene, lachramis laxentur habena. 
+          <lb ed="#B1" n="49"/>Ne pateant pene tibi ianua, tempore coena. Item: 
+          <lb ed="#B1" n="50"/>Forma, genus, mores, sapientia, vis &amp; honores. 
+          <lb ed="#B1" n="51"/>Non retinent hominem, quin redit in cinerem. Item: 
+          <lb ed="#B1" n="52"/>ortus cuncta suos repetunt matremque requirunt.  
+          <lb ed="#B1" n="53"/>Et redit in nihilum quod fuit ante nihil
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

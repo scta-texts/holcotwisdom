@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 14 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 14 [Basel Transcription]</title>
+          <date when="2019-10-23">October 23, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-10-23" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="50"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l14">
+        <p xml:id="rhwis-l14-d1e95">
+          <lb ed="#B1" n="30"/>POSTQVAM Spiritus sanctus rationabiliter reprobauit triplice 
+          <lb ed="#B1" n="31"/>iniustorum hominum excusationem: In ista parte soluit quadam inci 
+          <lb ed="#B1" n="32"/>dentem dubitationem: &amp; incidit dubitatio ex immediate praedi 
+          <!--<lb ed="#B1" n="33"/>r -->
+          <!-- extra line in transkribus; all lines below are n-1 until next page break-->
+          <lb ed="#B1" n="34"/>ctis. Nam declaratum est, quod peccatores se non possunt excusare 
+          <lb ed="#B1" n="35"/>per rerum sensibilium delectationes nec per carnis inclinationes, nec per daemo 
+          <lb ed="#B1" n="36"/>num extrinsecas suggestiones: &amp; certum est quod DEVS ab initio creauit ho 
+          <lb ed="#B1" n="37"/>minem iustum in statu innocentiae. 
+        </p>
+        <p xml:id="rhwis-l14-d1e117">
+          <lb ed="#B1" n="38"/>Est ergo dubitatio. Vnde primo proueniat iniusticia in genere humano, 
+          <lb ed="#B1" n="39"/>ex quo creatus est iustus, &amp; se potuisset si uoluisset in iusticia conseruasse. Et  
+          <lb ed="#B1" n="40"/>circa hanc dubitationem sic procedit: Primo enim praemittit quid dubitatio sup  
+          <lb ed="#B1" n="41"/>ponit. Secundo dubitationem soluit, ibi: impii. Praemittit duo. Primum est, quod  
+          <lb ed="#B1" n="42"/>iusticia hominis quantum in se est uel fuit, potuit fuisse perpetua: quia DEVS 
+          <lb ed="#B1" n="43"/>non potuit eam separare a uoluntate ipsa nolente secundum Aug. de libero at 
+          <lb ed="#B1" n="44"/>bitrio cap. 8. Similiter iusticia est perpetua &amp; immortalis effectiue: quia facit 
+          <!--sap_Page_085.xml-->
+          <pb ed="#B1" n="51"/>
+          <lb ed="#B1" n="1"/>homines perpetuos &amp; immortales, Sap. 5. Iusti autem in perpetuum uiuent.  
+          <lb ed="#B1" n="2"/>Iniusticia uero est adquisitio mortis: quia in Psalm. Virum iniustum mala ca 
+          <lb ed="#B1" n="3"/>pient in interitu. Est ergo dubitatio. Vnde prouenit iniusticia &amp; mors in ge 
+          <lb ed="#B1" n="4"/>nere humano, ex quo creatus fuit homo iustus, uel sine iniusticia habens im 
+          <lb ed="#B1" n="5"/>mortalitatem in sua potestate: quia nisi fuisset iniusticia praecedens, nunquam 
+          <lb ed="#B1" n="6"/>fuisset mors subsecuta, ad Rom. 5. Peccatum intrauit in mundum, &amp; per pec 
+          <lb ed="#B1" n="7"/>catum mors. Nunquid possunt dicere impii, quod DEVS fecit eos iniustos. 
+          <lb ed="#B1" n="8"/>Probatum est enim in lectione praecedente, quod nulla creatura alia a uolunta 
+          <lb ed="#B1" n="9"/>te potest facere uoluntatem iniustam, &amp; constat quod facta est iniusta: Ergo re 
+          <lb ed="#B1" n="10"/>linquitur quod uel a DEO uel a seipsa facta sit iniusta. Consequenter, ibi: Impii 
+          <lb ed="#B1" n="11"/>Soluit istam dubitationem, &amp; in soluendo dicit tria: Primum est quod primi pa 
+          <lb ed="#B1" n="12"/>rentes spontaneem peccauerunt. Secundo quod erronee iudicauerunt. Tertio 
+          <lb ed="#B1" n="13"/>quod suam prolem ex pactione damnauerunt. Dicit ergo primo sic: lmpiautem: 
+          <lb ed="#B1" n="14"/>id est, primi parentes a pietate quae est cultus DEI recedentes, manibus: id est, 
+          <lb ed="#B1" n="15"/>operibus comedendo pomum uetitum, &amp; verbis colloquendo serpenti, accer 
+          <lb ed="#B1" n="16"/>sierunt illam: id est, iniusticiam: &amp; estimantes illam, scilicet iniusticiam uel trans  
+          <lb ed="#B1" n="17"/>gressionem diuini praecepti, amicam: id est, utilem &amp; expedientem eis: Quia puta 
+          <lb ed="#B1" n="18"/>uerunt quod iuxta promissionem facti fuissent scientes sicut dij, Gen. 3. Deflu 
+          <lb ed="#B1" n="19"/>xerunt: id est, sponte praecipitauerunt in illam transgressionem, siue iniusticiam: 
+          <lb ed="#B1" n="20"/>uel, defluxerunt: id est, perdiderunt stabilitatem iusticiae originalis. Et sponsiones: 
+          <lb ed="#B1" n="21"/>id est, pacta uel promissiones seu foedera, posuerunt ad illam, scilicet iniusticiam  
+          <lb ed="#B1" n="22"/>&amp; mortem. Et quale pactum est: Certem tale: Quoniam digni sunt morte qui sunt  
+          <lb ed="#B1" n="23"/>aparte illius: id est, omnes qui de illis primis parentibus obligatis iniusticiae, de 
+          <lb ed="#B1" n="24"/>icenderunt. Adam enim commisit crimen laesae Maiestatis, ideo puniri debuit,  
+          <lb ed="#B1" n="25"/>tam in se quam in suis filijs, ad Ephes. 2. Eramus filij irae.
+        </p>
+        <p xml:id="rhwis-l14-d1e193">
+          <lb ed="#B1" n="26"/>Hic autem incidit duplex dubitatio literalis: Prima est utrum uirtutes cardi 
+          <lb ed="#B1" n="27"/>nales manebunt in patria. Istam quaestionem pertractat beatus August. 14. de 
+          <lb ed="#B1" n="28"/>Trinit. cap. 9. De magnis ubi recitat opinionem Tullij in Hortensio dicentis: 
+          <lb ed="#B1" n="29"/>Virtutes quatuor cardinales non manere post hanc uitam: Si autem esset quod 
+          <lb ed="#B1" n="30"/>post hanc uitam immortaliter liceret uiuere in insulis Sanctorum, ut fabulae refe 
+          <lb ed="#B1" n="31"/>runt. Quid enim indigeremus fortitudine, cum nullus labor futurus sit, uel 
+          <lb ed="#B1" n="32"/>periculum: uel de quo seruiret iusticia cum nullus appetet alienum. Ad quid  
+          <lb ed="#B1" n="33"/>temperantia, quando nulla est libido: sic quid esset prudentia, cum nulla sit e 
+          <lb ed="#B1" n="34"/>lectio boni uel mali. Vnde subdit: Si sic uiueremus, essemus beati, sola cogni 
+          <lb ed="#B1" n="35"/>tione naturae, qua nihil est melius ac amabilius. Sed hanc uiam non tenet Au 
+          <lb ed="#B1" n="36"/>gustin. sed plane dicit, quod iusticia manebit. De alijs, quod fortassis mane 
+          <lb ed="#B1" n="37"/>bunt. Sed tam iusticia quam prudentia habebunt alios actus quam modo ha 
+          <lb ed="#B1" n="38"/>bent: Quod enim nunc agit iusticia in subueniendis miseris, quod prudentia 
+          <lb ed="#B1" n="39"/>in praecauendis insidijs: quod fortitudo in perferendis molestijs, quod tempe 
+          <lb ed="#B1" n="40"/>rantia in cohercendis delectationibus prauis. Non ibi erit omnino, ubi nihil 
+          <lb ed="#B1" n="41"/>omnino mali erit. Sed tunc erit opus prudentiae, nullum bonum DEO praepo 
+          <lb ed="#B1" n="42"/>nere uel aequare: fortitudinis ei fortissime cohaerere: Temperantiae nullo noxio  
+          <lb ed="#B1" n="43"/>delectari: Iusticiae subiectum esse DEO. Haec est sententia Aug. Aliter dicit S 
+          <lb ed="#B1" n="44"/>Thomas, secunda 2. q. 6. ar. 7. Dicit enim quod in istis uirtutibus aliquid est 
+          <lb ed="#B1" n="45"/>materiale &amp; aliquid formale. Materiale est quaedam inclinatio partis appeti  
+          <lb ed="#B1" n="46"/>tiuae ad passiones uel operationes secundum aliquem modum. Formale autem est 
+          <lb ed="#B1" n="47"/>ordo rationis determinans modum illum. Dicit ergo quod uirtutes istae non 
+          <lb ed="#B1" n="48"/>manebunt quantum ad suum materiale: quantum autem ad suum formale ma 
+          <lb ed="#B1" n="49"/>nebunt. Sed iste modus dicendi non apparet clarus. Tum, quia uirtus est habi  
+          <lb ed="#B1" n="50"/>tus simplex nec potest componi ex inclinatione in appetitu, &amp; alio existente 
+          <lb ed="#B1" n="51"/>in ratione: &amp; maxime secundum eum: quia ponit quod fortitudo &amp; temperantia 
+          <lb ed="#B1" n="52"/>sint inconcupiscibili &amp; irascibili, quas ponit potentias irrationales affixas orga 
+          <lb ed="#B1" n="53"/>nis corporeis: prudentiam ponit in ratione, &amp; iusticiam in uoluntate. Ratio autem 
+          <!--sap_Page_086.xml-->
+          <pb ed="#B1" n="52"/>
+          <lb ed="#B1" n="1"/>secundum eum differt ab appetitu sensitiuo: &amp; per consequens est imaginabi  
+          <lb ed="#B1" n="2"/>le quod aliquis habitus componatur ex re existente in ratione &amp; ex re existen 
+          <lb ed="#B1" n="3"/>te in appetitu sensitiuo. Vnde facilius uidetur dicendum quod manebunt ibi 
+          <lb ed="#B1" n="4"/>habitus illi, sed habebunt alios actus. Iusticia autem plenius manebit quam aliae: 
+          <lb ed="#B1" n="5"/>quia principaliorem actum habebit quam nunc: scilicet reddere unicuique quod  
+          <lb ed="#B1" n="6"/>iuum est: DEO amorem super omnia ex proximo secundum mensuram uo 
+          <lb ed="#B1" n="7"/>luntatis diuinae: &amp; ideo de eo signanter dicitur, quod est perpetua &amp; immortalis.  
+          <lb ed="#B1" n="8"/>Potest tamen saluari dictum sancti Thomae, ut scilicet dicatur non intelligere 
+          <lb ed="#B1" n="9"/>de compositone reali alicuius uirtutis de numero istarum, sed de connotatio  
+          <lb ed="#B1" n="10"/>ne termini: quia iste terminus temperantia formaliter est habitus compesciuus 
+          <lb ed="#B1" n="11"/>passionum gustus tactus: &amp; sic in recto dicit habitum, &amp; in obliquo passiones, 
+          <lb ed="#B1" n="12"/>&amp; sic de alijs.
+        </p>
+        <p xml:id="rhwis-l14-d1e287">
+          <lb ed="#B1" n="13"/>Secunda dubitatio literalis est, an iusticia originalis includat aliquod do 
+          <lb ed="#B1" n="14"/>num supernaturale. Et dicendum quod si iusticia originalis dicatperfectam a 
+          <lb ed="#B1" n="15"/>nimae ad DEVM subiectionem &amp; corporis ad animam, cum anima sine gratia 
+          <lb ed="#B1" n="16"/>perfecte non possit subdi: patet quod sic. Sed si praecipue corporis ad animam 
+          <lb ed="#B1" n="17"/>includi: sic non oportet. Sic enim uocatur naturalis rectitudo. Vel iusticia qua 
+          <lb ed="#B1" n="18"/>anima corpore perficiebatur in statu innocentiae, iuxta illud: Iusticia enim per 
+          <lb ed="#B1" n="19"/>petua est. Notandum quod iusticia est munimentum praeliantis, ornamentum 
+          <lb ed="#B1" n="20"/>triumphantis, &amp; instrumentum iudicantis. Propter primum comparatur loricae, 
+          <lb ed="#B1" n="21"/>ad Eph. 6. &amp; ultimo: State induti lorica iusticiae, &amp;c. Est enim Iorica genus ar 
+          <lb ed="#B1" n="22"/>morum defensiuorum &amp; non inuasiuorum: &amp; disponit ipsum hominem ad su 
+          <lb ed="#B1" n="23"/>stinendum inuasiones aliorum sine laesione uulneris. Isto modo iusticia munit 
+          <lb ed="#B1" n="24"/>hominem inter persecutiones, ut nihil ei noceant si iusticiam habeat, Mat. 5. Bea 
+          <lb ed="#B1" n="25"/>ti qui persecutionem patiuntur propter iusticiam. Ista lorica debet homo indui,  
+          <lb ed="#B1" n="26"/>ut omne opus suum iusticia reguletur: sicut arma loricae ualent ad caput, tibias. 
+          <lb ed="#B1" n="27"/>&amp; pedes, &amp; ad totum corpus, sic iusticia. Et ideo signanter dicitur de iusto: In 
+          <lb ed="#B1" n="28"/>dutus est iusticia ut lorica, &amp; galea salutis in capite eius. Secundo iusticia est 
+          <lb ed="#B1" n="29"/>grnamentum triumphantis: &amp; ideo comparatur coronae in ludis agonisticis: 
+          <lb ed="#B1" n="30"/>sicut in palestra uel cursu praeponitur brauium in fine stadij, &amp; illud est praemium 
+          <lb ed="#B1" n="31"/>certantis, sicut tangit Apost. 1. ad Cor. 9. Stadium in quo currimus, est uita prae 
+          <lb ed="#B1" n="32"/>sens, cuius terminus est mors, In isto termino reponitur merces nostra finalis, 
+          <lb ed="#B1" n="33"/>iuxta illud Eccl. 4. prope finem: Vsque ad mortem certa pro iusticia. Sed certe contingit 
+          <lb ed="#B1" n="34"/>hominibus impedimentum in currendo propter quod deficiunt a triumpho: 
+          <lb ed="#B1" n="35"/>sicut contigit Athalantae uirgini per Hippomenem. De qua narrat Ouidius 
+          <lb ed="#B1" n="36"/>10. Meta. prope finem. Quae tantae agilitatis fuit in currendo, quod a nullo 
+          <lb ed="#B1" n="37"/>uiuente uinci potuit, nec aliquem uirum dignabatur habere nisi qui eam primo 
+          <lb ed="#B1" n="38"/>cursu uicisset: &amp; simul cum hoc fuit tantae uenustatis &amp; pulchritudinis quod ab  
+          <lb ed="#B1" n="39"/>omnibus nobilibus amabatur: &amp; currebant multi eius nuptias affectantes, sed  
+          <lb ed="#B1" n="40"/>omnes defecerunt, &amp; capitibus plectebantur. Tandem iuuenis quidam informatus 
+          <lb ed="#B1" n="41"/>a Venere nuptias eius postulauit &amp; Athalanta offert se carmini. Cui iuueni Ve 
+          <lb ed="#B1" n="42"/>nus tria poma aurea dedit, ut ea iuxta stadium proijceret, &amp; a cursu suo faceret 
+          <lb ed="#B1" n="43"/>uirginem deuiare. Currunt agillime hincinde: Incipit Hippomenes fatigari,  
+          <lb ed="#B1" n="44"/>proiecit pomum aureum. Illa videns pomum diuertit a stadio. Hippomenes 
+          <lb ed="#B1" n="45"/>praeterijt eam, &amp; praecurrit. llla deuiationem uelocitate compensans, celetiter 
+          <lb ed="#B1" n="46"/>eum attingebat, proiecit secundum: de quo consimiliter fecit. Ille tandem cum 
+          <lb ed="#B1" n="47"/>essent prope metam fortiter proiecit tertium, &amp; longius a stadio quam prius fe 
+          <lb ed="#B1" n="48"/>cerat illa cupiditate allecta, cucurrit ad pomum: &amp; interim Hippomenes me 
+          <lb ed="#B1" n="49"/>tam attingit: &amp; sic de uirgine uictoriam reportauit. Virgo ista uelocissima est 
+          <lb ed="#B1" n="50"/>anima humana, quae est mirae uenustatis: quia creata ad DEI imaginem, &amp; ni 
+          <lb ed="#B1" n="51"/>miae agilitatis: quia affectionibus &amp; cogitationibus, nunc est Romae, nune 
+          <lb ed="#B1" n="52"/>est Parisijs, nunc in coelo, nunc in terra, nunc in inferno. Ista habet currere per 
+          <lb ed="#B1" n="53"/>stadium uitae praesentis ad brauium finalis iusticiae. Sed unus agillimus, qui simul 
+          <!--sap_Page_087.xml-->
+          <pb ed="#B1" n="53"/>
+          <lb ed="#B1" n="1"/>cum ea conatur currere, uidelicet Diabolus, qui cursor uelocissimus est, lob. 
+          <lb ed="#B1" n="2"/>15. Currit aduersus DEVM erecto collo. Iste uidet quod uirtute &amp; uelocitate 
+          <lb ed="#B1" n="3"/>non potest eam uincere, &amp; ideo cautelis utitur pro uirtute. Habet tria poma &amp; 
+          <lb ed="#B1" n="4"/>aurea: id est, tres peccatorum delectationes, quas proijcit iuxta uiam huius uitae.  
+          <lb ed="#B1" n="5"/>Vnam quasi cito post principium: secundam in medio: tertiam prope metam. Pri 
+          <lb ed="#B1" n="6"/>mam iuuenibus: secundam uiris: tertiam senibus. Primum pomum est delectatio lasci 
+          <lb ed="#B1" n="7"/>uiae: secundum superbiae: tertium auaritiae. Et si contingat quod aliquis non impe 
+          <lb ed="#B1" n="8"/>diatur primis duobus, uix tertium euadere poterit: &amp; sic perditur corona iusti  
+          <lb ed="#B1" n="9"/>ciae finalis. Et ideo necesse habemus certare uiriliter &amp; per uirtuosam continen 
+          <lb ed="#B1" n="10"/>tiam a talibus abstinere, iuxta illud Apost. 1. ad Cor. 9. Omnis qui in agone conten 
+          <lb ed="#B1" n="11"/>dit, ab omnibus se abstinet: supple istis tribus. Et Eccles. 15. Qui continens est iu 
+          <lb ed="#B1" n="12"/>sticiae, apprehendet illam. Sic enim certauerat &amp; cucurrerat Paulus, sicut ipsemet 
+          <lb ed="#B1" n="13"/>recitat, 2. ad Thi. 4. dicens: Bonum certamen certaui, cursum consumaui, fidem  
+          <lb ed="#B1" n="14"/>seruaui: de reliquo reposita est mihi corona iusticiae.
+        </p>
+        <p xml:id="rhwis-l14-d1e413">
+          <lb ed="#B1" n="15"/>Tertio iusticia est instrumentum iudicantis. Sine enim iusticia nullus supe 
+          <lb ed="#B1" n="16"/>rior iudicat nec bene disponit, &amp; ideo comparatur regulae. Sicut enim latomus 
+          <lb ed="#B1" n="17"/>lapidem cedens &amp; complanans duo semper habet in prompto, uidelicet regu 
+          <lb ed="#B1" n="18"/>lam &amp; martellum: &amp; cum martello percutit, cum regula dirigit &amp; examinat pla 
+          <lb ed="#B1" n="19"/>niciem. Ita bonus iudex uel praelatus quicunque, duo debet habere in manibus. 
+          <lb ed="#B1" n="20"/>Malleum ad corrigendum delicta: &amp; regulam legis &amp; iusticiae, ne fiat excessus 
+          <lb ed="#B1" n="21"/>in uindicta, Esa. 29. Ponam iudicium in pohdere &amp; iusticiam in mensura. Greg. 
+          <lb ed="#B1" n="22"/>19. Moral ca. 12. Ille iusticia sicut uestimento uestitur, qui se undique bono ope  
+          <lb ed="#B1" n="23"/>re protegit &amp; nullam partem actionis suae nudam relinquit. Nam qui in aliqui  
+          <lb ed="#B1" n="24"/>bus actionibus est iustus, in aliquibus iniustus: non est perfecte uestitus, lob. 
+          <lb ed="#B1" n="25"/>29. Iusticia indutus sum, uestiui me sicut uestimento.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
