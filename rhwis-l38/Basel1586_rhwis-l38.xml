@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 38 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 38 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="129"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l38">
+        <head xml:id="rhwis-l38-Hd1e95">Lectio 38</head>
+        <p xml:id="rhwis-l38-d1e98">
+          <lb ed="#B1" n="32"/>POSTQVAM Spiritus sanctus declarauit qualiter infideles so 
+          <lb ed="#B1" n="33"/>lam uoluptatem aestimantes finem hominis, in futuro cruciabun 
+          <lb ed="#B1" n="34"/>tur: Hic ostendit qualiter in praesenti etiam multipliciter affligen 
+          <lb ed="#B1" n="35"/>tur per falsitatem in intellectu, voluntatem in affectu, &amp; uanitatem  
+          <lb ed="#B1" n="36"/>in effectu. Vnde in hodierna lectione sex miserias manifestat,  
+          <lb ed="#B1" n="37"/>istam sectam sequentes. 
+        </p>
+        <p xml:id="rhwis-l38-d1e114">
+          <lb ed="#B1" n="38"/>Sunt enim defraudati in falsis aestimationibus, fatigati in uanis occupationi 
+          <lb ed="#B1" n="39"/>bus, uilificati in abominationibus, effoeminati in delectationibus, damnificati  
+          <lb ed="#B1" n="40"/>in propagationibus, &amp; excomunicati pro adinuentionibus. Prima igitur eorum 
+          <lb ed="#B1" n="41"/>poena est que decipiuntur &amp; a ueritate elongantur in suis iudicijs. Et haec est ma 
+          <lb ed="#B1" n="42"/>gna miseria: quia naturaliter homo appetit non falli, etiam illi qui diligunt fallere 
+          <lb ed="#B1" n="43"/>secundum Augustinum. Ipsi autem euasisse omnem poenam, omne iudicium 
+          <lb ed="#B1" n="44"/>pro suis flagitijs sperauerunt, cum tamen modo sint in inferno damnati. Hanc poenam 
+          <!--sap_Page_167.xml-->
+          <pb ed="#B1" n="133"/>
+          <lb ed="#B1" n="1"/>deceptionis &amp; damnationis tangit cum dicit: Et vacua est spes illorum. Esa. 29. Po 
+          <lb ed="#B1" n="2"/>suimus mendacium spem nostram &amp; mendacio protecti sumus. Et nota quod  
+          <lb ed="#B1" n="3"/>contrarie Spiritus sanctus inducit spem iustorum &amp; spem impiorum, De illis  
+          <lb ed="#B1" n="4"/>dixit supra isto capitulo: spes illorum immortalitate plena est. De istis autem 
+          <lb ed="#B1" n="5"/>quod uacua est spes illorum, 2. ad Corint. 6. Hortamur uos ne inuacuum gra 
+          <lb ed="#B1" n="6"/>tiam DEI recipiatis.
+        </p>
+        <p xml:id="rhwis-l38-d1e149">
+          <lb ed="#B1" n="7"/>Secunda poena istorum in praesenti est quod fatigantur in uanis occupa 
+          <lb ed="#B1" n="8"/>tionibus: Vanum est quod non assequitur finem, ad quem ordinatur, 2. Phil  
+          <lb ed="#B1" n="9"/>cap. 10. Omnis labor humanus ordinatur ad aliquem fructum percipiendum: 
+          <lb ed="#B1" n="10"/>quia igitur homines supra tacti laborant pro uoluptatibus in bellis, in pace, in 
+          <lb ed="#B1" n="11"/>terra, &amp; mari: nocte dieque nullum fructum bonum inde percipient. Merito 
+          <lb ed="#B1" n="12"/>dicitur quod labores eorum sunt sine fructu: oppositum dicit intra de iustis, 
+          <lb ed="#B1" n="13"/>quod bonorum laborum gloriosus est fructus: Ipsimet etiam recognoscunt in die 
+          <lb ed="#B1" n="14"/>iudicij secundum illud quod scribitur infra ca. 5. Lassati sumus in uia iniquitatis  
+          <lb ed="#B1" n="15"/>&amp; perditionis, &amp; ambulauimus uiam difficilem. Viam autem domini igno 
+          <lb ed="#B1" n="16"/>rauimus. Fructus immaturisi comedantur, generant uermes in uentre: dele 
+          <lb ed="#B1" n="17"/>ctationes autem uitae praesenti sunt fructus immaturi, infra, cap. 4. Fructus eo  
+          <lb ed="#B1" n="18"/>rum inutiles &amp; acerbi ad manducandum, <quote xml:id="rhwis-l38-Qd1e177" source="http://scta.info/resource/rom6_21">quem ergo fructum habuistis in illis,  
+            <lb ed="#B1" n="19"/>in quibus nunc erubescitis</quote>, ad Rom. 8. &amp; <ref xml:id="rhwis-l38-Rd1e182">Boëtius de uoluptatibus 3. de Conso 
+              <lb ed="#B1" n="20"/>prosa 7</ref>. Quantos ille scilicet uoluptates morbos quam intolerabiles dolores  
+          <lb ed="#B1" n="21"/>quasi quendam fructum nequitiae fruentium solent afferre corporibus.
+        </p>
+        <p xml:id="rhwis-l38-d1e190">
+          <lb ed="#B1" n="22"/>Tertia iustorum poena in praesenti est quod uilificantur in abominationi 
+          <lb ed="#B1" n="23"/>bus. Magna miseria est homini quando opera sua sunt ita uilia, ita monstruosa, 
+          <lb ed="#B1" n="24"/>ita repugnantia rationi, quod homo non potest ea manifeste defendere nec 
+          <lb ed="#B1" n="25"/>excusare. Et certe quicumque solam uoluptatem prosequuntur, talia opera faciunt  
+          <lb ed="#B1" n="26"/>quae comuni rationi repugnant &amp; abominabilia DEO siunt &amp; angelis: nec hu 
+          <lb ed="#B1" n="27"/>manae cohabitationi congruunt, sed repugnant. Et hoc est quod dicit: Et inhabi  
+          <lb ed="#B1" n="28"/>tabilia opera eorum: id est, conuentui &amp; habitationi naturali repugnant &amp; pro 
+          <lb ed="#B1" n="29"/>pagationi concessae naturae. Imo DEVS ipse, qui omnes inhabitare dignatur  
+          <lb ed="#B1" n="30"/>per opera talia ab inhabitatione ciuitatis humanae expellitur, de qua Hier. 50. 
+          <lb ed="#B1" n="31"/>Non habitabit ibi uir nec incolet eam filius hominis. Sed uerbum caro factum 
+          <lb ed="#B1" n="32"/>est &amp; habitabit in nobis, Iohan. 1.
+        </p>
+        <p xml:id="rhwis-l38-d1e217">
+          <lb ed="#B1" n="33"/>Quarta poena est, quod effoeminantur in delectationibus. Homines enim 
+          <lb ed="#B1" n="34"/>uoluptuosi &amp; priuant mulieres sensu &amp; a mulieribus sensu priuantur. Canis 
+          <lb ed="#B1" n="35"/>amens ubicunque momorderit hominem, eum facit amentem. Et eodem modo 
+          <lb ed="#B1" n="36"/>mulier fatua facit uirum rabidum: &amp; adolescens fatuus mulierem facit insensa 
+          <lb ed="#B1" n="37"/>tam, &amp; quando mulieres sunt insensatae, tunc uiri sunt effoeminati, imo inani 
+          <lb ed="#B1" n="38"/>mati, Proverb. 6. Mulier autem preciosam animam uiri rapit. Qui autem est si 
+          <lb ed="#B1" n="39"/>ne anima, insensatus efficitur. Et hoc isti bene fatentur infra cap. 5. Nos autem 
+          <lb ed="#B1" n="40"/>insensati uitam illorum aestimabamus insaniam: quia Eccl. 19. Mulieres aposto  
+          <lb ed="#B1" n="41"/>tare faciunt sapientes, &amp; arguunt sensatos. Et hanc poenam tangit cum dicit:  
+          <lb ed="#B1" n="42"/>Mulieres eorum insensatae. Ad literam mulieres in operatione libidinis plus de 
+          <lb ed="#B1" n="43"/>lectantur quam uiri. Vnde Tiresias dixit foeminas habere decem uncias luxu 
+          <lb ed="#B1" n="44"/>riae. Viros autem nisi quatuor. Fuerat enim iste Tiresias utriusque sexus secundum 
+          <lb ed="#B1" n="45"/>fabulas successiue: ideo factus est iudex in hac causa: &amp; ideo consequens est, 
+          <lb ed="#B1" n="46"/>quod in hac secta quae uoluptatem habet pro fine, si uiri sint fatui, erunt mulie 
+          <lb ed="#B1" n="47"/>res insenisatae. Et ideo signanter dicitur Eccles. 25. Beatus qui habitat cum mu 
+          <lb ed="#B1" n="48"/>liere sensata
+        </p>
+        <p xml:id="rhwis-l38-d1e254">
+          <lb ed="#B1" n="49"/>Quinta miseria istorum infidelium est, quod damnificantur in propaga 
+          <lb ed="#B1" n="50"/>tionibus. Vnde subdit: Nequissimi filij eorum. DEVS enim in homine potentiam 
+          <lb ed="#B1" n="51"/>generandi &amp; certum modum instituit, &amp; est talis ut fiat etiam infra limites com  
+          <lb ed="#B1" n="52"/>iugij prolis propagatio ad laudem. Illi autem homines qui prolem gignunt, &amp; 
+          <lb ed="#B1" n="53"/>eam peruersis informationibus, &amp; exemplis corrumpunt bonum naturale 
+          <!--sap_Page_168.xml-->
+          <pb ed="#B1" n="134"/>
+          <lb ed="#B1" n="1"/>prolis amittunt, &amp; in hoc seipsos confundunt. Quia semper mala proles fina 
+          <lb ed="#B1" n="2"/>liter insurgit in parentes. Et benem dicit, quod nequissimi filij eorum. Causa est: quia 
+          <lb ed="#B1" n="3"/>mulieres sunt insensatae, &amp; uiri impii &amp; filij imitatores eorum: Ergo erunt ne 
+          <lb ed="#B1" n="4"/>cessario peiores, 3. Reg. 16. Operatus est iniquitatem super omnes qui erant  
+          <lb ed="#B1" n="5"/>ante illum 
+        </p>
+        <p xml:id="rhwis-l38-d1e282">
+          <lb ed="#B1" n="6"/>Sexta poena eorum est, quod excommunicati sunt adinuentionibus su 
+          <lb ed="#B1" n="7"/>is, &amp; hanc subdit cum dicit: Maledicta creatura eorum. Illud quod homo exco  
+          <lb ed="#B1" n="8"/>gitat &amp; adinuenit &amp; promouet, potest dici creatura sua: tales autem impij in o 
+          <lb ed="#B1" n="9"/>mni genere peccati tam luxuriae quam iniusticiae multa adinueniunt, quae pos  
+          <lb ed="#B1" n="10"/>sunt dici creaturae eorum, &amp; sicut omnia opera DEI sunt benedicta &amp; appro 
+          <lb ed="#B1" n="11"/>bata, Gen.1. ad Tim. 4. Omnis creatura DEI bona est: ita ista monstruosa fig 
+          <lb ed="#B1" n="12"/>menta peccatorum sunt excomunicata a DEO &amp; maledicta, Eccl. 37. O prae 
+          <lb ed="#B1" n="13"/>sumptio nequissima unde creata es: 
+          <lb ed="#B1" n="14"/>Mulieres eorum insensata
+        </p>
+        <p xml:id="rhwis-l38-d1e304">
+          <lb ed="#B1" n="15"/>Notandum quod familiare consortium malarum mulierum est omni ho 
+          <lb ed="#B1" n="16"/>mini detestandum, maxime tamen uiris religiosis &amp; personis Ecclesiasticis qui  
+          <lb ed="#B1" n="17"/>buscunque. Sunt enim mulieres libidinosae in alliciendo: maliciosae in conuiuen 
+          <lb ed="#B1" n="18"/>do. Litigiosae in colloquendo, proditiosae in consulendo. Primo igitur sunt libi  
+          <lb ed="#B1" n="19"/>dinosae in alliciendo: sicut enim plus in libidine delectantur quam masculi: ita 
+          <lb ed="#B1" n="20"/>in omni sensu magis alliciunt, forma, facie, gestu &amp; uoce. Et quamuis sint fri 
+          <lb ed="#B1" n="21"/>gidioris complexionis, sunt tamen feruentioris libidinis. Vnde Ouidius pri 
+          <lb ed="#B1" n="22"/>mo de artem Amandi: 
+          <lb ed="#B1" n="23"/>Partior in nobis nec tam furiosa libido.  
+          <lb ed="#B1" n="24"/>Legitimum finem flamma virilis habet.  
+          <lb ed="#B1" n="25"/>Vult dicere quod libido mulieris est infinita: ualde enim nociuum est quod si 
+          <lb ed="#B1" n="26"/>ne nocumento uideri non potest, &amp; tamen nobis dicitur Eccl. 9. Auerte faciem  
+          <lb ed="#B1" n="27"/>tuam a muliere compta, &amp; ne tibi conspicias speciem alienam. Propter speciem  
+          <lb ed="#B1" n="28"/>mulieris multi perierunt, &amp; ex hoc concupiscentia quasi ignis exardescet. Istum 
+          <lb ed="#B1" n="29"/>ignem satis pertimuit iste sanctus Monachus, qui matris suae tibias nudas tan 
+          <lb ed="#B1" n="30"/>gere noluit, cum eam ultra aquam portare debuit, sicut in uitas patrum habe 
+          <lb ed="#B1" n="31"/>tur. Istum ignem satis timuit sacerdos ille, qui in hora mortis mulieris auscultan 
+          <lb ed="#B1" n="32"/>ti an spiritum exhalasset, dixit igniculus uiuit, paleam tolle, 4. Dialo. Istum ignem 
+          <lb ed="#B1" n="33"/>etiam satis aduerterat metricus ille qui dixit:  
+          <lb ed="#B1" n="34"/>Femina fax Sathane, foetens rosa, dulce venenum. 
+          <lb ed="#B1" n="35"/>Semper prona rei quae prohibetur ei:  
+          <lb ed="#B1" n="36"/>Vrit enim vultu gisu rilu cute cultu. 
+          <lb ed="#B1" n="37"/>Huius ab insultu quantum potes esto pro cultu. 
+          <lb ed="#B1" n="38"/>Istum ignem considerauit sanctus Thomas de Aquino, qui cum in turri custo  
+          <lb ed="#B1" n="39"/>diretur in carcere, &amp; cum ad eum honesta iuuencula sola intromissa fuisset in 
+          <lb ed="#B1" n="40"/>cameram: Ille ardente titione de camino arrepto eam celerrime fugauit: sic quod  
+          <lb ed="#B1" n="41"/>de ea verificari posset illud Psalm. Ignis in conspectu eius ardescet, &amp; Eccles.  
+          <lb ed="#B1" n="42"/>42. de uestimento procedet tinea, &amp; a muliere iniquitas uiri: &amp; ideo super o 
+          <lb ed="#B1" n="43"/>mnia tenendum est consilium Apostoli 1. ad Corinth. 7. Bonum est homini 
+          <lb ed="#B1" n="44"/>mulierem non tangere. Sed hic respondebitur excusando, quod uel mulier est san 
+          <lb ed="#B1" n="45"/>cta uel religiosa: uel quia utraque persona est senex &amp; frigida. Sed reuera hoe 
+          <lb ed="#B1" n="46"/>nihil est: Quia quid frigidius silice uel ferro &amp; calybe, &amp; tamen ex eorum conta 
+          <lb ed="#B1" n="47"/>ctu facillime exilit ignis. Similiter terra est bona, &amp; pluuia est bona de coelo de 
+          <lb ed="#B1" n="48"/>scendens, &amp; tamen eorum commixtio non est nisi lutum. Vnde dicitur metrice: 
+          <lb ed="#B1" n="49"/>Res tam diuersa si vtraqe sit bona per se 
+          <lb ed="#B1" n="50"/>Si sint peruersa iuncta perdunt pariter se. 
+          <lb ed="#B1" n="51"/>Et ideo ualde stricte clericorum &amp; mulierum cohabitatio prohibetur. Ex  
+          <lb ed="#B1" n="52"/>tra decohabitatione clericorum &amp; mulierum per totum, &amp; in Cano. dist. 32. Ho 
+          <lb ed="#B1" n="53"/>spitiolum. Et sunt uerba Hieronym. Hospitiolum tuum aut raro aut nun 
+          <!--sap_Page_169.xml-->
+          <pb ed="#B1" n="135"/>
+          <lb ed="#B1" n="1"/>quam mulierum pedes terant: quia non potest toto corde habitare cum DEO, 
+          <lb ed="#B1" n="2"/>qui foeminarum accessibus copulatur. Foemina conscientiam secum pariter 
+          <lb ed="#B1" n="3"/>habitantis exurit. Inde est quod monachi &amp; monachae nullo modo cohabita 
+          <lb ed="#B1" n="4"/>re permittuntur in eodem monasterio, sicut 18. q. 2. In nullo loco permittimus. 
+          <lb ed="#B1" n="5"/>Et eodem monasterio ubi dicit: Monasteria puellarum longius a monasterio 
+          <lb ed="#B1" n="6"/>monachorum aut propter insidias Diaboli, aut propter oblocutiones homi 
+          <lb ed="#B1" n="7"/>num collocentur. Et ideo signanter alloquitur clericos beatus Hiero. in epist. 11. 
+          <lb ed="#B1" n="8"/>Quid tibi &amp; seminis, qui ad altare cum DEO fabularis. Foeminarum cum clericis  
+          <lb ed="#B1" n="9"/>nullo pacto sit coniunctio, &amp; praecipue conuersatio. lanua Diaboli, uia iniqui  
+          <lb ed="#B1" n="10"/>tatis, scorpionis percussio, nociuum genus est foemina, cum proximat ad sti 
+          <lb ed="#B1" n="11"/>pulam accendit ignem flamigero igne. percutit foemina conscientiam, pariter 
+          <lb ed="#B1" n="12"/>habitantis. Ego iudico si cum uiris foeminae habitent non deesse uiscarium 
+          <lb ed="#B1" n="13"/>Diaboli. Ex his aucupatum est ab initio peccatum, mentes ferreas domat libi  
+          <lb ed="#B1" n="14"/>do. Haec Hieron. Eccles. 42. In medio mulierum nolite commorari. Sic igitur  
+          <lb ed="#B1" n="15"/>patet primo quod mulieres sunt libidinosae in alliciendo
+        </p>
+        <p xml:id="rhwis-l38-d1e428">
+          <lb ed="#B1" n="16"/>Secundo sunt maliciosae in conuiuendo, Eccl. 25. Breuis est omnis malicia 
+          <lb ed="#B1" n="17"/>super maliciam mulierum: sors peccatorum cadit super illam. De qua loquens Chrys.  
+          <lb ed="#B1" n="18"/>in se. quem fecit de muliere mala, dicit sic: O maliciosum &amp; acutissimum te 
+          <lb ed="#B1" n="19"/>lum Diaboli mulier. Per mulierem Diabolus ab initio Adam in Paradiso 
+          <lb ed="#B1" n="20"/>prostrauit: per mulierem mitissimum Dauid in homicidium &amp; adulterium 
+          <lb ed="#B1" n="21"/>destinauit: per mulierem sapientissimum Salomonem in sacrilegium praecipi 
+          <lb ed="#B1" n="22"/>tauit: per mulierem fortissimum Samsonem rasum caecauit: &amp; castissimum loseph 
+          <lb ed="#B1" n="23"/>uinculis &amp; carceri mancipauit: per mulierem mundi lucernam lohannem Ba 
+          <lb ed="#B1" n="24"/>ptistam capite truncauit. Haec Chrysost. Hanc autem maliciam mulierum quan 
+          <lb ed="#B1" n="25"/>ta sit, in duabus mulieribus declarat, uidelicet in uxore Iob, &amp; Dalida amica 
+          <lb ed="#B1" n="26"/>Samsonis. De prima loquens sic dicit: Haec uidens uirum suum ulceribus igni 
+          <lb ed="#B1" n="27"/>tum, ardentem doloribus, inuolutum uermibus, in sterquilinio residentem, ci 
+          <lb ed="#B1" n="28"/>neribus coopertum: non est recordata nobilitatis regiae, non dilectionis pristi 
+          <lb ed="#B1" n="29"/>nae quam ad eam habuerat: non diuitiarum, bonorum prolis, quam per eum su 
+          <lb ed="#B1" n="30"/>sceperat, nec misericordia mota est. Sed contra uirum iustum, daemonis partem 
+          <lb ed="#B1" n="31"/>assumpsit, &amp; ait: Benedic DEO, &amp; morere. Non sufficiebat illi, quod poenas 
+          <lb ed="#B1" n="32"/>sustinuit temporales, sed superaddere peccatum tentauit, &amp; aeternas. De secun 
+          <lb ed="#B1" n="33"/>da dicit sic: Da mihi illam Dalidam &amp; eius maliciam contra Samsonem pense 
+          <lb ed="#B1" n="34"/>mus. Haec illum, quem pridie in cubiculis suis coniuge praeelegit, cui blandi  
+          <lb ed="#B1" n="35"/>mentis &amp; Iusibus amplexibus, &amp; risibus blandita fuerat, hodie derisit, rasit &amp; 
+          <lb ed="#B1" n="36"/>abiecit, ac uinctum tradidit Philistaeis. Videamus enim quid ei displicere potuit  
+          <lb ed="#B1" n="37"/>in uiro marito. Si fortitudo diligitur, robustissimus fuit, qui leonem quasi hoe 
+          <lb ed="#B1" n="38"/>dum discerpserat inermis. Si pulchritudo, speciosissimus extitit Nazaraeus: 
+          <lb ed="#B1" n="39"/>Si sanctitas &amp; boni mores, talis fuit: quia ad eius preces dum sitierit, DEVS de 
+          <lb ed="#B1" n="40"/>mortua mandibula fontem eduxit. Si strenuitas amari debet, hic in mandibu 
+          <lb ed="#B1" n="41"/>la asini mille Philistaeos prostrauit. Si gratitudo, defectus in eo non fuit, nisi 
+          <lb ed="#B1" n="42"/>quod eam nimis dilexit. Ergo cum nulla causa odij in eo ualuit inueniri sola 
+          <lb ed="#B1" n="43"/>malicia suffecit pro causa. Haec Chrysost. Et ideo signanter dicitur Eccles. 25: 
+          <lb ed="#B1" n="44"/>Omnis plaga tristicia cordis est, &amp; omnis malicia nequitia mulieris. Et infra 
+          <lb ed="#B1" n="45"/>non est caput nequius super caput colubri, &amp; non est ira super iram mulieris.  
+          <lb ed="#B1" n="46"/>Commorari draconi &amp; leoni placebit, quam habitare cum muliere nequam: 
+          <lb ed="#B1" n="47"/>hanc autoritatem etiam probatChrysostomus optime sermone praeallegato, 
+          <lb ed="#B1" n="48"/>sed pertranseo usque ad alia
+        </p>
+        <p xml:id="rhwis-l38-d1e502">
+          <lb ed="#B1" n="49"/>Tertio inueniuntur mulieres litigiosae in colloquendo, &amp; illa est magna as  
+          <lb ed="#B1" n="50"/>flictio alligari uel uiro rixoso uel mulieri litigosae, &amp; ideo benedicitur, Pro 
+          <lb ed="#B1" n="51"/>uerb. 19. Tecta iugiter perstillantia litigiosa mulier. Si tectum domus iugiter 
+          <lb ed="#B1" n="52"/>stillaret aquam, homo ubique in ea nullam haberet quietem, sed necessario ha 
+          <lb ed="#B1" n="53"/>beret eamdimittere. Et ideo solet dici quod tria genera sunt, quae hominem 
+          <!--sap_Page_170.xml-->
+          <pb ed="#B1" n="135"/>
+          <lb ed="#B1" n="1"/>de domo sua expellunt, uidelicet fumus, stillicidium, &amp; uxor mala. Innocentius 
+          <lb ed="#B1" n="2"/>de uilitate conditionis humanae cap. 16. Fuit enim mulier de costa curua for 
+          <lb ed="#B1" n="3"/>mata, &amp; ideo semper contrariatur uiro suo. Nota de illo qui uxorem submer 
+          <lb ed="#B1" n="4"/>sam quaesiuit contra cursum aquae, &amp; cum a quodam quaereretur, quare eam sic  
+          <lb ed="#B1" n="5"/>quaereret: respondit, quia sibi semper contraria fuisset. Refert Agilius libro no 
+          <lb ed="#B1" n="6"/>ctium Atticarum de Socrate, quod cum Alcibiades ab eo quaesiuisset, quare 
+          <lb ed="#B1" n="7"/>uxorem suam Nantippen mulierem plenam iurgijs &amp; litigijs, molestissimam ui 
+          <lb ed="#B1" n="8"/>ro non fugaret de domo: Respondit, cum talem domi perpetior, assuesco &amp;  
+          <lb ed="#B1" n="9"/>exerceor ut caeterorum, quae foris sunt, iniurias facilius feram. De eodem nar 
+          <lb ed="#B1" n="10"/>rat Hieronymus contra louianum, quod habuit duas uxores: quae cum semel 
+          <lb ed="#B1" n="11"/>litigarent pro uiro, derisit eas, eo quod tam pro foedo homine certarent: statim  
+          <lb ed="#B1" n="12"/>simul concordatae in tantum ei maledixerunt, quod eum a domo fugere com 
+          <lb ed="#B1" n="13"/>pulerunt. Iste semel post infinita litigia ab altera illarum perpessa, perfusus fuit  
+          <lb ed="#B1" n="14"/>urina, proiecta de loco superiori super eum, per unam earum, nec tamen quic 
+          <lb ed="#B1" n="15"/>quam aliud respondit. Sciebam, inquit, post ista tonitrua imbrem secuturum., 
+          <lb ed="#B1" n="16"/>Et ideo bonum consilium datur Proverb. 21. Melius est federe in angulo do 
+          <lb ed="#B1" n="17"/>matis, quam cum muliere litigiosa in domo conuiuij. Valerius ad Rufinum: 
+          <lb ed="#B1" n="18"/>Contumelia viri est uxor inobediens: quia Eccles. 25. Mulier si primatum ha 
+          <lb ed="#B1" n="19"/>beat contraria est uiro suo
+        </p>
+        <p xml:id="rhwis-l38-d1e562">
+          <lb ed="#B1" n="20"/>Quarta conditio malarum mulierum est, quod sunt proditiosae in consu 
+          <lb ed="#B1" n="21"/>lendo, sicut in Dalida satis patuit: &amp; ideo metrice dicitur:  
+          <lb ed="#B1" n="22"/>Cum mulieres  
+          <lb ed="#B1" n="23"/>Poma, miricas 
+          <lb ed="#B1" n="24"/>Edere speres 
+          <lb ed="#B1" n="25"/>Edere dicas 
+          <lb ed="#B1" n="26"/>Res tibi tutas: 
+          <lb ed="#B1" n="27"/>Mella, cicutas: 
+          <lb ed="#B1" n="28"/>Vnde his tribus sicut uulgariter dicitur non debet homo adhibere fidem: den 
+          <lb ed="#B1" n="29"/>ti canis, fidei mulieris, &amp; pedi equi. Vnde metrice dicitur:  
+          <lb ed="#B1" n="30"/>in fide, dente, pede mulieris, equi canisque fraus est. 
+          <lb ed="#B1" n="31"/>Teste Babione qui in fine comoediae suae dicit sic: 
+          <lb ed="#B1" n="32"/>Babio testis adest, haec vltima verba tenete. 
+          <lb ed="#B1" n="33"/>Sunt incredibiles vxor alumna cliens 
+          <lb ed="#B1" n="34"/>Concludam ergo finaliter cum Valerio. Et dico det uobis omnipotens DEVS 
+          <lb ed="#B1" n="35"/>foemineis fallacijs non falli, &amp; illuminet cor uestrum ne tendatis quo timeo.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 33 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 33 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="116"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l33">
+        <head xml:id="rhwis-l33-Hd1e95">Lectio 33</head>
+        <p xml:id="rhwis-l33-d1e98">
+          <lb ed="#B1" n="12"/>DECLARATO quod iusti in praesenti multipliciter tribulentur:  
+          <lb ed="#B1" n="13"/>Hic ostendit qualiter per tribulationum tolerantiam a DEO ac 
+          <lb ed="#B1" n="14"/>ceptantur: Et circa hoc duo facit: quia primo ostendit quod poena 
+          <lb ed="#B1" n="15"/>iustorum est uehemens argumentum diuinae dilectionis. Secun 
+          <lb ed="#B1" n="16"/>do quod ei correspondet euidens emolimentum remunerationis, 
+          <lb ed="#B1" n="17"/>ibi: In tempore. Poenam igitur iustorum DEO esse acceptam quando ex charita 
+          <lb ed="#B1" n="18"/>te &amp; pro suo amore sustinetur, ostendit per duo exempla, quorum primum con 
+          <lb ed="#B1" n="19"/>sistit in artificio naturali. Secundum in quodam sacrificio legali, ibi: Et quasi 
+          <lb ed="#B1" n="20"/>holocausti, &amp;c. Primum exemplum est tale: quanto aurum frequentius lique 
+          <lb ed="#B1" n="21"/>scit, &amp; transit per ignem, tanto sit charius, purius &amp; acceptabilius. Sed tribula 
+          <lb ed="#B1" n="22"/>tio uitae praesentis est sicut fornax uel caminus in quo etiam homines depu<lb ed="#B1" n="23"/>rantur, 
+          Ecclesiast. 2. In igne probatur argentum &amp; aurum: homines uero rece<lb ed="#B1" n="24"/>ptibiles 
+          in camino humiliationis: Ergo iusti quanto plus pro CHRISTO tri<lb ed="#B1" n="25"/>bulantur, 
+          tanto sunt magis preciosi &amp; meliores. Et hoc est quod dicit: tanquam 
+          <lb ed="#B1" n="26"/>aurum in fornace probauit illos Secundum exemplum est in quodam sacrificio 
+          <lb ed="#B1" n="27"/>legali, quod dicebatur holocaustum.
+        </p>
+        <p xml:id="rhwis-l33-d1e135">
+          <lb ed="#B1" n="28"/>Vbi notandum quod inter sacrificia, quae DEO offerebantur, praecipuum 
+          <lb ed="#B1" n="29"/>erat holocaustum, &amp; fiebat de armentis, pecudibus &amp; auibus. Et de isto sacri<lb ed="#B1" n="30"/>ficio 
+          nihil habuit sacerdos qui obtulit pro parte sua, sed totum cremebatur  
+          <lb ed="#B1" n="31"/>Domino, &amp; ideo dicebatur Snoxausop, ab enop Graece, quod est totum Latine, 
+          <lb ed="#B1" n="32"/>&amp; Vdliuae siue sausep combustum incendium: inde holocaustum quasi totum in 
+          <lb ed="#B1" n="33"/>cendium: quia in alijs sacrificijs sacerdos quandoque tollebat sibi partem, &amp; 
+          <lb ed="#B1" n="34"/>quandoque dabat partem offerenti ad comedendum: sed in holocausto totum 
+          <lb ed="#B1" n="35"/>corpus siue esset uitulus ouis, uel hoedus incendebatur: pellem tamen potuit  
+          <lb ed="#B1" n="36"/>sacerdos uendicare sibi secundum legem. Licet omne genus sacrificij DEO 
+          <lb ed="#B1" n="37"/>foret acceptum, nullum tamen sicut holocaustum: quia illud totum offereba 
+          <lb ed="#B1" n="38"/>tur in honorem DEI ex integro. Et isto modo, sancti Martyres immolati sunt  
+          <lb ed="#B1" n="39"/>DEO sicut hostia holocausti. Sacerdos occidens Martyres, est mundus, lohan. 
+          <lb ed="#B1" n="40"/>15. Mundus uos odit, &amp; ad Rom. 8. <quote xml:id="rhwis-l33-Qd1e165" source="http://scta.info/resource/rom8_36">Aestimati sumus ut oues occisionis</quote>: sed  
+          <lb ed="#B1" n="41"/>certe sacerdos nihil habuit nisi pellem, uidelicet gloriam secularem, Iob. 1. 
+          <lb ed="#B1" n="42"/><quote xml:id="rhwis-l33-Qd1e171" source="http://scta.info/resource/iob2_4">Pellem pro pelle, &amp; cuncta quae habet homo, dabit pro anima sua</quote>. Ergo sicut  
+          <lb ed="#B1" n="43"/>holocaustum est optimum in sacrificijs, sic martyrium in actibus meritorijs. Et  
+          <lb ed="#B1" n="44"/>hoc est quod Spiritus sanctus dicit: Et quasi holocausti hostiam accepit illos.
+        </p>
+        <p xml:id="rhwis-l33-d1e180">
+          <lb ed="#B1" n="45"/>Consequenter declarat quod est emolimentum remunerationis correspon<lb ed="#B1" n="46"/>dens 
+          iustorum persecutionibus in praesenti. Et dicit quod contra momenta<lb ed="#B1" n="47"/>neum 
+          poenalitatis accipient praemium sempiternae felicitatis. Et ut ostendat  
+          <!--sap_Page_151.xml-->
+          <pb ed="#B1" n="117"/>
+          <lb ed="#B1" n="1"/>quod tribulationis ad praemium nulla est proportio, supponit eorum poenam 
+          <lb ed="#B1" n="2"/>quasi instantaneae breuitatis, &amp; eorum praemium temporaneae quantitatis. Modo 
+          <lb ed="#B1" n="3"/>notum est quod temporis ad instans nulla est proportio sicut nec peccati ad lineam. 
+          <lb ed="#B1" n="4"/>Esa. 54. Ad punctum in modico dereliqui te, &amp; in miserationibus maximis con<lb ed="#B1" n="5"/>gregabo 
+          te. In momento indignationis abscondi faciem meam parumper a te, &amp; in 
+          <lb ed="#B1" n="6"/>misericordia sempiterna misertus sum tui. Vnde supra modum merces excedit la<lb ed="#B1" n="7"/>borem. 
+          Et hoc est quod dicit, quod in tempore erit respectus eorum, quasi diceret,  
+          <lb ed="#B1" n="8"/>in puncto: id est, in modico instanti passi sunt, sed in tempore prolixo &amp; longo: hoc 
+          <lb ed="#B1" n="9"/>est, in aeternitate erit respectus eorum: id est, praemiatio. Vnde solet dici cum Do 
+          <lb ed="#B1" n="10"/>minus remunerat aliquem liberaliter sibi seruientem, dando sibi aliquod ma<lb ed="#B1" n="11"/>gnum, 
+          quod ipse bene respexit eum. Et certe DEVS bene respexit eos quando  
+          <lb ed="#B1" n="12"/>supra modum &amp; proportionem retribuit pro labore. Iuxta illud <ref xml:id="rhwis-l33-Rd1e219">2. ad Corinth. 
+            <lb ed="#B1" n="13"/>4</ref>. Illud enim quod in praesenti est momentaneum &amp; leuae tribulationis nostrae,  
+          <lb ed="#B1" n="14"/>supra modum &amp; sublimitatem aeternum gloriae pondus operatur in nobis.
+        </p>
+        <p xml:id="rhwis-l33-d1e227">
+          <lb ed="#B1" n="15"/>Et notandum quod electus quilibet a CHRISTO multipliciter probatur  
+          <lb ed="#B1" n="16"/>sicut clericus ante promotionem, sicut nouitius ante professionem, &amp; sicut bacca 
+          <lb ed="#B1" n="17"/>laurius ante inceptionem, &amp; sicut denarius ante solutionem. Clericus ordinandus 
+          <lb ed="#B1" n="18"/>&amp; recepturus coronam prius examinatur, et quando altiorem ordinem est recepturus 
+          <lb ed="#B1" n="19"/>tanto difficilius examinatur. Omnes nos promouendi sumus ad ordines: quia in 
+          <lb ed="#B1" n="20"/>futuro omnes erimus sacerdotes, Apoc. 5. cap. Fecisti nos DEO nostro regnum 
+          <lb ed="#B1" n="21"/>&amp; sacerdotes. Magnus favor fieret clerico si posset praemuniri in quo passu, &amp; 
+          <lb ed="#B1" n="22"/>de qua materia deberet examinari: quia tunc posset sibi prouidere: &amp; tunc fo 
+          <lb ed="#B1" n="23"/>ret sibi magna uerecundia deficere. Iste fauor sit nobis. Ordines siunt in resur 
+          <lb ed="#B1" n="24"/>rectione generali in die iudicij quando iuxta merita nostra ad ordines angelo 
+          <lb ed="#B1" n="25"/>rum re cipiemur, ut dicatur unicuique nostrum illud Psal. Tu es sacerdos in aeter 
+          <lb ed="#B1" n="26"/>num secundum ordinem Melchisedech, &amp; modo sumus praemuniti de quo exa 
+          <lb ed="#B1" n="27"/>minabimur, certe non de difficili: sed de comunibus de donato scilicet &amp; partibus  
+          <lb ed="#B1" n="28"/>nostris: hoc est, de operibus pietatis, sicut patet Matth. 25. Esuriui &amp; dedistis 
+          <lb ed="#B1" n="29"/>mihi manducare. Totum est de donato, &amp; ideo illi qui inuenientur nesciuisse do 
+          <lb ed="#B1" n="30"/>natum, deficient de ordinibus &amp; repellentur sicut laici, &amp; ponentur ibi, ubi estum 
+          <lb ed="#B1" n="31"/>bra mortis &amp; nullus ordo, Iob. 10. Quando dicetur his: Ite maledicti in ignem ae 
+          <lb ed="#B1" n="32"/>ternum. Sed boni &amp; electi qui bene respondere possunt, certissimi erunt de corona 
+          <lb ed="#B1" n="33"/>Thobiae 3. Hoc habet pro certo, omnis qui colit te, quod uita eius si in proba 
+          <lb ed="#B1" n="34"/>tione fuerit, coronabitur. Et <ref xml:id="rhwis-l33-Rd1e272">Iac. 1.</ref> <quote xml:id="rhwis-l33-Qd1e275" source="http://scta.info/resource/iac1_12">Cum probatus fuerit, accipiet coronam uitae</quote>.
+        </p>
+        <p xml:id="rhwis-l33-d1e280">
+          <lb ed="#B1" n="35"/>Secundo examinatur electus sicut probat nouitius ante professionem. Vnde 
+          <lb ed="#B1" n="36"/>tempus nouitiatus est tempus probationis secundum iura. Licet aut nouitius in 
+          <lb ed="#B1" n="37"/>terdum gerat habitum professorum. Tamen in uoluntate sua est proijcere habitum infra 
+          <lb ed="#B1" n="38"/>tempus probationis quandocunque sibi placuerit, &amp; ideo non habet habitum insepa 
+          <lb ed="#B1" n="39"/>rabiliter. Habitus et ornatus animae est gratia: uita praesens est tempus nouitiatus 
+          <lb ed="#B1" n="40"/>&amp; tempus probationis <ref xml:id="rhwis-l33-Rd1e295">ad Rom. 12.</ref> <quote xml:id="rhwis-l33-Qd1e298" source="http://scta.info/resource/rom12_2">Renovamini in nouitate sensus uestri, ut p 
+            <lb ed="#B1" n="41"/>betis quae sit uoluntas DEI, bona &amp; beneplacens &amp; perfecta</quote>. Licet igitur nos gerama 
+          <lb ed="#B1" n="42"/>habitum professorum: hoc est, beatorum quae est gratia consummata: non tamen ideo professi 
+          <lb ed="#B1" n="43"/>sumus, sed sumus in tempore probationis: quia possumus habitum proijcere &amp; peccare:  
+          <lb ed="#B1" n="44"/>Nouitij aut inter fratres pdicatores examinantur de moribus diligenter. Et genera 
+          <lb ed="#B1" n="45"/>liter de quinque cauendis in eis. Nam ab unoquoque requiritur. An sit seruilis conditio 
+          <lb ed="#B1" n="46"/>nis: an alterius professionis: an mulieri coniugatus: an ratiocinijs obligatus: an 
+          <lb ed="#B1" n="47"/>occultam habeat infirmitatem aliquam. Si uero aliquem istorum defectuum habuerit &amp; 
+          <lb ed="#B1" n="48"/>sciat, a professione repellit. Certe haec qnque CHRISTVS in suis nouitijs regrit:
+        </p>
+        <p xml:id="rhwis-l33-d1e319">
+          <lb ed="#B1" n="49"/>Primo an sit seruilis conditionis, uidelicet an sit totus datus seruitijs mundi,  
+          <lb ed="#B1" n="50"/>pro diuitijs &amp; honoribus consequendis in hac uita: &amp; si sic, non admittit eum. 
+          <lb ed="#B1" n="51"/>Matth. 6. dicitur: <quote xml:id="rhwis-l33-Qd1e327" source="http://scta.info/resource/mt6_24">Nemo potest duob. dominis seruire</quote>. Philosophus quidam assur<lb ed="#B1" n="52"/>gere 
+          noluit principi uenienti, alijs eum honorantibus assurgendo. Et causam reddidit:  
+          <lb ed="#B1" n="53"/>beruit, inquit, seruo meo non contenendo mundum, &amp; mundus mihi seruit, &amp; ipse  
+          <!--sap_Page_152.xml-->
+          <pb ed="#B1" n="118"/>
+          <lb ed="#B1" n="1"/>seruit ei quare ei non assurgo. Iste non fuit seruilis conditionis, sed ualde nobi  
+          <lb ed="#B1" n="2"/>lis.
+        </p>
+        <p xml:id="rhwis-l33-d1e344">
+          Secundo requiritur an homo sit alterius professionis: unde ille qui est radi 
+          <lb ed="#B1" n="3"/>catus &amp; habituatus in aliqua mala consuetudine uiuendi in peccatis, ipse estlal  
+          <lb ed="#B1" n="4"/>terius professionis, caueat sibi: quia licet recipi posset a CHRISTO, tamen cum 
+          <lb ed="#B1" n="5"/>difficultate.
+        </p>
+        <p xml:id="rhwis-l33-d1e353">
+          Tertio requiritur an sit mulieri coniugatus: id est, an sit operibus 
+          <lb ed="#B1" n="6"/>carnis datus: quia scit quod talis non uenit ad eum perfecta uoluntate, Lucae 14. 
+          <lb ed="#B1" n="7"/>Vxorem duxi, &amp; ideo non possum uenire.
+        </p>
+        <p xml:id="rhwis-l33-d1e360">
+          Quarto an sit ratiocinijs obligatus: 
+          <lb ed="#B1" n="8"/>homo est obligatus ad computum, &amp; restitutionem, si fuit usurarius &amp; de pecunia 
+          <lb ed="#B1" n="9"/>usuraria fuit ditatus, &amp; no uult restituere. CHRISTVS non curat de eo: quia 
+          <lb ed="#B1" n="10"/>ipse ratiocinijs obligatur. Si clericus simoniace intrauit Ecclesiam occupauerat  
+          <lb ed="#B1" n="11"/>bona per amicos, &amp; non est paratus resignare &amp; restituere, ipse est obligatus ra 
+          <lb ed="#B1" n="12"/>tiocinijs. CHRISTVS autem eum ad professionem, donec soluerit, non admittit. Si 
+          <lb ed="#B1" n="13"/>spoliasti pauperem per potentiam uel per falsum iudicium uel testimonium perhibitum 
+          <lb ed="#B1" n="14"/>contra eum, &amp; non fecisti restitutionem, tu es obligatus ratiocinijs, &amp; talem oblipatum 
+          <lb ed="#B1" n="15"/>CHRISTVS non admittit, in Psal. Declinantes aut in obligationes adducet Do 
+          <lb ed="#B1" n="16"/>minus cum operantibus iniquitatem.
+        </p>
+        <p xml:id="rhwis-l33-d1e382">
+          Quinto quaerit an habeat aliquam infirmitatem 
+          <lb ed="#B1" n="17"/>occultam. Vndesi comisisti peccatum uile, de quo non est confessus, celas et occultas, 
+          <lb ed="#B1" n="18"/>tu habes infirmitatem occultam, CHRISTVS te non admittit nisi te curaueris. Ideo 
+          <lb ed="#B1" n="19"/>obmissis talibus impedimentis unusquisque uestrum curet se probabilem exhibere,  
+          <lb ed="#B1" n="20"/>ne a professione confusibiliter repellat, 2. ad Tim. 2. Cura temetipsum probabilem 
+          <lb ed="#B1" n="21"/>exhibere operarium inconfusibilem: &amp; qui talis inuentus fuerit, faciet suam professionem 
+          <lb ed="#B1" n="22"/>in finali iudicio. Dicens illud Deut. 26. Profiteor hodie coram Domino DEO, 
+          <lb ed="#B1" n="23"/>quod ingressus sum terram pro qua iurauit Patribus nostris. Tertio examinatur  
+          <lb ed="#B1" n="24"/>electus sicut baccalaurius ante inceptionem seu magistrationem. Iste enim ante 
+          <lb ed="#B1" n="25"/>quam incipiat, probatur in tribus, in legendo, opponendo, respondendo
+        </p>
+        <p xml:id="rhwis-l33-d1e405">
+          <lb ed="#B1" n="26"/>Habet enim necesse legere aliquod uolumen ad minus facultatis suae. Et certe 
+          <lb ed="#B1" n="27"/>nos legere debemus per confessionem uolumem conscientiae nostrae. Stolidus cle 
+          <lb ed="#B1" n="28"/>ricus est qui nescit legere scripturam suam &amp; opus proprium, ad Gala. 6. Opus aut  
+          <lb ed="#B1" n="29"/>suum unusquisque probet, &amp; sic in semetipso gloriam habebit. Secundo habemus 
+          <lb ed="#B1" n="30"/>opponere: hoc est, arguere per iustam correptionem proximorum, &amp; hoc principa 
+          <lb ed="#B1" n="31"/>liter pertinet ad praelatos, &amp; in casu ad oes, Matth. 18. Si peccauerit in te frater 
+          <lb ed="#B1" n="32"/>tuus, uade &amp; corripe illum inter te &amp; ipsum solum, Sap. 1. Probata uirtus corripit 
+          <lb ed="#B1" n="33"/>insipientes, &amp; praelatis dicitur, Hiere. 6. Probatorem in populis dedi te. Tertio 
+          <lb ed="#B1" n="34"/>habemus respondere per gratiarum actionem, 1. ad Thessal. 5. In omnibus gratias 
+          <lb ed="#B1" n="35"/>agite, &amp; qui hoc compleuerit, dignus est gradu magistrali. Exemplo Thobiae, qui  
+          <lb ed="#B1" n="36"/>in se haec omnia formaliter &amp; deuote copleuit peccata confitendo, uxorem corri 
+          <lb ed="#B1" n="37"/>piendo, &amp; DEO pro caecitatis flagello gratias agendo: &amp; ideo sibi dictum fuit: quia 
+          <lb ed="#B1" n="38"/>acceptus eras DEO, necesse fuit ut tentatio probaret te. Quarto probatur ele 
+          <lb ed="#B1" n="39"/>ctus ut denarius ante solutionem. Vnde qui alteri mutuat denarium, diligen 
+          <lb ed="#B1" n="40"/>ter considerat ante solutionem quantitatem pondus, &amp; imaginem, sonum, &amp; 
+          <lb ed="#B1" n="41"/>materiam: quia si in aliquo istorum defecerit, non est legalis moneta, nec recipi 
+          <lb ed="#B1" n="42"/>debet. Quantitas est aequitas: pondus est charitas: imago est iusticia: sonus est 
+          <lb ed="#B1" n="43"/>ueritas ad omnes &amp; ad seipsum. Vnusquisque nostrum a CHRISTO recepit 
+          <lb ed="#B1" n="44"/>denarium: id est, animam rationalem habentem imaginem regis &amp; in die mortis est tem 
+          <lb ed="#B1" n="45"/>pus solutionis, &amp; tunc oportet reddere denarium, &amp; CHRISTq offerre, Mar.  
+          <lb ed="#B1" n="46"/>12. Afferte mihi denarium. Et certe nisi habeat quinque praedicta, quantitatem, 
+          <lb ed="#B1" n="47"/>pondus, imaginem, sonum, &amp; materiam reprobabitur, Hiere. 6. in fine: Ar 
+          <lb ed="#B1" n="48"/>entum reprobum uocate eos: qui Dominus proiecit eos: Si uero illa praedi 
+          <lb ed="#B1" n="49"/>cta habuerit, dicet nobis CHRISTVS illud Gen. 43. Pecuniam quam dedisti 
+          <lb ed="#B1" n="50"/>mihi probatam, ego habeo. Et de nostro denario verificatur illud Psal. Argentum 
+          <lb ed="#B1" n="51"/>igne examinatum, probatum terrae, purgatum septuplum. Examinatum igne 
+          <lb ed="#B1" n="52"/>charitatis, probatum terrae: id est, a terra nihil habens terrenae uanitatis, purga 
+          <lb ed="#B1" n="53"/>tum septuplum a septem capitalibus uitijs, quae sunt radices uniuerse iniquitatis
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

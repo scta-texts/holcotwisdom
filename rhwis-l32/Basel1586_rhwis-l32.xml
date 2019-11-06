@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 32 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 32 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="113"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l32">
+        <head xml:id="rhwis-l32-Hd1e95">Lectio 32</head>
+        <p xml:id="rhwis-l32-d1e95">
+          <lb ed="#B1" n="37"/>POSTQVAM Spiritus sanctus declarauit quid iusti homines per 
+          <lb ed="#B1" n="38"/>cipient in futuro aeternaliter: Hic consequenter ostendit quid su 
+          <lb ed="#B1" n="39"/>stinent in praesenti temporaliter, &amp; quia poenae, quas sustinent, &amp; prae 
+          <lb ed="#B1" n="40"/>mia quae percipient sunt contraria: ideo faciens quandam compara 
+          <lb ed="#B1" n="41"/>tionem utitur quodam colore Rhetorico, qui dicitur aiideeis, quasi contra 
+          <lb ed="#B1" n="42"/>positio uel uixidimy uel contentio, secundum Tullium 5. Rhetoricae suae. 
+          <!--sap_Page_148.xml-->
+          <pb ed="#B1" n="114"/>
+          <lb ed="#B1" n="1"/>Et est figura talis, quando aliquis in locutione contraria contrarijs contra 
+          <lb ed="#B1" n="2"/>ponit, sicut facit Apostolus 1. ad Corinth. 6. Per infamiam &amp; bonam famam a 
+          <lb ed="#B1" n="3"/>dextris &amp; a sinistris, &amp; Eccles. 33. Contra bonum malum &amp; contra uitam mors: 
+          <lb ed="#B1" n="4"/>Sic contra uirum iustum peccator. lsto genere eloquentiae utitur Spiritus san 
+          <lb ed="#B1" n="5"/>ctus in isto textu ostendens que illa quae sancti patiuntur in praesenti non sunt  
+          <lb ed="#B1" n="6"/>aequalia illis, quae percipiunt in futuro pro praemio. Et ponuntur tres antitheses  
+          <lb ed="#B1" n="7"/>consequenter. Sancti enim in praesenti tribulantur, uexantur, &amp; tentantur, tri 
+          <lb ed="#B1" n="8"/>bulantur in poenis, uexantur in uerbis, &amp; tentantur in diuinis promissionibus. 
+          <lb ed="#B1" n="9"/>Sed contra tribulationes poenarum habent spem immortalitatis. Contra uexa 
+          <lb ed="#B1" n="10"/>tionem contumeliarum habent spem aeternae tranquillitatis. Et contra diuinam ten 
+          <lb ed="#B1" n="11"/>tationem habent spem praecipue dignitatis. Dicit ergo primo ponens primam 
+          <lb ed="#B1" n="12"/>contrarietatem: Et si coram hominibus tormenta passi sunt. Coram hominibus qui  
+          <lb ed="#B1" n="13"/>tantum exteriora uident, 1. Regum 6. Homo uidet ea quae patent. Tormenta 
+          <lb ed="#B1" n="14"/>passi sunt in corpore sustinendo. Spes illorum immortalitate plena est: hoc est, di 
+          <lb ed="#B1" n="15"/>ctum, sperauerunt a Domino pro sua iusticia praemiari: &amp; illa spes est plena &amp; 
+          <lb ed="#B1" n="16"/>non uacua sicut malorum, de qua infra in isto capitulo: uacua spes illorum. Vn 
+          <lb ed="#B1" n="17"/>de spes illorum non confundit, ad Rom. 5.
+        </p>
+        <p xml:id="rhwis-l32-d1e152">
+          <lb ed="#B1" n="18"/>Secunda antithesis est talis: Sancti sunt in praesenti uexati uerbis, contume 
+          <lb ed="#B1" n="19"/>lijs &amp; iniurijs, tamen haec sunt pauca in respectu illorum, que ad suam beatitudi  
+          <lb ed="#B1" n="20"/>nem aggregabuntur: quia secundum Boëtium, beatitudo est status omnium bonoa 
+          <lb ed="#B1" n="21"/>rum aggregatione perfectus. Et ideo dicit: In paucis vexati in multis bene dispo 
+          <lb ed="#B1" n="22"/>nentur. Multum &amp; paucum, sicut magnum &amp; paruum sunt relatiua: sicut patet in praedi 
+          <lb ed="#B1" n="23"/>camentis, c. de quantitate. Vnde si illa quae patimur in praesenti comparentur ad 
+          <lb ed="#B1" n="24"/>ea, quae bonis dabuntur in futuro pro mercede, licet sint in se ualde multa: uiden  
+          <lb ed="#B1" n="25"/>tur tamen in comparatione illorum ualde pauca, ad Rom. 8. <quote xml:id="rhwis-l32-Qd1e171" source="http://scta.info/resource/rom8_18">Non sunt condignae 
+            <lb ed="#B1" n="26"/>passiones huius temporis ad futuram gloriam, quae reuelabitur in nobis</quote>.
+        </p>
+        <p xml:id="rhwis-l32-d1e177">
+          <lb ed="#B1" n="27"/>Tertia antithesis est talis: DEVS tentat sanctos in praesenti: sed non ad eorum 
+          <lb ed="#B1" n="28"/>detrimentum &amp; deiectionem, sed ad eorum emolimentum &amp; promotionem. 
+          <lb ed="#B1" n="29"/>Vnde dicit, quod DEVS tentauit illos, &amp; inuenit dignos se: id est, sua focietate 
+          <lb ed="#B1" n="30"/>&amp; dilectione. 
+        </p>
+        <p xml:id="rhwis-l32-d1e188">
+          <lb ed="#B1" n="31"/>Et notandum queo difficile &amp; uirtuosum est que homo fiat dignus DEO. Ad hoc 
+          <lb ed="#B1" n="32"/>enim requiritur perfectus mundi contemptus. Vnde CHRISTVS dixit Matth.  
+          <lb ed="#B1" n="33"/>10. <quote xml:id="rhwis-l32-Qd1e196" source="http://scta.info/resource/mt10_37 http://scta.info/resource/mt10_38">Qui amat patrem uel matrem plus quam me, non est me dignus: &amp; qui amat filium 
+            <lb ed="#B1" n="34"/>uel filiam plus quam me, non est me dignus: &amp; qui non accipit crucem suam &amp; se 
+            <lb ed="#B1" n="35"/>quitur me, non est me dignus</quote>: Ergo quicunque uult dignus esse CHRISTO, o 
+          <lb ed="#B1" n="36"/>portet qued seipsum det pro CHRISTO. Huius probatio est: quia demonstrato 
+          <lb ed="#B1" n="37"/>quocumque homine, contingit sic arguere, aut iste diligit CHRISTVM plus quam 
+          <lb ed="#B1" n="38"/>tilios &amp; filias, &amp; semetipsum uel non. Si non, non est dignus CHRISTO. Si sic  
+          <lb ed="#B1" n="39"/>dat se pro CHRISTO: quia qui non accipit crucem suam &amp; sequitur CHRISTVM, 
+          <lb ed="#B1" n="40"/>non est eo dignus. Notandum quo tentare improprie conuenit DEO: quia ten 
+          <lb ed="#B1" n="41"/>tare proprie est aliquid experiri ut habeat eius cognitionem, sicut homo tentat  
+          <lb ed="#B1" n="42"/>uinum, &amp; magister discipulum. Aliter dicitur tentare, experiri aliquem cum in 
+          <lb ed="#B1" n="43"/>tentione manifestandi conditiones eius alijs. Primo DEVS tentare non po 
+          <lb ed="#B1" n="44"/>test. Sed secundo modo. Vnde Gen. 22. Tentauit DEVS Abraham. Tertio 
+          <lb ed="#B1" n="45"/>modo dicitur tentare, callide accipere experientiam alicuius hominis cum in 
+          <lb ed="#B1" n="46"/>tentione decipiendi, &amp; sic proprie conuenit Diabolo &amp; nullo modo DEO: 
+          <lb ed="#B1" n="47"/>quia Iacob. 1. dicitur: Nemo cum tentatur dicat: Quia a DEO tentor. DEVS 
+          <lb ed="#B1" n="48"/>enim intentator est malorum. Ipse enim neminem tentat. Glo. DEVS tentat  
+          <lb ed="#B1" n="49"/>non seducendo ad malum, sed exercendo ad meritum. Aliter potest exponi sic:  
+          <lb ed="#B1" n="50"/>Deus tentat illos, id est, tentari permisit.
+        </p>
+        <p xml:id="rhwis-l32-d1e237">
+          <lb ed="#B1" n="51"/>Et notandum quod DEVS electos suos tentari permittit specialiter propter 
+          <lb ed="#B1" n="52"/>tria: Primo ad exercendum nostrae naturae probitatem, qui habemus usum li  
+          <lb ed="#B1" n="53"/>beri arbitrij per gratiam informati si uelimus. Si rex dedisset arma &amp; equum no 
+          <!--sap_Page_149.xml-->
+          <pb ed="#B1" n="115"/>
+          <lb ed="#B1" n="1"/>bilissimum alicui militi, ille probiter et uiriliter in bello pro honore regis se ex  
+          <lb ed="#B1" n="2"/>poneret, rex non ab immerito eum acciperet. CHRISTVS rex dedit nobis arma 
+          <lb ed="#B1" n="3"/>liberi arbitrij cum aequo corporis nostri, &amp; sunt quasi similia armis DEI: qui ad  
+          <lb ed="#B1" n="4"/>imaginem &amp; similitudinem suam fecit hominem, Gen. 1. &amp; ad Eph. 6. Induite 
+          <lb ed="#B1" n="5"/>uos armaturam DEI, ut possitis resistere aduersus insidias Diaboli: Ergo nos 
+          <lb ed="#B1" n="6"/>prohonore regis nostri uiriliter exponamus, alioquin nosmetipsos decipimus 
+          <lb ed="#B1" n="7"/>&amp; damnamus, Iob. 7. <quote xml:id="rhwis-l32-Qd1e265" source="http://scta.info/resource/iob7_1">Tentatio est uita hominis super terram</quote>: sic DEVS tentauit  
+          <lb ed="#B1" n="8"/>Abraham de immolatione filij sui unigeniti, Gen. 22. Sic etiam omnes suos 
+          <lb ed="#B1" n="9"/>amicos tentari permittit, Thobiae 12. Qui acceptus eras DEO, necesse fuit  
+          <lb ed="#B1" n="10"/>ut DEVS tentaret te. Constantinus imperator uoluit probare qui de familia sua 
+          <lb ed="#B1" n="11"/>essent uiri Christiani &amp; fideles, &amp;c. Ita CHRISTVS permittit uiros catholicos 
+          <lb ed="#B1" n="12"/>a mundo tentari, &amp; qui mundanam gloriam, quae est quasi idolum, adorant,  
+          <lb ed="#B1" n="13"/>de suo expellit seruitio: quia nemo potest duobus dominis seruire: qui id dolum 
+          <lb ed="#B1" n="14"/>adorare contemnit, in suo retinebitur famulatu. Et omnis CHRISTO seruiens 
+          <lb ed="#B1" n="15"/>necessario habet tentari propter quod signanter dicitur Ecclesist. 2. Fili accedens  
+          <lb ed="#B1" n="16"/>ad seruitutem DEI, sta in iusticia &amp; timore, &amp; praepara animam tuam ad tentationem
+        </p>
+        <p xml:id="rhwis-l32-d1e289">
+          <lb ed="#B1" n="17"/>Secundo permittit nos DEVS tentari recensendum nostrae censurae uanita 
+          <lb ed="#B1" n="18"/>tem: nisi enim tentaremur nimis propter defectum nostrae cognitionis &amp; expe 
+          <lb ed="#B1" n="19"/>rientiae de nobisipsis superbiremus. Et ideo clementer permittit sanctos suos de 
+          <lb ed="#B1" n="20"/>sua carne tentari, sicut de Paulo patuit, 2. Corin. 12. Ne magnitudo reuelatio  
+          <lb ed="#B1" n="21"/>num extollat me, datus est mihi stimulus carnis meae angelus Sathanae, qui me 
+          <lb ed="#B1" n="22"/>colaphixet. De hoc loquens <ref xml:id="rhwis-l32-Rd1e304">Grego. 9. Mora. cap. 36.</ref> dicit: Superna dispensa 
+          <lb ed="#B1" n="23"/>tio, idcirco nos tota intentione seruientes carnis nostrae tentationibus permit 
+          <lb ed="#B1" n="24"/>tit coneuti, ne mens nostra in superbiam audeat praesumptione suae securitatis 
+          <lb ed="#B1" n="25"/>eleuari, ut dum pulsata trepidat in solo autoris adiutorio, fidem robustius spei 
+          <lb ed="#B1" n="26"/>figat. Et <ref xml:id="rhwis-l32-Rd1e316">9. Mora. cap. 3.</ref> exponens illud <ref xml:id="rhwis-l32-Rd1e319">Apostoli ad Rom. 7.</ref> <quote xml:id="rhwis-l32-Qd1e322" source="http://scta.info/resource/rom7_23">Video aliam le 
+          <lb ed="#B1" n="27"/>gem in membris meis repugnantem legi mentis meae, &amp; captiuum me ducentem 
+          <lb ed="#B1" n="28"/>in legem peccati, quae est in menbris meis</quote>. Dicit sic: Ad ima trahit caro ne extolla 
+          <lb ed="#B1" n="29"/>tur spiritus. Et ad summa trahit spiritus ne prosternatur caro. Spiritus leuat ne 
+          <lb ed="#B1" n="30"/>iaceamuns in infimis, caro aggrauat ne extollamur ex summis. Sicque secundum 
+          <lb ed="#B1" n="31"/>Greg. quodam certo moderamine sit, ut carne deprimente, sed no prosternen 
+          <lb ed="#B1" n="32"/>te homoldesperationis lapsum caueat, &amp; spiritu eleuante &amp; tentationes senti 
+          <lb ed="#B1" n="33"/>ente superbiae casum euadat. Et sic dum spiritus trahit, caro retrahit subtilissi  
+          <lb ed="#B1" n="34"/>mo interni iudicij moderamine infra summa &amp; infima, in quodam medio ani 
+          <lb ed="#B1" n="35"/>ma liberatur. Haec Greg. Et ideo signanter petiuit Psalm. Proba me Domine  
+          <lb ed="#B1" n="36"/>&amp; tenta me, ure renes meos &amp; cor meum. Glos. proba me: id est, iudica me esse pr 
+          <lb ed="#B1" n="37"/>batum non tibi qui omnia nosti, sed mihi &amp; hominibus. Nisi enim tentares, negli 
+          <lb ed="#B1" n="38"/>rentes essemus. Notat ibi Glos. quod aliter tentat DEVS: aliter homo: aliter 
+          <lb ed="#B1" n="39"/>Diabolus. DEVS, ut erudiat: homo ut sciat: Diabolus ut seducat. Vnde dici 
+          <lb ed="#B1" n="40"/>tur metrice:  
+          <lb ed="#B1" n="41"/>Dat tria tentare seducere scire probare. 
+          <lb ed="#B1" n="42"/>Nota de puella de qua narrat Caesarius in eius fine. Ideo signanter dicit Apost. 
+          <lb ed="#B1" n="43"/>primae ad Corinth.10. Tentatio non apprehendat uos nisi humana
+        </p>
+        <p xml:id="rhwis-l32-d1e362">
+          <lb ed="#B1" n="44"/>Tertio DEVS nos tentari permittit ad promerendum uitae futurae felicitatem, 
+          <lb ed="#B1" n="45"/>lac. 1. Beatus uir qui suffert tentationem: quoniam cum probatus fuerit, accipiet  
+          <lb ed="#B1" n="46"/>coronam uitae. Et quanuis Diabolus omnes tentet, aduersus tamen perfectos prae 
+          <lb ed="#B1" n="47"/>latos &amp; religiosos maxime excandescit. Vnde Petrus Rauanensis in quadam  
+          <lb ed="#B1" n="48"/>epistola: Mundus aduersus desertores suos fortius pugnat, &amp; egredientes ui  
+          <lb ed="#B1" n="49"/>tae secularis illecebras grauior concursus expectat. Nam &amp; in exitu Israel de 
+          <lb ed="#B1" n="50"/>Aegypto Pharao uehementius excanduit, &amp; Sathanas egrediens ab homine, 
+          <lb ed="#B1" n="51"/>que ab infantia tenuerat, ipsum grauius in egressu discerpit. Etiam ideo <ref xml:id="rhwis-l32-Rd1e381">Hu 
+            <lb ed="#B1" n="52"/>go de claustro animae lib. 1.</ref> religiosos instruit, qui sunt causae tentationum. Prima 
+          <lb ed="#B1" n="53"/>est loci amoenitas, ut ciuitas et oppida, quae non tantum, ex situ loci amoenitatem 
+          <!--sap_Page_150.xml-->
+          <pb ed="#B1" n="116"/>
+          <lb ed="#B1" n="1"/>recipiunt, sed ex habitantium gratia. Secunda causa est locus diuitiarum, ubi 
+          <lb ed="#B1" n="2"/>enim diuitiae, ibi periculum. Tertia uero causa est preciosus ornatus, equorum 
+          <lb ed="#B1" n="3"/>&amp; pinguium cura, &amp; uestimentorum exquisitae uarietates. Quarta autem mulie<lb ed="#B1" n="4"/>rum 
+          species, quarum uox blanditur auribus &amp; facies oculis. Istas occasiones 
+          <lb ed="#B1" n="5"/>uiriliter caueamus: quia tentatio non laedit nisi obediamus, &amp; hoc est quod  
+          <lb ed="#B1" n="6"/>metrice dicitur:  
+          <lb ed="#B1" n="7"/>Hostis non ledit nisi cum tentatus obedit:  
+          <lb ed="#B1" n="8"/>Est leosi cedit, sistat quasi musca recedit. 
+          <lb ed="#B1" n="9"/>Et hoc est quod promittit Apost. 1. ad Corinth.10. Fidelis DEVS qui non 
+          <lb ed="#B1" n="10"/>permittit uos tentari super illud quod potestis, sed faciet cum tentatione etiam  
+          <lb ed="#B1" n="11"/>prouentum ut possitis sustinere, &amp;c
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

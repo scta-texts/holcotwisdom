@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 35 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 35 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="122"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l35">
+        <head xml:id="rhwis-l35-Hd1e95">Lectio 35</head>
+        <p xml:id="rhwis-l35-d1e98">
+          <lb ed="#B1" n="17"/>OSTQVAM Spiritus sanctus declarauit qualis erit iustorum post 
+          <lb ed="#B1" n="18"/>iudicium excellentia gloriae corporalis: Hic ostendit qualis erit 
+          <lb ed="#B1" n="19"/>eorum in iudicio assidentia personalis, de qua habetur Matthaei 
+          <lb ed="#B1" n="20"/>19. Vos qui secuti estis me in regeneratione cum sederit Filius ho 
+          <lb ed="#B1" n="21"/>minis in sede maiestatis suae: sedebitis &amp; uos super sedes iudican 
+          <lb ed="#B1" n="22"/>tes duodecim tribus Israel. Erit enim magnus honor sanctis quando illorum  
+          <lb ed="#B1" n="23"/>erunt iudices, quos parum ante habuerunt persecutores: &amp; tamen iustum est 
+          <lb ed="#B1" n="24"/>quod eos recte iudicent a quibus iniuste iudicabantur. Sed quia aliquando com  
+          <lb ed="#B1" n="25"/>tingiequod homo sit assessor iudicis prouna die &amp; postea nullam iurisdictio  
+          <lb ed="#B1" n="26"/>nem in illos habet, quos prius iudicauit. Ideo ne hoc aestimetur de sanctis 
+          <lb ed="#B1" n="27"/>CHRISTI assessoribus in iudicio. Tria facit Spiritus sanctus in hoc textu. 
+          <lb ed="#B1" n="28"/>Nam ista se habent secundum ordinem, iudex Dominus &amp; rex: quia non 
+          <lb ed="#B1" n="29"/>omnis iudex est Dominus, nec omnis Dominus est rex. Sed econtra bene com  
+          <lb ed="#B1" n="30"/>uertitur: quia omnis rex est dominus, &amp; omnis dominus est iudex. Incipiendo 
+          <lb ed="#B1" n="31"/>ergo a superiori ad inferius. Primo attribuit iudicium sanctis tanquam assesso 
+          <lb ed="#B1" n="32"/>ribus. Secundo dominium tanquam possessoribus. Et tertio regnum tanquam 
+          <lb ed="#B1" n="33"/>conregnantibus, 2. ad Tim. 2. Si sustinemus &amp; conregnabimus. Secunda pars 
+          <lb ed="#B1" n="34"/>ibi: Et dominabunt. Tertia ibi: Et regnabit.
+        </p>
+        <p xml:id="rhwis-l35-d1e140">
+          <lb ed="#B1" n="35"/>Et sic triplex praerogatiua tangitur quam sancti habebunt in futuro iudicio 
+          <lb ed="#B1" n="36"/>generali: &amp; deinceps. Ipsi enim habebunt potestatem iudicandi, damnandi &amp; 
+          <lb ed="#B1" n="37"/>regnandi. In iudicando est uel erit rectitudo sententiae, quae nunquam reuo 
+          <lb ed="#B1" n="38"/>cabitur: quia iudicabunt sancti nationes. In damnando magnitudo potentiae,  
+          <lb ed="#B1" n="39"/>quae nunquam coarctabitur: quia dominabuntur populis. In regnando certitudo 
+          <lb ed="#B1" n="40"/>permanentiae, quae non terminabitur: quia regnabit Dominus illorum in perpe 
+          <lb ed="#B1" n="41"/>tuum. Dicit ergo: Iudicabunt Sancti nationes: id est, malos qui tales permanse 
+          <lb ed="#B1" n="42"/>runt: id est, sine gratia, quales nominati sunt infra in fine Capituli: Nationes ini 
+          <lb ed="#B1" n="43"/>quae dirae sunt consummationis. Et dominabuntur populis, quibus prius sub  
+          <lb ed="#B1" n="44"/>ijciebantur in Psal. Subiecit populos nobis &amp; gentes sub pedibus nostris. Sed  
+          <lb ed="#B1" n="45"/>contra in iudicio cessabit omnis praelatio &amp; dominium creaturae super creaturam. 
+          <lb ed="#B1" n="46"/>Iuxta illud 1. ad Corinth.15. Deinde finis cum tradiderit DEO regnum &amp; Pa 
+          <lb ed="#B1" n="47"/>tri: cum euacuauerit omnem potestatem, principatum &amp; uirtutem &amp; dominatio  
+          <!--sap_Page_157.xml-->
+          <pb ed="#B1" n="123"/>
+          <lb ed="#B1" n="1"/>nem. Vbi Haymo in glos. Tunc cessabit omnis creaturae praelatio in angelis &amp;  
+          <lb ed="#B1" n="2"/>hominibus cessabit timor, regnabit charitas, nec erit inter praesidentes &amp; sub  
+          <lb ed="#B1" n="3"/>ditos ulla dissensio. Dicendum quod ad dominium pertinet potentia cohercen 
+          <lb ed="#B1" n="4"/>di rebelles &amp; castigandi. Et ideo quia sancti habebunt damnatos in suo carce 
+          <lb ed="#B1" n="5"/>re communi cohercendos &amp; puniendos, de eorum iusta punitione gaudebunt,  
+          <lb ed="#B1" n="6"/>&amp; secundum quendam modum eis damnari dici possunt. Sequitur: Et reona 
+          <lb ed="#B1" n="7"/>bit Dominus illorum in perpetuum. Notandum quod securum est seruire illi Do 
+          <lb ed="#B1" n="8"/>mino, qui in perpetuum regnabit. Seruientes dominis mortalibus, principibus 
+          <lb ed="#B1" n="9"/>&amp; regibus &amp; nobilibus sunt in magno periculo, quando domini sui moriun 
+          <lb ed="#B1" n="10"/>tur, non solum quia seruitium suum perdunt: imo quia frequenter contingit quod  
+          <lb ed="#B1" n="11"/>illos, quos magis familiares habuit ipse: filius magis habebit odiosos: sicut hi  
+          <lb ed="#B1" n="12"/>storiae multae docent: sed certe seruire DEO regnare est: &amp; quia DEVS est im 
+          <lb ed="#B1" n="13"/>mortalis, qui seruiunt sibi, in perpetuum regnabunt, Apoc. 5. Redemisti nos in 
+          <lb ed="#B1" n="14"/>sanguine tuo, &amp; fecisti nos DEO nostro regnum: &amp; Sap. 6. Diligite sapientiam 
+          <lb ed="#B1" n="15"/>&amp; in perpetuum regnetis. 
+          <lb ed="#B1" n="16"/>ludicabunt Sancti nationes.
+        </p>
+        <p xml:id="rhwis-l35-d1e210">
+          <lb ed="#B1" n="17"/>Malefactores &amp; rei criminosi ex triplici causa solent confidere se euasuros 
+          <lb ed="#B1" n="18"/>impune. Primo quia sperant quod possunt declinare &amp; euitare rigorem iudi  
+          <lb ed="#B1" n="19"/>cij, ut sine examinatione iudiciali fiat emenda per mediationem amicorum. 
+          <lb ed="#B1" n="20"/>Secundo sperant se rei probabiliter euasuros licet non omnino impune si pos  
+          <lb ed="#B1" n="21"/>sint subire iudicium: sic tamen quod habeant iudices &amp; assessores fauorabiles  
+          <lb ed="#B1" n="22"/>eis. Tertio per translationem personarum suarum: quia reus in uno regno po 
+          <lb ed="#B1" n="23"/>test impune conseruari in alio, sed certe nullo istorum modorum possunt eua 
+          <lb ed="#B1" n="24"/>dere peccatores: quia iudicabunt Sancti nationes: non enim declinabunt rigo 
+          <lb ed="#B1" n="25"/>rem iudicij: quia iudicabunt: non impetrabunt iudices qui sunt eis propitij:  
+          <lb ed="#B1" n="26"/>quia iudicabunt sancti: nec se alienabunt a loco supplicij: quia non iudicabunt  
+          <lb ed="#B1" n="27"/>unam gentem tantum, sed omnes nationes, in Psal. Iudicabunt in nationibus. 
+          <lb ed="#B1" n="28"/>ludicabunt igitur ut assessores sancti, CHRISTI imitatores, nationes: id est, 
+          <lb ed="#B1" n="29"/>peccatores.
+        </p>
+        <p xml:id="rhwis-l35-d1e241">
+          <lb ed="#B1" n="30"/>De primo nota quod durum est reo iudicando iudicialiter, si iudex sit sibi ex  
+          <lb ed="#B1" n="31"/>traneus, qui sibi in nullo penitus teneatur. Secundo si sit talis quod a iuris re 
+          <lb ed="#B1" n="32"/>gula nullatenus abducatur. Tertio si sit talis de cuius iniuria reus accusatur.  
+          <lb ed="#B1" n="33"/>Modo sancti in iudicio reddent se peccatoribus ualde extraneos: quoniam etiam 
+          <lb ed="#B1" n="34"/>ipse CHRISTVS dicit: Amen dico uobis. Nescio uos, Matth. 25. &amp; 7. Secundo 
+          <lb ed="#B1" n="35"/>nullo modo declinabunt a regulis iuris: quia sancti iudicabunt, &amp; sanctitas est 
+          <lb ed="#B1" n="36"/>iusticia maxima. Erunt enim induti uouum hominem qui secundum DEVM creatus 
+          <lb ed="#B1" n="37"/>est in iusticia &amp; sanctitate ueritatis, Ad Eph. 4. Tertio ipsi erunt hostes impiorum, 
+          <lb ed="#B1" n="38"/>quos impij in hac uita conculcauerunt, Abacuc. 1. Quare respicis &amp; taces a com  
+          <lb ed="#B1" n="39"/>culcante impio iustiorem se. Et ideo ipsi tunc uersa uice eos calcabunt, Malach. 
+          <lb ed="#B1" n="40"/>6. Convertimini &amp; uidebitis quid sit inter impium &amp; iustum, inter seruientem 
+          <lb ed="#B1" n="41"/>DEO &amp; non seruientem ei. Et cito post: Egredimini &amp; salietis sicut uitulus de 
+          <lb ed="#B1" n="42"/>armento &amp; calcabitis impios, cum fuerint cinis sub planta pedum uestrorum. De 
+          <lb ed="#B1" n="43"/>isto iudicio indesinenter cogitare debemus. Vnde Grego. 39. Homel. Praesen 
+          <lb ed="#B1" n="44"/>tis temporis talis sit laetitia, ut nunquam amaritudo futuri iudicij recedat a 
+          <lb ed="#B1" n="45"/>memoria. Item Bern. super Psal. Qui habitat. Quid tam pauendum, quid tam  
+          <lb ed="#B1" n="46"/>plenum anxietate &amp; uehementissimae solicitudinis excogitari potest, quam  
+          <lb ed="#B1" n="47"/>iudicandum astare illi tam terrifico &amp; deifico tribunali, &amp; incertam adhuc su 
+          <lb ed="#B1" n="48"/>bitamque sub districto iudice expectare sententiam ubi iudex teste non indiget 
+          <lb ed="#B1" n="49"/>ubi ueritas discutit intentiones. Et in quadam epistola ad Robertum mona 
+          <lb ed="#B1" n="50"/>chum: Venit qui male iudicata iudicabit, illicite iurata confutabit, qui faciet  
+          <lb ed="#B1" n="51"/>iudicium iniuriam patientibus. Veniet, inquam, dies in qua plus pura corda 
+          <lb ed="#B1" n="52"/>quam astuta uerba, &amp; conscientia bona quam marsupia plena: quoniam iudex  
+          <lb ed="#B1" n="53"/>non falletur uerbis nec flectetur donis 
+          <!--sap_Page_158.xml-->
+          <pb ed="#B1" n="124"/>
+          <lb ed="#B1" n="1"/>Dubitatio literalis. Vtrum sancti homines in iudicio generali participabunt  
+          <lb ed="#B1" n="2"/>aliquo modo actum iudicandi.
+        </p>
+        <p xml:id="rhwis-l35-d1e305">
+          Quod non uidetur, lohan. 5. Omne iudicium 
+          <lb ed="#B1" n="3"/>dedit Filio: Ergo nullus alius habebit iudicium.
+        </p>
+        <p xml:id="rhwis-l35-d1e310">
+          Secundo sic: In nullo iudicio po 
+          <lb ed="#B1" n="4"/>test esse accusator &amp; iudex eadem persona: sed sancti uiri erunt accusatores ma 
+          <lb ed="#B1" n="5"/>lorum, Sap. 5. Stabunt iusti in magna constantia aduersus eos: Ergo, &amp;c.
+        </p>
+        <p xml:id="rhwis-l35-d1e317">
+          Tertio 
+          <lb ed="#B1" n="6"/>sic: Hoc potissime intelligendum foret de pauperibus uoluntarie, de quibus 
+          <lb ed="#B1" n="7"/>dicitur Iob. 36. <quote xml:id="rhwis-l35-Qd1e323" source="http://scta.info/resource/iob36_6">Iudicium pauperibus tribuit</quote>: sed hoc est falsum propter tria: 
+          <lb ed="#B1" n="8"/>quia hoc solum Apostolis est permissum, Matth. 19. Sedebitis super sedes iu 
+          <lb ed="#B1" n="9"/>dicantes duodecini tribus Israel: sed non omnes pauperes uoluntarie sunt A 
+          <lb ed="#B1" n="10"/>postoli. Secundo, quia martyres &amp; uirgines offerunt DEO de corpore suo sub  
+          <lb ed="#B1" n="11"/>stantiam corporalem. Ergo eis magis debetur potestas iudicandi quam pau 
+          <lb ed="#B1" n="12"/>peribus, qui offerunt substantiam secularem. Tertio, quia inferior non iudica 
+          <lb ed="#B1" n="13"/>bit superiorem: sed multi diuites erunt superiores in coelo quibusdam paupe 
+          <lb ed="#B1" n="14"/>ribus: Ergo, &amp;c.
+        </p>
+        <p xml:id="rhwis-l35-d1e342">
+          Ad oppositum est illud Matth. 19. <quote xml:id="rhwis-l35-Qd1e344" source="http://scta.info/resource/mt19_28">Sedebitis super thronum 
+            <lb ed="#B1" n="15"/>iudicantes duodecim tribus Israel</quote>. Item Esa. 3. Dominus ad iudicium ueniet  
+          <lb ed="#B1" n="16"/>cum senioribus populi. 
+        </p>
+        <p xml:id="rhwis-l35-d1e352">
+          <lb ed="#B1" n="17"/>Ad quaestionem dicendum quod actus iudicandi in iudicio generali diuer 
+          <lb ed="#B1" n="18"/>sis diuersimode attribuitur, scilicet quinque modis in Scriptura, uidelicet ordi 
+          <lb ed="#B1" n="19"/>nata maiestate, delegata potestate, assessoria dignitate, approbatiua conformi 
+          <lb ed="#B1" n="20"/>tate, &amp; comparatiua diuersitate:
+        </p>
+        <p xml:id="rhwis-l35-d1e363">
+          Primo modo, uidelicet ordinata maiestate 
+          <lb ed="#B1" n="21"/>solus DEVS iudicabit, 1. Reg. 2. Dominus iudicabit fines terrae.
+        </p>
+        <p xml:id="rhwis-l35-d1e369">
+          <lb ed="#B1" n="22"/>Secundo, Delegata potestate iudicabit humanitas CHRISTI sicut tactum 
+          <lb ed="#B1" n="23"/>fuit in primo argumento, Ioh. 5. Omne iudicium dedit Filio: nullus enim ha 
+          <lb ed="#B1" n="24"/>bet potestatem delegati nisi CHRISTUS inquantum homo
+        </p>
+        <p xml:id="rhwis-l35-d1e378">
+          <lb ed="#B1" n="25"/>Tertio assessoria dignitate &amp; sic iudicabunt uoluntarie pauperes, iuxta illud  
+          <lb ed="#B1" n="26"/>in tertio argumento tactum, Iob. 36. <quote xml:id="rhwis-l35-Qd1e384" source="http://scta.info/resource/iob36_6">Iudicium pauperibus tribuit</quote>, &amp; hoc est 
+          <lb ed="#B1" n="27"/>conueniens propter duo. Primo, quia ad iudicandum se magis disposuerunt. 
+          <lb ed="#B1" n="28"/>Vnde erunt magis idonei. Paupertas enim voluntaria non est nisi eorum qui  
+          <lb ed="#B1" n="29"/>soli CHRISTO inhaeserunt, &amp; propter eum omnia contempserunt secularia 
+          <lb ed="#B1" n="30"/>negocia: &amp; ideo in eis nihil debet esse quod iudicium possit peruertere. Secum 
+          <lb ed="#B1" n="31"/>do quia iudicare magis meruerunt. Cuius causa est: quia humilitati correspon 
+          <lb ed="#B1" n="32"/>det exaltatio per modum meriti, secundum illud <ref xml:id="rhwis-l35-Rd1e400">Matth. 13</ref>. <quote xml:id="rhwis-l35-Qd1e403">Qui se humiliat  
+            <lb ed="#B1" n="33"/>exaltabitur<!-- doesn't seem to appear in matthew, but does appear in lc14_11 and lc18_14--></quote>: modo inter omnia quae hominem despectum faciunt, est pauper 
+          <lb ed="#B1" n="34"/>tas. Vnde illi qui apud homines magis apparent pauperes uidentur esse ma 
+          <lb ed="#B1" n="35"/>gis despecti: &amp; ideo qui uolunt paupertatem suam ostendere, excogitant quan 
+          <lb ed="#B1" n="36"/>tum possunt uilitatem uestimentorum ut homines per hoc ad passionem pro 
+          <lb ed="#B1" n="37"/>uocent: quia igitur ueri pauperes faciunt se contemptibiles propter CHRI 
+          <lb ed="#B1" n="38"/>STVM, iuste merentur excellentiam assessoriae dignitatis.
+        </p>
+        <p xml:id="rhwis-l35-d1e421">
+          <lb ed="#B1" n="39"/>Quarto modo attribuitur actus iudicandi in iudicio quibusdam tantum 
+          <lb ed="#B1" n="40"/>approbatiua conformitate, &amp; sic iudieabunt omnes electi: quia omnes tam 
+          <lb ed="#B1" n="41"/>angeli quam homines approbabunt sententiam iudicis: id est, CHRISTI. A 
+          <lb ed="#B1" n="42"/>poc. 19. in principio: <quote xml:id="rhwis-l35-Qd1e431" source="http://scta.info/resource/ap19_1">Audiui vocem turbarum dicentium in coelo: Alleluia, laus 
+            <lb ed="#B1" n="43"/>&amp; uirtus &amp; gloria DEO nostro</quote>: quia uera &amp; iusta iudicia eius sunt.
+        </p>
+        <p xml:id="rhwis-l35-d1e437">
+          <lb ed="#B1" n="44"/>Quinto attribuitur actus iudicandi, quibusdam ex quadam comparatiua 
+          <lb ed="#B1" n="45"/>diuersitate, &amp; iste modus iudicandi laudabilis non est: quia sic minus mali di 
+          <lb ed="#B1" n="46"/>cuntur iudicare magis malos secundum illud Luc. 11. Viri Niniuitae surgent 
+          <lb ed="#B1" n="47"/>cum generatione hac &amp; condemnabunt eam. Ex istis patet ad quaestionem 
+          <lb ed="#B1" n="48"/>quod sancti participabunt actum iudicandi omnes generaliter: quarto mo 
+          <lb ed="#B1" n="49"/>do per approbationem quod est satis improprie &amp; transumptiue dictum. Sic  
+          <lb ed="#B1" n="50"/>enim omnes existentes in loco iudicij &amp; approbantes iudicium possunt dici 
+          <lb ed="#B1" n="51"/>iudicare. Et ideo dicunt doctores, quod specialiter pauperes participabunt  
+          <lb ed="#B1" n="52"/>actum iudicandi, sicut assessores propter rationes superius adductas &amp; au 
+          <lb ed="#B1" n="53"/>toritates Scripturae quae ad hoc sonant. Vnde glos. super illud. Matth. 14. 
+          <!--sap_Page_159.xml-->
+          <pb ed="#B1" n="125"/>
+          <lb ed="#B1" n="1"/>Vos qui reliquistis omnia, &amp;c. Qui reliquerunt omnia, &amp; secuti sunt. Do 
+          <lb ed="#B1" n="2"/>minum, hi iudices erunt. Qui licita habentes recte usi sunt, hi iudicabunt,  
+          <lb ed="#B1" n="3"/>Grego. tamen 6. Moral. exponens illud Proverb. 16. Nobilis in portis uir eius 
+          <lb ed="#B1" n="4"/>quando sederit cum senatoribus: dicit quod CHRISTVS cum senatoribus 
+          <lb ed="#B1" n="5"/>terrae residet: quia iudicij sententiam cum eisdem Ecclesiae praedicatoribus dis  
+          <lb ed="#B1" n="6"/>cernit ubi doctoribus attribuit actum iudicandi: sed bene stant simul quod sint 
+          <lb ed="#B1" n="7"/>pauperes &amp; praedicatores.
+        </p>
+        <p xml:id="rhwis-l35-d1e481">
+          Ad primum patet per dicta, quae autoritas intelligitur  
+          <lb ed="#B1" n="8"/>de potestate delegata.
+        </p>
+        <p xml:id="rhwis-l35-d1e486">
+          Ad secundum dicendum que in iudicio humano ubi iudex  
+          <lb ed="#B1" n="9"/>non habet quod procedat nisi ex probatis &amp; allegatis, non debet esse idem iudex  
+          <lb ed="#B1" n="10"/>&amp; accusator: sed in iudicio diuino ubi iudex non habet informari, sed omnino 
+          <lb ed="#B1" n="11"/>nouit causam idem potest esse accusator &amp; iudex: similiter reus non negabit,  
+          <lb ed="#B1" n="12"/>sed confitebitur uelit nolit.
+        </p>
+        <p xml:id="rhwis-l35-d1e498">
+          Ad tertium quando arguitur quod si aliquibus 
+          <lb ed="#B1" n="13"/>sanctis competeret iudicare maxime competeret pauperibus, concedendum est 
+          <lb ed="#B1" n="14"/>quod eis competit potestas assessoria, non ut iudici consulant, sed ut honoren 
+          <lb ed="#B1" n="15"/>tur &amp; similiter conscientiae eorum erunt quasi libri, in quibus decreta iudicis  
+          <lb ed="#B1" n="16"/>CHRISTI poterunt planem legi
+        </p>
+        <p xml:id="rhwis-l35-d1e509">
+          <lb ed="#B1" n="17"/>Ad primum in oppositum de 12. Apostolis respondit Aug. 2. de Ciui. DEI, 
+          <lb ed="#B1" n="18"/>cap. 6. quod per illum numerum duodenarium non numerus talis ad literam  
+          <lb ed="#B1" n="19"/>intelligitur, sed per numerum mysterium designatur. Alias cum Matthias loco  
+          <lb ed="#B1" n="20"/>ludae fuerit electus, Paulus sine throno relinqueretur, nisi duo sederent simul 
+          <lb ed="#B1" n="21"/>Et ideo per numerum duodenarium, qui est numerus perfectionis uniuersa pau 
+          <lb ed="#B1" n="22"/>perum multitudo perfectorum designatur, &amp; similiter uniuersitas iudicando 
+          <lb ed="#B1" n="23"/>rum cum dicitur duodecim tribus lirael. 
+        </p>
+        <p xml:id="rhwis-l35-d1e527">
+          <lb ed="#B1" n="24"/>Ad secundum de Martyribus &amp; uirginibus dicitur quod isti non sunt de 
+          <lb ed="#B1" n="25"/>corde ubi reponuntur decreta diuinae iusticiae sicut paupertas: nam paupertas 
+          <lb ed="#B1" n="26"/>directe contrariatur solicitudini diuitiarum, quae suffocat uerbum, Luc. 8.
+        </p>
+        <p xml:id="rhwis-l35-d1e536">
+          <lb ed="#B1" n="27"/>Ad tertium dicendum, quod conceditur perfectis pauperibus quod iudi  
+          <lb ed="#B1" n="28"/>cabunt se meliores non autoritate propria, sed autoritate superioris, cuius erunt as  
+          <lb ed="#B1" n="29"/>sessores sicut aliquando iudex delegatus est multo inferior quam ille quem iudicat.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

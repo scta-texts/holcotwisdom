@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 30 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 30 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="105"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l30">
+        <head xml:id="rhwis-l30-Hd1e95">Lectio 30</head>
+        <p xml:id="rhwis-l30-d1e98">
+          <lb ed="#B1" n="25"/>POSTQVAM Spiritus sanctus posuit recapitulando errorem po 
+          <lb ed="#B1" n="26"/>nentium animae humanae corruptibilitatem: Hic incipit ostendere 
+          <lb ed="#B1" n="27"/>eiusdem erroris falsitatem. Et primo facit hoc in generali ostenden 
+          <lb ed="#B1" n="28"/>do animae rationalis naturalem nobilitatem. Secundo ostendit in fpe 
+          <lb ed="#B1" n="29"/>ciali idem per animae rationalis moralem bonitatem cap. 3. ibi: Iustorum anime 
+          <lb ed="#B1" n="30"/>in manu DEI sunt.
+        </p>
+        <p xml:id="rhwis-l30-d1e114">
+          <lb ed="#B1" n="31"/>Circa primum duo facit: nam primo ostendit quod homo a DEO factus 
+          <lb ed="#B1" n="32"/>est immortalis in arbitrio suae uoluntatis. Secundo ostendit primordium nostrae 
+          <lb ed="#B1" n="33"/>mortalitatis, ibi: Inuidia autem. In prima parte duas ponit homins prgroga 
+          <lb ed="#B1" n="34"/>tiuas speciales, uidelicet ualetudinem immortalitatis quantum ad corpus: si 
+          <lb ed="#B1" n="35"/>militudinem diuinitatis quantum ad animam. Dicit ergo primo sic: quod  
+          <lb ed="#B1" n="36"/>ertor reproborum, qui negauerunt mercedem iusticiae &amp; honorem sanctarum 
+          <lb ed="#B1" n="37"/>animarum post hanc uitam, ex istis duobus ostenditur falsus: primo quia 
+          <lb ed="#B1" n="38"/>DEVS creauit hominem exterminabilem, in quo differt a brutis, &amp; generali 
+          <lb ed="#B1" n="39"/>ter a quibusdam elementis &amp; elementatis. Secundo: quia creauit eum ad 
+          <!--sap_Page_140.xml-->
+          <pb ed="#B1" n="106"/>
+          <lb ed="#B1" n="1"/>imaginem &amp; similitudinem suam, in quo differt a corporibus coelestibus, quae 
+          <lb ed="#B1" n="2"/>licet sint corporalia, tamen sunt inanimata 
+        </p>
+        <p xml:id="rhwis-l30-d1e145">
+          <lb ed="#B1" n="3"/>Circa primum sciendum, quod primus parens in statu innocentiae habuit  
+          <lb ed="#B1" n="4"/>osse mori si peccaret, &amp; habuit posse non mori si peccatum uitaret. Et ideo 
+          <lb ed="#B1" n="5"/>quantum fuit ex parte DEI, creauit hominem inexterminabilem secundum 
+          <lb ed="#B1" n="6"/>corpus, &amp; de hoc tractatur 2. Sent. distin.19.
+        </p>
+        <p xml:id="rhwis-l30-d1e156">
+          <lb ed="#B1" n="7"/>Circa secundum sciendum quod caeterae creaturae aliae ab homine uestigium DEI 
+          <lb ed="#B1" n="8"/>habent: id est, quandam obscuram notificationem, sed solus homo inter corpo  
+          <lb ed="#B1" n="9"/>reas creaturas imaginem DEI habet, quae consistit in intelligentia, memoria 
+          <lb ed="#B1" n="10"/>&amp; uoluntate, in quo est processio uerbi a memoria tDEI Patris, &amp; amoris pro 
+          <lb ed="#B1" n="11"/>cessio ab intelligentia &amp; voluntate. Vnde memoria correspondet Patri: intel 
+          <lb ed="#B1" n="12"/>ligentia &amp; uerbum Filio: uoluntas siue amor Spiritui sancto. De hac imagine 
+          <lb ed="#B1" n="13"/>tractat beatus Augustinus 9. 10. 11. 14. 15. de Trinitate diffuse. Et <ref xml:id="rhwis-l30-Rd1e173">Magister 
+          <lb ed="#B1" n="14"/>Senten. lib. 3. distin.16. per totum</ref>. Sunt ergo hic duae rationes contra animae 
+          <lb ed="#B1" n="15"/>corruptibilitatem. Quia potest de animae corruptibilitate dupliciter dici 
+          <lb ed="#B1" n="16"/>Vno modo quod non esset corruptibilis per se, sed per accidens ad corru 
+          <lb ed="#B1" n="17"/>ptionem corporis. Secundo etiam quod in se ex natura corruptibilis esset.  
+          <lb ed="#B1" n="18"/>De primo arguit sic: Talis deberet homo esse naturaliter, qualis est a DEO 
+          <lb ed="#B1" n="19"/>creatus secundum corpus. Sed fuit creatus inexterminabilis secundum cor 
+          <lb ed="#B1" n="20"/>pus: Ergo, &amp;c. Secundo sic: Anima humana est creata ad imaginem &amp; si 
+          <lb ed="#B1" n="21"/>militudinem DEI. Sed DEI nobilissima conditio est immortalitas &amp; in 
+          <lb ed="#B1" n="22"/>corruptibilitas: Ergo anima humana est immortalis &amp; incorruptibi  
+          <lb ed="#B1" n="23"/>uis. Consequenter, ibi: Inuidia autem Diaboli mors intrauit in orbem terra 
+          <lb ed="#B1" n="24"/>rum.] Ostendit Spiritus sanctus primordium nostrae mortalitatis. Et circa 
+          <lb ed="#B1" n="25"/>hoc duo facit: Primo ostendit quomodo intrauit mors corporalis. Secundo 
+          <lb ed="#B1" n="26"/>quomodo perseuerat mors spiritualis, ibi: imitantur. Primo ergo dicit sic: Dia 
+          <lb ed="#B1" n="27"/>bolus post casum suum uidens hominem ad aeternam uitam creatum, ad quam 
+          <lb ed="#B1" n="28"/>ipse ab aeterno creabatur, &amp; per superbiam perdidit: homini inuidit &amp; ipsum 
+          <lb ed="#B1" n="29"/>hominem ad peccandum tentauit, sicut patet Genes. 3. Homo autem habens  
+          <lb ed="#B1" n="30"/>praeceptum: &amp; quod si peccaret, moreretur: peccauit &amp; peccatum toto suo ge 
+          <lb ed="#B1" n="31"/>nere conquisiuit: quia sub illa lege prohibitionem acceperat ligni uetiti. Se 
+          <lb ed="#B1" n="32"/>cundo de morte spirituali quare animae ad inferna descendunt. Haec est causa: 
+          <lb ed="#B1" n="33"/>imitatio uidelicet Diaboli in peccando. Vnde qui non peccant, non sunt ob  
+          <lb ed="#B1" n="34"/>noxij mortis. Et haec est sententia textus, licet sit plenus dubitationibus
+        </p>
+        <p xml:id="rhwis-l30-d1e223">
+          <lb ed="#B1" n="35"/>Quaeritur tamen utrum corpus primi hominis fuisset incorruptibile da 
+          <lb ed="#B1" n="36"/>to, quod in statu innocentiae perstitisset.
+        </p>
+        <p xml:id="rhwis-l30-d1e230">
+          Et uidetur quod non: quia omne 
+          <lb ed="#B1" n="37"/>compositum ex contrarijs est de necessitate materiae corruptibile, 2. Phys. Sed  
+          <lb ed="#B1" n="38"/>corpus hominis in statu innocentiae fuit compositum ex contrarijs, sicut nunc 
+          <lb ed="#B1" n="39"/>est &amp; eiusdem speciei per omnia: Ergo, &amp;c.
+        </p>
+        <p xml:id="rhwis-l30-d1e239">
+          Praeterea in statu innocentiae fui 
+          <lb ed="#B1" n="40"/>nutritio, generatio, &amp; augmentatio: &amp; per consequens deperditio naturae: 
+          <lb ed="#B1" n="41"/>quia alias non fuisset necesse quod Adam saltem commedisset: sed quia fuit  
+          <lb ed="#B1" n="42"/>creatus in sufficienti quantitate, &amp; ideo frustra comedisset: nec propter nutri 
+          <lb ed="#B1" n="43"/>tionem &amp; generationem, quae in paruulis esse constat, propter solidationem  
+          <lb ed="#B1" n="44"/>massae corporeae, uel carnis indiguissent nutrimento: quia pro deperditione, nu 
+          <lb ed="#B1" n="45"/>tricatione, &amp; augmentatione ac generatione. Ergo habuissent corpora corru 
+          <lb ed="#B1" n="46"/>ptibilia, quod est propositum.
+        </p>
+        <p xml:id="rhwis-l30-d1e257">
+          Praeterea ponamus quod gladius uel secu 
+          <lb ed="#B1" n="47"/>ris cum bono impetu attigisset collum unius in statu innocentiae, certum est 
+          <lb ed="#B1" n="48"/>quod habuisset corpora molliora quam sit ferrum. Si fuisset caro unita 
+          <lb ed="#B1" n="49"/>cum ferro. Ergo collum cessisset: quia naturaliter molle cedit duro, &amp; 
+          <lb ed="#B1" n="50"/>maxime duro acutae figurae: Ergo, &amp;c. &amp; tunc potuit unus alium occi 
+          <lb ed="#B1" n="51"/>disse: uel homo potuit a bestia uel a casu fuisse occisus.
+        </p>
+        <p xml:id="rhwis-l30-d1e270">
+          Praeterea haec est 
+          <lb ed="#B1" n="52"/>definitio hominis, quod sit animal rationale, mortale, octauo Methaphy 
+          <lb ed="#B1" n="53"/>sic. sed in statu innocentiae fuisset homo uniuoce: Ergo, &amp;c.
+        </p>
+        <p xml:id="rhwis-l30-d1e277">
+          Praete<!--sap_Page_141.xml--><pb ed="#B1" n="107"/><lb ed="#B1" n="1"/>rea 
+          calor naturalis agit in humidum radicale, continue: &amp; illud humidum non 
+          <lb ed="#B1" n="2"/>potest restaurare deperditum, sicut fuit uel ita purum. Ergo per admixtionem 
+          <lb ed="#B1" n="3"/>humidi nutrimenti aliquando deficiet naturaliter: Ergo cum tunc fuisset deper 
+          <lb ed="#B1" n="4"/>ditio humidi radicalis, fuisset finaliter corruptus.
+        </p>
+        <p xml:id="rhwis-l30-d1e291">
+          <lb ed="#B1" n="5"/>Ad oppositum est Apostolus ad Rom. 6. in fine: <quote xml:id="rhwis-l30-Qd1e295" source="http://scta.info/resource/rom6_23">Stipendium peccati mors</quote>. 
+          <lb ed="#B1" n="6"/>Ergo si homo non peccasset, mortuus non fuisset.
+        </p>
+        <p xml:id="rhwis-l30-d1e301">
+          Praeterea poena non praecedit  
+          <lb ed="#B1" n="7"/>culpam. Ergo ante peccatum non fuisset mors. Igitur, &amp;c.
+        </p>
+        <p xml:id="rhwis-l30-d1e306">
+          Ad quaestionem dicen<lb ed="#B1" n="8"/>dum, 
+          quod sic. Primo tamen notanda sunt duo.
+        </p>
+        <p xml:id="rhwis-l30-d1e311">Primum est quod immortalitatem 
+          <lb ed="#B1" n="9"/>non habuisset a natura, sed a diuina gratia: quia secundum Dionys. de diuinis no 
+          <lb ed="#B1" n="10"/>minibus cap. 4. Naturalia enim data daemonibus non perierunt propter peccatum. 
+          <lb ed="#B1" n="11"/>Et similiter mortale non est differentia essentialis hominis ut argumentum est.
+        </p>
+        <p xml:id="rhwis-l30-d1e320">
+          <lb ed="#B1" n="12"/>Secundum est quod homini fuisset ex speciali gratia conditoris immortalitatis 
+          <lb ed="#B1" n="13"/>corporis concessa. Cuius ratio, quia homo fuisset ordinatus ad finem supra na 
+          <lb ed="#B1" n="14"/>turam suam corpoream: Ergo decuit quoe in ipsa institutione aliquid sibi esset collatum su 
+          <lb ed="#B1" n="15"/>pra facultatem principiorum naturalium, qui sunt anima &amp; corpus. Habuit ergo ani 
+          <lb ed="#B1" n="16"/>mam per donum gratiae supnaturalis, quod quandiu ordinem obedientiae seruaret ad DEVM, 
+          <lb ed="#B1" n="17"/>corpus uiuificare posset in perpetuum: &amp; ideo corpus hominis si homo non pec 
+          <lb ed="#B1" n="18"/>casset, corruptum non fuisset: de hoc uide fanctum Thomam 2. sent. distin.19.
+        </p>
+        <p xml:id="rhwis-l30-d1e338">
+          <lb ed="#B1" n="19"/>Tertio sciendum quod in rebus corporalibus quadruplex modus inueni 
+          <lb ed="#B1" n="20"/>tur. Vnus est generalis, quod uidelicet omnes res habent suae durationis pe 
+          <lb ed="#B1" n="21"/>riodum, sicut dicitur 3 de Generatione. Secundus est propter praedominium 
+          <lb ed="#B1" n="22"/>excessiuum unius excontrariorum, &amp; hoc duntaxat in mixtis, dum illa harmo 
+          <lb ed="#B1" n="23"/>nia praedicta soluitur, quam forma substantialis requirit. Tertius est, quod ca 
+          <lb ed="#B1" n="24"/>lor qui est instrumentum animae uegetatiuae consumit humidum uehementer in 
+          <lb ed="#B1" n="25"/>quod agit, &amp; cum non possit illud humidum restaurari naturaliter in sua purita 
+          <lb ed="#B1" n="26"/>te, semper admiscetur cum humido nutribili, &amp; sic fit impurius, sicut uinum mixtum 
+          <lb ed="#B1" n="27"/>aqua fit debilius, &amp; tantum misceri potest que flat aqua: sicut dicitur primo de Ge 
+          <lb ed="#B1" n="28"/>neratione in fine: ita humidum radicale consumitur finaliter &amp; animal moritur.  
+          <lb ed="#B1" n="29"/>Et similiter sit de planta, deficiente illa restauratione, &amp; haec est mors naturalis.  
+          <lb ed="#B1" n="30"/>Quartus modus corruptionis est per uiolentiam ab aliquo extrinseco agente, 
+          <lb ed="#B1" n="31"/>ut gladio, igne, uel huiusmodi. Modo contra duos primos modos datum fuit  
+          <lb ed="#B1" n="32"/>animae quod secundum conditionem suae immortalitatis corpus perficeret, &amp; per 
+          <lb ed="#B1" n="33"/>petuam aequalitatem complexionis conferret. Contra tertium modum corruptionis  
+          <lb ed="#B1" n="34"/>habuit homo illud donum, quod per esum lignorum de Paradiso concessorum 
+          <lb ed="#B1" n="35"/>fiebat restauratio deperditi ad certum tempus, &amp; quia illa restauratio est cum ad 
+          <lb ed="#B1" n="36"/>mixtione humidi extranei, debilitantis humidum radicale magis ac magis. Id  
+          <lb ed="#B1" n="37"/>eo homo habuit lignum uitae, cuius uirtus erat alimentum taliter assumptum 
+          <lb ed="#B1" n="38"/>in perfectam assimilationem adducere, &amp; facere humidum radicale totum: ita 
+          <lb ed="#B1" n="39"/>recens sicut fuit in principio naturae conditae. Contra quartum modum cor 
+          <lb ed="#B1" n="40"/>ruptionis qui est per uiolentiam, conseruabatur homo per diuinam proui  
+          <lb ed="#B1" n="41"/>dentiam &amp; propriam prudentiam, ut ab extrinseco nihil potuit pati corru 
+          <lb ed="#B1" n="42"/>ptiuum.
+        </p>
+        <p xml:id="rhwis-l30-d1e394">
+          Ad primum dicendum, quod concludit, quod corpus hominis  
+          <lb ed="#B1" n="43"/>fuisset corruptibile propter compositonem ex contrarijs, nisi fuisset diuinitus 
+          <lb ed="#B1" n="44"/>praeseruatum ab extrinseco per subsidium diuinae prouidentiae, &amp; ab intrinse 
+          <lb ed="#B1" n="45"/>co per gratiam originalis iusticiae.
+        </p>
+        <p xml:id="rhwis-l30-d1e403">
+          Ad secundum patet quomodo fuisset facta 
+          <lb ed="#B1" n="46"/>restauratio deperditi communiter per esum lignorum Paradisi, &amp; quando ne 
+          <lb ed="#B1" n="47"/>cesse fuisset per esum ligni uitae quod nunquam fuisset necessarium, nisi in sen 
+          <lb ed="#B1" n="48"/>sibili debilitate naturae pro recreatione recuperanda, sicut superius dictum fuit.
+        </p>
+        <p xml:id="rhwis-l30-d1e412">
+          <lb ed="#B1" n="49"/>Ad tertium quod est de extrinseco nocumento dictum est quod per propriam 
+          <lb ed="#B1" n="50"/>prudentiam &amp; diuinam prouidentiam nihil homini extrinsecum nocuisset nec 
+          <lb ed="#B1" n="51"/>molle duro cessisset, nisi sicut animae placuisset si non peccasset.
+        </p>
+        <p xml:id="rhwis-l30-d1e421">
+          Ad quartum patet  
+          <lb ed="#B1" n="52"/>quoe fuit animal rationale mortale. i. natum mori naturaliter: sic tamen fuit ordinatum 
+          <lb ed="#B1" n="53"/>a DEO quod illa aptitudo moriendi nuquam fuisset in actum deducta, nisi homo 
+          <!--sap_Page_142.xml-->
+          <pb ed="#B1" n="108"/>
+          <lb ed="#B1" n="1"/>peccasset. Et ideo homo habuit in sua potestate mori &amp; non mori: posse mori 
+          <lb ed="#B1" n="2"/>&amp; non posse mori, stante lege data: &amp; ideo fuit mortalis per naturam, &amp; im 
+          <lb ed="#B1" n="3"/>mortalis per gratiam. Ad quintum de actione calidi naturalis in humidum ra 
+          <lb ed="#B1" n="4"/>dicale dictum est, quod perfecta restauratio illius humidi fuisset facta per esum 
+          <lb ed="#B1" n="5"/>ligni uitae. Hoc tamen nota quod lignum uitae non habuit ex sua virtute na 
+          <lb ed="#B1" n="6"/>turali dare homini perpetuitatem uiuendi: quia cum esset res creata, uirtus sua 
+          <lb ed="#B1" n="7"/>finita fuit in duralitate. Et ideo non contulit fortitudinem humidi radicalis  
+          <lb ed="#B1" n="8"/>nisi ad certum tempus, quo lapso homo iterum comedisse debuit, si ita diu 
+          <lb ed="#B1" n="9"/>perstitisset non assumptus ad coelum integraliter. Sed contra arguitur per 
+          <lb ed="#B1" n="10"/>illud Genes. 3. Ne forte sumat de ligno uitae &amp; uiuat in aeternum. Dicen 
+          <lb ed="#B1" n="11"/>dum quod licet in aeternum accipitur ibi pro eo, quod est diutius, quam debe 
+          <lb ed="#B1" n="12"/>ret secundum naturam corpori humano concessam: uel a principijs intrinsecis  
+          <lb ed="#B1" n="13"/>procedentem.
+        </p>
+        <p xml:id="rhwis-l30-d1e460">
+          <lb ed="#B1" n="14"/>Inuidia aut.] De inuidia notandum quod inuidia est toxicum charitatis: nisi 
+          <lb ed="#B1" n="15"/>enim inuidia esset, quilibet de bono alterius gauderet, &amp; de malo alterius dole 
+          <lb ed="#B1" n="16"/>ret: quia hoc est proprium charitatis. Vnde Aug. super lohan. Tolle inuidiam, 
+          <lb ed="#B1" n="17"/>&amp; tuum est quod habeo, tolle inuidiam &amp; meum est quod habes: glos. super 
+          <lb ed="#B1" n="18"/>illud Esa. 45. Ego Dominus formans lucem &amp; creans tenebras. Quod est uita 
+          <lb ed="#B1" n="19"/>serpentis, mors est hominis sicut uenenum: &amp; econtra humor aqueus: id est, 
+          <lb ed="#B1" n="20"/>saliua est uita hominis, &amp; est mors serpentis. Isto modo quod est uita uirtuosi 
+          <lb ed="#B1" n="21"/>&amp; boni hominis, est mors inuido, &amp; quod in bono uiro mors uel damnum 
+          <lb ed="#B1" n="22"/>est, est inuido uita. Secundo est hostium iniquitatis, per hanc enim mors intra 
+          <lb ed="#B1" n="23"/>uit in mundum, sicut dicitur hic: Per hanc occisus est Abel a Cain: Iacob tri 
+          <lb ed="#B1" n="24"/>bulatus ab Esau: Ioseph uenditus a fratribus: Dauid persecutus a Saule: CHRI 
+          <lb ed="#B1" n="25"/>STVS traditus a Iudaeis, Matth. 27. Sciebat enim quod per inuidiam tradidise  
+          <lb ed="#B1" n="26"/>sent eum. Istud hostium fere nullus potest uitare. Seneca lib. suo de Moribus: 
+          <lb ed="#B1" n="27"/>Et si nullos inimicos tibi fecit iniuria, multos tamen fecit inuidia, Eccles. 4. In 
+          <lb ed="#B1" n="28"/>dustrias animaduerti patere inuidiae proximi. Tertio est uitium uel putredo  
+          <lb ed="#B1" n="29"/>sanitatis, Proverb. 14. Vita carnium sanitas cordis: putredo ossium inuidia. 
+          <lb ed="#B1" n="30"/>Hoc tamen est iustissimum uitium: quia est in sui autorem reciprocum. Vnde 
+          <lb ed="#B1" n="31"/>Hugo de sancto Victore: Iustius inuidia nihil: quia protinus ipsum autorem 
+          <lb ed="#B1" n="32"/>punit cor, cruciatque suum. Vnde Basilius: Sicut rubigo ferrum, sic inuidia ani 
+          <lb ed="#B1" n="33"/>mam, de qua nascitur, corrumpit. Et ideo maximam iniuriam faceret DEVS 
+          <lb ed="#B1" n="34"/>inuido, si poneret eum in coelo: quia ibi est summa felicitas in proximo: &amp; per 
+          <lb ed="#B1" n="35"/>consequens summum nocumentum esset inuido: &amp; ideo erit in inferno ubi  
+          <lb ed="#B1" n="36"/>nihil uidebit cui inuidere poterit, prima Petri secundo: Deponentes om 
+          <lb ed="#B1" n="37"/>nem maliciam, &amp; omnem dolum &amp; simulationem, &amp; inuidias, 
+          <lb ed="#B1" n="38"/>&amp; omnes detractiones: quasi modo geniti infan 
+          <lb ed="#B1" n="39"/>tes rationabiles, sine dolo lac concupi  
+          <lb ed="#B1" n="40"/>scite scilicet charitatis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

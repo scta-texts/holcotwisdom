@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 40 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 40 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="139"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-40">
+        <head xml:id="rhwis-40-Hd1e95">Lectio 40</head>
+        <p xml:id="rhwis-40-d1e98">
+          <lb ed="#B1" n="40"/>OSTQVAM Spiritus sanctus comendauit excellentiam castitatis in 
+          <lb ed="#B1" n="41"/>sexu fragiliori, scilicet foemineo: hic consequenter comendat castitatem 
+          <lb ed="#B1" n="42"/>in sexu fortiori, scilicet masculino. Et circa hoc duo facit. Primo ex  
+          <lb ed="#B1" n="43"/>cludit ea quae repugnant sanctae uirginitati. Et secundo subdit ea quae 
+          <lb ed="#B1" n="44"/>dabuntur perfectae castitati, ibi: Dabitur enim. Circa primum excludit duo 
+          <lb ed="#B1" n="45"/>Primo innaturales delectationes, quae consistunt in actu. Secundo carna 
+          <!--sap_Page_174.xml-->
+          <pb ed="#B1" n="140"/>
+          <lb ed="#B1" n="1"/>les cogitationes, quae siunt in cogitatu, ibi: Nec cogitauit. Dicit ergo primo sic:  
+          <lb ed="#B1" n="2"/>Non solum mulier habebit fructum in respectione animarum sanctarum: Imo 
+          <lb ed="#B1" n="3"/>&amp; spado: id est, eunuchus uel castus quicumque uirtuosus. Vocatur enim castratus 
+          <lb ed="#B1" n="4"/>spado: quasi cum spata aliquando castrantur. Item uocatur eunuchus quasi be  
+          <lb ed="#B1" n="5"/>ne uincens, ab eu quod est bonum, &amp; 1rex&amp; uictoria.
+        </p>
+        <p xml:id="rhwis-40-d1e129">
+          <lb ed="#B1" n="6"/>Distinguunt tamen grammatici inter istos tres terminos: Eunuchus, spa 
+          <lb ed="#B1" n="7"/>do, castratus. Vnde castratus dicitur quasi castus natus, sicut naturaliter frigi 
+          <lb ed="#B1" n="8"/>di &amp; impotentes ad generandum. Spado dicitur qui inuitus castratur. Eunu 
+          <lb ed="#B1" n="9"/>chus qui voluntarie se castrari permittit: unde uersus: 
+          <lb ed="#B1" n="10"/>Castratum natura facit violenta spadonem  
+          <lb ed="#B1" n="11"/>Efficit improbitas, eunuchum sola voluntas. 
+          <lb ed="#B1" n="12"/>Sed ista dicta parum aut nihil ualent: quia gentiles ab antiquo eunuchos fece 
+          <lb ed="#B1" n="13"/>runt pueros propter tres rationes: Primo ut diu in eis uox puerilis permane 
+          <lb ed="#B1" n="14"/>ret. Secundo ut essent apti ad custodiendas dominas: quia ex tunc filios uel fi 
+          <lb ed="#B1" n="15"/>Tertio ut eis more Sodomitico sacrilegi 
+          <lb ed="#B1" n="16"/>lias haeredes facere non potuerunt. 
+          <lb ed="#B1" n="17"/>abuterentur diutius: quia ex tunc semper manebant inberbes. Castrati enim 
+          <lb ed="#B1" n="18"/>in iuuentute nunquam barbescunt. Accipitur autem spado in proposito ge 
+          <lb ed="#B1" n="19"/>neraliter pro quocunque uirtuoso abstinente ab actu uenereo qualicunque uo 
+          <lb ed="#B1" n="20"/>luntate &amp; uirtuose: sicut sterilem accepit superius pro quacunque uirtuosa &amp; effe 
+          <lb ed="#B1" n="21"/>ctualiter non foecunda. Et isto modo homo potens generare &amp; caste uiuens amore 
+          <lb ed="#B1" n="22"/>DEI, potest uocari spado: quia sibi potissime debetur merces uirginitatis: cu 
+          <lb ed="#B1" n="23"/>iusmodi sunt uiri Ecclesiastici &amp; religiosi. De quibus loquitur Saluator Matt.  
+          <lb ed="#B1" n="24"/>19. Sunt eunuchi qui castrauerunt seipsos propter regnum DEI. De istis dici 
+          <lb ed="#B1" n="25"/>tur Esa. 56. Dicit Dominus DEVS eunuchis, qui custodierunt sabbata mea, &amp; 
+          <lb ed="#B1" n="26"/>elegerunt quae ego uolui, &amp; tenuerunt foedus meum: dabo eis in domo mea, 
+          <lb ed="#B1" n="27"/>&amp; in muris meis iocum, &amp; nomen melius a filijs &amp; filiabus.
+        </p>
+        <p xml:id="rhwis-40-d1e179">
+          <lb ed="#B1" n="28"/>Dubitatur utrum liceat alicui seipsum castrare propter continentiam ser 
+          <lb ed="#B1" n="29"/>uandam.
+        </p>
+        <p xml:id="rhwis-40-d1e186">
+          Videtur quod sic: quia Matth. 5. &amp; 18. similiter: Si pes tuus aut ma 
+          <lb ed="#B1" n="30"/>nus tua aut oculus tuus scandalizauerit, abscinde, &amp;c. scandalizare est dare oc 
+          <lb ed="#B1" n="31"/>casionem ruinae.
+        </p>
+        <p xml:id="rhwis-40-d1e194">
+          Item propter sanitatem corporis consequendam licet homini 
+          <lb ed="#B1" n="32"/>se mutilare: Ergo a multo fortiori propter uirtutes &amp; sanitatem spiritualem.
+        </p>
+        <p xml:id="rhwis-40-d1e199">
+          Item 
+          <lb ed="#B1" n="33"/>Matt. 19. Eunuchi sunt, &amp;c.
+        </p>
+        <p xml:id="rhwis-40-d1e204">
+          Praeterea Origenes legitur hoc fecisse de seipso, 
+          <lb ed="#B1" n="34"/>non propter conseruandam continentiam: sed propter uitandam infamiam &amp; 
+          <lb ed="#B1" n="35"/>malam suspicionem ut posset libere in occulto praedicare tam mulieribus 
+          <lb ed="#B1" n="36"/>quam uiris: sicut legitur lib. 6. Ecclesiasticae historiae tempore persecutionis  
+          <lb ed="#B1" n="37"/>Ecclesiae.
+        </p>
+        <p xml:id="rhwis-40-d1e215">
+          <lb ed="#B1" n="38"/>Sed ad oppositum quod nullo modo est faciendum, habetur in <ref xml:id="rhwis-40-Rd1e219">Cano. dist. 
+            <lb ed="#B1" n="39"/>55. Siquis absciderit</ref>: ubi sic dicitur: <quote xml:id="rhwis-40-Qd1e224" source="http://scta.info/resource/gd-p1d55-d1e173">Si quis amputauerit sibi uirilia, non fiat  
+              <lb ed="#B1" n="40"/>clericus: quia sui est homicida, &amp; DEI conditionis est inimicus. Siquis cum 
+              <lb ed="#B1" n="41"/>clericus fuerit, abscideret semetipsum, omnino damnetur: quia sui homicida 
+              <lb ed="#B1" n="42"/>est</quote>: hoc est, fecit tale quid, propter quod homicidium posset fuisse secu 
+          <lb ed="#B1" n="43"/>tum.
+        </p>
+        <p xml:id="rhwis-40-d1e236">
+          Ad primum illa autoritas non intelligitur de membrorum abscisione, 
+          <lb ed="#B1" n="44"/>sed nomine partium corporis uocantur amici necessarij: quia quantumcun 
+          <lb ed="#B1" n="45"/>que sint familiares, speciales uel necessarij, &amp; alliciant ad peccandum, proijcien 
+          <lb ed="#B1" n="46"/>di sunt a familiaritate nostra.
+        </p>
+        <p xml:id="rhwis-40-d1e245">
+          Ad secundum neganda est consequentia: quia 
+          <lb ed="#B1" n="47"/>salutem mentis non posset talium abscisio praestare, imo magis praestant me 
+          <lb ed="#B1" n="48"/>ritum si per rationem passiones eorum uirtuose domentur.
+        </p>
+        <p xml:id="rhwis-40-d1e253">
+          Ad tertium similiter 
+          <lb ed="#B1" n="49"/>est dicendum.
+        </p>
+        <p xml:id="rhwis-40-d1e258">
+          Ad quartum de Origene, mirae deuotionis actus fuit, nec fuit  
+          <lb ed="#B1" n="50"/>propter hoc impeditus ne esset sacerdos ordinatus, sicut notat glossa dist. 55. 
+          <lb ed="#B1" n="51"/>Si quis absciderit. Sed suum factum non est trahendum in consequentiam: tales  
+          <lb ed="#B1" n="52"/>enim decipiuntur in facto suo, &amp; retorquent necessitatem peccandi in DEVM 
+          <lb ed="#B1" n="53"/>suae naturae conditorem. Talis ergo spado erit felix in futuro propter suam uirgi 
+          <!--sap_Page_175.xml-->
+          <pb ed="#B1" n="141"/>
+          <lb ed="#B1" n="1"/>nitatem in prsentiae: sed tamen oportet quod duobus uitijs careat ad hoc, ut ser 
+          <lb ed="#B1" n="2"/>uet uirginitatem perfectam, uidelicet contactu manuali &amp; libidinoso ad pro 
+          <lb ed="#B1" n="3"/>uocandum delectationem carnis, &amp; cogitatu mentali uoluptuoso ad excitan 
+          <lb ed="#B1" n="4"/>dum imaginationem cordis. Vnde dicit, quod felix est spado qui non est operatus per 
+          <lb ed="#B1" n="5"/>manus suas iniquitatem, quantu ad peccatu primum, nec cogitauit aduersus DEVM 
+          <lb ed="#B1" n="6"/>nequissima, quantum ad secundum. Ex quo patet quod tactus impudici, sunt  
+          <lb ed="#B1" n="7"/>peccata mortalia: &amp; ex secundo quo morosae cogitationes ad delectandum carna 
+          <lb ed="#B1" n="8"/>liter ordinatae, nequissima, scilicet in genere mali carnalis, Eccl. 17. in fine: Quid  
+          <lb ed="#B1" n="9"/>nequius quam quod excogitauit caro &amp; sanguis. Consequenter ibi: Et dabitur illi.
+        </p>
+        <p xml:id="rhwis-40-d1e293">
+          <lb ed="#B1" n="10"/>Exclusis repugnantibus uirginitati, sub iungit illud quod dabitur perfe 
+          <lb ed="#B1" n="11"/>ctae castitati. Et dicit, quod dabitur illi, uito casto, sidei donum electum. Electum: id  
+          <lb ed="#B1" n="12"/>est, uita aeterna in contemplatione diuinitatis, quae fidei succedet, &amp; omnibus fi 
+          <lb ed="#B1" n="13"/>delibus promittitur. Apoc. 2. Esto fidelis usque ad mortem, &amp; dabo tibi coro 
+          <lb ed="#B1" n="14"/>nam uitae. Et non solum hoc, imo dabitur ei sors in templo DEI acceptissima: id est,  
+          <lb ed="#B1" n="15"/>aureola singularis praerogatiua uvirginitatis, quae est conditio nobilissima &amp; ac 
+          <lb ed="#B1" n="16"/>ceptissima in coelo: quia est conditio CHRISTI &amp; matris suae &amp; omnium an 
+          <lb ed="#B1" n="17"/>gelorum. Est enim virginitas uirtus angelica secundum Hieronymum.
+        </p>
+        <p xml:id="rhwis-40-d1e313">
+          <lb ed="#B1" n="18"/>Dubitatio literalis. Vtrum uirginitati debeatur aureola.
+        </p>
+        <p xml:id="rhwis-40-d1e318">
+          Quod non: uide 
+          <lb ed="#B1" n="19"/>tur. Quia si sic, ubi esset perfectior uirginitas, magis deberetur aureola: sed per 
+          <lb ed="#B1" n="20"/>fecta uirginitas fuit in CHRISTO &amp; in beata uirgine: &amp; non eis debetur au 
+          <lb ed="#B1" n="21"/>reola: quia nullam pugnam sustinuerunt in continendo, &amp; per consequens nul 
+          <lb ed="#B1" n="22"/>la fuit in eis uictoria spiritus super carnem: Ergo si eis ratione uirginitatis non 
+          <lb ed="#B1" n="23"/>debetur aureola, in quibus tamen potissime fuit uirginitas: Ergo nulli alteri 
+          <lb ed="#B1" n="24"/>ratione uirginitatis debetur aureola.
+        </p>
+        <p xml:id="rhwis-40-d1e334">
+          Praeterea maiorem difficultatem in absti 
+          <lb ed="#B1" n="25"/>nendo a uenereis sustinent uiduae quam uirgines: Ergo maiorem habebunt ui  
+          <lb ed="#B1" n="26"/>ctoriam si bene uiuant: Sed eis non debetur aureola: Ergo nec uirginibus. As  
+          <lb ed="#B1" n="27"/>sumptum patet ex dicto Hiero. loquentis de uiduis &amp; dicentis, quod quanto  
+          <lb ed="#B1" n="28"/>maior est difficultas ex parte quondam uoluptatis illecebris abstinere, tanto 
+          <lb ed="#B1" n="29"/>maius est praemium. Et Aristinu. de animalibus dicit, quod iuuenes corrupte ma 
+          <lb ed="#B1" n="30"/>gis appetunt coitum propter rememorationem delectationis: Ergo, &amp;c.
+        </p>
+        <p xml:id="rhwis-40-d1e351">
+          Prae 
+          <lb ed="#B1" n="31"/>terea: Tanti meriti est castitas coniugalis sicut uirginitas, sed castitati coniuga 
+          <lb ed="#B1" n="32"/>li non debetur aureola: Ergo, &amp;c. Assumptum patet per illud Augustin. de bo 
+          <lb ed="#B1" n="33"/>no coniugali, cap. 40. Et allegat Magister sententiarum 40. dis. 33. cap. 6. Si 
+          <lb ed="#B1" n="34"/>cut non est impar meritum patientiae in Petro, qui passus est, &amp; in Iohanne 
+          <lb ed="#B1" n="35"/>qui passus non est, sic non est impar meritum continentiae in Iohanne, qui nul  
+          <lb ed="#B1" n="36"/>las expertus est nuptias, &amp; in Abraham qui filios genuit.
+        </p>
+        <p xml:id="rhwis-40-d1e367">
+          Praeterea natura 
+          <lb ed="#B1" n="37"/>li necessitati non correspondet praemium, sed quidam sunt naturaliter impo 
+          <lb ed="#B1" n="38"/>tentes ad generandum: sicut frigidi &amp; castrati in iuuentute: Ergo in illis uirgi 
+          <lb ed="#B1" n="39"/>nitas non meretur aureolam.
+        </p>
+        <p xml:id="rhwis-40-d1e376">
+          Praeterea secundum Augustin. de sancta uirgi 
+          <lb ed="#B1" n="40"/>nitate. Et allegatum fuit in quaestione praecedenti: Virginitas est continentia 
+          <lb ed="#B1" n="41"/>qua carnis integritas ipsi creatori carnis &amp; animae uovetur, &amp; consecratur, &amp; 
+          <lb ed="#B1" n="42"/>conseruatur: Ergo nulla meretur aureolam: nisi quae cadit sub uoto ut uide 
+          <lb ed="#B1" n="43"/>tur.
+        </p>
+        <p xml:id="rhwis-40-d1e387">
+          Praeterea ponamus quod aliqua uirgo nubat, tamen ante copulam car 
+          <lb ed="#B1" n="44"/>nalem moriatur, quaero an ista uirgo habebit aureolam uirginitatis, an non. 
+          <lb ed="#B1" n="45"/>Si non. Contra qui contraheret cum tali non foret bigamus, dis. 34. Valenti  
+          <lb ed="#B1" n="46"/>no: Ergo contraheret cum uirgine: quia omnis contrahens matrimonium 
+          <lb ed="#B1" n="47"/>cum uidua uel corrupta, est bigamus, distinct. 34. Maritum. Et extra de bi  
+          <lb ed="#B1" n="48"/>gamis Nuper. Si habebit aureolam. Contra non est uirgo mente: quia 
+          <lb ed="#B1" n="49"/>secundum Augustinum de nuptijs: Virginitas est in carne corruptibili in 
+          <lb ed="#B1" n="50"/>corruptionis perpetua meditatio. Sed ipsa fuit in proposito soluendi uir 
+          <lb ed="#B1" n="51"/>ginitatem: Ergo perdidit uirginitatem.
+        </p>
+        <p xml:id="rhwis-40-d1e407">
+          Praeterea ponamus quod ali  
+          <lb ed="#B1" n="52"/>quis uoueat uirginitatem &amp; postea corrumpatur mente: quia uult omnino ex 
+          <lb ed="#B1" n="53"/>deliberatione committere actum luxuriae. Iste est corruptus mente: Ergo non 
+          <!--sap_Page_176.xml-->
+          <pb ed="#B1" n="sap_Page_176-sap_Page_"/>
+          <cb ed="#B1" n=""/>
+          <lb ed="#B1" n="1"/>habebit aureolam. Contra est integra carne, &amp; postea poenituit. Ergo recupe 
+          <lb ed="#B1" n="2"/>rauit uirginitatem. Ergo habebit aureolam. Item habeat aliquis uoluntatem  
+          <lb ed="#B1" n="3"/>nubendi, &amp; sic decedat: quaeritur an habebit aureolam:
+        </p>
+        <p xml:id="rhwis-40-d1e427">
+          <lb ed="#B1" n="4"/>Ad oppositum sunt communiter doctores.
+        </p>
+        <p xml:id="rhwis-40-d1e433">
+          Ad quaestionem dicendum 
+          <lb ed="#B1" n="5"/>quod sic: Ad cuius euidentiam nota quinque  
+          <lb ed="#B1" n="6"/>Primum quod praemium duplex dabitur beatis, uidelicet essentiale &amp; ac 
+          <lb ed="#B1" n="7"/>cidentale. Praemium essentiale cbnsistit in fruitione essentiae diuinae, clarae, uisae  
+          <lb ed="#B1" n="8"/>Praemium accidentale uocatur quodcunque gaudium, quod non est de DEO cla 
+          <lb ed="#B1" n="9"/>re uiso, sed de creatura. Secundo nota quod praemium accidentale dicitur du 
+          <lb ed="#B1" n="10"/>pliciter. Primo dicitur gaudium specialiter de aliquo actu animae importante 
+          <lb ed="#B1" n="11"/>excellentem uictoriam habitam meritorie in praesenti. Alio modo dicitur com  
+          <lb ed="#B1" n="12"/>muniter gaudium, de quacunque re creata. Tertio nota quod actus excellentis  
+          <lb ed="#B1" n="13"/>uictoriae in praesenti potest esse in materia triplici, secundum quod triplicem  
+          <lb ed="#B1" n="14"/>pugnam habemus, uidelicet contra carnem, contra mundum, &amp; contra Dia 
+          <lb ed="#B1" n="15"/>bolum. Contra carnem excellentissima uictoria est uirginitas, quae est uirtus. 
+          <lb ed="#B1" n="16"/>Nam uirtuose respuit omnes uenereas delectationes tam licitas quam illicitas. 
+          <lb ed="#B1" n="17"/>sicut in praecedenti lectione dictum est. Contra mundum: id est, contra malos 
+          <lb ed="#B1" n="18"/>homines mundanos, qui bonos persequuntur &amp; contemnunt, perfectissima 
+          <lb ed="#B1" n="19"/>uictoria est martyrum propter CHRISTVM. Contra Diabolum qui falsa nos 
+          <lb ed="#B1" n="20"/>suggestione conatur seducere, perfectissima uictoria est praedicatio siue doctri 
+          <lb ed="#B1" n="21"/>na, qua homo semetipsum non solum bene regit, sed &amp; alios corrigit &amp; instruit.  
+          <lb ed="#B1" n="22"/>Et istis tribus generibus hominum, uirginibus, martyribus, &amp; doctoribus tres aureo 
+          <lb ed="#B1" n="23"/>lae deputantur, propter tres actus excellentes, &amp; priuilegia uictoriae. Quarto notan 
+          <lb ed="#B1" n="24"/>dum, quod beatitudo essentialis uocatur * translatiue corona laurea. Beatitudo ue 
+          <lb ed="#B1" n="25"/>ro uel gaudium accidentale, debitum operi excellentis uictoriae uocatur aureo 
+          <lb ed="#B1" n="26"/>la. Et hoc pro tanto: quia omne gaudium essentiale est de DEO. Sed gaudium ac 
+          <lb ed="#B1" n="27"/>cidentale in beatis est de creatura &amp; minus quam essentiale gaudium: &amp; ideo 
+          <lb ed="#B1" n="28"/>per terminum diminutiuum oportuit denotari. Quinto notandum, quod cum 
+          <lb ed="#B1" n="29"/>omne gaudium sit actus animae, sicut aureola est in anima: ita etiam aureola 
+          <lb ed="#B1" n="30"/>Redundabit tamen in corpus per aliquod signum euidens, illi correspondens 
+          <lb ed="#B1" n="31"/>quod quale erit, non est mihi notum, 
+        </p>
+        <p xml:id="rhwis-40-d1e494">
+          <lb ed="#B1" n="32"/>Ad primum in oppositum de uirgine gloriosa tenet S. Thomas, quod aureolam 
+          <lb ed="#B1" n="33"/>habuit, &amp; tamen nullam pugnam a carne, sed ab hoste habuit tentationes de carne. 
+          <lb ed="#B1" n="34"/>De CHRISTO uero dicit quod non habuit aureolam sub nomine aureolae: quia 
+          <lb ed="#B1" n="35"/>aureola importat uictoriam participatam ab aliquo quod CHRISTO non conue 
+          <lb ed="#B1" n="36"/>nit, in quo est plenitudo uictoriae. Et similiter importat, quod aureola a princi 
+          <lb ed="#B1" n="37"/>pe conferatur: potest tamen aliter dici, quod iste terminus uictoria dicit domi 
+          <lb ed="#B1" n="38"/>nium rationis super carnem, &amp; connotat resistentiam quae non fuit in CHRI 
+          <lb ed="#B1" n="39"/>STO, nec in matre: sed quia fuit plenum dominium rationis, ideo habent au 
+          <lb ed="#B1" n="40"/>reolam ex alia causa debitam eis quam nobis.
+        </p>
+        <p xml:id="rhwis-40-d1e516">
+          <lb ed="#B1" n="41"/>Ad secundum dicendum, quod si attendamus istam unam actionem tentationis  
+          <lb ed="#B1" n="42"/>carnis, quae est recordatio ex parte uoluptatis, constat quod haec est in uiduis &amp;  
+          <lb ed="#B1" n="43"/>non in uirginibus Est tamen in eis imaginatio quaedam ex parte lasciuiae cum istis 
+          <lb ed="#B1" n="44"/>tribus circustantijs, quae sunt desiderium experiendi ex curiositate. Sicut homo 
+          <lb ed="#B1" n="45"/>magis desiderat uidere modicum negotium quod nunquam uidit quam unum 
+          <lb ed="#B1" n="46"/>magnum monasterium. Secundo est aestimatio maioris delectationis quam sit in 
+          <lb ed="#B1" n="47"/>rei ueritate.T Tertio ignorantia incommodorum &amp; turpitudinis comitantis: 
+          <lb ed="#B1" n="48"/>&amp; ideo simpliciter loquendo, pugna uirginum est difficilior quam uiduarum.
+        </p>
+        <p xml:id="rhwis-40-d1e536">
+          <lb ed="#B1" n="49"/>Ad tertium dicendum, quod non ideo datur uirgini aureola: quia est ma 
+          <lb ed="#B1" n="50"/>ioris meriti, sed quia est distinctiua singularis uictoriae uel dominij super carnem 
+          <lb ed="#B1" n="51"/>Vnde beata Catharina habet aureolam uirginitatis, Magdalena non: &amp; tamen est 
+          <lb ed="#B1" n="52"/>maioris meriti: cum castitas coniugalis &amp; castitas pro tempore gratiae non aequi  
+          <lb ed="#B1" n="53"/>parantur, sed castitas coniugalis antiquorum potest aequiparari castitati novae 
+          <!--sap_Page_177.xml-->
+          <pb ed="#B1" n="142"/>
+          <lb ed="#B1" n="1"/>legis, &amp; excedere, &amp; excedi. Sed non sequitur: Istae duae personae aequiparan 
+          <lb ed="#B1" n="2"/>tur in merito: Ergo si una habeat aureolam, &amp; alia
+        </p>
+        <p xml:id="rhwis-40-d1e558">
+          <lb ed="#B1" n="3"/>Ad quartum dicendum, quod uel tales naturaliter casti conforment suum propositum suae 
+          <lb ed="#B1" n="4"/>necessitati, &amp; tunc habebunt, aut non, sed sunt mente corrupti, &amp; tunc non habebunt.
+        </p>
+        <p xml:id="rhwis-40-d1e565">
+          <lb ed="#B1" n="5"/>Ad quintum de dicto Augnstinus dicendum: Quod aureola uirginitatis com 
+          <lb ed="#B1" n="6"/>petit cuilibet habenti propositum abstinendi a uenerea uoluptate: si illud pro 
+          <lb ed="#B1" n="7"/>positum nunquam fuerit effectualiter interruptum per experientiam opposi  
+          <lb ed="#B1" n="8"/>tam usque ad mortem. Si uero fuerit interruptum effectualiter, non habebit. Aut  
+          <lb ed="#B1" n="9"/>si fuerit ruptum per propositum contrarium sine effectu (sicut forte persona 
+          <lb ed="#B1" n="10"/>consentit ex deliberatione in actum uenereum) distinguendum est: quia uel po 
+          <lb ed="#B1" n="11"/>stea poenitet de isto consensu, quem nullum opus sequebatur, &amp; tunc adhuc habe  
+          <lb ed="#B1" n="12"/>bit aureolam: quia uirginitas, quae est uirtus per poenitentiam restituitur, uel 
+          <lb ed="#B1" n="13"/>non poenitet citra mortem, &amp; tunc nunquam habebit: dato etiam quod saluetur.
+        </p>
+        <p xml:id="rhwis-40-d1e588">
+          <lb ed="#B1" n="14"/>Ad sextum dicendum eodem modo: quia illud propositum carnalis permixtio 
+          <lb ed="#B1" n="15"/>nis abluit per poenitentiam, dolens quod discontinuauit propositum conti 
+          <lb ed="#B1" n="16"/>nendi, uel non. Si sic habebit, si non nequaquam: &amp; sic lohannes Euangelista  
+          <lb ed="#B1" n="17"/>uirginitatem perditam recuperauit, quando CHRISTVS eum de nuptijs uo 
+          <lb ed="#B1" n="18"/>lentem nubere reuocauit secundum Hiere. Et ultra, pro argumento nota, quod cor 
+          <lb ed="#B1" n="19"/>ruptio inducens bigamiam, est solutio integritatis carnis non corruptio mentis.
+        </p>
+        <p xml:id="rhwis-40-d1e604">
+          <lb ed="#B1" n="20"/>Ad septimum per idem. Ad octauum similiter ex dictis patet, quod mul  
+          <lb ed="#B1" n="21"/>tae uirgines carebunt in coelo aureola uirginitatis: sicut qui moriuntur cum pro 
+          <lb ed="#B1" n="22"/>posito nubendi: multae etiam corruptae secundum carnem cum proposito com  
+          <lb ed="#B1" n="23"/>tinendi. Sicut patet de oppressis a barbaris, habebunt aureolam. De pueris  
+          <lb ed="#B1" n="24"/>infra aetatem, utriusque sexus non uideo causam, quare aureolam habere debent:  
+          <lb ed="#B1" n="25"/>in quibus nec fuit uirginitas, quae est uirtus, nec uictoria aliqua super carnem.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

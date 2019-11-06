@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 45 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 45 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="158"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l45">
+        <head xml:id="rhwis-l45-Hd1e95">Lectio 45</head>
+        <p xml:id="rhwis-l45-d1e98">
+          <lb ed="#B1" n="35"/>POSTQVAM Spiritus sanctus commendauit coniugij castita 
+          <lb ed="#B1" n="36"/>tem tam ex honestate necessaria pro uita transitoria, quam ex diu 
+          <lb ed="#B1" n="37"/>turnitate &amp; immortali memoria: Hic eam tertio commendat ex  
+          <lb ed="#B1" n="38"/>l praemij quantitate &amp; uirtuosa uictoria. Et dicit de ea tria. Primo, 
+          <lb ed="#B1" n="39"/>quod desideratur propter uitae necessitatem. Secundo, quod praemiatur  
+          <lb ed="#B1" n="40"/>propter sui utilitatem, ibi: Et in perpetuum. Tertio, quod parificatur ad uir 
+          <lb ed="#B1" n="41"/>ginitatem, ibi: incoinquinatorum. Quantum ad primum dicit sic: Cum praesens 
+          <lb ed="#B1" n="42"/>est illam imitantur, supple gentes, nationes &amp; populi, qui honestatem con 
+          <!--sap_Page_193.xml-->
+          <pb ed="#B1" n="159"/>
+          <lb ed="#B1" n="1"/>iugij per experimentalem usum didicerunt, imitantur illam: id est, statuerunt  
+          <lb ed="#B1" n="2"/>illam imitandam per leges, consuetudines, &amp; statuta. Et per hoc quod dicit,  
+          <lb ed="#B1" n="3"/>cum praesens est imitantur illam, &amp; desiderant eam cum se eduxerit: id et, cum 
+          <lb ed="#B1" n="4"/>diu fuerit continuata per consuetudinem desiderant etiam eam sine coactio  
+          <lb ed="#B1" n="5"/>ne legis.
+        </p>
+        <p xml:id="rhwis-l45-d1e133">
+          <lb ed="#B1" n="6"/>Et quia possit aliquis dubitare de eius praemio in futuro, licet eius honestas 
+          <lb ed="#B1" n="7"/>situalde euidens in praesenti: ideo hoc uolens excludere, subdit, quod in per 
+          <lb ed="#B1" n="8"/>petuum coronata triumphat: idest, fideles coniuges honestatem seruantes con 
+          <lb ed="#B1" n="9"/>iugij usque ad mortem coronabuntur, Apocal. 2. Esto fidelis usque ad mor 
+          <lb ed="#B1" n="10"/>tem, &amp; dabo tibi coronam uitae. Et quia uirginitas praecellit foecundita 
+          <lb ed="#B1" n="11"/>tem caeteris paribus, posset aliquis credere quod coniugatus nullo modo pos  
+          <lb ed="#B1" n="12"/>sit uirgini coaequari, quod uerum non est. Potest enim uirginitas esse fatua &amp; 
+          <lb ed="#B1" n="13"/>superba, Matthaei uigesimoquinto: Quinoue autem ex eis eran. fituae, &amp; 
+          <lb ed="#B1" n="14"/>quinque prudentes. Vnde satis possibile est bonam coniugem in obedien  
+          <lb ed="#B1" n="15"/>do uiro, educando prolem, disponendo familia tantum mereri quod attingat  
+          <lb ed="#B1" n="16"/>ad meritum uirginis &amp; excedat. Sicut possibile est quod diues per opera ui  
+          <lb ed="#B1" n="17"/>tae actiuae excedat pauperem uoluntarium, licet status paupertatis sit altior: 
+          <lb ed="#B1" n="18"/>quia status altior non facit personam alti meriti, nec persona alti meriti facit 
+          <lb ed="#B1" n="19"/>statum alti meriti. Potest ei Christianus peior esse Iudaeo, &amp; monachus pe 
+          <lb ed="#B1" n="20"/>ior seculari. Et ideo subdit quod in casu tantum triumphat, quod vincit prae 
+          <lb ed="#B1" n="21"/>mium certaminum incoinquinatorum: id est, uirginum, Apocal. 14. Hi sunt qui  
+          <lb ed="#B1" n="22"/>cum mulieribus non sunt coinquinati, uirgines enim sunt. Status tamen uir 
+          <lb ed="#B1" n="23"/>ginitatis caeteris paribus altior est. Quaeritur in lectione ista praecedenti ex 
+          <lb ed="#B1" n="24"/>quo agitur de fidelitate coniugum inter se, quam uterque promisit alteri us 
+          <lb ed="#B1" n="25"/>que ad mortem. Vtrum coniugatus resuscitatus a morte teneatur iterato uxo 
+          <lb ed="#B1" n="26"/>ri coniugi: Arguitur quod sic: quia religiosus mortuus &amp; resuscitatus tenetur 
+          <lb ed="#B1" n="27"/>ad continuandam obedientiam, quam prius in omnibus: Ergo pari ratione 
+          <lb ed="#B1" n="28"/>eoniugatus. Consequentia patet: quia sicut religiosus obligat se usque ad mor 
+          <lb ed="#B1" n="29"/>tem: ita coniugatus usque ad finem uitae: finis autem uitae est mors.
+        </p>
+        <p xml:id="rhwis-l45-d1e188">
+          <lb ed="#B1" n="30"/>Ad oppositum est illud, primae ad Corinth. septimo: Mulier alligata 
+          <lb ed="#B1" n="31"/>est uiro eius quanto tempore uir eius uiuit. Cum autem dormierit vir eius, 
+          <lb ed="#B1" n="32"/>liberata est, cui uult nubat in Domino. Ad quaestionem dicitur, quod non 
+          <lb ed="#B1" n="33"/>Religiosus tenetur ad ordinem suum, sicut ponit Heinricus de Gandano pri 
+          <lb ed="#B1" n="34"/>mo quotlibeto, quaest. 37. Ratio sua est: quia per religionem homo CHRI 
+          <lb ed="#B1" n="35"/>STO conformatur quantum ad omnes uires animae. Quantum ad concu 
+          <lb ed="#B1" n="36"/>piscibilem, per castitatem. Quantum ad irascibilem, per paupertatem. Quan  
+          <lb ed="#B1" n="37"/>tum ad rationalem, per obedientiam: &amp; quia obligatio sit principaliter exi  
+          <lb ed="#B1" n="38"/>stenti rationali, ideo obe. lientia est principalior portio in uoto religionis: &amp; 
+          <lb ed="#B1" n="39"/>quia uirtus rationalis manet in anima separata, non autem uirtus concupisci 
+          <lb ed="#B1" n="40"/>bilis &amp; irascibilis: &amp; ideo obligatio ad obedientiam semper manet in anima 
+          <lb ed="#B1" n="41"/>etiam separata. Obligatio autem matrimonij est ad ea quae corporis sunt: &amp; 
+          <lb ed="#B1" n="42"/>ideo anima separata ad talia non obligatur. Licet ista sit opinio multorum do 
+          <lb ed="#B1" n="43"/>ctorum, tamen uidetur mini omnino irrationabilis pro tanto: quia pactio uo 
+          <lb ed="#B1" n="44"/>luntaria limitata ad certum terminum non ligat ultra istum terminum: quia 
+          <lb ed="#B1" n="45"/>non ligatultra intentionem obligantis se: quia mere spontanea est obligatio:  
+          <lb ed="#B1" n="46"/>ergo cum terminus sit mors, morte transacta, obligatio est soluta. Nec mate 
+          <lb ed="#B1" n="47"/>ria super quam transit obligatio, facit aliquid ad materiam obligationis: &amp; id 
+          <lb ed="#B1" n="48"/>eo Religiosus resuscitatus potest libere religionem quamcunque intrare, uel 
+          <lb ed="#B1" n="49"/>manere si uoluerit secularis. Quod autem arguitur quod obligatio ad obe 
+          <lb ed="#B1" n="50"/>dientiam pertinet ad uirtutem rationalem, &amp; illa manet in anima separata, ui  
+          <lb ed="#B1" n="51"/>detur arguere quod obedientia Religionis manebit in prima quod nihil est: 
+          <lb ed="#B1" n="52"/>&amp; ideo uidetur mihi dicendum, quod sicut coniugatus resuscitatus potesi 
+          <lb ed="#B1" n="53"/>contrahere cum illa uel cum alia, sicut placet: ita Religiosus liber factus est: &amp; 
+          <!--sap_Page_194.xml-->
+          <pb ed="#B1" n="160"/>
+          <lb ed="#B1" n="1"/>sic patet tam ad argumentum quam ad quaestionem. Licet Spiritus sanctus in 
+          <lb ed="#B1" n="2"/>istis lectionibus coniugium multum commendet.
+        </p>
+        <p xml:id="rhwis-l45-d1e251">
+          <lb ed="#B1" n="3"/>Notandum est tamen, quod non potest contrahi sicut expedit sine gratia 
+          <lb ed="#B1" n="4"/>praeuia &amp; magna prouidentia: sicut nec sine magna prudentia familia regi po 
+          <lb ed="#B1" n="5"/>test, &amp; ideo accedens ad nuptias quatuor ista notet circa uxorem ducendam  
+          <lb ed="#B1" n="6"/>qualiter sit eligenda, qualiter dirigenda, qualiter corrigenda, &amp; qualiter dili 
+          <lb ed="#B1" n="7"/>genda. Est enim uxor eligenda discrete, &amp; dirigenda mansuete, corrigen 
+          <lb ed="#B1" n="8"/>da secrete, &amp; diligenda complete: ut sit electio per discretam deliberationem. 
+          <lb ed="#B1" n="9"/>Directio prae mansuetam gubernationem: Correctio per secretam informa 
+          <lb ed="#B1" n="10"/>tionem: &amp; Dilectio per completam communicationem. Primo uxor est eli  
+          <lb ed="#B1" n="11"/>genda discrete, non subito, nec praecipitanter rapienda: quia talis feruor in 
+          <lb ed="#B1" n="12"/>principio parit poenitentiam in futuro. Exemplum habemus Genes. uigesi 
+          <lb ed="#B1" n="13"/>moquarto de Sichem filio Hemor, qui ad primum aspectum Dinae filiae la 
+          <lb ed="#B1" n="14"/>cob eam rapuit, &amp; mori uoluit nisi eam ducere posset: quod fecit in tanto fer 
+          <lb ed="#B1" n="15"/>uore, quod pro eius amore se &amp; populum suum totum circumcidi permi 
+          <lb ed="#B1" n="16"/>sit. Ob cuius facti praecipitationem interfectus est cum populo suo per fra 
+          <lb ed="#B1" n="17"/>tres Dinae. Non ergo in eligenda uxorehabeatur totaliter aspectus ad for 
+          <lb ed="#B1" n="18"/>mam, uel ad speciem mulieris: quia propter speciem mulierum multi perie 
+          <lb ed="#B1" n="19"/>runt, Ecclesiast. 9. Non ad diuitias, non ad parentes: sed praecipue ad bonos 
+          <lb ed="#B1" n="20"/>mores. In tantum est gratiosum negocium bene nubere, quod teste Salomo 
+          <lb ed="#B1" n="21"/>ne, donum DEI proprie reputabatur, Proverb. 19. Domus &amp; diuitiae dan  
+          <lb ed="#B1" n="22"/>tur a parentibus: a Domino autem proprie est uxor prudens. Distinguit autem 
+          <lb ed="#B1" n="23"/>Aristotel. 8. Ethic. cap. 3. Species amicitiae uidelicet propter utile, &amp; propter 
+          <lb ed="#B1" n="24"/>delectabile, &amp; propter honestum: hoc est, propter bonos mores, &amp; ista sola 
+          <lb ed="#B1" n="25"/>perfecta est amicitia: &amp; quidquid boni est in duabus primis speciebus, totum  
+          <lb ed="#B1" n="26"/>est in ista. Vnde ista sola est amicitia mansura non alia. Nam amicitia pro 
+          <lb ed="#B1" n="27"/>pter utile, quae est proprie senum &amp; mercatorum: &amp; talium amicitia transit be 
+          <lb ed="#B1" n="28"/>neficio utilitatis cessante. Amicitia autem propter delectabile est proprie iu 
+          <lb ed="#B1" n="29"/>uenum lasciuiae uiuentium, &amp; cessat uelociter delectatione transeunte: &amp; ideo 
+          <lb ed="#B1" n="30"/>dicit Aristot. quod amicitiae iuuenum sunt de facili transmutabiles propter duo:  
+          <lb ed="#B1" n="31"/>primo, quia secundum aetatem uariatur delectatio. Non enim eadem delecta 
+          <lb ed="#B1" n="32"/>tio placet adolescenti, quae placuit puero. Secundo, quia incipiunt amare non 
+          <lb ed="#B1" n="33"/>ex perfecto iudicio rationis, sed ex passione. Passio autem cito transit, &amp; ideo 
+          <lb ed="#B1" n="34"/>uelociter amant, &amp; uelociter ab amore cessant.
+        </p>
+        <p xml:id="rhwis-l45-d1e324">
+          <lb ed="#B1" n="35"/>Sed tertia amicitia quae est propter bonum honestum habet istas conditio 
+          <lb ed="#B1" n="36"/>nes, quod est mansiua &amp; rara: quia fundatur super bonos mores, qui in uir 
+          <lb ed="#B1" n="37"/>tuosis semper manent. Rara autem est: quia pauci sunt uirtuosi. Et indiget haec 
+          <lb ed="#B1" n="38"/>amicitia longo tempore &amp; conuictu &amp; experientia morum. Vnde dicit Ari 
+          <lb ed="#B1" n="39"/>stot. ibidem: Nulli se inuicem cognoscunt, nisi mensuram salis participauerint. 
+          <lb ed="#B1" n="40"/>Item ibidem non est scire ad inuicem amicos antequam sal consumeretur. 
+          <lb ed="#B1" n="41"/>Cum ergo uiri ad uxorem debet esse amicitia maxima non poterit fundari su 
+          <lb ed="#B1" n="42"/>per pulchritudinem corporalem: quia illa transibit, Proverb. trigesimo primo:  
+          <lb ed="#B1" n="43"/>Fallax gratia &amp; vana est pulchritudo: mulier timens DEVM, ipsa laudabi  
+          <lb ed="#B1" n="44"/>tur. Nec poterit fundari super diuitias: quia illa amicitia est propter utile 
+          <lb ed="#B1" n="45"/>Est &amp; amicitia per accidens: quia bona diliguntur &amp; non persona. Vnde 
+          <lb ed="#B1" n="46"/>Hieronym. contra louia. lib. 1. Martia Catonis filia minor cum quaereretur ab 
+          <lb ed="#B1" n="47"/>ea: Cur post amissum maritum denuo non nuberet: Respondit: Non se in 
+          <lb ed="#B1" n="48"/>uenire uirum qui se magis uellet quam sua. Quo dicto Hieronymus elegan 
+          <lb ed="#B1" n="49"/>ter ostendit, diuitias magis eligi solere quam amicitiam. Haec Hierony  
+          <lb ed="#B1" n="50"/>mus. Sed certe modernis temporibus nec pudicitia nec honestas morum 
+          <lb ed="#B1" n="51"/>mouent ad nuptias, sed tantum diuitiae uel libido, &amp; ideo nec perseuerat  
+          <lb ed="#B1" n="52"/>amicitia nec prouenit proles apta inter coniuges ut frequenter. Vnde 
+          <lb ed="#B1" n="53"/>Chrysost. in imperfecto opere secundum nostram linguam, super Matthaeum 
+          <!--sap_Page_195.xml-->
+          <pb ed="#B1" n="161"/>
+          <lb ed="#B1" n="1"/>Homel. 1. exponens illud Matthaei 1. Salomon genuit Boos de Raab: quia, in 
+          <lb ed="#B1" n="2"/>quit, secundum imperium DEI accepit uxorem a DEO promissam in uirtute 
+          <lb ed="#B1" n="3"/>generauit filios, &amp; in seipsis uirtutem habentes. Boos enim robur interpreta 
+          <lb ed="#B1" n="4"/>tur. Qui autem accipiunt uxores ex promissione Diaboli, in infirmitate gene 
+          <lb ed="#B1" n="5"/>rant filios, nec ualentes, nec fortes nisi in malo, ut ad poenam suae religiositatis, 
+          <lb ed="#B1" n="6"/>non ad gaudium &amp; consolationem uideantur filios genuisse. Et infra: Boos 
+          <lb ed="#B1" n="7"/>ex Ruth genuit Obeth, qui interpretatur subditus. Nunc autem qui diuitias 
+          <lb ed="#B1" n="8"/>elegerunt &amp; non mores, pulchritudinem &amp; non fidem: &amp; quod in meretrici 
+          <lb ed="#B1" n="9"/>bus solet quaeri, hoc in coniugibus optant: propterea non generant subditos  
+          <lb ed="#B1" n="10"/>sibi filios, nec DEO, sed contumaces: &amp; contra se &amp; contra DEVM, ut filij 
+          <lb ed="#B1" n="11"/>eorum non sint fructus iustae commixtionis eorum. Haec Chrysost. Huius 
+          <lb ed="#B1" n="12"/>exemplum habemus expresse Thobiae 6. ubi legimus, quod Sara filia Rague 
+          <lb ed="#B1" n="13"/>lis septem uiris tradita erat, quos singulos prima nocte daemonium quod 
+          <lb ed="#B1" n="14"/>dam nomine Asmodaeus suffocauit, manente uirgine intacta. Et ideo cum 
+          <lb ed="#B1" n="15"/>Raphael suggeret iuniori Thobiae, ut eam duceret, &amp; quod sibi debebatur u 
+          <lb ed="#B1" n="16"/>xor: Timenti Thobiae dixit ita: Audi me &amp; ostendam tibi, quae sunt quibus 
+          <lb ed="#B1" n="17"/>praeualere potest daemonium. Hi nanque qui coniugium ita suscipiunt, ut  
+          <lb ed="#B1" n="18"/>DEVM a se &amp; a suis mentibus excludant, &amp; sui libidini uacent sicut equus &amp;  
+          <lb ed="#B1" n="19"/>mulus, in quibus non est intellectus, habet super eos potestatem daemonium, 
+          <lb ed="#B1" n="20"/>Tu autem cum acceperis eam, ingressus cubiculum per tres dies, continens 
+          <lb ed="#B1" n="21"/>esto ab ea, &amp; nihil aliud facies nisi orationibus uacabis cum ea. Transacta tertia 
+          <lb ed="#B1" n="22"/>nocte accipies uirginem cum timore DEI, &amp; magis filiorum amore, quam li  
+          <lb ed="#B1" n="23"/>bidine ductus, ut in semine Abrahae benedictionem in filijs consequaris. Et  
+          <lb ed="#B1" n="24"/>notandum, quod haec fuit occasio quare filij Seth recesserunt a Domino, &amp; 
+          <lb ed="#B1" n="25"/>quare diluuium inundauit, Genes. 6. Cum cepissent homines multiplicari 
+          <lb ed="#B1" n="26"/>super terram, &amp; filios procreassent, uidentes filij DEI filias hominum: id est, 
+          <lb ed="#B1" n="27"/>filij Seth filias Cain quod essent pulchrae, acceperunt sibi uxores ex omnibus 
+          <lb ed="#B1" n="28"/>quas elegerant. Sic ergo primo uolenti nubere est uxor eligenda discrete 
+          <lb ed="#B1" n="29"/>Exemplum quomodo Abraham coniurauerat Eleaxar, quod non acciperet  
+          <lb ed="#B1" n="30"/>uxorem filio suo lsaac de filiabus Chanaan, Genes. 24. Iacob etiam cum matu  
+          <lb ed="#B1" n="31"/>ra deliberatione sibi de uxoribus prouidit, seruiens pro eis 14. annis, Genesis 
+          <lb ed="#B1" n="32"/>uigesimonono.
+        </p>
+        <p xml:id="rhwis-l45-d1e441">
+          <lb ed="#B1" n="33"/>Secundo est uxor regenda mansuete, non cum tyrannica austeritate uel ri 
+          <lb ed="#B1" n="34"/>gore: uerbis, non uerberibus: amore, non timore: dulcedine, non amaritudine, 
+          <lb ed="#B1" n="35"/>ad Colossens. 3. Viri diligite uxores uestras, &amp; nolite esse amari ad illas. Vnde 
+          <lb ed="#B1" n="36"/>formata fuit mulier: Non de capite, non de pede: sed de costa, assumpta de la 
+          <lb ed="#B1" n="37"/>tere. In signum quod nec debet esse domina, nec ancilla, sed socia uiro suo: sicut  
+          <lb ed="#B1" n="38"/>notat Magister 2. Sent. dist. 18. Et tale regimen cum concordia est tertium ne 
+          <lb ed="#B1" n="39"/>gocium in quo Spiritus sanctus sibi dicit beneplacitum esse, Eccles. 35. In tri 
+          <lb ed="#B1" n="40"/>bus beneplacitum est spiritui meo, quae sunt probata coram DEO &amp; homi 
+          <lb ed="#B1" n="41"/>nibus: Concordia fratrum, amor proximorum, &amp; uir &amp; mulier sibi con 
+          <lb ed="#B1" n="42"/>sentientes.
+        </p>
+        <p xml:id="rhwis-l45-d1e465">
+          <lb ed="#B1" n="43"/>Tertio est uxor corrigenda secrete, non confusione uel uerecundia publi  
+          <lb ed="#B1" n="44"/>ce uel contemptibiliter arguenda. Vnde Varro in quadam Comoedia: Vi 
+          <lb ed="#B1" n="45"/>tium coniugis aut tollendum aut ferendum dicit. Qui tollit uitium, commo 
+          <lb ed="#B1" n="46"/>diorem coniugem efficit: qui fert, seipsum efficit meliorem. Et merito arguen 
+          <lb ed="#B1" n="47"/>da fuit seuera austeritas trium uirorum, de quibus narrat Valerius lib. 6. cap. 3. 
+          <lb ed="#B1" n="48"/>quorum primus uocabatur Gallus Sulpitius, hic publice uxorem repudiauit:  
+          <lb ed="#B1" n="49"/>quia in publicum prodierat discooperto capite. Secundus uero dicebatur Se 
+          <lb ed="#B1" n="50"/>xius Sophus, hic simpliciter uxorem repudiauit: quia est ausa ludos spectare 
+          <lb ed="#B1" n="51"/>ipso ignorante. Tertius dicebatur Metellius, hic uxorem, eo quod uinum 
+          <lb ed="#B1" n="52"/>bibisset, fuste percussam interemit. Non sic sanctus Iob uxorem licet pessimam  
+          <!--sap_Page_196.xml-->
+          <pb ed="#B1" n="162"/>
+          <lb ed="#B1" n="1"/>arguebat, sed secrete &amp; modeste quasi, inquit, una de stultis mulieribus locuta 
+          <lb ed="#B1" n="2"/>es, Iob. 2. nec dixit quod fuit stulta: sed quasiuna de stultis loquebatur.
+        </p>
+        <p xml:id="rhwis-l45-d1e498">
+          <lb ed="#B1" n="3"/>Quarto est uxor diligenda complete. Istam completionem charitatis &amp; a 
+          <lb ed="#B1" n="4"/>micitiae quae debet esse inter uirum &amp; mulierem Apostolus mensurat triplici 
+          <lb ed="#B1" n="5"/>ter. Primo modo per dilectionem DEI ad Ecclesiam quae fuit maxima. Alio 
+          <lb ed="#B1" n="6"/>modo per dilectionem uiri ad corpus proprium: &amp; tertio modo per dilectio 
+          <lb ed="#B1" n="7"/>nem viri ad seipsum. Pro primo dicit ad Ephes. 5. Viri diligite uxores uestras, 
+          <lb ed="#B1" n="8"/>sicut &amp; CHRISTVS Ecclesiam, &amp; tradidit semetipsum pro ea. Pro secundo ibi  
+          <lb ed="#B1" n="9"/>dem uiri debent diligere uxores suas, sicut &amp; corpora sua. Pro tertio ibidem, 
+          <lb ed="#B1" n="10"/>unusquisque diligatuxorem suam sicut semetipsum. Nec mirum. Sunt enim bo 
+          <lb ed="#B1" n="11"/>nae uxores gratae in conuiuendo, condolendo &amp; commoriendo.
+        </p>
+        <p xml:id="rhwis-l45-d1e520">
+          <lb ed="#B1" n="12"/>Vnde narrat Valerius de regina uxore Mithridatis lib. 4. cap. 6. Quae in tan 
+          <lb ed="#B1" n="13"/>tum effusis charitatis habenis uirum amauit, quod tonsis capillis, habituque ui  
+          <lb ed="#B1" n="14"/>rili assumpto, equis &amp; armis se assuefecit, ut uirum fugientem continue per ter 
+          <lb ed="#B1" n="15"/>ras extraneas sequeretur. Narrat ibidem gratitudinis exemplum excessiuum 
+          <lb ed="#B1" n="16"/>Tyberius Gracchus Romanus duos apprehendit angues, masculum &amp; foemi 
+          <lb ed="#B1" n="17"/>nam. Nam certificatus fuit per aruspicem quod dimisso masculo uxor sua ce 
+          <lb ed="#B1" n="18"/>leriter moreretur: dimissa foemina ipse moreretur. Ille statim foeminam dimitti 
+          <lb ed="#B1" n="19"/>iussit, sustinuitque in conspectu suo semetipsum, in interitu serpentis occidi 
+          <lb ed="#B1" n="20"/>Secundo sunt gratae &amp; piae in condolendo. Narrat enim Valerius ibidem, 
+          <lb ed="#B1" n="21"/>quod cum Lacedaemoni a Spartanis essent capti, &amp; ad decollandum in carcere 
+          <lb ed="#B1" n="22"/>conseruati: coniuges eorum illustris sanguinis uelut allocuturae perituros ui  
+          <lb ed="#B1" n="23"/>ros, intrauerunt carcerem, impetrato a custodibus aditu, commutataqe ueste 
+          <lb ed="#B1" n="24"/>per simulationem doloris, uelatis capitibus eos abire passi sunt: &amp; ita ipsi &amp; 
+          <lb ed="#B1" n="25"/>ipsae saluabantur. Tertio sunt gratae in commoriendo. Narrat Hieron. contra 
+          <lb ed="#B1" n="26"/>louinianum lib. 1. quod omnes fere barbari uxores plurimas habent. Apud  
+          <lb ed="#B1" n="27"/>eos lex est, ut uxor charissima cum marito defuncto cremetur: haec ergo con 
+          <lb ed="#B1" n="28"/>tendunt inter se de amore uiri, &amp; ambitio certantium summa est. Ac testimo 
+          <lb ed="#B1" n="29"/>nium castitatis dignam morte decerni. Itaqe uictrix in habitu ornatuque peristino  
+          <lb ed="#B1" n="30"/>iuxta cadauer accubat, amplexans illud, &amp; deosculans, &amp; suppositos ignes pu 
+          <lb ed="#B1" n="31"/>dicitiae laude contemnens, Eccles. 26. Mulieris bonae beatus uir.
+        </p>
+        <p xml:id="rhwis-l45-d1e566">
+          <lb ed="#B1" n="32"/>Et ne propter bona coniugij supradicta aliquis inconsulte ad nuptias mo 
+          <lb ed="#B1" n="33"/>ueatur. Notanda sunt uerba Hugonis de sancto Victore in quodam libello,  
+          <lb ed="#B1" n="34"/>quem scripsit ad quendam senem, uolentem nubere, ita dicentis: Non est uxor du 
+          <lb ed="#B1" n="35"/>cenda sapienti. Probatio: primo, quia studium Philolophiae impedit nec potest 
+          <lb ed="#B1" n="36"/>quisquam libris &amp; uxori pariter inseruire. Multa sunt quae matronarum usibus 
+          <lb ed="#B1" n="37"/>necessaria sunt, uidelicet preciosae uestes, gemmae, sumptus, ancillae, supellex  
+          <lb ed="#B1" n="38"/>uaria: deinde per totas noctes garrulae quaestiones. Illa ornatior me procedit in 
+          <lb ed="#B1" n="39"/>publicum, haec honoratur ab omnibus. Ego in conuentu foeminarum miser 
+          <lb ed="#B1" n="40"/>rima despicior. Cur uicinam aspiciebas: Cur cum ancilla loquebaris: De fo 
+          <lb ed="#B1" n="41"/>ro ueniens quid attulisti: Non amicum habere possumus. Non sodalem: alte 
+          <lb ed="#B1" n="42"/>rius amorem suum suspicatur odium. Et infra. Adde quod nulla est uxoris ele 
+          <lb ed="#B1" n="43"/>ctio: sed qualis aduenerit, talis sit habenda. Si iracunda, si fatua, si deformis, si 
+          <lb ed="#B1" n="44"/>foetida cuiuscunque uitij est, post nuptias discimus: equus, asinus, bos, canis &amp;  
+          <lb ed="#B1" n="45"/>uilissima mancipia prius probantur, &amp; sic emuntur: sola uxor non ostenditur:  
+          <lb ed="#B1" n="46"/>Ne ante displiceat quam ducatur. Idem in eodem, attendenda est semper eius 
+          <lb ed="#B1" n="47"/>facies &amp; pulchritudo laudanda ne si alteram inspexeris, se aestimet displicere. 
+          <lb ed="#B1" n="48"/>Si totam domum ei regendam commiseris, seruiendum est, si aliquid tuo arbi  
+          <lb ed="#B1" n="49"/>trio reseruaueris, fidem se habere non putabit, &amp; in odium uertetur &amp; iurgia. Et  
+          <lb ed="#B1" n="50"/>nisi cito consuleris, uenena parabit. Haec Hugo. Quantum sit uxor occultae 
+          <lb ed="#B1" n="51"/>molestiae uiro suo quantumcunque grata sitextraneis, declarat ille Romanus 
+          <lb ed="#B1" n="52"/>de quo refert Hieronym. contra louin. lib. 1. Legimus quendam apud Roma 
+          <!--sap_Page_197.xml-->
+          <pb ed="#B1" n="163"/>
+          <lb ed="#B1" n="1"/>nos nobilem, cum eum amici arguerent, quare uxorem formosam, &amp; castam  
+          <lb ed="#B1" n="2"/>&amp; diuitem repudiasset: pertendisse pedem &amp; dixisse eis fertur: Hic soccus 
+          <lb ed="#B1" n="3"/>quem cernitis uidetur uobis nouus &amp; elegans, sed nemo praeter me scit ubi  
+          <lb ed="#B1" n="4"/>me premit. Ad hoc addendum, quod incomprehensibilis est uiro suo uxoris  
+          <lb ed="#B1" n="5"/>malicia, ut frequenter: &amp; eius impudicitia etiamsi uulgo constat delusus ma 
+          <lb ed="#B1" n="6"/>ritus iuramentis excusat. Vnde narrat Hierony. ubi supra: Lucij Sillae felicis, si 
+          <lb ed="#B1" n="7"/>non habuisset uxorem Metellam: uxor palam erat impudica: &amp; quia nouissi  
+          <lb ed="#B1" n="8"/>mum nostra mala discimus. Idem Athenis cantabatur, &amp; Silla ignorabat se 
+          <lb ed="#B1" n="9"/>creta domus suae primum hostium conuitio didicit. Haec Hieron. Vnde me 
+          <lb ed="#B1" n="10"/>trice dicimus.
+          <!-- missing 4 lines and line coordinates for ending verse lines 
+          Coniugis et nati vitium vix nosse valemus, 
+          Quodque domi geritur postremi forte sciemus. 
+          Cum coniunx, natus, servus peccat vel alumnus, 
+          Cantica vulgus habet, nos tamen ista Latent.
+          -->
+        </p>
+        <p xml:id="rhwis-l45-d1e643">
+          <lb ed="#B1" n="11"/>POSTQVAM Spiritus sanctus commendauit castitatem coniugij: 
+          <lb ed="#B1" n="12"/>Hic redit ad damnandum foeditatem adulterij siue concubitus for 
+          <lb ed="#B1" n="13"/>nicarij, sicut prius fecit pro parte
+        </p>
+        <p xml:id="rhwis-l45-d1e652">
+          <lb ed="#B1" n="14"/>Est tamen hic notandum quod omnis humana persona dupli  
+          <lb ed="#B1" n="15"/>cem habere potest bonitatem: unam sibi propriam uiuendo uirtuose in sua 
+          <lb ed="#B1" n="16"/>persona: aliam ciuilem uiuendo ciuiliter Reipublicae. Vnde non est idem esse  
+          <lb ed="#B1" n="17"/>bonum uirum &amp; bonum ciuem. Cuius ratio est, quia bona persona dicitur quae 
+          <lb ed="#B1" n="18"/>uiuit conformiter legi datae communiter pro omnibus, sed ciuis bonus non est, 
+          <lb ed="#B1" n="19"/>nisi qui uiuit utiliter ciuitati, cuius pars est. Modo prius ostensum est, quod ut  
+          <lb ed="#B1" n="20"/>communiter personae de fornicatione generatae non sunt morigeratae, nec bo 
+          <lb ed="#B1" n="21"/>nae personaliter, propter defectum educationis personalis. Ideo Spiritus san 
+          <lb ed="#B1" n="22"/>ctus hic consequenter ostendit, quod non sunt apti ad communitatem ciui  
+          <lb ed="#B1" n="23"/>lem, unde continuatio talis est. Postquam ostendit, quod generatio coniugalis  
+          <lb ed="#B1" n="24"/>summe ualet ad continuandum terreni regni perpetuitatem: quia sicut dictum est 
+          <lb ed="#B1" n="25"/>in perpetuum coronata triumphat: Hic ostendit quod generatio adulterina 
+          <lb ed="#B1" n="26"/>summe dispergit terreni regni ciuilitatem. Et circa hoc duo facit: quia pri 
+          <lb ed="#B1" n="27"/>mo ostendit quod talis generatio nunquam poterit iustas leges pro repu 
+          <lb ed="#B1" n="28"/>blica ordinare, stante illo principio de fornicatoria generatione continuan 
+          <lb ed="#B1" n="29"/>da. Secundo ostendit, quod dato, quod leges rationabiles possent or 
+          <lb ed="#B1" n="30"/>dinare, leges tales tamen propter maliciam nullo modo possunt durare. Et  
+          <!--sap_Page_198.xml-->
+          <pb ed="#B1" n="164"/>
+          <lb ed="#B1" n="1"/>tertio super istis assignat rationem quare. Secunda pars est ibi: Et si in ramis:cr 
+          <lb ed="#B1" n="2"/>tia pars ibi: confringentur.
+        </p>
+        <p xml:id="rhwis-l45-d1e700">
+          <lb ed="#B1" n="3"/>Circa primum est sciendum, quod in omni ciuilitate ordinanda debite, istud  
+          <lb ed="#B1" n="4"/>requiritur circa leges: primo quod sint concorditer ordinatae: secundo quod 
+          <lb ed="#B1" n="5"/>sint per consuetudinem obseruatae: &amp; tertio quod sint per rationes naturaliter 
+          <lb ed="#B1" n="6"/>fundatae. Modo sic est, quod seruando leges concupitus fornicarij iuxta senten 
+          <lb ed="#B1" n="7"/>tiam impiorum, supra cap. 2. Nullum pratum sit quod non pertranseat luxu 
+          <lb ed="#B1" n="8"/>ria nostra: nunquam possunt ista praedicta obseruari. Ergo illa lex nihil ualet.  
+          <lb ed="#B1" n="9"/>Quantum ergo ad primum uidelicet quod leges ciuiles per tales gentes nun 
+          <lb ed="#B1" n="10"/>quam poterunt bene ordinari, probatur sic: Nulla lex potest statui ex concor 
+          <lb ed="#B1" n="11"/>di uoluntate gentis alicuius, sed talis gens quae ex una parte est impia in se 
+          <lb ed="#B1" n="12"/>ipsa, &amp; ex alia parte multigena: id est, ex distinctis &amp; diuersis generibus edu 
+          <lb ed="#B1" n="13"/>cata: nunquam bene concordabit in lege statuenda. Ergo talis gens non est 
+          <lb ed="#B1" n="14"/>utilis ad constituendum leges ciuiles. Ista ratio exprimitur sub hac forma. Mul  
+          <lb ed="#B1" n="15"/>tigena autem impiorum multitudo non erit vtilis, supple ad aliquod spectans ad  
+          <lb ed="#B1" n="16"/>administrationem uitae praesentis: quia sicut sunt naturaliter de multis gene 
+          <lb ed="#B1" n="17"/>ribus: ita etiam sunt diuersificati in uoluntatibus: &amp; ideo ualde difficile est 
+          <lb ed="#B1" n="18"/>quod gens multum commixta de diuerso sanguine, puta de Romanis, Galli  
+          <lb ed="#B1" n="19"/>cis, Anglicis, &amp; Britonibus sit concors ad aliquod statuendum utiliter: quia 
+          <lb ed="#B1" n="20"/>in tali communitate quilibet diligit seipsum &amp; nullus rempublicam. Sicut per 
+          <lb ed="#B1" n="21"/>oppositum satis patet. Sint sex uel septem fratres legitimi, qui pro aliqua ciui  
+          <lb ed="#B1" n="22"/>litate uel communitate zelum habeant, magis erunt illi ciuitati utiles quam 
+          <lb ed="#B1" n="23"/>duo de illegitimo sanguine procreati: sicut patet per exemplum de Macha 
+          <lb ed="#B1" n="24"/>baeis in utroque libro per totum: &amp; haec est sententia illius textus. Multige 
+          <lb ed="#B1" n="25"/>na autem impiorum multitudo non estutilis. Secundo necessarium est, quod  
+          <lb ed="#B1" n="26"/>leges bene excogitatae sint per approbationem longam &amp; consuetudinem ra 
+          <lb ed="#B1" n="27"/>dicatae: sed hoc non potest fieri in humano genere, dato indifferenter fornicario 
+          <lb ed="#B1" n="28"/>concubitu &amp; adulterino. Et ratio est, quia talis progenies non dabit radices al  
+          <lb ed="#B1" n="29"/>tas: id est, bonas genealogias antiquas: hoc est, non poterit allegare: sic fecit 
+          <lb ed="#B1" n="30"/>auus meus, sic proauus, sic abauus, sic omnes progenitores mei: quia in gene 
+          <lb ed="#B1" n="31"/>ratione illegitima nullus posset gradus computari, si generatio per solam libi  
+          <lb ed="#B1" n="32"/>dinem regularetur. Et haec ratio innuitur cum dicitur: Et adulterinae generatio  
+          <lb ed="#B1" n="33"/>nes non dabunt radices altas.
+        </p>
+        <p xml:id="rhwis-l45-d1e770">
+          <lb ed="#B1" n="34"/>Tertio necessarium est quod leges bene excogitatae sint per bonas rationes  
+          <lb ed="#B1" n="35"/>fundatae: sed homines lubrici &amp; carnales nunquam hoc facere possunt: omnes 
+          <lb ed="#B1" n="36"/>autem legislatores oportet esse uirtuosos. Isti autem tales non sunt. Vnde nec 
+          <lb ed="#B1" n="37"/>stabile fundamentum collocabunt, Eccl. 49. Rector fratrum stabilimentum po 
+          <lb ed="#B1" n="38"/>puli, &amp; eiusdem principatus sensatus est stabilis
+        </p>
+        <p xml:id="rhwis-l45-d1e783">
+          <lb ed="#B1" n="39"/>Secundo principaliter in ista lectione assignat causam quare propagatio il  
+          <lb ed="#B1" n="40"/>legitima non est utilis Reipublicae: quia nulla lex durabit hoc stante, etiam  
+          <lb ed="#B1" n="41"/>si per seniores ordinetur. Cuius ratio est: quia filij tales non recipiunt monita 
+          <lb ed="#B1" n="42"/>patrum. Sicut enim rami debile nutrimentum recipientes a radicibus germi 
+          <lb ed="#B1" n="43"/>nare uel florere possunt, sed non fructificare: ita nec isti, licet possint incipere 
+          <lb ed="#B1" n="44"/>uirtuose agere: non tamen possunt continuare. Vnde a qualibet mutatione 
+          <lb ed="#B1" n="45"/>mundi ipsi etiam mutabuntur. Ita quod licet in iuuentute sua paternas educa 
+          <lb ed="#B1" n="46"/>tiones ad temporis recipiant, tamen infirmiter positi, a vento: id est, a contradi 
+          <lb ed="#B1" n="47"/>ctione mouebuntur: id est, ad dissensum, a nimietate: id est, ab excessu contradi 
+          <lb ed="#B1" n="48"/>ctionis &amp; tribulationis eradicabuntur: id est, suam paternam legem dimittent. 
+          <lb ed="#B1" n="49"/>Vnde patet quod gens adulterina non est utilis Reipublicae.
+        </p>
+        <p xml:id="rhwis-l45-d1e809">
+          <lb ed="#B1" n="50"/>Hic est dubitatio literalis. Primo utrum in actu adulterij grauius peccet 
+          <lb ed="#B1" n="51"/>uir quam uxor.
+        </p>
+        <p xml:id="rhwis-l45-d1e817">
+          Videtur quod non: imo aequaliter: quia ad poenam diuortij 
+          <lb ed="#B1" n="52"/>propter adulterium iudicantur a pari: Ergo cum poena debeat adaequari pec 
+          <!--sap_Page_199.xml-->
+          <pb ed="#B1" n="165"/>
+          <lb ed="#B1" n="1"/>cato, uidetur quod aequaliter peccent: Antecedens patet 32: quaest. 5. Prae 
+          <lb ed="#B1" n="2"/>cepit, ubi dicitur sic: Si apud nos quod non licet foeminis, aeque non licet  
+          <lb ed="#B1" n="3"/>uiris, &amp; eadem seruitus pari conditione censetur. Item in eadem quaestio 
+          <lb ed="#B1" n="4"/>ne Christiana: &amp; recitat <ref xml:id="rhwis-l45-Rd1e834">Magister Sent. 4. lib. dist. 35</ref>. primo Christiana re 
+          <lb ed="#B1" n="5"/>ligio adulterium in utroque sexu pari ratione condemnat: Ergo pari peccato  
+          <lb ed="#B1" n="6"/>peccant.
+        </p>
+        <p xml:id="rhwis-l45-d1e842">
+          <lb ed="#B1" n="7"/>Ad quaestionem dicendum quod caeteris paribus plus peccatuxor. No 
+          <lb ed="#B1" n="8"/>tandum est tamen, quod quantum ad bonum fidei qua uterque alteri obliga 
+          <lb ed="#B1" n="9"/>tur aequaliter peccant: quia aequaliter obligantur. Sed ulterius quantum ad 
+          <lb ed="#B1" n="10"/>bonum prolis plus peccatmulier: quia causat incertitudinem prolis. Vnde 
+          <lb ed="#B1" n="11"/>simpliciter loquendo, plus peccatuxor adultera quam uir adulter.
+        </p>
+        <p xml:id="rhwis-l45-d1e855">
+          Ad argu 
+          <lb ed="#B1" n="12"/>mentum in oppositum concedendum est, quod ad paria iudicantur in causa 
+          <lb ed="#B1" n="13"/>diuortij: quia illud propter quod faciendum est diuortium est fractio fidei: &amp; 
+          <lb ed="#B1" n="14"/>quantum ad hoc aequaliter peccant in actu adulterij: non tamen aequaliter sim 
+          <lb ed="#B1" n="15"/>pliciter. Vnde dicendum quod ad aequalem poenam iudicantur, sed non ex aequa 
+          <lb ed="#B1" n="16"/>libus causis. Sicut duo fures, quorum unus est in duplo peior alio ad aequalem  
+          <lb ed="#B1" n="17"/>poenam, uidelicet suspendium iudicantur: licet enim ad aequalem poenam iu 
+          <lb ed="#B1" n="18"/>dicentur: non tamen sequitur quod aequaliter peccent: quia mulier peccat con 
+          <lb ed="#B1" n="19"/>tra bonum fidei, &amp; contra bonum prolis: &amp; ideo causa diuortij in muliere est 
+          <lb ed="#B1" n="20"/>maior: licet in utroque sit causa sufficiens.
+        </p>
+        <p xml:id="rhwis-l45-d1e877">Secundo potest esse dubium utrum 
+          <lb ed="#B1" n="21"/>fornicando caeteris paribus plus peccet uir quam mulier.
+        </p>
+        <p xml:id="rhwis-l45-d1e882">
+          Dicunt doctores sicut  
+          <lb ed="#B1" n="22"/>sanctus Thomas 4. Sen. di. 35. q. 1 ar. 4. Quod uir. Et ratio est: quia plus habent  
+          <lb ed="#B1" n="23"/>de bono rationis, licet mulier plus habeat de materia tentationis: quia magis 
+          <lb ed="#B1" n="24"/>est fragilis. Sed contra ista est Augustinus de Adulterio coniugatorum, &amp; po 
+          <lb ed="#B1" n="25"/>nitur in Cano. 32. q. 5. Indignantur. Indignatur, inquit, maritis, si audiant ad 
+          <lb ed="#B1" n="26"/>ulteros uiros pendere similes adulteris foeminis poenas: tunc tanto grauius eos 
+          <lb ed="#B1" n="27"/>puniri oportuit, quanto magis ad eos pertinet &amp; uirtute uincere, &amp; exemplo 
+          <lb ed="#B1" n="28"/>regere foeminas.
+        </p>
+        <p xml:id="rhwis-l45-d1e900">
+          Ad istud dicendum est, quod licet uir quantum ad unam cir 
+          <lb ed="#B1" n="29"/>cumstantiam grauius peccet, puta quantum ad hoc quod magis tenetur uige 
+          <lb ed="#B1" n="30"/>re uirtute, &amp; ratione: tamen pensando omnes circustantias mulier magis pec 
+          <lb ed="#B1" n="31"/>cat. Beatus autem Augustinus non loquitur in dicta autoritate, nisi de sola cir 
+          <lb ed="#B1" n="32"/>cumstantia uirtutis &amp; rationis, quae in uiro debet praeeminere. Hanc tamen 
+          <lb ed="#B1" n="33"/>uiam, uidelicet quod uir plus peccat, tenet Petrus de Tarentasia dist. 35. 4. 4: 
+          <lb ed="#B1" n="34"/>Sed contrarium tenet sanctus Tho. &amp; Richardus de media uilla in scriptis suis. 
+          <lb ed="#B1" n="35"/>Auctor uero summae confessorum lib. 4. cap. 22. quaest. 9. respondet ponendo 
+          <lb ed="#B1" n="36"/>uerba Petri: dicit enim Petrus quod uir plus peccat, &amp; addit in fine. Idem per 
+          <lb ed="#B1" n="37"/>omnia dicit S. Thomas lib. 4. quod tamen salua pace sua non est uerum, imo 
+          <lb ed="#B1" n="38"/>dicunt recte contraria. Dicit enim Petrus quod uir plus peccat propter re 
+          <lb ed="#B1" n="39"/>dundantiam rationis. Thomas uero quod mulier, quia plus facit contra bonum 
+          <lb ed="#B1" n="40"/>matrimonij.
+        </p>
+        <p xml:id="rhwis-l45-d1e930">
+          Tertio potest esse dubium. Vtrum plus peccet caeteris paribus 
+          <lb ed="#B1" n="41"/>uir adulterando quam sacerdos fornicando.
+        </p>
+        <p xml:id="rhwis-l45-d1e935">
+          Et dico pro nunc quod caeteris  
+          <lb ed="#B1" n="42"/>paribus sacerdos plus peccat. Ratio est: quia sacerdos uouit solenniter con 
+          <lb ed="#B1" n="43"/>tinentiam ab omni muliere, &amp; totaliter se DEO dedicauit: uir iurauit mulie 
+          <lb ed="#B1" n="44"/>ri fidelitatem, &amp; ad oppositum continentiae se obligauit, si uelit uxor: hoc 
+          <lb ed="#B1" n="45"/>est, ad oppositum actum: Ergo sacerdos magis se elongauit ab actu carnis: 
+          <lb ed="#B1" n="46"/>quia uouit quod nunquam cum aliqua. Item magis solenniter uouit quam 
+          <lb ed="#B1" n="47"/>coniugatus iurauit: quia uotum suum est solenniaeatum per sacrum ordinem, 
+          <lb ed="#B1" n="48"/>quod sacramentum est maioris reuerentiae quam matrimonium: sicut omnes 
+          <lb ed="#B1" n="49"/>clerici confitentur: &amp; eertitudinaliter hoc est uerum. Quia illud sacramentum 
+          <lb ed="#B1" n="50"/>directe &amp; immediate applicat hominem ad conficiendum corpus CHRISTI: 
+          <lb ed="#B1" n="51"/>uerum in Sacramento altaris quod est maximum quod potest homini com 
+          <lb ed="#B1" n="52"/>municari in hac uita. Sed contra non plus tenetur sacerdos quam diaconus: 
+          <lb ed="#B1" n="53"/>&amp; subdiaconus: quia quando fit subdiaconus, uouet castitatem &amp; continen 
+          <!--sap_Page_200.xml-->
+          <pb ed="#B1" n="165"/>
+          <lb ed="#B1" n="1"/>tiam solenniter, &amp; nunquam postea: Hic sunt duo dicenda. Vnum quotiens  
+          <lb ed="#B1" n="2"/>cunque postea ordinatur totiens de facto protestatur se approbare uotum so 
+          <lb ed="#B1" n="3"/>lennixatum in prima susceptione sacri ordinis. Vnde sacerdos facit tres prote 
+          <lb ed="#B1" n="4"/>stationes de obseruanda continentia. Secundo dico, quod subdiaconus etiam  
+          <lb ed="#B1" n="5"/>magis peccat fornicando caeteris paribus quam coniugatus. Et ratio est: quia 
+          <lb ed="#B1" n="6"/>uotum suum est solennius propter sacramentum quod suscipit, &amp; propter fi 
+          <lb ed="#B1" n="7"/>nem ad quem ex tunc applicatur. Probare autem quod ordo sit solennius sa 
+          <lb ed="#B1" n="8"/>cramentum quam matrimonium reputo superuacuum. Istam solutionem de 
+          <lb ed="#B1" n="9"/>fornicatione sacerdotis &amp; adulteri confirmo per Can. 27. quaest. 1. cap. Sicut  
+          <lb ed="#B1" n="10"/>bonum &amp; ca. Proposito. In 1. cap. dicitur quod uiduae uouentes uirginitatem  
+          <lb ed="#B1" n="11"/>etiam &amp; frangentes uotum, peccant grauius quam adulteri: quod apparet esse  
+          <lb ed="#B1" n="12"/>propositum. Sed potest responderi quod illud capitulum loquitur de uiduis, 
+          <lb ed="#B1" n="13"/>quae primo uouerunt castitatem, &amp; postea contrahunt matrimonium, &amp; hoc 
+          <lb ed="#B1" n="14"/>est grauius quam uouere castitatem, &amp; postea fornicari: uerum est quod haec 
+          <lb ed="#B1" n="15"/>est intentio illius capituli: &amp; alterius cap. proposito. Vnde uterque Canon lo 
+          <lb ed="#B1" n="16"/>quitur de uouentibus castitatem, &amp; postea contrahentibus. Simile habetur de 
+          <lb ed="#B1" n="17"/>illis clericis fornicarijs dist. 32. eos. Ideo istis obmissis accipio media planiora:  
+          <lb ed="#B1" n="18"/>primo sic. Grauius peccatmonialis fornicando quam uxor adulterando: sicut  
+          <lb ed="#B1" n="19"/>dicit Augustinus de sancta uirginitate, longe ante medium. Sed grauius pec 
+          <lb ed="#B1" n="20"/>cat sacerdos fornicando quam monialis uel religiosus quicunque: non infra sa 
+          <lb ed="#B1" n="21"/>cros. Ergo grauius peccat quam adultera uel adulter: quia si grauius peccat 
+          <lb ed="#B1" n="22"/>quam adultera, tunc etiam grauius peccat quam adulter, sicut dictum est in 
+          <lb ed="#B1" n="23"/>prima dubitatione. Vnde uidetur mihi quod sacerdos est magis soleniter ob  
+          <lb ed="#B1" n="24"/>ligatus ad castitatem quam monachus, inquantum talis, nisi forte similiter in 
+          <lb ed="#B1" n="25"/>fra sacros, &amp; pari ratione magis quam sanctemonialis, uel quaecunque religiosa 
+          <lb ed="#B1" n="26"/>in quantum religiosa.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

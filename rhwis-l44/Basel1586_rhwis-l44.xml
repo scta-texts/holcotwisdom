@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 44 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 44 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="155"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l44">
+        <head xml:id="rhwis-l44-Hd1e95">Lectio 44</head>
+        <p xml:id="rhwis-l44-d1e98">
+          <!--sap_Page_189.xml-->
+          <pb ed="#B1" n="155"/>
+          <lb ed="#B1" n="1"/>POSTQVAM Spiritus sanctus probauit adulterinae ge 
+          <lb ed="#B1" n="2"/>ncrationis foeditatem: Hic commendat castae generationis  
+          <lb ed="#B1" n="3"/>honestatem: &amp; quia alternatim &amp; uicissim agit, modo de 
+          <lb ed="#B1" n="4"/>iustis, modo de impijs, ut ex contrariorum comparatione 
+          <lb ed="#B1" n="5"/>utriusque natura reluceat. Ideo primo ostendit castae genera 
+          <lb ed="#B1" n="6"/>tionis honestatem. Et secundo iterato adulterinae genera 
+          <lb ed="#B1" n="7"/>tionis replicatuilitatem, ibi: multigena. Circa primum tria 
+          <lb ed="#B1" n="8"/>facit secundum quod tres nobiles commendationes castitati tribuit coniuga 
+          <lb ed="#B1" n="9"/>li, uidelicet triplicitatem gloriae in propagatione: aeternitatem memoriae in ap  
+          <lb ed="#B1" n="10"/>probatione: solennitatem uictoriae in retributione. Secunda pars ibi: immorta 
+          <lb ed="#B1" n="11"/>lis. Tertia pars ibi: cum praesens est.
+        </p>
+        <p xml:id="rhwis-l44-d1e129">
+          <lb ed="#B1" n="12"/>Circa primum est advertendum, quod ad hoc, quod castitas coniugalis de 
+          <lb ed="#B1" n="13"/>bito modo seruetur, tria requirit, uidelicet sacramentalem sanctificationem, quaec 
+          <lb ed="#B1" n="14"/>conferat speciositatem, &amp; corporalem cohabitationem, quae seruet castitatem: 
+          <lb ed="#B1" n="15"/>&amp; quantum ad hoc dicit, casta generatio, &amp; prolis moralem educationem, quae 
+          <lb ed="#B1" n="16"/>conferat sanctitatem: &amp; quantum ad hoc dicit cum claritate &amp; correspondent 
+          <lb ed="#B1" n="17"/>istis tribus tria bona, quae sunt in matrimonio, uidelicet fides, proles, &amp; sacra 
+          <lb ed="#B1" n="18"/>mentum. Fides est fidelitas mutua in communicatione corporum: prolis edu 
+          <lb ed="#B1" n="19"/>catio bona filiorum &amp; filiarum ad cultum DEI. Sacramentum est repraesenta 
+          <lb ed="#B1" n="20"/>tio inseparabilis coniunctionis Ecclesiae CHRISTI. Ad horum euidentiam est 
+          <lb ed="#B1" n="21"/>notandum, quod nullus naturalis appetitus est in homine, cuius effectus non 
+          <lb ed="#B1" n="22"/>possit uirtuose impleri. Cuius causa est: quia natura instituta est a DEO. Vnde 
+          <lb ed="#B1" n="23"/>si natura ad actum inclinaret, qui actus nullo modo absque peccato posset exer 
+          <lb ed="#B1" n="24"/>ceri, homo a tali inclinatione foret inculpabilis propter naturalem inclinatio  
+          <lb ed="#B1" n="25"/>nem: &amp; simul cum hoc culpabilis, propter actus deordinationem, quae duo si 
+          <lb ed="#B1" n="26"/>mul stare non possunt. Nec potest dici quod natura humana hoc habet ex pec 
+          <lb ed="#B1" n="27"/>cato quod inclinat ad talem actum: quia talis inclinatio fuisset in statu inno 
+          <lb ed="#B1" n="28"/>centiae quamuis non praeuenisset rationem ante actum, nec rationem absor 
+          <lb ed="#B1" n="29"/>buisset in actu: &amp; ideo quia natura ad hoc inclinat, oportet dicere quod haec 
+          <lb ed="#B1" n="30"/>mclinatio a DEO est. Et per consequens quod possit fieri uirtuose si homo ue 
+          <lb ed="#B1" n="31"/>lit: quia contradictio est dicere quod homo inclinetur ad aliquid faciendum a 
+          <lb ed="#B1" n="32"/>DEO inclinatione naturae, &amp; etiam rationis, &amp; non posset illud facere uirtuo 
+          <lb ed="#B1" n="33"/>se. Vnde tenendum est quod actus generandi uirtuose &amp; meritorie exerceri po 
+          <lb ed="#B1" n="34"/>test infra limites coniugij. Secundo notandum circa bona matrimonij supra 
+          <lb ed="#B1" n="35"/>dicta, quae dicuntur actum carnalem excusare &amp; honestare, que sunt ista: fides, 
+          <lb ed="#B1" n="36"/>proles, &amp; sacramentum: quod fides in proposito non est uirtus Theologica: de 
+          <lb ed="#B1" n="37"/>qua dicitur: Fides est sperandarum rerum substantia argumentum non appa 
+          <lb ed="#B1" n="38"/>rentium, ad Hebr. 11 &amp; cap. 1. ad Corinth.13. Nunc manent fides, spes &amp; cha 
+          <lb ed="#B1" n="39"/>ritas, tria haec. Sed est quaedam uirtus moralis contenta sub iusticia per quam  
+          <!--sap_Page_190.xml-->
+          <pb ed="#B1" n="156"/>
+          <lb ed="#B1" n="1"/>homo implet efficaciter illud quod promisit. Vnde ad fidem istam inter con 
+          <lb ed="#B1" n="2"/>iuges seruandam requiritur, quod neuter alteri corpus deneget, nec alieno com  
+          <lb ed="#B1" n="3"/>cedat ad opus carnale, iuxta sponsionem quam in facie Ecclesiae contraxerunt.  
+          <lb ed="#B1" n="4"/>Bonum autem prolis addit, scilicet prolis educationem ad cultum DEI. Vnde 
+          <lb ed="#B1" n="5"/>qui habet multos &amp; male educatos, prolem habet, &amp; non bonum prolis. Si  
+          <lb ed="#B1" n="6"/>militer istud intentione sufficienter excusat matrimonium, &amp; honestat dato 
+          <lb ed="#B1" n="7"/>etiam quod nunquam habeatur proles in effectu: sicut inter steriles patet, qui  
+          <lb ed="#B1" n="8"/>mutuo reddendo sibi debitum non necessario peccant. Et generaliter in om 
+          <lb ed="#B1" n="9"/>nibus: Dicendum quod intentio bonae prolis est bonum prolis &amp; ante prolem 
+          <lb ed="#B1" n="10"/>Bonum autem sacramenti est inseparabilitas personarum matrimonio con 
+          <lb ed="#B1" n="11"/>iunctarum repraesentans inseparabilem unionem CHRISTI &amp; Ecclesiae. De 
+          <lb ed="#B1" n="12"/>hac ergo castitate exponi potest litera istius lectionis. De qua exclamando di 
+          <lb ed="#B1" n="13"/>cit: O quam pulchra est casta generatio. O, secundum Priscianum in maiori uo 
+          <lb ed="#B1" n="14"/>lumine ubi agit de interiectione, quandoque est nomen, quandoque est interiectio, 
+          <lb ed="#B1" n="15"/>&amp; quandoque aduerbium. Quando est nomen, est nomen literae quae uocatur o. 
+          <lb ed="#B1" n="16"/>Interiectio quando significat admirationem: Aduerbium quando est nota 
+          <lb ed="#B1" n="17"/>optandi uel uocandi. Vnde Poëta: 
+          <lb ed="#B1" n="18"/>O stupet o dubitat vocat indignatur &amp; optat.  
+          <lb ed="#B1" n="19"/>Clamat conqueritur, uelut exemplis reperitur.  
+          <lb ed="#B1" n="20"/>Est ergo in proposito nota admirationis in signum laudis &amp; comendationis  
+          <lb ed="#B1" n="21"/>O quam pulchra, &amp;c id est, honesta castitas coniugalis, per mutuam amicitiam  
+          <lb ed="#B1" n="22"/>&amp; adiutorium uiri &amp; mulieris inuicem coniunctorum. Vir autem &amp; mulier 
+          <lb ed="#B1" n="23"/>habitant ad inuicem non solum gratia procreationis filiorum, sed eorum quae 
+          <lb ed="#B1" n="24"/>conferunt ad uitam actiuam. Naturaliter enim in regimine domus operatio  
+          <lb ed="#B1" n="25"/>nes uiri &amp; mulieris distinguuntur. Vnde non sufficienter sunt iuncti adinuicem 
+          <lb ed="#B1" n="26"/>nisi eorum opera communicent secundum Arist. 8. Ethico. cap. 12. &amp; Gen.2. 
+          <lb ed="#B1" n="27"/>Faciamus ei adiutorium simile sibi. Casta generatio est quando coniuges ad 
+          <lb ed="#B1" n="28"/>inuicem commiscentur uel causa fidei seruandae uel causa prolis procreandae 
+          <lb ed="#B1" n="29"/>uel propter utrunque, ad Titum 2. Adolescentulas ut uiros suos diligant, pruden 
+          <lb ed="#B1" n="30"/>tes, sobrias, castas, &amp;c. Generatio potest accipi actiue uel passiue. Actiue signi 
+          <lb ed="#B1" n="31"/>ficat operationem generantis. Passiua generatio dicitur proles generata. &amp; sic  
+          <lb ed="#B1" n="32"/>communiter capitur in Scriptura, Deutero. 32. Generatio praua atque peruer 
+          <lb ed="#B1" n="33"/>sa: Haeccine reddis Domino popule stulte &amp; insipiens:
+        </p>
+        <p xml:id="rhwis-l44-d1e268">
+          <lb ed="#B1" n="34"/>Et utroque modo potest accipi in proposito: sed magis conuenienter acci 
+          <lb ed="#B1" n="35"/>pitur. Secundo modo. Generatio inquam cum claritate: id est, cum sapienti pro 
+          <lb ed="#B1" n="36"/>lis educatione, 1. ad Corinth. 7. Benedictio &amp; claritas &amp; sapientia, honor, uir 
+          <lb ed="#B1" n="37"/>tus, &amp; for. d, enim &amp; Sapientiae 6. Clara est &amp; quae nunquam marcescit sapien 
+          <lb ed="#B1" n="38"/>tia. Bern. tamen exponit cum charitate. Sed antiquae Bibliae &amp; Rabanus expo  
+          <lb ed="#B1" n="39"/>nunt cum claritate, &amp; hanc literam teneo ueriorem.
+        </p>
+        <p xml:id="rhwis-l44-d1e284">
+          <lb ed="#B1" n="40"/>Secundo in ista litera ponit secundam commendationem castitatis coniu 
+          <lb ed="#B1" n="41"/>galis, quae est aeternitas &amp; memoria in approbatione. Vnde dicit: Immortalis est 
+          <lb ed="#B1" n="42"/>enim memoria illius: quoniam apud DEVM nota est &amp; apud homines: id et, ap  
+          <lb ed="#B1" n="43"/>probata. Nam DEVS coniugium instituit in Paradiso ante peccatum. Vnde 
+          <lb ed="#B1" n="44"/>notant doctores, quod coniugium institutum est in officium &amp; remedium. In 
+          <lb ed="#B1" n="45"/>officium naturae, ut fiat propagatio speciei. In remedium &amp; concupiscentiae, ut 
+          <lb ed="#B1" n="46"/>consulatur infirmitati, &amp; uitetur culpa. Prima institutio fuit in statu innocentiae 
+          <lb ed="#B1" n="47"/>tantum. In statu uero naturae lapsae fuit matrimonium institutum, &amp; in offi 
+          <lb ed="#B1" n="48"/>cium &amp; in remedium: &amp; ideo apud DEUM status coniugalis est approbatus 
+          <lb ed="#B1" n="49"/>&amp; sanctus. Est etiam immortalis apud homines pro tanto: quia de bonis pa 
+          <lb ed="#B1" n="50"/>rentibus educantur boni filij, &amp; per illos filij filiorum, &amp; sic deinceps. Iuxta 
+          <lb ed="#B1" n="51"/>illud Ecclesiast. 30. Mortuus est pater illius, &amp; quasi non est mortuus: similem 
+          <lb ed="#B1" n="52"/>enim reliquit sibi post se. Vnde apud homines est casta generatio immortalis:  
+          <lb ed="#B1" n="53"/>quia usque ad finem mundi nunquam deficient boni in Ecclesia DEI. Iuxta illud  
+          <!--sap_Page_191.xml-->
+          <pb ed="#B1" n="157"/>
+          <lb ed="#B1" n="1"/>Luc. 22. Simon ecce Sathan expetiuit uos ut cribraret sicut triticum: ego au 
+          <lb ed="#B1" n="2"/>tem rogaui pro te ut non deficiat fides tua
+        </p>
+        <p xml:id="rhwis-l44-d1e327">
+          <lb ed="#B1" n="3"/>Vtrum actus matrimonialis fieri posset uirtuose: uidetur quod non: quia 
+          <lb ed="#B1" n="4"/>Exod. 19. praecipitur populo ut per triduum non appropinquarent ad uxores 
+          <lb ed="#B1" n="5"/>suas quando legem erant accepturi: sed si possent hoc fecisse uirtuose, non fuis  
+          <lb ed="#B1" n="6"/>set impedimentum a sanctitate.
+        </p>
+        <p xml:id="rhwis-l44-d1e338">
+          Praeterea concupiscentia carnalis siue carnis  
+          <lb ed="#B1" n="7"/>inobedientia semper est turpis: Ergo non potest fieri sine peccato. Sed actus ma 
+          <lb ed="#B1" n="8"/>trimonialis sine tali concupiscentia fieri non potest: Ergo, &amp;c.
+        </p>
+        <p xml:id="rhwis-l44-d1e345">
+          Praeterea illud  
+          <lb ed="#B1" n="9"/>quod corrumpit in homine actum rationis nullo modo fit uirtuose: quia om 
+          <lb ed="#B1" n="10"/>nis actus uirtutis determinatur a recta ratione sapientis, 3. Ethic. Sed delecta 
+          <lb ed="#B1" n="11"/>tio actus carnalis corrumpit actum rationis: quia impossibile est in illa dele 
+          <lb ed="#B1" n="12"/>ctatione aliquid intelligere, sicut dicitur <ref xml:id="rhwis-l44-Rd1e355">6. Ethicor</ref>. Ergo impossibile est quod  
+          <lb ed="#B1" n="13"/>ille actus fiat uirtuose.
+        </p>
+        <p xml:id="rhwis-l44-d1e362">
+          Praeterea dimittere illud quod est meritorium, non est 
+          <lb ed="#B1" n="14"/>laudabile: sed dimittere actum carnalis copulae est meritorium: Ergo exercere 
+          <lb ed="#B1" n="15"/>talem actum non est laudabile: Ergo nec uirtuosum.
+        </p>
+        <p xml:id="rhwis-l44-d1e369">
+          Praeterea 32. q. 2: connu 
+          <lb ed="#B1" n="16"/>bia. Legitima connubia carent peccato, non tamen illo tempore quo coniuga 
+          <lb ed="#B1" n="17"/>lis actus geritur, poenitentia Spiritus sancti dabitur: sed nullus est actus merito 
+          <lb ed="#B1" n="18"/>rius nisi per poenitentiam Spiritus sancti: Igitur, &amp;c
+        </p>
+        <p xml:id="rhwis-l44-d1e378">
+          <lb ed="#B1" n="19"/>Ad oppositum arguitur. Actus quo impletur praeceptum, est meritorius: 
+          <lb ed="#B1" n="20"/>sed actus matrimonialis est huiusmodi, patet per hoc quod dicitur 1 ad Co 
+          <lb ed="#B1" n="21"/>rinth. 7. Vxori uir debitum reddat, &amp; similiter uxor uiro. Praeterea quidquid  
+          <lb ed="#B1" n="22"/>fieri potest sine peccato, potest fieri uirtuose. Sed sine peccato potest uir uel 
+          <lb ed="#B1" n="23"/>mulier nubere, &amp; per consequens tali actui obligari: quia 1. ad Corinth.7 
+          <lb ed="#B1" n="24"/>Virgo non peccat si nubat. Praeterea nihil cadit sub consilio diuino, personae 
+          <lb ed="#B1" n="25"/>quantumcunque infimae, nisi quod potest fieri uirtuose: sed sub consilio  
+          <lb ed="#B1" n="26"/>dicitur personis infimis, quae uirginitatem seruare non possunt, 1. ad Ti 
+          <lb ed="#B1" n="27"/>moth. 5. Volo iuniores uiduas nubere, filios procreare, matres fami 
+          <lb ed="#B1" n="28"/>lias esse.
+        </p>
+        <p xml:id="rhwis-l44-d1e403">
+          <lb ed="#B1" n="29"/>Ad quaestionem dicendum quod sic. Ad cuius euidentiam dicenda sunt  
+          <lb ed="#B1" n="30"/>sex: Primo actus matrimonialis potest fieri sine peccato: patet ista conclusio  
+          <lb ed="#B1" n="31"/>per rationes ad oppositum. Similiter dicere aliquem statum in Ecclesia auten 
+          <lb ed="#B1" n="32"/>ticum per sacramentum, cuius actus non possit fieri uirtuose, nihil aliud est 
+          <lb ed="#B1" n="33"/>quam damnare sacramentum Ecclesiae. Item inclinatio naturalis &amp; recta ra 
+          <lb ed="#B1" n="34"/>tio dictat, quod facienda sit humani generis propagatio, donec DEVS reue 
+          <lb ed="#B1" n="35"/>lauerit oppositum: quia constat quod fuit praeceptum &amp; adhuc est: non qui  
+          <lb ed="#B1" n="36"/>dem multiplicamini pro qualibet persona, sed multiplicamini pro aliqua uel 
+          <lb ed="#B1" n="37"/>aliquibus personis: Ergo oportet dicere quod aliquae personae possint illud  
+          <lb ed="#B1" n="38"/>praeceptum sine peccato implere 
+        </p>
+        <p xml:id="rhwis-l44-d1e427">
+          <lb ed="#B1" n="39"/>Secunda conclusio quod talis actus potest fieri meritorie. Illud probatur  
+          <lb ed="#B1" n="40"/>sic: Quidquid potest fieri uirtuose, potest fieri meritorie ab existente in gratia: 
+          <lb ed="#B1" n="41"/>quia nihil plus requiritur ad actum matrimonij nisi quod homo existens in 
+          <lb ed="#B1" n="42"/>gratia operetur seruando circumstantias uirtutis in materia, in fine, &amp; in a 
+          <lb ed="#B1" n="43"/>lijs, puta quod faciat quando oportet &amp; sicut oportet, &amp;c. Sed actus ma 
+          <lb ed="#B1" n="44"/>trimonij potest fieri ab existente in gratia cum istis circumstantijs: Ergo, &amp;c
+        </p>
+        <p xml:id="rhwis-l44-d1e443">
+          <lb ed="#B1" n="45"/>Tertia conclusio, quod tantum duobus modis potest fieri actus carnalis  
+          <lb ed="#B1" n="46"/>meritorius, uidelicet quando causa mouens ad actum est religio uel iusticia. 
+          <lb ed="#B1" n="47"/>Religio mouet quando sit praecise causa prolis generandae ad cultum DEI, 
+          <lb ed="#B1" n="48"/>Iusticia mouet quando sit causa reddendi debitum &amp; seruandi fidem promis  
+          <lb ed="#B1" n="49"/>sam in contractu matrimoniali. Ista conclusio patet: quia actus talis non 
+          <lb ed="#B1" n="50"/>potest esse meritorius, nisi bona matrimonij illum actum honestent, quae 
+          <lb ed="#B1" n="51"/>sunt fides &amp; proles, &amp; intentio fidei seruandae uel prolis procreandae: Igi 
+          <lb ed="#B1" n="52"/>tur, &amp;c
+        </p>
+        <p xml:id="rhwis-l44-d1e463">
+          <lb ed="#B1" n="53"/>Quarta conclusio quod quandocunque libido est causa mouens ad talem  
+          <!--sap_Page_192.xml-->
+          <pb ed="#B1" n="158"/>
+          <lb ed="#B1" n="1"/>actum, actus ille est peccatum aliquale: probatur sic. Nullum debonis matri 
+          <lb ed="#B1" n="2"/>monij mouet, sed tantum libido mouet: Ergo actus non excusatur a peccato:  
+          <lb ed="#B1" n="3"/>quia, ut supra dictum est, actus non excusatur a peccato, nisi per aliquod illo 
+          <lb ed="#B1" n="4"/>rum bonorum matrimonii
+        </p>
+        <p xml:id="rhwis-l44-d1e481">
+          <lb ed="#B1" n="5"/>Quinta conclusio, libido excedens si est causa mouens ad actum carnis in 
+          <lb ed="#B1" n="6"/>ter coniuges, est peccatum mortale. Voco autem libidinem excedentem quae 
+          <lb ed="#B1" n="7"/>tanta est quod non habet respectum ad limites matrimonij, quin eandem co  
+          <lb ed="#B1" n="8"/>gnosceret in illo feruore: dato etiam quod nunquam eius uxor esset. Haec con 
+          <lb ed="#B1" n="9"/>clusio satis patet: quia non movet pro tunc bonum prolis, nec bonum iusticiae 
+          <lb ed="#B1" n="10"/>fidei: sed tantum libido, &amp; hoc ultra leges matrimonij. Per casum ergo aequi  
+          <lb ed="#B1" n="11"/>pollet fornicationi.
+        </p>
+        <p xml:id="rhwis-l44-d1e499">
+          <lb ed="#B1" n="12"/>Sexta conclusio quod superflua libido in osculis, tactibus &amp; abusibus in 
+          <lb ed="#B1" n="13"/>modo delectandi sunt peccata mortalia de facili. Sed circumstantias oportet  
+          <lb ed="#B1" n="14"/>relinquere discretioni boni uiri. Conclusio patet: quia bona matrimonij talem  
+          <lb ed="#B1" n="15"/>libidinem non excusant. Licet ista uideantur uilia &amp; a sancta contemplatione 
+          <lb ed="#B1" n="16"/>ualde distantia. Non tamen debent esse incognita nec praedicatoribus nec pa 
+          <lb ed="#B1" n="17"/>storibus, quorum interest semper esse generales medicos animarum.
+        </p>
+        <p xml:id="rhwis-l44-d1e516">
+          <lb ed="#B1" n="18"/>Ad primum de praecepto DEI facto populo per triduum ab uxoribus ab  
+          <lb ed="#B1" n="19"/>stinere ante legem datam. Dicendum quod a minoribus bonis propter maio 
+          <lb ed="#B1" n="20"/>ra semper est abstinendum pro tempore.
+        </p>
+        <p xml:id="rhwis-l44-d1e525">
+          Ad secundum de concupiscen 
+          <lb ed="#B1" n="21"/>tia, quae apparet in membris: dicendum quod illa inobedientia poena pec 
+          <lb ed="#B1" n="22"/>cati est. Vnde ratio potest bene uti &amp; male: &amp; si quid turpitudinis est, bo 
+          <lb ed="#B1" n="23"/>na matrimonij illud excusant.
+        </p>
+        <p xml:id="rhwis-l44-d1e534">
+          Ad tertium de interruptione actus rationis  
+          <lb ed="#B1" n="24"/>quae fit in concubitu: dicendum quod actum rationis impedire pro tem 
+          <lb ed="#B1" n="25"/>pore propter maius bonum non est peccatum, sed uirtuosum. Vnde sicut  
+          <lb ed="#B1" n="26"/>homo uirtuose se ponit ad dormiendum: sic nec est peccatum propter bonum 
+          <lb ed="#B1" n="27"/>matrimonij actum rationis intermittere.
+        </p>
+        <p xml:id="rhwis-l44-d1e545">
+          Ad quartum dimittere illud quod 
+          <lb ed="#B1" n="28"/>est meritorium non est laudabile, &amp;c. Dicendum quod licet homini dimittere 
+          <lb ed="#B1" n="29"/>unum opus meritorium maius, ad quod non tenetur &amp; exercere aliud etiamsi 
+          <lb ed="#B1" n="30"/>ad illud non teneatur. Sicut licet mihi dimittere orationem propterstudium, 
+          <lb ed="#B1" n="31"/>quando ad neutrum teneor, &amp; licet non sit meritorium mihi dimittere melius: 
+          <lb ed="#B1" n="32"/>est tamen meritorium minus exercere.
+        </p>
+        <p xml:id="rhwis-l44-d1e558">
+          Ad quintum dicendum, quod canon 
+          <lb ed="#B1" n="33"/>loquitur de praesentia Spiritus sancti in actu miraculi, sicut est prophetare, &amp; 
+          <lb ed="#B1" n="34"/>mortuos suscitare, sicut potest haberi per glossam.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

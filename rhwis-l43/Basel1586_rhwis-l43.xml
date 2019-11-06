@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 43 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 43 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="150"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l43">
+        <head xml:id="rhwis-l43-Hd1e95">Lectio 43</head>
+        <p xml:id="rhwis-l43-d1e98">
+          <pb ed="#B1" n="150"/>
+          <lb ed="#B1" n="1"/>POSTQVAM Spiritus sanctus ostendit quod adulterinae gene 
+          <lb ed="#B1" n="2"/>rationes progenitorum suorum uestigijs inhaerentes puniuntur per 
+          <lb ed="#B1" n="3"/>temporalem deiectionem in praesenti, si tamen diuturna uita eis con 
+          <lb ed="#B1" n="4"/>Icedatur: Hic ostendit quod punientur aeternaliter si uitae diuturni  
+          <lb ed="#B1" n="5"/>tatem minime consequantur. Et circa hoc duo facit. Primo proponit suam in 
+          <lb ed="#B1" n="6"/>tentionem. Secundo assignat intenti rationem ibi: nationes.
+        </p>
+        <p xml:id="rhwis-l43-d1e116">
+          <lb ed="#B1" n="7"/>Circa primum proponit, quod duo mala hominem occupant in die mor 
+          <lb ed="#B1" n="8"/>tis, scilicet conscientiae desperatio quantum ad seipsum: &amp; sententiae repro 
+          <lb ed="#B1" n="9"/>batio quo ad DEVM: &amp; uere durum est homini quando iudex eum repro 
+          <lb ed="#B1" n="10"/>bat &amp; ipsemet desperat. Aliquantula consolatio est reo damnando, quod spe 
+          <lb ed="#B1" n="11"/>ret salutem, etiamsi debeat damnari. Errasse aliquando in uia profuit, sicut  
+          <lb ed="#B1" n="12"/>dicit Augustinus Enchi. 2. Sed quando utrunque occurrit ex parte rei despe 
+          <lb ed="#B1" n="13"/>ratio, &amp; ex parte iudicis reprobatio, tunc est omnimoda desolatio. Sed sic est 
+          <lb ed="#B1" n="14"/>in morte iniusti hominis, quod in ictu oculi iudex ostendit suam sententiam, 
+          <lb ed="#B1" n="15"/>&amp; reus suam conscientiam. Iudex sententiat &amp; reus desperat. Et hoc est quod  
+          <lb ed="#B1" n="16"/>dicit: Et si celerius in iuuentute, uidelicet defuncti fuerint, non habebunt spem. 
+          <lb ed="#B1" n="17"/>Ecce desperatio erga seipsos nec est mirum: quia spes est certa expectatio fu 
+          <lb ed="#B1" n="18"/>turae beatitudinis ueniens ex DEI gratia &amp; meritis praecedentibus, 3. Sent. 
+          <lb ed="#B1" n="19"/>dis. 26. cap. 1. In iniustis autem uel nulla fuerunt merita si fuerunt infideles: 
+          <lb ed="#B1" n="20"/>nel mortificata fuerunt per mala opera sequentia, si fideles fuerunt &amp; postea 
+          <lb ed="#B1" n="21"/>peccauerunt. Vnde nulla est in eis spes quando moriuntur: quia sperare, sine 
+          <lb ed="#B1" n="22"/>meritis non est sperare, sed praesumere: Non solum autem desperabunt, sed &amp; 
+          <lb ed="#B1" n="23"/>iudex eos reprobabit. Vt subditur inlitera: Nec in die agnitionis allocutionem, 
+          <lb ed="#B1" n="24"/>supple habebunt. Dies iudicij uocatur dies agnitionis: quia in illo die erit ge 
+          <lb ed="#B1" n="25"/>neralis cognitio omnium personarum, &amp; omnium conditionum tam bono 
+          <lb ed="#B1" n="26"/>rum quam malorum, omnium hominum qui sunt, qui fuerunt &amp; erunt. Et ibi 
+          <lb ed="#B1" n="27"/>quaereretur, Quae est agnitio primae declinationis, secundae &amp; tertiae, quartae &amp; 
+          <lb ed="#B1" n="28"/>quintae, Dan. 7. Iudicium sedit, libri aperti sunt. Dicitur etiam dies agnitionis: 
+          <lb ed="#B1" n="29"/>quia tunc CHRISTVS illos agnoscet, quos modo ignorare uidetur: quia tunc 
+          <lb ed="#B1" n="30"/>liber uitae plenarie ostendetur, Eccles. 24. Haec omnia liber uitae &amp; testimonium 
+          <lb ed="#B1" n="31"/>altissimi agnitio ueritatis. In illa autem die non habebunt mali allocutionem: 
+          <lb ed="#B1" n="32"/>hoc est, excusationem seu defensionem de peccatis suis. Vel allocutionem: id est, 
+          <lb ed="#B1" n="33"/>consolationem de speranda liberatione, Sap. 8. Erit allocutio cogitationis &amp;  
+          <lb ed="#B1" n="34"/>taedij mei. Vel allocutionem: id est, liberationem. Nulla erit tunc sententia inter 
+          <lb ed="#B1" n="35"/>locutoria, nulla appellatio: quia tunc non ualebit medela appellationis, nec 
+          <lb ed="#B1" n="36"/>cautela dilationis: quia statim dabitur sententia, &amp; statim fiet executio. Patet  
+          <lb ed="#B1" n="37"/>ergo quod ista duo iniustum hominem occupant in morte, uidelicet conscien 
+          <lb ed="#B1" n="38"/>tiae desperatio, &amp; iudicis reprobatio
+        </p>
+        <p xml:id="rhwis-l43-d1e188">
+          <lb ed="#B1" n="39"/>Sed de iusto dicitur oppositum Proverb. 14. Sperat iustus in morte sua. Se 
+          <lb ed="#B1" n="40"/>cundo assignat istorum rationem dicens: Nationes enim iniquae dirae sunt con 
+          <lb ed="#B1" n="41"/>sumationis, quasi diceret: Iniquitas erit causa quare tales generationes siue 
+          <lb ed="#B1" n="42"/>nationes habebunt diram: id est, crudelem consumationem: non quia fuerunt  
+          <!--sap_Page_185.xml-->
+          <pb ed="#B1" n="151"/>
+          <lb ed="#B1" n="1"/>de iniquo thoro generati, sed quia fuerunt nequiter conuersati, ideo erunt di 
+          <lb ed="#B1" n="2"/>rae consumationis, Ecclesiast. 2. Respicite filij nationes hominum: quia nul  
+          <lb ed="#B1" n="3"/>lus sperauit in Domino, &amp; confusus est, permansit in mandatis eius, &amp; dereli 
+          <lb ed="#B1" n="4"/>ctus est. De dira consumatione totius mundi pro peccatis exceptis octo 
+          <lb ed="#B1" n="5"/>animabus patet, Gen.7. De dira consumatione quinque ciuitatum pro uitio 
+          <lb ed="#B1" n="6"/>contra naturam patet, Gen.19. De dira consumatione septem gentium co  
+          <lb ed="#B1" n="7"/>ram filijs Israel patet losu. 5. &amp; deinceps de dira consumatione nationis lu 
+          <lb ed="#B1" n="8"/>daeorum patet tempore Titi &amp; Vespas. Vnde satis constat quod nationes ini 
+          <lb ed="#B1" n="9"/>quae dirae sunt consumationis. Vota quod motus naturalis intenditur in fi 
+          <lb ed="#B1" n="10"/>ne. Vnde debilior est in principio &amp; in medio quam sit in fine: modo consue 
+          <lb ed="#B1" n="11"/>tudo est altera natura: &amp; ideo mala consuetudo deducta per parentes in filios 
+          <lb ed="#B1" n="12"/>quanto diuturnior, tanto intentior erit, donec eos DEI patientia noluerit ul  
+          <lb ed="#B1" n="13"/>terius tolerare. Et ideo Thobias senior postquam filio praedixerat de interitu 
+          <lb ed="#B1" n="14"/>Niniue: &amp; eum adiurauerat quod post mortem suam &amp; uxoris suae nullo mo 
+          <lb ed="#B1" n="15"/>do in Niniue moraretur. Subiunxit causam: Video, inquit, quod iniquitas ci 
+          <lb ed="#B1" n="16"/>tius finem dabit ei, Thobiae 14. Iniquitas enim gentis abbreuiat eius duratio  
+          <lb ed="#B1" n="17"/>nem frequenter. Vnde sicut notat Magister in scholasticis historijs super illud  
+          <lb ed="#B1" n="18"/>Gen. 6. cap. Non permanebit spiritus meus in homine in aeternum: quia caro 
+          <lb ed="#B1" n="19"/>est, eruntque dies illorum centum annorum. Iste numerus non est mensuraluitae 
+          <lb ed="#B1" n="20"/>hominis, cum etiam post diluuium homines multi istum numerum uiuendo  
+          <lb ed="#B1" n="21"/>excesserunt, sed iste numerus annorum fuit tempus quando DEVS dedit ho 
+          <lb ed="#B1" n="22"/>minibus tunc peccatoribus, ut poeniterent, antequam diluuio delerentur. Et 
+          <lb ed="#B1" n="23"/>hoc fuit dictum eodem anno, quo incepit arca aedificari, &amp; arca fuit in aedifi 
+          <lb ed="#B1" n="24"/>cationegentum annis, secundum Strabonem: Quia cum genus humanum il  
+          <lb ed="#B1" n="25"/>lo tempore dato sibi ad poenitentiam utebatur totaliter ad peccatum, abbre.  
+          <lb ed="#B1" n="26"/>uiati sunt uiginti anni permissione diuina, &amp; centesimo anno deleti sunt: &amp; 
+          <lb ed="#B1" n="27"/>est multum rationabile, Iob. 24. <quote xml:id="rhwis-l43-Qd1e261" source="http://scta.info/resource/iob24_23">Dedit ei DEVS locum poenitentiae &amp; ille abu 
+          <lb ed="#B1" n="28"/>titur illo in superbia</quote>, 1. Pet. 4. Sufficit enim praeteritum tempus ad uoluntatem  
+          <lb ed="#B1" n="29"/>gentium consumandam, qui ambulant in luxurijs. Et quia tota ista lectio &amp; 
+          <lb ed="#B1" n="30"/>praecedens similiter est de malis filijs, qui malos parentes in suis sceleribus imi 
+          <lb ed="#B1" n="31"/>tantur, dicit enim: Et si celertus defuncti fuerint, non habebunt spem. Ideo de de 
+          <lb ed="#B1" n="32"/>functis est notandum., Inter defunctos talis inuenitur differentia. Aliqui rem 
+          <lb ed="#B1" n="33"/>spe lucrantur: aliqui spe &amp; re priuantur: aliqui sub spe rem praestolantur. Primi 
+          <lb ed="#B1" n="34"/>sunt illi qui ab omni peccato immunes, &amp; ad nullam poenam temporalem ob  
+          <lb ed="#B1" n="35"/>noxij moriuntur. De talibus dicitur Proverb. 14. Iustus sperat in morte sua. Et  
+          <lb ed="#B1" n="36"/>illud Ecclesiast. 1. Timenti DEVM bene erit in extremis, &amp; in die defunctio 
+          <lb ed="#B1" n="37"/>nis suae benedicetur. Aliqui sunt qui spe &amp; re priuantur, sicut illi qui in peccato 
+          <lb ed="#B1" n="38"/>mortali decedunt. De quibus Proverb. 11. Mortuo homine impio nulla erit 
+          <lb ed="#B1" n="39"/>ultra spes. Et Sapientiae 13. Infelices sunt &amp; inter mortuos spes illorum. Et sic  
+          <lb ed="#B1" n="40"/>defunctus potest dicere illud 2. Macha. 6. Manum omnipotentis DEI neque 
+          <lb ed="#B1" n="41"/>uiuens neque defunctus effugiam, manum scilicet DEI punientis: Tertij sunt  
+          <lb ed="#B1" n="42"/>qui sub spe rem praestolantur: &amp; hi sunt qui cum peccato ueniali, uel cum poe 
+          <lb ed="#B1" n="43"/>nitentia incompleta discedunt: &amp; ideo ad locum purgationis mittuntur. De 
+          <lb ed="#B1" n="44"/>quorum spe potest exponi illud Proverb. 13. Spes quae differtur, affligit ani 
+          <lb ed="#B1" n="45"/>mam. Et sic de defunctis dicitur 2. Macha. 12. Sancta ergo &amp; salubris est co 
+          <lb ed="#B1" n="46"/>gitatio pro defunctis exorare ut a peccatis soluantur. Et istas iuuare suffragijs  
+          <lb ed="#B1" n="47"/>eleemosynis &amp; operibus pietatis mirabiliter pium est.
+        </p>
+        <p xml:id="rhwis-l43-d1e308">
+          <lb ed="#B1" n="48"/>Ad quod mouere debent quatuor rationes. Poena qua puniuntur. Bene 
+          <lb ed="#B1" n="49"/>uolentia qua digni sciuntur. Indigentia qua opprimuntur: &amp; Confidentia 
+          <lb ed="#B1" n="50"/>qua recompensaturi creduntur. Primo movere nos debet ad eos iuuandos 
+          <lb ed="#B1" n="51"/>poena qua puniuntur, quae est ualde magna. Excedit enim omnem poenam sensibi 
+          <lb ed="#B1" n="52"/>lem huius uitae secundum beatum Aug. Isti quaestionarij qui portant indulgen 
+          <lb ed="#B1" n="53"/>tias &amp; pro domibus hospitalium mendicant per mundum, narrant &amp; exponunt  
+          <!--sap_Page_186.xml-->
+          <pb ed="#B1" n="152"/>
+          <lb ed="#B1" n="1"/>populo quot caecos, quot paralyticos, quot igne infernali percussos susten 
+          <lb ed="#B1" n="2"/>tat domus pro qua mendicant. Et quantum horribiliores defectus nominant.  
+          <lb ed="#B1" n="3"/>tanto magis provocant auditores ad subueniendum. Est enim rationabile quod  
+          <lb ed="#B1" n="4"/>magis indigenti caeteris paribus citius subueniatur: nulli autem uiuentes tan 
+          <lb ed="#B1" n="5"/>tum indigent quantum defuncti. Igitur cum succurritur uiuenti non tam me 
+          <lb ed="#B1" n="6"/>ritorium est, ut cum succurritur defunctis. Secundo mouet nos ad hoc bene 
+          <lb ed="#B1" n="7"/>uolentia, qua digni sciuntur. Cum enim sunt in purgatorio, constat quod a 
+          <lb ed="#B1" n="8"/>DEO diliguntur: finaliter de hominibus in praesenti dubium est an amore an 
+          <lb ed="#B1" n="9"/>odio digni sint. Tertio movet ad hoc indigentia qua opprimuntur. Ipsi enim 
+          <lb ed="#B1" n="10"/>in nullo se possunt iuuare: quia nec possunt a nobis mendicare nec laborare,  
+          <lb ed="#B1" n="11"/>nec possunt ab alijs mutuare. In praesenti quis seipsum quantum sit peccato 
+          <lb ed="#B1" n="12"/>potest iuuare, &amp; per se &amp; per alios multis uijs. Quarto debet ad nos movere 
+          <lb ed="#B1" n="13"/>confidentia, qua sibi gratis benefacientibus recompensaturi creduntur. Haere 
+          <lb ed="#B1" n="14"/>des nobilium qui sunt infra aetatem, &amp; sunt in custodijs dominorum suorum, 
+          <lb ed="#B1" n="15"/>non habent semper ad uotum necessaria, sicut uellent quam diu sunt infra ae 
+          <lb ed="#B1" n="16"/>tatem. Vnde tunc temporis si aliquis eos iuuet dando uel mutuando mirabi  
+          <lb ed="#B1" n="17"/>liter potest eorum amorem captare, &amp; habere de eis amicos maximos cum ad 
+          <lb ed="#B1" n="18"/>haereditatem uenerint, &amp; possint rebus proprijs dominari. Sic est in proposi 
+          <lb ed="#B1" n="19"/>to, isti spiritus contribulati in purgatorio sunt haeredes DEI &amp; cohaeredes  
+          <lb ed="#B1" n="20"/>CHRISTI, ad Titum 3. Iustificati gratia ipsius haeredes sumus secundum spem 
+          <lb ed="#B1" n="21"/>uitae aeternae. Et ideo si eos modo iuuerimus, non est dubium quin efficaciter 
+          <lb ed="#B1" n="22"/>recompensabunt cum sua haereditate gauisi fuerint cum effectu. Et ideo bene 
+          <lb ed="#B1" n="23"/>dicit autoritas allegata, quod non solum sancta, sed salubris est cogitatio pro 
+          <lb ed="#B1" n="24"/>defunctis exorare, ut supra. Sed reuera timeo, quod isti haeredes regnicoelestis  
+          <lb ed="#B1" n="25"/>ab haereditate cum quadam iusta dilatione elongati conqueri possunt graui  
+          <lb ed="#B1" n="26"/>ter, de tribus generibus hominum, uidelicet de falsis executoribus, peruersis  
+          <lb ed="#B1" n="27"/>Ecclesiasticis &amp; ingratis haeredibus: quia isti tres communiter inter se diuidunt  
+          <lb ed="#B1" n="28"/>bona morientis. Primo conqueruntur de falsis executoribus. Nam malorum 
+          <lb ed="#B1" n="29"/>executorum, quidam differunt &amp; prolongant legata, quidam minuunt &amp; de 
+          <lb ed="#B1" n="30"/>falcant, quidam totaliter auferunt &amp; usibus suis appropriant, &amp; permittunt 
+          <lb ed="#B1" n="31"/>miseros &amp; incarceratos spiritus eiulare in purgatorio, dum ipsi tripudiant &amp; 
+          <lb ed="#B1" n="32"/>cantant in conuiuio. Vnde potest esse planctus defunctorum illud Esa. 28. 
+          <lb ed="#B1" n="33"/>Posuimus mendacium spem nostram, &amp; illud Threnorum 3. Perijt spes mea 
+          <lb ed="#B1" n="34"/>&amp; finis meus.
+        </p>
+        <p xml:id="rhwis-l43-d1e403">
+          <lb ed="#B1" n="35"/>Secundo conqueruntur de malis Ecclesiasticis, qui istis defunctis nocent  
+          <lb ed="#B1" n="36"/>tripliciter. Primo eos defraudant debitis orationibus. Secundo abutuntur  
+          <lb ed="#B1" n="37"/>eorum legatis &amp; oblationibus. Tertio male uiuendo faciunt se indignos diui  
+          <lb ed="#B1" n="38"/>nis &amp; sanctorum exauditionibus, Iohan. 9. Scimus quoniam DEVS peccatores 
+          <lb ed="#B1" n="39"/>non exaudit, sed si quis DEI cultor est &amp; uoluntatem eius facit, hunc exaudit.  
+          <lb ed="#B1" n="40"/>Vnde isti possunt dicere illud Esa. 20. Haeccine erat spes nostra ad quos con 
+          <lb ed="#B1" n="41"/>fugimus in auxilium vt liberarent nos.
+        </p>
+        <p xml:id="rhwis-l43-d1e421">
+          <lb ed="#B1" n="42"/>Tertio conqueruntur de haeredibus ingratis, qui eorum bona per labores  
+          <lb ed="#B1" n="43"/>&amp; taedia conquisita iam occupant in iocunditate, filijs, fratribus, uxoribus, fi 
+          <lb ed="#B1" n="44"/>liabus &amp; consanguineis uel extraneis assignantes, qui omnes illos tradiderunt  
+          <lb ed="#B1" n="45"/>obliuioni, ac si eorum bona nunquam uidissent: quorum aliqui bona paren 
+          <lb ed="#B1" n="46"/>tum expendunt in luxurijs, aliqui eos iuuant. Sed de uilioribus &amp; de minimis 
+          <lb ed="#B1" n="47"/>dant forte unum frustum nigri panis in hebdomada. Aliqui sunt pessimi, qui  
+          <lb ed="#B1" n="48"/>nec eos habent in memoria. Vnde de istis defunctis sic dolentibus &amp; deceptis  
+          <lb ed="#B1" n="49"/>exponi potest illud Zachariae 9. Dolebit nimis Acharon: quoniam confusa est 
+          <lb ed="#B1" n="50"/>spes eius. Acharon interpretatur tribulatio &amp; designat animas in purgatorio  
+          <lb ed="#B1" n="51"/>existentes: spes quam habuerunt de amicis carnalibus confusa est, &amp; ideo bea 
+          <lb ed="#B1" n="52"/>tus homo cuius est nomen Domini spes eius nec sperauit in pecuniae thesau 
+          <lb ed="#B1" n="53"/>ris, quos per manus amicorum reliquerunt dispergendos post mortem. 
+          <!--sap_Page_187.xml-->
+          <pb ed="#B1" n="153"/>
+          <lb ed="#B1" n="1"/>Potest hic dubitatio esse talis. Vtrum filius teneatur per omnia parentibus 
+          <lb ed="#B1" n="2"/>obedire.
+        </p>
+        <p xml:id="rhwis-l43-d1e458">
+          Quod sic Deutero. 21. Si quis genuerit filium contumacem, pro 
+          <lb ed="#B1" n="3"/>teruum, qui non audiat patris aut matris imperium, lapidibus eum obruet  
+          <lb ed="#B1" n="4"/>omnis populus ciuitatis: sed poena mortis non infligitur, nisi pro peccato mor 
+          <lb ed="#B1" n="5"/>tali. Ergo mortaliter peccat filius si in omnibus parentibus non obediat. Prae 
+          <lb ed="#B1" n="6"/>terea ad Colossens. 3. Filij obedite parentibus per omnia.
+        </p>
+        <p xml:id="rhwis-l43-d1e469">
+          Praeterea inobediens  
+          <lb ed="#B1" n="7"/>superiori suo facit sibi irreuerentiam: sed nullam irreuerentiam licet filio face 
+          <lb ed="#B1" n="8"/>re parentibus suis: quia habet praeceptum de opposito: Honora patrem tuum 
+          <lb ed="#B1" n="9"/>&amp; matrem tuam.
+        </p>
+        <p xml:id="rhwis-l43-d1e478">
+          <lb ed="#B1" n="10"/>Ad oppositum, magis tenentur subditi patribus spiritualibus, quam 
+          <lb ed="#B1" n="11"/>filij patribus carnalibus: sicut patet per Apostolum ad Hebr. 12. Patres qui  
+          <lb ed="#B1" n="12"/>dem carnis habuimus eruditores, &amp; reuerebamur eos. Nonne multo magis 
+          <lb ed="#B1" n="13"/>obtemperabimus patri spirituali &amp; uiuemus. Sed subditi uel religiosi non te 
+          <lb ed="#B1" n="14"/>nentur obedire patribus spiritualibus in omnibus, sed praecipue in illis, quae 
+          <lb ed="#B1" n="15"/>exprimuntur in eorum statutis: puta in regula vel constitutionibus, quas pro 
+          <lb ed="#B1" n="16"/>fitentur secundum Bern. lib. suo de praecepto, &amp; dispensa, &amp; per consequens 
+          <lb ed="#B1" n="17"/>non in indifferentibus. Ergo multo minus tenetur filius carnali patri in om 
+          <lb ed="#B1" n="18"/>nibus obedire.
+        </p>
+        <p xml:id="rhwis-l43-d1e500">
+          <lb ed="#B1" n="19"/>Ad hanc quaestionem respondet sanctus Tho. 2. quotli. qui. 9. Et dicit que tantum 
+          <lb ed="#B1" n="20"/>ad illa se extendit debitum obedientiae ad quae se extendit ius praelationis: quia 
+          <lb ed="#B1" n="21"/>obedientia non nisi alicui praelato debetur large loquendo de praelato. Pater  
+          <lb ed="#B1" n="22"/>autem habet ius super filios in duobus. Primo quantum ad domesticam con 
+          <lb ed="#B1" n="23"/>uersationem: quia paterfamilias est in domo sicut rex in regno. Et ideo sicut sub  
+          <lb ed="#B1" n="24"/>diti regis tenentur obedire regi in his quae spectant ad gubernationem regni: 
+          <lb ed="#B1" n="25"/>ita filij &amp; alii domestici tenentur patrifamilias obedire in his quae pertinent ad 
+          <lb ed="#B1" n="26"/>dispensationem domus. Secundo pater habet ius super filium praelationis in his, 
+          <lb ed="#B1" n="27"/>quae pertinent ad morum disciplinam. Debet enim pater filio disciplinam, sicut docet 
+          <lb ed="#B1" n="28"/>Arist. 8. Ethi. Et ideo in istis duobus tenetur filius patri obedire, &amp; non in alijs.
+        </p>
+        <p xml:id="rhwis-l43-d1e525">
+          <lb ed="#B1" n="29"/>Sed contra hanc responsionem arguitur sic: aut loquitur doctor debito honestatis, 
+          <lb ed="#B1" n="30"/>aut dem debito necessitatis. Si de debito honestatis, uidetur quod in multis alijs  
+          <lb ed="#B1" n="31"/>tenetur filius obedire patri carnali quam in administratione familiae domus, uel 
+          <lb ed="#B1" n="32"/>disciplina morum. Nam si in aliquo sit inobediens patri in quibuscunque licitis &amp; 
+          <lb ed="#B1" n="33"/>honestis, etiam in indifferentibus uidetur patrem inhonorare, quod non est li  
+          <lb ed="#B1" n="34"/>citum sibi. Si uero intelligat doctor de praecepto necessitatis, no uidetur quod  
+          <lb ed="#B1" n="35"/>filius in moralibus teneatur semper obedire patri: quia tunc filij haberent ex  
+          <lb ed="#B1" n="36"/>cusationem de peccato, per praeceptum malorum patrum quod est falsum,
+        </p>
+        <p xml:id="rhwis-l43-d1e545">
+          <lb ed="#B1" n="37"/>Praeterea si tenetur patri obedire, uidetur quod filius mortaliter peccet, non 
+          <lb ed="#B1" n="38"/>sedendo ubi pater praecipit, uel non utendo ueste qua pater praecipit eum uti,  
+          <lb ed="#B1" n="39"/>quod uidetur durum:.
+        </p>
+        <p xml:id="rhwis-l43-d1e554">
+          Praeterea ponamus quod pater uel mater praecipiat fi 
+          <lb ed="#B1" n="40"/>lio, quod uoueat uirginitatem uel quod intret religionem. Istud lpectat ad di 
+          <lb ed="#B1" n="41"/>sciplinam morum: &amp; tamen nullus dicit quod in his filius teneatur obedire. 
+          <lb ed="#B1" n="42"/>Ergo nec tenetur in omnibus quae spectant ad disciplinam morum.
+        </p>
+        <p xml:id="rhwis-l43-d1e563">
+          Praeterea 
+          <lb ed="#B1" n="43"/>ponamus quod aliquis religiosus habeat in sua regula talem claufulam: Fra 
+          <lb ed="#B1" n="44"/>tres in omnibus praelatis obediant. Tunc arguitur sic: Iste tenetur ad obedien  
+          <lb ed="#B1" n="45"/>tiam secundum regulam. Ergo in omnibus consequentia patet per particu 
+          <lb ed="#B1" n="46"/>lam regulae praepositam: lstis non obstantibus dicendum est, sicut dicit san 
+          <lb ed="#B1" n="47"/>ctus Thomas:.
+        </p>
+        <p xml:id="rhwis-l43-d1e576">
+          <lb ed="#B1" n="48"/>Vnde notandum quod autoritas patris in filios dupliciter mensuratur. V 
+          <lb ed="#B1" n="49"/>no modo secundum iurisdictionem, quam pater habet. Alio modo ex mate 
+          <lb ed="#B1" n="50"/>ria suae iurisdictionis: Quantum ad secundum dicit doctor sufficienter: quia in 
+          <lb ed="#B1" n="51"/>materia in qua potest pater filio praecipere: uel est de bonis moribus uel admini 
+          <lb ed="#B1" n="52"/>stratione familiae. Sed quantum ad mensuram iuris oportet aduertere, quod pater 
+          <lb ed="#B1" n="53"/>nihil potest filio praecipere nisi quod cadit sub diuino praecepto: &amp; hoc est, 
+          <!--sap_Page_188.xml-->
+          <pb ed="#B1" n="154"/>
+          <lb ed="#B1" n="1"/>quia nulla regula datur secundum quam filius potest obedire patri in his quae 
+          <lb ed="#B1" n="2"/>pertinent ad gubernationem domus uel mores nisi communia praecepta de 
+          <lb ed="#B1" n="3"/>calogi. Vnde uel tenetur ad omnia honesta uel licita, quae pater uellet dicere 
+          <lb ed="#B1" n="4"/>sibi, ut ad nulla: Non ad omnia constat: Ergo.
+        </p>
+        <p xml:id="rhwis-l43-d1e605">
+          Ad primum contra doctorem  
+          <lb ed="#B1" n="5"/>dicendum quod loquitur de praecepto necessitatis, quod tamen est praeceptum 
+          <lb ed="#B1" n="6"/>honestatis: quia membra diuisionis in casu bene coincidunt. Et quando argui  
+          <lb ed="#B1" n="7"/>tur, tunc filij haberent excusationem de peccatis propter praecepta parentum: 
+          <lb ed="#B1" n="8"/>patet quod nihil ualet: quia omnis iurisdictio superioris intelligitur de licitis  
+          <lb ed="#B1" n="9"/>&amp; honestis. Et doctor etiam satis exprimit ad uirtutem uocum, quod filius non 
+          <lb ed="#B1" n="10"/>tenetur patri in omnibus obedire. Et quando arguitur quod si filius sit inobe 
+          <lb ed="#B1" n="11"/>diens patri in indifferentibus, facit sibi irreuerentiam: hoc est, negandum: quia 
+          <lb ed="#B1" n="12"/>nunquam fit homini irreuerentia nisi obmittendo aliquid, in quo debetur re 
+          <lb ed="#B1" n="13"/>uerentia, quod esse non potest in indifferentibus: quia tunc foret indifferentia, 
+          <lb ed="#B1" n="14"/>sicut per ipsa uocabula satis patet.
+        </p>
+        <p xml:id="rhwis-l43-d1e630">
+          Ad secundum patet quod filius non peccat 
+          <lb ed="#B1" n="15"/>mortaliter, non sedendo in loco ubi pater praecipit, nisi ex aliqua alia circum 
+          <lb ed="#B1" n="16"/>stantia hoc contingat: quia nec DEVS praecepit, quod in talibus patri necessa 
+          <lb ed="#B1" n="17"/>rio obediat.
+        </p>
+        <p xml:id="rhwis-l43-d1e639">
+          Ad tertium patet, quod pater non potest praecipere omnia quae 
+          <lb ed="#B1" n="18"/>spectant ad bonos mores, sed tantum illa quae praecipit DEVS filijs suis, ut te 
+          <lb ed="#B1" n="19"/>neant, &amp; ideo nullam novam religionem potest pater praecipere filijs suis.
+        </p>
+        <p xml:id="rhwis-l43-d1e646">
+          Ad  
+          <lb ed="#B1" n="20"/>quartum dicendum, quod si talis clausula apponeretur in regula indiscreta fo 
+          <lb ed="#B1" n="21"/>ret, quantum ad uirtutem uocis, &amp; posset rationabiliter glosari sic in omnibus 
+          <lb ed="#B1" n="22"/>licitis &amp; honestis: &amp; sic ipsa excluderetur cum non sit licita. Sed contra pona 
+          <lb ed="#B1" n="23"/>mus, quod sit talis clausula in regula, quibus frater tenetur obedire in omni 
+          <lb ed="#B1" n="24"/>bus licitis &amp; honestis: praelato suo ista clausula apparet licita, tunc est argumen 
+          <lb ed="#B1" n="25"/>tum. Dicendum quod haec clausula non est licita: quia poneret hominem in 
+          <lb ed="#B1" n="26"/>nimiam perplexitatem. Vnde illae regulae quae profitentur nimis generalem  
+          <lb ed="#B1" n="27"/>obedientiam uel multa generalia praecepta faciunt suos professores uiuere in 
+          <lb ed="#B1" n="28"/>perplexitate, &amp; in indigentia dispensationis, &amp; uariarum expositonum super 
+          <lb ed="#B1" n="29"/>talem regulam abundare: quod nullo modo foret iocunditas sanctis consci 
+          <lb ed="#B1" n="30"/>entijs.
+        </p>
+        <p xml:id="rhwis-l43-d1e672">
+          Ad primum principale dicendum, quod autoritas soluit semetipsum: 
+          <lb ed="#B1" n="31"/>nam consequenter subiungitur: Quoniam filius ille comessationibus uacet,  
+          <lb ed="#B1" n="32"/>luxuriae atque conuiuijs.
+        </p>
+        <p xml:id="rhwis-l43-d1e679">
+          Ad secundum de Apostolo ad Colos. 3. Filij obe  
+          <lb ed="#B1" n="33"/>dite per omnia parentibus, textus soluit seipsum, quia sequitur: Hoc enim pla 
+          <lb ed="#B1" n="34"/>citum est in Domino: id est, secundum praecepta diuina duntaxat.
+        </p>
+        <p xml:id="rhwis-l43-d1e686">
+          Ad tertium 
+          <lb ed="#B1" n="35"/>dicendum, quod nulla irreuerentia sit patri, si in illis sibi non obediatur, in 
+          <lb ed="#B1" n="36"/>quibus ius praelationis non habet. Credo tamen quod filius uenialiter po 
+          <lb ed="#B1" n="37"/>test peccare de facili non obediendo patri: &amp; in indifferentibus 
+          <lb ed="#B1" n="38"/>ex genere suo: sed uenialibus peccatis mensu 
+          <lb ed="#B1" n="39"/>ram praefigere in hac materia est 
+          <lb ed="#B1" n="40"/>mihi impossibile.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

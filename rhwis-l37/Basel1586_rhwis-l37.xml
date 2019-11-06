@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 37 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 37 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="129"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l37">
+        <head xml:id="rhwis-l37-Hd1e95">Lectio 37</head>
+        <p xml:id="rhwis-l37-d1e98">
+          <!--sap_Page_163.xml-->
+          <pb ed="#B1" n="129"/>
+          <lb ed="#B1" n="1"/>POSTQVAM igitur Spiritus sanctus declarauit quod iusti non  
+          <lb ed="#B1" n="2"/>carebunt mercede: Hic diuertendo se ad impios ostendit quod 
+          <lb ed="#B1" n="3"/>nec impij transibunt impune. Fuit autem opinio eorum sicut in 
+          <lb ed="#B1" n="4"/>principio secundi Capituli patuit, quod nulla penitus est iusticiae 
+          <lb ed="#B1" n="5"/>uel iniusticiae retributio in futuro. Quia igitur iam declarauit op  
+          <lb ed="#B1" n="6"/>positum de electis ostendendo quod praemiabuntur aeternaliter. Hic ostendit  
+          <lb ed="#B1" n="7"/>quod etiam impij iuxta eorum demerita punientur proportionabiliter. Et cir 
+          <lb ed="#B1" n="8"/>ca hoc duo facit: quia primo ostendit quod tales infideles nullam aliam uitam  
+          <lb ed="#B1" n="9"/>expectantes in futuro cruciantur. Secundo quod in praesenti a suo desiderio 
+          <lb ed="#B1" n="10"/>defraudantur. Secunda pars ibi: Et vacua spes. Circa primum duo facit: Nam 
+          <lb ed="#B1" n="11"/>primo poena impijs debita applicatur. Secundo causa poenae rationabiliter ex  
+          <lb ed="#B1" n="12"/>plicatur. Secunda pars ibi: Qui neglexerunt iustum. Dicit ergo primo sic: lmpi 
+          <lb ed="#B1" n="13"/>autem: id est, infideles DEVM negantes, &amp; nullam aliam uitam aestimantes. 
+          <lb ed="#B1" n="14"/>De quibus dictum est in secundo Capitulo per totum ibi: Dixerunt autem im 
+          <lb ed="#B1" n="15"/>pii, &amp;c. tales inquam imon habebunt correptionem: id est, poenam eos corri 
+          <lb ed="#B1" n="16"/>pientem, &amp; hoc iustissimam, quia eorum maliciae correspondentem. Vnde dicit 
+          <lb ed="#B1" n="17"/>secundum quae: id est, secundum illa quae cogitauerunt: quia omne malum a 
+          <lb ed="#B1" n="18"/>cogitatione procedit: ideo si cogitationes puniantur, constat quod tam locu. 
+          <lb ed="#B1" n="19"/>tiones quam operationes punientur. Consequenter cum dicit: Qui neglexerunt  
+          <lb ed="#B1" n="20"/>iustum. Causam punitionis malorum explicat.
+        </p>
+        <p xml:id="rhwis-l37-d1e148">
+          <lb ed="#B1" n="21"/>Vbi notandum quod primordialis causa poenae tam in angelo quam in ho 
+          <lb ed="#B1" n="22"/>mine fuit negligentia. Si enim homo uel angelus similis a DEO creatus in gratia  
+          <lb ed="#B1" n="23"/>bene fuisset usus naturalibus &amp; gratuitis sibi datis, nunquam apparuisset ange 
+          <lb ed="#B1" n="24"/>lo conuemens aliquod deordinatum, uel DEI excellentiam appetiuisse, nec 
+          <lb ed="#B1" n="25"/>unquam homo iudicasset dictis &amp; persuasionibus serpentis adquieuisse: sed  
+          <lb ed="#B1" n="26"/>quia neglexerunt uti gratijs sibi datis, permissi sunt cadere in errorem propter 
+          <lb ed="#B1" n="27"/>peccatum negligentiae, &amp; de errore in peccatum superbiae &amp; inobedientiae. Et  
+          <lb ed="#B1" n="28"/>ideo tangendo radicem culpae peccatorum dicit: Qui neglexerunt iustum: id est. 
+          <lb ed="#B1" n="29"/>iusticiam. Iustum enim fuit &amp; est que omnis creatura rationalis per gratias a DEO 
+          <lb ed="#B1" n="30"/>acceptas solicite &amp; diligenter, DEVM honoret, qui est earundem gratiarum lar 
+          <lb ed="#B1" n="31"/>gitor. Mich. 6. Indicabo tibi o homo quid sit bonum, &amp; quid Dominus DEVS 
+          <lb ed="#B1" n="32"/>tuus quaerat a te, utique facere iudicium &amp; diligere iusticiam, &amp; folicite ambulare 
+          <lb ed="#B1" n="33"/>cum Domino DEO tuo. Et quia negligentia parit contemptum. Ideo subiungit 
+          <lb ed="#B1" n="34"/>quod non solum neglexerunt iustum: imo a Domino recesserunt: quia, 18. 
+          <lb ed="#B1" n="35"/>Proverb. dicitur: Impius cum in profundum peccatorum uenerit, contemnit. Et  
+          <lb ed="#B1" n="36"/>nota quod iste est modus cadendi seu ordo in homine, quantumcunque fuerit in 
+          <lb ed="#B1" n="37"/>statu perfecto, uidelicet primo negligere modica, loqui ociosa, raro confitem 
+          <lb ed="#B1" n="38"/>parum dicere diuinum officium: haec uidentur esse modica peccata. Et ex istis 
+          <lb ed="#B1" n="39"/>Diabolus inducit in grauissima peccata. Circa dolium sunt magni circuli, qui  
+          <lb ed="#B1" n="40"/>bus asseres dolei colligantur, &amp; illi magni in suis extremitatibus colligantur  
+          <!--sap_Page_164.xml-->
+          <pb ed="#B1" n="130"/>
+          <lb ed="#B1" n="1"/>cum paruis uiminibus: solutis ergo paruis soluuntur magni, &amp; solutis magnis  
+          <lb ed="#B1" n="2"/>totum decidit. Sic moraliter est qui spernit modica paulatim decidit, Eccl. 19. 
+          <lb ed="#B1" n="3"/>in principio: &amp; sic non solum non curauerunt isti impij scire quae DEI sunt, sed  
+          <lb ed="#B1" n="4"/>abiecerunt scientiam DEI. V nde subdit: Sapientiam enim &amp; disciplinam qui abis  
+          <lb ed="#B1" n="5"/>cit, infelix est: id est, fidem de supernaturalibus, hominibus reuelatis diuinitus 
+          <lb ed="#B1" n="6"/>ad Rom. 11. <quote xml:id="rhwis-l37-Qd1e210" source="http://scta.info/resource/rom11_33">O altitudo diuitiarum sapientiae &amp; scientiae DEI quam incom<lb ed="#B1" n="7"/>prehensibilia</quote>, 
+          &amp;c. Vel disciplinas: id est, diuinas correptiones &amp; monitiones, 
+          <lb ed="#B1" n="8"/>quas per prophetas suos modo ostendit, Proverbiorum decimoquinto: Qui  
+          <lb ed="#B1" n="9"/>abijcit disciplinam, despicit animam suam, &amp; per consequens est infelix. Iuxta 
+          <lb ed="#B1" n="10"/>illud metricum: 
+          <lb ed="#B1" n="11"/>Tres infelices in mundo dicimus esse. 
+          <lb ed="#B1" n="12"/>Infelix qui pauca sapit spernitque doceri. 
+          <lb ed="#B1" n="13"/>infelix qui multa sapit spernitque docere.
+        </p>
+        <p xml:id="rhwis-l37-d1e229">
+          <lb ed="#B1" n="14"/>Neglexerunt iustum] Nota quod clericus peccator similis est Argo. Argus 
+          <lb ed="#B1" n="15"/>fuit, sicut refert Ouidius Metam. 1. circa finem, quidam pastor qui habuit cen 
+          <lb ed="#B1" n="16"/>tum oculos, &amp; tamen non habuit nisi unam uaccam nuper transformatam de 
+          <lb ed="#B1" n="17"/>uirgine ad custodiendam. Mercurius uero finxit se custodem &amp; pastorem ca 
+          <lb ed="#B1" n="18"/>prarum &amp; accessit ad locum ubi Argus iste uaccam pascebat: Mercurius fistu 
+          <lb ed="#B1" n="19"/>labat ita iocunde &amp; ita gratiose, quod Argus eum rogauit quod placeret sibi 
+          <lb ed="#B1" n="20"/>morari cum capris suis in pascuis illis secum. TAlius annuit quia idcirco ue 
+          <lb ed="#B1" n="21"/>nit: sederunt ergo simul. Mercurius de novo incepit fistulare ita gratiose quod  
+          <lb ed="#B1" n="22"/>aliqui oculi ipsius Argi inceperunt dormitare, alijs adhuc ad uaccam respi 
+          <lb ed="#B1" n="23"/>cientibus. Tandem ita inaestimabiliter bene fistulauit, quod omnes centum 
+          <lb ed="#B1" n="24"/>oculi dormitauerunt, &amp; statim surrexit Mercurius &amp; caput cum oculis am 
+          <lb ed="#B1" n="25"/>putauit, &amp; sic uaccam secum duxit. Moraliter clericus literatus est quasi Ar 
+          <lb ed="#B1" n="26"/>gus centum habens oculos, uidelicet considerationes multas: id est, caute 
+          <lb ed="#B1" n="27"/>las, &amp; non habet nisi unam uaccam custodire: id est, unam bestialem conscien 
+          <lb ed="#B1" n="28"/>tiam. Ista fuit uirgo dummodo retinuit innocentiae puritatem. Haec transfor 
+          <lb ed="#B1" n="29"/>mata est in uaccam bestialem concupiscentiam &amp; uoluptatem. Esa. 7. Nu 
+          <lb ed="#B1" n="30"/>triet homo uaccam, Ozeae 4. Sicut uacca lasciuiens declarauit Israel. Mercu 
+          <lb ed="#B1" n="31"/>rius: id est, medius currens Diabolus est, qui circuit quaerens quem deforet, 1 
+          <lb ed="#B1" n="32"/>Pet. 5. Iste fistulauit ita dulciter per strepitum lasciuiae mundialis per adulationes  
+          <lb ed="#B1" n="33"/>amicorum, quod iste Argus obdormit per negligentiam usque ad mortem. Et tunc 
+          <lb ed="#B1" n="34"/>aufert sibi caput: quia separat ab eo CHRISTVM, qui est caput Ecclesiae, &amp; mi 
+          <lb ed="#B1" n="35"/>seram uaccam ducit in gehennam. Et ideo eis dicitur: Nolite negligere, nolite 
+          <lb ed="#B1" n="36"/>cessare a custodia, &amp; concussione conscientiae propriae, Iudic. 18. 
+          <lb ed="#B1" n="37"/>In hominibus mundo deditis quadruplex his diebus negligentia inuenitur.  
+          <lb ed="#B1" n="38"/>Sunt enim negligentes in addiscendo morum sanctitatem: In discutiendo pro 
+          <lb ed="#B1" n="39"/>priam peruersitatem: In reuerendo DEI maiestatem: Et in sufferendo proximi 
+          <lb ed="#B1" n="40"/>necessitatem. Primo sunt negligentes in addiscendo morum sanctitatem. Bene 
+          <lb ed="#B1" n="41"/>inueniuntur quidam assidui ad discendum artium subtilia propter curiositatem. Iu 
+          <lb ed="#B1" n="42"/>ra ciuilia propter utilitatem: artem bellandi propter strenuitatem: artem negocian  
+          <lb ed="#B1" n="43"/>di contra paupertatem: &amp; sic de singulis, quae ad uitae praesentis promotionem &amp; 
+          <lb ed="#B1" n="44"/>administrationem spectant: sed ad discendum artem bene uiuendi, DEO seruiendi, 
+          <lb ed="#B1" n="45"/>artem peccata uitandi, omnes quasi se exhibent negligentes. Vnde mundus inuitat  
+          <lb ed="#B1" n="46"/>ad errores &amp; ineptias &amp; omnes obediunt. DEVS uocat ad honores, &amp; nuptias, 
+          <lb ed="#B1" n="47"/>&amp; omnes negligunt, Matth. 22. Illi neglexerunt &amp; abierunt: alius ad uillam suam, 
+          <lb ed="#B1" n="48"/>alius ad negociationem suam, &amp; tamen haec summa philosophia est: scire bene ui  
+          <lb ed="#B1" n="49"/>uere, cui cotinue &amp; semper insistendum est, &amp; uacandum ab alijs ut huic inseruia 
+          <lb ed="#B1" n="50"/>tur. Non sicut multi qui citius omnia uolunt facere quam ordinem bene uiuendi 
+          <lb ed="#B1" n="51"/>addiscere. Contra quos Seneca epist. 109. subtrahe secundum comunes libros  
+          <lb ed="#B1" n="52"/>x2TVI. Non cum uacaueris philosophandum est, sed omnia alia negligenda sunt,  
+          <lb ed="#B1" n="53"/>ut huic assideamus, cum nullum tempus satis magnum est, etiamsi a pueritia 
+          <!--sap_Page_165.xml-->
+          <pb ed="#B1" n="131"/>
+          <lb ed="#B1" n="1"/>usque ad humani aeui terminos uita producatur. Sed hic estuna negligentia com 
+          <lb ed="#B1" n="2"/>muniter in iuuenibus, qui ideo negligunt partem addiscere: quia non possunt  
+          <lb ed="#B1" n="3"/>totum adquirere. Ideo nihil volunt scire: quia non possunt alios excellere,  
+          <lb ed="#B1" n="4"/>&amp; haec negligentia filia est superbiae, quas bene deridet Horat. lib. epistolarum 
+          <lb ed="#B1" n="5"/>epistola 1 
+          <lb ed="#B1" n="6"/>Non poteris oculo quantum contendere lynces. 
+          <lb ed="#B1" n="7"/>Non tamen idcirco contemnas lippus inungi. 
+          <lb ed="#B1" n="8"/>Vult dicere ponatur quo sis lippus, &amp; diffidas adquirere tantum uisus acumen, 
+          <lb ed="#B1" n="9"/>quo possis sicut lynces per muros penetrare ES uiuendo. Non ideo contemnas uti  
+          <lb ed="#B1" n="10"/>collirio &amp; aqua iuuante ad acumen oculorum. Fatuum est enim partem contem 
+          <lb ed="#B1" n="11"/>nere: quia totum non potes habere. Talibus aptis ad discendum dicitur, 1 ad  
+          <lb ed="#B1" n="12"/>Timoth. 4. Noli negligere gratiam quae in te est. Figuratur illud Gen. 42. au 
+          <lb ed="#B1" n="13"/>diens Iacob quod alimenta uenderentur in Aegypto, dixit filijs suis: Quare ne 
+          <lb ed="#B1" n="14"/>gligitis: audiui quod triticum uenundetur in Aegypto: uult significare quod 
+          <lb ed="#B1" n="15"/>ubique sunt alimenta uenalia, scilicet alimenta animae propter nullam difficul  
+          <lb ed="#B1" n="16"/>tatem debet homo ea negligere. Et reuera scientia salutis non est nisi in Aegy 
+          <lb ed="#B1" n="17"/>pto: id est, in obscura &amp; tenebrosa Theologia: quia tenebrosa aqua in nubi  
+          <lb ed="#B1" n="18"/>bus aëris in Psal. glos. id est, obscura doctrina in prophetis &amp; praedicatoribus. 
+          <lb ed="#B1" n="19"/>Secundo sunt homines negligentes in discutiendo propriam peruersitatem. 
+          <lb ed="#B1" n="20"/>Quendam novi qui fuit optimus senescallus ordinando familiam alienam e 
+          <lb ed="#B1" n="21"/>tiam magnorum dominorum, &amp; pessime sciuit ordinare de regimine domus 
+          <lb ed="#B1" n="22"/>suae. Tales sunt plerique qui diligenter alios emendant, &amp; tamen semper negli 
+          <lb ed="#B1" n="23"/>gunt seipsos. Quantas solicitudines habemus ad discutiendas conscientias alie 
+          <lb ed="#B1" n="24"/>nas: pro quibus non habemus respondere, nisi fuerimus eorum praelati: quan  
+          <lb ed="#B1" n="25"/>tam pigritiam ad discutiendas proprias conscientias: DEVS novit. Conscien 
+          <lb ed="#B1" n="26"/>tias enim proprias discutimus uno die, aut dimidio uix in 40 diebus. Coscien 
+          <lb ed="#B1" n="27"/>tias autem aliorum per multos annos, &amp; tamen nobis dicitur quod incessan 
+          <lb ed="#B1" n="28"/>ter nos discutiamus, Iudic. 18. Nolite negligere, nolite cessare.
+        </p>
+        <p xml:id="rhwis-l37-d1e383">
+          <lb ed="#B1" n="29"/>Tertio sunt homines, negligentes in reuerendo DEI maiestatem, &amp; hoc ha 
+          <lb ed="#B1" n="30"/>bent timere curati specialiter &amp; praelati, &amp; quicunque alii dediti &amp; ministerio 
+          <lb ed="#B1" n="31"/>DEI titulo speciali, cuiusmodi sunt omnes clerici infra sacros ordines, &amp; reli 
+          <lb ed="#B1" n="32"/>giosi quicunque. Et tamen si bene consideramus hi sunt qui negligentius a 
+          <lb ed="#B1" n="33"/>gunt, 2. Paralipom. 24. Porro Leuitae egere negligentius. Quibus tamen prae 
+          <lb ed="#B1" n="34"/>cipitur Deutero. 8. Obserua &amp; caue nequando obliuiscaris Domini DEI tui,  
+          <lb ed="#B1" n="35"/>&amp; negligas mandata eius &amp; iudicia. Negligentiam in istis causat nimia fre 
+          <lb ed="#B1" n="36"/>quentia assistendi DEO. Quia nimia familiaritas parit contemptum. Et ta 
+          <lb ed="#B1" n="37"/>men contra tales dicitur 2 Paralipo. 29. Filij mei nolite negligere. Vos elegit 
+          <lb ed="#B1" n="38"/>DEVS, ut stetis coram eo. Nota extra de celebratione missae dolentes.
+        </p>
+        <p xml:id="rhwis-l37-d1e408">
+          <lb ed="#B1" n="39"/>Quarto sunt homines negligentes in sufferendo proximi necessitatem, 
+          <lb ed="#B1" n="40"/>Deuteronom. uigesimosecundo: De omni re fratris tui si perierit, &amp; inuene 
+          <lb ed="#B1" n="41"/>ris eam, non negligas quasi alienam: Res fratris perijt, si incidit in latrones. 
+          <lb ed="#B1" n="42"/>si est depauperatus fortuna, si indiget aliquo pro amore CHRISTI. Vnde 
+          <lb ed="#B1" n="43"/>nullo modo tales negligere debemus, si possumus tales iuuare. Seculares re 
+          <lb ed="#B1" n="44"/>spondent: Possem talem iuuare, sed non sine damno. Sed nunquid DEVS 
+          <lb ed="#B1" n="45"/>poterit recompensare damnum: Constat quod sic: quia iustus est &amp; Pro 
+          <lb ed="#B1" n="46"/>uerb. 12. prope finem: Qui negligit damnum propter amicum, iustus est: Er 
+          <lb ed="#B1" n="47"/>go talem iustum DEVS necessario remunerabit.
+        </p>
+        <p xml:id="rhwis-l37-d1e430">
+          <lb ed="#B1" n="48"/>Dubitatio literalis: Vtrum omnis negligentia sit peccatum mortale.
+        </p>
+        <p xml:id="rhwis-l37-d1e435">
+          Quod  
+          <lb ed="#B1" n="49"/>sic Ecclesiast. 7. Qui timet DEVM, nihil negligit: Ergo quicunque in aliquo 
+          <lb ed="#B1" n="50"/>negligit, perdit timorem DEI. Sed hoc est peccare mortaliter:
+        </p>
+        <p xml:id="rhwis-l37-d1e442">
+          Praeterea Pro 
+          <lb ed="#B1" n="51"/>uerb. 19. Qui custodit mandata, custodit animam suam: qui autem negligit uias. 
+          <lb ed="#B1" n="52"/>suas, mortificabitur: &amp; loquitur de mortificatione gehennae, quae non est nisi 
+          <lb ed="#B1" n="53"/>per peccatum mortale:
+        </p>
+        <p xml:id="rhwis-l37-d1e451">
+          Praeterea Hiere. 48. Maledictus homo qui facit opus 
+          <!--sap_Page_166.xml-->
+          <pb ed="#B1" n="132"/>
+          <lb ed="#B1" n="1"/>DEI fraudulenter, sed maledictio in Scriptura non fertur: nisi pro peccato mortali.
+        </p>
+        <p xml:id="rhwis-l37-d1e460">
+          <lb ed="#B1" n="2"/>Ad oppositum est illud Ecclesiast. 7. De negligentia purga te cum paucis, 
+          <lb ed="#B1" n="3"/>dicit glos. quamuis oblatio parua sit, tamen multorum delictorum purgat ne 
+          <lb ed="#B1" n="4"/>gligentias. Sed per pauca non purgabitur peccatum mortale.
+        </p>
+        <p xml:id="rhwis-l37-d1e470">
+          Ad quaestionem 
+          <lb ed="#B1" n="5"/>dicendum, quod negligentia nihil aliud est quam defectus debitae sollicitudi  
+          <lb ed="#B1" n="6"/>nis circa actum uirtuosum faciendum, proueniens ex remissione feruoris in 
+          <lb ed="#B1" n="7"/>uoluntate: Potest igitur negligentia esse circa actum uel circa circumstantias 
+          <lb ed="#B1" n="8"/>actus, qui actus uel circustantia est de necessitate salutis, &amp; talis negligentia est 
+          <lb ed="#B1" n="9"/>peccatum mortale, sicut si negligam dare eleemosynam tempore extremae ne 
+          <lb ed="#B1" n="10"/>cessitatis proximo indigenti: negligo actum cadentem sub praecepto de neces  
+          <lb ed="#B1" n="11"/>sitate salutis. Similiter si dem eleemosynam, &amp; non ex charitate, uel non in chari 
+          <lb ed="#B1" n="12"/>tate pecco mortaliter. Omittendo circumstantiam quae debet esse in omni actu 
+          <lb ed="#B1" n="13"/>uirtuoso de necessitate salutis, 1. ad Corinth. 16. Omnia opera uestra in cha 
+          <lb ed="#B1" n="14"/>ritate fiant. Aliter potest contingere negligentia circa actum, uel circumstan 
+          <lb ed="#B1" n="15"/>tiam actus, qui tamen actus uel circumstantia non est de necessitate salutis. Si  
+          <lb ed="#B1" n="16"/>cut si negligam dicere salutationem uirginis Mariae, transeundo coram ima 
+          <lb ed="#B1" n="17"/>gine sua, uel cum audio lectionem, cogito de impertinentibus ex remissione 
+          <lb ed="#B1" n="18"/>uoluntatis, &amp; tunc est peccatum ueniale.
+        </p>
+        <p xml:id="rhwis-l37-d1e503">
+          Ad primum cum dicitur: Qui timet  
+          <lb ed="#B1" n="19"/>DEVM nihil negligit: uerum est cadens sub praecepto: quia omne tale est de 
+          <lb ed="#B1" n="20"/>necessitate salutis.
+        </p>
+        <p xml:id="rhwis-l37-d1e510">
+          Ad secundum patet per idem. Ad tertium dicendum, quod  
+          <lb ed="#B1" n="21"/>maledictio infertur pro negligentia respectu circumstantiae debitae. Ad lite 
+          <lb ed="#B1" n="22"/>ram loquitur propheta de Nabuchodonosor, quem DEVS fecit instrumen 
+          <lb ed="#B1" n="23"/>tum suum ad flagellandum populum suum Israel. Istud autem opus fuit DEI 
+          <lb ed="#B1" n="24"/>sic ordinantis &amp; committentis, sed istud Nabuchodonosor attribuit poten 
+          <lb ed="#B1" n="25"/>tiae suae faciens ex odio personarum, id quod facere debuisset ex obedientia 
+          <lb ed="#B1" n="26"/>tantum, &amp; ideo peccauit mortaliter propter quod dicitur: Maledictus homo 
+          <lb ed="#B1" n="27"/>qui facit opus DEI fraudulenter. Maledictus qui prohibet gladium suum a 
+          <lb ed="#B1" n="28"/>sanguine: id est, qui parcit iniuste pro ultione quam DEVS praecepit infligi 
+          <lb ed="#B1" n="29"/>Ad argumentum in oppositum uel loquitur de negligentia ueniali vel mor 
+          <lb ed="#B1" n="30"/>tali. Si de mortali, tunc uerum est, quod purgatur in praesenti per paucos respe 
+          <lb ed="#B1" n="31"/>ctu eorum, quibus in futuro aeternaliter puniretur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
