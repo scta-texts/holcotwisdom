@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 23 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 23 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="81"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l23">
+        <head xml:id="rhwis-l23-Hd1e95">Lectio 23</head>
+        <p xml:id="rhwis-l23-d1e98">
+          <!--sap_Page_115.xml-->
+          <pb ed="#B1" n="81"/>
+          <lb ed="#B1" n="1"/>INVITATIO NE posita per quam reprobi &amp; peruersi alliciunt &amp; 
+          <lb ed="#B1" n="2"/>prouocant seipsos ad peccata lasciuiae corporalis: Hic ponitur eo  
+          <lb ed="#B1" n="3"/>rum inuitatio, qua seinuicem animant &amp; inuitant ad peccata in 
+          <lb ed="#B1" n="4"/>iusticiae fraternalis. Et circa hoc duo siunt: Nam primo loquuntur  
+          <lb ed="#B1" n="5"/>impii generaliter. Secundo crucifixores CHRISTI specialiter, ibi:  
+          <lb ed="#B1" n="6"/>Circumueniamus. Circa primum duo fiunt. Nam primo se hortantur ad iustorum 
+          <lb ed="#B1" n="7"/>oppressionem. Secundo legem quam faciunt statuunt ad sui defensionem, 
+          <lb ed="#B1" n="8"/>ibi. Sit autem fortitudo nostra.
+        </p>
+        <p xml:id="rhwis-l23-d1e122">
+          <lb ed="#B1" n="9"/>Circa primum sciendum quod quatuor generibus hominum solent homi 
+          <lb ed="#B1" n="10"/>nes parcere etiam ualde mali, videlicet Pauperibus propter impotentiam. Iu  
+          <lb ed="#B1" n="11"/>stis propter innocentiam. Viduis propter clementiam. Et senibus propter re 
+          <lb ed="#B1" n="12"/>uerentiam. Haec enim omnia dictat ratio naturalis compassionis: sed isti uilis  
+          <lb ed="#B1" n="13"/>simi homines contra tales intra se conspirant. Vnde dicunt: Opprimamus pau 
+          <lb ed="#B1" n="14"/>perem quantum ad primum: Iustum, quantum ad secundum: Et non parcamus 
+          <lb ed="#B1" n="15"/>viduae, quantum ad tertium, nec reuereamur canos multi temporis, quantum ad 
+          <lb ed="#B1" n="16"/>quartum. Sit autem fortitudo nostra lex iusticiae. Horum opposita docet tam ra 
+          <lb ed="#B1" n="17"/>tioquam scriptura, Esa. 1. Quaerite iudicium, subuenite oppresso, iudicate pau 
+          <lb ed="#B1" n="18"/>perem, defendite uiduam. Quantum ad quartum, Leui. 19. Coram cano capi 
+          <lb ed="#B1" n="19"/>te assurge, &amp; honora personam senis. Vnde poëta:  
+          <lb ed="#B1" n="20"/>Magna fuit quondam hominis reuerentia cam, 
+          <lb ed="#B1" n="21"/>Inque suo precioruga senilis erat.  
+          <lb ed="#B1" n="22"/>Non sic sensit Ouidius de arte Amandi, qui dicit lib. 3. de caluis:  
+          <lb ed="#B1" n="23"/>Turpe pecus mutulum turpis sine gramine campus, 
+          <lb ed="#B1" n="24"/>Et sine fronde frutex, &amp; sine crine caput.
+        </p>
+        <p xml:id="rhwis-l23-d1e159">
+          <lb ed="#B1" n="25"/>Vnde notandum quod signanter in textu connectit pauperem &amp; iustum: 
+          <lb ed="#B1" n="26"/>quia raro inuenitur aliquis diues quin aliquo modo sit iniustus. Vnde diligen 
+          <lb ed="#B1" n="27"/>ter notandum an haec sit sententia hominum modernorum, quae nec paupe 
+          <lb ed="#B1" n="28"/>ribus nec iustis nec uiduis nec senibus ullis parcunt Amouent a se homines 
+          <lb ed="#B1" n="29"/>mundani uiscera compassionis omnino &amp; induunt crudeliter uiscera crude 
+          <lb ed="#B1" n="30"/>litatis, ut nulli parcant, de cuius damno lucrum expectant: dicit Ouidius 15 
+          <lb ed="#B1" n="31"/>Metam. quod est fluuius quidam, cuius aqua bibita reddit uiscera bibentis sa  
+          <lb ed="#B1" n="32"/>xea, &amp; quidquid intingitur in illa aqua fit lapideum. Vnde dicit:  
+          <lb ed="#B1" n="33"/>Humen habent Cicones quod potum saxea reddit  
+          <lb ed="#B1" n="34"/>Viscera quod t actis inducit marmora rebus. 
+          <lb ed="#B1" n="35"/>Hluuius iste est cupiditas deordinata diuitiarum, cuius affectiones priuant mi 
+          <lb ed="#B1" n="36"/>sericordia, charitate &amp; pietate. Vtinam detalibus verificaretur illud Excech.  
+          <lb ed="#B1" n="37"/>36. Auferam cor lapideum de carne uestra, &amp; dabo uobis cor carneum. Con 
+          <lb ed="#B1" n="38"/>sequenter ibi: Sit autem fortitudo nostra. Statuunt illi iniqui legem ad suam de 
+          <lb ed="#B1" n="39"/>fensionem, dicentes: Si contingat quod obijciatur nobis ab alijs quod facimus 
+          <lb ed="#B1" n="40"/>contra legem benefiet: quia sit loco legis fortitudo nostra: ita quod omnes no 
+          <lb ed="#B1" n="41"/>bis oppugnantes opprimamus, nec aliam legem habeamus: quia omnis  
+          <lb ed="#B1" n="42"/>legista debet habere colorem iusticiae: Et ideo subiungunt exilem ra 
+          <!--sap_Page_116.xml-->
+          <pb ed="#B1" n="82"/>
+          <lb ed="#B1" n="1"/>tionem istam: Quod enim infirmum est, inutile inuenitur, ad nostram scilicet la 
+          <lb ed="#B1" n="2"/>sciuiam prouocandam. Et nota quod illi qui non sunt utiles per oblationes &amp; mu 
+          <lb ed="#B1" n="3"/>nera ab istis maioribus comuniter opprimuntur, quantumcunque sint iusti. Isti 
+          <lb ed="#B1" n="4"/>autem qui sunt utiles etiamsi sint iniusti, supportantur. Vnde nota quod oppri 
+          <lb ed="#B1" n="5"/>munt tyranni per potentiam &amp; per uiolentiam, Iacobi 2. Nonne diuites op  
+          <lb ed="#B1" n="6"/>primunt per potentiam, opprimunt aduocati per sapientiam, Exod. 1. Venite 
+          <lb ed="#B1" n="7"/>sapienter opprimamus eum: &amp; Esa.10. Scribentes iniusticias scripserunt ut op  
+          <lb ed="#B1" n="8"/>primerent in iudicio pauperes. Opprimunt praelati per negligentiam, 3. Reg. 
+          <lb ed="#B1" n="9"/>3. Dormiens quippe oppressit eum.
+        </p>
+        <p xml:id="rhwis-l23-d1e224">
+          <lb ed="#B1" n="10"/>Dubitatio potest esse: An liceat per potentiam opprimere proximum.
+        </p>
+        <p xml:id="rhwis-l23-d1e230">
+          Vide<lb ed="#B1" n="11"/>tur 
+          quod sic. Licet praedari &amp; rapere ab hostibus: Ergo licet eos opprimere. 
+          <lb ed="#B1" n="12"/>Consequentia patet: quia rapcre ab aliquo substantiam unde uiuit: hoc est, eum 
+          <lb ed="#B1" n="13"/>opprimere. Antecedens patet per Ambrosium libro suo de Patriarchis, &amp; per 
+          <lb ed="#B1" n="14"/>communem usum bellorum.
+        </p>
+        <p xml:id="rhwis-l23-d1e241">
+          Praeterea infideles proximi sunt: quia omnis ho 
+          <lb ed="#B1" n="15"/>mo proximus est secundum illud mandatum: Diliges proximum tuum: sed secun 
+          <lb ed="#B1" n="16"/>dum Augustinum in epistola ad Vincentium Donatistam: Res, inquit, falso appel 
+          <lb ed="#B1" n="17"/>latis uestras, quas nec iuste possidetis. Et secundum legem terrenorum regum amitte 
+          <lb ed="#B1" n="18"/>re iussi estis. Ergo ab infidelibus potest homo iuste rapere.
+        </p>
+        <p xml:id="rhwis-l23-d1e252">
+          Praeterea domini 
+          <lb ed="#B1" n="19"/>&amp; principes a subditis suis multa uiolenter extorquent: quod ad oppressionem 
+          <lb ed="#B1" n="20"/>pertinet. Sed non est credendum quod tam nobiles errent: Ergo est licitum. 
+          <lb ed="#B1" n="21"/>Praeterea uerberare hominem pertinet ad oppressionem, sed hoc licet dominis: 
+          <lb ed="#B1" n="22"/>quia licet eos uerberare seruos suos: Ergo licet homini opprimere hominem.
+        </p>
+        <p xml:id="rhwis-l23-d1e263">
+          <lb ed="#B1" n="23"/>Ad oppositum est illud Leuit. 19. Non facias calumniam proximo tuo.
+        </p>
+        <p xml:id="rhwis-l23-d1e268">
+          Ad 
+          quae<lb ed="#B1" n="24"/>stionem 
+          dicendum quod opprimere est aliquem contra uires &amp; uoluntatem pre 
+          <lb ed="#B1" n="25"/>mere. Hoc autem fieri potest dupliciter. Vno modo secundum ordinem iuris: si 
+          <lb ed="#B1" n="26"/>cut pater opprimit &amp; verberat filios suos, quibus tenetur castigationem. Alio 
+          <lb ed="#B1" n="27"/>modo contra ordinem iuris: sicut tyranni opprimunt subiectos, &amp; hoc est, pro 
+          <lb ed="#B1" n="28"/>prie opprimere aliquem contra ordinem iuris, debilitare uel in rebus uel in per 
+          <lb ed="#B1" n="29"/>sona: &amp; hoc quia est contra charitatem, est illicitum.
+        </p>
+        <p xml:id="rhwis-l23-d1e284">
+          Ad primum quod est de 
+          <lb ed="#B1" n="30"/>hostibus, aut est iustum bellum, aut iniustum. Si est iustum, ea quae per bellum 
+          <lb ed="#B1" n="31"/>adquiruntur eorum efficiuntur, nec ad restitutionem tenetur.
+        </p>
+        <p xml:id="rhwis-l23-d1e292">
+          Ad secundum di 
+          <lb ed="#B1" n="32"/>cendum quod bona infidelium non licet priuatis auferre: secus est de his quae 
+          <lb ed="#B1" n="33"/>publica autoritate funguntur: subduntur enim legibus principum terrenorum.
+        </p>
+        <p xml:id="rhwis-l23-d1e299">
+          <lb ed="#B1" n="34"/>Ad tertium dicendum, quod uel principes extorquent quod est necessarium 
+          <lb ed="#B1" n="35"/>Reipublicae defendendae, &amp; tunc licet subditi iniuste soluant, ipsi non sunt in 
+          <lb ed="#B1" n="36"/>periculo. Aut extorquent quod non est necessarium, tunc sunt oppressores &amp; 
+          <lb ed="#B1" n="37"/>raptores: quia <quote xml:id="rhwis-l23-Qd1e309" source="http://scta.info/resource/adcd-l4-d1e535">remota iusticia magna regna non sunt nisi magna latrocinia</quote>: si 
+          <lb ed="#B1" n="38"/>cut dicit <ref xml:id="rhwis-l23-Rd1e315">August. 4. de Ciuit. DEI</ref>. Vnde ad restitutionem tenentur. Hoc ca<lb ed="#B1" n="39"/>ueant 
+          confessores dominorum: quia longe aliter &amp; aliud est loqui de regibus, 
+          <lb ed="#B1" n="40"/>&amp; de dominis istis paruis.
+        </p>
+        <p xml:id="rhwis-l23-d1e323">
+          Ad quartum dicendum quod nulli licet aliquem uer<lb ed="#B1" n="41"/>berare 
+          nisi sit eius iurisdictioni subditus, ut eum instruat: sed secundum leges 
+          <lb ed="#B1" n="42"/>licet eum instrui, &amp; si deficiat, licet eum per uerberationem ad legem reduce 
+          <lb ed="#B1" n="43"/>re: &amp; idem de filio potest pater.
+        </p>
+        <p xml:id="rhwis-l23-d1e332">
+          <lb ed="#B1" n="44"/>De paupertate est sciendum, quod triplex in hominibus reperitur pauper 
+          <lb ed="#B1" n="45"/>tas. Est enim paupertas egestatis: paupertas honestatis: &amp; paupertas uanita 
+          <lb ed="#B1" n="46"/>tis. Prima miserabilis: quia uoluntati contraria. Secunda comendabile: quia 
+          <lb ed="#B1" n="47"/>uirtuosa &amp; uoluntaria. Tertia est uituperabilis &amp; nulli necessaria.
+        </p>
+        <p xml:id="rhwis-l23-d1e343">
+          <lb ed="#B1" n="48"/>Primam paupertatem quae uocatur egestas, sustinent isti, qui inuolunta 
+          <lb ed="#B1" n="49"/>ric sunt pauperes: qui si possent libenter haberent diuitias. Isti DEVM accu 
+          <lb ed="#B1" n="50"/>sant de iniquitate, proximum de tenacitate, fortunam suam de infelicitate: &amp; hi 
+          <lb ed="#B1" n="51"/>sunt pleni murmurationibus, furtis &amp; mendacijs, &amp; licet uitiosi sint ut pluri 
+          <lb ed="#B1" n="52"/>mum: tamen pium est 6Srum defectibus subuenire. Vnde Psal. Beatus qui intel 
+          <lb ed="#B1" n="53"/>ligit super egenum &amp; pauperem: &amp; Glos. Hier. super illud Eccles. 12. Da mise 
+          <!--sap_Page_117.xml-->
+          <pb ed="#B1" n="sap_Page_117-sap_Page_"/>
+          <cb ed="#B1" n=""/>
+          <lb ed="#B1" n="1"/>ricordi &amp; ne suscipias peccatorem. Dicit sic: Qui indigenti misericordiam tribuit,  
+          <lb ed="#B1" n="2"/>nec pro delicto spernit, misericordiam uere facit. Natura enim respicienda est &amp; 
+          <lb ed="#B1" n="3"/>non persona. Qui enim indigenti datpeccatori, non quia peccator est, sed quia 
+          <lb ed="#B1" n="4"/>homo est, non peccatorem, sed iustum nutrit: quia non delictum diligit, sed naturam.
+        </p>
+        <p xml:id="rhwis-l23-d1e374">
+          <lb ed="#B1" n="5"/>Secunda est paupertas honestatis, &amp; est uoluntarie assumpta propter CHRI 
+          <lb ed="#B1" n="6"/>STVM, qua non solum homo sollicitudinem seculi deserit, imo indigentijs multis  
+          <lb ed="#B1" n="7"/>se exponit: &amp; isti triplicem securitatem habent. Nam sunt CHRISTO similiores 
+          <lb ed="#B1" n="8"/>in conuersatione, ualidiores in temperatione, beatiores in remuneratione. Au 
+          <lb ed="#B1" n="9"/>gust. de Ecclesiasticis dogmatibus: Bonum est pauperibus facultates cum dispen 
+          <lb ed="#B1" n="10"/>satione erogare, melius est pro intentione sequendi CHRISTVM insimile do 
+          <lb ed="#B1" n="11"/>nare &amp; absolutum sollicitudine egere cum CHRISTO. Vnde Bernh. Sunt qui pau 
+          <lb ed="#B1" n="12"/>peres esse uolunt, eo tamen pacto ut nihil eis desit: &amp; sic diligunt paupertatem,  
+          <lb ed="#B1" n="13"/>ut nullam patiantur inopiam. Sunt igitur uoluntarij pauperes CHRISTO similio 
+          <lb ed="#B1" n="14"/>res in conuersatione: quia ipse realiter &amp; effectualiter, effectus est pauper pro no 
+          <lb ed="#B1" n="15"/>bis. Pauper uiuendo, docendo, moriendo. In cuius persona dicit Psal. Pauper ego 
+          <lb ed="#B1" n="16"/>sum &amp; in laboribus a iuuentute mea. Vnde isti possunt dicere CHRISTO: Dne 
+          <lb ed="#B1" n="17"/>si decepti sumus, tu decepisti nos sic uiuendo, sic docendo. Venit ad suscipiendam 
+          <lb ed="#B1" n="18"/>paupertatem hominibus odiosam ut eam nobis redderet gratiosam, dicens illud  
+          <lb ed="#B1" n="19"/>Matth. 19. Si uis pfectus esse, uade &amp; uende omnia quae habes, &amp; da pauperi 
+          <lb ed="#B1" n="20"/>bus, &amp; ueni sequere me. Secundo sunt pauperes ualidiores in tentatione. Si duo 
+          <lb ed="#B1" n="21"/>homines adinuicem colluctentur, &amp; alter sit totus farcitus panis, alius nudus: il  
+          <lb ed="#B1" n="22"/>le qui est nudus, bene fortassis habet uerecundiam, sed tamen habilior est ad lu 
+          <lb ed="#B1" n="23"/>ctam: nam non habet in se unde a socio teneatur. Vita nostra colluctatio est cum 
+          <lb ed="#B1" n="24"/>Diabolo, ad Eph. 6. Non est nobis colluctatio aduersus carnem &amp; sanguinem 
+          <lb ed="#B1" n="25"/>tantum, sed aduersus principes &amp; potestates &amp; rectores tenebrarum harum. Ipse  
+          <lb ed="#B1" n="26"/>autem qui de diuitijs non curat, est nudus: diuites autem uestiti sunt ex omni 
+          <lb ed="#B1" n="27"/>parte, &amp; ideo Diabolus potest eos tenere ex omni parte, &amp; prosternere in ten 
+          <lb ed="#B1" n="28"/>tatione. Pauperes autem quia nudi sunt, ideo euadunt. Vnde Greg. Nudi cum 
+          <lb ed="#B1" n="29"/>nudo luctari debemus. Facilius enim ad terram trahitur, qui habet in se unde te 
+          <lb ed="#B1" n="30"/>neatur. Serpens sicut dicit Magister in historijs, hominem nudum fugit, &amp; insilit 
+          <lb ed="#B1" n="31"/>in uestitum. Sic Diabolus, qui est serpens antiquus, pauperes fugit, in diuites 
+          <lb ed="#B1" n="32"/>insilit: quia qui uolunt diuites fieri, incidunt in tentationem &amp; in laqueum Dia 
+          <lb ed="#B1" n="33"/>boli, 1. ad Timotheum 6. &amp; Ecclesiast. 30. Melior est pauper fortis quam diues 
+          <lb ed="#B1" n="34"/>imbecillis &amp; flagellatus malicia. Tertio sunt pauperes beatiores in remunera 
+          <lb ed="#B1" n="35"/>tione. Erunt enim iudicis assessores in iudicio, Matth. 19. In resurrectione uel 
+          <lb ed="#B1" n="36"/>regenerationecum sederit Filius hominis in sede maiestatis suae, fedebitis &amp; 
+          <lb ed="#B1" n="37"/>uos iudicantes, &amp; Iob 36. Iudicium pauperibus tribuet.
+        </p>
+        <p xml:id="rhwis-l23-d1e449">
+          Nota quod sunt tria 
+          <lb ed="#B1" n="38"/>genera hominum, qui licet nihil habeant: tamen non reputantur pauperes,  
+          <lb ed="#B1" n="39"/>scilicet electi &amp; uocati ad magnam dignitatem. Habentes in deposito securo 
+          <lb ed="#B1" n="40"/>diuitias &amp; thesaurum, &amp; haeredes magnorum. Et haec tria inueniuntur in pau 
+          <lb ed="#B1" n="41"/>peribus spiritu: Vnde Iacobi secundo: Nonne pauperes elegit DEVS in 
+          <lb ed="#B1" n="42"/>hoc mundo: Ecce primum, diuites in fide. Ecce secundum, &amp; haeredes re 
+          <lb ed="#B1" n="43"/>gni. Ecce tertium, quod paupertas uoluntaria confert mundiciam, noti  
+          <lb ed="#B1" n="44"/>tiam, &amp; laeticiam. De primo Seneca, &amp; ob hoc maxime amanda est pau 
+          <lb ed="#B1" n="45"/>pertas: quia ex quo ametur, ostendit. Quippe non habet adulationem comi 
+          <lb ed="#B1" n="46"/>tem sibi fortunam &amp; non personam amantem: quia ista respicit Hieronymus 
+          <lb ed="#B1" n="47"/>in epistola: Pauperes DEI sunt: quia mundana superbia derelicta, humilita 
+          <lb ed="#B1" n="48"/>ti se per omnia tradiderunt. Nam &amp; pauper si superbiat, non est DEI pau 
+          <lb ed="#B1" n="49"/>per: &amp; locuples si humilitatem diligat, non est seculi diues. Voluntates enim 
+          <lb ed="#B1" n="50"/>talium sunt inspiciendae non nomina: haec Cassio. super illud Psalm. Edent  
+          <lb ed="#B1" n="51"/>pauperes &amp; saturabuntur: unde Hieronymus in Epistola: Difficilius arrogan  
+          <lb ed="#B1" n="52"/>tia quam auro uel gemmis caremus. His enim abiectis, interdum glorio  
+          <lb ed="#B1" n="53"/>si sordibus tumemus, &amp; uenerabilem paupertatem populari auro offerimus. 
+          <!--sap_Page_118.xml-->
+          <pb ed="#B1" n="84"/>
+          <lb ed="#B1" n="1"/>Plus est animum quam cultum deposuisse. Haec ille. Confert ergo uoluntaria 
+          <lb ed="#B1" n="2"/>paupertas noticiam, laeticiam &amp; mundiciam. Tertia est paupertas uanitatis. Et  
+          <lb ed="#B1" n="3"/>talis fuit quorundam philosophorum tempore lohannis Euangelistae, qui pro 
+          <lb ed="#B1" n="4"/>uana gloria mundi, gemmas preciosas fregerunt in signum mundani contemptus. 
+          <lb ed="#B1" n="5"/>Sed de his non plus modo, &amp;c 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

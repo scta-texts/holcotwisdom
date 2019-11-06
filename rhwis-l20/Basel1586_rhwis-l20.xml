@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 20 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 20 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="72"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l20">
+        <head xml:id="rhwis-l20-Hd1e95">Lectio 20</head>
+        <p xml:id="rhwis-l20-d1e98">
+          <lb ed="#B1" n="6"/>POSITA impiorum erronea opinione: Hic consequenter agitur  
+          <lb ed="#B1" n="7"/>de eorum uitiosa conuersatione. Quales enim opiniones habent  
+          <lb ed="#B1" n="8"/>homines in moralibus, tales sunt electiones eorum in moribus. E<lb ed="#B1" n="9"/>lectio 
+          enim sequitur praeconsiliationem, ut patet. <ref xml:id="rhwis-l20-Rd1e108">3. Ethic. cap. 6. 7.</ref> 
+          <lb ed="#B1" n="10"/>&amp; ideo iniquum consilium &amp; super falsis principijs fundatum seu radicatum: 
+          <lb ed="#B1" n="11"/>sequitur uitiosa electio &amp; peruersa: &amp; ideo in parte ista ponitur conclusio to<lb ed="#B1" n="12"/>tius 
+          negociis praecedentis. Et ista practica &amp; ualde mala secundum quam im<lb ed="#B1" n="13"/>pii 
+          ducunt uitam suam. Et est ista conclusio una conspiratiua conuocatio se<lb ed="#B1" n="14"/>cundum 
+          quam impii alliciunt &amp; inuitant se inuicem ad peccandum. Et diui<lb ed="#B1" n="15"/>ditur 
+          ista conclusio in multas partes: quia estuna copulatiua ex multis parti 
+          <lb ed="#B1" n="16"/>bus aggregata. Vnde primo animant seipsos ad peccata lasciuiae corporalis  
+          <lb ed="#B1" n="17"/>Secundo ad peccata iniusticiae generalis, ibi: opprimamus. Circa primum tria fa<lb ed="#B1" n="18"/>cit: 
+          Primo se exhortantur ad peccandum in genere: secundo materiam delecta<lb ed="#B1" n="19"/>tionum 
+          enumerant inductiue, ibi: vino precioso: tertio quid hoc expediat, con<lb ed="#B1" n="20"/>firmant 
+          ratione, ibi: quoniam hec est pars nostra.
+        </p>
+        <p xml:id="rhwis-l20-d1e136">
+          <lb ed="#B1" n="21"/>Dicunt ergo primo sic: Venite ergo &amp; fruamur bonis quae sunt, quasi dicerent,  
+          <lb ed="#B1" n="22"/>ex quo sic est quod non restat homini post hanc uitam nec poena nec praemium 
+          <lb ed="#B1" n="23"/>sed omnis homo pro suo perpetuo corrumpitur in morte, sicut secundum eos 
+          <lb ed="#B1" n="24"/>superius est probatum. Ergo venite: id est, socia liter &amp; a pari conueniamus, e 
+          <lb ed="#B1" n="25"/>fruamur bonis, quae sunt: id est, istis bonis temporalibus: quia alia sperare non 
+          <lb ed="#B1" n="26"/>possumus post hanc uitam, &amp; vtamur sicut nobis placet, creatura: id est, omni 
+          <lb ed="#B1" n="27"/>re cteata, tanquam in iuuentute: id est, tempestiue &amp; sine fraeno auidem &amp; voluptuose,  
+          <lb ed="#B1" n="28"/>&amp; hoc celeriter: id est, statim: quia tempus breue est. Haec est conclusio: cum non sit 
+          <lb ed="#B1" n="29"/>praemium post hanc uitam pro bonis operibus, nec poena pro malis: indulgendum est 
+          <lb ed="#B1" n="30"/>omni ei quod in hac uita delectat. De ista conclusione primo uidendum est de 
+          <lb ed="#B1" n="31"/>consequentia, &amp; sine dubio uidetur bona &amp; satis consulte, &amp; prudenter illata: 
+          <lb ed="#B1" n="32"/>quia si in hac uita tantum sperantes essemus, miserabiliores omnibus homini 
+          <lb ed="#B1" n="33"/>bus essemus uel sumus, sicut dicit Apostolus 1. ad Corinth.15. Vnde dato 
+          <lb ed="#B1" n="34"/>quod non foret poena futura uel praemium non uideo quin fruendum esset il  
+          <lb ed="#B1" n="35"/>lecebris &amp; delectationibus huius uitae: sed hoc antecedens est falsum: &amp; dato  
+          <lb ed="#B1" n="36"/>uno inconuenienti multa sequuntur, sicut dicit Arist. 1. Physic. Sed quia infa 
+          <lb ed="#B1" n="37"/>tuati fuerunt in antecedente illius consequentiae, uidelicet imponendo animae 
+          <lb ed="#B1" n="38"/>humanae mortalitatem, ideo multa inconuenientia concesserunt. Et est illa pars 
+          <lb ed="#B1" n="39"/>conclusionis plena fatuitatibus. 
+        </p>
+        <p xml:id="rhwis-l20-d1e180">
+          <lb ed="#B1" n="40"/>Primo in hoc dicunt quod debeamus frui temporalibus. Nam sicut dicit 
+          <lb ed="#B1" n="41"/><ref xml:id="rhwis-l20-Rd1e185">August. 1. de doctrina Christiana, cap. 7.</ref> <quote xml:id="rhwis-l20-Qd1e188" source="http://scta.info/resource/addc-l1-d1e132">Illae res quibus fruendum est, nos bea 
+          <lb ed="#B1" n="42"/>tos faciunt</quote>, quod non possunt facere temporalia.
+        </p>
+        <p xml:id="rhwis-l20-d1e194">
+          Secundo, quia fruitio est inhae 
+          <lb ed="#B1" n="43"/>rere alicui rei propter seipsam. Sed omne temporale factum est propter aliud,  
+          <lb ed="#B1" n="44"/>scilicet propter DEVM, Proverb. 16. Vniuersa propter seipsum operatus est 
+          <lb ed="#B1" n="45"/>Dominus. Fatue ergo dicunt: Fruamur bonis, quae sunt scilicet temporaliter &amp; 
+          <!--sap_Page_107.xml-->
+          <pb ed="#B1" n="73"/>
+          <lb ed="#B1" n="1"/>non permanenter. Et tamen haec consequenter aliquorum malorum hominum 
+          <lb ed="#B1" n="2"/>sententia est. Hic scimus quid habemus, nescimus quod habebimus in futu 
+          <lb ed="#B1" n="3"/>ro: &amp; ideo ducamus laetos dies
+        </p>
+        <p xml:id="rhwis-l20-d1e215">
+          Tertio fatue dicunt: quia immediate post pri 
+          <lb ed="#B1" n="4"/>mam propositonem concessam concedunt eius contrariam quando dicunt:  
+          <lb ed="#B1" n="5"/>Vtamur creatura: Nam uti est aliquod diligendo referre in DEVM, sicut in fi 
+          <lb ed="#B1" n="6"/>nem: &amp; ideo nullo modo stat quod homo eadem re simul utatur &amp; fruatur, si 
+          <lb ed="#B1" n="7"/>cut patet, 1. Senten. di. 1. Vnde in hoc quod dicunt respectu eiusdem fruamur 
+          <lb ed="#B1" n="8"/>&amp; utamur dicunt contradictionem implicite.
+        </p>
+        <p xml:id="rhwis-l20-d1e228">
+          Quarto fatue loquuntur in hoc,  
+          <lb ed="#B1" n="9"/>quod se determinant a iuuentute talibus mancipare: quia hoc nihil aliud est nisi 
+          <lb ed="#B1" n="10"/>in peccatis perseuerare. Cuius ratio est: quia illud quod homo assuescit in iu 
+          <lb ed="#B1" n="11"/>uentute, non potest faciliter deserere: &amp; ideo dicit Arist. 1. Ethi. quod non dif 
+          <lb ed="#B1" n="12"/>fert parum sic Vel sic ex iuuentute assuefieri. Et commentator super prologum 
+          <lb ed="#B1" n="13"/>3. Physicorum: Consuetudo habet maximam uim quae a iuuentute contrahi 
+          <lb ed="#B1" n="14"/>tur. Et Proverb. 21. Adolescens iuxta uiam suam etiam cum senuerit non re 
+          <lb ed="#B1" n="15"/>cedet ab ea. Vnde conclusio eorum plena est fatuitate.
+        </p>
+        <p xml:id="rhwis-l20-d1e246">
+          <lb ed="#B1" n="16"/>Super istam literam potest esse dubium: Vtrum homo ex charitate tenea<lb ed="#B1" n="17"/>tur 
+          plus diligere DEVM quam seipsum.
+        </p>
+        <p xml:id="rhwis-l20-d1e253">
+          Quod non uidetur: quia diligit se quan 
+          <lb ed="#B1" n="18"/>tum potest. Ergo non potest DEVM plus diligere quam se. Ergo ad hoc non 
+          <lb ed="#B1" n="19"/>tenetur. Quod autem homo diligit se quantum potest, patet: quia diligit se 
+          <lb ed="#B1" n="20"/>naturaliter: sed natura agit secundum ultimum potentiae suae: quia natura agit 
+          <lb ed="#B1" n="21"/>libere. Ergo si diligit se naturaliter, diligit se quantum potest: praeterea. Illud  
+          <lb ed="#B1" n="22"/>quod est ratio diligendi alterum plus diligitur illo altero: quia propter quod  
+          <lb ed="#B1" n="23"/>unumquodque &amp; illud magis, 1. posteriorum. Sed ratio quare DEVS debet ab 
+          <lb ed="#B1" n="24"/>homine diligi, est: quia est bonum suum proprium. Ergo diligit se magis.
+        </p>
+        <p xml:id="rhwis-l20-d1e271">
+          Item9. 
+          <lb ed="#B1" n="25"/>Ethi. cap. 4. Amicabilia quae sunt, ad alterum Veniunt ex amicabilibus, quae sunt  
+          <lb ed="#B1" n="26"/>ad seipsum. Item August. 10. confess. Quicunque aliquid amat, quod non propter 
+          <lb ed="#B1" n="27"/>te amat, minus te amat: sed qui minus amat DEVM, amat DEVM. Ergo cum 
+          <lb ed="#B1" n="28"/>amore DEI stat usus DEI.
+        </p>
+        <p xml:id="rhwis-l20-d1e282">
+          Ad oppositum est August. 2. de Doctrina Christia 
+          <lb ed="#B1" n="29"/>na, cap. 7. <quote xml:id="rhwis-l20-Qd1e286" source="http://scta.info/resource/addc-l1-d1e354">Teipsum propter te non debes diligere Vel amare, sed propter ipsum 
+            <lb ed="#B1" n="30"/>qui dilectionis tuae rectissimus finis est</quote>: sed unumquemque propter quod, &amp;c 
+          <lb ed="#B1" n="31"/>Ergo tenetur magis diligere DEVM, quam seipsum.
+        </p>
+        <p xml:id="rhwis-l20-d1e295">
+          Ad quaestionem dicendum, 
+          <lb ed="#B1" n="32"/>quod sic: Ratio est: quia DEVS est beatitudo non solum propria unius homi 
+          <lb ed="#B1" n="33"/>nis, sed quoddam totius comunitatis ipsius, &amp; ideo diligi debet propter se tan 
+          <lb ed="#B1" n="34"/>tum, &amp; per consequens, maxime. Propter rationes est notandum quod dilectio, 
+          <lb ed="#B1" n="35"/>qua homo diligit aliquid, pesatur ex duobus. Ex feruore seu intentione actus, 
+          <lb ed="#B1" n="36"/>&amp; ex qualitate boni uoliti illius, quem diligit. Quando ergo dicitur quod ho 
+          <lb ed="#B1" n="37"/>mo tenetur diligere DEVM plus quam se: non haBet hoc intelligi de intensione 
+          <lb ed="#B1" n="38"/>uel feruore actus, sed de quantitate boni uoliti. Nam debeo DEO uelle sum 
+          <lb ed="#B1" n="39"/>mum honorem &amp; summam beatitudinem: non autem hoc mihi. Aliud est notandum 
+          <lb ed="#B1" n="40"/>quod in homine est duplex dilectio. Naturalis quae non elicitur libere a uo 
+          <lb ed="#B1" n="41"/>luntate, sed naturaliter, &amp; est semper in uoluntate. Alia est rationalis consequens 
+          <lb ed="#B1" n="42"/>rationem, &amp; de hac dilectione habet intelligi quaestio, &amp; non prima. Per hoc ad 
+          <lb ed="#B1" n="43"/>rationes.
+        </p>
+        <p xml:id="rhwis-l20-d1e324">
+          Ad primam, minor negatur &amp; est falsa, pensando dilectionem ex bono 
+          <lb ed="#B1" n="44"/>uolito &amp; loquendo de dilectione rationali. Vnde plus boni posset homo uelle 
+          <lb ed="#B1" n="45"/>sibi quam facit si rationabiliter diligit se: Nam posset appetere bonum infini 
+          <lb ed="#B1" n="46"/>tum. Ratio Vero concludit de dilectione naturali.
+        </p>
+        <p xml:id="rhwis-l20-d1e333">
+          Ad secundum minor negatur.  
+          <lb ed="#B1" n="47"/>Non enim qui rationabiliter diligit, DEVM diligit praecise: quia bonum pro 
+          <lb ed="#B1" n="48"/>prium, sed quia bonum comune est totius uniuersi.
+        </p>
+        <p xml:id="rhwis-l20-d1e340">
+          Ad tertium intelligendum 
+          <lb ed="#B1" n="49"/>est illud de bonis, quae sunt bona particularia, &amp; de illo quod est bonum omnium
+        </p>
+        <p xml:id="rhwis-l20-d1e345">
+          <lb ed="#B1" n="50"/>Ad quartum dicendum, quod peccans mortaliter DEVM amat, non tamen uir 
+          <lb ed="#B1" n="51"/>tuose: quia uult eum esse DEVM, sed non sic amat DEVM, quod seruat eius 
+          <lb ed="#B1" n="52"/>praecepta: nec omnis qui amat DEVM est in charitate: quia qui diligit DEVM 
+          <lb ed="#B1" n="53"/>propter se amat DEVM, &amp; tamen peccatmortaliter. Venite ergo et fruamur bonis: 
+          <!--sap_Page_108.xml-->
+          <pb ed="#B1" n="74"/>
+          <lb ed="#B1" n="1"/>in actu siue belli siue pacis gerendae: Animatio ducis multum iuuat: quia secun 
+          <lb ed="#B1" n="2"/>dum uerba sua &amp; consilia totus exercitus regulatur: &amp; ideo omnis ductor sibi 
+          <lb ed="#B1" n="3"/>prouidet de aliquo inuitatorio suis complicibus faciendo.
+        </p>
+        <p xml:id="rhwis-l20-d1e367">
+          <lb ed="#B1" n="4"/>Quadruplex igitur inuitatorium inuenio in Scriptura sacra, a quatuor gene 
+          <lb ed="#B1" n="5"/>ribus cantorum cantatum. Primum cantant uoluptuosi: secundum maliciosi: 
+          <lb ed="#B1" n="6"/>tertium ambitiosi: &amp; quartum sancti religiosi. Et tres primi cantant in choro Dia 
+          <lb ed="#B1" n="7"/>boli. Et quarti solummodo in choro CHRISTI. Inuitatorium uoluptuosorum po 
+          <lb ed="#B1" n="8"/>nitur ibi: Venite fruamur, &amp;c. quando sic est quod homo intrat Ecclesiam cathe 
+          <lb ed="#B1" n="9"/>dralem, ut audiat matutinas de aliquo sancto statim per inuitatorium potest discer 
+          <lb ed="#B1" n="10"/>nere in quanta ueneratione sanctus ille habetur ibidem: Quia in ferialibus die 
+          <lb ed="#B1" n="11"/>bus sufficit tantum unus, &amp; quanto festum celebratus solennius, tanto plures  
+          <lb ed="#B1" n="12"/>inuitatorio deputantur. Moraliter. Inter nos in Vita praesenti dij multi colun 
+          <lb ed="#B1" n="13"/>tur. Ad Corinth. 8. Siquidem dij multi &amp; domini multi: mundus, caro, daemonia 
+          <lb ed="#B1" n="14"/>DEVS. Videamus ergo quis istorum habeat in choro plures ad cantandum inuita 
+          <lb ed="#B1" n="15"/>torium, &amp; inueniemus quod DEUS habet pauciores. Omnes alij habent inuitato  
+          <lb ed="#B1" n="16"/>res in magna copia. Si loquamur de mundo. Nonne senes &amp; iuuenes &amp; pueri 
+          <lb ed="#B1" n="17"/>a cunabulis suis extracti statim alliciuntur, statim inuitantur, &amp; animantur ad co 
+          <lb ed="#B1" n="18"/>lendum mundum: iste ut fiat mercator, iste ut fiat miles, alius ut fiat diues rector. 
+          <lb ed="#B1" n="19"/>Et sic de alijs, qui omnes una uoce dicunt: Venite &amp; fruamur bonis, quae sunt:  
+          <lb ed="#B1" n="20"/>&amp; sicut illi qui sunt magis uicini cantoribus magis excitantur ad cantandum: 
+          <lb ed="#B1" n="21"/>Ita hominibus accidit qui familiariter magis tractant cum mundialibus uel car 
+          <lb ed="#B1" n="22"/>nalibus, quod nullo modo possunt euadere quin eis in moribus conformen 
+          <lb ed="#B1" n="23"/>tur. Vnde Isidor. 3. de summo bono: Rarum est, inquit, ut quisquis inter seculi  
+          <lb ed="#B1" n="24"/>uoluptates positus: a uitiis maneat illibatus, in quibus et si non cito implice 
+          <lb ed="#B1" n="25"/>tur, aliquando tamen attrahitur, nec diu potest esse securus qui periculo fuerit 
+          <lb ed="#B1" n="26"/>proximus. Quot sunt qui his diebus inuitant homines ad mundi contemptum, 
+          <lb ed="#B1" n="27"/>ad propria relinquendum, ac se pro suis peccatis totaliter contemnendum. Cer 
+          <lb ed="#B1" n="28"/>te uel nulli, uel pauci, imo tantus strepitus est cantorum mundi, quod illi qui di 
+          <lb ed="#B1" n="29"/>cunt inuitatorium CHRISTI uix in aliquo possunt audiri
+        </p>
+        <p xml:id="rhwis-l20-d1e427">
+          <lb ed="#B1" n="30"/>Secundum inuitatorium cantant maliciosi ut scribit Hiere. 18. Venite cogi 
+          <lb ed="#B1" n="31"/>temus contra Hieremiam cogitationes: non enim peribit lex a sacerdote: neque  
+          <lb ed="#B1" n="32"/>consilium a sapiente, neque sermo de propheta. Et notate quales homines mali  
+          <lb ed="#B1" n="33"/>ciosi ponunt pro parte sua, videlicet sacerdotes, sapientes &amp; prophetas. Sacerdo 
+          <lb ed="#B1" n="34"/>tes sunt magni praelati moraliter, sapientes iusticiarij, prophetae sunt religiosi 
+          <lb ed="#B1" n="35"/>Et nunquam uidebitis in Republica magnam iniusticiam seu maliciam fieri, 
+          <lb ed="#B1" n="36"/>nisi uel ab omnibus istis, uel ab aliquo istorum procedat. Vnde isti tres perfecte 
+          <lb ed="#B1" n="37"/>cantant inuitatorium maliciosorum: &amp; isti sciunt facere conspirationem con 
+          <lb ed="#B1" n="38"/>tra optimum hominem, dicentes illud Hiere. 18. Venite percutiamus eum lingua, 
+          <lb ed="#B1" n="39"/>&amp; non attendamus ad uniuersos sermones eius. Percutere hominem lingua, est 
+          <lb ed="#B1" n="40"/>praecludere ei uiam respondendi, ut nihil possit dicere pro seipso. Vel percute 
+          <lb ed="#B1" n="41"/>re hominem lingua est falsum conspirare, falsum testimonium contra hominem 
+          <lb ed="#B1" n="42"/>perhibere. Et nota, quod isti maliciosi triplex habent inuitatorium, scilicet pro 
+          <lb ed="#B1" n="43"/>prium, quo seinuicem ad maliciam animant &amp; instigant. Primo enim se colligunt  
+          <lb ed="#B1" n="44"/>ad conspirandum subtiliter, dicentes illud Hierem. 18. Venite cogitemus con 
+          <lb ed="#B1" n="45"/>tra Hieremiam cogitationes. Secundo recolligunt se ad accusandum ciuiliter 
+          <lb ed="#B1" n="46"/>&amp; sub iuris colore, dicentes illud Hiere. 18. consequenter: Venite percutiamus 
+          <lb ed="#B1" n="47"/>eum lingua, &amp; non attendamus ad uniuersos sermones eius. Tertio, recolli  
+          <lb ed="#B1" n="48"/>gunt se ad occidendum hostiliter, dicentes illud Matth. 21. Venite &amp; occida 
+          <lb ed="#B1" n="49"/>mus eum, &amp; nostra erit haereditas. Et haec est conclusio maliciae ultima.
+        </p>
+        <p xml:id="rhwis-l20-d1e473">
+          <lb ed="#B1" n="50"/>Tertium inuitatorium quod ponitur in Scriptura: Cantant isti ambitiosi, &amp; 
+          <lb ed="#B1" n="51"/>scribitur Genes. 11. Venite faciamus nobis ciuitatem &amp; turrim, cuius culmen 
+          <lb ed="#B1" n="52"/>pertingat ad coelum, &amp; celebremus nomen nostrum.
+        </p>
+        <p xml:id="rhwis-l20-d1e482">
+          <lb ed="#B1" n="53"/>Et notandum quod omnes ambitiosi exponunt se maximis periculis &amp; la<!--sap_Page_109.xml--><pb ed="#B1" n="75"/><lb ed="#B1" n="1"/>boribus 
+          pro honoribus consequendis in tantum, quod si tertiam partem labo  
+          <lb ed="#B1" n="2"/>rum facerent propter DEVM, maximi meriti essent. Vnde isti ad aedificandum, ad 
+          <lb ed="#B1" n="3"/>fodiendum &amp; construendum se applicant &amp; exponunt. Quantam aestimatis uexa 
+          <lb ed="#B1" n="4"/>tionem sustinent, qui curijs Papae, regum &amp; episcoporum se mancipant. Dant mune 
+          <lb ed="#B1" n="5"/>ra, dissimulant, adulantur, mentiuntur, &amp; se nequiter humiliant quibuscunque. Vn 
+          <lb ed="#B1" n="6"/>de Innocentius de uilitate humanae conditionis sic dicit: Ambitiosus semper esi 
+          <lb ed="#B1" n="7"/>pauidus, semper attentus, ne dicat quod displiceat, &amp; humilitatem simulat, ho 
+          <lb ed="#B1" n="8"/>nestatem mentitur, affabilitatem exhibet, benignitatem ostendit, subsequitur &amp; 
+          <lb ed="#B1" n="9"/>obsequitur, cunctos honorat, uniuersis inclinat, frequentat curias, uisitat opti 
+          <lb ed="#B1" n="10"/>mates, assurgit &amp; amplexatur, applaudit &amp; adulatur: &amp; bene novit illud poe 
+          <lb ed="#B1" n="11"/>ticum Ouidij de arte Amandi primo:  
+          <lb ed="#B1" n="12"/>Et si nullus erit puluis tamen excute illum 
+          <lb ed="#B1" n="13"/>Haec ille. Et ideo talibus curialibus, qui castra regum sequuntur, dixit qui  
+          <lb ed="#B1" n="14"/>dam. Sunt, non dicuntur miseri qui castra sequuntur.
+        </p>
+        <p xml:id="rhwis-l20-d1e519">
+          <lb ed="#B1" n="15"/>Quartum inuitatorium quod ponitur in Sacra scriptura, cantant boni Chri 
+          <lb ed="#B1" n="16"/>stiani &amp; religiosi, &amp; ponit in Psal. Venite exultemus Domino, iubilemus, &amp;c 
+          <lb ed="#B1" n="17"/>&amp; istud inuitatorium cantant ualde ferialiter his diebus, imo tantus est strepitus 
+          <lb ed="#B1" n="18"/>in choro mundi, quod istud inuitatorium non auditur in choro CHRISTI, quod do 
+          <lb ed="#B1" n="19"/>lendum est. Sed qualiter isti inuitatores se expediunt, satis declaratur Matth. 22. 
+          <lb ed="#B1" n="20"/>Vbi habetur de homine rege, qui fecit nuptias filio suo, &amp; misit feruos suos di 
+          <lb ed="#B1" n="21"/>cere inuitatis: Omnia sunt parata, uenite ad nuptias. Quod cum factum fuisset,  
+          <lb ed="#B1" n="22"/>inuitati totaliter neglexerunt, &amp; abierunt, alius in uillam suam, alius ad negociatio  
+          <lb ed="#B1" n="23"/>nem suam. Sed caueant sibi. Contingit autem aliquando que faciens festum magnum 
+          <lb ed="#B1" n="24"/>inuitat multos: diu ante ordinat ut illis ordinate seruiatur &amp; sine pressura. Ha 
+          <lb ed="#B1" n="25"/>bet fortes custodes in ingressu portarum, qui deuote recipiant inuitatos, qui pro 
+          <lb ed="#B1" n="26"/>miserunt uenire, qui sunt amici facientis festum, &amp; alios non inuitatos excludant.  
+          <lb ed="#B1" n="27"/>Isto modo facit CHRISTVS. Modo mittit seruos suos praedicatores ad inui 
+          <lb ed="#B1" n="28"/>tandum ad coenam agni: sed in die iudicij soli illi recipientur, qui suam inuitatio  
+          <lb ed="#B1" n="29"/>nem admittunt, &amp; alij excludentur, dicente Domino, bonis illud dulce inuita 
+          <lb ed="#B1" n="30"/>torium: Venite benedicti Patris mei, percipite regnum quod uobis paratum est ab  
+          <lb ed="#B1" n="31"/>origine mundi. Et dicit reprobis: Ite maledicti in ignem aeternum, qui paratus est 
+          <lb ed="#B1" n="32"/>Diabolo &amp; angelis eius. Et ideo dum tempus habemus, uenite, adoremus &amp;  
+          <lb ed="#B1" n="33"/>procidamus ante DEVM, ploremus coram Domino, qui fecit nos, in Psal.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

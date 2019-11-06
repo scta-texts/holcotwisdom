@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 25 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 25 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="88"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l25">
+        <head xml:id="rhwis-l25-Hd1e95">Lectio 25</head>
+        <p xml:id="rhwis-l25-d1e98">
+          <!--sap_Page_122.xml-->
+          <pb ed="#B1" n="88"/>
+          <lb ed="#B1" n="1"/>PROPOSTTIS in textu praecedenti sex accusationibus Iudaeorum 
+          <lb ed="#B1" n="2"/>contra CHRISTVM: In isto textu adduntur duae aliae contra e 
+          <lb ed="#B1" n="3"/>undem. Et secundum hoc litera ista diuiditur in duas partes. Nam 
+          <lb ed="#B1" n="4"/>primo accusant CHRISTVM de secreti reuelatione: Secundo de 
+          <lb ed="#B1" n="5"/>discordi conuersatione, ibi: grauis est nobis. Accusant ergo primo sic: Ille qui oc 
+          <lb ed="#B1" n="6"/>culta consilia reuelat, proditiosus est &amp; fraudulentus secundum illud <ref xml:id="rhwis-l25-Rd1e117">Proverb. 
+          <lb ed="#B1" n="7"/>2</ref>. <quote xml:id="rhwis-l25-Qd1e122" source="http://scta.info/resource/prov11_13">Qui ambulat fraudulenter, reuelat arcana</quote>: sed omnis proditiosus &amp; fraudu 
+          <lb ed="#B1" n="8"/>lentus est a communitate exstirpandus. Talisautem est CHRISTVS: Ergo, 
+          <lb ed="#B1" n="9"/>&amp;c. Causam &amp; materiam huius accusationis acceperunt, Matth. 9. <quote xml:id="rhwis-l25-Qd1e130" source="http://scta.info/resource/mt9_4">Cum uidis  
+          <lb ed="#B1" n="10"/>set IESVS cogitationes eorum, dixit: Vt quid cogitatis mala in cordibus ue 
+          <lb ed="#B1" n="11"/>stris</quote>. Et loquebatur Iudaeis murmurantibus de hoc, quod paralitico peccata di 
+          <lb ed="#B1" n="12"/>misit: sed fatui excaecati fuerunt. Ex hoc enim conclusisse debebant, quod ueraci 
+          <lb ed="#B1" n="13"/>ter fuit DEVS, qui solus cogitationes hominum uidere potest. In Psalm. Do 
+          <lb ed="#B1" n="14"/>minus scit cogitationes hominum, quoniam uanae sunt. Arguunt autem con 
+          <lb ed="#B1" n="15"/>tra CHRISTVM sic: Maxima secreta hominis sunt cogitationes. Et ideo qui  
+          <lb ed="#B1" n="16"/>reuelat cogitationes hominum, maxime eos confundit, &amp; est nociuus in com 
+          <lb ed="#B1" n="17"/>munitate: Ergo licet illum per circumuentionem destruere. Haec accusatio  
+          <lb ed="#B1" n="18"/>ponitur in his uerbis: Factus est nobis in traductionem: id est, propalationem se 
+          <lb ed="#B1" n="19"/>cundum Graecismum. Est enim traducere secundum Graecismum exemplare,  
+          <lb ed="#B1" n="20"/>uel propalare quod fuit occultum, &amp; cedit ad dehonestationem alicuius: &amp; sic  
+          <lb ed="#B1" n="21"/>accipitur traducere, Matth. 1. Ioseph autem cum esset iustus, &amp; nollet eam tra 
+          <lb ed="#B1" n="22"/>ducere, uoluit occulte dimittere eam. Traducere idem est quod propalare ad 
+          <lb ed="#B1" n="23"/>dehonestationem uirginis coram iudice.
+        </p>
+        <p xml:id="rhwis-l25-d1e164">
+          <lb ed="#B1" n="24"/>Secunda accusatio est de discordi conuersatione. Et formatur sic: Quicun 
+          <lb ed="#B1" n="25"/>que studet singulari uitae &amp; dissimili aliorum communiter uiuentium, uidetur  
+          <lb ed="#B1" n="26"/>esse scismaticus in Republica: quia recedit a communi unitate &amp; conformitater 
+          <lb ed="#B1" n="27"/>sed talis est iste CHRISTVS: Ergo est scismaticus in republica: quia recedit  
+          <lb ed="#B1" n="28"/>a communi unitate, &amp; habens etiam discordem conuersationem ab alijs, ta 
+          <lb ed="#B1" n="29"/>lis est periculosus in Republica: Ergo, &amp;c. Ad istam accusationem dicendum 
+          <lb ed="#B1" n="30"/>concedendo quod fuit dissimilis eis. Quia ipsi fuerunt mali. Dissimile fuit: quia 
+          <lb ed="#B1" n="31"/>sine peccato conceptus &amp; natus, sine peccato semper conuersatus. Vnde ma 
+          <lb ed="#B1" n="32"/>lis fuit dissimilis, &amp; bonis fuit similis. Haec acculatio notatur in his uerbis: 
+          <lb ed="#B1" n="33"/>orauis est nobis ad videndum: quoniam disimilis est alijs vita illius, &amp; im 
+          <lb ed="#B1" n="34"/>mutate sunt viae illius: id est, uariatae sunt a nobis uiae: id est, opera eius. Iste 
+          <lb ed="#B1" n="35"/>modus loquendi ostendit eos fuisse ualde inuidos. Non dicunt quia grauis  
+          <lb ed="#B1" n="36"/>fuit eis ad conuiuendum, uel conuescendum, uel ad uiuendum, sub eo uel 
+          <lb ed="#B1" n="37"/>ad eum audiendum. Sed grauis fuit eis ad videndum. Visus enim est de sen 
+          <lb ed="#B1" n="38"/>sibus qui magis spiritualiter immutantur: sicut patet 2. de Anima: sed spiri 
+          <lb ed="#B1" n="39"/>tualis immutatio minus grauat quam corporalis: &amp; ideo inuidia fecit eos 
+          <!--sap_Page_123.xml-->
+          <pb ed="#B1" n="89"/>
+          <lb ed="#B1" n="1"/>ualde teneros, qui bonum hominem fine laesione uidere non possent, Eccles.  
+          <lb ed="#B1" n="2"/>decimoquarto: Nequam est oculus liuidi, &amp; Matth. 20. An oculus tuus ne 
+          <lb ed="#B1" n="3"/>quam est: quia ego bonus sum. Dicitur de istis sicut de bubone &amp; uesperti 
+          <lb ed="#B1" n="4"/>lione, quorum oculi non sustinent lumen Solis: quia oculis aegris odiosa est 
+          <lb ed="#B1" n="5"/>lux, quae puris est amabilis sicut dicit Augustinus in lib. confessionum. Et Se 
+          <lb ed="#B1" n="6"/>neca: Vtinam inuidi oculos centum haberent in omnibus ciuitatibus, ut  
+          <lb ed="#B1" n="7"/>de omnium felicitatibus torquerentur. Nam quanta felicium sunt gaudia, tan 
+          <lb ed="#B1" n="8"/>ta sunt inuidorum detrimenta. Haec enim accusatio in caput eorum refellitur,  
+          <lb ed="#B1" n="9"/>si iuste iudicentur. Haec est sententia textus.
+        </p>
+        <p xml:id="rhwis-l25-d1e225">
+          <lb ed="#B1" n="10"/>Dubitatio literalis super materiam primae accusationis, quae est de se 
+          <lb ed="#B1" n="11"/>creti reuelatione potest esse talis. Vtrum aliquis teneatur ex praecepto sui  
+          <lb ed="#B1" n="12"/>iudicis reuelare secretum fidei suae commissum.
+        </p>
+        <p xml:id="rhwis-l25-d1e234">
+          Et arguitur primo quod  
+          <lb ed="#B1" n="13"/>sic: quia obedire oportet DEO magis quam hominibus, Actuum. 4. Sed iu 
+          <lb ed="#B1" n="14"/>dex praecipit uice DEI: Ergo magis est sibi obediendum quam homini, qui  
+          <lb ed="#B1" n="15"/>commisit illud secretum.
+        </p>
+        <p xml:id="rhwis-l25-d1e244">
+          Praeterea seruientes iurant communiter dominis  
+          <lb ed="#B1" n="16"/>suis, quod nihil nocumenti percipient, quin eis reuelent. Ponamus quod u 
+          <lb ed="#B1" n="17"/>nus seruiens committat fidei alterius quod damnificauit dominum suum in 
+          <lb ed="#B1" n="18"/>quodam facto.
+        </p>
+        <p xml:id="rhwis-l25-d1e253">
+          Quaeritur an alius debeat seruare secretum: si sic, est periurus 
+          <lb ed="#B1" n="19"/>erga dominum: si non, est infidelis contra socium.
+        </p>
+        <p xml:id="rhwis-l25-d1e258">
+          Praeterea aliquis com 
+          <lb ed="#B1" n="20"/>mittit fidei meae crimen, quod commisit extra confessionem: postea contin 
+          <lb ed="#B1" n="21"/>git quod est de eodem crimine infamia, iudex inquirit &amp; excommunicat pro 
+          <lb ed="#B1" n="22"/>ueritate dicenda: quaeritur, nunquid teneor reuelare iudici.
+        </p>
+        <p xml:id="rhwis-l25-d1e267">
+          <lb ed="#B1" n="23"/>Videtur quod  
+          <lb ed="#B1" n="24"/>sic: quia non teneor magis celare quam idem qui commisit ex ordine cha 
+          <lb ed="#B1" n="25"/>ritatis: sed ille tenetur dicere ex quo laborat infamia. Videtur quod non: 
+          <lb ed="#B1" n="26"/>quia tunc faceret contra fidem, &amp; propter nullius praeceptum debet pec 
+          <lb ed="#B1" n="27"/>care. 
+        </p>
+        <p xml:id="rhwis-l25-d1e280">
+          <lb ed="#B1" n="28"/>Ad oppositum. Vitare fraudem &amp; seruare fidelitatem sunt de iure natu  
+          <lb ed="#B1" n="29"/>rae. Sed nullus iudex potest compellere ad illud quod est contra ius naturae.  
+          <lb ed="#B1" n="30"/>Ergo nullus iudex potest hominem per praeceptum compellere ad reuelan 
+          <lb ed="#B1" n="31"/>dum fidei suae commissum.
+        </p>
+        <p xml:id="rhwis-l25-d1e291">
+          <lb ed="#B1" n="32"/>Ad quaestionem dicendum quod secretum potest esse duplex: Vel est 
+          <lb ed="#B1" n="33"/>tale quod potest seruari sine peccato, uel quod non potest celari sine pec 
+          <lb ed="#B1" n="34"/>cato. Quod potest celari, tenetur, qui sub secreto recipit &amp; non tene 
+          <lb ed="#B1" n="35"/>tur praelato praecipienti dicere. Quando autem non potest celare sine 
+          <lb ed="#B1" n="36"/>peccato: quia forte est de aliquo perpetrando in nocumentum aliorum: si 
+          <lb ed="#B1" n="37"/>cut si aliquis committit mihi sub secreto quod ipse interficiet tali nocte ta 
+          <lb ed="#B1" n="38"/>lem uirum uel comburet domum. lllud non teneor celare: quia quod  
+          <lb ed="#B1" n="39"/>pro charitate institutum est, contra charitatem non debet militare, sicut dicit 
+          <lb ed="#B1" n="40"/>Bernhard, libro de Praecepto &amp; dispensatione. Et tale secretum ad praece 
+          <lb ed="#B1" n="41"/>ptum iudicis homo reuelare potest. Esset enim contra iusticiae bonum, qui  
+          <lb ed="#B1" n="42"/>secretum uellet seruare, si ad effectum talem deduceretur secretum. Secus 
+          <lb ed="#B1" n="43"/>est de sigillo confessionis: quia si quis sub confessione recepisset, nullo modo  
+          <lb ed="#B1" n="44"/>etiam pro morte reuelare deberet. Vnde sciendum quod quando dicunt  
+          <lb ed="#B1" n="45"/>forte laicae personae uel quicunque: dico tibi hoc sub sigillo confessionis, &amp; 
+          <lb ed="#B1" n="46"/>non confitetur: nec est confessio sacramentalis, ibi non est sigillum confessio 
+          <lb ed="#B1" n="47"/>nis, sed tantum sigillum secreti. Vnde talis sic recipiens secretum, &amp; postea 
+          <lb ed="#B1" n="48"/>reuelans peccat mortaliter: sed tamen non est reuelator confessionis: quia nul  
+          <lb ed="#B1" n="49"/>la confessio sacramentalis ibi fuit. Vnde per canonem sigillum secreti pro 
+          <lb ed="#B1" n="50"/>prie est, quando homo dicit: Dico tibi istud sub secreto, placet tibi admitte 
+          <lb ed="#B1" n="51"/>re. Et alius admittit: si tunc reuelet, peccat mortaliter, &amp; crimen proditionis  
+          <lb ed="#B1" n="52"/>incurrit.
+        </p>
+        <p xml:id="rhwis-l25-d1e340">
+          Ad primum uerum est. Et quia praecipit homini seruare fidelita 
+          <lb ed="#B1" n="53"/>tem, ubi illud non redundat in damnum proximi, ideo non tenetur.
+        </p>
+        <p xml:id="rhwis-l25-d1e345">
+          Ad se<!--sap_Page_124.xml--><pb ed="#B1" n="90"/><lb ed="#B1" n="1"/>cundum 
+          talis seruiens non debet admittere secretum: quia esset contra iuramen 
+          <lb ed="#B1" n="2"/>tum: sed statim debet dicere domino suo uel aliunde cauere de damno domi 
+          <lb ed="#B1" n="3"/>ni.
+        </p>
+        <p xml:id="rhwis-l25-d1e356">
+          Aliter dicitur ad illud secundum: dato quod promisit se seruare secretum, te 
+          <lb ed="#B1" n="4"/>netur tamenT illud domino reuelare propter iuramentum seruandum &amp; pu 
+          <lb ed="#B1" n="5"/>nietur de illicita promissione. Iuxta illud Isido. In malis promissionibus rescin 
+          <lb ed="#B1" n="6"/>de fidem. Et in turpi uoto muta decretum. Haec est sententia <ref xml:id="rhwis-l25-Rd1e364">beati Thomae: pri<lb ed="#B1" n="7"/>mo 
+            quotlibeto. q. 15</ref>. Sed dubium est quomodo liceat eis sic iurare dominis  
+          <lb ed="#B1" n="8"/>de reuelando secreto, cum uideatur esse contra praeceptum de correctione fra 
+          <lb ed="#B1" n="9"/>terna, Matth. 18. <quote xml:id="rhwis-l25-Qd1e374" source="http://scta.info/resource/mt18_15">Si peccauerit in te frater tuus</quote>, &amp;c. Credo quod iuramentum 
+          <lb ed="#B1" n="10"/>debet intelligi saluo illo praecepto, &amp; per consequens tenetur corripere con 
+          <lb ed="#B1" n="11"/>seruum, si sperat eum per hoc corrigere &amp; movere ad restitutionem si oporteat,  
+          <lb ed="#B1" n="12"/>&amp; postea poterit cum eum saepius deprehenderit domino intimare: non autem 
+          <lb ed="#B1" n="13"/>pro prima uice si sibi constiterit propter praeceptum CHRISTI, Matth. ubi  
+          <lb ed="#B1" n="14"/>supra. Ex triplici ergo causa potest contingere, quod homo teneatur celare il  
+          <lb ed="#B1" n="15"/>lud quod uouit. Primo ex hoc quod ipse solus scit &amp; nondum seruauit ordinem 
+          <lb ed="#B1" n="16"/>correctionis fraternae. Secundo ex commissione sub sigillo secretorum. Et  
+          <lb ed="#B1" n="17"/>tertio ex confessione, quod erit maximum.
+        </p>
+        <p xml:id="rhwis-l25-d1e395">
+          Ad tertium credo quod non. Vnde 
+          <lb ed="#B1" n="18"/>praecepta iudicis &amp; iuramenta quae exiguntur de ueritate, semper intelligun 
+          <lb ed="#B1" n="19"/>tur fieri a toto ordine iuris, &amp; ordine charitatis  
+          <lb ed="#B1" n="20"/>Grauis est nobis, &amp;c 
+        </p>
+        <p xml:id="rhwis-l25-d1e404">
+          <!-- line and coordinates missing for "Gravis est nobis etc" -->
+          <lb ed="#B1" n="21"/>Notandum quod in uita praesenti multa grauia sunt peccatoribus, quae non 
+          <lb ed="#B1" n="22"/>sunt grauia uiris bonis &amp; iustis. Sunt enim quatuor quae grauia sunt peruer 
+          <lb ed="#B1" n="23"/>sis: onera peccatorum, opera mandatorum, uicinum beneficium, diuinum 
+          <lb ed="#B1" n="24"/>iudicium. Pro primo dicit in eorum persona Psalm. Iniquitates meae su 
+          <lb ed="#B1" n="25"/>pergressae sunt caput meum, &amp; sicut onus graue grauatae sunt super me 
+          <lb ed="#B1" n="26"/>Quanto aliquid est grauius, tanto uelocius diuidit medium, &amp; discedit ad cen 
+          <lb ed="#B1" n="27"/>trum terrae si possit: quia omne graue appetit quod medium suum sit medium 
+          <lb ed="#B1" n="28"/>mundi, sicut patet 4 li. Aristotelis de Coelo &amp; Mundo. Et si esset aliquod gra 
+          <lb ed="#B1" n="29"/>ue quod in instanti &amp; subito descenderet, diceretur quod illud foret infinitae 
+          <lb ed="#B1" n="30"/>grauitatis: quia sine proportione uelocius descenderet quocunque graui, quod  
+          <lb ed="#B1" n="31"/>in tempore moveretur, sicut patet <ref xml:id="rhwis-l25-Rd1e432">4. Phys. cap. 6.</ref> Sed sic est quod peccator mo 
+          <lb ed="#B1" n="32"/>riens descendit ad medium terrae subito &amp; in instanti: quia infernus est in me 
+          <lb ed="#B1" n="33"/>dio terrae, <ref xml:id="rhwis-l25-Rd1e439">Iob. 21.</ref> <quote xml:id="rhwis-l25-Qd1e442" source="http://scta.info/resource/iob21_13">Ducunt in bonis dies suos, &amp; in puncto ad inferna descen 
+            <lb ed="#B1" n="34"/>dunt</quote>: In puncto: hoc est, in instanti: quia quod punctus est in magnitudine: hoc 
+          <lb ed="#B1" n="35"/>est, instans in tempore: Ergo peccatum est onus graue, imo infinitae gra 
+          <lb ed="#B1" n="36"/>uitatis: Et hoc est imaginandum, quod si ferrum magnum una cum magnete 
+          <lb ed="#B1" n="37"/>ponatur in uno appendulo aequilibris, non erit sibimetipsi graue: hoc est, sua 
+          <lb ed="#B1" n="38"/>grauitas in nullo promouebit descensum suum, sed tantum descendet quan 
+          <lb ed="#B1" n="39"/>tum permiserit grauitas magnetis. Cuius causa est: quia magnes naturaliter 
+          <lb ed="#B1" n="40"/>attrahit ferrum ad se per modum finis uel per modum efficientis. Vnde non 
+          <lb ed="#B1" n="41"/>plus ponderabit ferrum cum magnete, quam magnes solus. Ferrum durum &amp; 
+          <lb ed="#B1" n="42"/>ad diuidendum difficile, est homo utens ratione, &amp; arbitrij libertate, quae licet  
+          <lb ed="#B1" n="43"/>difficultari potest, uinci non potest secundum Augustin. de libero arbit. Ma 
+          <lb ed="#B1" n="44"/>gnes autem DEVS est: quoniam Deus magnus Dominus in Psalm. Iste ma 
+          <lb ed="#B1" n="45"/>gnes naturaliter trahit ferrum: id est, hominem: quia summi boni cupiditas ho 
+          <lb ed="#B1" n="46"/>mini naturaliter inserta est, sicut dicit Boëtius 3 de Conso. pro. 2. &amp; lohan. 6. 
+          <lb ed="#B1" n="47"/>Nemo potest uenire ad me nisi Pater meus qui misit me, traxerit eum: quam 
+          <lb ed="#B1" n="48"/>diu ergo DEVS &amp; homo se tenent simul &amp; coniungitur in fortuna huius  
+          <lb ed="#B1" n="49"/>uitae per gratiam &amp; charitatem, homo non est sibiipsi grauis, sed DEVS eum 
+          <lb ed="#B1" n="50"/>confortat &amp; supportat. Vnde Apostolus ad Philipp. 4. Omnia possum in 
+          <lb ed="#B1" n="51"/>eo qui me confortat. Sed si separetur a DEO &amp; ponitur in contrario 
+          <!--sap_Page_125.xml-->
+          <pb ed="#B1" n="91"/>
+          <lb ed="#B1" n="1"/>appendulo librae per peccatum mortale, statim sit, homo sibi grauis intantum, 
+          <lb ed="#B1" n="2"/>quod si moriatur, statim ad infernum descendit: &amp; hoc est quod signanter dici 
+          <lb ed="#B1" n="3"/>tur Iob. septimo: <quote xml:id="rhwis-l25-Qd1e495" source="http://scta.info/resource/iob7_20">Posuisti me contrarium tibi, &amp; factus summihi metipsi gra 
+            <lb ed="#B1" n="4"/>uis</quote>. Quare non tollis peccatum meum, &amp; quare non aufers iniquitatem mea:  
+          <lb ed="#B1" n="5"/>Quasi diceret, Aufer iniquitatem meam, &amp; statim ero in alio appendulo aequi  
+          <lb ed="#B1" n="6"/>libris, &amp; nullo modo ero mihimetipsi grauis, imo tunc ponas quidquid uolue 
+          <lb ed="#B1" n="7"/>ris in parte contraria, &amp; ego quamdiu tibi adhaesero, non curabo. Et hoc est 
+          <lb ed="#B1" n="8"/>quod dicit 17 cap. Pone me iuxta te, &amp; cuiusuis manus pugnet contra me. In 
+          <lb ed="#B1" n="9"/>cuius figuram uidit Zacharias mulierem quandam in amphora habentem in 
+          <lb ed="#B1" n="10"/>ore suo massam plumbi, &amp; dictum est prophetae, haec est impietas, Zachariae 5 
+          <lb ed="#B1" n="11"/>In signum quod omnis iniquitas opilabit os suum, &amp; quod omnis iniquitas 
+          <lb ed="#B1" n="12"/>grauis est: quia Eccles. 22. Super plumbum quid grauabitur. Et ideo per ini 
+          <lb ed="#B1" n="13"/>quitatem populus ad uae aeternum descendet: si se hic non correxerit poenitendo. 
+          <lb ed="#B1" n="14"/>Et hoc est quod dicitur Esa. 1. comminando: Vae genti peccatrici, in populo  
+          <lb ed="#B1" n="15"/>graui iniquitate, semini nequam, filijs sceleratis
+        </p>
+        <p xml:id="rhwis-l25-d1e525">
+          <lb ed="#B1" n="16"/>Secundo uidentur hominibus opera mandatorum grauia, &amp; in hoc decipi 
+          <lb ed="#B1" n="17"/>untur: quia 1. lohan. 5. Mandata eius grauia non sunt. Grauitas enim rei nun 
+          <lb ed="#B1" n="18"/>quam bene perpenditur per unum hominem impotentem, sed per fortem. Si  
+          <lb ed="#B1" n="19"/>militer iudicium in uirtutibus &amp; uitijs nunquam debet accipi secundum fal 
+          <lb ed="#B1" n="20"/>sam opinionem errantis. Sed secundum rectam rationem sapientis, sicut patet  
+          <lb ed="#B1" n="21"/>4. Ethicorum. Et ideo quod malis apparet graue, non ideo dicendum est gra 
+          <lb ed="#B1" n="22"/>ue: quia sunt infirmi, Psal. Infirmati sunt &amp; ceciderunt. Scitis quod ignis est to 
+          <lb ed="#B1" n="23"/>taliter leuis, &amp; terra totaliter grauis: quia est graue simplex. Mixtum uero ex 
+          <lb ed="#B1" n="24"/>terra &amp; igne erit partim graue &amp; partim leue. Et si terra praedominetur, mixtum 
+          <lb ed="#B1" n="25"/>tale descendet, si ignis ascendet. Terra est anima humana grauis per peccatum, 
+          <lb ed="#B1" n="26"/>per concupiscentiam originalem, Eccles. 40. lugum graue super filios Adae a die exi 
+          <lb ed="#B1" n="27"/>tus de uentre matris eius usque in diem sepulturae. Vnde in Psal. Anima mea si 
+          <lb ed="#B1" n="28"/>cut terra sine aqua tibi. Charitas est ignis, Lucae 12. Ignem ueni mittere in ter 
+          <lb ed="#B1" n="29"/>ram. Quando igitur ita est quod anima separatur a charitate, fit simpliciter ter 
+          <lb ed="#B1" n="30"/>ra, simplex &amp; grauis, deorsum fertur de peccato in peccatum, Eccles. 3. Cor ne 
+          <lb ed="#B1" n="31"/>quam grauabitur doloribus, &amp; peccator adijciet ad peccandum, &amp; tunc descemn 
+          <lb ed="#B1" n="32"/>det eius delectatio tantummodo ad terrena, &amp; uana huius uitae, &amp; sit tota gra 
+          <lb ed="#B1" n="33"/>uis propter quod acute arguit eos, Psal. Filij hominum usquequo graui corde,  
+          <lb ed="#B1" n="34"/>ut quid diligitis uanitatem, &amp; quaeritis mendacium, Glos. Omnia terrena sunt  
+          <lb ed="#B1" n="35"/>mendacium: quia non faciunt quod promittunt. Sed certe si fiat comixtio cha 
+          <lb ed="#B1" n="36"/>ritatis ad animam, anima perdit de sua grauitate. Quantum enim intenditur cha 
+          <lb ed="#B1" n="37"/>ritas, tanto minuitur cupiditas, ssecundum August. quae est animae grauitas pro 
+          <lb ed="#B1" n="38"/>pter quam non potest eius amor ferri sursum perfecte, sicut deberet: &amp; in tan 
+          <lb ed="#B1" n="39"/>tum potest ista charitas augeri &amp; intendi, quod fiet anima magis leuis: id cit,  
+          <lb ed="#B1" n="40"/>tendens uersus superius per dilectionem quam grauis ad ista temporalia. Quae 
+          <lb ed="#B1" n="41"/>sursum sunt sapite, non quae super terram, ad Colossens. 3. Et si sic leues esse. 
+          <lb ed="#B1" n="42"/>mus, uideremus omnia mandatao DEI esse facilima. Sicut &amp; iugum eius le 
+          <lb ed="#B1" n="43"/>ue, Matth. 11. 
+        </p>
+        <p xml:id="rhwis-l25-d1e589">
+          <lb ed="#B1" n="44"/>Tertium quod malis graue uidetur, est uicinum beneficium, Displicet enim 
+          <lb ed="#B1" n="45"/>malis quod boni qui uiuunt e uicinio iuxta eos bene faciunt &amp; bene uiuunt:  
+          <lb ed="#B1" n="46"/>&amp; tales sunt proprie inuidi, qui loquuntur in proposito de uiro bono, dicentes: 
+          <lb ed="#B1" n="47"/>Grauis est nobis etiam ad uidendum.
+        </p>
+        <p xml:id="rhwis-l25-d1e600">
+          <lb ed="#B1" n="48"/>Quartum quod malis uidetur graue, est diuinum iudicium, &amp; ita 
+          <lb ed="#B1" n="49"/>est sine errore. De illo enim iudicio tremendo dicitur Esa. 30. Ecce no 
+          <lb ed="#B1" n="50"/>men Domini uenit de longinquo ardens furor eius &amp; grauius ad portan 
+          <lb ed="#B1" n="51"/>dum. Quanto grauius ab altiori descenderit, tanto grauius laedit: sed CHRI 
+          <lb ed="#B1" n="52"/>STVS de coelo empyreo ad iudicium uenit, in Psalm. A summo coelo egressio  
+          <lb ed="#B1" n="53"/>eius tam ad incarnationem quam ad iudicij definitionem. Impii autem cadunt de 
+          <!--sap_Page_126.xml-->
+          <pb ed="#B1" n="92"/>
+          <lb ed="#B1" n="1"/>orsum in profundo, &amp; ideo grauissima sententia illa super eos cadet: Nota 
+          <lb ed="#B1" n="2"/>quod ex quo mali graues sunt &amp; ponderosi, magna erit compressio in inserno 
+          <lb ed="#B1" n="3"/>post diem iudicij: quia eorum corpora erunt mirabiliter grauia &amp; quod libet  
+          <lb ed="#B1" n="4"/>secundum ultimum potentiae suae conabitur uersus centrum. Maxima ergo 
+          <lb ed="#B1" n="5"/>pressura ibi fiet. Et tamen conuenit hic imaginari quandam misericordiam ex  
+          <lb ed="#B1" n="6"/>iusticia procedentem: quia licet quilibet esset dignus centro, grauiores tamen 
+          <lb ed="#B1" n="7"/>loca centralia occupabunt, &amp; minus graues loca exteriora: &amp; sic erit minor  
+          <lb ed="#B1" n="8"/>pressura quam si fieret econuerso.
+        </p>
+        <p xml:id="rhwis-l25-d1e637">
+          <lb ed="#B1" n="9"/>Notanda est causa, quare quantumcunque homo sit grauis &amp; ponderosus 
+          <lb ed="#B1" n="10"/>per peccata, &amp; continue descendat cadendo, nunquam tamen est de eo finali  
+          <lb ed="#B1" n="11"/>ter desperandum. Ratio huius est: Si aliquod graue cadat ab alto quantum a 
+          <lb ed="#B1" n="12"/>summo ceciderit, si posset ante casum ad terram, repelli a linea casus, non ca 
+          <lb ed="#B1" n="13"/>det grauius quam si cecidisset a loco in quo a linea casus est expulsum. Vnde 
+          <lb ed="#B1" n="14"/>si homo caderet a tecto domus, &amp; dum esset in cadendo alius supra terram stans 
+          <lb ed="#B1" n="15"/>eum depelleret manu a linea casus, ipse ad terram cadens non plus laederetur  
+          <lb ed="#B1" n="16"/>quam si a loco depulsionis a linea casus tantummodo cecidisset, ita quod to<lb ed="#B1" n="17"/>tum 
+          nocumentum casus qui praecesserit per illam uim depulsionis impeditur.  
+          <lb ed="#B1" n="18"/>Moralite: homo cadit continue, quando est in peccato secundum lineam re<lb ed="#B1" n="19"/>ctam 
+          uersus centrum terrae, quod est infernus. Sed sunt homines stantes non 
+          <lb ed="#B1" n="20"/>cadentes, uidelicet sancti uiri in Ecc lesia, qui eum uel per praedicationem uel 
+          <lb ed="#B1" n="21"/>per orationes uel per poenitentiae sacramen: um a linea sui casus depellunt: &amp; 
+          <lb ed="#B1" n="22"/>tunc non cadit ut communiter omnis homo, uidelicet per mortem: sed anima 
+          <lb ed="#B1" n="23"/>de casu non laeditur, nec aliquam poenam sentit pro casu, si peccatum in hac 
+          <lb ed="#B1" n="24"/>uita remittatur.
+        </p>
+      </div>
+      
+    </body>
+  </text>
+</TEI>

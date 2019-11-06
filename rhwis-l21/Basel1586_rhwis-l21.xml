@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 21 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 21 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="75"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l21">
+        <head xml:id="rhwis-l21-Hd1e95">Lectio 21</head>
+        <p xml:id="rhwis-l21-d1e98">
+          <lb ed="#B1" n="34"/>POSITA inuitatione, qua improbi seinuicem alliciunt ad fruendum 
+          <lb ed="#B1" n="35"/>illecebris in generali: Hic incipiunt enumerare in speciali. Et circa 
+          <lb ed="#B1" n="36"/>hoc tria faciunt: quia primo enumerant excitamenta gulae. Secun 
+          <lb ed="#B1" n="37"/>ido ostensiua superbiae, ibi: Coronemus nos. Tertio contentiua luxuriae, 
+          <lb ed="#B1" n="38"/>ibi: nullum pratum. Primo ergo enumerat delectabilia gustui conferentia. Se 
+          <lb ed="#B1" n="39"/>cundo tactui conferentia. Tertio olfactui conferentia. Vinum enim delectat  
+          <lb ed="#B1" n="40"/>gustum, unguentum emollit ad tactum, &amp; flos redolet ad olfactum, Dicit ergo: Vino 
+          <lb ed="#B1" n="41"/>precioso &amp; vnguentis nos impleamus. In quo duplicem excessum exprimunt euidenter 
+          <lb ed="#B1" n="42"/>in suo appetitu. Appetunt in uino maxime raritatem &amp; mensurae nimiae quantitatem.
+        </p>
+        <p xml:id="rhwis-l21-d1e120">
+          <lb ed="#B1" n="43"/>Pro primo dicunt, aino: Non quolibet, sed precioso: id est, chare empto. O 
+          <lb ed="#B1" n="44"/>mne rarum charum. Secundo addunt: Impleamus, non sufficit intemperatis &amp;  
+          <lb ed="#B1" n="45"/>gulosis dicere uinum preciosum: nec absolute, uinum bibamus: sed uino precio  
+          <lb ed="#B1" n="46"/>so nos impleamus: cum tamen natura humana in modico sit contenta. Vnde Boë 
+          <lb ed="#B1" n="47"/>tius 2. de Conso. pros. 5. Paucis, minimisque natura contenta est, cuius satietatem si 
+          <lb ed="#B1" n="48"/>superfluis urgere uelis, aut iniocundum quod supereffuderis fiet: aut noxium, &amp; 
+          <!--sap_Page_110.xml-->
+          <pb ed="#B1" n="76"/>
+          <lb ed="#B1" n="1"/>Paul. 1. ad Tim. 6. Habentes alimenta his contenti simus, &amp; quibus tegamur.  
+          <lb ed="#B1" n="2"/>Secundo ad uinum addunt unguenta: id est, electuaria ad iocunde bibendum, 
+          <lb ed="#B1" n="3"/>&amp; secundum hoc unguentum pertinet tam ad gustum quam ad tactum. Aliter 
+          <lb ed="#B1" n="4"/>exponitur de unguentis ad unguendum ad corpora, &amp; facies ut magis resplen 
+          <lb ed="#B1" n="5"/>deant, &amp; suauius redoleant, &amp; mollius tangi possint: &amp; sic pertinent ad deli  
+          <lb ed="#B1" n="6"/>cias tam uisus quam tactus. Tertio quantum ad olfactum subinferunt: Et non 
+          <lb ed="#B1" n="7"/>praetereat nos fios temporis, quin de floribus singulis iuxta tempus suum nostras 
+          <lb ed="#B1" n="8"/>delicias habeamus. Aliter flos temporis uocatur flos iuuentutis nostrae, &amp; tunc 
+          <lb ed="#B1" n="9"/>est sensus: Non praetereat nos fios: id est, tempus iuuentutis nostrae, quin fruamut  
+          <lb ed="#B1" n="10"/>quantum possibile est omni genere uoluptatis
+        </p>
+        <p xml:id="rhwis-l21-d1e162">
+          <lb ed="#B1" n="11"/>Hic estuna dubitatio literalis. Vtrum usus uini sit homini licitus:
+        </p>
+        <p xml:id="rhwis-l21-d1e167">
+          Et uidetur  
+          <lb ed="#B1" n="12"/>quod non, Eccl. 2. Cogitaui a uino abstrahere animam meam, ut transferrem eam ad 
+          <lb ed="#B1" n="13"/>sapientiam: Sed sine sapientia homo non potest saluari: quia Sapientiae 1. Nemi 
+          <lb ed="#B1" n="14"/>nem diligit DEVS, nisi qui cum sapientia inhabitat: &amp; ideo necessarium est homini 
+          <lb ed="#B1" n="15"/>quod anima sua a uino abstrahatur.
+        </p>
+        <p xml:id="rhwis-l21-d1e179">
+          Secundo, quia ad Rom. 14. dicitur: <quote xml:id="rhwis-l21-Qd1e181" source="http://scta.info/resource/rom14_21">Bonum 
+            <lb ed="#B1" n="16"/>est non manducare carnem, &amp; non bibere uinum</quote>, sed cessare a bono uirtutis: est 
+          <lb ed="#B1" n="17"/>uitiosum &amp; illicitum.
+        </p>
+        <p xml:id="rhwis-l21-d1e189">
+          Tertio, quia Hieron. dicit que uinum cum carnibus post 
+          <lb ed="#B1" n="18"/>diluuium est dedicatum: CHRISTVS autem uenit in fine seculorum &amp; extre 
+          <lb ed="#B1" n="19"/>mitatem retraxit ad principium: Ergo tempore legis CHRISTI est illicitus usus ui  
+          <lb ed="#B1" n="20"/>ni.
+        </p>
+        <p xml:id="rhwis-l21-d1e198">
+          Ad oppositum est Apostolus ad Timoth. 5. Noli adhuc aquam bibere, sed mo 
+          <lb ed="#B1" n="21"/>dico uino utere, propter stomachum tuum &amp; frequentes infirmitates. Item Eccl.  
+          <lb ed="#B1" n="22"/>31. Exultatio animae &amp; cordis uinum est, temperate potatum.
+        </p>
+        <p xml:id="rhwis-l21-d1e205">
+          Ad quaestionem 
+          <lb ed="#B1" n="23"/>siue dubitationem dicendum, quod per se loquendo usus uini est homini licitus. Po 
+          <lb ed="#B1" n="24"/>test tamen contingere per accidens queo alicui homini sit illicitus. Vel ex conditio 
+          <lb ed="#B1" n="25"/>ne bibentis: quia forte alij ex suo facto scandalizarentur: uel forte quia uino de 
+          <lb ed="#B1" n="26"/>facili laeditur, &amp; perdit caput, linguam &amp; pedes: uel quia per uotum a uino se 
+          <lb ed="#B1" n="27"/>abstinere astruxit.
+        </p>
+        <p xml:id="rhwis-l21-d1e218">
+          Ad primum dicendum queo licet hoc sit perfectionis &amp; consi 
+          <lb ed="#B1" n="28"/>lij: non tamen est usus uini ideo illicitus. Aliter potest dici, quod sapientia est 
+          <lb ed="#B1" n="29"/>duplex. Vna quae a DEO infunditur: alia quae per doctrinam &amp; studium ad 
+          <lb ed="#B1" n="30"/>quiritur. Et certe respectu primae disponit abstinentia a uino: non autem respe 
+          <lb ed="#B1" n="31"/>ctu secundae, ita quin liceat uinum bibere.
+        </p>
+        <p xml:id="rhwis-l21-d1e229">
+          Ad secundum dicitur quod illa au 
+          <lb ed="#B1" n="32"/>toritas allegata est truncate: quia intentio Apostoli est persuadere Romanis  
+          <lb ed="#B1" n="33"/>conuersis ad fidem, quod nec carnibus nec uino utantur in scandalum Christia 
+          <lb ed="#B1" n="34"/>norum de novo conuersorum. Vnde subditur neque in quo frater tuus offenditur aut  
+          <lb ed="#B1" n="35"/>scandalixatur.
+        </p>
+        <p xml:id="rhwis-l21-d1e241">
+          Ad tertium dicendum qued Hieron. vult dicere, quod CHRISTVS 
+          <lb ed="#B1" n="36"/>a uino retraxit se tanquam ab impedimento perfectionis si excessiue sumatur.
+        </p>
+        <p xml:id="rhwis-l21-d1e246">
+          <lb ed="#B1" n="37"/>Circa primum notandum, quod usus immoderatus uini multipliciter nocet  
+          <lb ed="#B1" n="38"/>homini. Est enim detrimentum libertatis. Atramentum honestatis, comple  
+          <lb ed="#B1" n="39"/>mentum voluptatis &amp; experimentum fatuitatis. Est enim detrimentum libertatis: 
+          <lb ed="#B1" n="40"/>Vnde prima radix seruitutis &amp; ignobilitatis fuit per uinum, legimus in Gen. 9. 
+          <lb ed="#B1" n="41"/>quo Noë primo plantauit uineam. Nam ante diluuium uinum non fuit in usu nec ho 
+          <lb ed="#B1" n="42"/>mines uinum habebant: bibens erpo uinum inebriatus est, &amp; dormiens iacuit  
+          <lb ed="#B1" n="43"/>in tabernaculo posteriora nudatus. Accessit filius suus Cham &amp; patris uerenda 
+          <lb ed="#B1" n="44"/>nuda conspiciens derisit eum. Nunciatum est hoc postea patri, &amp; filium seruitute dam 
+          <lb ed="#B1" n="45"/>nauit: &amp; haec fuit prima origo seruitutis, sicut dicit <ref xml:id="rhwis-l21-Rd1e267" target="http://scta.info/resource/adcd-l19-d1e3134">Aug. 19. de Ciui. DEI, c.15</ref>.
+        </p>
+        <p xml:id="rhwis-l21-d1e271">
+          <lb ed="#B1" n="46"/>In hoc aut satis innuuntur quatuor mala, quae ebrietas solet hominibus infer<lb ed="#B1" n="47"/>re: 
+          Primo nanque priuat hominem usu sensus &amp; rationis, &amp; facit eum deteriorem  
+          <lb ed="#B1" n="48"/>bestia, &amp; hoc significat Noe inebriatio. Secundo spoliat hominem diuitijs suis.  
+          <lb ed="#B1" n="49"/>Vnde frequenter magni potatores siunt pauperes finaliter: quia qui amat uinum 
+          <lb ed="#B1" n="50"/>&amp; pinguia non ditabitur. Et hoc significat Noë denudatio. iertio reddit homi<lb ed="#B1" n="51"/>nem 
+          derisibilem non solum inimicis, imo amicis: &amp; hoc significat quod filius 
+          <lb ed="#B1" n="52"/>derisit eum. Quarto quod Noe punit filium suum, significat quod potatores  
+          <lb ed="#B1" n="53"/>filios suos &amp; prolem suam mendicitati &amp; seruituti exponunt frequenter. 
+          <!--sap_Page_111.xml-->
+          <pb ed="#B1" n="77"/>
+          <lb ed="#B1" n="1"/>Secundo uinum immoderate sumptum est atramentum honestatis: con 
+          <lb ed="#B1" n="2"/>fundit enim &amp; deturpat hominis honestatem &amp; nobilitatem tam corporis quam 
+          <lb ed="#B1" n="3"/>animae. Vnde Innocentius de uilitate conditionis humanae. Quid turpius e 
+          <lb ed="#B1" n="4"/>brioso: cui foetor in ore, tremor in corpore, promit stulta, prodit occulta, cui  
+          <lb ed="#B1" n="5"/>mens alienatur, facies transformatur. Nullum enim secretum, ubi regnat ebrie 
+          <lb ed="#B1" n="6"/>tas. Vnde Seneca epist. 12. Non est animus in sua potestate deuictus ebrietate: 
+          <lb ed="#B1" n="7"/>quemadmodum musto dolia ipsa rumpuntur, &amp; quicquid in imo iacet, in sum 
+          <lb ed="#B1" n="8"/>mum uis caloris eructat. Sic uino aestuante quidquid in corde latet abditum, 
+          <lb ed="#B1" n="9"/>effertur &amp; prodit in medium. Et infra dicunt: quod turpe sit sibi plus ingerere 
+          <lb ed="#B1" n="10"/>quam uenter capiat, &amp; stomachi non esse mensuram, quod multi ebrij faciunt  
+          <lb ed="#B1" n="11"/>de quibus sobrij erubescunt. Vnde dicit nihil aliud esse ebrietatem quam volun 
+          <lb ed="#B1" n="12"/>tariam infamiam uel insaniam: extende in plures dies illum ebrij habitum, nunc qui  
+          <lb ed="#B1" n="13"/>dem de furore dubitabis, nunc quoque non minor, sed breuior. Refert Alexand, 
+          <lb ed="#B1" n="14"/>Macedonis exemplum, qui *clientulum sibi charissimum ac fidelissimum inter e 
+          <lb ed="#B1" n="15"/>pulas transfodit, &amp; intellecto facinore mori uoluit. Haec Seneca. Fingitur a 
+          <lb ed="#B1" n="16"/>quodam imaginem ebrietatis sic fuisse depictam, ut imago puerilis cornu ha 
+          <lb ed="#B1" n="17"/>bens in manu, &amp; in capite coronam de uitro. Puer erat in signum, quod facit 
+          <lb ed="#B1" n="18"/>hominem elinguem, insensatum more pueri: cornu habebat in manu in signum, quod  
+          <lb ed="#B1" n="19"/>nullum celat secretum, sed clamando &amp; clangendo reuelat. Coronam habet ui  
+          <lb ed="#B1" n="20"/>tream: quia reputat se gloriosum &amp; diuitem qui est ebrius, cum nihil habeat.
+        </p>
+        <p xml:id="rhwis-l21-d1e339">
+          <lb ed="#B1" n="21"/>Et ideo inuenimus uinum fuisse prohibitum tribus, scilicet uirginibus, sa 
+          <lb ed="#B1" n="22"/>cerdotibus &amp; regibus, Proverb. 20. Luxuriosa res est uinum, &amp; tumultuosa 
+          <lb ed="#B1" n="23"/>ebrietas. Hieron. epist. 95. Si experto creditur, hoc primum moneo, ut sponsa 
+          <lb ed="#B1" n="24"/>CHRISTI uinum fugiat pro ueneno. Vnde apud antiquos uinum uocabatur  
+          <lb ed="#B1" n="25"/>uenenum, Leui. 10. Sacerdotibus ingressuris tabernaculum prohibitum erat  
+          <lb ed="#B1" n="26"/>ne biberent uinum. Regibus etiam erat prohibitum, Proverb. 31. Noli dare 
+          <lb ed="#B1" n="27"/>regibus uinum o Lamuel. Valerius lib. 2. cap. 1. Vsus uini Romanis foeminis 
+          <lb ed="#B1" n="28"/>erat ignotus.
+        </p>
+        <p xml:id="rhwis-l21-d1e359">
+          <lb ed="#B1" n="29"/>Tertio uinum est complementum uoluptatis. Verecundia nanque bona 
+          <lb ed="#B1" n="30"/>multos cohibet a peccatis: &amp; ideo ubi illa per uinum aufertur, uoluptas quae 
+          <lb ed="#B1" n="31"/>latuit in corde sine pudore se detegit. Vnde Senec. in epist, monet. Vbi supra 
+          <lb ed="#B1" n="32"/>Plures pudore peccandi quam bona uoluntate prohibiti sunt a scelere: ubi au 
+          <lb ed="#B1" n="33"/>tem possedit animam nimia uis uini, quidquid mali latebat, emergit. Et ideo 
+          <lb ed="#B1" n="34"/>ad Eph. 5. scribitur: <quote xml:id="rhwis-l21-Qd1e374" source="http://scta.info/resource/eph5_18">Nolite inebriari uino in quo est luxuria</quote>, scilicet effectiue 
+          <lb ed="#B1" n="35"/>Exemplum de Loth, Gen.19. &amp; Ecclesiast. 31. Multos enim exterminauit uinum.
+        </p>
+        <p xml:id="rhwis-l21-d1e380">
+          <lb ed="#B1" n="36"/>Quarto uinum est experimentum fatuitatis: quia homo fit dispositus ad 
+          <lb ed="#B1" n="37"/>quodcunque malum in ebrietate: potest de eo capi experimentum, Ecclesiast. 
+          <lb ed="#B1" n="38"/>3 1. Vinum corda superborum arguit &amp; ostendit &amp; prodit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

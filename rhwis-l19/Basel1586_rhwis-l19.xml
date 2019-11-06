@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 19 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 19 [Basel Transcription]</title>
+          <date when="2019-11-04">November 04, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-04" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="69"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l19">
+        <head xml:id="rhwis-l19-Hd1e95">Lectio 19</head>
+        <p xml:id="rhwis-l19-d1e98">
+          <lb ed="#B1" n="13"/>In parte praecedenti proposita estuna conclusio probanda secundum 
+          <lb ed="#B1" n="14"/>opinionem impiorum, &amp; est conclusio ista quod totum genus hu 
+          <lb ed="#B1" n="15"/>manum annihilabitur, destruetur &amp; peribit: non solum secundum 
+          <lb ed="#B1" n="16"/>rem, sed etiam secundum nomen &amp; memoriam aliorum: ita quod  
+          <lb ed="#B1" n="17"/>nec homo erit in re nec in opinione.
+        </p>
+        <p xml:id="rhwis-l19-d1e111">
+          <lb ed="#B1" n="18"/>Posita aut hac opinione in lectione hodierna, subiungitur eius probatio, quae 
+          <lb ed="#B1" n="19"/>talis est: Inter omnia quae sensu distinguimus, illud quid minus immanet memoriae 
+          <lb ed="#B1" n="20"/>nostre, est umbra corporis moti continue. Nam talis umbra continue uariat: sed ui 
+          <lb ed="#B1" n="21"/>ta nostra est similis per omnia tali umbrae. Ergo omnino necesse est, quo eius me 
+          <lb ed="#B1" n="22"/>moria omnino deleatur. Posset ad quaestione responderi que licet pereat memoria 
+          <lb ed="#B1" n="23"/>istorum hominum pro certo tempore: alias tamen renouabitur per corporis resurrectio 
+          <lb ed="#B1" n="24"/>nem. Et ideo hanc responsionem consequenter impii excludunt per modum istum. Illud  
+          <lb ed="#B1" n="25"/>quod est prohibitum &amp; quasi per consignationem naturae firmatum, non po 
+          <lb ed="#B1" n="26"/>test mutari: quia cursus naturae est immutabilis in hoc quod a priuatione inha 
+          <lb ed="#B1" n="27"/>bitum impossibilis est regressio. Sed reuersio post mortem quae est finis noster,  
+          <lb ed="#B1" n="28"/>est a natura prohibita &amp; quasi per signationem naturae firmata: quia natura 
+          <lb ed="#B1" n="29"/>non utitur isto modo producendi uel reparandi homines, quod eos de morte 
+          <lb ed="#B1" n="30"/>reducat ad uitam: sed cursus uitae nostrae est talis, quod de non esse producitur ad 
+          <lb ed="#B1" n="31"/>esse. Et iterum post uitam ad non esse ducitur post mortem: &amp; de isto gradu nun 
+          <lb ed="#B1" n="32"/>quam reducitur per naturam ad esse: &amp; haec est sententia literae.
+        </p>
+        <p xml:id="rhwis-l19-d1e146">
+          <lb ed="#B1" n="33"/>Circa istam lectionem quaero istam quaestionem: Vtrum resurrectio o 
+          <lb ed="#B1" n="34"/>mnium generaliter sit futura: excepto tamen a titulo quaestionis CHRISTO 
+          <lb ed="#B1" n="35"/>&amp; sua matre benedicta, de qua pie credit Ecclesia, quod sit in ea resurrectio com  
+          <lb ed="#B1" n="36"/>pleta.
+        </p>
+        <p xml:id="rhwis-l19-d1e157">
+          Et arguo ad quaestionem quod non. Primo per illud Daniel. 12. Multi  
+          <lb ed="#B1" n="37"/>de his qui dormierunt in puluere terrae, euigilabunt. Ista locutio partitionem  
+          <lb ed="#B1" n="38"/>quandam importat. Ergo non omnes resurgent.
+        </p>
+        <p xml:id="rhwis-l19-d1e165">
+          Item in Psal. Non resurgunt  
+          <lb ed="#B1" n="39"/>impij in iudicio: sed omnes qui resurgent, ad iudicium resurgent: Ergo im 
+          <lb ed="#B1" n="40"/>pij non resurgent.
+        </p>
+        <p xml:id="rhwis-l19-d1e172">
+          Item <ref xml:id="rhwis-l19-Rd1e174">Iob. 14</ref>. <quote xml:id="rhwis-l19-Qd1e177" source="http://scta.info/resource/iob14_12">Homo cum dormierit, non resurget donec at  
+          <lb ed="#B1" n="41"/>teratur coelum</quote>. Sed hoc nunquam erit. Item illi qui cu CHRISTO resurgente 
+          <lb ed="#B1" n="42"/>resurrexerunt, simul cum CHRISTO ascenderunt in corpore &amp; anima: Ergo 
+          <lb ed="#B1" n="43"/>in eis est resurrectio completa. Antecedens patet per Rabanum, &amp; habetur in 
+          <lb ed="#B1" n="44"/>gloss. communi. Qui resurgente Domino resurrexerunt a mortuis, etiam a 
+          <lb ed="#B1" n="45"/>icendente ad coelos simul ascendisse credendi sunt, nec ulla ratione eorum 
+          <!--sap_Page_104.xml-->
+          <pb ed="#B1" n="70"/>
+          <lb ed="#B1" n="1"/>temeritati fides accommodanda est, qui eos postea reuersuros in cinerem, ae 
+          <lb ed="#B1" n="2"/>denuo in monumentis (quae triduo patefacta sunt ab eis, quibus paulo ante 
+          <lb ed="#B1" n="3"/>apparuerunt uiui) more mortuorum putant esse conuersos. Haec ille.
+        </p>
+        <p xml:id="rhwis-l19-d1e202">
+          Item si 
+          <lb ed="#B1" n="4"/>iterum moriebantur, cum anima non separetur a corpore sine peena, bis passi 
+          <lb ed="#B1" n="5"/>sunt poenam mortis: Sed hoc est iniustum: quia ad Hebr. 9. Statutum est ho<lb ed="#B1" n="6"/>minibus 
+          semel mori, &amp; per consequens per unam mortem esse debitum poenae 
+          <lb ed="#B1" n="7"/>solutum. Item ipsi resurrexerunt ut essent socii &amp; testes resurrectionis CHRI<lb ed="#B1" n="8"/>STI: 
+          sed CHRISTVS resurgens ex mortuis iam non moritur: quia eius resur<lb ed="#B1" n="9"/>rectio 
+          fuit ad uitam aeternam. Ergo &amp; eorum consimiliter alias non erant testes 
+          <lb ed="#B1" n="10"/>sufficientes per totum.
+        </p>
+        <p xml:id="rhwis-l19-d1e220">
+          Ad oppositum sunt uerba Saluatoris <ref xml:id="rhwis-l19-Rd1e222"><unclear>Iob<!-- should be Io--></unclear>. 5.</ref> <quote xml:id="rhwis-l19-Qd1e228" source="http://scta.info/resource/io5_28">Omnes qui in 
+          <lb ed="#B1" n="11"/>monumentis sunt, audient uocem Filij DEI</quote>: &amp; qui audierint, uiuent.
+        </p>
+        <p xml:id="rhwis-l19-d1e234">
+          Item <ref xml:id="rhwis-l19-Rd1e236">1 
+          <lb ed="#B1" n="12"/>ad Corinth. 15.</ref> <quote xml:id="rhwis-l19-Qd1e241" source="http://scta.info/resource/Icor15_51">Omnes quidem resurgemus</quote>.
+        </p>
+        <p xml:id="rhwis-l19-d1e245">
+          Item ait <ref xml:id="rhwis-l19-Rd1e247">Apostolus ad Rom. 5.</ref> 
+          <lb ed="#B1" n="13"/>Quia <quote xml:id="rhwis-l19-Qd1e252" source="http://scta.info/resource/rom5_12">si peccatum &amp; mors pertransijt in omnes homines per unum</quote>, siue pro<lb ed="#B1" n="14"/>pter 
+          culpam originalem. Ergo multo magis resurrectio ad uitam dabitur a 
+          <lb ed="#B1" n="15"/>CHRISTO in omnes homines.
+        </p>
+        <p xml:id="rhwis-l19-d1e261">
+          Ad istam quaestionem sine scrupulo est di 
+          <lb ed="#B1" n="16"/>cendum quod sic, sicut Euangelium &amp; Apostolica doctrina testatur tam in lo<lb ed="#B1" n="17"/>cis 
+          ad oppositum allegatis, quam in multis alijs. Rationem istius resurrectio<lb ed="#B1" n="18"/>nis 
+          assignat <ref xml:id="rhwis-l19-Rd1e269">sanctus Thomas super 4. Sententiarum, dist. 43. ar. 1. &amp; 2.</ref> talem: 
+          <lb ed="#B1" n="19"/>Omnes homines appetunt beatitudinem. Iste appetitus non completur in uita 
+          <lb ed="#B1" n="20"/>ista, nec in uita alia, potest impleri in sola anima. Ergo necesse est quae compleatur  
+          <lb ed="#B1" n="21"/>in uita alia ubi anima corpori sit coniuncta. Sed cum doctoris reuerentia haec 
+          <lb ed="#B1" n="22"/>ratio nihil facit pro resurrectione damnatorum, in quibus oportet concedere,  
+          <lb ed="#B1" n="23"/>quod appetitus beatitudinis frustrabitur in aeternum. Et ideo alij assignant  
+          <lb ed="#B1" n="24"/>aliam rationem, sicut Richardus de media uilla dis. praeallegata. Quae talis est: 
+          <lb ed="#B1" n="25"/>Nulla naturalis inclinatio est frustra. Sed omnis anima rationalis habet natu  
+          <lb ed="#B1" n="26"/>ralem inclinationem ad regendum &amp; gubernandum corpus. Ergo omnis anima ra 
+          <lb ed="#B1" n="27"/>tionalis corpori unietur. Sed nec ista ratio cogit intellectum ad asfensum: quia 
+          <lb ed="#B1" n="28"/>naturalis inclinatio uoluntatis omnium hominum est ad beneuiuendum se<lb ed="#B1" n="29"/>cundum 
+          <ref xml:id="rhwis-l19-Rd1e296">August. 13. de Trini. &amp; in multis alijs locis</ref>: &amp; tamen constat secun<lb ed="#B1" n="30"/>dum 
+          fidem, quod appetitus frustrabitur in multis: quia multi sunt uocati, pau 
+          <lb ed="#B1" n="31"/>ci uero electi. Et ideo tenendum est quod sic: quia hoc seruat Sacra scriptura 
+          <lb ed="#B1" n="32"/>expresse. Hoc etiam est sanctis Patribus reuelatum, &amp; quasi infinitis miraculis  
+          <lb ed="#B1" n="33"/>declaratum: inter quae est illud de septem dormientibus, ut patet in legenda 
+          <lb ed="#B1" n="34"/>sanctorum.
+        </p>
+        <p xml:id="rhwis-l19-d1e311">
+          Ad primum potest dici, quod ad literam autoritas potest expo<lb ed="#B1" n="35"/>ni 
+          de pueris damnatis in limbo, quia illi proprie non euigilabunt: quia cum ui 
+          <lb ed="#B1" n="36"/>gilia sit proprie resolutio &amp; usus sensuum, &amp; ipsi non resurgent ad fentiendum 
+          <lb ed="#B1" n="37"/>poenam uel gloriam. Ideo potest colligi multi teneri ibidem partitiue. Aliter 
+          <lb ed="#B1" n="38"/>exponit August, multi: id est, omnes. Sic enim loquitur Scriptura frequenter
+        </p>
+        <p xml:id="rhwis-l19-d1e322">
+          <lb ed="#B1" n="39"/>Ad secundum dicendum, quod impij non resurgent in iudicio: id est, ad iudican<lb ed="#B1" n="40"/>dum, 
+          sicut sancti ut iudicent, sed resurgent ut iudicentur.
+        </p>
+        <p xml:id="rhwis-l19-d1e329">
+          Ad tertium fensus est 
+          <lb ed="#B1" n="41"/>donec atteratur coelum: id est, donec a coelo per quietem auferatur motus, per 
+          <lb ed="#B1" n="42"/>quem quidem motum coelum causat generationem &amp; corruptionem in istis 
+          <lb ed="#B1" n="43"/>inferioribus.
+        </p>
+        <p xml:id="rhwis-l19-d1e338">
+          Ad quartum quod est de resurgentibus cum CHRISTO, &amp;c. Pri<lb ed="#B1" n="44"/>mo 
+          uidendum est quid dicat Hiero. postea quid magister in historijs: tertio quid  
+          <lb ed="#B1" n="45"/>sentiat August. De primo Hier: in Ser: Cogitis me o Paula, &amp;c. dicit sic: Quos 
+          <lb ed="#B1" n="46"/>cum Domino resurrexisse legimus, utrum redierunt in puluerem certum non 
+          <lb ed="#B1" n="47"/>habemus. Melius est DEO totum committere quam aliquid temere definire: 
+          <lb ed="#B1" n="48"/>&amp; haec sententia mihi placet. Eadem est sententia magistri in historijs super E 
+          <lb ed="#B1" n="49"/>uangelium. Recitat tamen quod quidam opinantur, quod aliqui de illis qui  
+          <lb ed="#B1" n="50"/>cum CHRISTO resurrexerunt, sepulti sunt in Hierusalem. Sententia uero bea 
+          <lb ed="#B1" n="51"/>ti Aug. de Mirabilibus diuinae Scripturae, plane definit, quod iterum mortui sint,  
+          <lb ed="#B1" n="52"/>9. ca. &amp; est prope finem libri. Sicut enim in resuscitatis mortuis similitudo tantum, 
+          <lb ed="#B1" n="53"/>non mors continua fieri cernitur: ita &amp; in his similitudo resurrectionis non ipsa 
+          <!--sap_Page_105.xml-->
+          <pb ed="#B1" n="71"/>
+          <lb ed="#B1" n="1"/>resurrectio ostenditur. De continua enim morte nullus ad uitam indecidiuam 
+          <lb ed="#B1" n="2"/>nisi Dominus usque in diem nouissimum reuertitur. Vnde dicendum est secun<lb ed="#B1" n="3"/>dum 
+          mentem Aug. quod apparet probabile in hac parte, quod illi qui cum CHRI 
+          <lb ed="#B1" n="4"/>STO surrexerunt, iterum mortui sunt, quorum corpora iterum ad monumen 
+          <lb ed="#B1" n="5"/>ta reuertebantur: nam &amp; verisimile est quod inter eos fuisse debebant sancti 
+          <lb ed="#B1" n="6"/>Patres, Moyses &amp; Dauid, &amp; quidem alij, quorum fidem maximam comendat Apo 
+          <lb ed="#B1" n="7"/>stolus ad Heb. 11. &amp; in fine subiugit: Hi omnes testimonio fidei probati inuenti 
+          <lb ed="#B1" n="8"/>sunt, acceperunt repromissionem, DEO pro nobis aliquid melius prouidente 
+          <lb ed="#B1" n="9"/>ne sine nobis consummarentur. Et haec ratio mouet Aug. ad sic dicendum.
+        </p>
+        <p xml:id="rhwis-l19-d1e386">
+          Ad 
+          <lb ed="#B1" n="10"/><name>Rabanum</name> dicitur quod non bene considerauit Apostolum nec etiam Aug. qui satis eum 
+          <lb ed="#B1" n="11"/>praecessit.
+        </p>
+        <p xml:id="rhwis-l19-d1e396">
+          Ad quintum non constat quod moriebantur sicut de lohanne Euan 
+          <lb ed="#B1" n="12"/>gelista dicitur, quod dolorem in moriendo non sensit. Vnde non sequitur, quod  
+          <lb ed="#B1" n="13"/>si iterum moriebantur, moriebantur cum poena, uel sentirent etiam poenam: po 
+          <lb ed="#B1" n="14"/>tens est enim DEVS &amp; cum statuto communi dispensare, &amp; eis pro poena glo 
+          <lb ed="#B1" n="15"/>riam recompensare.
+        </p>
+        <p xml:id="rhwis-l19-d1e407">
+          Ad sextum dicendum, quod furrexerunt pro testimonio reiurre<lb ed="#B1" n="16"/>ctioni 
+          perhibendo absolute, &amp; non quantum ad oës resurrectionis circustantias.
+        </p>
+        <p xml:id="rhwis-l19-d1e412">
+          <!-- missing text and line "Umbrae transitus]" -->
+          <lb ed="#B1" n="17"/>Notandum quod uita nostra ualde conuenienter umbrae comparatur. Est enim in 
+          <lb ed="#B1" n="18"/>umbra indigentia luminis, assistentia frigoris, &amp; apparentia corporis. Primo di 
+          <lb ed="#B1" n="19"/>co quod in umbra est indigentia luminis: quia in umbra est lumen diminutum. 
+          <lb ed="#B1" n="20"/>Isto modo licet in ista uita sit aliud lumen cognitionis naturalis &amp; etiam fidei de 
+          <lb ed="#B1" n="21"/>DEO: ista tamen cognitio non est nisi umbra respectu illius cognitionis &amp; scien 
+          <lb ed="#B1" n="22"/>tiae, quam sumus in patria habituri. Sicut enim Iex antiqua umbra fuit fidei, quae 
+          <lb ed="#B1" n="23"/>nunc est ad Heb. 10. Ita fides moderna non est nisi umbra respectu noticiae bea 
+          <lb ed="#B1" n="24"/>torum, cum quodam desiderio beatitudinis, Canti. 2. Sub umbra illius quam desi 
+          <lb ed="#B1" n="25"/>derabam, sedi. Ista autem umbra fidei &amp; noticiae Scripturarum tantae est uirtutis,  
+          <lb ed="#B1" n="26"/>quod purgat mentem ab infirmitatibus: hoc est, a uitijs &amp; peccatis. In cuius figu 
+          <lb ed="#B1" n="27"/>ram legimus Act. 5. quod umbra Petri sanauit infirmos. Virtute etiam umbrae 
+          <lb ed="#B1" n="28"/>fidei CHRISTVM spiritualiter concipimus, sicut fecit Virgo benedicta carnali  
+          <lb ed="#B1" n="29"/>ter, Luc. 1. Spiritus sanctus supueniet in te, &amp; uirtus Altissimi obubrabit tibi
+        </p>
+        <p xml:id="rhwis-l19-d1e445">
+          <lb ed="#B1" n="30"/>Secundo uita praesens comparatur umbrae propter assistentiam frigoris. Est enim 
+          <lb ed="#B1" n="31"/>frigidius in umbra quam extra. Isto modo in praesenti uita est torpor &amp; carentia 
+          <lb ed="#B1" n="32"/>charitatis: &amp; sicut umbrae sunt longiores &amp; frigidiores uersus uesperam quam in 
+          <lb ed="#B1" n="33"/>meridie: ita defectus charitatis cordium humanorum uersus finem mundi augebitur,  
+          <lb ed="#B1" n="34"/>quoniam superabundabit iniquitas, refrigescet charitas, Matth. 24. &amp; Hiere. 6. Vae 
+          <lb ed="#B1" n="35"/>uobis, quoniam declinauit dies &amp; longiores factae umbrae uespere.
+        </p>
+        <p xml:id="rhwis-l19-d1e461">
+          <lb ed="#B1" n="36"/>Tertio comparatur uita nostra umbrae. In umbra enim est apparentia cor 
+          <lb ed="#B1" n="37"/>poris &amp; non existentia: ita in praesenti uita est apparentia soliditatis: in diui  
+          <lb ed="#B1" n="38"/>tijs, dignitatibus &amp; honoribus: &amp; non existentia promittunt satietatem, &amp; as 
+          <lb ed="#B1" n="39"/>ferunt egestatem, promittunt beatitudinem, &amp; afferunt solicitudinem: &amp; id 
+          <lb ed="#B1" n="40"/>eo mentiuntur nobis istae umbrae &amp; nos fallunt, Eccles. 34. in principio: Qua 
+          <lb ed="#B1" n="41"/>si qui apprehendit umbram &amp; persequitur uentum: sic qui attendit ad uisa men 
+          <lb ed="#B1" n="42"/>dacia. Et sicut uidetis quando homo habet solem prae oculis &amp; ante faciem suam, 
+          <lb ed="#B1" n="43"/>tunc proijcit umbram a tergo: quando autem sol est a tergo, tunc habet umbram  
+          <lb ed="#B1" n="44"/>suam ante &amp; coram oculis suis, ita quod sol &amp; umbra non compatiuntur se ex una 
+          <lb ed="#B1" n="45"/>parte. Isto modo est moraliter &amp; delectationibus temporalibus huius uitae, quae sunt  
+          <lb ed="#B1" n="46"/>quasi umbra: &amp; de sole iusticiae, qui est CHRISTVS: nam ille qui habet CHRI 
+          <lb ed="#B1" n="47"/>STVM coram oculis cordis sui praesentem, illuminantem per fidem &amp; inflammantem 
+          <lb ed="#B1" n="48"/>per amorem, talis indubitanter proijcit umbram a tergo: id est, respuit &amp; contem 
+          <lb ed="#B1" n="49"/>nit &amp; paruipendit illecebras huius uitae. Sed certe homines mundani qu CHRI 
+          <lb ed="#B1" n="50"/>STVM tradiderunt obliuioni &amp; proiecerunt, ipsi habent umbras in conspe 
+          <lb ed="#B1" n="51"/>ctu suo: &amp; quanto CHRISTUS magis distat &amp; elongatur ab eis: tanto eis  
+          <lb ed="#B1" n="52"/>umbra uanitatis mundanae maior apparet cum nihil sit. Causa quare lu<!--sap_Page_106.xml--><pb ed="#B1" n="72"/><lb ed="#B1" n="1"/>na 
+          eclipsatur in ueritate est: quia intrat umbram terrae: sol uero nunquam intrat 
+          <lb ed="#B1" n="2"/>umbram terrae, ideo nunquam eclipsatur realiter, sed apparenter tantum: Sic  
+          <lb ed="#B1" n="3"/>homines seruientes mundo immergunt se uanitati mundanae: ideo necesse est 
+          <lb ed="#B1" n="4"/>ut priuentur lumine gratiae per peccatum mortale, <ref xml:id="rhwis-l19-Rd1e510">Iob. 3.</ref> <quote xml:id="rhwis-l19-Qd1e514" source="http://scta.info/resource/iob3_5">Obscurent eum te 
+          <lb ed="#B1" n="5"/>nebrae &amp; umbra mortis</quote>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

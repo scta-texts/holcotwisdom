@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 24 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 24 [Basel Transcription]</title>
+          <date when="2019-11-06">November 06, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="84"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l24">
+        <head xml:id="rhwis-l24-Hd1e95">Lectio 24</head>
+        <p xml:id="rhwis-l24-d1e98">
+          <lb ed="#B1" n="6"/>POSTQVAM Spiritus sanctus posuit uerba reproborum con 
+          <lb ed="#B1" n="7"/>spirantium contra iustos in generali: Hic ponit uerba Iudaeorum 
+          <lb ed="#B1" n="8"/>reproborum conspirantium contra CHRISTVM in speciali. Et cir 
+          <lb ed="#B1" n="9"/>ca hoc duo siunt: primo tractant de CHRISTO decipiendo: secun 
+          <lb ed="#B1" n="10"/>do de eodem occidendo, ibi: videamus. Circa primum duo siunt:  
+          <lb ed="#B1" n="11"/>Nam primo conspirant ad circumueniendum: secundo inducunt causam quare 
+          <lb ed="#B1" n="12"/>hoc est faciendum, ibi: Quoniam inutilis est. Dicunt ergo primo per modum 
+          <lb ed="#B1" n="13"/>conclusionis: Circumueniamus ergo iustum anatomatice: id est, CHRISTVM 
+          <lb ed="#B1" n="14"/>Ista conspiratio adimpleta fuit, Ioan. 11. Collegerunt principes &amp; Pharisaei con 
+          <lb ed="#B1" n="15"/>cilium, &amp; dicebant: Quia hic homo multa signa facit, quid facimus: Si dimit 
+          <lb ed="#B1" n="16"/>timus eum sic, &amp;c. Consequenter inducunt causam huius circumuentionis fa 
+          <lb ed="#B1" n="17"/>ciendae &amp; accusant CHRISTVM de multis.
+        </p>
+        <p xml:id="rhwis-l24-d1e127">
+          <lb ed="#B1" n="18"/>Proponunt enim contra eum duodecim accusationes, uidelicet de fructuo 
+          <lb ed="#B1" n="19"/>sa occupatione, &amp; de maliciosa perturbatione. De improperiosa intentione, &amp; 
+          <lb ed="#B1" n="20"/>de iniuriosa diffamatione: de ambitiosa praesumptione, &amp; superstitiosa bla 
+          <lb ed="#B1" n="21"/>sphematione: de secreti reuelatione, &amp; de discordi conuersatione, de criminali  
+          <lb ed="#B1" n="22"/>paruipensione, uel irrisione: de parciali diuisione, de praeiudiciali comparatione,  
+          <lb ed="#B1" n="23"/>&amp; de supernaturali usurpatione. De istis articulis sex ponuntur in textu isto:  
+          <lb ed="#B1" n="24"/>quorum primum est de infructuosa operatione, quae notatur ubi dicunt: Quo 
+          <lb ed="#B1" n="25"/>niam inutilis est nobis. Arbor quae inutilis &amp; intructuosa est, meretur excidi,  
+          <lb ed="#B1" n="26"/>Luc. 3. Omnis arbor quae non facit fructum bonum, excidetur. Eodem modo 
+          <lb ed="#B1" n="27"/>est de ciuilitate humana, quod nullus ociosus debet admitti in Republica, si 
+          <lb ed="#B1" n="28"/>cut docent omnes legislatores: nam ratio etiam hoc suadet, quae unicuique rei 
+          <lb ed="#B1" n="29"/>propriam actionem assignat &amp; tribuit. Ita qui negat proprias actiones, uel o 
+          <lb ed="#B1" n="30"/>perationes, negat a rebus proprias essentias, sicut docet <ref xml:id="rhwis-l24-Rd1e157">Auerrois 9. Metaph  
+          <lb ed="#B1" n="31"/>commento 7</ref>. sed ipse CHRISTVS est ociosus in Vita, &amp; nullum fructum Rei  
+          <lb ed="#B1" n="32"/>publicae affert: Ergo iustum est &amp; licitum per quamcunque uiam eum circum 
+          <lb ed="#B1" n="33"/>uenire, &amp; destruere. Haec est eorum prima accusatio. Sed isti accusationi di 
+          <lb ed="#B1" n="34"/>cendum est, quod falsum accipit uel assumit, CHRISTVS enim fuit lux mun 
+          <lb ed="#B1" n="35"/>di, Iohan. 8. <quote xml:id="rhwis-l24-Qd1e171" source="http://scta.info/resource/io8_12">Ego sum lux mundi</quote>. CHRISTVS fuit lignum uitae afferens fru 
+          <lb ed="#B1" n="36"/>ctus duodecim per singulos menses, Apoc. 22. id est, docens &amp; informans duo 
+          <lb ed="#B1" n="37"/>decim Apostolos rectam fidem continere: Nihil autem estutilius mundo, quam 
+          <lb ed="#B1" n="38"/>lux quae totum mundum illuminat &amp; uiuificat. Quod autem inutilis eis fuit,  
+          <lb ed="#B1" n="39"/>culpa eorum fuit, qui se per odium a CHRISTI lumine diuiserunt, 1. Iohan. 2. 
+          <lb ed="#B1" n="40"/>Qui odit fratrem suum, in tenebris est, &amp; in tenebris ambulat.  
+          <!--sap_Page_119.xml-->
+          <pb ed="#B1" n="85"/>
+          <lb ed="#B1" n="1"/>Secunda accusatio fuit de maliciosa perturbatione. Et arguunt sic: Bonum 
+          <lb ed="#B1" n="2"/>totius ciuilitatis humanae est pax: Ergo qui perturbat pacem communitatis, 
+          <lb ed="#B1" n="3"/>dignus est de illa communitate expelli. Sed iste est perturbator pacis commu 
+          <lb ed="#B1" n="4"/>nis omnium: Ergo iustum est eum de ciuilitate communi expelli: &amp; haec accu 
+          <lb ed="#B1" n="5"/>satio notatur cum dicitur: Contrarius est operibus nostris. Et ista accusatio de 
+          <lb ed="#B1" n="6"/>perturbatione pacis potissime debet monere principem, Regem &amp; Imperato  
+          <lb ed="#B1" n="7"/>rem, &amp; generaliter quemlibet Reipublicae rectorem: quia finis operationis prin 
+          <lb ed="#B1" n="8"/>cipis est pax subditorum. Vnde Cassio. Variarum formarum epistola 2. Decet  
+          <lb ed="#B1" n="9"/>regalis apicis curam generaliter custodire concordiam: quoniam ad laudem  
+          <lb ed="#B1" n="10"/>regnantis trahitur, si ab hominibus pax ametur. Quid est enim quod principem 
+          <lb ed="#B1" n="11"/>melius praedicet quam quietus populus, concors senatus, &amp; tota Respublica 
+          <lb ed="#B1" n="12"/>morum honestate uestita. Haec ille. Sed ad hanc accusationem respondendum 
+          <lb ed="#B1" n="13"/>est, quod CHRISTVS fuit summus amator pacis, promulgauit nascendo, 
+          <lb ed="#B1" n="14"/>Luc. 2. In terra pax hominibus bonae uoluntatis. Pacem praedicauit docendo, 
+          <lb ed="#B1" n="15"/>Luc. 10. In quamcunque domum intraueritis, primum dicite pax huic domui. Pa 
+          <lb ed="#B1" n="16"/>cem legauit, testamentum condendo dicens: Pacem relinquo uobis, pacen meam 
+          <lb ed="#B1" n="17"/>do uobis, lohan.14. Sed quia pax uera est concordiam habere cum bonis mo 
+          <lb ed="#B1" n="18"/>ribus, &amp; litigare cum uitijs, secundum Cassiod, super illud Psalm. Factus est in 
+          <lb ed="#B1" n="19"/>pace locus eius, &amp; cum ipsi habuerunt mores pessimos, necessarium fuit quod  
+          <lb ed="#B1" n="20"/>uel eis contrarius fuit, uel conformiter cum eis malus. Pacem enim malam nul 
+          <lb ed="#B1" n="21"/>lus debet fovere: nam philosophis maxime propositum est pessimis displice 
+          <lb ed="#B1" n="22"/>re. Boët. 1 de Conso. prosa 3 ergo culpa contrarietatis ex eorum clilpa cau 
+          <lb ed="#B1" n="23"/>sabatur.
+        </p>
+        <p xml:id="rhwis-l24-d1e233">
+          <lb ed="#B1" n="24"/>Tertia accusatio est de improperiosa contentione, &amp; formatur sic: lmpro 
+          <lb ed="#B1" n="25"/>perare alicui peccatum suum uitiosum est &amp; pacis perturbatiuum, sed hoc 
+          <lb ed="#B1" n="26"/>CHRISTVS facit nobis: Ergo debet extirpari. Haec accusatio notatur in his  
+          <lb ed="#B1" n="27"/>uerbis: Et improperat nobis peccata legis. Occasio huius accusationis potest ha 
+          <lb ed="#B1" n="28"/>beri: quia CHRISTVS dixit loh. 7. Nonne Moyses dedit uobis legem, &amp; ne 
+          <lb ed="#B1" n="29"/>mo ex uobis facit legem. Sed ad hoc dicendum est, quod caret scrupulo socie 
+          <lb ed="#B1" n="30"/>tatis occultae, quae manifesto facinori non desinit obuiare. Manifestum autem 
+          <lb ed="#B1" n="31"/>fuit facinus eorum, &amp; inde merito debuit eos increpare: sed quia obsequium 
+          <lb ed="#B1" n="32"/>amicos &amp; ueritas odium parit: ideo factus est accusantibus odiosus.
+        </p>
+        <p xml:id="rhwis-l24-d1e255">
+          <lb ed="#B1" n="33"/>Quarta accusatio est de iniuriosa diffamatione, &amp; hoc specialiter in doctri 
+          <lb ed="#B1" n="34"/>na. Et formatur sic: quicunque in docendo seducit uel abducit homines a bonis  
+          <lb ed="#B1" n="35"/>moribus publice uel occulte, dignus est expelli de communitate &amp; destrui: &amp; 
+          <lb ed="#B1" n="36"/>quicumque imponit alicui nisi probet, dignus est poena talionis. Sed CHRISTVS 
+          <lb ed="#B1" n="37"/>publice dixit, quod nos ludaei falsa &amp; friuola docemus, &amp; legem dissoluimus, 
+          <lb ed="#B1" n="38"/>&amp; hoc non probat: Ergo dignus est a nostra communitate exterminari. Mate  
+          <lb ed="#B1" n="39"/>ria huius accusationis accipitur de uerba Saluatoris, Matth. 15. Irritum fecistis 
+          <lb ed="#B1" n="40"/>mandatum DEI propter traditiones uestras. Et notatur accusatio in his uerbis: 
+          <lb ed="#B1" n="41"/>Et diffamat in nos peccata disciplinae nostrae. Sed ad id respondendum est quod  
+          <lb ed="#B1" n="42"/>falsis informationibus resistendum est, &amp; praecipue a ueris. Sed CHRISTVS 
+          <lb ed="#B1" n="43"/>fuit magister uerax, sicut ipsi perhibuerunt testimonium, Mat. 22. Magister sci 
+          <lb ed="#B1" n="44"/>mus, quia uerax es, &amp; uiam DEI in ueritate doces. Sed amico Socrate, &amp; ami 
+          <lb ed="#B1" n="45"/>ca ueritate, sanctum est praehonorare ueritatem. Ideo cum CHRISTVS esset ipsa 
+          <lb ed="#B1" n="46"/>ueritas, iustum eos redarguere de falsitate doctrinae: nec fuit diffamatio: quia 
+          <lb ed="#B1" n="47"/>falsa eorum doctrina fuit notoria. Vnde ipsi se diffamauerunt.
+        </p>
+        <p xml:id="rhwis-l24-d1e291">
+          <lb ed="#B1" n="48"/>Quinta est accusatio de ambitiosa praesumptione, &amp; accusant eum sic:  
+          <lb ed="#B1" n="49"/>Quicunque sibi aequalitatem scientiae DEI arrogat, quasi peccatum primi pa 
+          <lb ed="#B1" n="50"/>rentis replicat: CHRISTVS autem hoc fecit: quia dixit lohan. 7. A meipso  
+          <lb ed="#B1" n="51"/>non ueni, sed uerax est qui misit me, quem uos nescitis: ego autem scio eum, &amp; 
+          <lb ed="#B1" n="52"/>qui scit eum perfecte est aequalis ei in scientia. Huic dicendum est, quod non 
+          <lb ed="#B1" n="53"/>fuit praesumptio, sed humilis notificatio, &amp; per experimenta probatio: secun 
+          <!--sap_Page_120.xml-->
+          <pb ed="#B1" n="sap_Page_120-sap_Page_"/>
+          <cb ed="#B1" n=""/>
+          <lb ed="#B1" n="1"/>dum illud Ioh. 16. Nunc scimus, quia scis omnia, &amp; non est tibi opus ut quis  
+          <lb ed="#B1" n="2"/>te interroget. Haec accusatio notatur cum dicunt: promittit se scientiam DEI ha 
+          <lb ed="#B1" n="3"/>bere: id est, iactat se scientiam DEI habere.
+        </p>
+        <p xml:id="rhwis-l24-d1e320">
+          <lb ed="#B1" n="4"/>Sexta accusatio est de superstitiosa blasphematione, &amp; formatur sic: Qui  
+          <lb ed="#B1" n="5"/>cunque dicit se filium DEI naturalem, &amp; exigit sibi cultum fieri superstitiosum, 
+          <lb ed="#B1" n="6"/>blasphemat DEVM. Sed de blasphemo scribitur 14. Leui. Quicunque blas  
+          <lb ed="#B1" n="7"/>phemauerit nomen Domini, morte moriatur: &amp; hoc fecit CHRISTVS loh.  
+          <lb ed="#B1" n="8"/>5. Vos dicitis quia blasphemo, quia dixi filius DEI sum. Sed haec accusatio re 
+          <lb ed="#B1" n="9"/>tellitur: quia non fuit blasphemia, sed uera annunciatio, sicut opera manifesta 
+          <lb ed="#B1" n="10"/>uerunt &amp; probauerunt, caecos illuminando, mortuos suscitando, lepro 
+          <lb ed="#B1" n="11"/>sos mundando, &amp; omnes infirmos curando: quod conuenit soli DEO. Vnde 
+          <lb ed="#B1" n="12"/>Matth. 27. Compunctus centurio dixit ita: Vere filius DEI erat iste. 
+          <lb ed="#B1" n="13"/>Haec accusatio notatur in litera cum dicitur: filium DEI se nominat. Li 
+          <lb ed="#B1" n="14"/>cet omnes Christiani filij DEI nominentur, &amp; sunt, 1. lohan. 3. Videte qua 
+          <lb ed="#B1" n="15"/>lem charitatem dedit nobis Pater, ut filij DEI nominemur, &amp; simus: &amp; lo 
+          <lb ed="#B1" n="16"/>han. 1. Dedit eis potestatem filios DEI fieri. Vnde uiri Ecclesiastici &amp; anima 
+          <lb ed="#B1" n="17"/>rum curati dicuntur filij DEI, signanter computati, Sapientiae 6. Computati 
+          <lb ed="#B1" n="18"/>sunt inter filios DEI, &amp; inter sanctos sors illorum est: quia filij patri assimilan 
+          <lb ed="#B1" n="19"/>tur. Quia secundum August. filius dicitur: quia fitut ille. DEVS autemI incom  
+          <lb ed="#B1" n="20"/>mutabilis in potentia: ineffabilis in sapientia: indicibilis in clementia. Debet  
+          <lb ed="#B1" n="21"/>igitur in eis apparere Patris potentia per carnis mortificationem: Filijssapien 
+          <lb ed="#B1" n="22"/>tia per sanctam informationem: &amp; Spiritus sancti clementia per iniuriarum re 
+          <lb ed="#B1" n="23"/>missionem.
+        </p>
+        <p xml:id="rhwis-l24-d1e366">
+          <lb ed="#B1" n="24"/>De primo dicitur, 1. Machabs 3. Accingimini &amp; estote filij potentes. Ac 
+          <lb ed="#B1" n="25"/> cingimini per continentiam carnalis uoluptatis. Quae accinctura quatuor zo 
+          <lb ed="#B1" n="26"/> nas habet iuxta quatuor exempla in Scriptura. Vnam ad pectus, aliam ad uen 
+          <lb ed="#B1" n="27"/>trem, unam ad renes, &amp; unam ad lumbos. Ad pectus dicitur esse zona aureat  
+          <lb ed="#B1" n="28"/>ad uentrem zona linea: ad renes zona funea: &amp; ad lumbos zona pellicea. Zo 
+          <lb ed="#B1" n="29"/>na aurea est mundicia mentalis puritatis, &amp; haec debet poni ad pectus con 
+          <lb ed="#B1" n="30"/>tra immundas cogitationes. Zona linea est temperantia nimiae superflui  
+          <lb ed="#B1" n="31"/>tatis, &amp; haec debet poni ad uentrem contra superfluas commessationes: &amp;o 
+          <lb ed="#B1" n="32"/>na funea est poenitentia rigida &amp; austera, &amp; haec debet poni ad renes con 
+          <lb ed="#B1" n="33"/>tra libidinis titillationes. Et zona pellicea est reminiscentia nostrae mor 
+          <lb ed="#B1" n="34"/>talitatis, &amp; haec debet poni ad lumbos contra uoluptatis delectationes. De 
+          <lb ed="#B1" n="35"/>prima zona dicitur Apocalypsis primo de lohanne, qui uidit personam si 
+          <lb ed="#B1" n="36"/>milem Filio hominis uestitum podere praecinctum ad mamillas zona au 
+          <lb ed="#B1" n="37"/>rea. De secunda, lohannis decimotertio: CHRISTVS praecinxit se lin 
+          <lb ed="#B1" n="38"/>teo, &amp; cepit lauare pedes discipulorum. De tertia <ref xml:id="rhwis-l24-Rd1e400">Iob. duodecimo</ref>, <quote xml:id="rhwis-l24-Qd1e403" source="http://scta.info/resource/iob12_18">Bal<lb ed="#B1" n="39"/>teum 
+            regum dissoluit &amp; praecinxit fune renes eorum</quote>. De quarta <ref xml:id="rhwis-l24-Rd1e409">Matthaei 
+              <lb ed="#B1" n="40"/>tertio</ref>: <quote xml:id="rhwis-l24-Qd1e414" source="http://scta.info/resource/mt3_4">Iohannes habebat zonam pelliceam circa lumbos suos</quote>. Qui au<lb ed="#B1" n="41"/>tem 
+          sic sunt accincti, possunt esse filij DEI potentes per carnis mortifi<lb ed="#B1" n="42"/>cationem.
+        </p>
+        <p xml:id="rhwis-l24-d1e422">
+          <lb ed="#B1" n="43"/>Referunt fabulae &amp; scribitur in libro epistolarum Ouidij, Epistola pe 
+          <lb ed="#B1" n="44"/>nultima de Alcimena Hercule nato: luno uxor Iouis uoluit Herculem inter 
+          <lb ed="#B1" n="45"/>ficere. Et misit ad puerum iacentem in cunis duas angues, ut puerum in 
+          <lb ed="#B1" n="46"/>terficerent, qui eas manibus constrictas oecidit, &amp; in hoc compertum est, 
+          <lb ed="#B1" n="47"/>ipsum esse filium Iouis. Hercules est quilibet literatus, qui nascitur spiri 
+          <lb ed="#B1" n="48"/>tuali generatione generosus, quando cura sibi committitur animarum: sic e 
+          <lb ed="#B1" n="49"/>nim potest homo nasci cum sit senex, lohan. 3. Nutritur delicate &amp; ponitur in 
+          <lb ed="#B1" n="50"/>cunis quando uestitur delicijs, diuitijs, decimis &amp; oblationibus Ecclesiasti 
+          <lb ed="#B1" n="51"/>cis debitis, patrimonio crucifixi. Sed quid euenit, forte dum esset pau 
+          <lb ed="#B1" n="52"/>per scholaris, uixit satis caste &amp; satis dure. Iam cum est in cunis, uestitur  
+          <lb ed="#B1" n="53"/>mollibus &amp; epulatur quotidie splendide: statim luno: id est, sensualitas, duas 
+          <!--sap_Page_121.xml-->
+          <pb ed="#B1" n="87"/>
+          <lb ed="#B1" n="1"/>angues mittit, ut sic occidatur filius iste louis, uidelicet per gulam &amp; luxuriam: 
+          <lb ed="#B1" n="2"/>quia statim ex delicijs &amp; honoribus, carnis tentationes oriuntur. Sed si uelit  
+          <lb ed="#B1" n="3"/>ostendere, quod sit filius louis, manibus: id est, potenti custodia &amp; resistentia 
+          <lb ed="#B1" n="4"/>rationis &amp; uoluntatis, angues tentationis occidit, &amp; sic se filium Iouis: id est,  
+          <lb ed="#B1" n="5"/>CHRISTI, ostendit, ut dicere possit de eo CHRISTVS illud Matth. 3. <quote xml:id="rhwis-l24-Qd1e463" source="http://scta.info/resource/mt3_17">Hic 
+            <lb ed="#B1" n="6"/>est filius meus dilectus, in quo mihi complacui</quote>. Sed reuera timendum est quod  
+          <lb ed="#B1" n="7"/>de istis filijs conqueritur CHRISTVS dicens illud Esa. 1. Filios enutriui &amp; 
+          <lb ed="#B1" n="8"/>exaltaui: ipsi autem spreuerunt me. Qui enim deberent esse filij CHRISTI 
+          <lb ed="#B1" n="9"/>sunt hostes CHRISTI: &amp; qui deberent esse filij potentes, sunt totaliter im 
+          <lb ed="#B1" n="10"/>becilles. Viuunt pompis &amp; uanitatibus in delicijs &amp; uoluptatibus, &amp; carni 
+          <lb ed="#B1" n="11"/>suae succumbunt, nec contra eam: sed contra CHRISTVM pugnant,. De quibus  
+          <lb ed="#B1" n="12"/>loquitur Bernh. super Cantica, sermon. 33. &amp; ad clerum in Vienensi concilio: Mi 
+          <lb ed="#B1" n="13"/>nistri, inquit, CHRISTI sunt, &amp; seruiunt Antichristo, honorati incedunt de bo 
+          <lb ed="#B1" n="14"/>nis Domini, cui honorem non deferunt. Inde est eis, quem quotidie uides, me 
+          <lb ed="#B1" n="15"/>retricis nitor, histrionicus habitus, regius apparatus, inde aurum in fraenis, in 
+          <lb ed="#B1" n="16"/>sellis, in calcaribus plus calcaria quam altaria fulgent. Inde mensae splendidae 
+          <lb ed="#B1" n="17"/>cibis &amp; ciphis: inde commessationes &amp; ebrietates, inde cithara &amp; Iyra, inde re 
+          <lb ed="#B1" n="18"/>dundantia, torcularia &amp; promptuaria plena, eructantia ex hoc in illud. Pro hu 
+          <lb ed="#B1" n="19"/>iusmodi uolunt esse &amp; sunt Ecclesiarum praeposit, decani, archidiaconi &amp; epi 
+          <lb ed="#B1" n="20"/>scopi. Haec ille. Contra istos malos filios loquitur in eodem, sic dicens: Olim 
+          <lb ed="#B1" n="21"/>praedictum est, &amp; nunc tempus adimpletionis aduenit. Ecce in pace amaritu 
+          <lb ed="#B1" n="22"/>do mea amarissima. Amara prius in nece martyrum. Amarior post in confli  
+          <lb ed="#B1" n="23"/>ctu haereticorum: amarissima nunc in moribus domesticorum. Non fugare: 
+          <lb ed="#B1" n="24"/>non fugere eos potest: ita inualuerunt &amp; multiplicati sunt supra numerum. In 
+          <lb ed="#B1" n="25"/>testinalis &amp; insanabilis est plaga Ecclesiae, &amp; ideo in pace eius amaritudo ama 
+          <lb ed="#B1" n="26"/>rissima. Sed in qua pace: Pax &amp; non est pax: Pax a paganis, Pax ab haereticis, 
+          <lb ed="#B1" n="27"/>sed non pax. Profecto a filijs uox plangentis Ecclesiae in tempore isto filios 
+          <lb ed="#B1" n="28"/>enutriui, &amp;c. spreuerunt &amp; maculauerunt. A turpi uita, a turpi quaestu, a turpi  
+          <lb ed="#B1" n="29"/>commercio, a negocio denique perambulante in tenebris: superestut iam de me 
+          <lb ed="#B1" n="30"/>dio fiat daemonium meridianum. Haec ille. Isti mali filij non sunt filij DEI, non 
+          <lb ed="#B1" n="31"/>sunt potentes accincti, sed imbecilles &amp; debiles &amp; filij suae carnis, ad Rom. 9. 
+          <lb ed="#B1" n="32"/><quote xml:id="rhwis-l24-Qd1e523" source="http://scta.info/resource/rom9_8">Non qui filij carnis, hi filij DEI sunt: sed qui filij promissionis</quote>, Cant. 1. Filij ma 
+          <lb ed="#B1" n="33"/>tris meae pugnauerunt contra me.
+        </p>
+        <p xml:id="rhwis-l24-d1e529">
+          <lb ed="#B1" n="34"/>Non uos sic charissimi, sed appareat in uobis potentia Patris nostri, ad E 
+          <lb ed="#B1" n="35"/>phes. 5. Estote imitatores DEI, sicut filij charissimi. Secundo debet istis filijs:  
+          <lb ed="#B1" n="36"/>id est, personis Ecclesiasticis apparere: Filij sapientia per sanctam informatio 
+          <lb ed="#B1" n="37"/>nem: eis enim dicitur, 1 ad Thessal. 5. Omnes uos filij lucis estis &amp; filij diei. Ex 
+          <lb ed="#B1" n="38"/>quo susceperunt docendi officium, illuminare debent luce sapientiae corda sub  
+          <lb ed="#B1" n="39"/>iectorum. Sed reuera timendum est, quod de filijs istis iam verificatur quod de 
+          <lb ed="#B1" n="40"/>filijs Heli legitur, 1. Reg. 2. Porro filij Heli filij Belial, nescientes Dominum 
+          <lb ed="#B1" n="41"/>neque officium sacerdotum ad populum, qui tamen lucis claritate lucere debe 
+          <lb ed="#B1" n="42"/>rent, ad Ephes. 5. Vt filij lucis ambulate. Tertio debet in eis apparere Spiritus 
+          <lb ed="#B1" n="43"/>sancti clementia, per iniuriarum remissionem: &amp; hoc est maxime proprium, 
+          <lb ed="#B1" n="44"/>per quod filij CHRISTI discerni possunt. Nam CHRISTO proprium est 
+          <lb ed="#B1" n="45"/>misereri, &amp; ideo nobis dicitur, Luc. 6. Eritis filij Altissimi: quia ipse  
+          <lb ed="#B1" n="46"/>benignus est super ingratos &amp; malos. Estote ergo mi 
+          <lb ed="#B1" n="47"/>sericordes sicut &amp; Pater uester mi 
+          <lb ed="#B1" n="48"/>sericors est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
