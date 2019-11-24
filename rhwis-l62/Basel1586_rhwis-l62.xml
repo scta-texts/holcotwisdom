@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 62 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 62 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="218"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l62">
+        <p xml:id="rhwis-l62-d1e95">
+          <!--sap_Page_252.xml-->
+          <pb ed="#B1" n="218"/>
+          <lb ed="#B1" n="1"/>POSTQVAM declaratum est, quod impii &amp; male uiuentes in prae 
+          <lb ed="#B1" n="2"/>senti fatebuntur se fuisse defraudatos, propter culpam suam a ueri 
+          <lb ed="#B1" n="3"/>tate, &amp; a sensitiua cognitione: Hic ostendit Spiritus sanctus quali  
+          <lb ed="#B1" n="4"/>ter fatebuntur se fuisse frustra fatigatos in operatione. Vnde dicit sic:  
+          <lb ed="#B1" n="5"/>Lassati sumus. Non est mirum, quia graue onus impositum uiatori, faciet eum 
+          <lb ed="#B1" n="6"/>cito lassum, De iniquitatibus uero scribitur, in Psal. Sicut onus graue grauatae 
+          <lb ed="#B1" n="7"/>sunt super me. Ergo uelint nolint peccatores lassabuntur. Ista lectio oculato 
+          <lb ed="#B1" n="8"/>experimento verificatur in omni genere hominum peruersorum, inter nobi  
+          <lb ed="#B1" n="9"/>les &amp; milites, qui pro uanitate in fama uolatili in ore hominum totaliter se ex  
+          <lb ed="#B1" n="10"/>ponunt. Manifestum est quod plus sustinebunt de poena in uno torneamento 
+          <lb ed="#B1" n="11"/>uel bello quam fanctus monachus in decem annis. Item mercatores qui maria 
+          <lb ed="#B1" n="12"/>pertranseunt personaliter, passus periculosos, latronum inuidias, &amp; insidias so 
+          <lb ed="#B1" n="13"/>ciorum, uere experiuntur uias huius mundi esse difficiles. Clerici uel laici qui  
+          <lb ed="#B1" n="14"/>curias magnorum regum, comitum uel episcoporum ingrediuntur ad serui 
+          <lb ed="#B1" n="15"/>endum: sciunt quantum habet ista uia difficultatis, ubi per decem uel septem 
+          <lb ed="#B1" n="16"/>annos seruient cum remorsu conscientiae, cum obiurgationibus dominorum, 
+          <lb ed="#B1" n="17"/>cum inuidia sociorum, cum omni infortunio corporali. Et ideo omnes illi, siue 
+          <lb ed="#B1" n="18"/>subditi, siue domini, siue qui peccato deseruiunt pro felicitate mundi, dicere 
+          <lb ed="#B1" n="19"/>poterunt in die iudicij: Lallati sumus, &amp;c 
+        </p>
+        <p xml:id="rhwis-l62-d1e143">
+          <lb ed="#B1" n="20"/>Est autem hic notandum, quod septem sunt uiae iniquitatis, quae sunt ualde 
+          <lb ed="#B1" n="21"/>difficiles, &amp; tamen hominibus multum amabiles. Et huius causa esse non po 
+          <lb ed="#B1" n="22"/>test, nisi ignorantia. Omnis enim uia est difficilis, si sit montuosa, si spinosa, si 
+          <lb ed="#B1" n="23"/>lutosa, si tenebrosa, si tumultuosa, si sumptuosa, si taediosa: Primam istarum uiarum 
+          <lb ed="#B1" n="24"/>accipiunt superbi &amp; ambitiosi. Semper uadunt uias montuosas, tamen hoc est 
+          <lb ed="#B1" n="25"/>ualde periculosum: quia de modico lapsu imminet magnum periculum. Quia 
+          <lb ed="#B1" n="26"/>secundum Gregorium: Quanto gradus altior, tanto casus grauior. Sed est de 
+          <lb ed="#B1" n="27"/>eis sicut de lepore: quia multo melius currit lepus contra montem ascendendo 
+          <lb ed="#B1" n="28"/>quam descendendo de monte in uallem: Ita isti de monte superbiae cum difficultate de 
+          <lb ed="#B1" n="29"/>scendunt. Sed ad loca dignitatis cum magno conatu ascendunt. Ratio de lepore 
+          <lb ed="#B1" n="30"/>est: quia habet crura anteriora breuiora quam alia. Moraliter. Affectiones homi 
+          <lb ed="#B1" n="31"/>nis ad DEUM sunt quasi tibiae anteriores. Affectiones ad mundum sunt quasi 
+          <lb ed="#B1" n="32"/>posteriores tibiae. Quando ergo in homine affectiones ad DEVM breuio  
+          <lb ed="#B1" n="33"/>res sunt quam affectiones ad mundum: ille homo uelociter currit contra mon 
+          <lb ed="#B1" n="34"/>tem in adquisitione dignitatis uel diuitiarum, Iob. 15. <quote xml:id="rhwis-l62-Qd1e177" source="http://scta.info/resource/iob15_26">Cucurrit aduersus 
+            <lb ed="#B1" n="35"/>DEVM erecto collo, &amp; pingui ceruice armatus est</quote>.
+        </p>
+        <p xml:id="rhwis-l62-d1e183">
+          <lb ed="#B1" n="36"/>Secundam istarum uiarum eligunt cupidi &amp; auari. Viam uidelicet spino 
+          <lb ed="#B1" n="37"/>sam. Saluator dicit Lucae 8 quod diuitiae sunt spinae: quia habent punctionem 
+          <lb ed="#B1" n="38"/>laborum in adquirendo, timores in custodiendo, &amp; dolores in amittendo 
+          <lb ed="#B1" n="39"/>Oseae 2. Sepiam uiam tuam spinis 
+        </p>
+        <p xml:id="rhwis-l62-d1e194">
+          <lb ed="#B1" n="40"/>Tertiam istarum uiarum quae est lutosa, eligunt luxuriosi. Bouini etiam &amp; 
+          <lb ed="#B1" n="41"/>bestiales, qui accipiunt semper uiam magis tritam, &amp; illa communiter est tur 
+          <lb ed="#B1" n="42"/>pior: Ita isti illam praeeligunt quam plures frequentant. Cum tamen Seneca 
+          <lb ed="#B1" n="43"/>doceat oppositum: quia in uia pedum forte illa securior est, sed non in uia morum: 
+          <lb ed="#B1" n="44"/>quia pauci sunt uirtuosi. De uijs luxuriosorum in Psal. Inquinatae sunt uiae il  
+          <lb ed="#B1" n="45"/>lius in omni tempore, &amp; Matthaei 7. Lata porta &amp; spaciosa est uia, quae ducit 
+          <!--sap_Page_253.xml-->
+          <pb ed="#B1" n="219"/>
+          <lb ed="#B1" n="1"/>ad perditionem, &amp; multi ambulant per eam. Et per oppositum in Psal. Ambu 
+          <lb ed="#B1" n="2"/>lans in uia immaculata hic mihi ministrabat. De isto Proverb. 3. Viae eius 
+          <lb ed="#B1" n="3"/>uiae pulchrae.
+        </p>
+        <p xml:id="rhwis-l62-d1e220">
+          <lb ed="#B1" n="4"/>Quartam uiam quae est tenebrosa, eligunt inuidi, qui per maliciam suam pro 
+          <lb ed="#B1" n="5"/>priam sunt excaecati. Et ideo ubicunque sunt, in tenebris ambulant, Proverb. 2. 
+          <lb ed="#B1" n="6"/>Relinquunt iter rectum, &amp; ambulant per uias tenebrosas, qui laedantur cum 
+          <lb ed="#B1" n="7"/>malefecerint, &amp; exultant in rebus pessimis. Et in Psal. Fiat uia eorum tenebrae 
+          <lb ed="#B1" n="8"/>&amp; lubricum: &amp; tunc necessario habebunt cadere, Proverb. 4. Via impiorum 
+          <lb ed="#B1" n="9"/>tenebrosa, nesciunt ubi corruant. 
+        </p>
+        <p xml:id="rhwis-l62-d1e237">
+          <lb ed="#B1" n="10"/>Quintam uiam eligunt gulosi, uidelicet uiam sumptuosam. Quando sic est, 
+          <lb ed="#B1" n="11"/>quod magna caristia fit in ciuitate aliqua, de pane, de uino, de alijs necessarijs 
+          <lb ed="#B1" n="12"/>Isti mercatores qui uadunt ad nundinas propter lucrum, non libenter intrant  
+          <lb ed="#B1" n="13"/>tales uillas: quia plus perderent in una nocte quam lucrarentur in duobus 
+          <lb ed="#B1" n="14"/>diebus. Moraliter loquendo. Omnes sumus mercatores &amp; negociatores, Luc.  
+          <lb ed="#B1" n="15"/>19. Negociamini dum uenio. Malae &amp; sumptuosae tabernae ubi unus homo 
+          <lb ed="#B1" n="16"/>expendit in una hora: quantum sibi possit sufficere in uno die. Similiter unus 
+          <lb ed="#B1" n="17"/>gulosus ubicunque fuerit, plus consumet quam sibi expedit uno die. Et ideo 
+          <lb ed="#B1" n="18"/>omnis uia hominis gulosi est superflua &amp; sumptuosa, &amp; ideo detestanda in 
+          <lb ed="#B1" n="19"/>Psal. Via illorum scandalum ipsis, &amp; postea in ore suo complacebunt.
+        </p>
+        <p xml:id="rhwis-l62-d1e261">
+          <lb ed="#B1" n="20"/>Sextam uiam eligunt iracundi, scilicet uiam tumultuosam, &amp; est plena pres  
+          <lb ed="#B1" n="21"/>sura. Nam ubicunque sunt, pressura erit. Vnde Sene. 3. de ira. cap. 6. Narrat de 
+          <lb ed="#B1" n="22"/>Caelio oratore, qui iracundissimus extitit, &amp;c. in Psal. Contritio &amp; infelicitas in 
+          <lb ed="#B1" n="23"/>uijs eorum, &amp; uiam pacis non cognouerunt.
+        </p>
+        <p xml:id="rhwis-l62-d1e272">
+          <lb ed="#B1" n="24"/>Septimam uiam taediosam, uidelicet accidiosi eligunt. Isti nihil faciunt ubi  
+          <lb ed="#B1" n="25"/>cunque fuerint &amp; semper tamen sunt fatigati. Est enim accidia quoddam spiri 
+          <lb ed="#B1" n="26"/>tuale taedium in his quae DEI sunt, ita quod omne illud quod ad diuinum spe 
+          <lb ed="#B1" n="27"/>ctat officium, reputatur ab eis nimis longum. Hi uolunt habere longa conui  
+          <lb ed="#B1" n="28"/>uia, &amp; breues gratias. Garrulationes diuturnas, &amp; horas syncopatas. Somnia 
+          <lb ed="#B1" n="29"/>infantis, &amp; missam uenantis. Infans habet necessario multum dormire: quia 
+          <lb ed="#B1" n="30"/>in somno maxime nutritur, Sapient. 7. Vbi dicitur quod puer nutritur ex dele 
+          <lb ed="#B1" n="31"/>ctamento somni conuenientis. Per oppositum Proverb. 9. Relinquite infantiam 
+          <lb ed="#B1" n="32"/>&amp; uiuite, &amp; ambulate per uias prudentiae. Hae sunt uiae iniquitatis, de quibus 
+          <lb ed="#B1" n="33"/>Esa. 55. Derelinquat impius uiam suam, &amp; uir iniquus cogitationes suas, &amp; 
+          <lb ed="#B1" n="34"/>Excech. 33. Convertimini a uijs uestris pessimis, &amp; quare moriemini domus 
+          <lb ed="#B1" n="35"/>Israel: Et ideo humiliter cum Psal. petere debemus a Domino: Vias tuas Do 
+          <lb ed="#B1" n="36"/>mine demonstra mihi, &amp; semitas tuas edoce me. Et iterum: Notam fac mihi 
+          <lb ed="#B1" n="37"/>uiam in qua ambulem.
+        </p>
+        <p xml:id="rhwis-l62-d1e305">
+          <lb ed="#B1" n="38"/>Vbi notandum, quod uita meritoria Christiani non potest esse continue u 
+          <lb ed="#B1" n="39"/>niformis. Et apud sanctos uita Christiani communiter diuiditur in uitam acti 
+          <lb ed="#B1" n="40"/>uam, &amp; in contemplatiuam. Quod non est sic intelligendum, quod ab una &amp; 
+          <lb ed="#B1" n="41"/>eadem persona continuari semper debeat actus uitae contemplatiuae &amp; ab una 
+          <lb ed="#B1" n="42"/>alia actus uitae actiuae, &amp; nunquam actus uitae contemplatiuae: quia hoc non 
+          <lb ed="#B1" n="43"/>esset humanae fragilitati possibile, nec rectae rationi conforme. Sed una &amp; ea 
+          <lb ed="#B1" n="44"/>dem persona pro loco &amp; tempore utraqe istarum tenetur incedere. Ideo uia me 
+          <lb ed="#B1" n="45"/>ritoria Christiani aliquando nuncupatur in singulari a Psalmista, &amp; aliquando 
+          <lb ed="#B1" n="46"/>in plurali. Vnde dicit notam fac mihi uiam, in qua ambulem. Et tamen uias 
+          <lb ed="#B1" n="47"/>tuas Domine demonstra mihi. Arist. de problematibus particula quinta pro 
+          <lb ed="#B1" n="48"/>ble. 10. quaerit istam quaestionem. Quare autem homo magis laborat conti  
+          <lb ed="#B1" n="49"/>nuando diu uiam planam, quam ambulando per uiam non planam: sed ali  
+          <lb ed="#B1" n="50"/>quantulum montuosam &amp; uallosam. Et respondet quod causa est: quia quan  
+          <lb ed="#B1" n="51"/>do homo incedit continue &amp; uniformiter per uiam planam, fatigat instrumen 
+          <lb ed="#B1" n="52"/>ta &amp; partes corporis super quibus ambulat sicut genua, crus &amp; tibias. Vnde 
+          <lb ed="#B1" n="53"/>quia in istis instrumentis ambulandi continue tenetur una figura motus in uia 
+          <!--sap_Page_254.xml-->
+          <pb ed="#B1" n="220"/>
+          <lb ed="#B1" n="1"/>plana, ideo contingit homini maior labor &amp; maior fatigatio. In processu uerd 
+          <lb ed="#B1" n="2"/>non plano ubi aliquando ascenditur, aliquando descenditur, non semper tene 
+          <lb ed="#B1" n="3"/>tur eadem figura motus, in instrumentis mouendi, nec illae partes uexantur u 
+          <lb ed="#B1" n="4"/>niformiter continue, sed alternatim: quia ascendendo plus laboramus in genu 
+          <lb ed="#B1" n="5"/>bus &amp; tibijs: descendendo plus in femoribus. Et propter istam alternationem  
+          <lb ed="#B1" n="6"/>laboris inter partem supra genu, &amp; reliquam sub genu, in uia non plana contingit 
+          <lb ed="#B1" n="7"/>minor labor, &amp; minor fatigatio, in uia alternatim nunc uallosa, tunc montuosa. 
+          <lb ed="#B1" n="8"/>lsto modo moraliter in uiuendo uirtuose. Fragilitas enim humana non per 
+          <lb ed="#B1" n="9"/>mittit aliquo modo quod mens &amp; studium hominis uniformiter extendatur  
+          <lb ed="#B1" n="10"/>in contemplando, nec iterum expedit quod semper descendat ad opera uitae 
+          <lb ed="#B1" n="11"/>actiuae circa mundum: quia tunc fieret &amp; nimis aridus &amp; indeuotus. Et ideo, sicut  
+          <lb ed="#B1" n="12"/>homo est compositus ex corpore &amp; anima, de quorum numero corpus fatigatur  
+          <lb ed="#B1" n="13"/>ascendendo per orationes, studia, uigilias, contemplationes, anima fatigatur  
+          <lb ed="#B1" n="14"/>&amp; desiccatur descendendo &amp; occupando se circa temporalia proximis dispen 
+          <lb ed="#B1" n="15"/>sanda. Ideo sicut alternatim &amp; uicissim debemus incedere, ut quantum possu 
+          <lb ed="#B1" n="16"/>mus fatigationem &amp; taedium deuitemus in seruiendo DEO: &amp; interdum ascen 
+          <lb ed="#B1" n="17"/>dere contemplando, &amp; postea descendere proximum iuuando. In cuius figuram  
+          <lb ed="#B1" n="18"/>Iacob uidit angelos ascendentes &amp; descendentes de coelo ad terram: &amp; de ter 
+          <lb ed="#B1" n="19"/>ra ad coelum uicissim, Gen. 28. Vnde sicut in uitis fratrum Praedicatorum legitur:  
+          <lb ed="#B1" n="20"/>Quidam iuuenis quaesiuit a fratre lordano, qui fuit sanctissimus homo, &amp; se 
+          <lb ed="#B1" n="21"/>cundus magister ordinis post sanctum Dominicum, quid esset sibi utilius, uel 
+          <lb ed="#B1" n="22"/>orationibus insistere, uel se Scripturarum studijs occupare. Cui Magister respon 
+          <lb ed="#B1" n="23"/>dit: Quid est (inquit) melius, semper bibere uel semper comedere. Et utique sicut  
+          <lb ed="#B1" n="24"/>ista competit alternatim fieri: sic &amp; illa. Vnde de Paulo scribit Haymo, quod unam 
+          <lb ed="#B1" n="25"/>partem diei solebat expendere in oratione, &amp; aliam in praedicatione: tertiam  
+          <lb ed="#B1" n="26"/>in operatione manuali. Ne ergo cum istis malis dicamus in fine: Ambulanimus 
+          <lb ed="#B1" n="27"/>tias difficiles: Viam autem Domini ignorauimus. Petat quilibet cum Psal. Not 
+          <lb ed="#B1" n="28"/>fac mihi uiam, in qua ambulem. Multum enim confert ad solatium ambulan 
+          <lb ed="#B1" n="29"/>tis bona notitia uiae per quam debet ambulare. Nam caeteris paribus ipsa ui  
+          <lb ed="#B1" n="30"/>detur ambulanti breuior, quam uia ignota eiusdem quantitatis. Vnde Arist. 
+          <lb ed="#B1" n="31"/>de problematibus parte quinta, problemate 25. quaerit. Quare ambulantes 
+          <lb ed="#B1" n="32"/>uiam, nescientes quanta est ipsa, apparet nobis longior quam quando scimus 
+          <lb ed="#B1" n="33"/>eam, &amp; frequenter sumus eius quantitatem experti. Et respondet quod anima 
+          <lb ed="#B1" n="34"/>in tali uia paralogisatur quoddammodo a seipsa. Experitur enim anima istam  
+          <lb ed="#B1" n="35"/>consequentiam esse certam. Scio mensuram huius uiae: Ergo est finita. Et quia 
+          <lb ed="#B1" n="36"/>nescit mensuram huius uiae: Ideo arguit a negatione antecedentis. Huius uiae 
+          <lb ed="#B1" n="37"/>nescio mensuram: Ergo est infinita. Et sic in iudicando decipitur. Isto modo mo 
+          <lb ed="#B1" n="38"/>raliter. Homines dati uitijs iudicant, quod aliqui homines possent uiuere uir 
+          <lb ed="#B1" n="39"/>tuose. Vnde homo luxuriosus miratur quomodo aliquis poterit seruare per 
+          <lb ed="#B1" n="40"/>petuam continentiam. Homo gulosus aestimat quod nullus homo potest fa 
+          <lb ed="#B1" n="41"/>cere abstinentiam. Homo iniustus &amp; cupidus credit, quod omnis homo cupiat  
+          <lb ed="#B1" n="42"/>habere diuitias &amp; abundantiam. Et ideo omnis homo iudicat alium secundum 
+          <lb ed="#B1" n="43"/>seipsum. Sicut docet Chrysost. in imp. opere. Hom. 33 .Omnis homo secundum 
+          <lb ed="#B1" n="44"/>se existimat alterum, nec potest ipse melius sentire de altero, quam sentit de se 
+          <lb ed="#B1" n="45"/>ipso. Ecce fornicari neminem aestimat castum. Castus non de facili de fornica 
+          <lb ed="#B1" n="46"/>tione suspicatur. Superbus neminem putat humilem: &amp; humilis nullum cre 
+          <lb ed="#B1" n="47"/>dit superbum, &amp; sic de alijs, Ecclesiast. 10. In uia stultus ambulans cum sit ipse  
+          <lb ed="#B1" n="48"/>insipiens, omnes stultos aestimat: Ergo causa quare uia uirtutis, &amp; uia poeni 
+          <lb ed="#B1" n="49"/>tentiae &amp; sanctae religionis reputatur laboriosa, &amp; difficilis est inexperientia &amp; 
+          <lb ed="#B1" n="50"/>ignorantia. Et quod anima paralogisatur a semetipsa. Et ideo nobis dicitur  
+          <lb ed="#B1" n="51"/>Hierem. 6. State super uias, &amp; uidete, &amp; interrogate de semitis an 
+          <lb ed="#B1" n="52"/>tiquis, quae sit uia bona, &amp; ambulate in ea, &amp; inuenietis re 
+          <lb ed="#B1" n="53"/>frigerium animabus uestris.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 59 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 59 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="207"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l59">
+        <p xml:id="rhwis-l59-d1e95">
+          <lb ed="#B1" n="11"/>DECLARATVM est superius quod tria genera personarum ne 
+          <lb ed="#B1" n="12"/>cessario comparebunt in iudicio generali. Iudex, iustus &amp; reus, uel 
+          <lb ed="#B1" n="13"/>testis. Iustus non terrebitur aliqua aduersitate. Reus confitebitur si 
+          <lb ed="#B1" n="14"/>ne falsitate. Iudex non movebitur a legis aequitate. De istis tribus 
+          <lb ed="#B1" n="15"/>quantum ad primum declaratum est in praecedenti lectione, ubi ostensum est 
+          <lb ed="#B1" n="16"/>quomodo iusti se habebunt. Semetipsos fortiter pro iusticia opponendo. Con 
+          <lb ed="#B1" n="17"/>tinuatur ergo lectio ista sic: Postquam Spiritus sanctus declarauit qualiter iu 
+          <lb ed="#B1" n="18"/>sti in iudicio testificabuntur ueritatem laudabiliter: Hic ostendit quomodo re 
+          <lb ed="#B1" n="19"/>probi in iudicio confitebuntur ueritatem confusibiliter. Et circa hoc duo fa 
+          <lb ed="#B1" n="20"/>cit: Nam primo ponit confessionis causam necessariam. Secundo subdit eiusdem 
+          <lb ed="#B1" n="21"/>confessionis multiplicem materiam. Secunda pars ibi: Ii sunt quos aliquando,
+        </p>
+        <p xml:id="rhwis-l59-d1e121">
+          <lb ed="#B1" n="22"/>Circa primum dicit Spiritus sanctus quod illam tardam &amp; inutilem eis sal  
+          <lb ed="#B1" n="23"/>tem confessionem, quam faciunt reprobi in iudicio tria praecedent. Quia turba 
+          <lb ed="#B1" n="24"/>buntur, mirabuntur, &amp; tristabuntur. Et ex istis tribus causis coacti ueritatem de 
+          <lb ed="#B1" n="25"/>seipsis necessario fatebuntur. Quantum ad primum dicit quod videntes turbabun 
+          <lb ed="#B1" n="26"/>tur timore horribili. Greg. 25. Mora. cap. 2. Oculos quos culpa claudit, poena 
+          <lb ed="#B1" n="27"/>aperit. Sed certe in praesenti culpa claudit oeulos malorum ne uideant uerita 
+          <lb ed="#B1" n="28"/>tem. Sed statim in morte poena aperit oculos: Ergo isti homines uidentes se 
+          <lb ed="#B1" n="29"/>de gloria mundi transferendos statim ad poenam inferni merito debent turbari 
+          <lb ed="#B1" n="30"/>&amp; terreri. Nec mirum, quia <quote xml:id="rhwis-l59-Qd1e142" source="http://scta.info/resource/hebr10_31">horrendum est incidere in manus DEI uiuentis</quote>, 
+          <lb ed="#B1" n="31"/>ad Hebr. 10. ergo tantum est quod nullam opportunitatem euadendi uiden  
+          <lb ed="#B1" n="32"/>tes confitebuntur illud quod postea subiungetur. Secundo mirabuntur sicut  
+          <lb ed="#B1" n="33"/>inlitera dicitur: &amp;, hoc in subitatione insperate salutis: quando homo uenemen 
+          <lb ed="#B1" n="34"/>ter sperat unum negocium &amp; prosequens negocium suum deficit, miratur de 
+          <lb ed="#B1" n="35"/>subita mutatione negocii. Modo sic est quod iniusti nullam spem habent de 
+          <lb ed="#B1" n="36"/>conualescentia iustorum post quam fuerunt ab eis suppressi: &amp; ideo merito ad 
+          <lb ed="#B1" n="37"/>mirari dicuntur in subitatione insperatae salutis: quia de iniustis dicitur supra 
+          <lb ed="#B1" n="38"/>Sap. 2. Nec sperauerunt mercedem iusticiae. Ista autem salus licet fuisset inspe 
+          <lb ed="#B1" n="39"/>rata a malis, tamen fuit sperata quotidie a bonis, in Psal. In te Domine speraui. 
+          <lb ed="#B1" n="40"/>non confundar in aeternum: Quia salus iustorum a Domino &amp; protector eo 
+          <lb ed="#B1" n="41"/>rum in tempore tribulationis. Tertio reprobi ante eorum conscientiae confu 
+          <lb ed="#B1" n="42"/>sionem inutilem contristabuntur. Et quantum ad hoc dicit: Et prae angustia spi 
+          <lb ed="#B1" n="43"/>ritus gementes. Et merito, quia hic noluerunt angustiari, sed deliciari. Et impos  
+          <!--sap_Page_242.xml-->
+          <pb ed="#B1" n="208"/>
+          <lb ed="#B1" n="1"/>sibile est sicut dicit sanctus Greg. quod quis a delicijs ad delicias transeat. Ideo 
+          <lb ed="#B1" n="2"/>ibi cruciabuntur, quia hic delicate &amp; deordinate uixerunt, &amp; dicent infra se poe 
+          <lb ed="#B1" n="3"/>nitentiam scilicet inutilem agentes, ad Hebr. 12. <quote xml:id="rhwis-l59-Qd1e184" source="http://scta.info/resource/hebr12_17">Non inuenit poenitentiae lo 
+            <lb ed="#B1" n="4"/>cum quaquam cum Iachrymis inquisiuisset eam</quote>. Et iterum addit: prae angustia 
+          <lb ed="#B1" n="5"/>spiritus gementes propter duplicem materiam gemitus. Gement enim &amp; pro poe 
+          <lb ed="#B1" n="6"/>na quam sustinebunt, &amp; pro gloria qua in perpetuum carebunt.
+        </p>
+        <p xml:id="rhwis-l59-d1e195">
+          <lb ed="#B1" n="7"/>Quia igitur in ista lectione est mentio de poenitentia &amp; attritione, quam mali  
+          <lb ed="#B1" n="8"/>homines sustinent post mortem. Occasionem huius quaeritur de contritione poe 
+          <lb ed="#B1" n="9"/>nitentium virtuosa in praesenti.
+        </p>
+        <p xml:id="rhwis-l59-d1e204">
+          Et sit haec dubitatio. Vtrum dolor poenitentis  
+          <lb ed="#B1" n="10"/>possit esse nimius.
+        </p>
+        <p xml:id="rhwis-l59-d1e209">
+          Videtur quod non: Quia dolor de peccato procedit ex DEI 
+          <lb ed="#B1" n="11"/>amore: quia omnis dolor fundat in amore. Si enim homo non amaret DEVM, 
+          <lb ed="#B1" n="12"/>non doleret si eum offenderet. Sed amor DEI non potest esse nimius. Ergo nec 
+          <lb ed="#B1" n="13"/>dolor de peccato.
+        </p>
+        <p xml:id="rhwis-l59-d1e219">
+          Praeterea Anshelmus in quadam oratione: Vtinam sic im 
+          <lb ed="#B1" n="14"/>pinguentur uiscera animae meae ut medullae corporis mei exiccentur. Ergo ta 
+          <lb ed="#B1" n="15"/>lis dolor de peccatis qui mortem crucis inducit, est laudabilis: Ergo licet sit tan 
+          <lb ed="#B1" n="16"/>tus, non tamen est nimius.
+        </p>
+        <p xml:id="rhwis-l59-d1e228">
+          Praeterea <ref xml:id="rhwis-l59-Rd1e230" target="http://scta.info/resource/gd-p2c33q3d3-d1e145">de pe. dist. 3. cito post principium, cap. Si 
+            <lb ed="#B1" n="17"/>Apostolus</ref> dicitur de poenitente. <quote xml:id="rhwis-l59-Qd1e235">Semper doleat, &amp; non sit quod satis doleat<!-- aug de penit.,c. 13 --></quote>.
+        </p>
+        <p xml:id="rhwis-l59-d1e240">
+          <lb ed="#B1" n="18"/>Praeterea, ad contritionem requiritur dolor maximus. Ergo nullus potest esse  
+          <lb ed="#B1" n="19"/>nimius. Assumptum patet: quia quantus est amor coniunctionis ad DEVM, 
+          <lb ed="#B1" n="20"/>tantus debet esse dolor de separatione. Sed amor coiunctionis debet esse ma 
+          <lb ed="#B1" n="21"/>ximus: quia maior debet esse quam amor coniunctionis anime ad corpus: Er 
+          <lb ed="#B1" n="22"/>go dolor debet esse maximus: Ergo dolor de peccatis non potest esse nimius.
+        </p>
+        <p xml:id="rhwis-l59-d1e253">
+          <lb ed="#B1" n="23"/>Ad oppositum ad Rom. 12. <quote xml:id="rhwis-l59-Qd1e257" source="http://scta.info/resource/rom12_1">Exhibeatis corpora uestra hostiam uiuentem. 
+            <lb ed="#B1" n="24"/>DEO placentem, rationabile sit obsequium uestrum</quote>. Sed dolor contritionis  
+          <lb ed="#B1" n="25"/>potest esse tantus quod interficeret poenitentem: Ergo foret irrationabilis. Prae 
+          <lb ed="#B1" n="26"/>terea uirtus moralis consistit in medio &amp; corrumpitur tam per superabundan 
+          <lb ed="#B1" n="27"/>tiam quam per defectum. Sed contritio est uirtus moralis, cum sit pars iusticiae: 
+          <lb ed="#B1" n="28"/>Ergo consistit in medio.
+        </p>
+        <p xml:id="rhwis-l59-d1e272">
+          Ad quaestionem dicendum, quod in poenitente est com  
+          <lb ed="#B1" n="29"/>siderare triplicem dolorem. Vnus est essentialis poenitentiae &amp; est in uolunta 
+          <lb ed="#B1" n="30"/>te ipsa, uidelicet displicentia de peccato, pro quanto peccatum est offensa DEI 
+          <lb ed="#B1" n="31"/>Et ista displicentia uoluntatis, est essentialiter contritio. Et quia dolor directe 
+          <lb ed="#B1" n="32"/>causatur de charitate in DEVM: quae secundum legen datam intendi nimis non 
+          <lb ed="#B1" n="33"/>potest. Iste dolor non potest esse nimius. Alius est dolor non essentialis poeni 
+          <lb ed="#B1" n="34"/>tentiae, &amp; est in sensualitate. Et est passio appetitus sensitiui, &amp; iste dolor causat 
+          <lb ed="#B1" n="35"/>uno modo ex redundantia doloris, uel displicentiae in uoluntate per modum, 
+          <lb ed="#B1" n="36"/>quo uires inferiores obtemperant in suis actibus, seu uiribus superioribus, se 
+          <lb ed="#B1" n="37"/>cundum quod dicit <ref xml:id="rhwis-l59-Rd1e293">Aristot. 3. de Anima</ref>, quo appetitus intellectiuus rapit ali  
+          <lb ed="#B1" n="38"/>quando appetitum sensitiuum sicut sphera sphaeram. Tertio potest accipi dolor in poe 
+          <lb ed="#B1" n="39"/>nitente pro afflictione corporali. Et istis duobus modis possibile est, quae dolor  
+          <lb ed="#B1" n="40"/>poenitentis sit nimius secundum doctores multos: quia non licet alicui inferre 
+          <lb ed="#B1" n="41"/>sibiipsi ex intentione causam mortis. Sed de secundo dolore potest esse dubium, 
+          <lb ed="#B1" n="42"/>ex quo ille dolor causatur directe &amp; naturaliter ex displicentia uoluntatis. Cum 
+          <lb ed="#B1" n="43"/>displicentia ipsa non possit esse nimia, non apparebit quomodo aliquis dolor 
+          <lb ed="#B1" n="44"/>possit esse nimius. Sed de isto tertio dolore qui causatur ex afflictione corpo  
+          <lb ed="#B1" n="45"/>rali, constat quod possit esse nimius. Ideo uidetur dicendum, quod si poenitens 
+          <lb ed="#B1" n="46"/>ex uehementissimo amore ad DEUM tantum doleret de peccato suo, quod  
+          <lb ed="#B1" n="47"/>causaretur dolor in appetitu sensitiuo tantae intensionis, quod corrumperet har 
+          <lb ed="#B1" n="48"/>moniam corporis necessariam ad uitam, aut si induceret mortem, non esset iste 
+          <lb ed="#B1" n="49"/>dolor excessiuus in genere mortis, nec superfluus, sed uirtuosus &amp; opus perfe 
+          <lb ed="#B1" n="50"/>ctae poenitentiae. Hoc tamen supposito quod uoluntas sic poenitentis non fer 
+          <lb ed="#B1" n="51"/>retur in illam passionem causandam, propter mortem consequendam: sed tan 
+          <lb ed="#B1" n="52"/>tum propter displicentiam de peccato, inquantum DEVM offendit. Et sic legi 
+          <lb ed="#B1" n="53"/>mus multos commendatos de perfectione contritionis
+        </p>
+        <p xml:id="rhwis-l59-d1e332">
+          <!--sap_Page_243.xml-->
+          <pb ed="#B1" n="209"/>
+          <lb ed="#B1" n="1"/>Ad primum concedenda est consequentia uel conclusio de dolore, qui est 
+          <lb ed="#B1" n="2"/>displicentia uoluntatis, uel de dolore ab ea naturaliter, uel causato a dilectione 
+          <lb ed="#B1" n="3"/>uel electione.
+        </p>
+        <p xml:id="rhwis-l59-d1e346">
+          Ad secundum de dicto Anshelmi excessiuus &amp; metaphoricus 
+          <lb ed="#B1" n="4"/>modus loquendi est, nec appetijt quod humores sui corporis exiccarentur ad 
+          <lb ed="#B1" n="5"/>literam, sed motiones carnales in eo extinguerentur. Vel concedi potest quod  
+          <lb ed="#B1" n="6"/>appetijt dolorem secundo modo dictum, quem posui opus perfectae contri 
+          <lb ed="#B1" n="7"/>tionis.
+        </p>
+        <p xml:id="rhwis-l59-d1e357">
+          Ad tertium loquitur de displicentia uoluntatis.
+        </p>
+        <p xml:id="rhwis-l59-d1e360">
+          Ad quartum dicen<lb ed="#B1" n="8"/>dum, 
+          quod dolor primo modo acceptus debet esse maximus in genere: quia 
+          <lb ed="#B1" n="9"/>quantum aliquod placet, tantum contrarium displicet. DEVS autem summe 
+          <lb ed="#B1" n="10"/>placet, &amp; ideo debet summe displicere peccatum. Non est tamen necesse quod do 
+          <lb ed="#B1" n="11"/>lor sensitiuus sit maximus, sed tantum intellectiuus: quia sic debet homini pec 
+          <lb ed="#B1" n="12"/>catum displicere, quod nihil plus sibi displiceat, &amp; quod pro nulla re uellet pec 
+          <lb ed="#B1" n="13"/>care. Et hoc est necessarium ad contritionem. Et pro tanto dicitur maximus 
+          <lb ed="#B1" n="14"/>dolor per comparationem ad alios dolores de rebus creatis causatos. Notabi  
+          <lb ed="#B1" n="15"/>liter dicit, quod videntes turbabuntur timore. Causa enim quare peruersi modo  
+          <lb ed="#B1" n="16"/>non turbantur est: quia non uident defectus suos neque pericula suorum defe 
+          <lb ed="#B1" n="17"/>ctuum. Et una ratio, quare non uident, est negligentia praelatorum &amp; docto 
+          <lb ed="#B1" n="18"/>rum. Homo enim se non uidet nisi per speculum sibi obiectum. Praelati &amp; do 
+          <lb ed="#B1" n="19"/>ctores sunt uel debent esse specula laicorum, uiuendo, docendo, &amp; corripien 
+          <lb ed="#B1" n="20"/>do: &amp; si sic essent, peccatores se uiderent &amp; agerent poenitentiam. Istud autem 
+          <lb ed="#B1" n="21"/>speculum offensiuum est insipientibus, sed placitum ualde sapientibus, Pro 
+          <lb ed="#B1" n="22"/>uerbio. 9. Argue sapientem &amp; diliget te. Et reuera opus charitatis maximae, 
+          <lb ed="#B1" n="23"/>est praemunire hominem de suis defectibus moderate. Nemo enim est quan 
+          <lb ed="#B1" n="24"/>tumcunque sapiens qui omnes defectus suos uidere possit. Vnde in libro quo 
+          <lb ed="#B1" n="25"/>dam qui intitulatur de dictis Philolophorum &amp; Sapientum,c. de dictis Alex.  
+          <lb ed="#B1" n="26"/>narratur sic: Quidam uice dominus diu fuerat in seruitio Alexandri commo 
+          <lb ed="#B1" n="27"/>ratus, &amp; nunquam increpauerat Alexandrum ad partem. Isto ergo uno die ad 
+          <lb ed="#B1" n="28"/>se uocato, Alexander dicit ei: Non delector (inquit) in seruitio tuo. Et alius: 
+          <lb ed="#B1" n="29"/>Quare domine. Et Alexander: Quia homo sum, &amp; homines quin peccent re 
+          <lb ed="#B1" n="30"/>sistere non possunt. Et tu si in tanto tempore nullum meum perpendisti erro 
+          <lb ed="#B1" n="31"/>rem, nimis ignarus fuisti. Et si percipiens, occultasti, eras mei fraudator. Et com  
+          <lb ed="#B1" n="32"/>similis sententia ponitur eodem libro, capitulo de dictis Platonis. Plato dicit 
+          <lb ed="#B1" n="33"/>sic: Homines (inquit) magis ex inimicis quam ex amicis proficiunt: quia dum 
+          <lb ed="#B1" n="34"/>inimici errores eis improperant, inde corriguntur. Dum uero amici sui eis non 
+          <lb ed="#B1" n="35"/>annunciant errores, sed tolerant &amp; occultant, ipsi eorum errores augmentant  
+          <lb ed="#B1" n="36"/>&amp; continuant. Vnde si peccatores nobis annunciantibus uel peccata sua vel 
+          <lb ed="#B1" n="37"/>DEVM pro peccatis punientem uiderent, non est dubium quin salubriter tur  
+          <lb ed="#B1" n="38"/>barentur in Psalmo: Viderunt te aquae DEVS, uiderunt te &amp; timuerunt &amp; tur 
+          <lb ed="#B1" n="39"/>bati sunt abyssi. Viderunt te aquae glossa: id est, populi &amp; timuerunt de pecca 
+          <lb ed="#B1" n="40"/>tis &amp; turbatae sunt propter contritionem. Abyssi: id est, profundissimi peccatores.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 56 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 56 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="197"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l56">
+        <p xml:id="rhwis-l56-d1e95">
+          <lb ed="#B1" n="11"/>POSTQVAM Spiritus sanctus declarauit, quod persecutores iu 
+          <lb ed="#B1" n="12"/>storum decipiuntur in praesenti per ignorantiam. Hic declarat qualiter 
+          <lb ed="#B1" n="13"/>post mortem puniuntur per poenarum tolerantiam. Tangit autem  
+          <lb ed="#B1" n="14"/>septem poenales conditiones damnatorum, quae sunt istae: Deijcien 
+          <lb ed="#B1" n="15"/>tur cum confusione. Affligentur cum despectione: Repellentur sine respon 
+          <lb ed="#B1" n="16"/>sione: Destituentur autenticatione: Punientur sine consolatione: Conterentur  
+          <lb ed="#B1" n="17"/>sine condonatione, &amp; supprimentur sine recordatione: &amp; ista iuste patientur  
+          <lb ed="#B1" n="18"/>propter septem malicias, quas tyranni &amp; mali homines persecutores sanctorum 
+          <lb ed="#B1" n="19"/>habuerunt in uita. Fuerunt enim ambitiosi ad honores, argumentosi cauilla 
+          <lb ed="#B1" n="20"/>tores. Contumeliosi perterritores, facinorosi supportatores, perniciosi persecu 
+          <lb ed="#B1" n="21"/>tores, uoluptuosi lectatores, &amp; obliuiosi contemptores: &amp; ideo merito redden 
+          <lb ed="#B1" n="22"/>do singula singulis iuste iudicabuntur. Quia enim iustorum persecutores fue 
+          <lb ed="#B1" n="23"/>runt ambitiosi ad honores. Ideo deijcientur in confusione: quia contumeliosi 
+          <lb ed="#B1" n="24"/>perterritores: ideo affligentur cum despectione. Quia fuerunt argumentosi ca 
+          <lb ed="#B1" n="25"/>uillatores repellentur sine responsione. Quia facinorosi supportatores desti 
+          <lb ed="#B1" n="26"/>tuentur autenticatione: quia perniciosi persecutores punientur sine consolatio  
+          <lb ed="#B1" n="27"/>ne: quia fuerunt uoluptuosi lectatores conterentur sine condonatione. Quia ob  
+          <lb ed="#B1" n="28"/>liuiosi contemptores supprimentur sine recordatione. Istae ergo septem poena 
+          <lb ed="#B1" n="29"/>litates innuuntur in lectione hodierna. Primo igitur, quia fuerunt ambitiosi ad  
+          <lb ed="#B1" n="30"/>honores, deijcientur cum confusione. Et quantum ad hoc dicit primo sic: Et  
+          <lb ed="#B1" n="31"/>erunt post haec: id est, uitam istam uel post peccata multa, quae perpetrauerunt deci 
+          <lb ed="#B1" n="32"/>dentes sine honore: quasi dicat, non solum erunt cadentes, seo per uiolentiam de 
+          <lb ed="#B1" n="33"/>cidentes, in Psal. Decidant a cogitationibus suis secundum multitudinem im 
+          <lb ed="#B1" n="34"/>pietatis eorum expelle eos, quoniam irritauerunt te Domine. Decidant, inquit,  
+          <lb ed="#B1" n="35"/>a cogitationibus suis ambitiosis &amp; superbis, quibus honores &amp; dignitates cu 
+          <lb ed="#B1" n="36"/>piebant in praesenti. Decidant cum Diabolo capite &amp; principe suo ad profun 
+          <lb ed="#B1" n="37"/>dum inferni, uidentibus electis omnibus horribilem casum. Vnde Greg. 23 
+          <lb ed="#B1" n="38"/>Moral cap. 20. Et uidentibus cunctis praecipitabuntur, aeterno iudice terribili  
+          <lb ed="#B1" n="39"/>ter apparente, astantibus angelorum choris, assistente cuncto ministerio coe  
+          <lb ed="#B1" n="40"/>lestium potestatuum, ac electis omnibus ad spectaculum deductis: Diabolus cru 
+          <lb ed="#B1" n="41"/>delis &amp; fortis in medium captiuus deducitur, &amp; cum suo corpore: id est, cum re 
+          <lb ed="#B1" n="42"/>probis omnibus aeternis gehennae incendijs mancipatur, cum dicitur: Discedite a 
+          <!--sap_Page_232.xml-->
+          <pb ed="#B1" n="198"/>
+          <lb ed="#B1" n="1"/>me, &amp;c. O quale erit illud spectaculum: quoniam haec immanissima best ia e 
+          <lb ed="#B1" n="2"/>lectorum oculis ostendetur, quae hic belli tempore nimis eos terrere potest, ac 
+          <lb ed="#B1" n="3"/>si uideretur. Sed occulto ac miro DEI consilio agitur, ut &amp; nunc per eius gra 
+          <lb ed="#B1" n="4"/>tiam a pugnantibus non uisa uincatur, &amp; tunc a laetis uictoribus iam captiua ui  
+          <lb ed="#B1" n="5"/>deatur. Haec Greg. 
+        </p>
+        <p xml:id="rhwis-l56-d1e182">
+          <lb ed="#B1" n="6"/>Secundo quia fuerunt contumeliosi perterritores affligentur cum despe 
+          <lb ed="#B1" n="7"/>ctione: &amp; quantum ad hoc dicit quod erunt in contumelia: quasi diceret, non 
+          <lb ed="#B1" n="8"/>solum pro malo opere, imo etiam sermone: Nam quilibet reprobus afficietur  
+          <lb ed="#B1" n="9"/>ab alijs contumelijs, maledictionibus, improperijs. Item punientur non in lo 
+          <lb ed="#B1" n="10"/>co uiuentium ubi esse potest spes auxilij: sed in loco mortis in inferno. Tertio 
+          <lb ed="#B1" n="11"/>punientur non ad horam nec interpolati, sed in perpetuum. Vnde Gregor. 6. 
+          <lb ed="#B1" n="12"/>Moral. 7. exponens illud Iob. 20. Luet quae fecit omnia, nec tamen consumme 
+          <lb ed="#B1" n="13"/>tur: non (inquit) morte consumitur: quia si consumeretur uita morientis etiam  
+          <lb ed="#B1" n="14"/>poena finiretur, sed ut sine fine crucietur. Viuere in poena compellitur, ut cuius 
+          <lb ed="#B1" n="15"/>uita mortua hic fuit in culpa, illic mors eius uiuat in poena. Luet ergo qui fecit 
+          <lb ed="#B1" n="16"/>omnia, nec tamen consumetur: quia cruciatur, &amp; non extinguitur: moritur, &amp; 
+          <lb ed="#B1" n="17"/>uiuit: deficit, &amp; subsistit: finitur semper, &amp; sine fine est. Ex solo auditu sunt ual  
+          <lb ed="#B1" n="18"/>de terribilia, quanto magis passione. Haec Greg. Consequenter ex istis patet,  
+          <lb ed="#B1" n="19"/>quod illud est erroneum, quod in quibusdam quaternis apocryphis inuenitur  
+          <lb ed="#B1" n="20"/>de reuelatione facta cuidam personae, quod animae damnatorum ab hora no 
+          <lb ed="#B1" n="21"/>na Sabbati usque ad horam nonam in Dominicam, uel aliter nescio quamdiu, re 
+          <lb ed="#B1" n="22"/>frigerium obtinent: quod nihil est. Si enim eorum poena non semper duraret,  
+          <lb ed="#B1" n="23"/>non esset perpetua. Quidquid enim perpetuum est, continuum est &amp; aeternum: 
+          <lb ed="#B1" n="24"/>&amp; omnes tales narrationes pro fictionibus sunt habendae. 
+        </p>
+        <p xml:id="rhwis-l56-d1e226">
+          <lb ed="#B1" n="25"/>Tertio reprobi: quia fuerunt argumentosi &amp; cauillatores repellentur sine re 
+          <lb ed="#B1" n="26"/>sponsione. Et quantum ad hoc dicit: Quoniam dirumpet illos inflatos: id est, qui  
+          <lb ed="#B1" n="27"/>parum ante fuerunt inflati uerbis, legibus, &amp; falsis allegationibus. Dirumper 
+          <lb ed="#B1" n="28"/>inquam. In illo quod dirumpitur sit magna discontinuatio partium subito. Et  
+          <lb ed="#B1" n="29"/>isto modo fiet reprobis discordantia factorum suorum, &amp; malarum volunta 
+          <lb ed="#B1" n="30"/>tum ad inuicem. Et ideo dicitur, quod DEVS dirumpet illos sine uoce cuius  
+          <lb ed="#B1" n="31"/>cunque excusationis. Et istud est notabile, quod in iniustis legistis &amp; falsis aduo 
+          <lb ed="#B1" n="32"/>catis, de quibus frequenter uisum est, quod in morte tam in uoce quam in lin 
+          <lb ed="#B1" n="33"/>gua puniantur. Vnde dicitur &amp; expertum est, quod isti mali aduocati, &amp; falsi  
+          <lb ed="#B1" n="34"/>placitatores, iustitiarij etiam iniusti imminente morte amittunt uocem, linguam 
+          <lb ed="#B1" n="35"/>&amp; sensum. Cuius ratio est: quia non est iustum quod aliquis idem uendat alte 
+          <lb ed="#B1" n="36"/>ri &amp; retineat sibi. Isti autem omnes male &amp; iniuste uiuendo, linguam, uocem, 
+          <lb ed="#B1" n="37"/>sensum &amp; facundiam alijs uendiderunt: false allegando, &amp; iniuste iudicando 
+          <lb ed="#B1" n="38"/>contra conscientiam, maliciose obijciendo, &amp; cautelose suggerendo. Et ideo 
+          <lb ed="#B1" n="39"/>iustum est, quod quando indigent uoce, uoce priuentur, Esa. 50. Venditi estis ini 
+          <lb ed="#B1" n="40"/>quitatibus uestris. De istis loquitur Solinus Sidonius in quadam Epistola, ita 
+          <lb ed="#B1" n="41"/>dicens: Vidi, inquit, morbum incurabilem, ad quem curandum non inuenie 
+          <lb ed="#B1" n="42"/>batur medicus. Sed nunquam inueni causam adeo deperditam, quin ad eam  
+          <lb ed="#B1" n="43"/>tuendam inueniretur aduocatus. Isti enim sunt ualde reprobandi propter qua 
+          <lb ed="#B1" n="44"/>tuor rationes. Primo deteriores uidentur esse quam uilissimae meretrices: quia 
+          <lb ed="#B1" n="45"/>illae uendunt partem sui corporis magis abominabilem: Isti uero honestissimam 
+          <lb ed="#B1" n="46"/>sui corporis partem sicut linguam &amp; os. Secundo, quia deberent esse sicut stel 
+          <lb ed="#B1" n="47"/>lae fixae, motae tantummodo motu firmamenti: id est, motu ueritatis: quia Pro 
+          <lb ed="#B1" n="48"/>uerb. 12. Labium ueritatis firmum erit in perpetuum. Sed certe pro maiori par 
+          <lb ed="#B1" n="49"/>te omnes inueniuntur stellae erratica: quia mouentur duplici motu, uidelicet:  
+          <lb ed="#B1" n="50"/>contra ueritatem propter munera: &amp; quandoque cum ueritate, ducti con 
+          <lb ed="#B1" n="51"/>scientia. Et ideo de illis stellis dicitur Iob. 25. Stellae non sunt mundae in con 
+          <lb ed="#B1" n="52"/>spectu eius. Tertio dici potest, quod lingua eorum assimilatur linguae state 
+          <lb ed="#B1" n="53"/>rae, quae statim ad minimum pondus facit nutum, &amp; se inclinat ad partem gra 
+          <!--sap_Page_233.xml-->
+          <pb ed="#B1" n="199"/>
+          <lb ed="#B1" n="1"/>uiorem: ita isti quomodocunque sit de ueritate, ad illam partem magis inclinan 
+          <lb ed="#B1" n="2"/>tur, quae sit in danda pecunia magis ponderosa: de quorum quolibet dici 
+          <lb ed="#B1" n="3"/>tur in Psalmo: Mendaces filij hominum in stateris. Quarto comparari pos  
+          <lb ed="#B1" n="4"/>sunt illi Cherubin, qui tenet flammeum gladium, atque uersatilem ad im 
+          <lb ed="#B1" n="5"/>pediendum reditum hominis in Paradisum, Genesis 3. Reuera isti aduocati  
+          <lb ed="#B1" n="6"/>mali habent flammeum gladium: quia lingua eorum gladius acutus, &amp; 
+          <lb ed="#B1" n="7"/>est ualde versatilis: quia de facili uerti potest, &amp; contra ueritatem &amp; pro ue 
+          <lb ed="#B1" n="8"/>ritate. 
+        </p>
+        <p xml:id="rhwis-l56-d1e313">
+          <lb ed="#B1" n="9"/>Cherubin interpretatur plenitudo scientiae. Et isti dicuntur sapientissi 
+          <lb ed="#B1" n="10"/>mi apud uulgos. Sed ad quid deseruiunt: Reueraut communiter ad cu 
+          <lb ed="#B1" n="11"/>stodiendum uiam ligni uitae, ne aliquis accedat ad lignum uitae: id est, ad  
+          <lb ed="#B1" n="12"/>CHRISTVM. Isti sunt qui falsa procurant diuortia, illegitima con 
+          <lb ed="#B1" n="13"/>iungunt matrimonia, Ecclesias ueris praelatis expoliant, &amp; simoniacos 
+          <lb ed="#B1" n="14"/>copulant, innocentes excommunicant, etiam uerbis falsis, cum de iure 
+          <lb ed="#B1" n="15"/>non possint: rebelles conciliant, CHRISTVM &amp; Ecclesiam perse 
+          <lb ed="#B1" n="16"/>quentes. 
+        </p>
+        <p xml:id="rhwis-l56-d1e333">
+          <lb ed="#B1" n="17"/>Et ideo uerisimiliter narratur, quod quidam uidit in spiritu Neronem a 
+          <lb ed="#B1" n="18"/>pud inferos balneantem. Ministri uero undique circa eum aurum bul  
+          <lb ed="#B1" n="19"/>liens infundebant. Dum enim uidisset unam cohortem aduocatorum prope 
+          <lb ed="#B1" n="20"/>accedentem, clamauit, inquit: O uenale hominum genus, O aduocati a 
+          <lb ed="#B1" n="21"/>mici mei accedite, ut in hoc uase balneamini mecum,
+        </p>
+        <p xml:id="rhwis-l56-d1e347">
+          <lb ed="#B1" n="22"/>Adhuc enim superest locus in eo, quem pro uobis seruaui. Audiui de 
+          <lb ed="#B1" n="23"/>quodam causidico de regno Franciae. Hic per iura &amp; actus iuridicos de 
+          <lb ed="#B1" n="24"/>paupere clerico factus fuit mirabiliter diues. Tandem infirmatus fuit ad 
+          <lb ed="#B1" n="25"/>mortem, amici eius ex omni parte astiterunt &amp; rogauerunt eum, ut conde 
+          <lb ed="#B1" n="26"/>ret testamentum. Ille grauissime infirmatus coepit cogitare, quomodo  
+          <lb ed="#B1" n="27"/>tot diuitias per suam eloquentiam &amp; linguae peritiam congregasset. Et re 
+          <lb ed="#B1" n="28"/>collecto toto spiritu, quem habuit, clamauit in Gallico: langue, langue, 
+          <lb ed="#B1" n="29"/>langue. Idem bis aut ter recitauit. Et cum admirarentur qui astabant,  
+          <lb ed="#B1" n="30"/>quid uellet signare, subiunxit iterum in Gallico: Langue tot gayngua &amp; 
+          <lb ed="#B1" n="31"/>langue tot aura. Contigit autem eo tempore fratres praedicatores de no 
+          <lb ed="#B1" n="32"/>uo uenisse ad illam utillam, &amp; aream habebant, sed nullam domum aedifi 
+          <lb ed="#B1" n="33"/>catam. Mandauit ergo pro quibusdam de illis fratribus. Et cum uenissent 
+          <lb ed="#B1" n="34"/>coram familia &amp; amicis dicit eis: Ego, inquit, peritia linguae lucratus sum 
+          <lb ed="#B1" n="35"/>ista bona temporalia aurum, argentum, &amp; alia preciosa. Vos autem lin 
+          <lb ed="#B1" n="36"/>guis uestris lucramini spiritualia &amp; sempiterna. Et ideo uobiscum mer 
+          <lb ed="#B1" n="37"/>cimonia contraham ut percipiatis de fructu linguae meae, ut ego uiceuersa 
+          <lb ed="#B1" n="38"/>aliquid habere possim de fructu linguae uestrae. Et ideo dixi amicis meis prius  
+          <lb ed="#B1" n="39"/>quam ueniretis quot langue tot gayngua, &amp; quot langue tot amica: &amp; totum me 
+          <lb ed="#B1" n="40"/>saurum fratribus dedit &amp; mortuus est. 
+        </p>
+        <p xml:id="rhwis-l56-d1e391">
+          <lb ed="#B1" n="41"/>Quarto reprobi: quia fuerunt facinorosi supportatores destituentur au 
+          <lb ed="#B1" n="42"/>tenticatione: &amp; quantum ad hoc dicit, quod commouebit illos a fundamen 
+          <lb ed="#B1" n="43"/>tis. Et istud est specialiter contra malos ministros, consiliarios, &amp; baliuos: i 
+          <lb ed="#B1" n="44"/>sti omnes funguntur autoritate quadam dominorum sicut causarij. Iusti  
+          <lb ed="#B1" n="45"/>ciarij &amp; alij Ecclesiast. officiales multi loquuntur semper in persona princi 
+          <lb ed="#B1" n="46"/>pis. Et idem siue sit iustum siue iniustum, autoritatem habet: quia fun 
+          <lb ed="#B1" n="47"/>damentum totius negocii fingitur esse principis. Et ideo modo quos 
+          <lb ed="#B1" n="48"/>uolunt supportant &amp; excusant, &amp; quos uolunt condemnant, &amp; semper 
+          <lb ed="#B1" n="49"/>habent pro se regiam potestatem &amp; autoritatem. Sed certe in die iudicij 
+          <lb ed="#B1" n="50"/>destituentur ista autenticatione: quia quilibet habebit respondere pro se 
+          <lb ed="#B1" n="51"/>ipso. Et ideo bene dicitur: Et commouebit illos a fundamentis. Et per op 
+          <lb ed="#B1" n="52"/>positum de uiro iusto dicitur: Non commouebitur in aeternum, qui habitat  
+          <!--sap_Page_234.xml-->
+          <pb ed="#B1" n="200"/>
+          <lb ed="#B1" n="1"/>in Hierusalem: quia fundamenta eius in montibus sanctis. Quidquid enim iu 
+          <lb ed="#B1" n="2"/>sti siue ad partem siue iudicialiter allegant ex proposito, totum emanare debet de 
+          <lb ed="#B1" n="3"/>montibus sanctis: id est, de doctrina sanctorum. 
+        </p>
+        <p xml:id="rhwis-l56-d1e430">
+          <lb ed="#B1" n="4"/>Quinto reprobi: quia fuerunt perniciosi persecutores, ideo punientur sine 
+          <lb ed="#B1" n="5"/>consolatione. Et quantum ad hoc dicit: quod vsque ad supremum desolabuntur.  
+          <lb ed="#B1" n="6"/>pro tanto: quia licet punientur citra condignum, tamen nihil dimittetur impu 
+          <lb ed="#B1" n="7"/>nitum. Grego. 4. Dialogo. Sicut multi in hoc mundo sub uno sole consistunt,  
+          <lb ed="#B1" n="8"/>nec tamen aequaliter eiusdem Solis ardorem sentiunt: quia alius plus aestuat, a 
+          <lb ed="#B1" n="9"/>lius minus: ita illic in uno igne non unus est modus incendij: quia quod hic  
+          <lb ed="#B1" n="10"/>diuersitas corporum hoc illic agit diuersitas peccatorum, ut ignem non dissi 
+          <lb ed="#B1" n="11"/>milem habeant, &amp; tamen cosdem fingulos dissimiliter exurat. Haec Greg.
+        </p>
+        <p xml:id="rhwis-l56-d1e450">
+          <lb ed="#B1" n="12"/>Sexto, quia reprobi fuerunt uoluptuosi lectatores, ideo eonterentur sine 
+          <lb ed="#B1" n="13"/>condonatione: Et quantum ad hoc dicit: Quod erunt gementes. Est antiqua nar 
+          <lb ed="#B1" n="14"/>ratio de iuuencula quadam in Francia, que cum per annum uixisset cum ama 
+          <lb ed="#B1" n="15"/>sio suo lubrice &amp; tandem impraegnata fuisset, &amp; derelicta coepit flere &amp; geme 
+          <lb ed="#B1" n="16"/>re, &amp; inconsolabiliter contristari: a qua cum quidam quaesiuisset: quid tantum 
+          <lb ed="#B1" n="17"/>ploraret: Respondit: Deploro gaudium, inquit, anni praeteriti: Isto modo satis 
+          <lb ed="#B1" n="18"/>iustum est, quod illi qui sine poenitentia in praesenti dant sc uoluptatibus car 
+          <lb ed="#B1" n="19"/>nis suae gement in futuro. Et si causa ab eis quaeratur. Responsio bona est, quod  
+          <lb ed="#B1" n="20"/>gemunt &amp; plorant gaudium anni praeteriti, Naum 2. Minabantur gementes 
+          <lb ed="#B1" n="21"/>ut columbae. Columbae sunt aues multum lubricae &amp; naturaliter habent gemi 
+          <lb ed="#B1" n="22"/>tum pro cantu: In signum, quod omnes qui se libidini mancipant, gemunt uel 
+          <lb ed="#B1" n="23"/>gement, Sap. 11. Duplex enim illos acceperat taedium, gemitus, cum memo 
+          <lb ed="#B1" n="24"/>ria praeteritorum.
+        </p>
+        <p xml:id="rhwis-l56-d1e481">
+          <lb ed="#B1" n="25"/>Septimo reprobi: quia fuerunt obliuiosi contemptores: ideo reprimentur  
+          <lb ed="#B1" n="26"/>merito sine recordatione. Et quantum ad hoc dicit: quod memoria eorum peri 
+          <lb ed="#B1" n="27"/>bit. Et per oppositum dicit de iusto Psalm. in memoria aeterna erit iustus. Mo 
+          <lb ed="#B1" n="28"/>dus erat apud Romanos, quod nomina seniorum &amp; iudicum in tabulis aereis  
+          <lb ed="#B1" n="29"/>scribebantur. Et ideo uocabantur patres conscripti. Quando autem contin 
+          <lb ed="#B1" n="30"/>gebat quod aliquis delebatur, fuit pro maximo scelere &amp; confusione perpe 
+          <lb ed="#B1" n="31"/>tua. Isto modo multi scribuntur secundum praesentem iusticiam in Ecclesia 
+          <lb ed="#B1" n="32"/>militante. Quidam sunt episcopi, quidam religiosi, &amp; solenes clerici. Quidam  
+          <lb ed="#B1" n="33"/>rectores &amp; curati, quibus fit uerecundia, si in die iudicij in libro uitae non inue 
+          <lb ed="#B1" n="34"/>niantur, &amp; fiant de numero illorum, de quibus dicit Psalm. Perijt memoria eo  
+          <lb ed="#B1" n="35"/>rum cum sonitu. Et iterum deleantur de libro uiuentium, &amp; cum iustis non scri 
+          <lb ed="#B1" n="36"/>bentur. Et per contrarium de sanctis dicitur, Apoc. 3. Qui uicerit uestietur ue 
+          <lb ed="#B1" n="37"/>stibus albis, &amp; non delebo nomen eius de libro uitae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

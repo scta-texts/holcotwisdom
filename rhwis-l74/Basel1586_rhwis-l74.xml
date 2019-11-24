@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 74 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 74 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="261"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l74">
+        <p xml:id="rhwis-l74-d1e95">
+          <lb ed="#B1" n="8"/>MELIOR est sapientia quam vires, &amp; vir prudens magis quan 
+          <lb ed="#B1" n="9"/>sorte.] Finis sapientiae est hominem reddere dignum ad alios 
+          <lb ed="#B1" n="10"/>gubernandum &amp; regendum. Et ideo primo ostendit quo 
+          <lb ed="#B1" n="11"/>modo homo possit &amp; debeat per donum sapientiae alios 
+          <lb ed="#B1" n="12"/>gubernare. Secundo quomodo homo possit sapientiam im 
+          <lb ed="#B1" n="13"/>petrare cap. 7. In hoc ergo cap. 6. Spiritus sanctus intendi 
+          <lb ed="#B1" n="14"/>linformare gubernatores, reges, iudices, &amp; praelatos, &amp; eos 
+          <lb ed="#B1" n="15"/>ad amorem sapientiae inuitare. Postquam a Spiritu sancto ostensum est a prin 
+          <lb ed="#B1" n="16"/>cipio libri, usqe huc, quomodo per iusticiam &amp; bonos mores potest homo sa 
+          <lb ed="#B1" n="17"/>pientiam adquirere: Hic consequenter declarat quomodo sapientia adquisita 
+          <lb ed="#B1" n="18"/>possit hominem perficere. Est tamen notandum quod ista diuisio libri uel pro 
+          <lb ed="#B1" n="19"/>cessus non est ita praecise facta, quin in utraqe parte utrumque fiat: nam in praeceden 
+          <lb ed="#B1" n="20"/>tibus aliquando dictum est: quomodo sapientia possit hominem perficere. Et  
+          <lb ed="#B1" n="21"/>in sequentibus docebitur aliquando quomodo homo possit sapientiam adqui  
+          <lb ed="#B1" n="22"/>rere. Agit enim alternatim, nunc de sapientia adquirenda, nunc de sapientia 
+          <lb ed="#B1" n="23"/>exercenda, uidelicet per totum librum: Quia uero finis &amp; perfectio sapientiae 
+          <lb ed="#B1" n="24"/>est facere hominem habilem ad seipsum &amp; ad alios gubernandum uirtuose: Id 
+          <lb ed="#B1" n="25"/>eo de isto fine principaliter intendit. Vnde intentio huius Capituli est informare 
+          <lb ed="#B1" n="26"/>reges, principes, iudices, &amp; praelatos, quomodo tam se quam sibi subiectos de 
+          <lb ed="#B1" n="27"/>beant gubernare. Hoc autem sit interscalariter &amp; alternatim duplici uia, uide 
+          <lb ed="#B1" n="28"/>licet sapientiam commendando, &amp; ad sapientiam inclinando. Vnde nunc 
+          <lb ed="#B1" n="29"/>commendat eius ualorem, nunc inuitat ad eius amorem, continue per totum  
+          <lb ed="#B1" n="30"/>capitulum.
+        </p>
+        <p xml:id="rhwis-l74-d1e147">
+          <lb ed="#B1" n="31"/>Commendans ergo sapientiam in lectione ista comparat eam ad fortitudi  
+          <lb ed="#B1" n="32"/>nem corporalem, quae fuit principium praesumptionis humanae ad alios regen 
+          <lb ed="#B1" n="33"/>dum &amp; gubernandum. Fortes enim homines &amp; robusti primo coeperunt per ty 
+          <lb ed="#B1" n="34"/>rannides debiliores opprimere, &amp; eis ad propriam utilitatem non ad subiectorum 
+          <lb ed="#B1" n="35"/>comodum dominari, sicut patet de Nimroth Gen.10. De quo dicitur quod  
+          <lb ed="#B1" n="36"/>coepit esse robustus uenator hominum coram Domino: id est, oppressor &amp; extin 
+          <lb ed="#B1" n="37"/>ctor amore dominandi. Intantum enim inualuit illa opinio: quod fortitudo cor 
+          <lb ed="#B1" n="38"/>poralis uidebatur dignificare hominem ad principatum, &amp; etiam usque ho 
+          <lb ed="#B1" n="39"/>die a pluribus fatuis approbatur. Quam opinionem elidendo, quia fal 
+          <lb ed="#B1" n="40"/>sa est, dicit: quod ad regendum &amp; gubernandum melior est sapientia quam  
+          <lb ed="#B1" n="41"/>pires, &amp;c. Sapientia (inquit) quae sursum est, quae includit fidem, spem &amp; 
+          <lb ed="#B1" n="42"/>charitatem cum omnibus uirtutibus cardinalibus: quia non loquitur de sa 
+          <lb ed="#B1" n="43"/>pientia stricte prout est quaedam uirtus intellectualis, praecise sicut in prin 
+          <!--sap_Page_296.xml-->
+          <pb ed="#B1" n="262"/>
+          <lb ed="#B1" n="1"/>cipio libri dictum fuit. Vnde Seneca Epistola 7. datdifferentiam inter alias ar 
+          <lb ed="#B1" n="2"/>tes &amp; sapientiam: quia aliae artes sunt sicut instrumenta uitae, sicut nauigatio, 
+          <lb ed="#B1" n="3"/>aedificatio, uel plantatio. Sapientia autem est ars uitae. Idem Epist. 86. secundum 
+          <lb ed="#B1" n="4"/>communes quottationes. Quaeris an aestimen aliquem futurum esse sapientem, 
+          <lb ed="#B1" n="5"/>qui literas nescit. Sapientia res tradit, non uerba, de diuinis humanisque cogi 
+          <lb ed="#B1" n="6"/>tat, de praeteritis, de futuris, de caducis, de aeternis. De ista sapientia loquens 
+          <lb ed="#B1" n="7"/>Bernh. in quibusdam sententijs, &amp; ponitur autoritas 8. lib. florum cap. 29. 
+          <lb ed="#B1" n="8"/>Distinguit sapientiam triplicem. Sapientiam cordis, sapientiam oris, &amp; sapien 
+          <lb ed="#B1" n="9"/>tiam operis. Et quamlibet ponit in tribus consistere: Sapientia (inquit) cordis  
+          <lb ed="#B1" n="10"/>in poenitudine peccatorum praeteritorum est.
+        </p>
+        <p xml:id="rhwis-l74-d1e204">
+          <lb ed="#B1" n="11"/>In contemptu praesentium commodorum: In desiderio futurorum praemio 
+          <lb ed="#B1" n="12"/>rum: Inuenisti plane sapientiam, si prioris uitae peccata defleas, si huius seculi  
+          <lb ed="#B1" n="13"/>desiderabilia paruipendas. Si aeternam beatitudinem toto desiderio concu 
+          <lb ed="#B1" n="14"/>piscas. Inuenisti sapientiam, si tibi horum singula sapiunt prout sunt. Haec 
+          <lb ed="#B1" n="15"/>quidem ut amara &amp; omnino fugienda: Ista uero uelut caduca &amp; transitoria 
+          <lb ed="#B1" n="16"/>contemnenda. Illa vero ut perfecta bona totis desiderijs appetenda, intimi a 
+          <lb ed="#B1" n="17"/>nimi quodam sapore dijudices &amp; discernas: haec quantum ad sapientiam cordis
+        </p>
+        <p xml:id="rhwis-l74-d1e222">
+          <lb ed="#B1" n="18"/>De sapientia uero oris subditur sane in his tribus uerbis. Affluis sapientia uel 
+          <lb ed="#B1" n="19"/>prudentia. Sit in ore confessio propriae iniquitatis, sit gratiarum actio &amp; uox lau 
+          <lb ed="#B1" n="20"/>dis, sit etiam sermo aedisicationis 
+        </p>
+        <p xml:id="rhwis-l74-d1e231">
+          <lb ed="#B1" n="21"/>De operis sapientia dicit sic. Quaeramus in opere triplicem sapientiae affluen 
+          <lb ed="#B1" n="22"/>tiam. Ita puto ego quantum ad opus pertinet, illum copiose satis affluere sapien 
+          <lb ed="#B1" n="23"/>tia: quicunque continenter, patienter &amp; obedienter conuersatur, ut uidelicet  
+          <lb ed="#B1" n="24"/>fidelis obedientia, propriam mortificet uoluntatem: humilis conscientia, car 
+          <lb ed="#B1" n="25"/>nalem pariter &amp; secularem amputet uoluptatem: Hilaris patientia, utram 
+          <lb ed="#B1" n="26"/>que similiter carnalem &amp; mundialem uiriliter sustineat aduersitatem. Haec 
+          <lb ed="#B1" n="27"/>Bernhard, 
+        </p>
+        <p xml:id="rhwis-l74-d1e250">
+          <lb ed="#B1" n="28"/>Et certe ista sapientia melior est quam uires, Exod. 35. Quisquis uestrum est 
+          <lb ed="#B1" n="29"/>sapiens ueniat &amp; faciat quod Dominus imperauit. Est enim sapientia triplex  
+          <lb ed="#B1" n="30"/>mundialis, bestialis, &amp; spiritualis. Primam habent ambitiosi &amp; cupidi: secun 
+          <lb ed="#B1" n="31"/>dam uoluptuosi &amp; lubrici: tertiam uero uirtuosi &amp; solidi. De prima sapientia 
+          <lb ed="#B1" n="32"/>1. Cor. 3. Si quis uidetur sapiens stultus fiat ut sit sapiens. Sapientia enim huius 
+          <lb ed="#B1" n="33"/>mundi stultitia est apud DEVM. De ista loquens beatus Grego. 10. Mora. ex  
+          <lb ed="#B1" n="34"/>ponens illud Iob. 12. Deridetur iusti simplicitas, dicit sic: Huius mundi sapien 
+          <lb ed="#B1" n="35"/>tia est cor machinationibus tegere, sensum uerbis uelare quae falsa sunt uera o 
+          <lb ed="#B1" n="36"/>stendere, &amp; quae uera sunt falsa demonstrare. Hanc qui sciunt caeteros super 
+          <lb ed="#B1" n="37"/>biendo despiciunt: Hanc qui nesciunt subiecti &amp; timidi, in alijs ipsam miran 
+          <lb ed="#B1" n="38"/>tur. Haec sibi obsequentibus praecipit honoris culmina quaerere, adepta tempo. 
+          <lb ed="#B1" n="39"/>ralis gloriae uanitate gaudere. Irrogata ab alijs mala multiplicius reddere, cum ui  
+          <lb ed="#B1" n="40"/>res suppetunt, nullis resistentibus cedere cum uiribus possibilitas deest: quid  
+          <lb ed="#B1" n="41"/>quid per maliciam explere non ualet, haec pacifica uoluntate simulare. Haec 
+          <lb ed="#B1" n="42"/>Gregorius. 
+        </p>
+        <p xml:id="rhwis-l74-d1e285">
+          <lb ed="#B1" n="43"/>Secunda sapientia est bestialis, de qua dicitur ad Rom. 8. <quote xml:id="rhwis-l74-Qd1e289" source="http://scta.info/resource/rom8_7">Sapientia carnis 
+            <lb ed="#B1" n="44"/>inimica est DEO: Legi enim DEI non est subiecta</quote>. Hanc sequuntur uo 
+          <lb ed="#B1" n="45"/>luptuosi, qui totam suam solicitudinem circa carnis delicias procurandas 
+          <lb ed="#B1" n="46"/>apponunt.
+        </p>
+        <p xml:id="rhwis-l74-d1e299">
+          <lb ed="#B1" n="47"/>Tertia sapientia est spiritualis ad Colossens. 1. lmpleamini agnitione uolun 
+          <lb ed="#B1" n="48"/>tatis DEI in omni sapientia &amp; intellectu spirituali. Et Iacob. 3. Quae desursum 
+          <lb ed="#B1" n="49"/>est sapientia, primum quidem pudica est, deinde pacifica. Per primam exclu 
+          <lb ed="#B1" n="50"/>dit sapientiam bestialem: Per secundam mundialem, quae nunquam est pacifi 
+          <lb ed="#B1" n="51"/>ca, sed semper in turbatione &amp; bello. Haec ergosapientia spiritualis, sapientia 
+          <lb ed="#B1" n="52"/>sanctorum est, de qua Gregorius ubi supra. Iustorum sapientia est nil per ostem 
+          <lb ed="#B1" n="53"/>tationem fingere, sensum uerbis aperire, uera ut sunt diligere: falsa deuitare, bona 
+          <!--sap_Page_297.xml-->
+          <pb ed="#B1" n="263"/>
+          <lb ed="#B1" n="1"/>gratis exhibere, mala libentius tolerare, nullam iniuriae ultionem quaerere, pro 
+          <lb ed="#B1" n="2"/>ueritate contumeliam lucrum putare: haec iustorum simplicitas deridetur, &amp; a 
+          <lb ed="#B1" n="3"/>mundi sapientibus fatuitas reputatur. Quid enim mundo stultius quam amis  
+          <lb ed="#B1" n="4"/>sa non quaerere, possessa rapientibus relaxare, nullam pro acceptis iniurijs uin 
+          <lb ed="#B1" n="5"/>dictam reddere, imo adiunctis alijs bonis patientiam praebere. Haec Gregor. 
+          <lb ed="#B1" n="6"/>Haec inquam sapientia melior est quam vires, &amp; vir prudens magis quam fortis. 
+          <lb ed="#B1" n="7"/>Prudentia &amp; sapientia in proposito accipiuntur pro eodem Proverb. 15. Vir  
+          <lb ed="#B1" n="8"/>prudens diriget gressus suos. Sed qualiter prudens hoc faciat bene docet Sene 
+          <lb ed="#B1" n="9"/>ca de copia uerborum. Si (inquit) prudens es, animus tuus tribus temporibus 
+          <lb ed="#B1" n="10"/>dispensetur. Praesentia ordina, futura praeuide, &amp; praeterita recordare. Nam qui 
+          <lb ed="#B1" n="11"/>nil de praeteritis cogitat, uit aperdidit, qui nihil de futuro praemeditatur, in om 
+          <lb ed="#B1" n="12"/>nia incattus incedit. Sed qualis ista prudentia esse debet, docet in eodem libro 
+          <lb ed="#B1" n="13"/>Seneca quod non debet esse inanis sicut aliqui desiderant prudentes uideri, &amp; 
+          <lb ed="#B1" n="14"/>sunt astuti. Prudentia (inquit) immoderata callidum facit, inimicum attentum, 
+          <lb ed="#B1" n="15"/>semper aliquid timentem, aliquid requirentem, astutia plenum, versi pellem: 
+          <lb ed="#B1" n="16"/>simplicitas inimicum, commendatorem culparum, &amp; ut postremo a cunctis uno 
+          <lb ed="#B1" n="17"/>nomine malus homo uocetur. Prudentia perfecta nec obtusum habet in se ali  
+          <lb ed="#B1" n="18"/>quid, nec uersutum. Haec Seneca. Vbi plane patet quod cum prudentia debet  
+          <lb ed="#B1" n="19"/>adiungi simplicitas iuxta doctrinam Saluatoris Matt. 10. Estote prudentes si 
+          <lb ed="#B1" n="20"/>cut serpentes &amp; simplices sicut columbae.
+        </p>
+        <p xml:id="rhwis-l74-d1e364">
+          <lb ed="#B1" n="21"/>Vbi notandum quod triplex est prudentia serpentis in bono quam nos conue 
+          <lb ed="#B1" n="22"/>nit imitari. Prima est secundum Hieron. quod totum corpus pro salute capitis o 
+          <lb ed="#B1" n="23"/>exponit quo caput inuoluit. Isto modo nos pro capite nostro CHRISTO nos  
+          <lb ed="#B1" n="24"/>&amp; nostra exponere debemus, &amp; propter honorem DEI iniurias sustinere, tam in 
+          <lb ed="#B1" n="25"/>corporibus quam in rebus. Secunda prudentia serpentis est, quod obturat aures  
+          <lb ed="#B1" n="26"/>suas, ne audiat incantantes. Quaerunt enim incantatores uenena quae in capiti 
+          <lb ed="#B1" n="27"/>bus serpentum sunt ad medicamenta inde conficienda. Serpens hoc praesen 
+          <lb ed="#B1" n="28"/>tiens caput suum inter spicas corporis inuolutum abscondit, &amp; unam aurem 
+          <lb ed="#B1" n="29"/>applicat ad petram &amp; aliam cum cauda obturat. Sic nos moraliter facere con 
+          <lb ed="#B1" n="30"/>uenit. Incantatores sunt mali homines &amp; corrupti, allicientes nos sub specie 
+          <lb ed="#B1" n="31"/>amicitiae ad uitia mundi uel carnis malis suggestionibus &amp; exemplis peruersis. 
+          <lb ed="#B1" n="32"/>Nos ergo quando tales incantant superiorem partem rationis, tanquam unam au 
+          <lb ed="#B1" n="33"/>rem CHRISTO petrae coniungamus, 1 ad Cor.10. Et inferiorem obturemus 
+          <lb ed="#B1" n="34"/>cauda: id est, cogitatione finis nostri, quasi cauda corporis uitae nostrae, ne illi  
+          <lb ed="#B1" n="35"/>qui blande &amp; leniter uoluptates nobis suggerunt, ad consensum pertrahant.  
+          <lb ed="#B1" n="36"/>iertia prudentia est quod pellem ueterem deponit: Quando enim senescit, &amp; 
+          <lb ed="#B1" n="37"/>squamis &amp; putredine corpus suum grauari sentit, transit per angustum fora 
+          <lb ed="#B1" n="38"/>men alicuius petrae, ubi pellem ueterem omnino relinquat. Et sic renouatur  
+          <lb ed="#B1" n="39"/>&amp; sanatur. Petra sicut prius, CHRISTVS est: Foramina multa sunt illius pluri 
+          <lb ed="#B1" n="40"/>ma uulnera. Cum ergo ueterem pellem: id est, nostram conuersationem corruptam 
+          <lb ed="#B1" n="41"/>&amp; abominabilem deponere uolumus, deuota contemplatione &amp; recordatio  
+          <lb ed="#B1" n="42"/>ne passionis CHRISTI per ista foramina transeamus. Exod. 33. Ponam te in fo 
+          <lb ed="#B1" n="43"/>ramine petrae &amp; protegam te dextera mea. Et Cant. 2. Veni columba mea in fo 
+          <lb ed="#B1" n="44"/>raminibus petrae. Et bene dicit: Estote prudentes sicut serpentes. Non dicit, Esto  
+          <lb ed="#B1" n="45"/>te pungentes uel uenenum emittentes. Sed estote prudentes tantum. Non enim est 
+          <lb ed="#B1" n="46"/>creatura ita mala, aut pessima, qn in aliquo instruat hominem ad benem uiuendum 
+          <lb ed="#B1" n="47"/>Eph. 4. Deponite uos secundum pristinam conuersationem ueterem hominem 
+          <lb ed="#B1" n="48"/>qui corrumpitur secundum desideria erroris. Duo tamen requiruntur ad hoc, 
+          <lb ed="#B1" n="49"/>quod serpens in foramine pellem deponat. Foraminis angustia siue subtilitas. 
+          <lb ed="#B1" n="50"/>Si enim latum esset sine difficultate transiret, &amp; pellem ueterem secum por 
+          <lb ed="#B1" n="51"/>taret. Secundo requiritur stabilitas. Nisi enim esset stabile foramen potius se  
+          <lb ed="#B1" n="52"/>cum ferret, quam pellem ibi relinqueret. Isto modo si uelimus pellem uete 
+          <lb ed="#B1" n="53"/>ris conuersationis deponere, oportet arctam &amp; angustam uiam poenitentiae 
+          <!--sap_Page_298.xml-->
+          <pb ed="#B1" n="264"/>
+          <lb ed="#B1" n="1"/>pertransire. Et hoc non quomodocunque, sed in stabili proposito uitam nostram 
+          <lb ed="#B1" n="2"/>in melius commutandi. Nihil enim magis est contrarium prudentiae quam in 
+          <lb ed="#B1" n="3"/>stabilis mutabilitas. Vnde Seneca: Si prudentiam amplecteris, ubique idem eris,  
+          <lb ed="#B1" n="4"/>&amp; prout rerum ac uarietas temporis exigit. Ita a te actionem edes tempori, ne 
+          <lb ed="#B1" n="5"/>te in aliquo mutes, sed potius aptes, &amp;c 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

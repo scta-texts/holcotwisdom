@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 72 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 72 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="166"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l54">
+        <p xml:id="rhwis-l54-d1e95">
+          <lb ed="#B1" n="34"/>POSTQVAM Spiritus sanctus descripsit CHRISTI iudicis  
+          <lb ed="#B1" n="35"/>aduenientis ad iudicium inexpugnabilem praeparationem: hic  
+          <lb ed="#B1" n="36"/>describit creaturae CHRISTO consentientis intolerabilem co  
+          <lb ed="#B1" n="37"/>operationem.
+        </p>
+        <p xml:id="rhwis-l54-d1e106">
+          <!--sap_Page_289.xml-->
+          <pb ed="#B1" n="255"/>
+          <lb ed="#B1" n="1"/>Vbi notandum quod sicut DEUS omnia creauit propter electos: ita omnia 
+          <lb ed="#B1" n="2"/>mouebit suo modo, ad se uindicandum de reprobis. Vnde sicut elementa ser 
+          <lb ed="#B1" n="3"/>uiunt homini, ut ipse DEO deseruiat: ita elementa seruient DEO ut de repro 
+          <lb ed="#B1" n="4"/>bis, qui ei seruire noluerunt, ultionem accipiat. Et quia omnis creatura corpo  
+          <lb ed="#B1" n="5"/>ralis infra coelestes orbes continetur, ideo primo insinuat conclusionem in ge 
+          <lb ed="#B1" n="6"/>nerali. Secundo eam explicat magis in speciali, ibi: lbunt directae. Quantum ad 
+          <lb ed="#B1" n="7"/>primum dicit sic: Et pugnabit cum illo, quasi diceret, non solum CHRISTI iu 
+          <lb ed="#B1" n="8"/>dex sic apparebit armatus lorica iustitiae, &amp; galea iudicij certi, &amp; sic de alijs, de 
+          <lb ed="#B1" n="9"/>quibus in nesterna lectione dictum est: imo pugnabit cum illo orbis terrarum. 
+          <lb ed="#B1" n="10"/>id est, omnis motus orbis circa terram, Lucae 21. Nam uirtutes coelorum mo 
+          <lb ed="#B1" n="11"/>uebuntur uel ipsemet orbis terrarum: id est, sphaera terrae, &amp; hoc contra insensa 
+          <lb ed="#B1" n="12"/>ti. Reprobi uocantur insensati, non quia sensu, sed quia disciplina &amp; uolun 
+          <lb ed="#B1" n="13"/>tate DEO seruiendi caruerunt. Sap. 12. Tanquam pueris insensatis iudicium 
+          <lb ed="#B1" n="14"/>eis in derisum dedisti. De ista pugna loquens Chrysost. super illud Mach. 24: 
+          <lb ed="#B1" n="15"/>Virtutes coelorum mouebuntur, dicit sic: Exurgente rege coelesti iudicare ui  
+          <lb ed="#B1" n="16"/>uos &amp; mortuos, uirtutes angelicae mouebuntur, terribiles ministri terribilem  
+          <lb ed="#B1" n="17"/>Dominum praecedentes. Et infra, patrefamilias moriente, domus turbatur, fa 
+          <lb ed="#B1" n="18"/>milia plangit, &amp; nigris uestibus induitur. Sic humano genere propter quod  
+          <lb ed="#B1" n="19"/>facta sunt omnia, circa finem constituto, coeli ministeria lugent, &amp; candore de 
+          <lb ed="#B1" n="20"/>posito, tenebris induuntur. Haec Chrysost. Quoniam autem terribilis erit pu 
+          <lb ed="#B1" n="21"/>gna corporalium creaturarum contra mundum, imminente iudicio gene 
+          <lb ed="#B1" n="22"/>rali, describit in speciali per quatuor exempla. Per coruscationes fulgurum: 
+          <lb ed="#B1" n="23"/>Per inundationes nubium: Per turbationes grandinum, &amp; per eleuationes  
+          <lb ed="#B1" n="24"/>marium.
+        </p>
+        <p xml:id="rhwis-l54-d1e165">
+          <lb ed="#B1" n="25"/>Quantum ad primum dicit sic: lbunt directae emissiones fulgurum. Fulgur est 
+          <lb ed="#B1" n="26"/>uapor ignitus expressus a nube: sicut dicitur 3. Mete. Vnde per emissiones 
+          <lb ed="#B1" n="27"/>fulgurum intelligit Spiritus sanctus in proposito generalem mundi confla 
+          <lb ed="#B1" n="28"/>grationem, quae fiet per ignem: de qua habetur in Psal. Ignis ante ipsum prae 
+          <lb ed="#B1" n="29"/>cedet, &amp; inflammabit in circuitu inimicos eius. De qua conflagratione qualis  
+          <lb ed="#B1" n="30"/>erit, cito in dubitatione uidebitur. Quantum ad secundum quomodo creatu 
+          <lb ed="#B1" n="31"/>ta pugnabit contra teptobos dicit sic: Et tanquam a bene curuato arcu nubium 
+          <lb ed="#B1" n="32"/>exterminabuntur: id est, sicut benem curuatus arcus nubium, qui est lris in dilu 
+          <lb ed="#B1" n="33"/>uio aquarum tempore Noë, quando omnes mali fuerunt submersi per inun 
+          <lb ed="#B1" n="34"/>dationem diluuij: ita fiet imminente iudicio generali, quod omnes reprobi 
+          <lb ed="#B1" n="35"/>exterminabuntur, &amp; tamen iusti saluabuntur illaesi, &amp; reprobi ad certum lo 
+          <lb ed="#B1" n="36"/>cum insilient, uidelicet ad infernum. Tertio describit quam terribilis erit illa pu 
+          <lb ed="#B1" n="37"/>gna creaturae corporalis per exemplum de turbatione grandinum. Et quan  
+          <lb ed="#B1" n="38"/>tum ad hoc dicit sic, quod plenae grandines mittentur a petrosa ira: planae grandi 
+          <lb ed="#B1" n="39"/>nes: id est, ponderosae increpationes, quas faciet iudex, quando dicet: <quote xml:id="rhwis-l54-Qd1e199" source="http://scta.info/resource/mt25_42">Esuriui 
+            <lb ed="#B1" n="40"/>&amp; non</quote>, &amp;c. Matth. 25. Mittentur a petrosa ira: id est, a uindicta CHRISTO 
+          <lb ed="#B1" n="41"/>debita, 1. ad Corinth.10. Petra autem erat CHRISTVS. Quarto exprimit 
+          <lb ed="#B1" n="42"/>creaturae pugnam contra malos per elationem marium. In Psal. Mirabiles ela 
+          <lb ed="#B1" n="43"/>tiones maris, mirabilis in altis Dominus. Et quantum ad hoc, dicit: Et cande 
+          <lb ed="#B1" n="44"/>scet in illos aqua maris &amp; flumina, &amp;c. Et uidetur hic tangere primum de illis  
+          <lb ed="#B1" n="45"/>signis 15. quae dicit Hieronymus se reperisse in annalibus Hebraeorum quae 
+          <lb ed="#B1" n="46"/>sunt ista.
+        </p>
+        <p xml:id="rhwis-l54-d1e218">
+          <lb ed="#B1" n="47"/>Primo die omnia maria exaltabuntur quindecim cubitis ultra omnes mon 
+          <lb ed="#B1" n="48"/>tes orbis terrae, non affluentia, sed sicut muri stabunt. Secundo prosternuntur  
+          <lb ed="#B1" n="49"/>in profundum in tantum, ut uix uideri poterunt. Tertio redigentur in antiquum 
+          <lb ed="#B1" n="50"/>statum. Quarto omnes beluae &amp; animalia quae movebuntur in aquis congre 
+          <lb ed="#B1" n="51"/>gabuntur, &amp; eleuabuntur super pelagus inuicem mugientes more contentio 
+          <lb ed="#B1" n="52"/>nis. Quinto omnia uolatilia coeli congregabuntur in campis, omnes inuicem  
+          <lb ed="#B1" n="53"/>lamentantes, nihil gustantes: id est, nihil comedentes. Sexto fulmina ignea sur 
+          <!--sap_Page_290.xml-->
+          <pb ed="#B1" n="256"/>
+          <lb ed="#B1" n="1"/>gent ab occasu Solis, contra faciem firmamenti, usque ad ortum currentia. Septi 
+          <lb ed="#B1" n="2"/>mo omnia sidera erratica &amp; fixa surgent proferentia ex se igneas comas, sicut  
+          <lb ed="#B1" n="3"/>cometae. Octauo erit terraemotus, ita quod nullus homo possit stare, sed om 
+          <lb ed="#B1" n="4"/>nia aedificia prosternentur. Nono omnes lapides tam parui quam magni in 
+          <lb ed="#B1" n="5"/>quatuor partes se diuident, una petra aliam collidente. Decimo omnes plan 
+          <lb ed="#B1" n="6"/>tae sanguineum fluent rorem. Vndecimo omnes montes &amp; colles &amp; aedificia 
+          <lb ed="#B1" n="7"/>in puluerem redigentur. Duodecimo omnia animalia uenient ad campos de 
+          <lb ed="#B1" n="8"/>syluis &amp; montibus, rugientia &amp; nihil gustantia. Decimotertio omnia sepulchra 
+          <lb ed="#B1" n="9"/>ab ortu Solis usque ad occasum patebunt cadaueribus ad surgendum. Decimo 
+          <lb ed="#B1" n="10"/>quarto omnes homines exibunt de habitaculis suis, non intelligentes neque ad 
+          <lb ed="#B1" n="11"/>inuicem loquentes, sed more ferarum discurrentes. Die decimoquinto, om 
+          <lb ed="#B1" n="12"/>nes morientur, &amp; resurgent cum mortuis longe ante defunctis. Haec tamen 
+          <lb ed="#B1" n="13"/>figna, quia de apocryphis sunt excepta, certitudinem non habent. In hoc ta 
+          <lb ed="#B1" n="14"/>men quod dicitur in litera, quod candescet in malos aqua maris &amp; flumina con 
+          <lb ed="#B1" n="15"/>current auriter, uidetur tangi primum signum de collisione aquarum, &amp; earum 
+          <lb ed="#B1" n="16"/>m altum eleuatione.
+        </p>
+        <p xml:id="rhwis-l54-d1e275">
+          <lb ed="#B1" n="17"/>Quia superius tactum est, quod per emissiones fulguris intelligitur gene 
+          <lb ed="#B1" n="18"/>ratio ignis illius miraculosa, per quam totus mundus conflagrabitur ante diem  
+          <lb ed="#B1" n="19"/>iudicij, sit ista dubitatio.
+        </p>
+        <p xml:id="rhwis-l54-d1e285">
+          Vtrum mundus purgabitur per ignem. Et uidetur  
+          <lb ed="#B1" n="20"/>quod non. Quia uel ille ignis foret naturaliter productus, uel supernaturali  
+          <lb ed="#B1" n="21"/>ter. Si supernaturaliter: Ergo non habebit operationem naturalem. Si natura 
+          <lb ed="#B1" n="22"/>liter, ergo possibile esset, quod naturaliter fieret diluuium uniuersale ignis. Sed  
+          <lb ed="#B1" n="23"/>iste articulus est excommunicatus a <name>domino Stephano Parisiens. Episcopo</name>. 
+          <lb ed="#B1" n="24"/>Item sic non generaretur nisi ex certa constellatione planetarum, &amp; calidarum  
+          <lb ed="#B1" n="25"/>stellarum: sed si hoc, tunc posset sciri tempus illud per calculationes Astrono 
+          <lb ed="#B1" n="26"/>micas, consequens falsum.
+        </p>
+        <p xml:id="rhwis-l54-d1e306">
+          Praeterea si mundus purgabitur per ignem, quaero 
+          <lb ed="#B1" n="27"/>an ille ignis praecedet iudicium an sequatur. Si dicatur quod praecedet. Iuxta 
+          <lb ed="#B1" n="28"/>illud Psal. Ignis ante ipsum praecedet. Contra uidetur dicere <ref xml:id="rhwis-l54-Rd1e312">August. 22. de 
+            <lb ed="#B1" n="29"/>Ciuit. DEI. c.16</ref> ubi dicit sic: <quote xml:id="rhwis-l54-Qd1e317" source="http://scta.info/resource/adcd-l20-d1e3310">Iudicatis his qui scripti non sunt in libro uitae, se 
+              <lb ed="#B1" n="30"/>quitur quod tunc figura mundi mundanorum ignium conflagratione peribit</quote>.  
+          <lb ed="#B1" n="31"/>Item in <ref xml:id="rhwis-l54-Rd1e325">eodem lib. cap. ult. in fin</ref>. <quote xml:id="rhwis-l54-Qd1e328" source="http://scta.info/resource/adcd-l20-d1e3414">Circa illud iudicium has res dicimus esse uen 
+            <lb ed="#B1" n="32"/>turas, Heliam Thesbytem, fidem Iudaeorum, Antichristum persecuturum, CHRI 
+            <lb ed="#B1" n="33"/>STVM iudicaturum, mortuorum resurrectionem, bonorum &amp; malorum diui  
+            <lb ed="#B1" n="34"/>sionem, mundi conflagrationem, eius denique renouationem. Existimo ea quae 
+            <lb ed="#B1" n="35"/>a me comemorata sunt ordine esse uentura</quote>. Ergo secundum beatum Aug, mun 
+          <lb ed="#B1" n="36"/>di purgatio per ignem erit post iudicium. Si uero dicatur quod sequetur. Com 
+          <lb ed="#B1" n="37"/>tra sicut dicit <ref xml:id="rhwis-l54-Rd1e343">August. 22. de Ciuit. DEI cap. 18</ref>. Et allegat <ref xml:id="rhwis-l54-Rd1e346" target="http://scta.info/resource/pl-l4d47c4-d1e152">Magistr. 4: sent. dist. 
+            <lb ed="#B1" n="38"/>17</ref>. <quote xml:id="rhwis-l54-Qd1e352">Hoc erit incendium mundi sanctis, quod fuit caminus tribus pueris. In qui  
+              <lb ed="#B1" n="39"/>bus uero aliquid purgandum fuerit, per ignem illud purgabitur</quote>. Sed constat 
+          <lb ed="#B1" n="40"/>quod post iudicium nullus purgabitur per illum ignem: quia constat quod o 
+          <lb ed="#B1" n="41"/>mnes sancti statim in resurrectione habebunt corpora gloriosa, &amp; per conse 
+          <lb ed="#B1" n="42"/>quens impassibilia: Ergo ille ignis praecedet resurrectionem &amp; iudicium.
+        </p>
+        <p xml:id="rhwis-l54-d1e364">
+          <lb ed="#B1" n="43"/>Ad oppositum est Petrus, 2. canon. sua. c. 3. Adueniet (inquit) dies Domini 
+          <lb ed="#B1" n="44"/>ut fur, in quo coeli magno impetu transient, elementa uero calore soluentur, ter 
+          <lb ed="#B1" n="45"/>ra autem &amp; quae in ipsa sunt exurentur, &amp; infra: Per quem coeli ardentes sol 
+          <lb ed="#B1" n="46"/>uentur, &amp; elementa ignis ardore tabescent: novos uero coelos, &amp; novam ter 
+          <lb ed="#B1" n="47"/>ram &amp; promissa ipsius expectamus. Iterum 1. ad Corinth. 8. Gloss. super illud: 
+          <lb ed="#B1" n="48"/>Praeterit figura hiuius mundi: dicit sic: Pulchritudo huius mundi mundano  
+          <lb ed="#B1" n="49"/>rum ignium conflagratione peribit: Ergo mundus purgabitur per ignem.
+        </p>
+        <p xml:id="rhwis-l54-d1e382">
+          Et  
+          <lb ed="#B1" n="50"/>praeterea <ref xml:id="rhwis-l54-Rd1e386">Aug. 2. de Ciuit. DEI cap. 6</ref>. <quote xml:id="rhwis-l54-Qd1e389" source="http://scta.info/resource/adcd-l20-d1e3310">Illa conflagratione mundana elemen 
+            <lb ed="#B1" n="51"/>torum corporalium qualitates, quae corporibus nostris corruptibilibus con 
+            <lb ed="#B1" n="52"/>gruebant, ardendo penitus interibunt, atque ipsa substantia eas qualitates habe  
+            <lb ed="#B1" n="53"/>bit, quae corporibus immortalibus mirabili mutatione conueniebant, ut scili 
+            <!--sap_Page_291.xml-->
+            <pb ed="#B1" n="257"/>
+            <lb ed="#B1" n="1"/>cet mundus innouatus, in melius accommodetur hominibus, etiam carne in 
+            <lb ed="#B1" n="2"/>melius innouatis</quote>.
+        </p>
+        <p xml:id="rhwis-l54-d1e408">
+          Ad quaestionem dicendum quod sic. Sed tamen primo ui  
+          <lb ed="#B1" n="3"/>debitur per quid purgabitur mundus: Secundo in quibus partibus purgabi  
+          <lb ed="#B1" n="4"/>tur: Tertio unde causabitur ille ignis.
+        </p>
+        <p xml:id="rhwis-l54-d1e415">
+          <lb ed="#B1" n="5"/>Circa primum est advertendum quod cum mundus factus sit propter ho 
+          <lb ed="#B1" n="6"/>minem. Vnde 2. Physicorum dicitur, quod omnium nos sumus quodammo 
+          <lb ed="#B1" n="7"/>do finis: conueniens est quod quando homo glorificabitur, mundus etiam suo 
+          <lb ed="#B1" n="8"/>modo innouetur. Ad hoc autem quod homo glorificetur, oportet duo remo  
+          <lb ed="#B1" n="9"/>ueri ab homine: scilicet corruptionem in corpore, &amp; infectionem culpae in a 
+          <lb ed="#B1" n="10"/>nima. Conformiter ad ista oportet mundus in duobus purgari: habent enim 
+          <lb ed="#B1" n="11"/>elementa, in quibus conseruamur, sicut ignis, aër, aqua &amp; terra, sibi commixtas 
+          <lb ed="#B1" n="12"/>quasdam partes naturae extraneae: quia aër est admixtus cum uaporibus terre 
+          <lb ed="#B1" n="13"/>nis &amp; aqueis, sicut dicitur 3. Meteo. Similiter partes terreae &amp; aqueae sunt ad 
+          <lb ed="#B1" n="14"/>inuicem commixtae: sicut congruum est &amp; conueniens habitationi hominum 
+          <lb ed="#B1" n="15"/>corruptibilium, ita quod nullum de istis tribus elementis est in sua naturali pu 
+          <lb ed="#B1" n="16"/>ritate, &amp; ista impuritas correspondet corruptibilitati corporis in homine. Se 
+          <lb ed="#B1" n="17"/>cundo habent ista elementa quandam impuritatem correspondentem infectio 
+          <lb ed="#B1" n="18"/>ni culpae: hoc est, quandam idoneitatem ad futuram innouationem propter pec 
+          <lb ed="#B1" n="19"/>cata in his locis comissa per magnum tempus, tam a malis hominibus quam 
+          <lb ed="#B1" n="20"/>ab angelis malis, sicut dicimus quod loca prophanata indigent reconciliatio  
+          <lb ed="#B1" n="21"/>ne. Purgabitur ergo mundus ab utraqe impuritate per hoc, quod omnes dispo 
+          <lb ed="#B1" n="22"/>fitiones extraneae elementis commixtae corrumpuntur &amp; restituentur elemen 
+          <lb ed="#B1" n="23"/>ta ad suam simplicem puritatem. Vnde nec manebunt postea animalia, nec plan 
+          <lb ed="#B1" n="24"/>tae, sed sola elementa. Secundo patet ex istis in quibus partibus mundus purga 
+          <lb ed="#B1" n="25"/>bitur: uidelicet in quibus fuit habitatio daemonum &amp; hominum. Vnde secun 
+          <lb ed="#B1" n="26"/>dum <ref xml:id="rhwis-l54-Rd1e464">August. 2. de Ciuit. DEI, c. 18</ref>. Ignis ille incipiet purgare aërem in supe 
+          <lb ed="#B1" n="27"/>tiori parte aëris ultra medium interstitium, &amp; descendet successiue uersus ter 
+          <lb ed="#B1" n="28"/>ram. Erit autem altitudo illius a terra, quantum ascenderunt aquae diluuij 15. 
+          <lb ed="#B1" n="29"/>cubitis super montes quos operuerunt. Sicut dicitur Genes. 7. Quantum ad 
+          <lb ed="#B1" n="30"/>tertium dicendum, quod erit productus supernaturaliter, sicut fuerunt, aquae 
+          <lb ed="#B1" n="31"/>diluuij: sicut textus satis innuit: praecedet tamen uehemens siccitas &amp; calor pro 
+          <lb ed="#B1" n="32"/>ductionem illius ignis: &amp; desinet causari arcus nubium, &amp; quaecunque humidae 
+          <lb ed="#B1" n="33"/>impressiones, sicut sunt, pluuiae, nix, grando, ros, &amp; huiusmodi, &amp; generabitur  
+          <lb ed="#B1" n="34"/>a sub descendens in tanta multitudine, &amp; apparebit aspicientibus, quo sint stellae 
+          <lb ed="#B1" n="35"/>de coelo cadentes. Et sic intelligit illud Matth. 24. <quote xml:id="rhwis-l54-Qd1e487" source="http://scta.info/resource/mt24_29">Stellae cadent de coelo</quote>. Quam 
+          <lb ed="#B1" n="36"/>locutionem credendum est esse tropicam secundum Aug. de Ciu. DEI, c. 18.
+        </p>
+        <p xml:id="rhwis-l54-d1e494">
+          <lb ed="#B1" n="37"/>Ad primum &amp; secundum dicendum quod ignis ille generabitur superna 
+          <lb ed="#B1" n="38"/>turaliter, sicut dictum est, &amp; ideo consequentia non ualet: Ergo non habebit  
+          <lb ed="#B1" n="39"/>operationem naturalem.
+        </p>
+        <p xml:id="rhwis-l54-d1e503">
+          Ad secundum dicendum, quod ignis ille quantum ad 
+          <lb ed="#B1" n="40"/>aliquam operationem praecedet, &amp; quantum ad aliquid concomitabitur, &amp; 
+          <lb ed="#B1" n="41"/>quantum ad aliquid, sequetur. Actio enim illius ignis est successiua: quia ante 
+          <lb ed="#B1" n="42"/>iudicium fiet incineratio corporum hominum tunc uiuentium, per modum 
+          <lb ed="#B1" n="43"/>istum, quod perfecti resoluentur sine poena sensus ab illo igne illata, &amp; imper 
+          <lb ed="#B1" n="44"/>fecti purgabuntur: Quo facto statim erit resurrectio mortuorum. Postea rece 
+          <lb ed="#B1" n="45"/>dente iudicio inflammabitur totus mundus per circuitum. Peracto uero iudi 
+          <lb ed="#B1" n="46"/>cio diuidetur in purum &amp; turpidum illius ignis, apponetur etiam illud cum o 
+          <lb ed="#B1" n="47"/>mnibus foeditatibus relictis de purgatione mundi, &amp; inuoluet reprobos: sicut  
+          <lb ed="#B1" n="48"/>dicit Basilius super illud Psal. Vox Domini intercidentis flammam, &amp; depor 
+          <lb ed="#B1" n="49"/>tabit ad infernum. Vnde aliqua pars illius ignis addetur igni infernali, qui nunc est 
+          <lb ed="#B1" n="50"/>&amp; alia pars quae est nobilis &amp; pulchra, addet igni superiori ad gloriam electorum. 
+          <lb ed="#B1" n="51"/>Et sic est quae ille ignis purgans mundum quantum ad suum opus initiale praecedet, quid est 
+          <lb ed="#B1" n="52"/>purgare, &amp; concomitabitu. Sed quantum ad eis consummationem, sequet: &amp; sic intel 
+          <lb ed="#B1" n="53"/>ligit Aug. alias a seipso discordaret, sicut patet per autoritates supius allegatas.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

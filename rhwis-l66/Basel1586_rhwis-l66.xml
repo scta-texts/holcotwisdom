@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 66 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 66 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="231"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l66">
+        <p xml:id="rhwis-l66-d1e95">
+          <!--sap_Page_265.xml-->
+          <pb ed="#B1" n="231"/>
+          <lb ed="#B1" n="1"/>IN ista parte ponitur quintum exemplum quo terrena felicitas 
+          <lb ed="#B1" n="2"/>gi comparatur sagittae festinanti ad terminum. Et circa hoc duo fa 
+          <lb ed="#B1" n="3"/>ua cit. Primo ponit exemplum. Secundo applicatur ad propositum, 
+          <lb ed="#B1" n="4"/>Q Secunda pars, ibi: Sic &amp; nos nati. Exemplum est manifestum si 
+          <lb ed="#B1" n="5"/>cut litera praetendit: quia sicut sagitta emissa ab arcu uelocissime 
+          <lb ed="#B1" n="6"/>transit uersus metam: Ita nos missi sumus ut per mundum transeamus ad mor 
+          <lb ed="#B1" n="7"/>tem. Quamuis ista quinque exempla, quibus mundana felicitas compara 
+          <lb ed="#B1" n="8"/>tur, uidelicet umbra euanescens, nuncius praecurrens, nauis transfretans, 
+          <lb ed="#B1" n="9"/>auis transmigrans, &amp; sagitta penetrans, satis declarent temporalis prosperi 
+          <lb ed="#B1" n="10"/>tatis uelocitatem: habent tamen singula exempla suas proprietates designa 
+          <lb ed="#B1" n="11"/>tiuas maliciarum, quas diuersi mundani exercent. Nam per umbram desi 
+          <lb ed="#B1" n="12"/>gnatur uanitas lasciuiae: per nuncium fatuitas humanae prudentiae: per na 
+          <lb ed="#B1" n="13"/>uem instabilitas auaritiae: per auem sublimitas superbiae: &amp; per sagittam do 
+          <lb ed="#B1" n="14"/>lositas maliciae figuratur. Est ergo notandum quod sicut sagitta uelocissi 
+          <lb ed="#B1" n="15"/>me transit: tamen nescit quo uadat: quia aliquando infigitur luto, aliquando 
+          <lb ed="#B1" n="16"/>repercutitur in petra: Ita miseri in hac uita, qui Diabolo seruiunt, sunt quasi 
+          <lb ed="#B1" n="17"/>sagittae suae, &amp; mittuntur ab eo ad certas malicias ad implendas, sicut sibi pla 
+          <lb ed="#B1" n="18"/>cet. Et sicut diuisus aër in se continuo reclusus est: Ita multitudo populi siue in 
+          <lb ed="#B1" n="19"/>regno, siue in patria, siue in ciuitate subtracto uno homine malo, qui perturba 
+          <lb ed="#B1" n="20"/>uit totam patriam, statim reconciliatur una multitudo, una patria, siue prouin 
+          <lb ed="#B1" n="21"/>cia, sicut prius. Et cum ipse putaret, quod ab eo subtracto, patria dissolueretur.  
+          <lb ed="#B1" n="22"/>uel ciuitas tanta erit unitas post eum &amp; concordia, ipso in inferno dimerso si 
+          <lb ed="#B1" n="23"/>cut antem: Ex hoc est, quod dicit: Diuisus aer in se continuo reclusus est, vt ignoretur  
+          <lb ed="#B1" n="24"/>transitu illius. Quia in ista lectione homo maliciosus comparatur sagittae.
+        </p>
+        <p xml:id="rhwis-l66-d1e154">
+          <lb ed="#B1" n="25"/>Notandum quod Diabolus habet arcus &amp; sagittas ad nocendum. Et CHRI 
+          <lb ed="#B1" n="26"/>STVS arcus &amp; sagittas consimiliter ad regendum. Habet enim Diabolus tres  
+          <lb ed="#B1" n="27"/>malos arcus, quibus utitur contra sanctos. Arcum carnalis &amp; concupiscentiae: ar 
+          <lb ed="#B1" n="28"/>cum fraternalis inuidentiae, &amp; arcum mundialis conscientiae. De arcu carna 
+          <lb ed="#B1" n="29"/>lis concupiscentiae procedit mala mulier, uaga, inquieta, &amp; impatiens, praeparata 
+          <lb ed="#B1" n="30"/>ad capiendas animas. Sicut dicitur Proverb. 7. qua capitur &amp; uulneratur ue 
+          <lb ed="#B1" n="31"/>cors iuuenis, de quo ibidem subditur, quod fequitur eam quasi bos ductus ad 
+          <lb ed="#B1" n="32"/>uictimam, &amp; ignorat quod ad uincula stultus trahatur, donec sagitta transfi 
+          <lb ed="#B1" n="33"/>gat cor eius. Ista est pennata per ornatum curiosum. Fertata per animum ma 
+          <lb ed="#B1" n="34"/>liciosum. Inflammata per amorem libidinosum. Vnde Cupido filius Vene 
+          <lb ed="#B1" n="35"/>ris dicebatur, qui cum sagittis &amp; facula pingebatur: quia amor carnalis uul  
+          <lb ed="#B1" n="36"/>nerat &amp; inflammat. Cum ista sagitta fuit uulneratus Dauid in aspectu Ber 
+          <lb ed="#B1" n="37"/>sabeae, cum prospiceret eam se lauantem, 2. Regum 11. Ista sagitta abscondi 
+          <lb ed="#B1" n="38"/>tur in pharetra, quamdiu se occultat in camera. Arcus tenditur quando cum 
+          <lb ed="#B1" n="39"/>peruersa intentione ornamentis componitur. Sed sagitta emittitur, quando  
+          <lb ed="#B1" n="40"/>ipsa in publicum progreditur. Et ideo sicut periculosum est hominibus non ar 
+          <lb ed="#B1" n="41"/>matis, inter sagittas uolantes incedere. Ita periculosum est iuuenibus non ha 
+          <lb ed="#B1" n="42"/>bituatis in uirtutibus, &amp; folidis moribus inter muliercularum frequentias con 
+          <lb ed="#B1" n="43"/>uersari. Sed qui habitat in adiutorio altissimi in protectione DEI coeli com 
+          <lb ed="#B1" n="44"/>morabitur. Et talis non timebit a sagitta volante in die a negotio perambu 
+          <!--sap_Page_266.xml-->
+          <pb ed="#B1" n="232"/>
+          <lb ed="#B1" n="1"/>lante in tenebris, sicut dicit Psalm. Secundus arcus Diaboli est fraternalis in 
+          <lb ed="#B1" n="2"/>uidentiae, de quo procedit sagitta detractionis pestiferae, de qua dicit Psalm:. 
+          <lb ed="#B1" n="3"/>Praeparauerunt sagittas suas in pharetra, ut sagittent in obscuro re. cor. Et be 
+          <lb ed="#B1" n="4"/>ne dicit in obscuro: quia Diabolus isto arcu non utitur nisi in obscuro. Et si 
+          <lb ed="#B1" n="5"/>cut bonus sagittarius non electas suas sagittas mittit contra lapides, ubi reper 
+          <lb ed="#B1" n="6"/>cutiuntur &amp; franguntur: Ita nec Diabolus uerba detractionis eijcit ad aures 
+          <lb ed="#B1" n="7"/>sanctorum uirorum, qui in uerbis talium non delectantur. Vnde Hierony.  
+          <lb ed="#B1" n="8"/>in epistola ad Rusticum monachum: Sicut, inquit, sagitta si mittatur contra 
+          <lb ed="#B1" n="9"/>duram materiam nonnunquam in emittentem reuertitur, &amp; uulnerat uul  
+          <lb ed="#B1" n="10"/>nerantem: Ita detractor cum tristem uiderit faciem audientis, imo non au 
+          <lb ed="#B1" n="11"/>dientis, sed obturantis aures suas, ne. au.s. ilico conticessit, pallet uultus, hae 
+          <lb ed="#B1" n="12"/>rent labia, saliua siccatur. Haec Hieron. Idem Hieron. Nemo inuito audito  
+          <lb ed="#B1" n="13"/>ri libenter refert. Sagitta in lapide nunquam infigitur &amp; interdum resiliens 
+          <lb ed="#B1" n="14"/>percutit dirigentem. Haec est sagitta dolorosa quae simul tertius occiditesicut  
+          <lb ed="#B1" n="15"/>dicit Bernhardus) detrahentem, audientem, &amp; absentem, Hierem. 9. Sagit 
+          <lb ed="#B1" n="16"/>ta uulnerans lingua eorum dolum locuta est. Tertius arcus Diaboli est arcus 
+          <lb ed="#B1" n="17"/>mundialis conscientiae, de quo procedit sagitta maliciosae conspirationis fal 
+          <lb ed="#B1" n="18"/>sarum suggestionum, &amp; ad inuentiones, accusationem contra innocentes, 
+          <lb ed="#B1" n="19"/>Proverb. 25. Sagitta acuta homo qui loquitur contra proximum suum fal 
+          <lb ed="#B1" n="20"/>sum testimonium. Isti figurantur per sagittarios qui utraque manu fundis sa 
+          <lb ed="#B1" n="21"/>xa iacebant, &amp; sagitta similiter. Sicut dicitur. 1 Paralip. 12. Ita isti aeque bene 
+          <lb ed="#B1" n="22"/>formant accusationes &amp; actiones iniuste sicut iuste, ita libenter contra inno 
+          <lb ed="#B1" n="23"/>centem sicut contra nocentem, uel persequentem. Vnde conqueritur Ecclesia 
+          <lb ed="#B1" n="24"/>in persona iusti, Thre. 3. Tetendit arcum suum, &amp; posuit me quasi signum ad sagit 
+          <lb ed="#B1" n="25"/>tam, misit in renibus meis figuras pharetrae suae. Isti sunt arcus Diaboli &amp; fagittae 
+          <lb ed="#B1" n="26"/>Per oppositum CHRISTUS habet triplicem arcum, &amp; tria genera sagit 
+          <lb ed="#B1" n="27"/>tarum. Arcus primus est lux Scripturae: secundus mors na turae: &amp; tertius iex 
+          <lb ed="#B1" n="28"/>censurae. De arcu Scripturae procedit praedicator uerbi DEI. De quo Esa. 49. 
+          <lb ed="#B1" n="29"/>Posuit me sicut sagittam electam. Sagittarius CHRISTVS est, &amp; eius sagittae 
+          <lb ed="#B1" n="30"/>principio fuerunt Apostoli pennati per uirtutes. Vnde habuerunt tres pennas 
+          <lb ed="#B1" n="31"/>quae notantur, 1. Corinth.12. Fides, spes, charitas. Tria haec. Isti fuerunt ferrati  
+          <lb ed="#B1" n="32"/>er constantiam, &amp; inflammati igne Spiritus sancti. Iuxta illud Psal. Sagittas 
+          <lb ed="#B1" n="33"/>suas ardentibus effecit. Et iterum sagittae potentis acutae cum carbonibus de 
+          <lb ed="#B1" n="34"/>solatorijs. Sed si sagitta sit nimis onerata terra uel luto, nunquam bene uolabit:  
+          <lb ed="#B1" n="35"/>isto modo quidam qui deberent esse sagittae CHRISTI in actu praedicandi, sunt  
+          <lb ed="#B1" n="36"/>nimis onerati terrenis, ita quod uolare non possunt. Quidam carent pennis, qui  
+          <lb ed="#B1" n="37"/>licet scientiam habeant, eminentia uitae carent. Et notandum est, quod nisi prin 
+          <lb ed="#B1" n="38"/>cipalis sagittarius manum apponat ad arcum, areus non bene emittet sagittam. 
+          <lb ed="#B1" n="39"/>Vnde legimus 4. Reg. 13. quod loas rex Israelis petiturus consilium de Eliaego in 
+          <lb ed="#B1" n="40"/>firmato, accessit ad eum, dicens: Pater mi, pater mi, Currus Israel, &amp;c. Et dixit 
+          <lb ed="#B1" n="41"/>Elixaeus: Affer arcum &amp; sagittas. Et posuit manum supra arcum, &amp; Elixaeus manum 
+          <lb ed="#B1" n="42"/>suam supra manum regis, &amp; dixit: Sagitta salutis, Domini &amp; sagitta salutis contra 
+          <lb ed="#B1" n="43"/>Syriam. Syria interpretatur sublimis, manus CHRISTI gratia superposita ma 
+          <lb ed="#B1" n="44"/>nu praedicatoris. Nota de Cleonino Atheniensi, Sextum lulium stratagem. li. 3. c. 6.
+        </p>
+        <p xml:id="rhwis-l66-d1e300">
+          <lb ed="#B1" n="45"/>Secundus arcus CHRISTI est mors naturae, de quo egreditur sagitta poe 
+          <lb ed="#B1" n="46"/>nalitatis, &amp; infirmitatis, In Psal. Sagittae tuae infixae sunt mihi &amp; con. &amp;c. Et lo 
+          <lb ed="#B1" n="47"/>quitur de poenalitatibus consequentibus peccatum originale. Iste arcus percutit  
+          <lb ed="#B1" n="48"/>ante nos, cum interficit antiquiores nobis: retro nos cum interficit &amp; percutit  
+          <lb ed="#B1" n="49"/>iuniores: iuxta nos aufert nobis in aetate pares: supra nos, cum potentiores: sub  
+          <lb ed="#B1" n="50"/> tus nos, cum inferiores. In Psal. Emitte sagittas &amp; conturbabis eos.
+        </p>
+        <p xml:id="rhwis-l66-d1e316">
+          <lb ed="#B1" n="51"/>Tertius arcus CHRISTI est lex censurae in futuro iudicio a quo egredietur  
+          <lb ed="#B1" n="52"/>illa acutissima sagitta sententiae definitiuae: Venite benedicti Patris mei, perci 
+          <lb ed="#B1" n="53"/>pite regnum, quod uobis paratum est ab initio mundi: &amp;, Ite maledicti in ignem  
+          <!--sap_Page_267.xml-->
+          <pb ed="#B1" n="233"/>
+          <lb ed="#B1" n="1"/>aeternum, qui Diabolo paratus est &amp; angelis suis. De isto arcu dicitur in Psal.  
+          <lb ed="#B1" n="2"/>Dedisti metuentibus te significationem, ut fugiant a facie arcus. Et tunc de ma 
+          <lb ed="#B1" n="3"/>lis adimplebitur illud Deut. 32. Congregabo super eos mala, &amp; sagittas meas 
+          <lb ed="#B1" n="4"/>complebo in eis. Iste arcus quanto diutius expectat, &amp; magis intenditur, tan 
+          <lb ed="#B1" n="5"/>to grauius uulnerabit. Vnde tunc adimplebitur illud Exce. 5. Mittam in eos sa 
+          <lb ed="#B1" n="6"/>gittas meas pessimas, quae mortiferae erunt, ut dispergam eos. Et Hier. 2. Sagit 
+          <lb ed="#B1" n="7"/>ta eius quasi uiri interfectores non reuertetur uacua.
+        </p>
+        <p xml:id="rhwis-l66-d1e345">
+          <lb ed="#B1" n="8"/>Mouetur quaestio. 
+          <lb ed="#B1" n="9"/>Vtrum licitum sit &amp; meritorium alicui Christiano, aliquem infidelem, sicut  
+          <lb ed="#B1" n="10"/>paganum inuadendo per uim occidere.
+        </p>
+        <p xml:id="rhwis-l66-d1e355">
+          Quod non: quia DEVS non uult  
+          <lb ed="#B1" n="11"/>mortem peccatoris, sed utconuertatur &amp; uiuat. Sed post mortem corporis ne 
+          <lb ed="#B1" n="12"/>quiuit conuerti, nisi corpus esset miraculose restitutum &amp; resuscitatum. Ergo 
+          <lb ed="#B1" n="13"/>talem morti tradere non est consonum diuinae bonitati.
+        </p>
+        <p xml:id="rhwis-l66-d1e364">
+          Item non licet eos occi 
+          <lb ed="#B1" n="14"/>dere, pro quibus tenetur Ecclesia orare specialiter: sed Ecclesia in die Parasce 
+          <lb ed="#B1" n="15"/>ues specialiter pro talibus orat: Ergo non licet eos occidere.
+        </p>
+        <p xml:id="rhwis-l66-d1e371">
+          Item, DEVS est 
+          <lb ed="#B1" n="16"/>nunc ita misericors, sicut fuit tempore suae passionis, &amp; pagani non delinquunt  
+          <lb ed="#B1" n="17"/>contra DEVM, nec deliquerit plus quam ludaei, qui eum morti tradiderunt. Sed  
+          <lb ed="#B1" n="18"/>DEVS filius pro illis Patrem exorauit: &amp; Petrum, quia unum ex his percussit, incre 
+          <lb ed="#B1" n="19"/>pauit, uel saltem eum a tali facto cessare uoluit, dicens: Omnis qui gladio per 
+          <lb ed="#B1" n="20"/>cutit, gladio peribit. Et loquebatur ibi de gladio materiali. Ergo non licet gla 
+          <lb ed="#B1" n="21"/>dio materiali contra tales pugnare: sed tantum gladio spirituali, qui est uerbum 
+          <lb ed="#B1" n="22"/>DEI.
+        </p>
+        <p xml:id="rhwis-l66-d1e389">
+          Item Aristot. in quadam epistola ad Alexan. sic dicit: O Alexander, Noli 
+          <lb ed="#B1" n="23"/>fanguinem effundere: quia quotiens creatura creaturam occidit, uirtutes coelo 
+          <lb ed="#B1" n="24"/>rum mouentur ad diuinam uindictam.
+        </p>
+        <p xml:id="rhwis-l66-d1e396">
+          Item <ref xml:id="rhwis-l66-Rd1e398">ad Hebr. 11.</ref> <quote xml:id="rhwis-l66-Qd1e401" source="http://scta.info/resource/hebr10_30">Mihi uindictam &amp; 
+          <lb ed="#B1" n="25"/>ego retribuam</quote>.
+        </p>
+        <p xml:id="rhwis-l66-d1e407">
+          Item Deut. 32. Ego occidam, &amp; ego uiuere faciam.
+        </p>
+        <p xml:id="rhwis-l66-d1e411">
+          Item malum 
+          <lb ed="#B1" n="26"/>Christianum, qui contra omnia DEI praecepta est transgressus, non licet occi 
+          <lb ed="#B1" n="27"/>dere. Sed talis est proditor contra DEVM, &amp; per consequens meruit offensam 
+          <lb ed="#B1" n="28"/>DEI, plus quam unus paganus qui se sectae nostrae nunquam obligando restrin 
+          <lb ed="#B1" n="29"/>xit.
+        </p>
+        <p xml:id="rhwis-l66-d1e422">
+          Item tales credere non possunt, nisi DEVS auferat sua pietate uelamemn a cor 
+          <lb ed="#B1" n="30"/>dibus eorum quo uelati sunt, ne lumen ueritatis participent. Sed hoc non est in 
+          <lb ed="#B1" n="31"/>potestate eorum. Iterum forte multi eorum sunt, qui si haberent instructorem in fide, 
+          <lb ed="#B1" n="32"/>uellent credere. Cum ergo non sit in potestate talium pauperum, quod tales instructo 
+          <lb ed="#B1" n="33"/>res habeant propter potestatem principum suorum. Videtur que talium error est eis  
+          <lb ed="#B1" n="34"/>inuincibilis. Vnde, ut uidetur propter talem errorem non licet eos occidere.
+        </p>
+        <p xml:id="rhwis-l66-d1e435">
+          <lb ed="#B1" n="35"/>Item omnis effectus est bonus propter bonum finem. Sed finis ibi principaliter  
+          <lb ed="#B1" n="36"/>intentus, est eorum conuersio ad fidem nostram. Sed ad hoc faciendum, non 
+          <lb ed="#B1" n="37"/>possunt cogi: quia nemo accedit ad DEVM nisi per fidem: sed credere non po 
+          <lb ed="#B1" n="38"/>test quis nisi uolens: Ergo, &amp;c 
+        </p>
+        <p xml:id="rhwis-l66-d1e446">
+          <lb ed="#B1" n="39"/>Ad oppositum. Isti pagani ui &amp; armis iniuste occupant terram repromissio  
+          <lb ed="#B1" n="40"/>nis, quae terra a DEO promittebatur Abrahae &amp; semini eius. Cuius ex fide nos 
+          <lb ed="#B1" n="41"/>sumus Filij specialiter ratione baptismi, qui respondet circuncisioni in lege Moy  
+          <lb ed="#B1" n="42"/>sis. Ergo licitum est cum talibus armis, scilicet materialibus, iuste, omni nisu pro 
+          <lb ed="#B1" n="43"/>patria, nobis promissa, pugnare: cum armis ipsi iniuste nituntur contra nos re 
+          <lb ed="#B1" n="44"/>sistere: quia licitum est pro patria pugnare, &amp; uim vi repellere cum moderami 
+          <lb ed="#B1" n="45"/>ne saltem inculpatae tutelae, &amp; sic iniustam occupationem nostrae patriae expel 
+          <lb ed="#B1" n="46"/>lere. Vel si credere non uoluerit, eum inuadendo morti tradere, in quo casu, qui  
+          <lb ed="#B1" n="47"/>sic iniuste resistit, uidetur esse causa suae mortis. Exemplum de adultero, spon 
+          <lb ed="#B1" n="48"/>sam alicuius mariti in domo eiusdem mariti occupante, &amp; ipsi marito ui &amp; ar 
+          <lb ed="#B1" n="49"/>mis resistente, &amp; fugere non uolente. In quo casu si maritus adulterum occi 
+          <lb ed="#B1" n="50"/>dit, non uidetur esse reus mortis. Item talis effectus est licitus respectu cuius 
+          <lb ed="#B1" n="51"/>uotum est licitum. Sed uotum respectu talis effectus, qui est in inimicos cru 
+          <lb ed="#B1" n="52"/>cis CHRISTI occidere est licitum secundum Ecclesiam militantem. Ergo ta 
+          <lb ed="#B1" n="53"/>lis effectus est licitus. Item ille effectus non uidetur illicitus pro quo a summo 
+          <!--sap_Page_268.xml-->
+          <pb ed="#B1" n="234"/>
+          <lb ed="#B1" n="1"/>Pontifice plenissimae indulgentiae: sicuti a culpa &amp; poena conceduntur. Sed con 
+          <lb ed="#B1" n="2"/>tra paganos pugnaturis a summo Pontifice indulgentiae conceduntur. Ergo 
+          <lb ed="#B1" n="3"/>contra eos pugnare est licitum &amp; meritorium. Item ad eos expugnandum taxantur  
+          <lb ed="#B1" n="4"/>Ecclesiae Anglicanae, hoc uolente summo Pontifice. Ergo uidetur rectoribus 
+          <lb ed="#B1" n="5"/>Ecclesiarum Angliae esse obediendum: &amp; hoc iuste in hac parte: quia omnia sua 
+          <lb ed="#B1" n="6"/>sunt. Cum ergo ipse colligat principaliter, propter talem finem, uidetur quod  
+          <lb ed="#B1" n="7"/>ipse finis sit licitus.
+        </p>
+        <p xml:id="rhwis-l66-d1e501">
+          <lb ed="#B1" n="8"/>Ad quaestionem dicendum est, Quod sic. Tamen inter infideles distinctio 
+          <lb ed="#B1" n="9"/>est. Sunt enim aliqui infideles subiecti Ecclesiae &amp; confoederati fidelibus, sicuti  
+          <lb ed="#B1" n="10"/>serui dominis suis, ut ab eis regantur &amp; protegantur. Alij sunt infideles &amp; re 
+          <lb ed="#B1" n="11"/>belles Ecclesiae persequutores Christianorum, &amp; insultantes doctrinae Christia 
+          <lb ed="#B1" n="12"/>nae. Secundo, distinguendum est de inuasione. Quia uel aliqua priuata perso 
+          <lb ed="#B1" n="13"/>na hoc praesumit sine autoritate Ecclesiae. Tertio est notandum, quod infide 
+          <lb ed="#B1" n="14"/>lium uariae sunt sectae. Sunt enim quidam gentilis siue pagani, qui nullam le 
+          <lb ed="#B1" n="15"/>gem habent, nisi forte legem naturae. Sunt etiam Sarraceni, sunt ludaei, sunt ido 
+          <lb ed="#B1" n="16"/>lolatriae, sunt haeretici. Isti autem ad fidem CHRISTI sese diuersimode habent.  
+          <lb ed="#B1" n="17"/>Nam haeretici compelli debent ad fidem quam susceperunt. Sarraceni sunt tales, 
+          <lb ed="#B1" n="18"/>qui praedicatores fidei non admituunt: imo in eorum lege cautum est: quod quicumque  
+          <lb ed="#B1" n="19"/>praedicauerit contra legem Mahometi, occidatur. Et ideo de eis non est spes con 
+          <lb ed="#B1" n="20"/>uersionis: Cum <quote xml:id="rhwis-l66-Qd1e531" source="http://scta.info/resource/rom10_17">fides sic ex auditu: auditus aut per uerbum DEI</quote>. <ref xml:id="rhwis-l66-Rd1e534">Ad Rom. 10.</ref> 
+          <lb ed="#B1" n="21"/>Non enim possibile est docere uitam CHRISTI, nisi destruendo &amp; reproban 
+          <lb ed="#B1" n="22"/>do legem Mahometi. Vnde isti praebent sibiipsis obstaculum salutis loquendo 
+          <lb ed="#B1" n="23"/>de infidelibus alligatis Christianis, ut permittantur &amp; protegantur. Si tamen 
+          <lb ed="#B1" n="24"/>aliqui sunt tales, no est licitum nec meritorium tales inuadere ui &amp; armis, cum 
+          <lb ed="#B1" n="25"/>sit contra foedus initum, &amp; pacem eis concessam. Exemplum de Gabaonitis, 
+          <lb ed="#B1" n="26"/>Iosua 9. legimus: Quia principes populi Israelis licet decepti per dolum Ga 
+          <lb ed="#B1" n="27"/>baonitarum: quia tunc iurauerunt eis, quod eos non interficerent: permiserunt  
+          <lb ed="#B1" n="28"/>eos uiuere, &amp; eis seruitutem indixerunt. Sicut sequitur ibidem: Reseruentur qui  
+          <lb ed="#B1" n="29"/>dem &amp; uiuent ne contra nos ira Domini concitetur, si peierauimus: sed sic ui  
+          <lb ed="#B1" n="30"/>uant ut in usus uniuersae multitudinis ligna caedant, aquasque comportet, &amp;c 
+          <lb ed="#B1" n="31"/>Sic a multo fortiori. Si aliqui fideles licite promiserunt paganis tuitionem &amp; 
+          <lb ed="#B1" n="32"/>dominium, qui uolunt conuiuere sine contumelia Creatoris, &amp; maxime si sint 
+          <lb ed="#B1" n="33"/>in spe de conuersione eorum, non licet tales interficere. Sed hoc est per accidens 
+          <lb ed="#B1" n="34"/>Secundo, de alijs infidelibus rebellibus Ecclesiae, &amp; persecutoribus fidei 
+          <lb ed="#B1" n="35"/>Christianae, cuiuscunque fuerint conditionis, licitum est Christiano, praeuenien 
+          <lb ed="#B1" n="36"/>te autoritate Ecclesiae, ui &amp; armis inuadere eos, spoliare &amp; interficere, &amp; eorum 
+          <lb ed="#B1" n="37"/>bona fidelibus applicare. Exceptis duntaxat ludaeis, de quibus aestimo, quod  
+          <lb ed="#B1" n="38"/>eos occidere non esset licitum: quia Ecclesia permittit eos uiuere, praecipue: quia 
+          <lb ed="#B1" n="39"/>cum introierit plenitudo gentium reliquiae eorum conuertentur ad fidem. Sicut  
+          <lb ed="#B1" n="40"/>dicit Apostolus Rom. 11. Praedicante Enoch &amp; Helia secundum glos. &amp; Esaiae 
+          <lb ed="#B1" n="41"/>10. Reliquiae Israel saluae fient. Vnde de eorum conuersione spes est propter 
+          <lb ed="#B1" n="42"/>prophetiam. Et ideo non debent omnino deleri. Vnde dicitur 20. quaest. 8. Di  
+          <lb ed="#B1" n="43"/>spar. Dispar enim est Iudaeorum &amp; Sarracenorum causa. In illos enim, qui Chri 
+          <lb ed="#B1" n="44"/>stianos persequuntur, &amp; ex urbibus &amp; proprijs sedibus pellunt, iuste pugna 
+          <lb ed="#B1" n="45"/>tur: hi uero ubique seruire parati sunt.
+        </p>
+        <p xml:id="rhwis-l66-d1e592">
+          <lb ed="#B1" n="46"/>Quod autem contra Sarracenos &amp; alios infideles liceat autoritatem Ecclesiae 
+          <lb ed="#B1" n="47"/>suffragante bellare, persuadetur multipliciter. Primo sic: Licet fidelibus bona eis  
+          <lb ed="#B1" n="48"/>debita, &amp; ab alijs iniuste detenta bellando recuperare. Sed Sarraceni &amp; alij infi 
+          <lb ed="#B1" n="49"/>deles terras occupant, &amp; alia bona, quae fidelibus sunt debita. Ergo, &amp;c. Maior de 
+          <lb ed="#B1" n="50"/>se patet, &amp; ratione &amp; consuetudine approbatur. Minor ostenditur. Nam Sarraceni 
+          <lb ed="#B1" n="51"/>occupant terram sanctam, &amp; quaedam alia loca, olim a Christianis iuste pos  
+          <lb ed="#B1" n="52"/>sessa. Item de iure diuino, omnia bona temporalia sunt iustorum: Ergo iniusti quic 
+          <lb ed="#B1" n="53"/>quid occupant, iniuste occupant. Ergo bona iniustorum sunt iustis debita. Sed 
+          <!--sap_Page_269.xml-->
+          <pb ed="#B1" n="235"/>
+          <lb ed="#B1" n="1"/>licet iustis illud quod est eis debitum, perquirere bellando. Ergo licet iniu 
+          <lb ed="#B1" n="2"/>stos &amp; infideles si nolint conuerti, occidere. Item sicut in corpore naturali licet  
+          <lb ed="#B1" n="3"/>&amp; expedit membrum putridum abscindere, ne membra reliqua seu partes sanae 
+          <lb ed="#B1" n="4"/>corrumpantur. Ita in corpore CHRISTI mystico quod est genus humanum, a 
+          <lb ed="#B1" n="5"/>CHRISTO redemptum. Ergo rebelles &amp; infideles Christianorum corrupto  
+          <lb ed="#B1" n="6"/>res licet occidere. Et meritorium est pro loco &amp; tempore, imo peccatum est dis  
+          <lb ed="#B1" n="7"/>simulare, nisi per accidens: impotentia uel damnum aliud impediret. Item lici 
+          <lb ed="#B1" n="8"/>tum est per timorem inducere charitatem: quia timor seruilis parat uiam cha 
+          <lb ed="#B1" n="9"/>ritati secundum August. Sed quibusdam interfectis, quibusdam captiuatis re 
+          <lb ed="#B1" n="10"/>sidui timebunt, &amp; forsitan ex timore concipient charitatem, &amp; ita conuerten 
+          <lb ed="#B1" n="11"/>tur ad fidem. Item homo per peccatum peior efficitur, quam bestia. Sed pro 
+          <lb ed="#B1" n="12"/>pter bonum Reipublicae licet bestias interficere: Ergo &amp; malos peccatores:  
+          <lb ed="#B1" n="13"/>Exodi 22. Maleficos non patieris uiuere. Helias homines occidit, Dauid, Sa 
+          <lb ed="#B1" n="14"/>muel. 33: quaest. 4. Si ea Ethi. q. 6. Scismatici
+        </p>
+        <p xml:id="rhwis-l66-d1e648">
+          <lb ed="#B1" n="15"/>Ad rationes in oppositum. Autoritas intelligitur de morte poenae aeternae, 
+          <lb ed="#B1" n="16"/>quam DEVS non uult peccatori absolute, sed tantum sub conditione, si non 
+          <lb ed="#B1" n="17"/>poeniteat. Et ista stant simul: Nolo sortem suspendi, &amp; tamen uolo sortem su 
+          <lb ed="#B1" n="18"/>pendi, si est latro. Eodem modo, qui infideles expugnant, non debent eorum 
+          <lb ed="#B1" n="19"/>mortem per se, &amp; principaliter, &amp; directe intendere, sed per accidens, secunda 
+          <lb ed="#B1" n="20"/>rio &amp; indirecte: quia principaliter debent uelle eorum conuersionem ad fidem: 
+          <lb ed="#B1" n="21"/>&amp; secundario eorum mortem, si uelint in eorum malicia perseuerare, &amp; sic se 
+          <lb ed="#B1" n="22"/>conformabunt diuinae uoluntati.
+        </p>
+        <p xml:id="rhwis-l66-d1e668">
+          <lb ed="#B1" n="23"/>Ad secundum, quod Ecclesia optat quod fiant iusti, &amp; ideo pro eis orat: sed  
+          <lb ed="#B1" n="24"/>si nolint, uult eorum maliciam abbreuiare per mortem.
+        </p>
+        <p xml:id="rhwis-l66-d1e675">
+          <lb ed="#B1" n="25"/>Ad tertium, quid sit accipere gladium, exponit August. uidelicet autorita 
+          <lb ed="#B1" n="26"/>te priuata sine superioris iudicio, iubente uel permittente. Vnde dicit libro 
+          <lb ed="#B1" n="27"/>secundo contra Manichaeos, &amp; ponitur in Canone 23. quaest. 4. Ille gladium, 
+          <lb ed="#B1" n="28"/>Ille (inquit) gladium accipit, qui nulla superiori ac legitima potestate, uel iu 
+          <lb ed="#B1" n="29"/>bente uel concedente, in sanguinem alicuius armatur. Dicendum a principio  
+          <lb ed="#B1" n="30"/>argumenti, concedendo, quod DEVS est ita misericors, sicut unquam fuit:  
+          <lb ed="#B1" n="31"/>hoc est, potens facere misericordiam, ita uolens, si homines se uniformiter dis  
+          <lb ed="#B1" n="32"/>ponant. Et quod increpauit Petrum de extractione gladij, fuit propter circum 
+          <lb ed="#B1" n="33"/>stantiam temporis suae passionis: quia tunc non fuit tempus utendi armis &amp;  
+          <lb ed="#B1" n="34"/>gladio materiali. Vnde factum Petri reprobatum non fuit propter substan 
+          <lb ed="#B1" n="35"/>tiam facti, quod nullus possit gladio materiali uti iuste, sed propter circum 
+          <lb ed="#B1" n="36"/>stantiam temporis
+        </p>
+        <p xml:id="rhwis-l66-d1e704">
+          <lb ed="#B1" n="37"/>Ad quartum, de dicto Arist. ad Alexandrum: Noli sanguinem effundere, 
+          <lb ed="#B1" n="38"/>debet sic intelligi. Noli delectari in effusione sanguinis: sicut quidam peruer 
+          <lb ed="#B1" n="39"/>sae complexionis, &amp; crudelitate assueti, delectantur effundere sanguinem siue 
+          <lb ed="#B1" n="40"/>iuste siue iniuste. Sed Christianus debet effundere sanguinem delectando de 
+          <lb ed="#B1" n="41"/>fine, quem intendit in effundendo, non de ipsa occisione per se
+        </p>
+        <p xml:id="rhwis-l66-d1e717">
+          <lb ed="#B1" n="42"/>Ad quintum de illis uerbis Domini Deut. 32. Mea est ultio, &amp;c. Quae auto  
+          <lb ed="#B1" n="43"/>ritas allegatur <ref xml:id="rhwis-l66-Rd1e723">ad. Hebrae. 10.</ref> sub his uerbis: <quote xml:id="rhwis-l66-Qd1e726" source="http://scta.info/resource/hebr10_30">Mihi uindictam, &amp; ego retri 
+          <lb ed="#B1" n="44"/>buam</quote>. Dicendum quod DEVS retribuit uindictam aliquando per seipsum, 
+          <lb ed="#B1" n="45"/>aliquando per sibi seruientes.
+        </p>
+        <p xml:id="rhwis-l66-d1e734">
+          <lb ed="#B1" n="46"/>Ad sextum, quando arguitur de malo Christiano, quem nullo modo licet  
+          <lb ed="#B1" n="47"/>occidere, sicut allegatur, negandum est: Patet in latronibus, proditoribus, hae 
+          <lb ed="#B1" n="48"/>reticis, &amp; multis alijs, sicut tota die uidemus. Sed uerum est, quod hoc non li  
+          <lb ed="#B1" n="49"/>cet cuicunque personae, sed ministris legis &amp; autoritate principis siue legis.
+        </p>
+        <p xml:id="rhwis-l66-d1e746">
+          <lb ed="#B1" n="50"/>Ad septimum, quando arguitur quod tales non possunt credere nisi DEVS 
+          <lb ed="#B1" n="51"/>ex sua pietate &amp; cocedendum est. Sed DEUS paratus est auferre, quandocunque 
+          <lb ed="#B1" n="52"/>uolunt se disponere. Et ideo illud velamen erit in eorum pietate. Illo modo loquen  
+          <lb ed="#B1" n="53"/>di quo dicimus, quod hoc possumus, quod per amicos possumus. Et isto modo lo 
+          <!--sap_Page_270.xml-->
+          <pb ed="#B1" n="236"/>
+          <lb ed="#B1" n="1"/>quendi, quo dicimus: Quando habemus oculos clausos, sole lucente, quod  
+          <lb ed="#B1" n="2"/>possumus uidere, quanuis ad uidendum Solis lumen requiratur apertio oculorum.
+        </p>
+        <p xml:id="rhwis-l66-d1e766">
+          <lb ed="#B1" n="3"/>Ad octauum dicendum: quod si qui sint inter eos, qui uellent credere, sicut  
+          <lb ed="#B1" n="4"/>argumentum allegat, siue uiuant, siue moriantur, DEVS eos saluabit, quamuis  
+          <lb ed="#B1" n="5"/>de DEO fidem applicatam non habent, nec baptismum fluminis, nec sangui  
+          <lb ed="#B1" n="6"/>nis. Consimiliter dicitur de quibusdam hominibus ubicunque terrarum com 
+          <lb ed="#B1" n="7"/>morantibus, qui bene lege naturae utuntur, DEVS de salute ipsis prouidebit,  
+          <lb ed="#B1" n="8"/>gratiam infundet, si non praebuerint obicem gratiae: &amp; in fine saluabit: quia 
+          <lb ed="#B1" n="9"/>DEVS uirtutem suam sacramentis non alligauit. Vnde concedo quod homo 
+          <lb ed="#B1" n="10"/>nunquam damnabitur adultus, atque ut utens ratione, quem error inuincibilis  
+          <lb ed="#B1" n="11"/>excusat, si in illum errorem incidit sine culpa
+        </p>
+        <p xml:id="rhwis-l66-d1e788">
+          <lb ed="#B1" n="12"/>Ad nonum: quod finis principalis intentus eorum est, salus &amp; conuersio ad  
+          <lb ed="#B1" n="13"/>fidem. Sed finis secundarius est extirpatio. Vnde si uoluerint credere non interfi 
+          <lb ed="#B1" n="14"/>cientur. Sic finis principaliter intentus medico, est sanare, si possit pedem putridum 
+          <lb ed="#B1" n="15"/>Et secundo intendit, si hoc non possit, pedem abscindere. Et quando dicitur quod non 
+          <lb ed="#B1" n="16"/>sint cogendi ad fidem. Dicendum proprie loquendo non possunt cogi ad fidem: 
+          <lb ed="#B1" n="17"/>possunt tamen cogi desistere a blasphemijs, &amp; alijs erroribus: possunt etiam cogi 
+          <lb ed="#B1" n="18"/>ad quasdam dispositiones praeuias fidei. Similiter cum bellatoribus debent prae 
+          <lb ed="#B1" n="19"/>dicatores assistere, ut ex una parte alliciantur, &amp; si assentire noluerint, feriantur.  
+          <lb ed="#B1" n="20"/>Quia dictum est respondendo ad tertium argumentum, quod Petrus gla 
+          <lb ed="#B1" n="21"/>dium extraxit tempore passionis CHRISTI, dubium esse potest, an ipse pecca 
+          <lb ed="#B1" n="22"/>uerit hoc faciendo. Quod non. Quia ex amore CHHISTI hoc fecit. Vnde Hie 
+          <lb ed="#B1" n="23"/>ron. Petrus fecit hoc eodem mentis ardore, quo &amp; caetera. Rabanus etiam in hoc 
+          <lb ed="#B1" n="24"/>facto comparat eum Phinees. Sciebat enim quod Phinees puniendo sacrile 
+          <lb ed="#B1" n="25"/>gos, mercedem iusticiae &amp; sacerdotij perennis acceperat.
+        </p>
+        <p xml:id="rhwis-l66-d1e821">
+          <lb ed="#B1" n="26"/>Sed ad oppositum est, quod Dominus eum super facto increpauit: Ergo 
+          <lb ed="#B1" n="27"/>peccauit. Et praeterea nec iudex fuit, nec a iudice auctoritatem habuit: Ergo pu 
+          <lb ed="#B1" n="28"/>niendo licet peccatorem, errauit. Dicendum est quod peccauit, excusatur tamen in 
+          <lb ed="#B1" n="29"/>parte propter zelum quo fecit. Sicut Moyses qui Aegyptium occidit, Exodi se 
+          <lb ed="#B1" n="30"/>cundo. Iste enim zelauit pro Domino suo, Moyses pro fratre suo. Et ideo 
+          <lb ed="#B1" n="31"/>si Moyses propter zelum, quem habuit ad fratrem, est excusabilis aliquo modo, de 
+          <lb ed="#B1" n="32"/>homicidio Aegyptij, sine autoritate legis commisso multo fortius Petrus, qui  
+          <lb ed="#B1" n="33"/>ductus zelo Domini sui, quem sciebat esse DEVM, excusandus est. Vnde Aug. 
+          <lb ed="#B1" n="34"/>22. contra Faustum Manichaeum, de Moyse &amp; Petro in hoc casu loquens, ait:  
+          <lb ed="#B1" n="35"/>Vterque non detestabili immanitate, &amp; non emendabili animositate iusticiae re 
+          <lb ed="#B1" n="36"/>gulam excessit: uterque enim odio improbitatis alienae: sed ille fraterno, ille do 
+          <lb ed="#B1" n="37"/>minico, licet adhuc carnali amore peccauit. Haec August.
+        </p>
+        <p xml:id="rhwis-l66-d1e850">
+          <lb ed="#B1" n="38"/>Ad primum dicendum, quod amor ille fuit carnalis, &amp; ideo Petrum non 
+          <lb ed="#B1" n="39"/>excusauit. Eodem enim amore motus dissuasit CHRISTO alias, ne pateretur:  
+          <lb ed="#B1" n="40"/>propterquod Dominus eum increpando Sathanam appellauit, Matth. 16. Ad  
+          <lb ed="#B1" n="41"/>secundum dicendum de dicto Rabani. Non similis fuit Phinees zelo discreto, 
+          <lb ed="#B1" n="42"/>Petrus zelo impetuoso, maxime in praesentia Magistri, sine cuius imperio ni 
+          <lb ed="#B1" n="43"/>hil debebat fecisse. Similiter Phinees fuit facerdos, ad quem portinebat punitio  
+          <lb ed="#B1" n="44"/>peccatorum in ueteri lege. Et similiter Matathias qui trucidauit idololatram  
+          <lb ed="#B1" n="45"/>super aram, 1. Mach. 2. Sed contra adhuc in excusationem Petri arguitur  
+          <lb ed="#B1" n="46"/>quod CHRISTVS praeceperat antea, quod qui non haberet gladium, uen 
+          <lb ed="#B1" n="47"/>dendo tunicam emeret gladium. Et responderunt quod duos haberent in 
+          <lb ed="#B1" n="48"/>promptu. Et dicit CHRISTVS: Sufficit. Ad istud respondet August. 12. 
+          <lb ed="#B1" n="49"/>contra Faustum Manichaeum: Vtique Dominus iusserat, ut ferrum discipuli eius fer 
+          <lb ed="#B1" n="50"/>rent: sed non iusserat, ut ferirent: quia nec adhoc ferre praecepit, nec erant qui gladijs  
+          <lb ed="#B1" n="51"/>uti potuissent: nec usque tunc de emendis gladijs praeceptum dedisset: quia se 
+          <lb ed="#B1" n="52"/>cundum Lucam, iussit hoc post coenam, quando iam opportune emi non pos  
+          <lb ed="#B1" n="53"/>sent. Sed uoluit per illud verbum ostendere, quod tempus suae passionis imminebat,  
+          <!--sap_Page_271.xml-->
+          <pb ed="#B1" n="237"/>
+          <lb ed="#B1" n="1"/>ubi gladiorum fuisset necessitas, si se defendere uoluisset, sicuti noluit.
+        </p>
+        <p xml:id="rhwis-l66-d1e894">
+          <lb ed="#B1" n="2"/>Ad literam dici potest, quod quidam de discipulis, qui magis animosi fuerunt: 
+          <lb ed="#B1" n="3"/>ficuti Petrus: cum frequenter audissent, quod tradendus erat in manus pecca 
+          <lb ed="#B1" n="4"/>torum, de gladijs sibi prouiderunt, ut si forte opus esset, Magistrum suum defen 
+          <lb ed="#B1" n="5"/>derent. Modo CHRISTVS hoc noluit: &amp; ideo Petrus gladio percutiens, pec 
+          <lb ed="#B1" n="6"/>cauit: quia uoluntatem Domini sui non inquisiuit. Et ideo licet excusetur ali  
+          <lb ed="#B1" n="7"/>quo modo, uidelicet inquantum fecit hoc propter zelum magni amoris, quem 
+          <lb ed="#B1" n="8"/>habebat ad Magistrum suum Dommum nostrum IESVM CHRISTVM: tamen 
+          <lb ed="#B1" n="9"/>non excusatur a toto, imo secundum doctores ipse peccauit. Et sicut docet Aug. 
+          <lb ed="#B1" n="10"/>lib. praeallegato: Istud fuit signum probitatis futurae in Petro, &amp; magni eius zeli 
+          <lb ed="#B1" n="11"/>pro Ecclesia, licet zelus fuerit indiscretus. Sed si pro excusatione beati Petri 
+          <lb ed="#B1" n="12"/>adhuc replicaretur, quod licentiam postulauit dicens, Domine: Si percutimus 
+          <lb ed="#B1" n="13"/>in gladio: Lucae 22. Dicatur, quod propter zeli impetuositatem non expecta 
+          <lb ed="#B1" n="14"/>uit licentiam. Nam non semper sufficit petita non obtenta licentia.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

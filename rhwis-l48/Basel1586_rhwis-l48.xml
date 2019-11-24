@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 48 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 48 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="170"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l48">
+        <p xml:id="rhwis-l48-d1e95">
+          <lb ed="#B1" n="20"/>Vo declarata sunt superius de iniustis in fine tertij Capituli. Primum 
+          <lb ed="#B1" n="21"/>est, quod si contingat eos diu uiuere, carebunt nihilominus sene 
+          <lb ed="#B1" n="22"/>ctutis honore. Secundum est, quod si contingat eos in iuuentute 
+          <lb ed="#B1" n="23"/>mori celeriter, mors illorum erit in aeterno dolore. Vt ergo appa 
+          <lb ed="#B1" n="24"/>reat praerogatiua iusticiae contra miseriam culpae. In ista parte osten 
+          <lb ed="#B1" n="25"/>dit quod iustis &amp; sanctis conuenient duo contraria duorum praedictorum: ita 
+          <lb ed="#B1" n="26"/>scilicet quod si moriuntur iuuenes, liberabuntur a dolore &amp; paruo tempore non 
+          <lb ed="#B1" n="27"/>obstante, digni habentur senectute &amp; honore, etiamsi uiuant modico tempo 
+          <lb ed="#B1" n="28"/>re: dummodo tamen iuste &amp; uirtuose uiuant. Et circa istud duo facit. Primo 
+          <lb ed="#B1" n="29"/>ostendit qualiter iusti liberabuntur in iudicio particulari in morte. Secundo 
+          <lb ed="#B1" n="30"/>quomodo malos accusabunt &amp; conuincent in iudicio generali, in communi 
+          <lb ed="#B1" n="31"/>resurrectione in fine capituli: Venient in cogitatione. Circa primum duo facit. 
+          <lb ed="#B1" n="32"/>Primo ostendit quod mors iusti in iuuentute non arguit, quod DEVS talem  
+          <lb ed="#B1" n="33"/>iuuenem non diligat. Secundo assignat unam causam, quare DEVS hoc fie 
+          <lb ed="#B1" n="34"/>ri permittit. Secunda pars ibi: Placens DEO. Circa primum duo facit: quia pri 
+          <lb ed="#B1" n="35"/>mo ostendit quod iustus in iuuentute moriens, lucratur aeternam haeredita 
+          <lb ed="#B1" n="36"/>tem. Secundo quod propter defectum aetatis non perdit uirtutis felicitatem, 
+          <lb ed="#B1" n="37"/>ibi: Senectus enim.
+        </p>
+        <p xml:id="rhwis-l48-d1e137">
+          <lb ed="#B1" n="38"/>Circa primum dicit sic: Iustus autem si morte praeoccupatus fuerit, in refrigerio erit. 
+          <lb ed="#B1" n="39"/>Inter errores contentos in opinione impiorum posita, in secundo capitulo dis  
+          <lb ed="#B1" n="40"/>fuse: istud fuit unum: quod nulla merces tribuitur iustis post hanc uitam, unde 
+          <lb ed="#B1" n="41"/>dixerunt: Non est refrigerium in fine hominis. Et ideo Spiritus sanctus affirmat  
+          <lb ed="#B1" n="42"/>oppositum contra istos, dicens, quod quomodocunque moriatur iustus in refri 
+          <lb ed="#B1" n="43"/>gerio erit. Et ratio est, quia sicut mali habent refrigerium in praesenti, &amp; ideo ha 
+          <lb ed="#B1" n="44"/>bebunt ardorem caloris in futuro: ita iusti qui sunt modo positi in camino tri 
+          <lb ed="#B1" n="45"/>bulationis, erunt postea in refrigerio. Vnde possunt dicere illud Psal. Transi 
+          <lb ed="#B1" n="46"/>uimus per ignem &amp; aquam, &amp; induxisti nos in refrigerium. Per ignem tentationis, in 
+          <lb ed="#B1" n="47"/>Psal. Igne me examinasti, &amp; non est inuenta in me iniquitas, &amp; aquam tribulatio  
+          <lb ed="#B1" n="48"/>num, in Psal. Saluum me fac DEVS: quoniam intrauerunt aquae usque ad animam meam. 
+          <!--sap_Page_205.xml-->
+          <pb ed="#B1" n="171"/>
+          <lb ed="#B1" n="1"/>Sed per contrarium iniusti &amp; reprobi qui modo sunt in delicijs, tunc ponen 
+          <lb ed="#B1" n="2"/>tur in stagno ignis &amp; sulphuris, Iob. 24. Ad nimium calorem transiet ab aquis ni 
+          <lb ed="#B1" n="3"/>uium &amp; usqe ad inferos peccatum illius. Exemplum istius iustae tribulationis de 
+          <lb ed="#B1" n="4"/>diuite &amp; Laxaro, Lucae 16. Diues enim in tormentis cruciatus dixit: Pater A 
+          <lb ed="#B1" n="5"/>braham mitte Laxarum ut intingat extremum digiti sui, ut refrigeret linguam 
+          <lb ed="#B1" n="6"/>meam. Et ideo iuxta consilium prophetae Hiere. 6. State super uias &amp; uidete,  
+          <lb ed="#B1" n="7"/>&amp; interrogate de semitis antiquis, quae sit uia bona, &amp; ambulate in ea &amp; inue 
+          <lb ed="#B1" n="8"/>nietis refrigerium animabus uestris. Iustus ergo iusticia generali, si praeoccupa 
+          <lb ed="#B1" n="9"/>tus fuerit in morte: id est, ante maturam aetatem mortuus fuerit, in iuuentute, uel  
+          <lb ed="#B1" n="10"/>media aetate, nihilominus in refrigerio erit.
+        </p>
+        <p xml:id="rhwis-l48-d1e189">
+          <lb ed="#B1" n="11"/>Legitur de quodam uiro literato, quod mortuus inuentus fuerit, sedens in 
+          <lb ed="#B1" n="12"/>ter libros suos in cathedra, &amp; habens in gremio suo librum apertum: cumque alij 
+          <lb ed="#B1" n="13"/>compatientes aduenirent, &amp; multum de tam subita morte tristarentur, conside 
+          <lb ed="#B1" n="14"/>rantes diligentius, inuenerunt manum suam iacentem, &amp; indicem extentum 
+          <lb ed="#B1" n="15"/>ad textum huius lectionis: Iustus autem si in morte praeoccupatus fuerit, &amp;c 
+          <lb ed="#B1" n="16"/>Vnde metrice dicitur:  
+          <lb ed="#B1" n="17"/>Mors iusti subita, quam praecessit bona vita 
+          <lb ed="#B1" n="18"/>Non minuit merita si moriatur ita
+          <lb ed="#B1" n="19"/>Vnde licet mors malorum sit mala mors, tamen bonorum est preciosa in 
+          <lb ed="#B1" n="20"/>conspectu Domini. Vnde Bern. in epistola quadam: Bona mors iusti propter 
+          <lb ed="#B1" n="21"/>requiem. Melior propter nouitatem: optima propter securitatem. Econtra 
+          <lb ed="#B1" n="22"/>mors peccatorum mala, siquidem in mundi amissione: peior in carnis separa 
+          <lb ed="#B1" n="23"/>tione: pessima in uermis ignisque duplici contritione. Idem eadem Epistola: 
+          <lb ed="#B1" n="24"/>Preciosa, inquit, mors sanctorum. Preciosa plane tanquam uictoriae consum 
+          <lb ed="#B1" n="25"/>matio: tanquam uitae ianua &amp; securitatis ingressus. Iustus autem si praeoccupatus 
+          <lb ed="#B1" n="26"/>fuerit in morte. Ista praeoccupatio potest dupliciter intelligi. Vno modo, ut  
+          <lb ed="#B1" n="27"/>mors ueniat improuise, secundum quem modum dicimus hominem praeoc 
+          <lb ed="#B1" n="28"/>cupatum, quando aliquis casus euenit, de quo non cogitauit, &amp; de quo sibi 
+          <lb ed="#B1" n="29"/>non praeuidit. Alio modo potest intelligi praeoccupatio, temporis consueti ab  
+          <lb ed="#B1" n="30"/>breuiatio. Primo modo nullus iustus potest praeoccupari: quia eo ipso quod  
+          <lb ed="#B1" n="31"/>iustus est, mortem praemeditatur, &amp; ad mortem disponitur. Vnde <ref xml:id="rhwis-l48-Rd1e236"><name>Seneca</name> de 
+            <lb ed="#B1" n="32"/>Naturalibus quaestionibus lib. 3</ref>. Effice mortem tibi cogitatione familiarem: 
+          <lb ed="#B1" n="33"/>ita ut si sorsitulerit, possis &amp; ei obuiam exire. Secundo modo iustus potest prae 
+          <lb ed="#B1" n="34"/>occupari morte, quando uidelicet moritur in iuuentute uel in media aetate, uel 
+          <lb ed="#B1" n="35"/>quando non putauit. Vnde <ref xml:id="rhwis-l48-Rd1e250"><name>Seneca</name> in 5. Epistola</ref>, quorundam uitam mors in me 
+          <lb ed="#B1" n="36"/>dio flore praescindit, aliorum interrumpit ipsa principia alterius continuata 
+          <lb ed="#B1" n="37"/>Mors somnus est, alius inter coenandum solutus est. Et ideo ista mors continue 
+          <lb ed="#B1" n="38"/>praecogitanda est. Vnde <ref xml:id="rhwis-l48-Rd1e262"><name>Seneca</name> Epistola 25</ref>. Nihil aeque tibi proficiet ad tem 
+          <lb ed="#B1" n="39"/>perantiam omnium rerum quantum frequens cogitatio breuis aeui, &amp; hoc in 
+          <lb ed="#B1" n="40"/>certi. Quidquid ergo facies, respice ad mortem.
+        </p>
+        <p xml:id="rhwis-l48-d1e272">
+          <lb ed="#B1" n="41"/>Dubitatio literalis. Vtrum mors sit poena inflicta pro peccato primi paren 
+          <lb ed="#B1" n="42"/>tis.
+        </p>
+        <p xml:id="rhwis-l48-d1e279">
+          Quod non uidetur: quia omne compositum ex contrarijs naturaliter dissol 
+          <lb ed="#B1" n="43"/>uitur: corpus humanum est huiusmodi: Ergo, &amp;c.
+        </p>
+        <p xml:id="rhwis-l48-d1e285">
+          Praeterea bestiae moriuntur 
+          <lb ed="#B1" n="44"/>quae nunquam peccauerunt: Ergo similiter homines: quia aequalis conditio 
+          <lb ed="#B1" n="45"/>nis uidentur in compositone &amp; in complexione: Ergo in resolutione.
+        </p>
+        <p xml:id="rhwis-l48-d1e292">
+          Praeterea 
+          <lb ed="#B1" n="46"/>qua ratione mors fuisset inflicta pro primo peccato tanquam poena iusta ea 
+          <lb ed="#B1" n="47"/>dem ratione debet modo infligi pro quocunque peccato mortali. Et sic deberet  
+          <lb ed="#B1" n="48"/>homo mori quam cito peccaret.
+        </p>
+        <p xml:id="rhwis-l48-d1e301">
+          <lb ed="#B1" n="49"/>Ad oppositum est <ref xml:id="rhwis-l48-Rd1e305">Aug. 3. de Ciui. DEI, cap. 15</ref>. <quote xml:id="rhwis-l48-Qd1e308" source="http://scta.info/resource/adcd-l13-d1e1852">Constat inter catholicam  
+            <lb ed="#B1" n="50"/>fidem tenentes ipsam nobis corporis mortem non lege naturae esse inflictam: quia 
+            <lb ed="#B1" n="51"/>nullam mortem homini DEVS fecit. Sed merito inflicta est peccatis quando pec 
+            <lb ed="#B1" n="52"/>catum uindicans DEVS dixit homini, in quo tunc omnes eramus, terra es &amp; in 
+            <lb ed="#B1" n="53"/>terram ibis</quote>. Idem <ref xml:id="rhwis-l48-Rd1e319">Dyo. cap. 4. Ecclesiast. Hierarchiae</ref>.
+        </p>
+        <p xml:id="rhwis-l48-d1e323">
+          Ad quaestionem dicendum, quod  
+          <!--sap_Page_206.xml-->
+          <pb ed="#B1" n="172"/>
+          <lb ed="#B1" n="1"/>sic: Fuit enim natura humana creata cum dono originalis iusticiae, per quam anima 
+          <lb ed="#B1" n="2"/>habuit perfectum dominium super corpus, propter quod potuit corpus uiuificare 
+          <lb ed="#B1" n="3"/>&amp; regere sine laesione, uel quacunque infirmitate, &amp; ideo habuit potentiam non 
+          <lb ed="#B1" n="4"/>moriendi. Istud aut dominium fuisset traductum in prolem, unde fuit datum sibi pro 
+          <lb ed="#B1" n="5"/>se &amp; pro suis, quamdiu fuissent DEO subiecti. Quando igitur peccauit, perdidit  
+          <lb ed="#B1" n="6"/>merito istud dominium: &amp; ideo ipso deserente DEVM creatorem suum uoluntarie, 
+          <lb ed="#B1" n="7"/>anima incurrit necessitatem deserendi corpus suumi diffuse declarat Aug. 13. de 
+          <lb ed="#B1" n="8"/>Ciui. DEI, in multis capitulis) &amp; sic de facultate non moriendi incidit libere  
+          <lb ed="#B1" n="9"/>se, &amp; pro suis in necessitatem moriendi. Vnde dicendum quod mors est homini na 
+          <lb ed="#B1" n="10"/>turalis, &amp; tamen poena inflicta: sicut si dominus daret seruo suo origenarie li  
+          <lb ed="#B1" n="11"/>bertatem, &amp; postea propter ingratitudinem suam priuaret eum tali libertate,  
+          <lb ed="#B1" n="12"/>tunc seruitus foret illi &amp; poenalis &amp; naturalis.
+        </p>
+        <p xml:id="rhwis-l48-d1e356">
+          <lb ed="#B1" n="13"/>Ad primum dicendum, quod licet sic componitur homo ex contrarijs, fuisset ta 
+          <lb ed="#B1" n="14"/>men per donum superadditum naturae conseruatus a morte. Vnde uerum est quod  
+          <lb ed="#B1" n="15"/>omnem compositum ex contrarijs corrumpitur naturaliter. Secus tamen sit per donum 
+          <lb ed="#B1" n="16"/>supernaturale: sicut dictum est.
+        </p>
+        <p xml:id="rhwis-l48-d1e367">
+          Ad secundum, bestiae nunquam illud donum habuerunt,  
+          <lb ed="#B1" n="17"/>sicut earum animae nunquam DEO obedire potuerunt, &amp; ideo in eis non est mors 
+          <lb ed="#B1" n="18"/>poena, sed natura. In homine autem licet natura in se considerata sit mortalis, ha 
+          <lb ed="#B1" n="19"/>buit tamen donum quo morte carere potuisset: &amp; ideo in nobis est poena quod in 
+          <lb ed="#B1" n="20"/>eis est natura.
+        </p>
+        <p xml:id="rhwis-l48-d1e379">
+          Ad tertium Seneca dixit, licet de dono originalis iusticiae nihil 
+          <lb ed="#B1" n="21"/>sciret, quantum ad hoc quod dicit, quo mors natura est hominis: id est, consequens  
+          <lb ed="#B1" n="22"/>naturam siue compositonem naturae uerum dicit. Sed quantum ad secundum, falsum dicit:  
+          <lb ed="#B1" n="23"/>quia poena est cum sit ex spoliatione doni praehabiti, ut prius dictum est. Vnde <ref xml:id="rhwis-l48-Rd1e387">Ans  
+            <lb ed="#B1" n="24"/>helmus in Meditationibus suis</ref>: O dure &amp; durior casus. Heu quid perdidit ho 
+          <lb ed="#B1" n="25"/>mo, &amp; quid inuenit homo. Perdidit beatitudinem, ad quam factus est, et inuenit 
+          <lb ed="#B1" n="26"/>mortem, ad quam factus non est. Illo die uenimus a patria ad exilium, a uisione 
+          <lb ed="#B1" n="27"/>in caecitatem, a iocunditate immortalitatis, ad corruptionem mortis. Misera 
+          <lb ed="#B1" n="28"/>conditio, grauis dolor, graue damnum, graue totum.
+        </p>
+        <p xml:id="rhwis-l48-d1e402">
+          <lb ed="#B1" n="29"/>De morte breuiter notandum est: mors debet semper praemeditari: mors non 
+          <lb ed="#B1" n="30"/>potest declinari: mors non debet timide formidari. Primo dico quod mors de 
+          <lb ed="#B1" n="31"/>bet continue praemeditari. Fatuum est facere prouidentiam contra illud quod igno 
+          <lb ed="#B1" n="32"/>ratur futurum: &amp; dimittere prouidentiam contra illud quod scitur necessario fore su 
+          <lb ed="#B1" n="33"/>turum. Fatui sunt qui contra natale CHRISTI modo prouident uestimenta robas 
+          <lb ed="#B1" n="34"/>&amp; cibaria. Et tamen nesciunt an natalicium expectabunt: contra mortem autem nihil 
+          <lb ed="#B1" n="35"/>prouident, quae tamen certissime est futura. Vnde Seneca Epist. quadam: Nullus 
+          <lb ed="#B1" n="36"/>rei meditatio tam certa est: ad caetera enim exercemur fortassis. Superuacuum ad 
+          <lb ed="#B1" n="37"/>uersus paupertatem praeparatus est animus: quia non sunt permansurae diuitiae: 
+          <lb ed="#B1" n="38"/>ad contemptum dolorum nos armamus: quia a nobis nunquam exiget huius 
+          <lb ed="#B1" n="39"/>uirtutis experimentum: Quid est stultius quam fastidiose mori. Et ideo iuxta 
+          <lb ed="#B1" n="40"/>consilium sapientis, Ecclesiast. 13. Memor esto, quoniam mors non tardabit.  
+          <lb ed="#B1" n="41"/>Et certe defectus memoriae &amp; cogitationis facit nos imparatos ante mortem, 
+          <lb ed="#B1" n="42"/>&amp; ad moriendum inexpertos, quando necesse est. Vnde Seneca: Quid est quod  
+          <lb ed="#B1" n="43"/>nos pigros &amp; inertes facit: Et respondet: Nemo nostrum cogitat quando sibi 
+          <lb ed="#B1" n="44"/>ex hoc domicilio migrandum sit.
+        </p>
+        <p xml:id="rhwis-l48-d1e439">
+          <lb ed="#B1" n="45"/>Secundo mors non potest declinari. Vnde notat moraliter <ref xml:id="rhwis-l48-Rd1e443">Aug. 13. de Ci 
+            <lb ed="#B1" n="46"/>ui. 2.</ref> quod istud uerbum morieris, non potest secundum bonam grammaticam decli 
+          <lb ed="#B1" n="47"/>nari, more aliorum uerborum. Dicit enim sic: Non importune neque incongrue ar 
+          <lb ed="#B1" n="48"/>bitror accidisse &amp; sine industria humana. Iudicio forte diuino, ut hoc uerbum 
+          <lb ed="#B1" n="49"/>quod est moritur in Latina lingua nec gramatici declinare potuerunt, ea regula 
+          <lb ed="#B1" n="50"/>qua caetera talia declinantur: nam ab eo quod est oritur fit uerbum praeteriti tem 
+          <lb ed="#B1" n="51"/>poris ortus est. Et si qua sunt similia, quae etiam per praeteriti temporis participia de 
+          <lb ed="#B1" n="52"/>clinantur. Ab eo uere est, quod est moritur. Si quaeramus praeteriti tempo  
+          <lb ed="#B1" n="53"/>ris uerbum, solent respondere mortuus est, ulitera geminata. Sic enim dicitur mor 
+          <!--sap_Page_207.xml-->
+          <pb ed="#B1" n="173"/>
+          <lb ed="#B1" n="1"/>tuus: quomodo fatuus, arduus, carduus, cspicuus, &amp; si quae sunt talia: quando 
+          <lb ed="#B1" n="2"/>non praeteriti temporis, sed quando nomina sunt sine tempore declinantur. Istud  
+          <lb ed="#B1" n="3"/>aut quasi nec declinetur, quod declinari non potest pro participio praesentis tem 
+          <lb ed="#B1" n="4"/>poris, ponitur nomen, conuenienter itaqe factum estut quemadmodum illud quod 
+          <lb ed="#B1" n="5"/>signat non potest agendo: ita ipsum uerbum non potest declinari loquendo. Haec Au 
+          <lb ed="#B1" n="6"/>gust. Et ideo concedit unus antiquus doctor quod uniuersi dicimur mortui:  
+          <lb ed="#B1" n="7"/>quia sicut ille dicitur fatuus, cui inest fatuitas, &amp; ille arduus in quo est arduitas. 
+          <lb ed="#B1" n="8"/>Et ille albus cui inest albedo: Ita uere ille dicitur mortuus, cui inest mors. Sed 
+          <lb ed="#B1" n="9"/>nobis inest mors quasi a principio uitae usque ad finem: Ergo sumus ueri mortui.  
+          <lb ed="#B1" n="10"/>Ideo dicitur Sap. 5. Nos nati continue desinimus esse, &amp; 2. Reg. 14. Omnes 
+          <lb ed="#B1" n="11"/>morimur, &amp; quasi aquae dilabimur in terram. Et si obijciatur, quod contraria 
+          <lb ed="#B1" n="12"/>non possunt simul inesse eidem. Responsio, quod uiuum &amp; mortuum non sunt  
+          <lb ed="#B1" n="13"/>contraria, sed priuatiua &amp; mors accipitur dupliciter. Primo modo est priuatio  
+          <lb ed="#B1" n="14"/>uitae totalis. Alio modo est priuatio uitae partialis. Primo modo est terminus &amp;  
+          <lb ed="#B1" n="15"/>finis uitae. Secundo modo stat cum uita. Est etiam &amp; aliud apud grammaticos ad 
+          <lb ed="#B1" n="16"/>mirandum figuratiuum poenae naturae humanae, pro primo peccato inflictae: sicut  
+          <lb ed="#B1" n="17"/>notat autor libri, qui uocatur Catholicom, &amp; est de ista nota negationis No N 
+          <lb ed="#B1" n="18"/>In tota em grammatica Latinorum non sunt nisi tria uerba in quae transire potest 
+          <lb ed="#B1" n="19"/>haec nota negationis per compositonem, &amp; sunt ista: uolo, scio, queo: additur  
+          <lb ed="#B1" n="20"/>enim ZO N ad istud uerbum uolo, et dicitur nolo, per compositonem additur ad 
+          <lb ed="#B1" n="21"/>scio, &amp; dicitur nescio: additur ad queo, &amp; dicitur nequeo, ad reliqua aut uerba 
+          <lb ed="#B1" n="22"/>addi potest per appositonem tantum, &amp; nunquam per compositonem: sicut dicimus 
+          <lb ed="#B1" n="23"/>non curro, non lego, &amp;c. Cum igitur ista tria uerba actus designent trium poten 
+          <lb ed="#B1" n="24"/>tiarum animae: uolo actum potentiae appetitiuae: scio congnoscitiuae: &amp; queo motiuae: 
+          <lb ed="#B1" n="25"/>ad ostendendum quod homo in istis tribus uiribus est debilitatus, &amp; diminutus 
+          <lb ed="#B1" n="26"/>per peccatum originale: additur signanter nota negationis &amp; confusionis istis 
+          <lb ed="#B1" n="27"/>tribus potentijs per compositonem, ad denotandum quod in istis tribus potentijs  
+          <lb ed="#B1" n="28"/>sumus per peccatum naturaliter defectiui. Et est satis mirabile siue a casu siue a 
+          <lb ed="#B1" n="29"/>proposito fuerit ordinatum.
+        </p>
+        <p xml:id="rhwis-l48-d1e531">
+          <lb ed="#B1" n="30"/>Tertio mors non est timide formidanda: quia sicut dicit Seneca: Sapiens se 
+          <lb ed="#B1" n="31"/>curius moritur quam nascitur. Vnde Chrys. Homel. 10. super Matth. Mors ni 
+          <lb ed="#B1" n="32"/>mium necessaria est naturae iam corruptae: quae non est fugienda, sed potius am 
+          <lb ed="#B1" n="33"/>plectenda: fiat ergo uoluntarium quod est necessarium futurum. Offeramus DEO 
+          <lb ed="#B1" n="34"/>pro munere, quod ex debito tenemur reddere. Item Cassio. super Psal. Beati  
+          <lb ed="#B1" n="35"/>immaculati. Quis temporalem mortem metuat, cum aeterna, uita promittitur:  
+          <lb ed="#B1" n="36"/>Quis labores carnis timeat: cum in perpetua requie se nouit collocandum: 
+          <lb ed="#B1" n="37"/>Ecclesi. 41. Noli metuere iudicium mortis, Proverb. 14. Sperat iustus in morte 
+          <lb ed="#B1" n="38"/>sua: neomirum, quoniam iustus si in morte praeoccupatus fuerit, in refrigerio erit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

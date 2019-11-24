@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 73 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 73 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="258"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l73">
+        <p xml:id="rhwis-l73-d1e95">
+          <!--sap_Page_292.xml-->
+          <pb ed="#B1" n="258"/>
+          <lb ed="#B1" n="1"/>POSTQVAM Spiritus sanctus descripsit CHRISTI aduenientis 
+          <lb ed="#B1" n="2"/>ad iudicium inexpugnabilem praeparationem, &amp; creaturarum in 
+          <lb ed="#B1" n="3"/>tolerabilem contra reprobos cooperationem: Hic describit sen 
+          <lb ed="#B1" n="4"/>tentiae finalis indispensabilem executionem: Et cirea hoc duo fa 
+          <lb ed="#B1" n="5"/>cit. Nam primo assignat modum quo omnes reprobi punient. Secun 
+          <lb ed="#B1" n="6"/>do assignat causam, quare iniusti nobiles subuertentur, ibi: Et malignitas.
+        </p>
+        <p xml:id="rhwis-l73-d1e115">
+          <lb ed="#B1" n="7"/>Circa primum dicit tria. Primo quod damnabuntur finaliter, separabuntur  
+          <lb ed="#B1" n="8"/>potentialiter, &amp; incarcerabuntur localiter. Secunda pars ibi: Et turbo venti  
+          <lb ed="#B1" n="9"/>Tertia ibi. Et ad her emum. Quantum ad primum dicit: Contra illos stabit spiri 
+          <lb ed="#B1" n="10"/>tus virtutis. Spiritus in Scriptura dicitur aliquando uox, 1. Corinth. 14. Psallam  
+          <lb ed="#B1" n="11"/>spiritu, psallam &amp; mente: quia ergo uox CHRISTI iudicantis est uox uirtu 
+          <lb ed="#B1" n="12"/>tis. Iuxta illud Psal. Dabit uoci suae uocem uirtutis, cui uirtuti nullus possit ob  
+          <lb ed="#B1" n="13"/>sistere: ideo signanter dicitur, contra illos stabit spiritus virtutis, Esa.12. Spiritus 
+          <lb ed="#B1" n="14"/>labiorum suorum interficiet impium: &amp; 2. Thessal. 2. Tunc reuelabitur ille 
+          <lb ed="#B1" n="15"/>iniquus, quem Dominus IESVS interficiet spiritu oris sui. Quantum ad se 
+          <lb ed="#B1" n="16"/>cundum dicit: Et turbo venti diuidet eos. Turbo est uolubilitas uentorum, &amp; 
+          <lb ed="#B1" n="17"/>dicitur turbo a terra: quia quotiens ille uentus consurgit, terram in circuitu 
+          <lb ed="#B1" n="18"/>mittit. Sicut ergo puluis siccus statim sine resistentia eleuatur a terra, &amp; defer 
+          <lb ed="#B1" n="19"/>tur secundum motum uenti: Ita reprobi prolata sententia sine quacunque resi 
+          <lb ed="#B1" n="20"/>stentia inuoluentur illo turbido igne, de quo dictum fuit in praecedenti lectio 
+          <lb ed="#B1" n="21"/>ne, &amp; demergentur in infernum. In Psal. Non sic impij non sic, sed tanquam pul  
+          <lb ed="#B1" n="22"/>uis quem proijcit uentus a facie terrae: &amp; Iob. 21. Erunt sicut paleae ante faciem  
+          <lb ed="#B1" n="23"/>uenti, &amp; sicut fauilla quam turbo dispergit. Fauilla est cinis gxtinctus, &amp; siccus 
+          <lb ed="#B1" n="24"/>qui a uento circulariter moto statim dispergitur, qui uentus est turbo. Naum 
+          <lb ed="#B1" n="25"/>1. Dominus in tempestate &amp; in turbine uiae eius: &amp; Hierem. 23. Ecce turbo 
+          <lb ed="#B1" n="26"/>Dominicae indignationis egredietur, &amp; tempestas erumpens super caput im 
+          <lb ed="#B1" n="27"/>piorum eueniet. Tertio dicit quod reprobi incarcerabuntur, &amp; quantum ad hoc 
+          <lb ed="#B1" n="28"/>dicit, quod ad heremum deducet omnem terram iniquitatis illorum: Et haec est an 
+          <lb ed="#B1" n="29"/>tiqua litera quam exponit. Rabanus, &amp; sicut dicitur uerus textus est. Et est sen 
+          <lb ed="#B1" n="30"/>sus, quod ad infernum deducet DEVS omnem terram iniquitatis illorum: hoc 
+          <lb ed="#B1" n="31"/>est, omnem terream &amp; carnalem affectionem eorum, ad puniendum in perpe 
+          <lb ed="#B1" n="32"/>tuum. Si autem sit textus iniquitatis eorum, deducet eos casu aliter &amp; demeri 
+          <lb ed="#B1" n="33"/>torie ad infernum. Sed sententia non mutatur. Infernus litera ista uocatur he 
+          <lb ed="#B1" n="34"/>remus: quia sicut heremus uocatur locus uastus &amp; incultus, ubi nullum animal 
+          <lb ed="#B1" n="35"/>rationale habitare potest conuenienter: Ita infernus locus est nulli rationali crea 
+          <lb ed="#B1" n="36"/>turae aptus: Illuc tamen mali deducentur propter peccatum: quia malum bene 
+          <lb ed="#B1" n="37"/>ordinatum &amp; suo loco positum, eminentius commendat bonum. Sicut dicit 
+          <lb ed="#B1" n="38"/>August. Enchi. c. 6. Et est heremus secundum grammaticos foeminini generis. 
+          <lb ed="#B1" n="39"/>Vnde declinatur haec heremus. In signum cuius quod per foemininum genus 
+          <lb ed="#B1" n="40"/>ad heremum illam homo primo ducebatur. Inde hic &amp; haec heremita, persona 
+          <lb ed="#B1" n="41"/>quae solitudinem &amp; heremum inhabitat. Vnde quicunque urbes uel ciuitates 
+          <lb ed="#B1" n="42"/>inhabitant, &amp; cum hoc uocantur heremitae, habent nomen contrarium rei
+        </p>
+        <p xml:id="rhwis-l73-d1e196">
+          <lb ed="#B1" n="43"/>Sunt enim urbanitae, &amp; uocantur heremitae. Vltimo assignat causam specia 
+          <lb ed="#B1" n="44"/>sem quare iniusti subuertentur, cum dicit, quod malignitas subuertet sedes po 
+          <lb ed="#B1" n="45"/>tentum. Non dicit ignorantia: quia illa in casu excusat. Nec dicit impotentia: 
+          <!--sap_Page_293.xml-->
+          <pb ed="#B1" n="259"/>
+          <lb ed="#B1" n="1"/>quia illa similiter excusat. Sed certe malignitas eos damnabit: quia cum sci 
+          <lb ed="#B1" n="2"/>rent &amp; possent noluerunt. Vnde bonum fuit illud veritatis Proverbium, sicut  
+          <lb ed="#B1" n="3"/>allegat Aristot. 5. Ethic. Principatus uirum ostendit. Et bene metrice dicitur: 
+          <lb ed="#B1" n="4"/>Cum poteris quod vis probat actio te tua, quid sis.
+        </p>
+        <p xml:id="rhwis-l73-d1e218">
+          <lb ed="#B1" n="5"/>Quando enim princeps male facit, sciens &amp; potens benefacere, sicut semper 
+          <lb ed="#B1" n="6"/>debet homo de principe praesumere, uidelicet quod est sciens &amp; potens, tunc 
+          <lb ed="#B1" n="7"/>manifestum est, quod malignitas est in causa. Et uerum est quod malignari pos  
+          <lb ed="#B1" n="8"/>sunt ad tempus, sed per malignitatem finaliter subuertentur: propter quod ho 
+          <lb ed="#B1" n="9"/>mo licet uideat homines malignos florere ad tempus, non debet de hoc mira 
+          <lb ed="#B1" n="10"/>ri nec eos imitari. Vnde in Psalm. Nolite aemulari in malignantibus, neque zela  
+          <lb ed="#B1" n="11"/>ueris facientes iniquitatem. Gloss. Tu infirme, qui forte miraris quod mali flo 
+          <lb ed="#B1" n="12"/>rent. Noli aemulari: id est, sequi malignantes, neque zelaueris: id est, neque imiteris, 
+          <lb ed="#B1" n="13"/>neque ames facientes iniquitatem. Et infra assignat causam. Noli, inquit, aemu 
+          <lb ed="#B1" n="14"/>lari ut maligneris: Quoniam qui malignantur exterminabuntur. Gloss. Qui  
+          <lb ed="#B1" n="15"/>gloriantur &amp; si modo florent: tamen in futuro exterminabuntur: id est, extra ter 
+          <lb ed="#B1" n="16"/>minos diuinae dilectionis ponentur.
+        </p>
+        <p xml:id="rhwis-l73-d1e247">
+          <lb ed="#B1" n="17"/>Dubitatio literalis. Vtrum poena damnatorum debeat dici corporalis.
+        </p>
+        <p xml:id="rhwis-l73-d1e253">
+          Et n 
+          <lb ed="#B1" n="18"/>uidetur quod non. Quia si ignis ille foret corporalis, corpora damnatorum ca 
+          <lb ed="#B1" n="19"/>lefierent, &amp; alterarentur ab illo igne, consequens est falsum: quia cessante mo 
+          <lb ed="#B1" n="20"/>tucoeli nulla alteratio, nec aliquis motus poterit esse in uniuerso. Vnde Arist. 
+          <lb ed="#B1" n="21"/>8. Phys. probatquod motus coeli circularis est perpetuus, &amp; primus omnium 
+          <lb ed="#B1" n="22"/>motuum: quia illo subtracto nullus motus esse potest.
+        </p>
+        <p xml:id="rhwis-l73-d1e266">
+          Praeterea si ignis ille fo 
+          <lb ed="#B1" n="23"/>ret corporalis, &amp; ageret continue in corpora, corrumperet illa corpora: quia 
+          <lb ed="#B1" n="24"/>passio magna facta abijcit aliquid a substantia, 3. Ethic. &amp; sic non foret poena 
+          <lb ed="#B1" n="25"/>damnatorum perpetua in igne, quo ad corpus saltem.
+        </p>
+        <p xml:id="rhwis-l73-d1e275">
+          Praeterea sicut dicitur  
+          <lb ed="#B1" n="26"/>quod erit ibi ignis: ita dicitur quod erit ibi fletus, Mat. 8. lbi erit fletus &amp; stridor 
+          <lb ed="#B1" n="27"/>dentium: sed fletus fieri non potest, nisi per resolutionem lachrymarum. Sed non 
+          <lb ed="#B1" n="28"/>est imaginandum quod ibi esset perpetua resolutio aquae ab oculis, nisi foret ge 
+          <lb ed="#B1" n="29"/>neratio novi humoris per restaurationem alicuius alimenti: ergo non erunt ibi 
+          <lb ed="#B1" n="30"/>lachrymae nec fletus.
+        </p>
+        <p xml:id="rhwis-l73-d1e288">
+          Praeterea sicut ponitur ibi ignis, ita dicitur quod erunt ibi 
+          <lb ed="#B1" n="31"/>uermes: sed hoc non potest intelligi corporaliter cum nullum corpus mixtum 
+          <lb ed="#B1" n="32"/>manebit post iudicium, nisi corpus humanum. Sicut <ref xml:id="rhwis-l73-Rd1e294">August. dicit 2. de Ciuit.  
+            <lb ed="#B1" n="33"/>DEI, cap. 22</ref>. In poenis malorum inextinguibilis ignis &amp; uiuacissimus uermis  
+          <lb ed="#B1" n="34"/>ab alijs aliter &amp; aliter est expositus. Alij utrumque ad corpus, alij utrumque ad animam 
+          <lb ed="#B1" n="35"/>retulerunt, alij proprie ignem ad corpus tropice, ad animam uermem quod cre 
+          <lb ed="#B1" n="36"/>dibilius esse uideem. Praeterea si sic, tunc forent ibi tenebrae corporales. Consequens 
+          <lb ed="#B1" n="37"/>est falsum: quia sicut patet 2. de Anima, Nihil uidetur nisi in lumine: sed danati  
+          <lb ed="#B1" n="38"/>uidebunt mutuo poenas suas: quia aliter uisus inesset eis ociosus &amp; superfluus: 
+          <lb ed="#B1" n="39"/>ergo ibi erit lumen. Praeterea ibi non erit uerum sulphur: Ergo nec uerus ignis  
+          <lb ed="#B1" n="40"/>pari ratione: quia de utroque aperte dicit propheta: Ignis sulphur &amp; Spiritus 
+          <lb ed="#B1" n="41"/>procellarum, &amp;c. Confirmatur quia in purgatorio est solus ignis. Igitur &amp; in 
+          <lb ed="#B1" n="42"/>inferno.
+        </p>
+        <p xml:id="rhwis-l73-d1e320">
+          <lb ed="#B1" n="43"/>Ad oppositum est Aug. 2. de Ciu. DEI. cap. 1. &amp; 10. Gehenna quae stagnum 
+          <lb ed="#B1" n="44"/>ignis &amp; sulphuris dicta est, corporeus ignis erit, &amp; cruciabit corpora damna 
+          <lb ed="#B1" n="45"/>torum. Ideo Greg. 4. Dialog. parum ante medium: Ignem gehennae corporeum 
+          <lb ed="#B1" n="46"/>esse non ambigo.
+        </p>
+        <p xml:id="rhwis-l73-d1e331">
+          Ad istam quaestionem dicendum quod sic. Ratio est: quia omnis  
+          <lb ed="#B1" n="47"/>peena qua corpus patitur, est poena corporea. Sed corpora damnatorum ibi pa 
+          <lb ed="#B1" n="48"/>tientur post diem iudicij: quia sicut beati gaudebunt in anima &amp; gloriabuntur  
+          <lb ed="#B1" n="49"/>in corpore: Ita damnati tristabuntur in anima &amp; punientur in corpore.
+        </p>
+        <p xml:id="rhwis-l73-d1e341">
+          <lb ed="#B1" n="50"/>Ad primum argumentum est opinio beati Thomae: quod ignis non aget 
+          <lb ed="#B1" n="51"/>in corpora damnatorum materialiter, siue immutatione materiali: sed tantum spiri 
+          <lb ed="#B1" n="52"/>tuali eo modo quo sensus imutatur. Hoc enim comune est omni sensui, quod sensus 
+          <lb ed="#B1" n="53"/>aest susceptiuus specierum sine materia. Vnde sicut oculus patitur a colore, &amp; tamen 
+          <!--sap_Page_294.xml-->
+          <pb ed="#B1" n="260"/>
+          <lb ed="#B1" n="1"/>oculus non coloratur, nec alteratur per receptionem materialem coloris: Ita 
+          <lb ed="#B1" n="2"/>tactus in damnatis immutabitur spiritualiter a calore, &amp; tamen non recipiet ca 
+          <lb ed="#B1" n="3"/>lorem. Vnde tenet quod calor imprimetur sensui tactus secundum esse spirituale,  
+          <lb ed="#B1" n="4"/>non materiale. Potissimum quod uidetur ad istud, movere est de cessatione 
+          <lb ed="#B1" n="5"/>motus coeli, de quo argutum fuit, cruciabuntur ergo per formas receptas inten 
+          <lb ed="#B1" n="6"/>tionaliter ab extrinseco non materialiter.
+        </p>
+        <p xml:id="rhwis-l73-d1e370">
+          Sed contra illud arguitur: quia impos  
+          <lb ed="#B1" n="7"/>sibile est rem existentem perfecte priuari propria operatione. Sed ignis erit ibi 
+          <lb ed="#B1" n="8"/>realiter: ergo poterit calefacere. Similiter illa corpora non erunt impassibilia si 
+          <lb ed="#B1" n="9"/>sint sufficienter approximata.
+        </p>
+        <p xml:id="rhwis-l73-d1e379">
+          Praeterea ad preces Iosuae Sol &amp; Luna steterunt  
+          <lb ed="#B1" n="10"/>Iosua 10. sed si alia corpora coelestia non stetissent, similiter totus ordo corpo  
+          <lb ed="#B1" n="11"/>rum coelestium fuisset mutatus. Et tamen tunc temporis Iosuae pugnauit, &amp; in 
+          <lb ed="#B1" n="12"/>mundo ubique naturales actiones fuerunt.
+        </p>
+        <p xml:id="rhwis-l73-d1e388">
+          Praeterea corpora coelestia non solum 
+          <lb ed="#B1" n="13"/>agunt in ista inferiora per motum, sed per formas suas sicut pendiuersos effe 
+          <lb ed="#B1" n="14"/>ctus naturales. Ergo dato quod quiescerent, adhuc aliam dispositionem cau 
+          <lb ed="#B1" n="15"/>sarent in istis inferioribus: licet non talem alternatiuam generationem rerum &amp; 
+          <lb ed="#B1" n="16"/>corruptionem sicut modo.
+        </p>
+        <p xml:id="rhwis-l73-d1e399">
+          Praeterea iste articulus danatus est  Parisius. Si coe 
+          <lb ed="#B1" n="17"/>lum staret ignis in stupam non ageret.
+        </p>
+        <p xml:id="rhwis-l73-d1e404">
+          Praeterea esto quod nulla naturaliter a 
+          <lb ed="#B1" n="18"/>ctio esse posset cessante motu coeli. Non ideo cogimur dicere quin ibi erit actio 
+          <lb ed="#B1" n="19"/>&amp; passio supernaturaliter in corporibus damnatorum, Manifestum est enim 
+          <lb ed="#B1" n="20"/>quod quasi omnia quae circa damnatos ponimus, futura sunt supernaturaliter 
+          <lb ed="#B1" n="21"/>a diuina uirtute facienda: nec enim ignis, ille infra terram in perpetuum possunt  
+          <lb ed="#B1" n="22"/>manere uiolenter, secundum Arist. Cum nullum violentum sit perpetuum: nec iterum 
+          <lb ed="#B1" n="23"/>corpora mixta cuiusmodi erunt corpora hominum, possent esse secundum natu  
+          <lb ed="#B1" n="24"/>ram perpetua, cum sint composita ex contrarijs: &amp; multa talia facile est ducere ad pro 
+          <lb ed="#B1" n="25"/>positum. Ideo dicunt alij quod corpora damnatorum non solum spiritualiter, sed  
+          <lb ed="#B1" n="26"/>etiam materialiter immutabuntur &amp; calefient. Et tunc patet ad primum argumentum,
+        </p>
+        <p xml:id="rhwis-l73-d1e427">
+          <lb ed="#B1" n="27"/>Ad secundum quod est directe contra illud. Dicendum quod illud argumentum 
+          <lb ed="#B1" n="28"/>est contra utraqe uiam: quia excellens sensibile corrumpit sensum: sicut agens 
+          <lb ed="#B1" n="29"/>naturaliter corrumpit passum. Vnde ad argumentum dicendum quod DEVS uo 
+          <lb ed="#B1" n="30"/>let igni coagere ad alterandum, non ad corrumpendum. Quod Aug. 21 de Ciu. DEI 
+          <lb ed="#B1" n="31"/>uidetur declarare per exempla, quomodo quaedam animalia etiam corruptibilia ui  
+          <lb ed="#B1" n="32"/>uunt in igne. Et cap. 4: de Salamandra. Licet secundum Arist. lib. de proprietatibus  
+          <lb ed="#B1" n="33"/>elementorum, nullum animal in igne posset uiuere diu. Certum tamen est pilos 
+          <lb ed="#B1" n="34"/>eius ab igne non posse consumi. Vnde utrumque oportet dicere quod ignis crucia 
+          <lb ed="#B1" n="35"/>bit, &amp; tamen corpus in perpetuum durabit. Sed qualiter est nobis ignotum: quia 
+          <lb ed="#B1" n="36"/>certum est quod illud oportet reducere ad miraculum singulare.
+        </p>
+        <p xml:id="rhwis-l73-d1e451">
+          <lb ed="#B1" n="37"/>Ad tertium de fletu dicunt doctores quod in fletu duo considerantur, reso 
+          <lb ed="#B1" n="38"/>lutio lachrymarum, &amp; turbatio capitis, &amp; oculorum fletus. Quantum ad primum 
+          <lb ed="#B1" n="39"/>non erit ibi fletus, sed tantum quantum ad secundum: sicut argumentum bene deduxit.
+        </p>
+        <p xml:id="rhwis-l73-d1e460">
+          <lb ed="#B1" n="40"/>Ad quartum de uerme similiter sentiunt, quod erit spiritualis, uidelicet remorsus conm 
+          <lb ed="#B1" n="41"/>scientiae, qui orietur ex putrefactione peccatismetaphorice loquendo) &amp; affliget.
+        </p>
+        <p xml:id="rhwis-l73-d1e467">
+          <lb ed="#B1" n="42"/>Ad quintum de tenebris dicendum, quod dispositio inferni erit talis qualis  
+          <lb ed="#B1" n="43"/>esse poterit, maxime ad afflictionem damnatorum: uisio uero secundum se est 
+          <lb ed="#B1" n="44"/>delectabilis, sicut dicitur, 1. Met. Per accidens uero est tristabilis, secundum que  
+          <lb ed="#B1" n="45"/>aliquod nociuum uisu apprehenditur. Est ergo &amp; erit dispositio inferni talis, quo ni 
+          <lb ed="#B1" n="46"/>hil perspicue ibi uidebitur, sed sub quadam umbrositate, ut illa videantur quae 
+          <lb ed="#B1" n="47"/>animae possunt ingerere afflictionem. Vnde simpliciter loquendo est magis te 
+          <lb ed="#B1" n="48"/>nebrosus quam lucidus: quia ibi non poterit esse ignis nisi foetulentus &amp; turbidus. 
+          <lb ed="#B1" n="49"/>Ad sextum dicendum, quod non solum per ignem punientur damnati, sed  
+          <lb ed="#B1" n="50"/>sicut dicit Basilius super illud Vox Domini interciden. flamm. id est, in ulti  
+          <lb ed="#B1" n="51"/>ma purgatione mundi fiet quaedam separatio in elementis puri ab impuro. Et  
+          <lb ed="#B1" n="52"/>quidquid est purum &amp; nobile remanet superius ad gloriam electorum: quid  
+          <lb ed="#B1" n="53"/>quid est foetulentum &amp; turbidum descendet ad infernum poenam damnato 
+          <!--sap_Page_295.xml-->
+          <pb ed="#B1" n="261"/>
+          <lb ed="#B1" n="1"/>rum. Vt sicut omnis creatura DEI erit electis materia gaudij: Ita damnatis ex 
+          <lb ed="#B1" n="2"/>omnibus creaturis fiat tormentum. Et sic intelligunt nonulli principium prae 
+          <lb ed="#B1" n="3"/>cedentis lectionis. Pugnabit cum illo orbis terrarum contra insensatos. Et illa va 
+          <lb ed="#B1" n="4"/>ria mixtura multarum faecum sulphur potest uocari. Quia uero poena purga 
+          <lb ed="#B1" n="5"/>torij non est principaliter ad affligendum, sed ad purgandum: Ideo dicunt eam  
+          <lb ed="#B1" n="6"/>per solum ignem fieri: non sic autem in inferno, cuius poena est ad affligendum, 
+          <lb ed="#B1" n="7"/>&amp; nullo modo ad purgandum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

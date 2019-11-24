@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 47 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 47 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="166"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l47">
+        <p xml:id="rhwis-l47-d1e95"><!--166-->
+          <lb ed="#B1" n="27"/>FINIS &amp; utilitas humanae generationis, est proles bene disciplina 
+          <lb ed="#B1" n="28"/>ta in bonis moribus, &amp; ad DEVM cognoscendum &amp; colendum prin 
+          <lb ed="#B1" n="29"/>cipaliter ordinata: talis autem proles honorat DEVM per obedien 
+          <lb ed="#B1" n="30"/>tiam, &amp; parentes exhibendo eis reuerentiam. De tali prole dicitur  
+          <lb ed="#B1" n="31"/>Eccles. 3. Filij sapientes Ecclesia iustorum, &amp; natio eorum obedientia &amp; dile 
+          <lb ed="#B1" n="32"/>ctio. Et cito post: DEVS enim honorauit patrem in filijs.
+        </p>
+        <p xml:id="rhwis-l47-d1e112">
+          <lb ed="#B1" n="33"/>Postquam ergo reprobauit generationem uagam &amp; illegitimam per hoc 
+          <lb ed="#B1" n="34"/>quod repugnat Reipublicae &amp; humanis legibus: hic reprobat eandem per hoc 
+          <lb ed="#B1" n="35"/>quod repugnat tam naturae quam DEI legibus. Suadet enim natura DEO &amp; pa 
+          <lb ed="#B1" n="36"/>rentibus exhibere reuerentiam: quia beneficia eorum sunt irreddibilia: sicut dicit 
+          <lb ed="#B1" n="37"/><ref xml:id="rhwis-l47-Rd1e123" target="http://scta.info/resource/aristneth-l8">Arist. 8. Ethic.</ref> Ostendit ergo duo in ista lectione. Primo que proles mala disci 
+          <lb ed="#B1" n="38"/>plinatao DEO tribuit rebellionem. Secundo quod parentibus exhibet confusio  
+          <lb ed="#B1" n="39"/>nem: secunda pars ibi: Ex iniquis. Describit autem Spiritus sanctus malos pa 
+          <!--sap_Page_201.xml-->
+          <pb ed="#B1" n="167"/>
+          <lb ed="#B1" n="1"/>rentes &amp; malos filios sub figuratiua locutione radicis &amp; ramorum, uocans pa 
+          <lb ed="#B1" n="2"/>rentes radices, &amp; filios ramos, ad Roman. 12. <quote xml:id="rhwis-l47-Qd1e140" source="http://scta.info/resource/rom11_16">Si radix sancta &amp; rami</quote>. Dicit er 
+          <lb ed="#B1" n="3"/>go primo sic: Confringentur enim rami inconsummati. Consummatio &amp; com 
+          <lb ed="#B1" n="4"/>pletio hominis est uniri DEO per cognitionem &amp; amorem, Eccl. 43. Consum 
+          <lb ed="#B1" n="5"/>matio sermonum ipse est.
+        </p>
+        <p xml:id="rhwis-l47-d1e150">
+          <lb ed="#B1" n="6"/>Vnde omnis homo a DEO diuisus, est imperfectus, &amp; inconsummatus. Et  
+          <lb ed="#B1" n="7"/>quia mali filij &amp; indisciplinati sunt a DEO diuisi, ideo merito uocantur rami 
+          <lb ed="#B1" n="8"/>inconsummati, &amp; isti confringentur. Confractio importat uiolentiam in diui  
+          <lb ed="#B1" n="9"/>sione: unde mali homines confringentur in morte, sed beati &amp; sancti suauiter 
+          <lb ed="#B1" n="10"/>&amp; uoluntarie diuidentur. Desiderant enim dissolui &amp; esse cum CHRISTO, ad  
+          <lb ed="#B1" n="11"/>Phil. 1. unde quia isti peccatores qui uellent hic semper uiuere, nec unquam a 
+          <lb ed="#B1" n="12"/>liam uitam uidere, ideo contra uoluntatem eorum dissoluuntur, &amp; ideo meri 
+          <lb ed="#B1" n="13"/>to confringi dicuntur, in Psal. Reges eos in uirga ferrea, &amp; tanquam uas figuli  
+          <lb ed="#B1" n="14"/>confringes eos. Alia ratio est: quia aliter separat artifex ramum solidum ab ar 
+          <lb ed="#B1" n="15"/>bore, quem intendit in aedificio collocare, &amp; aliter ramum putridum: &amp; sic qui  
+          <lb ed="#B1" n="16"/>cum ad nihilum ualet nisi pro igne: nam primum ramum curiose secat: &amp; secum 
+          <lb ed="#B1" n="17"/>dum frangit negligenter, non curando quomodo cadat. Isto modo DEVS san 
+          <lb ed="#B1" n="18"/>ctos recedentes de hac uita quasi delicate dissoluit: quia hoc reperiunt quod  
+          <lb ed="#B1" n="19"/>prius desiderauerunt, &amp; ponit eos in aedificio coelesti in gloria &amp; honore aeter 
+          <lb ed="#B1" n="20"/>no, Eccles. 24. Rami mei honoris &amp; gloriae dicit sapientia quae a DEO est. Sed  
+          <lb ed="#B1" n="21"/>miseros peccatores partos ad ignem aeternum confringet totaliter, ut cadant  
+          <lb ed="#B1" n="22"/>in ignem aeternum sicut ipse per Psal. promittit: Confringam illos, nec poterunt  
+          <lb ed="#B1" n="23"/>stare cadent subtus pedes meos: &amp; sic patet quare uocat eos ramos inconsum 
+          <lb ed="#B1" n="24"/>matos, &amp; quomodo confringentur. Sed quod sint dignisi confringi ostendit 
+          <lb ed="#B1" n="25"/>consequenter. Quia si esset arbor quae faceret fructum mortiferum, uel nullius 
+          <lb ed="#B1" n="26"/>usufaptum, digna esset confringi uel succidi. Iuxta illud Matt. 7. Omnis arbor 
+          <lb ed="#B1" n="27"/>quae non facit fructum bonum, excidetur, &amp; in ignem mittetur: sed isti faciunt  
+          <lb ed="#B1" n="28"/>fructus inutiles, &amp; ad nihilum utiles: id est, opera deordinata contra DEVM &amp; 
+          <lb ed="#B1" n="29"/>rectam rationem. Et ideo iustum est eos confringi. Vocantur enim opera ho 
+          <lb ed="#B1" n="30"/>minis fructus hominis: quia sicut a fructu cognoscitur arbor, &amp; arboris boni 
+          <lb ed="#B1" n="31"/>tas: ita per opera hominis eius bonitas agnosci potest, Matth. 7. <quote xml:id="rhwis-l47-Qd1e208" source="http://scta.info/resource/mt7_20">Ex fructibus 
+            <lb ed="#B1" n="32"/>eonim cognoscetis eos</quote>. Non ex fatua cortice, non ex coloris apparentis pul  
+          <lb ed="#B1" n="33"/>chritudine, non ex foliorum: id est, uerborum sanctitate, sed ex fructibus eorum 
+          <lb ed="#B1" n="34"/>cognoscetis eos: &amp; quia fructus istorum peccatorum sunt inutiles &amp; acerbi ad 
+          <lb ed="#B1" n="35"/>manducandum &amp; ad nihilum apti, ideo dignum est eos in morte confringi, &amp; 
+          <lb ed="#B1" n="36"/>igne aeterno comburi. Notandum est quod fructus: id est, opera sanctorum sunt  
+          <lb ed="#B1" n="37"/>&amp; esse debent alimenta nostra. Nam ex exemplis &amp; operibus bonorum debe 
+          <lb ed="#B1" n="38"/>mus proficere &amp; nutriri sicut homo augetur, &amp; crescit per hoc quod mandu 
+          <lb ed="#B1" n="39"/>cat corporaliter. Et ideo sancti uiri &amp; honeste uiuentes ipsi pascunt omnes Chri 
+          <lb ed="#B1" n="40"/>stianos proximos, &amp; uicinos suos exemplis uirtutum suarum: &amp; licet hoc omni 
+          <lb ed="#B1" n="41"/>homini conueniat: maxime tamen uiris Ecclesiasticis, quibus dicitur Matt. 14. 
+          <lb ed="#B1" n="42"/>Date uos illis manducare. Sed per oppositum quidam sunt, quorum fructus 
+          <lb ed="#B1" n="43"/>mortiferi, &amp; acerbi sunt ad manducandum, qui uiuunt de rapinis in superbia, li  
+          <lb ed="#B1" n="44"/>bidine &amp; iusticia, Proverb. 10. Fructum impij ad peccatum.
+        </p>
+        <p xml:id="rhwis-l47-d1e240">
+          <lb ed="#B1" n="45"/>Secunda pars huius lectionis est ostendere, quod proles in disciplina repen 
+          <lb ed="#B1" n="46"/>dit parentibus confusionem. Et huius ratio est ista, quando discipulus male re 
+          <lb ed="#B1" n="47"/>spondet &amp; errat in dictis suis: sicut ignorans praesumptio quaedam est contra 
+          <lb ed="#B1" n="48"/>magistrum suum, qui eum tenebatur docuisse. Vnde uerecundiam facit magi 
+          <lb ed="#B1" n="49"/>stro discipulus ignorans &amp; famulus inutilis facit uerecundiam domino suo, 
+          <lb ed="#B1" n="50"/>qui eum tenetur curialiter educare. Modo parentes tenentur esse magistri, 
+          <lb ed="#B1" n="51"/>&amp; quasi domini filiorum: &amp; ideo quando sunt mali, est magna confusio pa 
+          <lb ed="#B1" n="52"/>rentum, Ecclesiast. 22. Confusio patris est de disciplinato filio. Et hoc est 
+          <lb ed="#B1" n="53"/>quod dicitur in litera: Ex iniquis enim omnes filij qui nascuntur testes nequitiae. 
+          <!--sap_Page_202.xml-->
+          <cb ed="#B1" n="168"/>
+          <lb ed="#B1" n="1"/>aduersus parentes in interrogatione sua. Potest tamen specialiter litera legi de il 
+          <lb ed="#B1" n="2"/>legitime generatis, qui quando de suis parentibus interrogantur, siunt testes 
+          <lb ed="#B1" n="3"/>nequitiae parentum: si tamen uerum dicant: Fructus eorum inutiles.
+        </p>
+        <p xml:id="rhwis-l47-d1e273">
+          <lb ed="#B1" n="4"/>Nota quod in Scriptura sacra homo arbori comparatur, Matth. 8. <quote xml:id="rhwis-l47-Qd1e277" source="http://scta.info/resource/mt8_24">Video 
+            <lb ed="#B1" n="5"/>homines sicut arbores</quote>. Habent enim quandam similitudinem uiuendo, cre 
+          <lb ed="#B1" n="6"/>scendo, fructum afferendo, &amp; finaliter decidendo. Arbor enim non uiuit nisi 
+          <lb ed="#B1" n="7"/>per calorem coelestem &amp; humorem terrestrem: sic nec moraliter uiuit homo 
+          <lb ed="#B1" n="8"/>uita gratiae nisi per humilitatem &amp; charitatem: Humilitas oritur de terra: id est,  
+          <lb ed="#B1" n="9"/>de intensa consideratione quod terreni sumus, &amp; in terram reuertemur in bre 
+          <lb ed="#B1" n="10"/>ui. Vnde sicut illae arbores quae profundius radices suas in terram figunt, ui  
+          <lb ed="#B1" n="11"/>uunt diutius &amp; stant stabilius: Ita illi homines qui se diligentius &amp; apertius 
+          <lb ed="#B1" n="12"/>terrenos esse recogitant, uiuunt perfectius, uita gratiae: &amp; stant firmius contra 
+          <lb ed="#B1" n="13"/>tentationes culpae. Sicut enim arbores plantatae in planis uel in uallibus mi 
+          <lb ed="#B1" n="14"/>nus excutiuntur &amp; fatigantur, quam illae quae stant in montibus: Ita personae 
+          <lb ed="#B1" n="15"/>humiles refugientes dignitates &amp; honores, contentae de sua simplicitate, ui  
+          <lb ed="#B1" n="16"/>uunt multo quietius in suis conscientijs, quam illi qui se ingerunt ad officia 
+          <lb ed="#B1" n="17"/>&amp; dignitates, &amp; ambitiones mundi: &amp; quia CHRISTVS summe fuit humilis: 
+          <lb ed="#B1" n="18"/>ideo qui suas radices figit &amp; fundat in CHRISTO, uiuet &amp; crescet, &amp; fructum 
+          <lb ed="#B1" n="19"/>faciet sicut ipse docet, Ioh. 15. Ego sum uitis, &amp; uos palmites, &amp; sicut palmes  
+          <lb ed="#B1" n="20"/>non potest ferre fructum a semetipso nisi manserit in uite, sic nec uos: nisi in 
+          <lb ed="#B1" n="21"/>me manseritis. Ergo sit DEVS in nobis, &amp; maneamus in ipso. De hac simili 
+          <lb ed="#B1" n="22"/>tudine hominis ad arborem loquitur lnnocentius in de uilitate conditionis  
+          <lb ed="#B1" n="23"/>humanae. Homo, inquit, est arbor euersa, cuius radices sunt crines, truncus, ca 
+          <lb ed="#B1" n="24"/>put cum collo: stipes, pectus cum aluo: rami ulnae cum tibijs: frondes digiti 
+          <lb ed="#B1" n="25"/>cum articulis.
+        </p>
+        <p xml:id="rhwis-l47-d1e327">
+          <lb ed="#B1" n="26"/>Secundo assimilatur in crescendo: quia quamuis inferior pars tetrae adhae 
+          <lb ed="#B1" n="27"/>reat, potior tamen &amp; pulchrior terrae supereminat, tendens uersus coelum. Sic  
+          <lb ed="#B1" n="28"/>moraliter licet necessario oporteat nos aliquam solicitudinem circa terrena 
+          <lb ed="#B1" n="29"/>habere, tamen potior pars uoluntatis nostrae debet tendere uersus coelum: Esa. 
+          <lb ed="#B1" n="30"/>37. Quod saluatum fuerit de domo luda, &amp; quod derelictum est, mittet radi 
+          <lb ed="#B1" n="31"/>ces deorsum, &amp; faciet fructum sursum.
+        </p>
+        <p xml:id="rhwis-l47-d1e343">
+          <lb ed="#B1" n="32"/>Tertio assimilatur homo arbori in fructum ferendo: sicut enim arbores pri 
+          <lb ed="#B1" n="33"/>mo germinant: secundo florent: tertio portant fructus: ita secundum Chrysost. 
+          <lb ed="#B1" n="34"/>Home. 32. Germen sunt bonae cogitationes, flores bonae uoluntates: fructus 
+          <lb ed="#B1" n="35"/>bonae operationes, Matth. 7. <quote xml:id="rhwis-l47-Qd1e353" source="http://scta.info/resource/mt7_17">Arbor bona fructus bonos facit</quote>.
+        </p>
+        <p xml:id="rhwis-l47-d1e357">
+          <lb ed="#B1" n="36"/>Quarto assimilatur homo arbori in cadendo. Arbor enim quae diu creuit &amp; 
+          <lb ed="#B1" n="37"/>tandem prae senio deficit, ad illam partem cadit uersus quam ramos plurimos uiuendo 
+          <lb ed="#B1" n="38"/>extendit. Sic homo moriens ad illam partem aadit, ad quam plures cogitatio  
+          <lb ed="#B1" n="39"/>nes &amp; affectiones uiuendo transmisit, siue in coelum, siue in terram, siue cadit  
+          <lb ed="#B1" n="40"/>in infernum, Eccl. 11. Si ceciderit lignum siue ad austrum siue ad aquilonem, 
+          <lb ed="#B1" n="41"/>ubi ceciderit ibi erit. Est igitur homo moraliter arbor. Sed quod dolendum est, 
+          <lb ed="#B1" n="42"/>multae arbores faciunt fructus inutiles &amp; acerbos ad manducandum. Sunt e 
+          <lb ed="#B1" n="43"/>nim quidam fructus peccantium pleni uermibus corrosiuis, quidam sapori 
+          <lb ed="#B1" n="44"/>bus amaricatiuis, &amp; quidem pleni humoribus inflatiuis. Primi sunt fructus la 
+          <lb ed="#B1" n="45"/>sciuiae &amp; carnalis delectationis. Secundi autem sunt fructus auariciae &amp; mun 
+          <lb ed="#B1" n="46"/>dialis possessionis. Tertij sunt fructus superbiae &amp; temporalis ambitionis. Pri 
+          <lb ed="#B1" n="47"/>mi, inquam, sunt fructus lasciuiae &amp; carnalis delectationis, &amp; hi pleni sunt uer 
+          <lb ed="#B1" n="48"/>mibus corrosiuis. Videmus interdum pomum pulcherrimum extrinsecus, &amp; 
+          <lb ed="#B1" n="49"/>apparet ualde bonum: &amp; tamen intrinsecus latet uermis &amp; inuenitur totum  
+          <lb ed="#B1" n="50"/>corrosum interius. Isto modo suggestio uoluptatis apparet exterius suauis, &amp; 
+          <lb ed="#B1" n="51"/>delectabilis tempore tentationis: &amp; tamen cum scelus perpetratum fuerit, in 
+          <lb ed="#B1" n="52"/>uenitur uermis qui corrodit conscientiam, qui nisi interficiatur in hac uita, ui  
+          <lb ed="#B1" n="53"/>uet in aeternum, Esa. 66. Vermis eorum non morietur. Hic est uermis mordens 
+          <!--sap_Page_203.xml-->
+          <pb ed="#B1" n="169"/>
+          <lb ed="#B1" n="1"/>hederam sub cuius umbra lonas delectabatur, lonae 4. Laetatus est lonas laeti 
+          <lb ed="#B1" n="2"/>tia magna, &amp; statim post morsum vermis aruit. Hedera est pax conscientiae sub 
+          <lb ed="#B1" n="3"/>qua lonas qui interpretatur columba, &amp; simplex &amp; innocens delectatur, uer 
+          <lb ed="#B1" n="4"/>mis aduenit sub delectatione &amp; statim aruit hedera: quia turbatur conscientia 
+          <lb ed="#B1" n="5"/>transeunte actu &amp; permanente reatu. Et ideo ualde fatuus est, qui istum uer 
+          <lb ed="#B1" n="6"/>men non interficit quam citius potest: &amp; sic puer frangens uel scindens pomum 
+          <lb ed="#B1" n="7"/>pulchrum, de quo sperauit se habuisse bonum cibum, reputat se deceptum. De 
+          <lb ed="#B1" n="8"/>quibus loquitur Apost. ad Rom. 6. <quote xml:id="rhwis-l47-Qd1e419" source="http://scta.info/resource/rom6_21">Quem ergo fructum habuistis tunc in illis,  
+            <lb ed="#B1" n="9"/>in quibus nunc erubescitis. Nam finis illorum mors</quote>. Sed absit quod tales sint 
+          <lb ed="#B1" n="10"/>peiores quam Cain, de quo legimus Gen. 4. quod obtulit DEO de fructi 
+          <lb ed="#B1" n="11"/>bus terrae, spicas corrosas, conculcatas a bestijs &amp; contritas.
+        </p>
+        <p xml:id="rhwis-l47-d1e430">
+          <lb ed="#B1" n="12"/>Vtinam isti inueterati dierum malorum, qui sunt corrosi per uermes infini 
+          <lb ed="#B1" n="13"/>tos in conscientijs, concultati per bestiales delectationes a iuuentute sua, &amp; 
+          <lb ed="#B1" n="14"/>usque ad senectam &amp; senium, uellent tamen in fine dierum suorum offerre se DEO 
+          <lb ed="#B1" n="15"/>&amp; poenitentiam &amp; sacrificium uespertinum. Sed nota quod in ueteri lege &amp; in 
+          <lb ed="#B1" n="16"/>primitiua Ecclesia dabantur primitiae de fructibus &amp; frugibus: modo uix dan  
+          <lb ed="#B1" n="17"/>tur decimae. Ita Ecclesia olim habuit uouentes continentiam in iuuentute, &amp; 
+          <lb ed="#B1" n="18"/>dabantur DEO primi fructus. Iustum est enim ut detur sibi de fructibus: quia 
+          <lb ed="#B1" n="19"/>ipse est uerus Papa: id est, pater patrum, cui clamamus: Abba pater, ad Gal. 4. Et  
+          <lb ed="#B1" n="20"/>ideo sumite de optimis terrae fructibus &amp; deferte uiro munera, Gen. 43 . Offe 
+          <lb ed="#B1" n="21"/>ramus ergo primitiua terrae nostrae &amp; primitiua vniuersae fructus, Neemiae 10
+        </p>
+        <p xml:id="rhwis-l47-d1e454">
+          <lb ed="#B1" n="22"/>Secundi fructus inutiles, sunt fructus auariciae &amp; mundialis possessionis, &amp; 
+          <lb ed="#B1" n="23"/>isti sunt pleni saporibus amaricatiuis: quicunque enim rebus mundi incumbit 
+          <lb ed="#B1" n="24"/>adquirendis, possidendis, uel expendendis, frequenter turbatur &amp; amaricatur  
+          <lb ed="#B1" n="25"/>in corde suo, quantumcunque etiam uideatur uiuere in pace. Esa. 38. Ecce in pace a 
+          <lb ed="#B1" n="26"/>maritudo amarissima. Aliud etiam est notandum, quod comedentibus poma 
+          <lb ed="#B1" n="27"/>cruda, &amp; sructus immaturos sani cibi fiunt insipidi. Sic isti qui nimis delectan 
+          <lb ed="#B1" n="28"/>tur in diuitijs, uel conseruandis, uel dispensandis: cibus animae, qui non perit,  
+          <lb ed="#B1" n="29"/>cibus uerbi DEI, cibus deuotionis, contemplationis, &amp; orationis, apparet in 
+          <lb ed="#B1" n="30"/>sipidus. In cuius figuram legimus Iosuae 5. quo quam cito filij Israel inceperunt uesci 
+          <lb ed="#B1" n="31"/>fructibus terrae promissionis, statim defecit eis Manna diuinae dispensationis, 
+          <lb ed="#B1" n="32"/>nec amplius descendit de coelo: Ita simili modo est de diuitibus habentibus 
+          <lb ed="#B1" n="33"/>consolationem suam hic in bonis terrenis, deficit eis consolatio, quam habent  
+          <lb ed="#B1" n="34"/>sancti in diuinis. Vnde <ref xml:id="rhwis-l47-Rd1e484">Aug. 1. de Trini.</ref> Contemplatio est <quote xml:id="rhwis-l47-Qd1e487" source="http://scta.info/resource/adt-l2-d1e327">illa species quae rapit 
+            <lb ed="#B1" n="35"/>omnem animam desiderio tanto ardentiorem, quanto mundiorem: &amp; tanto  
+            <lb ed="#B1" n="36"/>mundiorem, quanto ad spiritualia surgentem: &amp; tanto ad spiritualia surgentem, 
+            <lb ed="#B1" n="37"/>quanto carnalibus &amp; terrenis morientem</quote>. Sed ex quo fructus administrationis  
+          <lb ed="#B1" n="38"/>temporalium est amarus: Et tamen aliquas personas in Ecclesia DEI oportet  
+          <lb ed="#B1" n="39"/>administrare temporalia: quomodo ergo possunt illi fructus dulcorari: Certe 
+          <lb ed="#B1" n="40"/>dicendum est secundum Arist. 2. de uegetabilibus &amp; plantis, fructus amarus mis  
+          <lb ed="#B1" n="41"/>sus in ignem, &amp; assatus efficitur dulcis, sicut patet de pomis, quae sunt acerba 
+          <lb ed="#B1" n="42"/>&amp; ad comedendum cruda: quando bene assantur ad ignem, siunt satis dulcia. Isto 
+          <lb ed="#B1" n="43"/>modo uos qui estis occupati in uita actiua circa administrationem temporalium, 
+          <lb ed="#B1" n="44"/>frequenter gustatis amaritudines mundi, &amp; tribulationes circa plurima, &amp; ideo 
+          <lb ed="#B1" n="45"/>si uelitis occupationes uestras facere dulces, oportet quod bene assentur igne 
+          <lb ed="#B1" n="46"/>charitatis, ne sint crudae, <ref xml:id="rhwis-l47-Rd1e516">1. ad Corinth.16.</ref> Opera uestra in charitate fiant, Exo. 
+          <lb ed="#B1" n="47"/>12. Non comedetis ex eo crudum, nec coctum aqua, sed assum tantum igni: 
+          <lb ed="#B1" n="48"/>ut omnia facta uestra, omnia bona quae habetis ad honorem DEI &amp; proximi, 
+          <lb ed="#B1" n="49"/>referatis ad utilitatem: quia qui sine charitate amat diuitias, fructum non capiet ex  
+          <lb ed="#B1" n="50"/>eis, Ecclesiast. 5. Et qui hoc non fecerit, timere poterit illud Hiere. 12. Confun 
+          <lb ed="#B1" n="51"/>demini a fructibus uestris, propter iram furoris Domini, &amp; Hiere. 21. Visita 
+          <lb ed="#B1" n="52"/>bo super uos iuxta fructum studiorum uestrorum.
+        </p>
+        <p xml:id="rhwis-l47-d1e533">
+          <lb ed="#B1" n="53"/>Tertij fructus inutiles, sunt fructus superbiae &amp; temporalis ambitionis, &amp; 
+          <!--sap_Page_204.xml-->
+          <pb ed="#B1" n="170"/>
+          <lb ed="#B1" n="1"/>isti sunt pleni humoribus inflatiuis, Esa. 10. Visitabo super fructum magnifici 
+          <lb ed="#B1" n="2"/>cordis, &amp;c. Licet enim honores &amp; referentiae suauiter sapiant: tamen periculo  
+          <lb ed="#B1" n="3"/>sae inflant. De gestis Alexandri narratur, quod milites sui in India inuenerunt  
+          <lb ed="#B1" n="4"/>fructus ita dulces, quod de eis non potuerunt satiari: unde factum est per ni 
+          <lb ed="#B1" n="5"/>mium eorum esum strages &amp; pestis magna inter eos. Sic moraliter fructus ho 
+          <lb ed="#B1" n="6"/>norum &amp; referentiarum sunt ita dulces, quod difficile est satiari de eis: bonum 
+          <lb ed="#B1" n="7"/>est tamen cum istis fructibus inflatiuis comedere sal: quia ualde expedit affe 
+          <lb ed="#B1" n="8"/>ctiones honoris seculi salire sale discretionis &amp; modestiae, Iob. 6. Nunquid co  
+          <lb ed="#B1" n="9"/>medi poterit insulsum, quod non est sale conditum: Sic enim contingit uti hono 
+          <lb ed="#B1" n="10"/>ribus uirtuose: quia fatuum esse docere subditos honorare, nisi essent qui ho 
+          <lb ed="#B1" n="11"/>nores deberent recipere. Et ideo dicit Arist. 6. Topico. quod omnes appetunt  
+          <lb ed="#B1" n="12"/>honores. Vnde non bene definitur secundum eum ibidem ambitiosus sic: Am 
+          <lb ed="#B1" n="13"/>bitiosus est appetens honores, sed oportet addere quod sit deordinate appe 
+          <lb ed="#B1" n="14"/>tens honores. Apponendum est ergo sal sapientiae &amp; discretionis, &amp; sic utendum 
+          <lb ed="#B1" n="15"/>est fructibus honoris laudabiliter, Ecclesiast. 37. Est sapiens animae suae sapiens, 
+          <lb ed="#B1" n="16"/>&amp; fructus illius laudabiles. Haec sapientia est humilitas: quia Proverb. 11. Vbi 
+          <lb ed="#B1" n="17"/>est humilitas, ibi est sapientia, &amp; Ecclesiast. 2. Sapientia humilitati exaltabit ca 
+          <lb ed="#B1" n="18"/>put suum. Et hoc est quod de iusto dicitur Esa. 37. Mittet radices deorsum, &amp; 
+          <lb ed="#B1" n="19"/>faciet fructus sursum,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

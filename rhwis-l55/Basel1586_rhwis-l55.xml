@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 55 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 55 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="193"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l55">
+        <p xml:id="rhwis-l55-d1e95">
+          <lb ed="#B1" n="32"/>POSTQVAM Spiritus sanctus declarauit quod impij ex compara 
+          <lb ed="#B1" n="33"/>tione iustorum euidenter iudicantur punibiles. Hic ostendit que ex per 
+          <lb ed="#B1" n="34"/>secutione iustorum excaecantur &amp; fiunt derisibiles. Excaecauit enim 
+          <lb ed="#B1" n="35"/>eos malicia eorum, Sap. 2. Et circa hoc duo facit. Primo tangit eorum 
+          <lb ed="#B1" n="36"/>culpam. Secundo subdit eorum poenam ibi: illos autem. Culpa est duplex, uideli  
+          <lb ed="#B1" n="37"/>cet ignorantia, &amp; malicia. Ignorantia in non intelligendo. Malicia in continen 
+          <lb ed="#B1" n="38"/>do. Dicit ergo sic: Videbunt, scilicet mali &amp; reprobi persecutores iustorum, sine 
+          <lb ed="#B1" n="39"/>sapientis: id est, martyris secundum glossam interlinearem, &amp; non intelligent  
+          <lb ed="#B1" n="40"/>propter maliciam excaecantem, 2. Cor. 4. DEUS huius seculi excaecauit mentes 
+          <lb ed="#B1" n="41"/>infidelium, ut in eis non fulgeat illuminatio Euamgelij. DEUS huius seculi: id est, 
+          <!--sap_Page_228.xml-->
+          <pb ed="#B1" n="194"/>
+          <lb ed="#B1" n="1"/>DEVS uerus, qui non solum bonos regit, sed etiam malos pro merito praecipi 
+          <lb ed="#B1" n="2"/>tat uel principatur secundum Ambros. uel DEUS huius seculi, qui est princeps 
+          <lb ed="#B1" n="3"/>huius mundi, qui secularibus principatur secundum Aug. &amp; ideo ex culpa eorum 
+          <lb ed="#B1" n="4"/>prouenit, quod non intelligunt, Esa. 6. Audite audientes &amp; nolite intelligere 
+          <lb ed="#B1" n="5"/>uisionem, uidete &amp; nolite cognoscere. Non igitur intelligent quid cogitaue 
+          <lb ed="#B1" n="6"/>rit de illo, scilicet sapiente DEVS: id est, qualiter DEVS praeparauit sibi coronam 
+          <lb ed="#B1" n="7"/>pro cinere, oleum pro luctu, pallium laudis pro spiritu moeroris. Quid autem 
+          <lb ed="#B1" n="8"/>DEVS super iustos, qui aduersa sustinent cogitet, ipse dicit Hieron. 29. Ego e 
+          <lb ed="#B1" n="9"/>nim scio cogitationes, quas cogito super uos, dicit Dominus. Cogitationes  
+          <lb ed="#B1" n="10"/>pacis &amp; non afflictionis, ut dem uobis finem &amp; patientiam. Et quare munierit. 
+          <lb ed="#B1" n="11"/>illum Dominus, supple non intelligent reprobi. Quare uidelicet Dominus 
+          <lb ed="#B1" n="12"/>munierit martyrem armis fidei secundum glossam. Ex hoc apparet quod lite 
+          <lb ed="#B1" n="13"/>ra debet esse munierit &amp; non munierit. Licet Rabanus sic exponit. Consequen 
+          <lb ed="#B1" n="14"/>ter cum dicit: Videbunt enim. Assignata eorum ignorantia assignat eorum maliciam  
+          <lb ed="#B1" n="15"/>dicens: Videbunt enim mortem sanctorum in praesenti, &amp; contemnent eos nescien 
+          <lb ed="#B1" n="16"/>tes finem futurae gloriae. Sicut diues contempsit Lazarum, &amp; tamen reportaba 
+          <lb ed="#B1" n="17"/>tur ab angelis in sinum Abrahae, Luc. 16. Et sic tangitur eorum culpa. Consequenter 
+          <lb ed="#B1" n="18"/>ibi: illos aut. Subditur eorum poena: quia Dominus illos irridebit: id est, dignos im 
+          <lb ed="#B1" n="19"/>sione monstrabit in die iudicij generalis, Proverb. 1. Ego quoqe in interitu ue 
+          <lb ed="#B1" n="20"/>stro ridebo &amp; subsannabo cum uobis quod timebatis aduertit. Et in Psalm. Qui  
+          <lb ed="#B1" n="21"/>habitat in coelis, irridebit eos, &amp; Dominus subsannabit eos. Irrisio proprie sit 
+          <lb ed="#B1" n="22"/>cum cachinnatione oris &amp; buccarum: sed subsannatio fit cum rugatione nasi. Et  
+          <lb ed="#B1" n="23"/>sic tantum uult dicere, quod DEVS ostendit reprobos omni irrisione dignos. 
+          <lb ed="#B1" n="24"/>Et haec est sententia literae. 
+        </p>
+        <p xml:id="rhwis-l55-d1e176">
+          <lb ed="#B1" n="25"/>Videbunt sinem sapientis.] Sapiens enim sicut dicit lsid. 10. Ethic. denominatus 
+          <lb ed="#B1" n="26"/>est a sapore: quia sicut gustus aptus est ad discernendum sapores ciborum: sic sa 
+          <lb ed="#B1" n="27"/>piens ad dinoscendum res &amp; rerum causas: eo quod unumquodque dinoscat,  
+          <lb ed="#B1" n="28"/>atque sensum ueritatis discernat. Cui contrarius est insipiens, eo quod sit sine sa 
+          <lb ed="#B1" n="29"/>pore nec alicuius discretionis siue sensus. Cum enim nullus sit sapiens a natu  
+          <lb ed="#B1" n="30"/>ra, sicut dicit Arist. 6. Ethic. cap. 8. Circa sapientiam quatuor sunt attendenda, 
+          <lb ed="#B1" n="31"/>uidelicet quis sit modus sapientiam adquirendi: quod signum sapientiam co 
+          <lb ed="#B1" n="32"/>gnoscendi: quod opus sapientiam exercendi: quis fructus sapientiam possi 
+          <lb ed="#B1" n="33"/>dendi: Primo igitur de modo adquirendi sapientiam. Sciendum quod ipsa non 
+          <lb ed="#B1" n="34"/>adquiritur sine amore, sine labore, sine humilitate, sine stabilitate. De primo 
+          <lb ed="#B1" n="35"/>Augustinus de moribus Ecclesiae &amp; monachorum lib. 1. cap. 29. Sapientia si 
+          <lb ed="#B1" n="36"/>non totis uiribus concupiscatur, inueniri non potest, amore quaeritur, amore re 
+          <lb ed="#B1" n="37"/>uelatur, amore in ea permanetur, Sap. 8. Hanc amaui &amp; exquisiui a iuuentute 
+          <lb ed="#B1" n="38"/>mea. Vnde metrice dicitur:  
+          <lb ed="#B1" n="39"/>Disce libens &amp; eris sapiens &amp; honore frueris, 
+          <lb ed="#B1" n="40"/>Quod fieri quaeris disce libens &amp; eris. 
+        </p>
+        <p xml:id="rhwis-l55-d1e213">
+          <lb ed="#B1" n="41"/>Primo igitur quaeritur amore. Secundo labore. Vnde narrat Hugo Didasco. 
+          <lb ed="#B1" n="42"/>lib. 2. parte 2: quod apud ueteres lecticam philosophiae quatuor personae sup  
+          <lb ed="#B1" n="43"/>portabant: duae in specie iuuenum praecedentes: &amp; duae in specie puellarum se 
+          <lb ed="#B1" n="44"/>quentes. Iuuenes dicebantur amor &amp; labor. Puellae cura &amp; uigilia. In labore 
+          <lb ed="#B1" n="45"/>est ut agas: in amore ut proficias: in cura ut prouideas: in uigilia ut attendas 
+          <lb ed="#B1" n="46"/>Vnde narrat Hieronym. in suo Policrato lib. 4. quod gentiles ueteres sapien 
+          <lb ed="#B1" n="47"/>tiam quasi omnium deorum principem coluerunt: &amp; eius imaginem praefori 
+          <lb ed="#B1" n="48"/>bus omnium templorum depinxerunt. Et iuxta imaginem eius ista uerba scri 
+          <lb ed="#B1" n="49"/>pserunt: Vsus me genuit, memoria me peperit: sophiam me uocant Graeci, uos 
+          <lb ed="#B1" n="50"/>sapientiam. Ego odi stultos homines &amp; ignauia opera, &amp; friuolas sententias. 
+          <lb ed="#B1" n="51"/>Et hoc est quod dicitur Proverb. 2. Si sapientiam inuocaueris &amp; inclinaueris  
+          <lb ed="#B1" n="52"/>cor tuum prudentiae, si quaesieris eam tanquam pecuniam, &amp; sicut thesauros effo 
+          <!--sap_Page_229.xml-->
+          <pb ed="#B1" n="195"/>
+          <lb ed="#B1" n="1"/>deris illam, tunc intelliges timorem Domini, &amp; scientiam DEI inuenies: quia 
+          <lb ed="#B1" n="2"/>Dominus dat sapientiam, &amp; ex ore eius prudentia. Sapientia in Scriptura fi 
+          <lb ed="#B1" n="3"/>guratur per aurum, quod inter metalla profundius generatur in terra, &amp; cum ma 
+          <lb ed="#B1" n="4"/>iori labore effoditur. Tertio ad adquirendam sapientiam requiritur humilitas. 
+          <lb ed="#B1" n="5"/>Vnde August. lib. 3. de natura &amp; origine Animae ad Vincentium in principio:  
+          <lb ed="#B1" n="6"/>Quantum apparet ex donis ingenii, quae tibi largitus est DEVS, profecto sa 
+          <lb ed="#B1" n="7"/>piens eris si te non esse credideris, atque ut sis ab illo qui facit sapientes pie, sup  
+          <lb ed="#B1" n="8"/>pliciter instanterque poposceris, &amp; malueris errore non decipi, quam errantium 
+          <lb ed="#B1" n="9"/>laudibus honorari. Et ideo cum quidam antiquus de modo dicendi interroga 
+          <lb ed="#B1" n="10"/>retur, respondit sicut recitat Hugo in suo Didasco. ubi prius: 
+          <lb ed="#B1" n="11"/>Mens humilis studium quaerendi vita quiet a 
+          <lb ed="#B1" n="12"/>Scrutinium tacitum paupertas, terra aliena. 
+          <lb ed="#B1" n="13"/>Hec reserare solent multis obscura legendo 
+          <lb ed="#B1" n="14"/>De studio uero &amp; humili voluntate discendi quam habuit Plato, scribit Hie 
+          <lb ed="#B1" n="15"/>rony. ad Paulinum presbyterum sub his uerbis: Si Plato Aegyptium &amp; Archi 
+          <lb ed="#B1" n="16"/>tam Tarentinum eandemque oram Italiae quae quondam magna Graecia dice 
+          <lb ed="#B1" n="17"/>batur laboriosissime peragrauit, ut qui Athenis magister erat &amp; potens, cuiusque  
+          <lb ed="#B1" n="18"/>doctrinas Academiae gymnasia personabant. Fieret peregrinus atque discipu 
+          <lb ed="#B1" n="19"/>lus, mallens aliena uerecunde discere quam sua impudenter ingerere, Proverb. 
+          <lb ed="#B1" n="20"/>11. Vbi est humilitas ibi est sapientia. Quarto requiritur stabilitas &amp; perseue 
+          <lb ed="#B1" n="21"/>rantia in addiscendo: unde antiquos philosophos usque ad mortem legimus stu 
+          <lb ed="#B1" n="22"/>duisse. Vnde Valer. lib. 8. Carncades laboriosus ac diuturnus sapientiae miles  
+          <lb ed="#B1" n="23"/>fuit. Siquidem expletis ZC. annis idem illi uiuendi, philosophandique finis fuit.  
+          <lb ed="#B1" n="24"/>SocratesTCIIII annum agens nobilissimum librum scripsit. Chrisippus 
+          <lb ed="#B1" n="25"/>ETTT anno exactissimae subtilitatis uolumen scripsit. Simonides LHVI. an 
+          <lb ed="#B1" n="26"/>no carmina conscripsit de stabilitate studij Archimedis, quem nos modo Archi 
+          <lb ed="#B1" n="27"/>medem dicimus, sicut credo. Idem narrat Valerius Archimedis quoque fru 
+          <lb ed="#B1" n="28"/>ctuosam fuisse industriam dicerem, nisi eadem illi dedisset uitam &amp; abstulisset.  
+          <lb ed="#B1" n="29"/>Captis enim Syracusis Marcellus, machinationibus eius diu ac multum. Vi 
+          <lb ed="#B1" n="30"/>ctoriam suam inhabitam senserat, eximia tamen hominis prudentia delecta 
+          <lb ed="#B1" n="31"/>tus, ut capiti illius parceretur edixit. Poenae tantum gloriae in Archimede re 
+          <lb ed="#B1" n="32"/>seruato quantum in oppressis Syracusis reponens, ac dum is oculis animoque  
+          <lb ed="#B1" n="33"/>in terram defixis formas describeret, militique praedandi gratia domum irrupe 
+          <lb ed="#B1" n="34"/>rat, extractoque super caput eius gladio, quisnam esset interrogabat. Propter 
+          <lb ed="#B1" n="35"/>nimiam cupiditatem inuestigandi, uel quod quaerebat, nomen suum indicare 
+          <lb ed="#B1" n="36"/>non potuit, sed protracto manibus puluere: Noli, inquit, obsecro istum circulum 
+          <lb ed="#B1" n="37"/>deturpare. Ac proinde quasi negligens impij lictoris, obtruncatus sanguine 
+          <lb ed="#B1" n="38"/>suo lineamenta artis suae confudit. Quo accidit ut propter studium modo do 
+          <lb ed="#B1" n="39"/>naretur uita, modo spoliaretur, Eccl. 6. Fili a iuuentute tua accipe doctrinam, 
+          <lb ed="#B1" n="40"/>&amp; usqe ad canos inuenies sapientiam. Sic ergo patet quis sit modus sapientiam 
+          <lb ed="#B1" n="41"/>adquirendi. Secundo uidendum est de signo sapientiam cognoscendi. 
+        </p>
+        <p xml:id="rhwis-l55-d1e335">
+          <lb ed="#B1" n="42"/>Vbi notandum quod apud Stoicos signum sapientiae fuit patientia. Vnde 
+          <lb ed="#B1" n="43"/>Seneca ad Serenum in lib. qui sic intitulatur. Quod in sapientem non cadit in 
+          <lb ed="#B1" n="44"/>iuria: sic dicit: Epicurus ait iniurias intolerabiles esse Sapienti. Nos autem iniu 
+          <lb ed="#B1" n="45"/>rias non esse, nec hoc naturae repugnare, non negamus rem incomodam esse 
+          <lb ed="#B1" n="46"/>uerberari, &amp; impelli, &amp; aliquo membro carere: sed omnia negamus iniurias es  
+          <lb ed="#B1" n="47"/>se. Non sensum illis doloribus subtrahimus: sed nomen iniuriae quod non po 
+          <lb ed="#B1" n="48"/>test recipi salua veritate. Vnde secundum eundem ibidem ista consequentia non 
+          <lb ed="#B1" n="49"/>ualet: aliquis homo facit mihi iniuriam: Ergo ego accipio iniuriam. Ponit enim 
+          <lb ed="#B1" n="50"/>exemplares instantias. Esto quod aliquis rem quam e uilla mea surripuit, in do 
+          <lb ed="#B1" n="51"/>mo mea ponat, ille furtum fecit, ego nihil perdidi. Si quis cum uxore sua tanquam 
+          <lb ed="#B1" n="52"/>aliena concubat, adulter erit. Quamuis illa adultera non sit. Aliquis mihi dedit  
+          <lb ed="#B1" n="53"/>uenenum, sed uim suam mixtum cibo perdidit, sceleri se obligauit, &amp; si non 
+          <!--sap_Page_230.xml-->
+          <pb ed="#B1" n="196"/>
+          <lb ed="#B1" n="1"/>nocuit: non minus latro est, cuius telum opposita ueste eclusum est omnia sce 
+          <lb ed="#B1" n="2"/>lera ante effectum operis, quando culpae satis est, perfecta sunt. Eodem modo  
+          <lb ed="#B1" n="3"/>licet aliquis inferat iniuriam, sapiens eam non recipit. Multa enim sunt quae in 
+          <lb ed="#B1" n="4"/>iuriam submouere possunt.
+        </p>
+        <p xml:id="rhwis-l55-d1e377">
+          <!-- unsure about break -->
+          Secundo quod in sapientem non cadit contume 
+          <lb ed="#B1" n="5"/>lia sic persuadet. Multa enim que uidentur contumeliae non sunt. Sed fiunt uitia 
+          <lb ed="#B1" n="6"/>interpretantis. Si aliquis dicatlibi contumeliam fieri ab aliquo qui sibi non as  
+          <lb ed="#B1" n="7"/>surgit. Ponit ergo tale exemplum. Pueri aliquando feriunt parentes, expuunt  
+          <lb ed="#B1" n="8"/>in matrem &amp; lacerant, &amp; tamen nullus dicit eos contumeliam intulisse. Et subdit:  
+          <lb ed="#B1" n="9"/>Quem animum nos aduersus pueros habebimus hunc sapiens aduersus omnes. 
+          <lb ed="#B1" n="10"/>Quibus etiam post iuuentam, canosque puerilitas est. Et addit: Quod inter eos 
+          <lb ed="#B1" n="11"/>&amp; pueros non est differentia, nisi quod in maioribus errant uoluptatem secuti, nul 
+          <lb ed="#B1" n="12"/>la ratione regulati. Si quaeratur ab eo. Quare si sapiens non accepit iniuriam nec 
+          <lb ed="#B1" n="13"/>contumeliam, punit qui talia sibi uel alijs inferunt. Respondet: Non se ulciscitur,  
+          <lb ed="#B1" n="14"/>sed illos emendat, nec tamen irascitur. Quis medicus phrenetico irascitur: Quis 
+          <lb ed="#B1" n="15"/>febricitantis a frigida aqua prohibiti maledicta in malam partem accipit: Hunc  
+          <lb ed="#B1" n="16"/>affectum aduersus omnes habet sapiens, quem aduersus suos aegros medicus. 
+          <lb ed="#B1" n="17"/>Scit sapiens omnes hos qui togati purpuratique incedunt. Valentes, coloratos:  
+          <lb ed="#B1" n="18"/>sed male sanos esse, quos non aliter uidet quam aegros &amp; intemperatos. Non 
+          <lb ed="#B1" n="19"/>respicit quid homines turpe iudicent aut miserum non id quod populus, sed  
+          <lb ed="#B1" n="20"/>ut sidera contrarium mundo iter intendunt: ita hic aduersus opinionem omnium 
+          <lb ed="#B1" n="21"/>uadit. Haec ille. Signum ergo sapientiae secundum Stoicos est non pati iniurias. 
+          <lb ed="#B1" n="22"/>Vnde <ref xml:id="rhwis-l55-Rd1e420">Boëtius, 2. de Conso. prosa 7</ref>. narrat de quodam, qui false assumpsit sibi 
+          <lb ed="#B1" n="23"/>nomen philosophi. Ad istum casu accessit quidam, &amp; dixit se uelle experiri an 
+          <lb ed="#B1" n="24"/>uere esset philosophus, si illatas iniurias leuiter patienterque sustineret. Ille ergo 
+          <lb ed="#B1" n="25"/>paulisper patientiam assumpsit, acceptaque contumelia uelut insultans: iam tan 
+          <lb ed="#B1" n="26"/>dem (inquit) intelligis me esse philosophum. Cui ille nimium mordaciter: In 
+          <lb ed="#B1" n="27"/>tellexeram (inquit) si tacuisses, quasi diceret. Si tacuisses, putassem te philoso 
+          <lb ed="#B1" n="28"/>phum. Nunc autem quia de tua patientia quaeris uanam gloriam, scio quia phi  
+          <lb ed="#B1" n="29"/>losophus non es. Et inde accipitur hoc uulgare prouerbium: Si tacuisses, phi  
+          <lb ed="#B1" n="30"/>losophus fuisses, Eccles. 20. Homo sapiens tacebit usque ad tempus: lasciuus au 
+          <lb ed="#B1" n="31"/>tem &amp; imprudens non seruabit tempus.
+        </p>
+        <p xml:id="rhwis-l55-d1e444">
+          <lb ed="#B1" n="32"/>Tertio uidendum est quod sit opus sapientiam exercendi: ubi notandum, quod  
+          <lb ed="#B1" n="33"/>praecipue tres sunt actus sapientis, informare, reprobare, &amp; ordinare. Informa. 
+          <lb ed="#B1" n="34"/>re mores, reprobare errores, &amp; ordinare inferiores. Et ideo dicit Aristot. 1. E 
+          <lb ed="#B1" n="35"/>lenchorum: Est autem ut ad unum sit dicere opus scientis non mentiri, de qui  
+          <lb ed="#B1" n="36"/>bus nouit, &amp; mentientem posse manifestare. Primum pertinet ad informatio 
+          <lb ed="#B1" n="37"/>nem: secundum ad reprobationem. Dicit etiam Philosophus 1. Metha. quod  
+          <lb ed="#B1" n="38"/>inter ea quae homines de sapiente concupiunt: communiter est unum quod ad 
+          <lb ed="#B1" n="39"/>eum pertinet ordinare. Et ideo in aureo seculo soli sapientes gubernabant. Si  
+          <lb ed="#B1" n="40"/>cut dicit Seneca in Epist. 92. &amp; Hiero. in suo Polycrato lib. 4. Romanos prin 
+          <lb ed="#B1" n="41"/>cipes aut duces dum eorum respublica uiguit: non meminit illiteratos extitis  
+          <lb ed="#B1" n="42"/>se. Et nescio quomodo contigit ex quo in principibus languit uirtus literarum, 
+          <lb ed="#B1" n="43"/>armatae militiae infirmata est manus, &amp; ipsius principatus quasi praecisa est ra 
+          <lb ed="#B1" n="44"/>dix. Vnde quidam rex Romanorum scribens Epistolam cuidam regi Franco 
+          <lb ed="#B1" n="45"/>rum quatenus filios suos in literis erudiret. Istud interseruit. Rex (inquit) illite 
+          <lb ed="#B1" n="46"/>ratus quasi asinus coronatus. Hinc est quod Carolus transtulit studium de Ro 
+          <lb ed="#B1" n="47"/>ma int Parisios. De quo dicitur, quod omnes artes liberales habuit in suo pala 
+          <lb ed="#B1" n="48"/>tio miro modo depictas. Et de Dauid dicitur, quod habuit sapientiam sicut ange 
+          <lb ed="#B1" n="49"/>lus DEI. Nulla enim comunitas sine sapientibus regi potest. Sap. 6. Multitudo sa 
+          <lb ed="#B1" n="50"/>pientum sanitas est orbis terrarum. In cuius signum narrat Isid. lib. 1. Ethy. cap. 26. 
+          <lb ed="#B1" n="51"/>Quod Demosthenes orator contra Philippum regem tali fabula vsus est. Cum Philip 
+          <lb ed="#B1" n="52"/>pus Athenienses obsideret, postulauit ut sibi decem oratores darentur, &amp; tali pa 
+          <lb ed="#B1" n="53"/>cto discederet. Respondit Demosthenes: Lupos aliquando pastoribus, quorum 
+          <!--sap_Page_231.xml-->
+          <pb ed="#B1" n="197"/>
+          <lb ed="#B1" n="1"/>diligentiam decipere uolebant suasisse, ut in amicitiam conuenirent, ea condi 
+          <lb ed="#B1" n="2"/>tione, ut canes in quibus erat causa iurgiorum iure illis traderentur. Annuerunt  
+          <lb ed="#B1" n="3"/>pastores in spem securitatis, dederunt canes quos ouium suarum uigilantissimos 
+          <lb ed="#B1" n="4"/>custodes habebant. Lupi ergo omni formidine adempta, omne quod in gre 
+          <lb ed="#B1" n="5"/>gibus illis erat, non pro satietate, sed pro libidine lacerarunt. Et isto modo  
+          <lb ed="#B1" n="6"/>suasit Atheniensibus Philippum regem, principes populi postulare, quo faci 
+          <lb ed="#B1" n="7"/>lius posset opprimere spoliatam custodibus urbem. 
+        </p>
+        <p xml:id="rhwis-l55-d1e514">
+          <lb ed="#B1" n="8"/>Quarto uidendum, quis est fructus sapientiam possidendi. De hoc satis di 
+          <lb ed="#B1" n="9"/>citur Eccles. 6. Quid habet amplius sapiens a stulto, &amp; quid pauper nisi pergat  
+          <lb ed="#B1" n="10"/>illuc ubi est uita. Et Sap. 6. Concupiscentia sapienti deducet ad regnum perpetuum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

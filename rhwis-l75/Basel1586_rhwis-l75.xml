@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 75 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 75 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="264"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l75">
+        <p xml:id="rhwis-l75-d1e95">
+          <lb ed="#B1" n="6"/>CVM finis &amp; perfectio sapientiae sit hominem dirigere ad seipsum 
+          <lb ed="#B1" n="7"/>&amp; alios uirtuose regendum, &amp; hoc maxime ad reges, iudices, &amp; 
+          <lb ed="#B1" n="8"/>praelatos pertineat, &amp; iam declaratum sit, quod sine sapientia non 
+          <lb ed="#B1" n="9"/> possunt esse iusti, nec sine iusticia sapientes. Concludit hic Spiritus 
+          <lb ed="#B1" n="10"/>sanctus ex omnibus praecedentibus istam persuasionem. Audite ergo re 
+          <lb ed="#B1" n="11"/>ges, &amp;c. quasi diceret: Vos estis qui sapientiam &amp; iusticiam subiectis uestris ad 
+          <lb ed="#B1" n="12"/>ministrare tenemini. Sapientia uero sine disciplina haberi non potest: Ergo 
+          <lb ed="#B1" n="13"/>Audite reges &amp; principes, &amp; intelligite. In Psalm. Et nunc reges intelligite eru 
+          <lb ed="#B1" n="14"/>dimini qui iudicatis terram. Persuadet ergo Spiritus sanctus in hoc textu qua 
+          <lb ed="#B1" n="15"/>tuor, scilicet humilitatem addiscendi, dudite reges: Subtilitatem advertendi, In 
+          <lb ed="#B1" n="16"/>telligite: Auiditatem inquirendi, Discite: Seueritatem exequendi, ludices finiam 
+          <lb ed="#B1" n="17"/>terra. Dicit ergo sic literaliter ordinando sententiam: O reges: id est, quicunque  
+          <lb ed="#B1" n="18"/>praelati, audite aure corporis, quia, Eccles. 6. Si dilexeris audire, sapiens eris. Et  
+          <lb ed="#B1" n="19"/>hoc est tibi rectori satis utile, cum sis rex: quia Eccles. 10. Rex insipiens perdet  
+          <lb ed="#B1" n="20"/>populum suum, propter quod signanter Salomon cum rex constitueretur a do 
+          <lb ed="#B1" n="21"/>mino petijt, 2. Paralip. id est, Da mihi Domine sapientiam &amp; intelligentiam, ut  
+          <lb ed="#B1" n="22"/>egrediar coram populo tuo &amp; ingrediar. Sed quia non sufficit aure per 
+          <lb ed="#B1" n="23"/>cipere, nisi concipiatur &amp; mente. Ideo subdit intelligite: quia Prover 
+          <lb ed="#B1" n="24"/>biorum 1. Audiens sapiens sapientior erit, &amp; intelligens gubernacula pos  
+          <lb ed="#B1" n="25"/>sidebit. Et iterum: uos iudices finium terrae: id est, uos iudices genera 
+          <lb ed="#B1" n="26"/>les, quia quanto maior est uestra iurisdictio, tanto maior requiritur in uo 
+          <lb ed="#B1" n="27"/>bis iusticiae dilectio Esa. 1. Discite benefacere, quia hoc sufficit. Primo ergo 
+          <lb ed="#B1" n="28"/>in hac litera regibus persuadetur humilitas addiscendi. Vnde dicitur Audite 
+          <lb ed="#B1" n="29"/>ergo reger. Cum enim nulla virtus nobis innascatur, neque moralis, 2. Ethicorum, 
+          <lb ed="#B1" n="30"/>neque intellectualis, 3 de Anima. Eo quod anima est sicut tabula nuda vel rasa, 
+          <lb ed="#B1" n="31"/>&amp;c. Reges uero summe uirtutibus indigeant. Et iterum: Auditus sit sensus mul  
+          <lb ed="#B1" n="32"/>tum disciplinabilis. Iuxta illud:  
+          <lb ed="#B1" n="33"/>Atius immutant animam demissa per aures. 
+        </p>
+        <p xml:id="rhwis-l75-d1e158">
+          <lb ed="#B1" n="34"/>Ergo audite reges. Iudicum, 5. Audite reges, auribus percipite principes. O 
+          <lb ed="#B1" n="35"/>mnem enim regem decet summe DEVM colere, &amp; legem DEI scire. Vnde 
+          <lb ed="#B1" n="36"/>Deuteronomij 17. Lex Mosaica praecepit sic. Postquam sederit rex in solio regni 
+          <lb ed="#B1" n="37"/>sui, describet sibi Deuteronomium legis huius in uolumine, accipiens exem 
+          <lb ed="#B1" n="38"/>plar a sacerdotibus Leuiticae tribus. Et habeat secum, legetque illud omnibus 
+          <lb ed="#B1" n="39"/>diebus uitae suae, ut discat timere Dominum DEUM suum, &amp; custodire uer 
+          <lb ed="#B1" n="40"/>ba &amp; ceremonias, quae in lege eius praecepta sunt. Et ideo in coronatione regis 
+          <lb ed="#B1" n="41"/>priusquam benedictio uel consecratio super eum fiat, ista tria faciet iuramenta 
+          <lb ed="#B1" n="42"/>sub hac forma. In CHRISTI nomine promitto haec tria populo Christiano 
+          <lb ed="#B1" n="43"/>mihi subdito. In primis me praecepturum, &amp; opem pro uiribus impensurum, ut  
+          <lb ed="#B1" n="44"/>Ecclesia DEI &amp; omnis populus Christianus ueram pacem nostro arbitrio in 
+          <lb ed="#B1" n="45"/>omni tempore conseruet: Aliud. Vt rapacitates &amp; omnes iniquitates, omni 
+          <!--sap_Page_299.xml-->
+          <pb ed="#B1" n="265"/>
+          <lb ed="#B1" n="1"/>bus gradibus interdicam. Tertium vt in omnibus iudicibus aequitatem &amp; mi 
+          <lb ed="#B1" n="2"/>sericordiam praecipiam, ut mihi &amp; uobis indulgeat misericordiam suam clemens  
+          <lb ed="#B1" n="3"/>&amp; misericors DEVS. Ecce quam secura conscientia potest talis uiuere, qui habe i 
+          <lb ed="#B1" n="4"/>sub se quasi infinitum populum regere: cum haec tria seruare in rebelli gente &amp; 
+          <lb ed="#B1" n="5"/>falsa sit summe difficile. Non enim ad ludum, nec ad honorem tantum, nec ad ocium, 
+          <lb ed="#B1" n="6"/>sed ad periculum, solicitudinem, &amp; summum negocium est uocatus. Postquam au 
+          <lb ed="#B1" n="7"/>tem rex praedicta iurauerit, dictis super eum quibusdam orationibus, tunc Me 
+          <lb ed="#B1" n="8"/>tropolitanus inunget ei manus de oleo sanctificato, &amp; postea pectus &amp; scapu 
+          <lb ed="#B1" n="9"/>las compagesque brachiorum, &amp; tandem de oleo eodem fiet crux super caput  
+          <lb ed="#B1" n="10"/>eius, postea de chrismate cum orationibus: postea ab episcopis accipiet ensem 
+          <lb ed="#B1" n="11"/>ut cum ense totum regnum sibi fideliter ad regendum sciat esse comendatum di 
+          <lb ed="#B1" n="12"/>cente Metropolitano, si tamen solennitatem faciat. Accipe gladium per manus 
+          <lb ed="#B1" n="13"/>episcoporum, licet indignus, uice tamen &amp; autoritate Apostolorum consecra 
+          <lb ed="#B1" n="14"/>tus, tibi regaliter impositum nostrae benedictionis officio, in defensionem sanctae 
+          <lb ed="#B1" n="15"/>DEI Ecclesiae diuinitus ordinatum. Et esto memor de quo Psalm. propheta 
+          <lb ed="#B1" n="16"/>uit, dicens: Accingere gladio tuo super femur tuum potentissime: ut per eun 
+          <lb ed="#B1" n="17"/>dem uim aequitatis exerceas, molem iniquitatis potenter destruas, &amp; san 
+          <lb ed="#B1" n="18"/>ctam DEI Ecclesiam eiusque fideles propugnando protegas, nec minus sub fi 
+          <lb ed="#B1" n="19"/>de falsos quam Christiani nominis hostes execreris &amp; destruas, uiduas &amp; pu 
+          <lb ed="#B1" n="20"/>pillos clementer adiuues &amp; defendas: Desolata restaures, &amp; restaurata con 
+          <lb ed="#B1" n="21"/>serues. Vlciscaris iniusta, confirmes bene disposita, quatenus haec agendo uir 
+          <lb ed="#B1" n="22"/>tutum triumphator gloriosus iusticiaeque cultor egregius, cum mundi Saluatore,  
+          <lb ed="#B1" n="23"/>cuius typum geris in nomine sine fine merearis regnare. Cum accinctus fuerit 
+          <lb ed="#B1" n="24"/>ense accipiet armillas. A Metropolitano cum hac praeuia oratione. Accipe armil 
+          <lb ed="#B1" n="25"/>las sinceritatis &amp; sapientiae, DEI neque triumphationis indicium, quibus intel  
+          <lb ed="#B1" n="26"/>ligas omnes operationes tuas contra hostes uisibiles posse esse munitas. De 
+          <lb ed="#B1" n="27"/>inde accipiet pallium, &amp; postea coronabitur. Post illa accipiet annulum. De 
+          <lb ed="#B1" n="28"/>inde sceptrum, &amp; ultimo uirgam. Coronatus ergo episcopos osculetur, a qui  
+          <lb ed="#B1" n="29"/>bus choro canente: Te DEVM laudamus, ad solium regale ducitur, Metro 
+          <lb ed="#B1" n="30"/>politano dicente: Sta &amp; retine ammodo locum, quem hucusque paterna succes 
+          <lb ed="#B1" n="31"/>sione tenuisti, haereditario iure tibi delegatum per autoritatem DEI omnipo 
+          <lb ed="#B1" n="32"/>tentis, &amp; praesentem traditionem nostram, atque omnium episcoporum caete 
+          <lb ed="#B1" n="33"/>rorumque DEI seruorum, Et quanto clerum sacris altaribus propinquiorem pro 
+          <lb ed="#B1" n="34"/>spicis, tanto ei potiorem in locis congruis honorem impendere memineris: 
+          <lb ed="#B1" n="35"/>quatenus mediator DEI &amp; hominum, te mediatorem cleri &amp; plebis in hoc 
+          <lb ed="#B1" n="36"/>tegni solio confirmet, &amp; in regnum aeternum faciat regnare IESVS CHRI 
+          <lb ed="#B1" n="37"/>STVS Dominus noster, Rex regum, &amp; Dominus dominantium, Laetaniae &amp; 
+          <lb ed="#B1" n="38"/>aliae multae orationes dicuntur super eum, quae omnes eum declarant debere 
+          <lb ed="#B1" n="39"/>esse cultorem iusticiae &amp; fidei zelatorem, quae sine doctrina sapientum exequi  
+          <lb ed="#B1" n="40"/>non potest. Et ideo eis signanter dicitur sub figura: Montes Israel audite uerbum  
+          <lb ed="#B1" n="41"/>Domini. Non solum autem isti in Sacra scriptura reges dicuntur, sed etiam cle 
+          <lb ed="#B1" n="42"/>rici qui se &amp; alios bene regunt. Sicut habetur 12. q. 1. Duo sunt genera.
+        </p>
+        <p xml:id="rhwis-l75-d1e282">
+          Et ad  
+          <lb ed="#B1" n="43"/>hos dici potest dudite reges. Et 1. Pet. 2. Vos estis genus electum, regale sacer 
+          <lb ed="#B1" n="44"/>dotium, gens sancta, &amp; populus adquisitionis. Sed caueant ne de eis verifice 
+          <lb ed="#B1" n="45"/>tur quod dicit Gilbertus de Tornato in quodam sermone. Vos estis, inquit,  
+          <lb ed="#B1" n="46"/>genus deiectum, seruile sacerdotium, gens prophana, populus perditionis 
+          <lb ed="#B1" n="47"/>Quod absit. Secundo persuadet Spiritus sanctus regibus &amp; praelatis non so 
+          <lb ed="#B1" n="48"/>lum humilitatem addiscendi, sed etiam subtilitatem advertendi. Vnde dicit 
+          <lb ed="#B1" n="49"/>&amp; intelligite, Psalm. Intelligite insipientes in populo, &amp; stulti aliquando sapi 
+          <lb ed="#B1" n="50"/>te. Intelligere est quasi intus legere: hoc est, ponderare, &amp; recordari, ac memo 
+          <lb ed="#B1" n="51"/>riter retinere: quia legere &amp; non intelligere, est negligere. Sed grauiter conse 
+          <lb ed="#B1" n="52"/>quitur Psalm. Dominus de coelo prospexit super filios hominum, ut uideat, si 
+          <lb ed="#B1" n="53"/>est intelligens aut requirens DEVM. Et sequitur: omnes declinauerunt, simul 
+          <!--sap_Page_300.xml-->
+          <pb ed="#B1" n="266"/>
+          <lb ed="#B1" n="1"/>inutiles facti sunt, &amp;c. Tertio suadet Spiritus sanctus rectoribus, gubernato  
+          <lb ed="#B1" n="2"/>ribus, ac iudicibus aliorum, auiditatem inquirendi, cum dicit: Discite, Prover. 6. 
+          <lb ed="#B1" n="3"/>Vade ad formicam o piger &amp; considera uias eius, &amp; disce sapientiam, &amp; idem pe 
+          <lb ed="#B1" n="4"/>tiuit Psalm. Da mihi intellectum, ut discam mandata tua. Et iterum Matth. 11. 
+          <lb ed="#B1" n="5"/><quote xml:id="rhwis-l75-Qd1e322" source="http://scta.info/resource/mt11_29">Discite a me, quia mitis sum &amp; humilis corde &amp; inuenietis requiem animabus 
+            <lb ed="#B1" n="6"/>uestris</quote>. Quantam auiditatem inquirendi habuerunt principes antiquitus circa 
+          <lb ed="#B1" n="7"/>sapientiam, patet specialiter de Alexandro Magno, qui per patrem suum Philip  
+          <lb ed="#B1" n="8"/>pum regem Macedoniae disciplinis Aristot. traditus, cui Aristoteli Philippus 
+          <lb ed="#B1" n="9"/>mox Alexandro nato hanc Epistolam destinauit, sicut narrat Aulus Gellius li  
+          <lb ed="#B1" n="10"/>bro noctium Atticarum. Et habetur in forma, ut sequitur: Philippus Aristoteli  
+          <lb ed="#B1" n="11"/>salutem dicit. Filium mihigenitum scito. Quo equidem dijs habeo referre gra 
+          <lb ed="#B1" n="12"/>tiam: non tam proinde quia natus est, quam pro eo quod eum nasci contigit 
+          <lb ed="#B1" n="13"/>temporibus uitae tuae. Spero enim forte ut educatusque, eruditus a te dignus 
+          <lb ed="#B1" n="14"/>existat &amp; nobis, &amp; istarum rerum successione. Vult ergo dicere, quod per do 
+          <lb ed="#B1" n="15"/>ctrinam Aristotelis, &amp; educationem sperauit filium suum fieri dignum infla 
+          <lb ed="#B1" n="16"/>tione regis, &amp; regia successione in regno. De studio uero Alexandri Magni 
+          <lb ed="#B1" n="17"/>scribit Alexander: Nequam libro suo de naturis rerum, sic Alexandrum Aristo 
+          <lb ed="#B1" n="18"/>telis discipulum fuisse Macedonem certum est, cuius causa logicam elabora 
+          <lb ed="#B1" n="19"/>uit: Tam sedulus autem naturarum indagator extitit Macedo, ut in uase uitrio 
+          <lb ed="#B1" n="20"/>in mare missus naturas &amp; consuetudines piscium depraehendit. Gallum enim 
+          <lb ed="#B1" n="21"/>secum habuit, ut super diluculo certificaretur per galli cantum. Et in uase dicto 
+          <lb ed="#B1" n="22"/>didicit, quomodo insidiae clandestinae praeparandae sunt super hostes in re mi 
+          <lb ed="#B1" n="23"/>litari, dum exercitus piscium contra alios insurgere conspexit. Ordinauit etiam 
+          <lb ed="#B1" n="24"/>sicut narrat Plinius aliquot millia hominum, qui in tota Asia &amp; Graecia uaca 
+          <lb ed="#B1" n="25"/>rent armentis, aluearibus, piscinis, uinarijs, ne quid uel quaqe gentium ignora 
+          <lb ed="#B1" n="26"/>retur. Quicquid uero illi experiebantur, Aristoteli summo uiro sine mora inno 
+          <lb ed="#B1" n="27"/>tuit. Quos Aristoteles percunctando quinquaginta uere uolumina illa prae 
+          <lb ed="#B1" n="28"/>clara de animalibus condidit. Haec Plinius: licet apud nos non nisi decem &amp; 
+          <lb ed="#B1" n="29"/>novem habeantur. Patet ergo istius auiditas addiscendi. Nos autem non mo 
+          <lb ed="#B1" n="30"/>nemur eadem tanta curiositate scrutari, sed a simili ea quae ad DEI cultum &amp; 
+          <lb ed="#B1" n="31"/>bonos mores pertinent solummodo studio consimili perscrutari. Augustinus 
+          <lb ed="#B1" n="32"/>19. de Ciui. DEI, cap. 6. Ignorantia iudicis uel principis, plerunque est calami 
+          <lb ed="#B1" n="33"/>tas populi innocentis, &amp; Baruch. 3. Disce o princeps ubi sit sapientia, ubi pru 
+          <lb ed="#B1" n="34"/>dentia, ubi sit intellectus &amp; uirtus, ut scias simul ubi sit longanimitas uitae &amp; 
+          <lb ed="#B1" n="35"/>uirtus, ubi sit lumen oculorum &amp; pax.  
+        </p>
+        <p xml:id="rhwis-l75-d1e390">
+          <lb ed="#B1" n="36"/>Vltimo persuadet gubernatoribus aliorum seueritatem exequendi illud  
+          <lb ed="#B1" n="37"/>quod iustum est, cum dicit: Iudices finium terrae. Moraliter mali dicuntur fines terrae. 
+          <lb ed="#B1" n="38"/>&amp; in illos debent iudices seueritatem exercere. Vnde de iudice dicitur ad Ro 
+          <lb ed="#B1" n="39"/>manos 13. DEI enim minister es in uindictam, uindex in iram ei, qui malum 
+          <lb ed="#B1" n="40"/>agit. Deuter.16. Iudices &amp; magistros constitues in omnibus portis tuis, ut iu 
+          <lb ed="#B1" n="41"/>dicent populum tuum iusto iudicio. Nec in alteram partem declinent. Non 
+          <lb ed="#B1" n="42"/>accipias personam nec munera: quia munera excaecant oculos iudicum, &amp; mu 
+          <lb ed="#B1" n="43"/>tant uerba iustorum. Qua in re notandum est, ne ad proferendam sententiam  
+          <lb ed="#B1" n="44"/>nunquam praecipites esse debeamus, ne temere indiscussa iudicemus, ne 
+          <lb ed="#B1" n="45"/>quaelibet mala audita nos moueant, ne passim dicta sine 
+          <lb ed="#B1" n="46"/>probatione credamus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

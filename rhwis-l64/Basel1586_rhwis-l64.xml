@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 64 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 64 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="223"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l64">
+        <p xml:id="rhwis-l64-d1e95">
+          <lb ed="#B1" n="30"/>POSITA confessione facienda ab impijs in iudicio generali, per 
+          <lb ed="#B1" n="31"/>quam declaratur, quod ipsi amauerunt temporalia tanquam sum 
+          <lb ed="#B1" n="32"/>mam felicitatem: Hic ponitur confessio per quam declarabunt tem  
+          <lb ed="#B1" n="33"/>poralis felicitatis uanitatem. Et circa hoc duo faciunt. Nam pri 
+          <lb ed="#B1" n="34"/>mo exemplificant. Secundo exempla applicant. Secunda pars 
+          <lb ed="#B1" n="35"/>ii: Sic &amp; nos nati desiuimus. 
+        </p>
+        <p xml:id="rhwis-l64-d1e111">
+          <lb ed="#B1" n="36"/>Circa primum ponunt quinque exempla: &amp; secundum hoc litera diuiditur  
+          <lb ed="#B1" n="37"/>in quinque partes. Comparant enim temporalem felicitatem umbrae uanescen 
+          <lb ed="#B1" n="38"/>ti, nuncio praecurrenti, naui transfretanti, aui transuolanti, &amp; sagittae festinan 
+          <lb ed="#B1" n="39"/>ti. De istis quinque tria ponuntur exempla in lectione hodierna, sicut pa 
+          <lb ed="#B1" n="40"/>tet. Dicunt ergo sic: Transierunt omnia illa, quae nos tantum amauimus 
+          <lb ed="#B1" n="41"/>in seculo tanquam vmbra. Sicut enim umbra abscondit hominem a lumi 
+          <lb ed="#B1" n="42"/>ne Solis materialis: ita diuitiae, honores &amp; cupiditates mundanae auferunt &amp; 
+          <!--sap_Page_258.xml-->
+          <pb ed="#B1" n="224"/>
+          <lb ed="#B1" n="1"/>abscondunt homini gratiam &amp; dilectionem DEI, Sapien. cap. 2. Vmbrae enim 
+          <lb ed="#B1" n="2"/>transitus est tempus nostrum. Item Psalm. Sicut umbra cum declinat ablatus 
+          <lb ed="#B1" n="3"/>sum, dicit in persona peccatoris. Vbi notandum quod iuxta tria genera pec 
+          <lb ed="#B1" n="4"/>catorum triplex umbra correspondet. Est enim peccatum originale: est pec 
+          <lb ed="#B1" n="5"/>catum ueniale: est peccatum mortale. Peccato originali, si non deleatur per 
+          <lb ed="#B1" n="6"/>baptismum, correspondet poena aeterna. Mitissima tamen est sicut dicit Au 
+          <lb ed="#B1" n="7"/>gustinus: Peccato ueniali correspondet poena temporalis. Aut hic aut in pur 
+          <lb ed="#B1" n="8"/>gatorio. Peccato mortali correspondet poena aeterna, &amp; tanto maior quan  
+          <lb ed="#B1" n="9"/>to in hac uita fuerit diuturnior &amp; intensior. Isti triplici peccato correspon 
+          <lb ed="#B1" n="10"/>det triplex umbra. Est enim quaedam umbra secundum figuraml chylindroy  
+          <lb ed="#B1" n="11"/>des: quaedam * conoydes: quaedam uero scalathoydes. Chylindrus est fi 
+          <lb ed="#B1" n="12"/>gura rotunda &amp; longa &amp; inter lineas aequedistantes contenta. Vnde quan  
+          <lb ed="#B1" n="13"/>do corpus opacum &amp; luminosum corpus sunt aequalia, proijcitur umbra chy 
+          <lb ed="#B1" n="14"/>lindroydes in infinitum super lineas aequedistantes: posito quod nullum a 
+          <lb ed="#B1" n="15"/>liud corpus luminosum impediat. Sic peccatum originale est quasi aequale 
+          <lb ed="#B1" n="16"/>lumini gratiae, quae posset concedi homini, &amp; quae primo homini fuit con 
+          <lb ed="#B1" n="17"/>cessa in statu innocentiae, pro se &amp; suis successoribus. Et ideo poena correspon 
+          <lb ed="#B1" n="18"/>dens isto peccato est infinita. Et tamen semper inter lineas aequedistantes: quia 
+          <lb ed="#B1" n="19"/>illud peccatum augeri non potest. Licet alia possunt sibi addi. Vnde poena 
+          <lb ed="#B1" n="20"/>ista tenet quasi figuram chylindroydes. Sed poena peccati uenialis corre 
+          <lb ed="#B1" n="21"/>spondet Tconoydes umbra. Conus est figura a lato tendens in acutum, &amp; 
+          <lb ed="#B1" n="22"/>causatur quotiens corpus obscurum est minus corpore luminoso, cui obijci 
+          <lb ed="#B1" n="23"/>tur. Tunc ei umbra necessario tendit in conum &amp; terminatur, sicut patet in 
+          <lb ed="#B1" n="24"/>umbra terrae respectu Solis. Sic moraliter peccatum ueniale minus est quam  
+          <lb ed="#B1" n="25"/>oratia: quia gratiam annihilare non potest: unde licet feruorem gratiae impe 
+          <lb ed="#B1" n="26"/>diat in operatione meritoria. Stat tamen cum gratia, &amp; ideo poena siue umbra 
+          <lb ed="#B1" n="27"/>quam causat peccatum ueniale finitur necessario, &amp; tendit in conum: quia sa 
+          <lb ed="#B1" n="28"/>tisfactione temporali finiri potest. Poenae uero peccati mortalis correspondet 
+          <lb ed="#B1" n="29"/>umbra x calathoydes. Calathus est figura contraria cono: quia incipit ab acu 
+          <lb ed="#B1" n="30"/>to, &amp; tendit in latum. Et haec figura conuenit umbrae, quando corpus lumino 
+          <lb ed="#B1" n="31"/>sum est minus corpore opaco. Et haec umbra significat poenam peccati morta 
+          <lb ed="#B1" n="32"/>lis, incipientem a modica tentatione, &amp; tendentem in latum per continuatio  
+          <lb ed="#B1" n="33"/>nem, assuefactionem &amp; recidiuationem: &amp; hoc in infinitum. Et haec est <quote xml:id="rhwis-l64-Qd1e204" source="http://scta.info/resource/iob10_22">umbra 
+            <lb ed="#B1" n="34"/>mortis ubi nullus ordo, sed sempiternus horror inhabitat</quote>, Iob 10. in fine.
+        </p>
+        <p xml:id="rhwis-l64-d1e210">
+          <lb ed="#B1" n="35"/>Secundum exemplum de felicitate temporali est quod comparatur nun 
+          <lb ed="#B1" n="36"/>cio praecurrenti. Licet omnis nuncius habet festinare: ille tamen maxime qui  
+          <lb ed="#B1" n="37"/>praecedit dominum suum pro hospitio, &amp; cibo praeparando: Ideo felicitas 
+          <lb ed="#B1" n="38"/>mundana non comparatur cuicunque nuncio, sed cursori uelocissimo, qui prae 
+          <lb ed="#B1" n="39"/>cedit dominum suum, Iob 9. <quote xml:id="rhwis-l64-Qd1e223" source="http://scta.info/resource/9_25">Dies mei uelociores fuerunt cursore, transierunt  
+            <lb ed="#B1" n="40"/>&amp; non uiderunt bonum</quote>
+        </p>
+        <p xml:id="rhwis-l64-d1e229">
+          <lb ed="#B1" n="41"/>Tertium exemplum est de naui transeunte per mare. Et quantum ad illud  
+          <lb ed="#B1" n="42"/>dicit sic: Aut tanquam nauis quae pertransijt fluctuantem aquam, cuius cum per 
+          <lb ed="#B1" n="43"/>transierit, non est inuenire vestigium neque semitam carinae illius in fluctibus Ca 
+          <lb ed="#B1" n="44"/>rina est uenter nauis siue media pars nauis. Iuxta illos uersus differentiales: 
+          <lb ed="#B1" n="45"/>prora prior pars est, nauis altera, tertia puppis. 
+          <lb ed="#B1" n="46"/>Dic latus esse ratem, ventrem dic esse carinam.
+        </p>
+        <p xml:id="rhwis-l64-d1e245">
+          <lb ed="#B1" n="47"/>Exemplum est satis planum: quia sicut nauis non relinquit uestigium post se:  
+          <lb ed="#B1" n="48"/>Ita uita hominum mundialium nullam relinquit memoriam transactis paucis  
+          <lb ed="#B1" n="49"/>annis, &amp; hoc est uerissimum. Plures enim nobiles perierunt quam habeantur  
+          <lb ed="#B1" n="50"/>in memoria, siue per scripturam, siue per memorialia quaecunque. Et hoc intense  
+          <lb ed="#B1" n="51"/>recogitare ad contemptum seculi multum iuuat. Vnde Hierony. in epist. 115. 
+          <lb ed="#B1" n="52"/>narrat, quod Zerxes rex Persarum cum semel de sublimo loco quasi infinitam ho 
+          <lb ed="#B1" n="53"/>minum multitudinem &amp; innumerabilem considerasset excrcitum, prorupit in 
+          <!--sap_Page_259.xml-->
+          <pb ed="#B1" n="225"/>
+          <lb ed="#B1" n="1"/>fachrymas. Et cum ab eo requiretur causa. Respondit: Post centum annos, in 
+          <lb ed="#B1" n="2"/>quit, nullus istorum, quos nunc cerno, superuicturus est.
+        </p>
+        <p xml:id="rhwis-l64-d1e272">
+          <lb ed="#B1" n="3"/>Tanquam nauis quae pertransijt fluctuantem aquam] Notandum est quod  
+          <lb ed="#B1" n="4"/>status poenitentiae quem iam inchoamus, comparatur naui triplici ratione, ui  
+          <lb ed="#B1" n="5"/>delicet propter figurae qualitatem, propter uecturae comoditatem, &amp; propter 
+          <lb ed="#B1" n="6"/>iacturae possibilitatem. Primo poenitentia comparatur naui propter figurae qua 
+          <lb ed="#B1" n="7"/>litatem. Nauis enim figura stricta est in extremis, &amp; lata in medio. Et isto modo  
+          <lb ed="#B1" n="8"/>est de poenitentia: quia in principio difficilis est, propter defectum assuefactionis  
+          <lb ed="#B1" n="9"/>&amp; resistentiam carnalis delectationis, Matth. 7. <quote xml:id="rhwis-l64-Qd1e289" source="http://scta.info/resource/mt7_14">Angusta est uia &amp; arcta quae du 
+            <lb ed="#B1" n="10"/>cit ad uitam, &amp; pauci ambulant per eam</quote>. In fine etiam est angusta: quia Diabolus 
+          <lb ed="#B1" n="11"/>insideatur fini iusti cuiuscunque. Vnde dicit glos. Thobie 6. super illud: Ecce pi  
+          <lb ed="#B1" n="12"/>scis immanis exiuit de mari ad deuorandum eum: dicit Domino in cruce passo  
+          <lb ed="#B1" n="13"/>Diabolus qui morienti crucifixo aderat. Venit quaerens si quid peccati in eo in 
+          <lb ed="#B1" n="14"/>uenisset. Vnde mors est illa angusta porta, de qua dicitur Luc. 13. Contendite 
+          <lb ed="#B1" n="15"/>per angustam portam intrare. Ista porta est ita stricta, quod nullus oneratus diuitijs,  
+          <lb ed="#B1" n="16"/>nullus impinguatus delicijs, nullus adornatus uestibus preciosis poterit per 
+          <lb ed="#B1" n="17"/>transire, donec omnia deponat, &amp; nudus euadat, Iob. 1. <quote xml:id="rhwis-l64-Qd1e309" source="http://scta.info/resource/iob1_21">Nudus egressus sum 
+            <lb ed="#B1" n="18"/>de utero matris meae, &amp; nudus reuertar illuc</quote>: id est, in terram, quae est mater 
+          <lb ed="#B1" n="19"/>omnium terrenorum. In medio est uia poenitentiae aliquantulum &amp; sufficien 
+          <lb ed="#B1" n="20"/>ter ampla. Quia secundum Boëtium: Paucis, minimisque natura contenta est. 
+          <lb ed="#B1" n="21"/>Vnde Gregor. Via Domini nisi in arcto itinere inchoatur &amp; amoris dulcedi  
+          <lb ed="#B1" n="22"/>ne dilatatur, Proverb. 4. Ducam te per semitam aequitatis. Quas cum ingressus 
+          <lb ed="#B1" n="23"/>fueris non arctabuntur gressus tui, &amp; irruens non habebis offendiculum. Glos.  
+          <lb ed="#B1" n="24"/>Semitae aequitatis dum inchoantur arctae uidentur &amp; angustae. Cum uero pro 
+          <lb ed="#B1" n="25"/>fectum capiunt, iam ex consuetudine spaciosae uidentur &amp; latae. Vnde &amp; pro di 
+          <lb ed="#B1" n="26"/>uerso tempore dicebatPsal. Propter uerba labiorum tuorum ego custodiui uias 
+          <lb ed="#B1" n="27"/>duras. Et uiam mandatorum tuorum cucurri, cum dilatasti cor meum. Econ 
+          <lb ed="#B1" n="28"/>tra mali homines ingrediuntur latam uiam in principio, &amp; postea in progressu 
+          <lb ed="#B1" n="29"/>arctant, Iob 18. <quote xml:id="rhwis-l64-Qd1e338" source="http://scta.info/resource/iob18_7">Arctabuntur gressus uirtutis eius</quote>. Sic ergo una conditio nauis  
+          <lb ed="#B1" n="30"/>est quod est stricta in extremis, &amp; ampla in medio. Alia uero conditio eiusdem  
+          <lb ed="#B1" n="31"/>figurae est, quod est clausa uersus mare &amp; aperta uersus coelum. Et sic anima 
+          <lb ed="#B1" n="32"/>poenitentis claudi debet ad mundum &amp; aperiri ad coelum. Facta est enim na 
+          <lb ed="#B1" n="33"/>uis ad calcandum mare &amp; superandum, non ad recipiendum mare: Ita anima 
+          <lb ed="#B1" n="34"/>poenitens calcare debet mundum, nec tangere ad delectationem, sed ad calcan 
+          <lb ed="#B1" n="35"/>dum &amp; dispensandum, Proverb. 31. Facta est quasi nauis institoris de longe 
+          <lb ed="#B1" n="36"/>portans panem suum. Secundo poenitentia naui comparatur propter uecturae com 
+          <lb ed="#B1" n="37"/>moditatem. Faciliter merces &amp; quaecunque alia necessaria deportantur de terra ad 
+          <lb ed="#B1" n="38"/>terram per naues. Existens in insula nullo modo potest exire eam, nisi per na 
+          <lb ed="#B1" n="39"/>uem. Isto modo nos qui sumus mn insula mundo, nullo sensu uel passu exire po 
+          <lb ed="#B1" n="40"/>terimus ad coelum, nisi per nauiculam poenitentiae. Et istam nauiculam CHRISTVS &amp; 
+          <lb ed="#B1" n="41"/>discipuli eius primo intrauerunt, ut nos audaces efficerent. Illi qui non sunt ex  
+          <lb ed="#B1" n="42"/>perti nauigium, cum tiniore intrant naues. Experti autem &amp; consueti sine difficulta 
+          <lb ed="#B1" n="43"/>te. In cuius figuram dicitur Matth. 8. <quote xml:id="rhwis-l64-Qd1e372" source="http://scta.info/resource/mt8_23">Ascendente IESU in nauiculam secuti sunt  
+            <lb ed="#B1" n="44"/>eum discipuli eius</quote>. Item nauis est uas comune pro preciosis &amp; uilibus: omnia 
+          <lb ed="#B1" n="45"/>recipit &amp; saluat, ad portum optatum perducit: Isto modo poenitentia nullum re 
+          <lb ed="#B1" n="46"/>spuit peccatorem, quantumcunque sit turpis, si proijciat se in nauem poenitentiae 
+          <lb ed="#B1" n="47"/>saluabitur. In cuius figuram Gen. 8. legimus quod omnia animalia, quae non 
+          <lb ed="#B1" n="48"/>intrauerunt nauem, quae arca Noë uocabatur, mortua sunt.
+        </p>
+        <p xml:id="rhwis-l64-d1e386">
+          <lb ed="#B1" n="49"/>Tertio poenitentia naui comparatur propter iacturae possibilitatem. Est 
+          <lb ed="#B1" n="50"/>enim nauis quasi in continuis periculis propter scopulos, propter fluctus, pro 
+          <lb ed="#B1" n="51"/>pter uoragines, Ecclesiast. 43. Qui nauigant mare, enarrant pericula eius. 
+          <lb ed="#B1" n="52"/>Et ideo naui periclitanti quadrupliciter succurrit, per exonerationem, per fora 
+          <lb ed="#B1" n="53"/>minum obstructionem, per aquae eiectionem, &amp; per anchorae fixionem. De primo prudens  
+          <!--sap_Page_260.xml-->
+          <pb ed="#B1" n="226"/>
+          <lb ed="#B1" n="1"/>nauta quando uenit ad passum periculosum ubi timet submergi, exonerat na 
+          <lb ed="#B1" n="2"/>uem suam. Sicut dicitur Actu. 27. quod illi qui fuerunt cum Paulo in naui, ar 
+          <lb ed="#B1" n="3"/>mamenta nauis eiecerunt. Isto modo personae quae sunt oneratae diuitijs,  
+          <lb ed="#B1" n="4"/>uel antequam ueniant ad passum periculosum mortis, exonerant se per con 
+          <lb ed="#B1" n="5"/>fessionem &amp; eleemosynarum largitionem. Secundo iuuatur nauis contra pe 
+          <lb ed="#B1" n="6"/>riculum per foraminum obturationem. Sensus nostri sunt quasi quaedam fo 
+          <lb ed="#B1" n="7"/>ramina uel fenestrae per quas aquae tentationum ingrediuntur ad animam. Et  
+          <lb ed="#B1" n="8"/>ideo ista debent obturari per bonam custodiam rationis: quia si intrauerint pro 
+          <lb ed="#B1" n="9"/>expulsione sine nocumento spiritali, gratia DEI requiritur. Hoc recognouit  
+          <lb ed="#B1" n="10"/>Psalm. qui dixit: Saluum me fac DEVS: quia intrauerunt aquae, &amp;c. Tertio a 
+          <lb ed="#B1" n="11"/>qua debet eijci: quia si aliqua noxia delectatio subintrauerit, eijci debet per 
+          <lb ed="#B1" n="12"/>confessionem. Quarto figi debet anchora in re firma: hoc est, in DEO, qui non 
+          <lb ed="#B1" n="13"/>mutatur. Anchora est spes, Ad Hebr. 6. <quote xml:id="rhwis-l64-Qd1e431" source="http://scta.info/resource/hebr6_18 http://scta.info/resource/hebr6_19">Confugimus ad tenendam proposi 
+            <lb ed="#B1" n="14"/>tam spem, quam sicut anchoram habemus tutam &amp; firmam</quote>, ad Roman. 8. <quote xml:id="rhwis-l64-Qd1e436" source="http://scta.info/resource/rom8_31">Si 
+              <lb ed="#B1" n="15"/>DEVS pro nobis, quis contra nos</quote>.
+        </p>
+        <p xml:id="rhwis-l64-d1e442">
+          <lb ed="#B1" n="16"/>Sed est notandum quod inter pericula maris insolita, tria sunt praecipue me 
+          <lb ed="#B1" n="17"/>tuenda: Syrenarum cantica: Circis pocula, &amp; Ceti fallax insula. Syrenes secun 
+          <lb ed="#B1" n="18"/>dum fabulas tres fuerunt: ex parte uirgines, &amp; ex parte pisces, habitantes in mari 
+          <lb ed="#B1" n="19"/>Et dicebantur Syrene uel Syrenes, quasi trahentes. *Siren enim Graece, traho 
+          <lb ed="#B1" n="20"/>interpretatur Latine, eo quod per dulcissimam harmoniam homines auscultantes ad  
+          <lb ed="#B1" n="21"/>se traxerunt, &amp; attractos occiderunt. Vna enim canebatuoce humana: alia ti 
+          <lb ed="#B1" n="22"/>bijs: tertia lyra, sicut recitat Alexander in scintillario poesis. Vlysses ergo trans  
+          <lb ed="#B1" n="23"/>iturus per eas tali cautela usus est. Aures sociorum obturauit cera, ne aliquid  
+          <lb ed="#B1" n="24"/>de harmonia audirent. Seipsum alligauit malo nauis, &amp; sic euasit. Sic mora 
+          <lb ed="#B1" n="25"/>liter. Vlysses sapiens interpretatur, &amp; designat mentem, in qua prudentia in 
+          <lb ed="#B1" n="26"/>habitare debet. Tres istae Syrenes corporales designant illecebras, quae per 
+          <lb ed="#B1" n="27"/>diuersas lasciuias attrahunt ad peccatum nauigantes per mare huius mundi 
+          <lb ed="#B1" n="28"/>Sed mens prudens sociorum aures: id est, sensuum corporeorum potentias 
+          <lb ed="#B1" n="29"/>obturat cera: id est, memoria nostrae fragilitatis, &amp; semetipsum alligat ad li  
+          <lb ed="#B1" n="30"/>gnum crucis, quod est malus nauis poenitentiae. Et sic euadit. Secundum pe 
+          <lb ed="#B1" n="31"/>riculum singulare est Circis pocula. Narrat enim Boëtius 4. de Conso. me 
+          <lb ed="#B1" n="32"/>tro tertio: Quod Vlysses rediens de bello Troiano decennio errauit per mare: 
+          <lb ed="#B1" n="33"/>uno uero tempore uidens quandam insulam in qua Circei pulcherrima do 
+          <lb ed="#B1" n="34"/>mina, quae Solis filia dicebatur, habitauit. Ad eam applicuit &amp; intrauit. Ista 
+          <lb ed="#B1" n="35"/>per incantationes &amp; carmina miscuit quaedam pocula per quae bibentes trans  
+          <lb ed="#B1" n="36"/>formauit, sicut uoluit, a natura humana in bestias. Vnde statim sociis Vlyssis 
+          <lb ed="#B1" n="37"/>porrexit de potione sua, &amp; mutauit unum in aprum, &amp; alium in leonem, ter 
+          <lb ed="#B1" n="38"/>tium in ceruum, &amp; sic de alijs. Vlyssi uero dederat Mercurius, qui DEVS Ar 
+          <lb ed="#B1" n="39"/>cadiae dicitur, unum florem, cuius uirtus fuit contra tales incantationes re 
+          <lb ed="#B1" n="40"/>sistere. Vnde nihil passus euaginato gladio magnam insequitur, &amp; eam ad 
+          <lb ed="#B1" n="41"/>sociorum suorum reparationem coëgit. Moraliter. Ista maga est cupiditas se 
+          <lb ed="#B1" n="42"/>culi, haec per incantationes suas homines transformat in bestias, &amp; eos spo 
+          <lb ed="#B1" n="43"/>liat ratione &amp; mansuetudine, per quae duo homo efficitur bestialis. Quam 
+          <lb ed="#B1" n="44"/>multipliciter homines in bestias uarias transformentur per seculi cupidita 
+          <lb ed="#B1" n="45"/>tem patere posset inductiue. Quidam lupi rapaces, sicut iniusti milites. Qui  
+          <lb ed="#B1" n="46"/>dam uulpes fallaces, sicut subdoli mercatores. Quidam canes mordaces, si 
+          <lb ed="#B1" n="47"/>cut falsi aduocati &amp; placitatores, qui contra quemlibet latrant nisi ab eo ali  
+          <lb ed="#B1" n="48"/>quid accipiant. Tertium periculum insolitum est, Ceti fallax insula. Est 
+          <lb ed="#B1" n="49"/>enim Cetus belua marina maxima: haec aliquando colligit in dorfo lutum, &amp; 
+          <lb ed="#B1" n="50"/>super illud lutum crescunt gramina, &amp; herbae uirescunt. Vnde quasi monti 
+          <lb ed="#B1" n="51"/>culus uirens &amp; pratum nauigantibus apparere uidetur. Qui decepti nauem ap  
+          <lb ed="#B1" n="52"/>plicant, uela soluunt, &amp; anchoram ibi figunt. Cum autem se aestimantes in terra 
+          <lb ed="#B1" n="53"/>solida collocatos, ignem accendunt pro decoquendis necessarijs: bestia calorem  
+          <!--sap_Page_261.xml-->
+          <pb ed="#B1" n="227"/>
+          <lb ed="#B1" n="1"/>sentiens subito se subtrahit, &amp; in mari submergit. Et cum ea omnes illi in pro 
+          <lb ed="#B1" n="2"/>fundum feruntur. Haec bestia moraliter dignitatem uel statum nobilium potest si 
+          <lb ed="#B1" n="3"/>gnificare. Hanc simplices nauigantes in mundo desiderant, aestimantes ibi esse  
+          <lb ed="#B1" n="4"/>locum soliditatis &amp; quietis. Vnde unus desiderat episcopatum: alter comita 
+          <lb ed="#B1" n="5"/>tum: tertius abbaciam uel prioratum: putantes se fore felices, si status huiusmodi 
+          <lb ed="#B1" n="6"/>assequentur. Sed cum iocundius se habuerint, pacem &amp; securitatem solummo 
+          <lb ed="#B1" n="7"/>do cogitantes, superuenit interitus repentinus, &amp; multo uelocius descendunt  
+          <lb ed="#B1" n="8"/>ad infernum, quam prius ascenderant talem gradum,
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

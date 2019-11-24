@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 68 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 68 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="240"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l68">
+        <p xml:id="rhwis-l68-d1e95">
+          <lb ed="#B1" n="31"/>REPROBORUM confessionem postquam Spiritus sanctus re 
+          <lb ed="#B1" n="32"/>citauit, quam de semetipsis confusibiliter facient, tam in iudicio ge 
+          <lb ed="#B1" n="33"/>nerali, quam deinceps in poena infernali in perpetuum: Hic ponit 
+          <lb ed="#B1" n="34"/>finem &amp; eiusdem sententiae confirmationem. Et circa hoc duo facit:  
+          <lb ed="#B1" n="35"/>quia primo ponit dictorum recapitulationem: secundo eorum con 
+          <lb ed="#B1" n="36"/>firmationem. Secunda pars ibi: Quoniam spes impii 
+        </p>
+        <p xml:id="rhwis-l68-d1e111">
+          <lb ed="#B1" n="37"/>Dicit ergo primo sic: Talia dixerunt in inferno. Talia uidelicet expressiua hu 
+          <lb ed="#B1" n="38"/>manae fragilitatis, condemnatiua prophanae peruersitatis exemplatiua vel ex  
+          <lb ed="#B1" n="39"/>terminatiua mundanae felicitatis, dixerunt in inferno: &amp; ideo frustra: quia in in 
+          <lb ed="#B1" n="40"/>ferno nulla est redemptio: quia si talia cum poenitentia confessi fuissent in uita, fu 
+          <lb ed="#B1" n="41"/>isset eis confessio fructuosa. Talia ergo dixerunt in inferno hi qui peccauerunt:  
+          <lb ed="#B1" n="42"/>id est, in peccato finaliter sine poenitentia decesserunt. Et haec dicta eorum sunt  
+          <!--sap_Page_275.xml-->
+          <pb ed="#B1" n="241"/>
+          <lb ed="#B1" n="1"/>uera. Vnde posita recapitulatione ponit consequenter dictorum eorundem 
+          <lb ed="#B1" n="2"/>confirmationem, &amp; specialiter quantum ad unum articulum, videlicet de spe prae
+        </p>
+        <p xml:id="rhwis-l68-d1e135">
+          <lb ed="#B1" n="3"/>Comparat ante spem siue prosperitatem impiorum, qui reputant se felices per 
+          <lb ed="#B1" n="4"/>sentis felicitatis, quam mali habent dum uiuunt. Huius autem spe uanitatem 
+          <lb ed="#B1" n="5"/>uoluptates &amp; diuitias sine cultu DEI &amp; bonis moribus, quatuor rebus multum  
+          <lb ed="#B1" n="6"/>ostendit Spiritus sanctus per quatuor exempla: 
+          <lb ed="#B1" n="7"/>transitorijs &amp; parui ualoris: uidelicet flori desiccato super herbas, spumae con 
+          <lb ed="#B1" n="8"/>gregatae super aquas, fumo ignis, &amp; memoriae hospitis. Dicit ergo sic: Talia di 
+          <lb ed="#B1" n="9"/>xerunt in inferno, hi qui peccauerunt &amp; uerum dixerunt: quoniam spes impij: 
+          <lb ed="#B1" n="10"/>id est, prosperitas, in qua sperauit, est tanquam lanugo, quae a vento tollitur. La 
+          <lb ed="#B1" n="11"/>nugo in proposito dicitur illud, quod stat super capita quarundam herbarum flore 
+          <lb ed="#B1" n="12"/>desiccato, &amp; habet similitudinem aliquo modo ad lanam: &amp; ideo uocatur lanu 
+          <lb ed="#B1" n="13"/>go. Ista lanugo quando est sicca, statim a modico uento tollitur, &amp; relinquit ex  
+          <lb ed="#B1" n="14"/>tremitatem herbae quasi caput rasum. Sic patet in flore marcido &amp; desiccato 
+          <lb ed="#B1" n="15"/>herbae, quae uocatur dens leonis: super caput carduorum similiter inuenitur  
+          <lb ed="#B1" n="16"/>lanugo, res uana &amp; ualde transitoria. Lanugo etiam secundum Papiam dici 
+          <lb ed="#B1" n="17"/>tur prima capillatio barbae: sed sic non accipitur hic.
+        </p>
+        <p xml:id="rhwis-l68-d1e170">
+          <lb ed="#B1" n="18"/>Secundo spes impii est, tanquam spuma gracilis quae a procella dispergitur.  
+          <lb ed="#B1" n="19"/>Spuma secundum Britonem dicitur a spuo, spuis: quia spuitur: id est, producitur.  
+          <lb ed="#B1" n="20"/>Est enim sordes undarum. Vnde mustum, &amp; ea quae coquuntur, spuma purgan 
+          <lb ed="#B1" n="21"/>tur. Et similiter ex collisione aquarum adinuicem generatur spuma stans in su 
+          <lb ed="#B1" n="22"/>perficie aquae. Procella est repentinus uentus, seu impetus uenti, uel marinus 
+          <lb ed="#B1" n="23"/>fluctus, uel tempestas pluuiae. Manifestum est autem, quod spuma congrega 
+          <lb ed="#B1" n="24"/>ta in superficie aquae facillime dispergitur a procella: 
+        </p>
+        <p xml:id="rhwis-l68-d1e188">
+          <lb ed="#B1" n="25"/>Tertio, sipes impii est similis fumo, qui statim a vento diffunditur. Fumus quan 
+          <lb ed="#B1" n="26"/>do altius ascendit, tanto magis deficit: &amp; quanto magis diffunditur &amp; dilata 
+          <lb ed="#B1" n="27"/>tur, tanto citius dissipatur. In Psal. Deficientes tanquam fumus deficientur.  
+          <lb ed="#B1" n="28"/>Item sicut fumus dies mei 
+        </p>
+        <p xml:id="rhwis-l68-d1e200">
+          <lb ed="#B1" n="29"/>Quarto spes impij: id est, prosperitas seculi in qua sperat impius, est tanqua 
+          <lb ed="#B1" n="30"/>memoria hospitis vnius diei praetereuntis. Hospes qui tantum una die manet in 
+          <lb ed="#B1" n="31"/>domo, &amp; statim recedit, cito traditur obliuioni apud illos, qui illum receperunt,  
+          <lb ed="#B1" n="32"/>&amp; continuo novos recipiunt. Mundus est hospitator, qui continuo novos ho 
+          <lb ed="#B1" n="33"/>mines receptat, &amp; receptos emittit a domo, Ecclesiast. 1. Generatio praeterit,  
+          <lb ed="#B1" n="34"/>generatio aduenit: terra autem in aeternum stat. Talis hospitator multa facit. 
+          <lb ed="#B1" n="35"/>Primo usum domus &amp; utensilium suorum concedit hospitibus, sed non do 
+          <lb ed="#B1" n="36"/>minium. Secundo idem successiue uendit diuersis: mundat enim cameram, &amp; 
+          <lb ed="#B1" n="37"/>denudat, ut hospes emat paleas, &amp; cum recesserit, cameram iterato denudat, ut  
+          <lb ed="#B1" n="38"/>easdem paleas alius de novo emat. Tertio non permittit hospitatum meliora 
+          <lb ed="#B1" n="39"/>em ere extra hospitium suum. Vnde licet sit melius uinum, meliores auenae, &amp; 
+          <lb ed="#B1" n="40"/>melior panis in hospitio uicino, quam ibi, non licet hospitato illa comparare: 
+          <lb ed="#B1" n="41"/>sed postquam hospitium suum acceperit, quicquid necessarium est, ab hospite 
+          <lb ed="#B1" n="42"/>suo emit. Quarto hospitator pulcherrimum uultum facit, &amp; obedienter per o 
+          <lb ed="#B1" n="43"/>mnia deseruit: sed in fine strictissime computum exigit. Quinto hospitem re 
+          <lb ed="#B1" n="44"/>cedentem &amp; non reuersurum perpetuae tradit obliuioni.
+        </p>
+        <p xml:id="rhwis-l68-d1e237">
+          <lb ed="#B1" n="45"/>Ista quinque facit mundus homini. Vsum enim rerum mundanarum concedit  
+          <lb ed="#B1" n="46"/>homini, non dominium. Vnde nihil secum permittit deportare: sed cum quibus in 
+          <lb ed="#B1" n="47"/>trauit, cum illis exibit, Ecclesiast. 5. Sicut egressus est nudus de utero matris  
+          <lb ed="#B1" n="48"/>suae, sic reuertetur &amp; nihil affert secum de labore suo: Miserabilis prorsus infir 
+          <lb ed="#B1" n="49"/>mitas, quomodo uenit, sic reuertetur, 1. Timot. 6. Nihil intulimus in hunc 
+          <lb ed="#B1" n="50"/>mundum, haud dubium, quia nec auferre possumus.
+        </p>
+        <p xml:id="rhwis-l68-d1e253">
+          <lb ed="#B1" n="51"/>Secundo idem successiue uendit diuersis: sic mundus eandem dignitatem, 
+          <lb ed="#B1" n="52"/>idem officium, idem manerium successiue uendit diuersis.
+        </p>
+        <p xml:id="rhwis-l68-d1e260">
+          <lb ed="#B1" n="53"/>Tertio non permittit hominem gaudium coeli emere nec delicias extra mundum 
+          <!--sap_Page_276.xml-->
+          <pb ed="#B1" n="242"/>
+          <lb ed="#B1" n="1"/>existentes, licet sint meliores quam ipse habeat. Non enim uult lex mundi, quod  
+          <lb ed="#B1" n="2"/>homo largiatur eleemosynas, sed quod expendit potius circa delicias &amp; pom 
+          <lb ed="#B1" n="3"/>pas. Vnde Gre.14. Mora. c. 13. Desiderium coelestium nesciunt, qui cor in ter 
+          <lb ed="#B1" n="4"/>renis uoluptatibus defigunt.
+        </p>
+        <p xml:id="rhwis-l68-d1e278">
+          <lb ed="#B1" n="5"/>Quarto facit homini, quem intendit decipere, optimum uultum: sicut CHRI 
+          <lb ed="#B1" n="6"/>STO fecit ludas, quando eum prodidit. Vnde Aug. in Epist. ad Dioscor. &amp; est 
+          <lb ed="#B1" n="7"/>Epist. 68. Mundus iste periculosior est blandus quam molestus, &amp; magis ca 
+          <lb ed="#B1" n="8"/>uendus est cum se allicit diligi, quam cum se amouet, cogitque contemni. Seruit  
+          <lb ed="#B1" n="9"/>ergo homini ad nutum, dat sanitatem, diuitias &amp; amicitias. Sed in fine strictissi 
+          <lb ed="#B1" n="10"/>mum computum exigit de expensis: Vnde <ref xml:id="rhwis-l68-Rd1e293">Aug. in confessionali</ref>. Cuius rei gra 
+          <lb ed="#B1" n="11"/>tia militatis. Maior ne poterit esse spes uestra in mundo, quam ut amici mundi 
+          <lb ed="#B1" n="12"/>sitis: Et ibi quid: nisi uas fragile, plenum periculis: &amp; per quot pericula perue 
+          <lb ed="#B1" n="13"/>nitur ad maius periculum: Pereant haec omnia, &amp; dimittamus haec uana &amp; in 
+          <lb ed="#B1" n="14"/>ania, &amp; conferamus nos ad solam inquisitionem earum, quae finem non ha 
+          <lb ed="#B1" n="15"/>bent. Vita haec misera est, mors incerta, subito surripit: &amp; post haec negligen 
+          <lb ed="#B1" n="16"/>tiae supplicia luenda sunt.
+        </p>
+        <p xml:id="rhwis-l68-d1e310">
+          <lb ed="#B1" n="17"/>Quinto hospitem recedentem perpetuae obliuioni tradit Ecclesiastici siue 
+          <lb ed="#B1" n="18"/>Syrach. 5. Malicia horae obliuionem faciet luxuriae maximae, &amp; in fine hominis  
+          <lb ed="#B1" n="19"/>denudatio operum illius, &amp;c. Sap. 2. Nomen nostrum obliuionem accipiet  
+          <lb ed="#B1" n="20"/>per tempus, &amp; nemo habebit memoriam operum nostrorum. 
+        </p>
+        <p xml:id="rhwis-l68-d1e322">
+          <lb ed="#B1" n="21"/>Dubitatio literalis. Vtrum damnati in inferno agant poenitentiam de eo quod  
+          <lb ed="#B1" n="22"/>peccauerunt.
+        </p>
+        <p xml:id="rhwis-l68-d1e329">
+          Quod non: quia secundum <ref xml:id="rhwis-l68-Rd1e331">Augustinus de fide ad Pet. 26</ref>. Et allegat  
+          <lb ed="#B1" n="23"/><ref xml:id="rhwis-l68-Rd1e335" target="http://scta.info/resource/pl-l4d50c1-d1e134">Magister 4. Senten. dist. 50. c. 1</ref>. <quote xml:id="rhwis-l68-Qd1e338">Sicut illi qui cum CHRISTO regnabunt, nullas 
+            <lb ed="#B1" n="24"/>in se malae voluntatis reliquias habebunt: ita illi qui erunt in supplicio ignis aeter 
+            <lb ed="#B1" n="25"/>ni, cum Diabolo &amp; angelis eius deputati, nullam habebunt ulterius requiem. Er 
+            <lb ed="#B1" n="26"/>go bonam ulterius non poterunt habere uoluntatem</quote>. Sed poenitentia de pecca 
+          <lb ed="#B1" n="27"/>tis est bona uoluntas. Ergo non agent poenitentiam de peccatis.
+        </p>
+        <p xml:id="rhwis-l68-d1e350">
+          Praeterea 
+          <lb ed="#B1" n="28"/>Bernhardus super Cantica Canticorum, sermone 8 dicit: Quod damnatus sem 
+          <lb ed="#B1" n="29"/>per uult iniquitatem quam fecit. Ergo nunquam poenitebit.
+        </p>
+        <p xml:id="rhwis-l68-d1e357">
+          Praeterea Damasc  
+          <lb ed="#B1" n="30"/>Quod est hominibus mors, est angelis casus: ergo sicut angeli post casum non 
+          <lb ed="#B1" n="31"/>habent uoluntatem inuertibilem a malo, cui adhaeserunt: Ita homines post mor 
+          <lb ed="#B1" n="32"/>tem. Praeterea: Sicut gratia inclinat bonos ad bonum: sic peccatum inclinat malos 
+          <lb ed="#B1" n="33"/>ad malum. Sed sancti per gratiam sic inclinabuntur ad bonum, quod semper place 
+          <lb ed="#B1" n="34"/>bit eis bene fecisse: Ergo malis semper placebit peccasse.
+        </p>
+        <p xml:id="rhwis-l68-d1e370">
+          Praeterea, magis mala 
+          <lb ed="#B1" n="35"/>erit voluntas damnatorum in inferno, quam peccatorum in mundo. Sed aliqui  
+          <lb ed="#B1" n="36"/>peccatores sunt ita excaecati uel indurati per malum habitum peccandi, quod  
+          <lb ed="#B1" n="37"/>possunt poenitere. Sicut sunt haeretici, &amp; illi qui laetantur, cum male fecerunt &amp; 
+          <lb ed="#B1" n="38"/>exultant in rebus pessimis, Proverb. 2. Ergo a multo fortiori damnati non  
+          <lb ed="#B1" n="39"/>poterunt poenitere.
+        </p>
+        <p xml:id="rhwis-l68-d1e383">
+          <lb ed="#B1" n="40"/>Ad oppositum est beatus Aug. de fi. ad Pet. cap. 26: Vbi dicit, quod tantum 
+          <lb ed="#B1" n="41"/>in uita ista est poenitentia fructuosa. Malus uero in futuro habebit poenitentiam 
+          <lb ed="#B1" n="42"/>de malis suis: sed indulgentiam non habebit.
+        </p>
+        <p xml:id="rhwis-l68-d1e393">
+          Praeterea in Capitulo isto dicitur,  
+          <lb ed="#B1" n="43"/>quod impii dicent intra se poenitentiam agentes. Hi sunt quos aliquando ha 
+          <lb ed="#B1" n="44"/>buimus, &amp;c. Item Aristoteles 9. Ethi. Poenitudine replentur praui: mox enim 
+          <lb ed="#B1" n="45"/>tristantur de his, de quibus prius delectati sunt. Ergo damnati cum sint maxi 
+          <lb ed="#B1" n="46"/>me praui, maxime poenitebunt.  
+        </p>
+        <p xml:id="rhwis-l68-d1e404">
+          <lb ed="#B1" n="47"/>Ad quaestionem dicendum, quod poenitere de peccato est duplex. Per se, uel 
+          <lb ed="#B1" n="48"/>per accidens. Per se poenitet de peccato, qui detestatur peccatum, inquantum est 
+          <lb ed="#B1" n="49"/>peccatum: uel inquantum est DEI offensiuum. Per accidens uero poenitet quis  
+          <lb ed="#B1" n="50"/>ratione alicuius annexi peccato, uidelicet poenae sequentis peccatum. Primo 
+          <lb ed="#B1" n="51"/>modo mali non agent poenitentiam: secundo modo agent. Vnde uellent se non 
+          <lb ed="#B1" n="52"/>peccasse, propter dolorem quem sustinent: non propter iusticiam quam ame 
+          <lb ed="#B1" n="53"/>serunt.
+        </p>
+        <p xml:id="rhwis-l68-d1e422">
+          Ad primum dicendum, quod uelle non peccasse amore iusticiae, est Bo 
+          <!--sap_Page_277.xml-->
+          <pb ed="#B1" n="243"/>
+          <lb ed="#B1" n="1"/>num: non autem uelle se non peccasse, propter solam poenam euitandam.
+        </p>
+        <p xml:id="rhwis-l68-d1e431">
+          Ad  
+          <lb ed="#B1" n="2"/>secundum Bernh. Verum est, quod per se loquendo nolunt se peccasse, poeni 
+          <lb ed="#B1" n="3"/>tent tamen per accidens.
+        </p>
+        <p xml:id="rhwis-l68-d1e438">
+          Ad tertium Damascen. dicendum, quod non erit eis  
+          <lb ed="#B1" n="4"/>auersio uoluntatis a peccato comisso propter peccatum, sed a poena erit auersio  
+          <lb ed="#B1" n="5"/>uoluntatis eorum.
+        </p>
+        <p xml:id="rhwis-l68-d1e445">
+          Ad quartum dicendum, quod sanctis semper placebit se 
+          <lb ed="#B1" n="6"/>bene fecisse: quia nihil erit adiunctum, quare eis deberet displicere. Sed malis 
+          <lb ed="#B1" n="7"/>erit poena adiuncta, propter quam per accidens dolere poterunt de peccato. 
+          <lb ed="#B1" n="8"/>Ad quintum dicendum, quod non sunt aliqui ita mali, quin possunt in prae 
+          <lb ed="#B1" n="9"/>senti ad poenitentiam deduci, ut doleant de peccato, per accidens, si puniantur  
+          <lb ed="#B1" n="10"/>graui poena. Licet non possint deduci ad hoc per uiolentiam, quod poenite 
+          <lb ed="#B1" n="11"/>ant uirtuose. Haec est communis sententia in hac lectione.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 52 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 52 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="184"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l52">
+        <p xml:id="rhwis-l52-d1e95">
+          <lb ed="#B1" n="23"/>POSTQVAM Spiritus sanctus duas causas assignauit, quod  
+          <lb ed="#B1" n="24"/>iusti uiri aliquotiens subtrahuntur a uita ista, etiam in iuuenili ae 
+          <lb ed="#B1" n="25"/>tate, uidelicet diuinam amicitiam &amp; mundanam maliciam: Hic  
+          <lb ed="#B1" n="26"/>consequenter assignat tertiam, sicut superius fuit diuisum, uide 
+          <lb ed="#B1" n="27"/>licet personalem iusticiam. Et circa hoc duo facit: quia primo ex  
+          <lb ed="#B1" n="28"/>primit causae conditionem. Secundo effectus consecutionem. Secunda pars 
+          <lb ed="#B1" n="29"/>ibi: propter hoc. Circa primum dicit sic: Consummatus in breui expleuit tem 
+          <lb ed="#B1" n="30"/>pora multa. Inter peregrinos ad unum locum euntes differentia est in tardita 
+          <lb ed="#B1" n="31"/>te &amp; uelocitate. Nam unus aliquando facit tantum in mense, quantum alius 
+          <lb ed="#B1" n="32"/>in dimidio anno. Sunt enim quidam peregrini qui peregrinationem faciunt  
+          <lb ed="#B1" n="33"/>delicate, diu dormiunt de mane &amp; sero, cito cubant de nocte, faciunt dietas 
+          <lb ed="#B1" n="34"/>paruas &amp; uisitant curiositates uicinas: &amp; tales sunt necessario tardi uiatores.
+        </p>
+        <p xml:id="rhwis-l52-d1e124">
+          <lb ed="#B1" n="35"/>Peregrini sumus omnes, ih Psalm. 118. Peregrinus &amp; aduena sum, sicut o 
+          <lb ed="#B1" n="36"/>mnes patres mei. Contingit autem, quod aliqui diu uadunt, sed tarde: quia 
+          <lb ed="#B1" n="37"/>diu uiuunt, sed remisse, &amp; tarde proficiunt. Aliqui modico tempore uadunt.  
+          <lb ed="#B1" n="38"/>Sed uelociter, sicut iuuenis intense deuotus, qui plus apud DEVM meretur in 
+          <lb ed="#B1" n="39"/>anno, quam unus senex remisse uiuens in decem, &amp; de tali iuuene moriente 
+          <lb ed="#B1" n="40"/>verificatur textus lectionis. Consummatus in tempore breui, &amp;c. lnter stellas er 
+          <lb ed="#B1" n="41"/>raticas illa, quae est humilior, sicut luna in breuissimo tempore: Quia in mense 
+          <!--sap_Page_219.xml-->
+          <pb ed="#B1" n="185"/>
+          <lb ed="#B1" n="1"/>complet cursum suum, &amp; illa quae est altissima, tardissime complet cursum suum, 
+          <lb ed="#B1" n="2"/>sicut patet de Saturno, qui cursum complet in triginta annis. Sic personae hu 
+          <lb ed="#B1" n="3"/>miles motos suos in DEVM paruo circulo complent. Personae uero altae &amp; 
+          <lb ed="#B1" n="4"/>nobiles nisi melius sibi prospiciant in magno circuitu, cum impijs ambulant,  
+          <lb ed="#B1" n="5"/>&amp; ideo tarde mouentur in DEVM. Et aliqui nimis tarde, sicut timendum est. 
+          <lb ed="#B1" n="6"/>Contra quos dicitur Ecclesiast. 5. Ne tardas conuerti ad Dominum, &amp; ne dif  
+          <lb ed="#B1" n="7"/>feras de die in diem. Inter grauia &amp; leuia ascendentia, illud dicitur esse maioris  
+          <lb ed="#B1" n="8"/>uirtutis, quod in minori temporemaius medium diuidit. Medium per quod 
+          <lb ed="#B1" n="9"/>transimus ad coelum est mundus. Vnde ille qui mundum breuiori tempore 
+          <lb ed="#B1" n="10"/>diuidit, &amp; pertransit ascendendo est, nulli dubium maioris uirtutis &amp; amoris  
+          <lb ed="#B1" n="11"/>ad DEVM: propter quod iuuenes cum mundi sentiunt difficultates, &amp; resisten 
+          <lb ed="#B1" n="12"/>tias statim ipsum relinquunt, &amp; ad Religionem confugiunt magnae uirtutis se 
+          <lb ed="#B1" n="13"/>fuisse ostendunt. Et uerem de quolibet tali dici potest, quod consummatus in bre 
+          <lb ed="#B1" n="14"/>ui expleuit tempora multa, Et bene dicit consummatus: sicut mali quantum 
+          <lb ed="#B1" n="15"/>cunque diu uiuant, semper sunt inconsummati &amp; imperfecti: ita iustus li  
+          <lb ed="#B1" n="16"/>cet parum uiuat: tamen propter iusticiam consummatus &amp; perfectus dicitur:  
+          <lb ed="#B1" n="17"/>ideo bene dixit de iniustis superius. Confrinoentur rami inconsummati. Et per 
+          <lb ed="#B1" n="18"/>oppositum, Sapien.15. Nosse enim te, iusticia consummata est, quod potest 
+          <lb ed="#B1" n="19"/>exponi de perfecte in seculo poenitentibus, si tamen assit gratia &amp; vehemen 
+          <lb ed="#B1" n="20"/>tia poenitendi.
+        </p>
+        <p xml:id="rhwis-l52-d1e189">
+          <lb ed="#B1" n="21"/>Scribit enim sextus Iulius stratagematon libro 3 cap. 1 de Marco Catone 
+          <lb ed="#B1" n="22"/>talem belli cautelam. Cumesset in Hispania, &amp; uideret se quoddam oppidum pos  
+          <lb ed="#B1" n="23"/>se occupare, si illud ex inopinato inuaderet, simulauit se quatriduo fugere, &amp; 
+          <lb ed="#B1" n="24"/>subito in hostes conuersus, biduo per uias difficiles, scilicet montes &amp; nemora 
+          <lb ed="#B1" n="25"/>redijt, &amp; hostes suos nihil tale metuentes oppressit. Causam uero tam facilis  
+          <lb ed="#B1" n="26"/>euentus requirentibus sociis, iam uictoribus respondit: Tunc illos uictoriam 
+          <lb ed="#B1" n="27"/>adeptos, cum quatriduo iter biduo arripuerunt. Moraliter quasi per quatuor die 
+          <lb ed="#B1" n="28"/>tas elongamus nos a DEO peccando cogitatione, locutione, opere &amp; omissio  
+          <lb ed="#B1" n="29"/>ne: sicut comuniter confitemur. Reputant ergo daemones se securos quod op 
+          <lb ed="#B1" n="30"/>pidum coeleste nobis intercluserint. Quod cum desideramus adquirere. Quid  
+          <lb ed="#B1" n="31"/>ergo restat facere: Certe nihil aliud, nisi fugam praedictorum quatuor dierum, bi  
+          <lb ed="#B1" n="32"/>duo recompensare, &amp; ad DEVM redire: quanuis autem per quatuor, uidelicet co  
+          <lb ed="#B1" n="33"/>gitationem, locutionem, opus &amp; omissionem recessimus, possumus tamen, si ueli  
+          <lb ed="#B1" n="34"/>mus, in duobus diebus redire, uidelicet per contritionem &amp; confessionem. Nam 
+          <lb ed="#B1" n="35"/>satisfactionem condignam necessario non exegit DEVS, sed per multiplices in 
+          <lb ed="#B1" n="36"/>dulgentias &amp; pietatis opera redimere possumus, si uelimus. Qui ergo ueraci 
+          <lb ed="#B1" n="37"/>ter poenitet per tempus breue pro peccato mortali, pro quo poenitentia per tem 
+          <lb ed="#B1" n="38"/>pus perpetuum debebatur, uere consummatus in breui: explebit tempora multa. Et.  
+          <lb ed="#B1" n="39"/>ideo tam desic poenitente quam innocente subiungitur: Placida enim erat DEO 
+          <lb ed="#B1" n="40"/>anina eius: id est, Placuit DEO iuste &amp; innocenter uiuendo aut ueraciter poeni 
+          <lb ed="#B1" n="41"/>tendo: &amp; quia sic est. Ideo propter haec praemissa uidelicet diuinam iusticiam susci 
+          <lb ed="#B1" n="42"/>pientem ad praemia, mundanam maliciam allicientem ad crimina, &amp; personalem iusti  
+          <lb ed="#B1" n="43"/>ciam sufficientem ad merita, properauit DEVS educere eum de medio iniquitatum: id  
+          <lb ed="#B1" n="44"/>est, placuit DEO, propter ista educere eum de loco certaminis mundi: sicut ui  
+          <lb ed="#B1" n="45"/>ctor in palestra, qui omnes contrarios proiecit, educitur de medio cum gloria, 
+          <lb ed="#B1" n="46"/>&amp; datur ei corona. De medio iniquitatum: id est, daemonum &amp; hominum per 
+          <lb ed="#B1" n="47"/>uersorum, &amp; maxime malorum, qui magis sanctum uirum impediunt quam 
+          <lb ed="#B1" n="48"/>daemones. Vnde Chrysost. in opere imperfecto Homel. 43. Attendite uobis  
+          <lb ed="#B1" n="49"/>ab hominibus, quasi a quibusdam pessimis malis: Et super omnia mala malis.  
+          <lb ed="#B1" n="50"/>Homo est enim pessimum malum. Homo enim malus peior est quam Diabo 
+          <lb ed="#B1" n="51"/>lus. Diabolus si uideat iustum, non est ausus ad eum accedere. Homo autem 
+          <lb ed="#B1" n="52"/>malus, quamuis hominem iustum iudicet, non solum illum non timet, sed ma 
+          <lb ed="#B1" n="53"/>gis contemnit. Non enim Diabolus homini praestat uirtutem, sed homo Dia 
+          <!--sap_Page_220.xml-->
+          <pb ed="#B1" n="186"/>
+          <lb ed="#B1" n="1"/>bolo: arma enim Diaboli est malus homo. Sicut enim homo sine armis non po 
+          <lb ed="#B1" n="2"/>test facere contra hostem: sic Diabolus sine homine malo non potest aliquid  
+          <lb ed="#B1" n="3"/>contra homines sanctos. Haec ille 
+        </p>
+        <p xml:id="rhwis-l52-d1e274">
+          <lb ed="#B1" n="4"/>placida enim erat anima eius DEO.] Notandum qynima humana placida, &amp; 
+          <lb ed="#B1" n="5"/>DEO preciosa iudicat ex tribus, uidelicet ex eius dolorosa amissione, ex eius di 
+          <lb ed="#B1" n="6"/>ligenti adquisitione, &amp; ex eius charissima redemptione. Primo ex eius dolorosa 
+          <lb ed="#B1" n="7"/>amissione. Sapiens enim non multum dolet de amissione paruae rei. CHRISTVS 
+          <lb ed="#B1" n="8"/>aut sapientia DEI Patris, plus se dolere probauit de amissione paucarum animarum, 
+          <lb ed="#B1" n="9"/>quam si totum mundi aurum perdidisset: Nam multa talenta auri perdita sunt suo 
+          <lb ed="#B1" n="10"/>tempore, ciuitates cobustae, pro quibus CHRISTVM nullatenus fleuisse legimus, 
+          <lb ed="#B1" n="11"/>sed certe de amissione animarum paucarum in ciuitate Hierusalem, legimus eum fle 
+          <lb ed="#B1" n="12"/>uisse Luc. 19. Videns ciuitatem fleuit super illam, Glos. Plagit reprobos etiam, qui nesciunt  
+          <lb ed="#B1" n="13"/>cur plagcbantur. Sed exultant in rebus pessimis. CHRISTVS igitur amat animam, 
+          <lb ed="#B1" n="14"/>Sap. 11. in fine: Parcis autem omnibus, quoniam tua sunt Dnue, qui amas animas.
+        </p>
+        <p xml:id="rhwis-l52-d1e300">
+          <lb ed="#B1" n="15"/>Secundo patet idem ex eius diligenti inquisitione. Sapiens enim non curat  
+          <lb ed="#B1" n="16"/>si perdiderit aliquid uile. Sed CHRISTVS in par: ibus remotissimis animam per 
+          <lb ed="#B1" n="17"/>ditam quaesiuit. Diu etiam, quia xx211i annis laboriose: quia in paupertate, utilita 
+          <lb ed="#B1" n="18"/>te, &amp; labore. Fingunt fabulae, quia Orpheus quaesiuit uxorem suam ubique, nec 
+          <lb ed="#B1" n="19"/>eam inuenit, donec ad infernum descendit: ita CHRISTVS dum animam hu 
+          <lb ed="#B1" n="20"/>manam 22211 annis quaesiuisset, tandem moriens descendit ad inferna, &amp; ibi 
+          <lb ed="#B1" n="21"/>eam inuenit, Psal. Domine eduxisti ab inferno animam meam.
+        </p>
+        <p xml:id="rhwis-l52-d1e319">
+          <lb ed="#B1" n="22"/>Tertio patet idem ex eius chara redemptione, pro qua redimenda CHRISTVS 
+          <lb ed="#B1" n="23"/>uidens totum mundum non sufficere, dedit semetipsum 1. ad Cor. 6. in fine: Empti 
+          <lb ed="#B1" n="24"/>estis precio magno. Habet ergo DEVS animam humanam sibi ualde preciosam, 
+          <lb ed="#B1" n="25"/>in cuius signum in Scriptura dicitur DEVS animas custodire. Nobilis non cu 
+          <lb ed="#B1" n="26"/>stodit res immediate nisi sibi charas. Vilium enim rerum custodia datur famu 
+          <lb ed="#B1" n="27"/>lis. Isto modo temporalia DEVS hominibus etiam malis custodienda commit 
+          <lb ed="#B1" n="28"/>tit: animas uero suae propriae custodiae dereliquit, Psal. Custodit DEVS animas 
+          <lb ed="#B1" n="29"/>sanctorum suorum, &amp; Sapien. 3. Iustorum animae in manu DEI sunt.
+        </p>
+        <p xml:id="rhwis-l52-d1e339">
+          <lb ed="#B1" n="30"/>Sicut autem Deus maxime charam habet animam humanam: ita per o 
+          <lb ed="#B1" n="31"/>mnia mali homines animas suas paruipendunt. Cito mundant sotulares suos 
+          <lb ed="#B1" n="32"/>si foedantur animas suas parum curant. Vnde Augustinus in quodam sermone: 
+          <lb ed="#B1" n="33"/>Quid est quod uelis habere malum dices mihi. Quod nihil omnino, non uxorem, 
+          <lb ed="#B1" n="34"/>non filium, non filiam, non seruum, non ancillam, non tunicam: postremo non 
+          <lb ed="#B1" n="35"/>caligam, &amp; uis habere uitam malam: Rogo te praepone animam tuam caligae 
+          <lb ed="#B1" n="36"/>tuae. Per simile argumentum probatin de doctrina Christiana, quod homo ma 
+          <lb ed="#B1" n="37"/>lus plus diligit mortem, quam uitam. Quia mortem uult habere bonam &amp; ui  
+          <lb ed="#B1" n="38"/>tam malam. Psal. Qui diligit iniquitatem, odit animam suam. De numero au: ho 
+          <lb ed="#B1" n="39"/>minum peruersorum aliqui animas suas uendunt: aliqui perdunt: aliqui impigno 
+          <lb ed="#B1" n="40"/>rant: aliqui pro nihilo dant. Vendunt cupidi, qui pro diuitijs huius uitae exponunt se 
+          <lb ed="#B1" n="41"/>rapinis, furtis, periurijs, falsis mercationibus, simonijs, &amp; huiusmodi, Eccl. 11. 
+          <lb ed="#B1" n="42"/>Non est iniquius quam amare pecuniam. Hic enim uenalem animam suam habet.  
+          <lb ed="#B1" n="43"/>Secundo sunt aliqui qui animam suam perdunt, &amp; sunt ociosi, negligenter uiuentes, &amp; 
+          <lb ed="#B1" n="44"/>accidiosi ad omne opus bonum, non curantes nisi que una dies uadat, &amp; alia succe 
+          <lb ed="#B1" n="45"/>dat, Eccl. 20. Est qui perdat animam suam prae confusione. Tertio sunt aliqui, qui a 
+          <lb ed="#B1" n="46"/>nimam suam impignorant. Ille enim qui impignorat rem suam, non intendit alie 
+          <lb ed="#B1" n="47"/>nare dominium pro semper, sed tantum ad tempus alienat ad usum. Et quid fa 
+          <lb ed="#B1" n="48"/>ciunt istis daemones: Quasi eorum foeneratores dant eis ad tempus mutuo,  
+          <lb ed="#B1" n="49"/>quiequid uolunt dignitates, diuitias, &amp; uoluptates: tandem senescunt &amp; siunt  
+          <lb ed="#B1" n="50"/>debiles, soluere non possunt: quia uitam consuetam dimittere nequeunt: &amp; sic fi 
+          <lb ed="#B1" n="51"/>naliter pignus perdunt, licet tamen illud quando impignorare incipiunt, per 
+          <lb ed="#B1" n="52"/>dere non proponant. Est tamen notandum, quod duo genera hominum animas suas 
+          <lb ed="#B1" n="53"/>impignorant, sed diuersimode: qui raliqui uitiose pro uoluptatibus huius uitae: 
+          <!--sap_Page_221.xml-->
+          <pb ed="#B1" n="187"/>
+          <lb ed="#B1" n="1"/>De quibus dictum est. Aliqui virtuose, ut sunt praelati, &amp; curati, qui animas 
+          <lb ed="#B1" n="2"/>suas obligant pro animabus subditorum. Quorum unicuique dicitur cum cura 
+          <lb ed="#B1" n="3"/>sibi comittitur illud 2. Reg. 20. Custodi uirum istum demonstrato suo subdito,  
+          <lb ed="#B1" n="4"/>qui si lapsus fuerit, erit anima tua pro anima illius. Quarto sunt aliqui, qui ani 
+          <lb ed="#B1" n="5"/>mas suas pro nihilo dant, &amp; sunt specialiter inuidi &amp; iracundi. Nam cupidus reci 
+          <lb ed="#B1" n="6"/>pit diuitias, lubricus uoluptates, superbus &amp; ambitiosus honores, gulosus ci 
+          <lb ed="#B1" n="7"/>bum &amp; potum. Sed isti miseri nihil capiunt delectabile, sed amaritudinem &amp; 
+          <lb ed="#B1" n="8"/>dolorem, &amp; ideo animas suas gratis dant Diabolo, de quorum quolibet ueri 
+          <lb ed="#B1" n="9"/>ficatur illud <ref xml:id="rhwis-l52-Rd1e417">Iudic. 9</ref>. <quote xml:id="rhwis-l52-Qd1e420" source="http://scta.info/resource/iudic9_17">Animam suam dedit periculis</quote>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

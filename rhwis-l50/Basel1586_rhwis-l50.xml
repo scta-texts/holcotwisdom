@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 50 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 50 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="179"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l50">
+        <p xml:id="rhwis-l50-d1e95">
+          <lb ed="#B1" n="26"/>QUIA possent mundani probabiliter admirari, quare quidam ual  
+          <lb ed="#B1" n="27"/>e morigerati iuuenes subtrahuntur, ubi peccatores &amp; iniusti us  
+          <lb ed="#B1" n="28"/>ue ad decrepitam aetatem perducuntur. Ideo Spiritus sanctus 
+          <lb ed="#B1" n="29"/>in hodierna lectione huius euentus assignat rationem. Nam ho 
+          <lb ed="#B1" n="30"/>mines seculares istud solent iudicare iniustum, quod DEVS bo 
+          <lb ed="#B1" n="31"/>nos cito subtrahit, &amp; malos diu uiuere permittit. Et circa hoc duo facit: Nam 
+          <lb ed="#B1" n="32"/>primo excusat diuinam iusticiam. Secundo accusat mundanam maliciam.
+        </p>
+        <p xml:id="rhwis-l50-d1e113">
+          <lb ed="#B1" n="33"/>Circa primum assignat tres rationes quare DEVS non permittit bonos se 
+          <lb ed="#B1" n="34"/>nium expectare, uidelicet diuinam amicitiam suscipientem ad praemia. Proximorum 
+          <lb ed="#B1" n="35"/>maliciam allicientem ad crimina, &amp; adquisitam iusticiam sufficientem ad merita. Secun 
+          <lb ed="#B1" n="36"/>da ratio assignatur ibi: raptus est. Et tertia ibi: consumatus est. Dicit ergo: Placens  
+          <lb ed="#B1" n="37"/>DEO factus est dilectus: Quasi diceret, una ratio quare iustus tollitur de hac ui  
+          <lb ed="#B1" n="38"/>ta: quia est placens DEO per bonam uitam, factus dilectus per gratiam, &amp; ideo dignus 
+          <lb ed="#B1" n="39"/>est uocari ad coronam, Cantic. 2. Dilectus meus mihi, &amp; ego illi, qui pascitur inter 
+          <lb ed="#B1" n="40"/>lilia. Et uiuens inter peccatores bene ac uirtuose, quod est ualde laudabile &amp; 
+          <lb ed="#B1" n="41"/>difficile, ad Phil. 2. Simplices filij DEI sine reprehensione in medio nationis  
+          <!--sap_Page_214.xml-->
+          <pb ed="#B1" n="180"/>
+          <lb ed="#B1" n="1"/>prauae &amp; peruersae. Et ideo translatus est ad coelum. Consequenter ibi: Raptus 
+          <lb ed="#B1" n="2"/>est. Ponit secundam rationem ad idem, uidelicet proximorum maliciam alli  
+          <lb ed="#B1" n="3"/>cientem ad crimina. Ex hoc quod aliquis de malorum societate remouetur,  
+          <lb ed="#B1" n="4"/>prouenit sibi securitas &amp; opportunitas bonae uitae. Vnde primo allegat pericu 
+          <lb ed="#B1" n="5"/>lum mali consortij. Secundo assignat modum communicandi uitij ibi: Fasci 
+          <lb ed="#B1" n="6"/>natio. Quantum ad primum dicit: Raptus est ne malicia mutaret intellectum eius: 
+          <lb ed="#B1" n="7"/>id est, ne mala conuersatio hominum mutaret intellectum eius practicum,
+        </p>
+        <p xml:id="rhwis-l50-d1e155">
+          <lb ed="#B1" n="8"/>Dupliciter enim corrumpitur uirtus in homine. Vno modo per habitus cor 
+          <lb ed="#B1" n="9"/>ruptionem. Alio modo per actus deordinationem. Primum tangit cum dicit:  
+          <lb ed="#B1" n="10"/>Ne malicia. Secundum cum dicitur: Aut ne fictio deciperet animam. Intellectus 
+          <lb ed="#B1" n="11"/>enim practicus est principium operandi. Vnde quando ita est, quod principia pra 
+          <lb ed="#B1" n="12"/>ctica corrumpuntur per peccata in homine, omnia facta eius siunt peruersa, 
+          <lb ed="#B1" n="13"/>&amp; ideo quando rectum iudicium corrumpitur per malam consuetudinem, &amp; 
+          <lb ed="#B1" n="14"/>adquiritur habitus contrarius uirtuti, ibi est certa malicia, &amp; longe peius est 
+          <lb ed="#B1" n="15"/>quam quando peccatur ex passione: Aut ne fictio deciperet animam eius. Fictio 
+          <lb ed="#B1" n="16"/>est in illis, qui male operantur, in quibus tamen recta aestimatio non est corru 
+          <lb ed="#B1" n="17"/>pta, sed operantur mala contra conscientiam scientes se malefacere, &amp; utrunque  
+          <lb ed="#B1" n="18"/>istorum pertinet ad maliciam. 
+        </p>
+        <p xml:id="rhwis-l50-d1e181">
+          <lb ed="#B1" n="19"/>Notandum quod necessario in hac uita oportet uiuere inter peccatores quan 
+          <lb ed="#B1" n="20"/>tumcunque etiam homo studeat ad correctionem peccatorum: quia semper erunt  
+          <lb ed="#B1" n="21"/>aliqui mali bonis commixti in omni societate: sicut dicit Augustinus ad Vin 
+          <lb ed="#B1" n="22"/>centium Donatistam, &amp; ponitur in Cano. dis. 47. quantumlibet, inquit, uigi 
+          <lb ed="#B1" n="23"/>let disciplina domus meae, homo sum, &amp; inter homines uiuo, nec mihi arro  
+          <lb ed="#B1" n="24"/>gare audeo, ut domus mea melior sit quam arca Noë. Vbi tamen inter octo ho 
+          <lb ed="#B1" n="25"/>mines unus reprobus inuentus est: Aut melior sit quam domus Abrahae, cui 
+          <lb ed="#B1" n="26"/>dictum est: Eijce ancillam &amp; filium eius: Aut melior sit quam domus lsaac, cui  
+          <lb ed="#B1" n="27"/>de duobus gemmis dictum est: Iacob dilexi, Esau autem odio habui. Simpli  
+          <lb ed="#B1" n="28"/>citer autem fateor charitati uestrae coram Domino DEO nostro, qui testis est 
+          <lb ed="#B1" n="29"/>super animam meam, ex quo DEO seruire coepi. Quoniam sicut difficile exper 
+          <lb ed="#B1" n="30"/>tus sum meliores, quam qui in monasterio profecerunt: ita non sum peiores ex  
+          <lb ed="#B1" n="31"/>pertus, quam qui in monasterio defecerunt. Et ideo in quacunque societate ho 
+          <lb ed="#B1" n="32"/>mo ponatur, non poterit omnino euadere, quin inter peccatores conuersetur.  
+          <lb ed="#B1" n="33"/>&amp; ideo oportet perfectos uitia malorum corrigere pro posse, &amp; quod non pos  
+          <lb ed="#B1" n="34"/>sunt corrigere, sustinere. Nam tales DEO, qui est supremus iudex, reseruantur.  
+          <lb ed="#B1" n="35"/>Vnde Greg. 2. Mora. ca.18. Nullus perfectus est, qui inter defectus proximo 
+          <lb ed="#B1" n="36"/>rum perfectus non est. Qui enim aequanimiter aliena mala non tollerat, ipse si 
+          <lb ed="#B1" n="37"/>bi testis est per impatientia. Quia a boni plenitudine longe distat. Abel quip  
+          <lb ed="#B1" n="38"/>pe esse renuit, quem Cain malicia non exercet. Sic in tritura areae grana sub  
+          <lb ed="#B1" n="39"/>paleis premuntur: sic flores inter spinas prodeunt: rosa quae redolet, crescit cum 
+          <lb ed="#B1" n="40"/>spina quae pungit. Duos nanque filios habuit, primus homo: sed unus repro 
+          <lb ed="#B1" n="41"/>bus, alius electus fuit. Tres quoqe filios Noë arca continuit, sed duobus in hu 
+          <lb ed="#B1" n="42"/>militate persistentibus, unus in patris irrisionem ruit. Duos Abraham filios ha 
+          <lb ed="#B1" n="43"/>buit, sed unus innocens, alter fratris persecutor fuit. Duos quoque filios lsaac 
+          <lb ed="#B1" n="44"/>habuit: unus in humilitate seruatus: alius uero etiam prius quam nasceretur  
+          <lb ed="#B1" n="45"/>reprobatur. Duodecim filios lacob genuit, sed ex eis unus per innocentiam uen 
+          <lb ed="#B1" n="46"/>ditus est. Caeteri uero per maliciam fratris uenditores extiterit. Duodecim quo 
+          <lb ed="#B1" n="47"/>que Apostoli in Ecclesia sunt, sed ne improbati remanerent, unus eis admix  
+          <lb ed="#B1" n="48"/>tus est, qui eos persequens probaret. Sic nanque iusto peccator cum malicia iun 
+          <lb ed="#B1" n="49"/>gitur. Sic in fornace auro palea cum igne sociatur, utquando ardet palea, au 
+          <lb ed="#B1" n="50"/>rum purgetur. Hi ergo in ueritate boni sunt, qui in bonitate etiam inter malos 
+          <lb ed="#B1" n="51"/>persistere possunt. Haec ille. Idem 1. Mora. cap. 2. Neque enim ualde laudabile 
+          <lb ed="#B1" n="52"/>est bonum esse cum bonis, sed bonum esse cum malis. Sic enim grauioris cul  
+          <lb ed="#B1" n="53"/>pae est inter bonos bonum non esse: ita immensi est praeconij bonum etiam inter 
+          <!--sap_Page_215.xml-->
+          <pb ed="#B1" n="181"/>
+          <lb ed="#B1" n="1"/>malos extitisse, Iob 30. Frater fui draconum &amp; socius strutionum. Et Canti  
+          <lb ed="#B1" n="2"/>corum 2. Sicut lilium inter spinas, sic amica mea inter filias.
+        </p>
+        <p xml:id="rhwis-l50-d1e268">
+          <lb ed="#B1" n="3"/>Viuens inter peccatores translatus est. Notandum quod DEVS electos suos 
+          <lb ed="#B1" n="4"/>transfert tripliciter. De rebellione ad reconciliationem: de dissolutione ad re 
+          <lb ed="#B1" n="5"/>ligionem: de peregrinatione ad quietationem. Primo modo transfert existen 
+          <lb ed="#B1" n="6"/>tes in statu peccati &amp; iniusticiae siue originalis siue actualis ad statum gratiae 
+          <lb ed="#B1" n="7"/>siue poenitentiae, sicut rex misericors exules &amp; profugos &amp; proscriptos in ex  
+          <lb ed="#B1" n="8"/>traneis regnis uagantes reuocat gratiose, &amp; ad pacis reconciliationem admit 
+          <lb ed="#B1" n="9"/>tit: Ita CHRISTVS suos rebelles recedentes ab eo per peccatum, &amp; exulan 
+          <lb ed="#B1" n="10"/>tes in regione umbrae mortis, transfert misericorditer in regnum suum, &amp; re 
+          <lb ed="#B1" n="11"/>patriare permittit. De isto exilio translatus fuit Paulus, Petrus, Maria, Mag  
+          <lb ed="#B1" n="12"/>dalena, Mattheus, &amp; multi alij: inter quos Augustinus, de quo sic legimus: In 
+          <lb ed="#B1" n="13"/>uenit se Augustinus longe esse a DEO in regione dissimilitudinis tanquam 
+          <lb ed="#B1" n="14"/>audiret, &amp;c. De ista translatione ad Coloss. 1. Eripuit nos de potestate tene 
+          <lb ed="#B1" n="15"/>brarum, &amp; transtulit in regnum filij sui. In tempore hyemali, in tempore fri 
+          <lb ed="#B1" n="16"/>gido, quando omnia sunt quasi semimortua, tunc prudens hortulanus trans  
+          <lb ed="#B1" n="17"/>fert de loco ad locum plantas, euellens eas radicitus a terra in qua steterunt prius: 
+          <lb ed="#B1" n="18"/>Ac per talem transplantationem aliquae siunt fertiles, &amp; fructiferae, quae fue 
+          <lb ed="#B1" n="19"/>runt steriles &amp; ineptae. Tempus hyemale &amp; frigidum est tempus tribulationis  
+          <lb ed="#B1" n="20"/>&amp; aduersitatis. CHRISTVS est moraliter hortulanus, sicut aestimauit Mag. 
+          <lb ed="#B1" n="21"/>dalena, Iohan. 20. Iste hortulanus quandoque peccatoribus immittit hyemem 
+          <lb ed="#B1" n="22"/>tribulationis &amp; infirmitatis, &amp; angustiae, &amp; sic transfert eos per contritionem 
+          <lb ed="#B1" n="23"/>&amp; confessionem in hortum Ecclesiae, &amp; facit eos fructiferos &amp; fertiles, qui prius 
+          <lb ed="#B1" n="24"/>steriles &amp; infoecundi extiterunt, 1. Iohan. 3. Translati sumus de morte ad ui  
+          <lb ed="#B1" n="25"/>tam, quoniam diligimus fratres. Secundo transfert DEVS electos suos de dis  
+          <lb ed="#B1" n="26"/>solutione ad religionem sicut hortulanus cernens plantam delicati fructus cre 
+          <lb ed="#B1" n="27"/>scere prope uiam, &amp; in loco communi: ubi modo a bestijs, modo ab alijs fre 
+          <lb ed="#B1" n="28"/>quenter laeditur, modo a ribaldis excutitur: quia stat sine munitione in uia 
+          <lb ed="#B1" n="29"/>communi, ita quod nunquam, uel uix producit fructum suum ad maturi 
+          <lb ed="#B1" n="30"/>tatem, quin uel laedatur in germinibus, quando germinat, uel in flore quan 
+          <lb ed="#B1" n="31"/>do florescit: uel in fructu quando maturescit. Talem, inquam, plantam trans  
+          <lb ed="#B1" n="32"/>fert in uiridarium uel in hortum, bene conclusum, ut ibi fructificet integre si 
+          <lb ed="#B1" n="33"/>ne impedimento, ut fructus totus in usum Domini seruetur. Isto modo mo 
+          <lb ed="#B1" n="34"/>raliter CHRISTVS quandoque uidet personam aptam ad fructificandum in 
+          <lb ed="#B1" n="35"/>Ecclesia, stantem in mundo, qui est uia comunis omnium transeuntium, pro 
+          <lb ed="#B1" n="36"/>ferentemque germen uel florem per sanctum propositum: quia multa bona 
+          <lb ed="#B1" n="37"/>proponit facere: sed statim laeditur a bestijs: id est, bestialibus hominibus da 
+          <lb ed="#B1" n="38"/>tis uoluptatibus huius uitae uel excutitur a ribaldis ante fructus maturitatem, 
+          <lb ed="#B1" n="39"/>&amp; impeditur, &amp; agitatur a pessimis mundanis hominibus, sic quod uix ali  
+          <lb ed="#B1" n="40"/>quem fructum producit ad maturitatem. Talem igitur CHRISTVS aliquo 
+          <lb ed="#B1" n="41"/>tiens transfert in hortum sanctae religionis. De quibus Can. 5. Veni in hor 
+          <lb ed="#B1" n="42"/>tum meum, soror mea, sponsa mea. Miscui myrrham meam cum aromati 
+          <lb ed="#B1" n="43"/>bus meis. In isto ergo horto sunt myrrhae poenitentiae, &amp; aromata doctrinae 
+          <lb ed="#B1" n="44"/>sanctae. De hac translatione dicitur in Psal. Veniam de Aegypto, trastulisti de 
+          <lb ed="#B1" n="45"/>Aegypto: id est, de tenebris mundanis
+        </p>
+        <p xml:id="rhwis-l50-d1e365">
+          <lb ed="#B1" n="46"/>Tertio transfert sanctos suos de peregrinatione adquietationem. Rex ha 
+          <lb ed="#B1" n="47"/>bens aliquem hominem, qui in aliquo officio humili secum laborauit, pro 
+          <lb ed="#B1" n="48"/>mouet eum ad aliquem statum certum &amp; perpetuum, pro labore suo, si est cle 
+          <lb ed="#B1" n="49"/>ricus, facit eum promoveri ad Ecclesiasticas dignitates. Si est secularis, datei 
+          <lb ed="#B1" n="50"/>honores seculares, redditus, officia: ut sic de labore ad requiem transferatur. Isto 
+          <lb ed="#B1" n="51"/>modo CHRISTVS illos qui secum in hac uita laborant transfert finaliter in 
+          <lb ed="#B1" n="52"/>requiem regni coelestis, Eccles. 44. Enoch placuit DEO &amp; translatus est in Pa 
+          <lb ed="#B1" n="53"/>radisum, &amp; de hac translatione loquitur praesens lectio.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

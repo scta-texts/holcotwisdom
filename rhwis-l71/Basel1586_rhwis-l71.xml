@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 71 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 71 [Basel Transcription]</title>
+          <date when="2019-11-24">November 24, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-06" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="249"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l71">
+        <p xml:id="rhwis-l71-d1e95">
+          <lb ed="#B1" n="35"/>POSTQVAM Spiritus sanctus declarauit futuram bonorum 
+          <lb ed="#B1" n="36"/>retributionem: Hic redit ad declarandum futuram malorum pu 
+          <lb ed="#B1" n="37"/>nitionem. Et circa hoc tria facit. Nam primo describit CHRISTI 
+          <lb ed="#B1" n="38"/>iudicis aduenientis inexpugnabilem apparitionem. Secundo 
+          <!--sap_Page_284.xml-->
+          <pb ed="#B1" n="250"/>
+          <lb ed="#B1" n="1"/>creaturae CHRISTO consentientis intolerabilem cooperationem, ibi: expu 
+          <lb ed="#B1" n="2"/>gnabit cum eo. Tertio sententiae iudicis in dispensabilem executionem, ibi: Con 
+          <lb ed="#B1" n="3"/>tra illos stabit spiritus virtutis. Circa primum duo facit, primo tangit, quomo  
+          <lb ed="#B1" n="4"/>do armabitur in generali: Secundo exprimit in speciali, ibi: Induet. Circa pri 
+          <lb ed="#B1" n="5"/>mum auctor tria facit. Primo quod armabit seipsum: Secundo quod suum 
+          <lb ed="#B1" n="6"/>exercitum: Tertio ostendit ad quem effectum. Secunda pars ibi: Et armabit.  
+          <lb ed="#B1" n="7"/>Tertia ibi: Ad vltionem. 
+        </p>
+        <p xml:id="rhwis-l71-d1e126">
+          <lb ed="#B1" n="8"/>Circa primum est advertendum, quod quia homines uolentes se uindicare 
+          <lb ed="#B1" n="9"/>de inimicis communiter solent armari. Ideo CHRISTVM uenientem ad iu 
+          <lb ed="#B1" n="10"/>dicium describit hic Spiritus sanctus, tanquam armatum hominem, ut ostendat  
+          <lb ed="#B1" n="11"/>in eo seueritatem &amp; sufficientem potestatem. Quia sicut armatus potest laedere iner 
+          <lb ed="#B1" n="12"/>mem, &amp; non laedi: ita CHRISTVS reprobos puniet, nec in aliquo poterit impe 
+          <lb ed="#B1" n="13"/>diti. Dicit ergo quod accipiet armaturam zelus illius: id est, ipse zelas, &amp; ad modum 
+          <lb ed="#B1" n="14"/>zelantis &amp; offensi se habens accipiet arma. In primo enim aduentu uenit mitis &amp;  
+          <lb ed="#B1" n="15"/>inermis Matth. 21. <quote xml:id="rhwis-l71-Qd1e145" source="http://scta.info/resource/mt21_5">Ecce rex tuus uenit tibi mansuetus</quote>. Et ideo inermis, quia ui  
+          <lb ed="#B1" n="16"/>delicet in carne passibili &amp; mortali uenit, ideo potuit uulnerari. Esaiae 53. Vul 
+          <lb ed="#B1" n="17"/>neratus est propter iniquitates nostras. Sed tunc: id est, in secundo ueniet cum 
+          <lb ed="#B1" n="18"/>talibus armis: uidelicet cum carne impassibili &amp; immortali, qua omnino uul  
+          <lb ed="#B1" n="19"/>nerari non poterit Luc. 21. Videbunt filium hominis uenientem in nubibus 
+          <lb ed="#B1" n="20"/>cum potestate magna, &amp;c. Et tunc non parcet: quia Proverb. 6. Zelus &amp; furor 
+          <lb ed="#B1" n="21"/>uiri non parcet in die uindictae. 
+        </p>
+        <p xml:id="rhwis-l71-d1e162">
+          <lb ed="#B1" n="22"/>Secundo dicit quod non solum armabit seipsum, sed etiam exercitum suum 
+          <lb ed="#B1" n="23"/>Vnde subdit, quod armabit creaturam dando uidelicet tam angelis bonis quam 
+          <lb ed="#B1" n="24"/>hominibus uirtutem, &amp; uoluntatem acceptandi illud iudicium &amp; poenam faciendam 
+          <lb ed="#B1" n="25"/>in reprobos: Erit enim omnis creatura bona concors in sententia cum CHRISTO 
+          <lb ed="#B1" n="26"/>iudice, illa die sine misericordia, sine compassione aliqua miseris exhibenda. Et  
+          <lb ed="#B1" n="27"/>ideo tertio subiugit. Ad quem effectum erit iudex cum exercitu suo in armis, uideli  
+          <lb ed="#B1" n="28"/>cet ad vltionem inimicorum. Ille enim qui est modo Pater misericordiarum, erit tunc  
+          <lb ed="#B1" n="29"/>temporis DEVS ultionum. In Psalm. DEVS ultionum Dominus, DEVS 
+          <lb ed="#B1" n="30"/>ultionum libere egit, &amp; Deutero. 32. Mea est ultio &amp; ego retribuam eis in tem 
+          <lb ed="#B1" n="31"/>pore. Consequenter describitur ista armatura in speciali. Quantum ad duo. Pri 
+          <lb ed="#B1" n="32"/>mo quantum ad arma defensiua: Secundo quantum ad arma inuasiua. Arma 
+          <lb ed="#B1" n="33"/>defensiua specificantur haec tria: uidelicet lorica, galea, &amp; scutum. Quantum 
+          <lb ed="#B1" n="34"/>ad arma inuasiua, non specificatur hic nisi unum genus armorum, uidelicet 
+          <lb ed="#B1" n="35"/>lancea. Dicit ergo sic: Induet pro thorace iusticiam. Thorax secundum Papiam 
+          <lb ed="#B1" n="36"/>est aequiuocum ad partem corporis, quae est pectus &amp; ad munimentum mi 
+          <lb ed="#B1" n="37"/>litare, quod dicitur lorica. Induet ergo CHRISTVS pro lorica iusticiam. 
+          <lb ed="#B1" n="38"/>Esa. 59. Indutus est iusticia ut lorica. Scitis enim quod lorica ex circulis fer 
+          <lb ed="#B1" n="39"/>reis sibiinuicem connexis componitur: ita iusticia ex DEI legibus &amp; praece 
+          <lb ed="#B1" n="40"/>ptis diuinis sibijnuicem sine contradictione concordantibus constituitur. Se 
+          <lb ed="#B1" n="41"/>quitur: Et accipiet pro galea iudicium certum. Quia sine quocunque errore iu 
+          <lb ed="#B1" n="42"/>dicabit. Proverb. 16. Diuinatio in labijs regis, non errabit in iudicio os eius. 
+          <lb ed="#B1" n="43"/>Sequitur: Sumet scutum inexpugnabile aequitatem. In Psalm. Iudicabit orbem  
+          <lb ed="#B1" n="44"/>terrarum in iusticia &amp; populos in aequitate. Istud iudicium appetunt sancti. In 
+          <lb ed="#B1" n="45"/>quorum persona dicit Psalm. Apprehende arma &amp; scutum, &amp; exurge in ad 
+          <lb ed="#B1" n="46"/>iutorium mihi. Sequitur: Acuet diram iram in lanceam: hoc est, in uindictam  
+          <lb ed="#B1" n="47"/>pungentem, proferendo sententiam damnationis contra malos, Iob 16. Cir 
+          <lb ed="#B1" n="48"/>cumdedit me lanceis, conuulnerauit lumbos meos. Et dicetur ira DOMIRI 
+          <lb ed="#B1" n="49"/>tunc temporis dira ad differentiam irae quam exercet modo. Quae est mitis ira 
+          <lb ed="#B1" n="50"/>&amp; suauis. In Psalm. Iratus es, &amp; misertus es nobis. Et Abacuc 3. Tunc cum 
+          <lb ed="#B1" n="51"/>iratus fueris, misericordiae recordaberis. Quia in sententia literae tactum est,  
+          <lb ed="#B1" n="52"/>quod boni tam angeli quam homines sine compassione ad miseros CHRISTO 
+          <lb ed="#B1" n="53"/>assistent in iudicio. 
+        </p>
+        <p xml:id="rhwis-l71-d1e234">
+          <!--sap_Page_285.xml-->
+          <pb ed="#B1" n="251"/>
+          <lb ed="#B1" n="1"/>Dubitatio potest esse: Vtrum beati post diem iudicij gaudebunt de poenis 
+          <lb ed="#B1" n="2"/>damnatorum.
+        </p>
+        <p xml:id="rhwis-l71-d1e245">
+          Et uidetur quod non. Quia quod uitiosum est in uiatore, non 
+          <lb ed="#B1" n="3"/>debet poni in comprehensore. Sed hoc est maxime uituperabile in uiatore,  
+          <lb ed="#B1" n="4"/>quod laetetur &amp; gaudeat de poenis aliorum. Ergo, &amp;c.
+        </p>
+        <p xml:id="rhwis-l71-d1e253">
+          Praeterea compassio pro 
+          <lb ed="#B1" n="5"/>cedit ex charitate: ergo ubi maior charitas, ibi erit perfectior compassio. Sed in 
+          <lb ed="#B1" n="6"/>bonis est summa charitas, ergo perfectissima compassio: Ergo non gaudebunt  
+          <lb ed="#B1" n="7"/>de eorum poenis.
+        </p>
+        <p xml:id="rhwis-l71-d1e262">
+          Praeterea beati erunt DEO summe conformes: sed DEVS non 
+          <lb ed="#B1" n="8"/>delectatur de nostris poenis, imo compatitur nobis, &amp; misericors dicitur: Ergo 
+          <lb ed="#B1" n="9"/>similiter se habebunt sancti ad damnatos.
+        </p>
+        <p xml:id="rhwis-l71-d1e269">
+          Praeterea in beatis nullum odium erit:  
+          <lb ed="#B1" n="10"/>sed ad odium pertinet gaudere de malo alterius: Ergo non gaudebunt de poe 
+          <lb ed="#B1" n="11"/>nis damnatorum.
+        </p>
+        <p xml:id="rhwis-l71-d1e276">
+          <lb ed="#B1" n="12"/>Ad oppositum est Psalmid aetabitur iustus cum uiderit uindictam. Ad istam 
+          <lb ed="#B1" n="13"/>dubitationem respondet <ref xml:id="rhwis-l71-Rd1e282">Magister sententiarum, cap. 45. lib. 4.</ref> allegans Greg. 
+          <lb ed="#B1" n="14"/>qui in Homelia quadam super Lucam, &amp; est 40. dicit sic. Apud beatorum ani 
+          <lb ed="#B1" n="15"/>mum non fuscat beatitudinem aspecta poena reproborum: quia ibi compassio  
+          <lb ed="#B1" n="16"/>miferiae non erit, minuere laeticiam bonorum non ualebit. Et licet iustis sua gau 
+          <lb ed="#B1" n="17"/>dia sufficiant, ad maiorem tamen gloriam uidebunt poenas malorum, quas 
+          <lb ed="#B1" n="18"/>per DEI gratiam euaserunt. Et hoc est, quod dicitur Esaiae ult. Erunt usque ad 
+          <lb ed="#B1" n="19"/>satietatem uisionis omni carni: id est, electis.
+        </p>
+        <p xml:id="rhwis-l71-d1e299">
+          <lb ed="#B1" n="20"/>Notant tamen doctores quod aliquid potest esse materia gaudij duplici 
+          <lb ed="#B1" n="21"/>ter: Vno modo per se: Alio modo per accidens ratione adiuncti. In poenis au 
+          <lb ed="#B1" n="22"/>tem malorum est duo considerare: uidelicet ipsum nocumentum malis illatum, 
+          <lb ed="#B1" n="23"/>&amp; ordinem diuinae iusticiae, secundum quem iustum est eos sic puniri. Primo 
+          <lb ed="#B1" n="24"/>modo non gaudebunt boni de poenis, sed secundo modo tantum. Vnde per 
+          <lb ed="#B1" n="25"/>se loquendo diuina iusticia, &amp; eorum liberatio seu euasio de poenis, illis erit ma 
+          <lb ed="#B1" n="26"/>teria gaudij, sed poenae illis per accidens tantum.
+        </p>
+        <p xml:id="rhwis-l71-d1e317">
+          Ad primum dicendum quod 
+          <lb ed="#B1" n="27"/>laudabile est in uiatore quod delectetur in poenis malorum per accidens, in 
+          <lb ed="#B1" n="28"/>quantum iuste puniuntur: Vitiosum autem est, quod delectetur per se de poe 
+          <lb ed="#B1" n="29"/>nis loquendo.
+        </p>
+        <p xml:id="rhwis-l71-d1e327">
+          Ad secundum dicendum, quod compassio est uolitio, qua quis  
+          <lb ed="#B1" n="30"/>desiderat malum ab aliquo repelli. Quando autem malus est in tali statu, quod  
+          <lb ed="#B1" n="31"/>sua poena potest ab eo repelli &amp; remoueri, tunc a charitate procedit compassio:  
+          <lb ed="#B1" n="32"/>Et ideo quantumcunqe homo sit malus in praesenti: quia tamen est in statu in 
+          <lb ed="#B1" n="33"/>quo potest corrigi &amp; fieri dignus carentia illius poenae. Ideo iuste potest a cha 
+          <lb ed="#B1" n="34"/>ritate beatorum procedere compassio ad eum: Sed quia damnati sunt extra sta 
+          <lb ed="#B1" n="35"/>tum illum, in quo possunt fieri boni: Ideo ex charitate beatorum nulla ad eos. 
+          <lb ed="#B1" n="36"/>compassio oritur: quia talis compassio esse non posset sine praeiudicio diuinae 
+          <lb ed="#B1" n="37"/>iusticiae.
+        </p>
+        <p xml:id="rhwis-l71-d1e347">
+          Ad tertium dicendum quod DEVS loquendo per se de poenis nostris  
+          <lb ed="#B1" n="38"/>non delectatur, sed per accidens: Sicut delectatur de operibus nostris iustis: si 
+          <lb ed="#B1" n="39"/>militer compatitur, &amp; misericors est pro statu isto in quo possunt corrigi: non 
+          <lb ed="#B1" n="40"/>autem pro statu altero, in quo damnati non poterunt emendari.
+        </p>
+        <p xml:id="rhwis-l71-d1e356">
+          Ad quartum 
+          <lb ed="#B1" n="41"/>patet per dicta: quia gaudere de malo alterius: quia est malum suum: est actus 
+          <lb ed="#B1" n="42"/>odij. Non autem gaudere de malo alterius: quia iuste est sibi inflictum. No 
+          <lb ed="#B1" n="43"/>tandum quia sicut CHRISTVS iustus iudex armabitur moraliter, lorica, 
+          <lb ed="#B1" n="44"/>galea, scuto, &amp; lancea: ita &amp; nos in praesenti. Vnde Apostolus ad Ephes. 6. 
+          <lb ed="#B1" n="45"/>Induite nos armaturam DEI, ut possitis resistere aduersus insidias Diaboli.  
+          <lb ed="#B1" n="46"/>Arma autem ista sunt quatuor uirtutes cardinales. 2. ad Corinth.10. Arma 
+          <lb ed="#B1" n="47"/>enim militiae nostrae non sunt carnalia, sed spiritualia a DEO ad destructio 
+          <lb ed="#B1" n="48"/>nem inimicorum. Est enim iusticia quasi lorica: &amp; temperantia quasi galea: scu 
+          <lb ed="#B1" n="49"/>tum patientia, lancea prudentia. Oportet enim in praesenti operari, &amp; pugna 
+          <lb ed="#B1" n="50"/>re simul &amp; semel, ut simus aedificatores &amp; pugnatores. Sicut fecerunt lu 
+          <lb ed="#B1" n="51"/>daei, Neaemiae quarto, de quibus media pars praeparata erat ad bellum, &amp; 
+          <lb ed="#B1" n="52"/>lanceae, &amp; scuta, &amp; arcus, &amp; loricae, &amp; caetera. Vna manu faciebant opus, 
+          <lb ed="#B1" n="53"/>&amp; altera manu tenebant gladium. Refert Sextus lulius de re militari libro 2. 
+          <!--sap_Page_286.xml-->
+          <pb ed="#B1" n="252"/>
+          <lb ed="#B1" n="1"/>cap. 8. de quodam consule Romanorum, qui ista cautela contra proprium exer 
+          <lb ed="#B1" n="2"/>citum usus est. Cum enim quendam exercitum duxisset de quo non multum  
+          <lb ed="#B1" n="3"/>confidebat, elegit sibi unum alium exercitum fortissimum &amp; fidelissimum, &amp; 
+          <lb ed="#B1" n="4"/>retinuit secum in castris &amp; tentorijs: primum exercitum iussit praecedere, &amp; fe 
+          <lb ed="#B1" n="5"/>cit apud eos proclamare, quod uel eligerent pugnare cum hostibus, uel cum 
+          <lb ed="#B1" n="6"/>ciuibus. Illi ergo considerantes quod necessario oportuit illos inire pugnam, 
+          <lb ed="#B1" n="7"/>uel contra bonos ciues: uel contra malos hostes: praeelegerunt cum hostibus 
+          <lb ed="#B1" n="8"/>dimicare, &amp; aggressi hostes uictoria potiti sunt. Moraliter. DEUS habet daemo 
+          <lb ed="#B1" n="9"/>nes hostes suos, contra quos misitunum magnum exercitum, totum uideli  
+          <lb ed="#B1" n="10"/>cet genus humanum. Vnde ad Ephes. 6. Non est nobis colluctatio aduersus 
+          <lb ed="#B1" n="11"/>carnem, &amp; sanguinem supple tantum: Sed aduersus principes &amp; potestates, 
+          <lb ed="#B1" n="12"/>aduersus mundi rectores, contra spiritualia nequitiae in coelestibus. Et quia uult  
+          <lb ed="#B1" n="13"/>quod nos necessitemur ad pugnandum, eligit sibi unum alium exercitum for 
+          <lb ed="#B1" n="14"/>tem, &amp; fidelem exercitum, uidelicet beatorum angelorum: &amp; hunc exercitum secum 
+          <lb ed="#B1" n="15"/>retinuit in castris &amp; in exercitu nostro: id est, in Ecclesia militante iussit procla 
+          <lb ed="#B1" n="16"/>mari qued eligamus unum ex duobus pugnare contra daemones hostes nostros, uel  
+          <lb ed="#B1" n="17"/>contra angelos ciues nostros. More ergo Romanorum praeeligamus pugnare 
+          <lb ed="#B1" n="18"/>contra daemones hostes nostros ad Eph. 6. State ergo succincti lumbos uestros 
+          <lb ed="#B1" n="19"/>in ueritate, induti lorica iusticiae, &amp; calciati pedes in praeparatione Euamgelij pa 
+          <lb ed="#B1" n="20"/>cis. Calciare pedes est per exempla sanctorum, qui mortui sunt affectiones no 
+          <lb ed="#B1" n="21"/>stras minuere. Secundo temperantia est quasi galea. Sicut enim ad literam galea 
+          <lb ed="#B1" n="22"/>protegit caput in quo sunt omnes sensus: ita temperantia in cibo &amp; potu facit 
+          <lb ed="#B1" n="23"/>hominem habere bonum caput &amp; sensum uiuacem, Esa. 59. Galea salutis in capite 
+          <lb ed="#B1" n="24"/>eius. Tertio scutum est patientia siue fortitudo, Threno. 3. Dabis eis scutum cordis  
+          <lb ed="#B1" n="25"/>laborem tuum: id est, patientiam, quae sustineant corde forti labores pro te. Quarto 
+          <lb ed="#B1" n="26"/>lancea est prudentia. Homo enim per lanceam uulnerat hostem &amp; procul re 
+          <lb ed="#B1" n="27"/>pellit a se. Ita homo per prudentiam illa quae sunt procul praeuidet, &amp; occurrit 
+          <lb ed="#B1" n="28"/>eis: quia rerum exitus prudentia metitur Hierem. 46. State in galeis, polite lan 
+          <lb ed="#B1" n="29"/>ceas, induite uos loricis, &amp;c 
+        </p>
+        <p xml:id="rhwis-l71-d1e454">
+          <lb ed="#B1" n="30"/>Vtrum ignis purgatorius inuoluet reprobos.
+        </p>
+        <p xml:id="rhwis-l71-d1e459">
+          Et uidetur quod non. Quia Ma 
+          <lb ed="#B1" n="31"/>lach. 3. super illud Purgabit filios Leui dicit glos. Duos ignes legimus futu  
+          <lb ed="#B1" n="32"/>ros: Vnum quo purgabit electos, &amp; praecedet iudicium: Alterum qui reprobos cru 
+          <lb ed="#B1" n="33"/>ciabit. Sed hic est ignis inferni qui malos inuoluet. Primus aut est ignis finalis 
+          <lb ed="#B1" n="34"/>conflagrationis: Ergo ignis finalis conflagrationis non erit ille ignis qui malos in 
+          <lb ed="#B1" n="35"/>uoluet. Praeterea ignis ille DEO obsequit in purgatione mundi: Ergo debet re 
+          <lb ed="#B1" n="36"/>munerari alijs elementis remuneratis. Et pcipue cum ignis sit nobilissimum elemen 
+          <lb ed="#B1" n="37"/>torum, non ergo uidet quoe in infernum debeat deijci ad damnatorum poenam. Praeterea 
+          <lb ed="#B1" n="38"/>ignis qui malos inuoluet erit ignis inferni: sed ignis ab initio mundi praeparatus 
+          <lb ed="#B1" n="39"/>est damnatis. Vnde Matth. 25. <quote xml:id="rhwis-l71-Qd1e480" source="http://scta.info/resource/mt25_41">Ite maledicti in ignem aeternum, qui praeparatus est</quote>, 
+          <lb ed="#B1" n="40"/>&amp;c. Similiter Esa. 30. Parata est ab heri Topheth a rege praeparata, &amp;c. Glossa. 
+          <lb ed="#B1" n="41"/>Ab heri: id est, ab initio Topheth, uallis gehenae: sed ignis ille finalis conflagratio 
+          <lb ed="#B1" n="42"/>nis non erit ab initio praeparatus, sed ex concursu mundanorum ignium ge 
+          <lb ed="#B1" n="43"/>nerabitur: Ergo ignis ille est alius ab igne inferni, qui reprobos inuoluet. In 
+          <lb ed="#B1" n="44"/>contrarium est quod in Psalmo de illo igne dicitur: Quod inflammabit in 
+          <lb ed="#B1" n="45"/>circuitu inimicos eius. Praeterea Danielis 7. dicitur: Fluuius igneus rapi 
+          <lb ed="#B1" n="46"/>dusque egrediebatur a facie eius. Glossa. Vt peccatores traheret in gehennam. 
+          <lb ed="#B1" n="47"/>Loquitur autem autoritas illa de illo igne de quo nunc est mentio, ut pa 
+          <lb ed="#B1" n="48"/>tet per quandam glossam, quae ibi dicit: Vt bonos purget, &amp; malos pu 
+          <lb ed="#B1" n="49"/>niat: Ergo ignis finalis conflagrationis in infernum cum reprobis demerge 
+          <lb ed="#B1" n="50"/>tur. Dicendum quod tota purgatio mundi &amp; innouatio ad purgationem &amp; in 
+          <lb ed="#B1" n="51"/>nouationem hominis ordinabitur. Et ideo oportet ut mundi purgatio &amp; inno 
+          <lb ed="#B1" n="52"/>uatio purgationi &amp; innouationi humani generis respondeat. Humani autem 
+          <lb ed="#B1" n="53"/>generis purgatio quaedam erit quod mali segregabuntur a bonis. Vnde dicitur  
+          <!--sap_Page_287.xml-->
+          <pb ed="#B1" n="253"/>
+          <lb ed="#B1" n="1"/>Luc. 3. Cuius uentilabrum in manu sua, &amp; purgabit aream suam, &amp; congrega  
+          <lb ed="#B1" n="2"/>bit triticum suum: id est, electos in horreum suum: Paleas autem: id est, repro 
+          <lb ed="#B1" n="3"/>bos comburet igni inextinguibili. Vnde &amp; ita erit de purgatione mundi, quod  
+          <lb ed="#B1" n="4"/>quidquid erit turpe &amp; foedum in infernum cum reprobis retrudetur: Quid  
+          <lb ed="#B1" n="5"/>quid autem erit pulchrum &amp; nobile in superioribus reseruabitur ad gloriam ele 
+          <lb ed="#B1" n="6"/>ctorum. Et ita etiam erit de illo igne conflagrationis, sicut dicit Basilius super il  
+          <lb ed="#B1" n="7"/>lud Psal. Vox Domini intercidentis flammam ignis quo ad calidum ustiuum: Et  
+          <lb ed="#B1" n="8"/>quantum ad illud quod in igne grossum reperietur, descendet ad inferos ad poe 
+          <lb ed="#B1" n="9"/>nam damnatorum. Quod uero est ibi subtile &amp; lucidum, remanebit superius 
+          <lb ed="#B1" n="10"/>ad gloriam electorum.
+        </p>
+        <p xml:id="rhwis-l71-d1e541">
+          <lb ed="#B1" n="11"/>Ad primum ergo dicendum, quod ignis ille qui purgabit electos ante iudi 
+          <lb ed="#B1" n="12"/>cium, erit idem cum igne finalis conflagrationis mundi, quamuis quidam con 
+          <lb ed="#B1" n="13"/>trarium dicant. Conuenit enim: ut cum homo sit pars mundi, quo etiam eodem  
+          <lb ed="#B1" n="14"/>igne purgetur homo, quo purgetur mundus. Dicuntur autem duo ignes, unus qui  
+          <lb ed="#B1" n="15"/>purgabit bonos, &amp; alius qui cruciabit malos: &amp; quantum ad officium, &amp; aliquo 
+          <lb ed="#B1" n="16"/>modo quantum ad substantiam: quia non tota substantia ignis purgantis in in 
+          <lb ed="#B1" n="17"/>fernum retrudetur ad punitionem damnatorum, ut dictum est.
+        </p>
+        <p xml:id="rhwis-l71-d1e560">
+          Ad secundum 
+          <lb ed="#B1" n="18"/>dicendum, quod in hoc ignis ille remunerabitur: quia illud quod est grossum 
+          <lb ed="#B1" n="19"/>in eo separabitur ab ipso, &amp; retrudetur in infernum.
+        </p>
+        <p xml:id="rhwis-l71-d1e567">
+          Ad tertium dicendum, 
+          <lb ed="#B1" n="20"/>quod sicut gloria electorum post iudicium erit maior quam ante, ita &amp; poena 
+          <lb ed="#B1" n="21"/>reproborum: Et ideo sicut claritas superiori creaturae addetur ad augmentan 
+          <lb ed="#B1" n="22"/>dum gloriam electorum: ita etiam quidquid est turpe in creaturis, trudetur in 
+          <lb ed="#B1" n="23"/>infernum, ad augmentandum miseriam damnatorum. Et ita igni ab initio prae 
+          <lb ed="#B1" n="24"/>parato in inferno, non est inconueniens, si alter ignis addatur.
+        </p>
+        <p xml:id="rhwis-l71-d1e580">
+          <lb ed="#B1" n="25"/>Vtrum damnati puniantur per corporales tenebras.
+        </p>
+        <p xml:id="rhwis-l71-d1e585">
+          Et uidetur quod non: o 
+          <lb ed="#B1" n="26"/>qia ut dicit Greg. 9. Moral. exponens illud Iob. 10. Sed sempiternus horror in 
+          <lb ed="#B1" n="27"/>habitat, quamuis illic ignis ad consolationem non luceat, tamen ut magis tor 
+          <lb ed="#B1" n="28"/>queat ad aliquid lucet: Nam sequaces quas secum traxerunt de mundo, reprobi 
+          <lb ed="#B1" n="29"/>flamma illustranti uisuri sunt: Ergo non erunt ibi tenebrae corporales. Praeterea 
+          <lb ed="#B1" n="30"/>damnati uident poenam suam: hoc enim est eis ad augmentum poenae, sed ni 
+          <lb ed="#B1" n="31"/>hil uidetur nisi in lumine: Ergo uidetur quod non sint omnino in tenebris.
+        </p>
+        <p xml:id="rhwis-l71-d1e601">
+          Prae 
+          <lb ed="#B1" n="32"/>terea damnati habebunt potentiam uisiuam post corporum resumptionem: 
+          <lb ed="#B1" n="33"/>sed frustra in eis esset uisus, nisi aliquid uiderent. Cum igitur nihil uideatur nisi 
+          <lb ed="#B1" n="34"/>in lumine, non erunt ibi tenebrae corporales.
+        </p>
+        <p xml:id="rhwis-l71-d1e610">
+          <lb ed="#B1" n="35"/>Sed contra est quod dicitur Matth. 22. <quote xml:id="rhwis-l71-Qd1e614" source="http://scta.info/resource/mt22_13">Ligatis manibus &amp; pedibus proijcite eum 
+          <lb ed="#B1" n="36"/>in tenebras exteriores</quote>. Super quo dicit Greg. Si ille ignis lucen haberet, in tene 
+          <lb ed="#B1" n="37"/>bras exteriores nequaquam mitti diceret.
+        </p>
+        <p xml:id="rhwis-l71-d1e623">
+          Praeterea Basilius dicit super illud Psal. 
+          <lb ed="#B1" n="38"/>Vox Domini intercidentis flammam ignis, quo uirtute ignis DEI separabitur ignis ab 
+          <lb ed="#B1" n="39"/>eius uirtute adustiua, ita quod claritas cedet in gaudium sanctorum, &amp; ustiuum ignis in 
+          <lb ed="#B1" n="40"/>tormentorum damnatorum: Ergo damnati habebunt tenebras corporales.  
+          <lb ed="#B1" n="41"/>Re. dicendum quod dispositio inferni erit talis, ut maxime miseriae damnato  
+          <lb ed="#B1" n="42"/>rum competat. Vnde secundum hoc sunt ibi lux &amp; tenebrae prout maxime spe 
+          <lb ed="#B1" n="43"/>ctant ad miseriam damnatorum. Ipsa autem uisio secundum se delectabilis est. 
+          <lb ed="#B1" n="44"/>Vt enim dicitur in principio Metaph Sensus uisus est maxime diligibilis, eo 
+          <lb ed="#B1" n="45"/>quod per ipsum plura cognoscimus. Sed per accidens contingit uisionem esse  
+          <lb ed="#B1" n="46"/>afflictiuam, in quantum uidemus aliqua nobis nociua, uel nostrae uoluntati  
+          <lb ed="#B1" n="47"/>repugnantia: Et ideo in inferno hoc modo debet esse locus dispositus ad ui  
+          <lb ed="#B1" n="48"/>dendum secundum lucem &amp; tenebras, quod nihil ibi perspicue uideatur, sed  
+          <lb ed="#B1" n="49"/>solummodo sub quadam umbrositate uideantur illa, quae afflictionem inge 
+          <lb ed="#B1" n="50"/>rere possunt. Vnde simpliciter loquendo locus est tenebrosus, sed tamen ex 
+          <lb ed="#B1" n="51"/>diuina dispositione est ibi aliquid luminis, quantum sufficit ad uidendum illa 
+          <lb ed="#B1" n="52"/>quae animam torquere possunt. Et ad hoc sufficit naturalis situs loci: quia in 
+          <lb ed="#B1" n="53"/>terrae medio ubi infernus ponitur, non potest esse ignis nisi foetulentus, &amp; tur 
+          <!--sap_Page_288.xml-->
+          <pb ed="#B1" n="254"/>
+          <lb ed="#B1" n="1"/>bidus &amp; quasi famosus. Quidam tamen tenebrarum harum causam assignant  
+          <lb ed="#B1" n="2"/>ex comassatione &amp; compressione corporum damnatorum, quae propter mul  
+          <lb ed="#B1" n="3"/>titudinem ita replebunt locum inferni, quod nihil ibi de aëre remanebit: &amp; sic  
+          <lb ed="#B1" n="4"/>non erit ibi aliquid de diaphano, quod posset esse subiectum lucis &amp; tenebra 
+          <lb ed="#B1" n="5"/>rum, nisi oculi damnatorum qui erant obtenebrati.
+        </p>
+        <p xml:id="rhwis-l71-d1e675">
+          <lb ed="#B1" n="6"/>Ad primum ergo dicendum, quod utique ignis ad aliquid lucet: quia uide 
+          <lb ed="#B1" n="7"/>bunt damnati illos praecipue, qui ad malum traxerunt eos. Ista tamen uisio in 
+          <lb ed="#B1" n="8"/>nullo erit delectabilis, cum uideant illos quos odio habent, ex quo magis tor 
+          <lb ed="#B1" n="9"/>quentur: cum odium tristicia est, ac de re displicenti semper oriatur.
+        </p>
+        <p xml:id="rhwis-l71-d1e686">
+          Ad secun<lb ed="#B1" n="10"/>dum dicendum quod dupliciter aliquid uidetur. Vno modo per medium dis  
+          <lb ed="#B1" n="11"/>positum, ac uisui proportionatum, &amp; talia uisio semper delectabilis est: Alio 
+          <lb ed="#B1" n="12"/>modo aliquid uidetur per medium fumosum &amp; turbidum, &amp; talis uisio ui  
+          <lb ed="#B1" n="13"/>dentem plus contristat. Videbunt enim damnati suas poenas, ac aliorum quos 
+          <lb ed="#B1" n="14"/>odiunt per medium tenebrosum: unde patet quod tenebrae corporales non re 
+          <lb ed="#B1" n="15"/>pugnant tali uisioni. Idem enim corpus potest esse secundum quid illumina 
+          <lb ed="#B1" n="16"/>tum, &amp; tamen absolute tenebrosum.
+        </p>
+        <p xml:id="rhwis-l71-d1e704">
+          Ad tertium dicendum, quod sicut omnia 
+          <lb ed="#B1" n="17"/>beatis sunt ad gloriam: ita singula sunt damnatis in poenam: Visus ergo dam  
+          <lb ed="#B1" n="18"/>natorum erit in actu, sed sibi poenali: tum ex uisione, tum quantum ad medium 
+          <lb ed="#B1" n="19"/>fumosum: tum ex parte rei uisae animum contristantis. Odium quidem rei uisae  
+          <lb ed="#B1" n="20"/>magnam in ipsis pariet tristiciam.
+        </p>
+        <p xml:id="rhwis-l71-d1e715">
+          <lb ed="#B1" n="21"/>Ad rationes post oppositum. Ad primum dicendum quod ille ignis non 
+          <lb ed="#B1" n="22"/>potest denominari a luce. Cum unaquaeque res a suo potiori denominanda est. 
+          <lb ed="#B1" n="23"/>In igne autem inferni tenebrae magis abundant ipso lumine. Dicuntur igitur  
+          <lb ed="#B1" n="24"/>damnati mitti in tenebras exteriores. Interiores autem tenebras peccatorum 
+          <lb ed="#B1" n="25"/>per culpam inciderunt etiam in uia: quae &amp; manent post damnationem, sicut  
+          <lb ed="#B1" n="26"/>damnationis causa.
+        </p>
+        <p xml:id="rhwis-l71-d1e731">
+          Ad secundam quod claritas ignis quae est delectabilis ui  
+          <lb ed="#B1" n="27"/>sui a tali igne separabitur. Non autem fumosa perspicuitas plus uisum contri 
+          <lb ed="#B1" n="28"/>stans, quam perspiciens aut delectans. Ista enim omnia dicta sunt de uisu cor 
+          <lb ed="#B1" n="29"/>porali. Visu autem intellectuali etiam sancti in patria poenas damnatorum ui  
+          <lb ed="#B1" n="30"/>dent, ac cum magna delectatione. Cuius ratio est, quia a beatis nihil subtrahi  
+          <lb ed="#B1" n="31"/>debet, quod ad perfectionem beatitudinis eorum pertineat. Et ideo ut beati  
+          <lb ed="#B1" n="32"/>tudo sanctorum sanctis magis complaceat, ac de ea uberiores gratias agant, datur  
+          <lb ed="#B1" n="33"/>eis, ut uisione intellectuali etiam perfecte poenam damnatorum intueantur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
