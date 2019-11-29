@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 99 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 99 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="335"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l99">
+        <p xml:id="rhwis-l99-d1e95">
+          <!--sap_Page_369.xml-->
+          <pb ed="#B1" n="335"/>
+          <lb ed="#B1" n="1"/>POSTQUAM sapiens Salomon regratiatus est DEO generaliter &amp; 
+          <lb ed="#B1" n="2"/>summatim de sapientia sibi data: hic eidem regratiatur specialiter,  
+          <lb ed="#B1" n="3"/>inductiue, transcurrendo per materias diuersarum scientiarum. Et  
+          <lb ed="#B1" n="4"/>circa haec duo facit: quia primo enumerat quorum ipse scientiam  
+          <lb ed="#B1" n="5"/>habuit: Secundo qualiter eam peruenit, ibi: omnium enim artifex.  
+          <lb ed="#B1" n="6"/>Circa primum duo facit. Nam primo recognoscit suae scientiae soliditatem: secum 
+          <lb ed="#B1" n="7"/>do suae scientiae multiplicitatem ibi: scientiam. Circa primum dicit sic: Ipse enim DEVS 
+          <lb ed="#B1" n="8"/>uidelicet dedit mihi liberaliter horum quae sunt scientiam veram: id est, omnium 
+          <lb ed="#B1" n="9"/>creaturarum ueram, non falsam, non apparentem scientiam: quemadmodum 
+          <lb ed="#B1" n="10"/>se iactant habere falsi experimentatores, nigromantici, alchimici, &amp; per artem  
+          <lb ed="#B1" n="11"/>notoriam, ad doctrinam daemonum gloriantes se instructos: &amp; ostendentes scire 
+          <lb ed="#B1" n="12"/>que nesciunt, cuiusmodi sunt praestigiatores, diuinatores, physiognomici, psal 
+          <lb ed="#B1" n="13"/>mistici, uel palmistici, geomantici, incantatores &amp; magici: quorum non est scien 
+          <lb ed="#B1" n="14"/>tia uera, sed falsi, imo nulla. Quam praecipue docet uitare Apostolus 1. Ti  
+          <lb ed="#B1" n="15"/>moth. 6. O Timothee depositum custodi: id est, fidem deuitans profanas uo 
+          <lb ed="#B1" n="16"/>cum nouitates, &amp; oppositones falsi nominis scientiae. Gloss. 1. quae falso no 
+          <lb ed="#B1" n="17"/>mine dicitur scientia. Contra qualem falsam scientiam dicit Salo. sibi datam fuisse  
+          <lb ed="#B1" n="18"/>scientiam veram. Et per hoc recognoscit suae scientiae soliditatem. Consequenter 
+          <lb ed="#B1" n="19"/>autem ostendit eiusdem scientiae multiplicitatem cum dicit: vt sciam dispositionem or 
+          <lb ed="#B1" n="20"/>bis terrarum. i. distinctiones climatum, &amp; diuersitatem locorum, habitabilium &amp; non 
+          <lb ed="#B1" n="21"/>habitabilium in terra, secundum distantiam a polis mundi, &amp; appropinquationem 
+          <lb ed="#B1" n="22"/>&amp; elongationem a uia Solis. Et uirtutes elementorum. is. transmutationes corporum 
+          <lb ed="#B1" n="23"/>natur alium tam secundum locum quam secundum qualitates. Initium et consummationem &amp; me 
+          <lb ed="#B1" n="24"/>dietatem temporum: id est, principium mundi, &amp; tempus CHRISTI, &amp; diem  
+          <!--sap_Page_370.xml-->
+          <pb ed="#B1" n="336"/>
+          <lb ed="#B1" n="1"/>iudicij saltem in generali sciuit esse futurum. Morum mutatioges: id est, diuer 
+          <lb ed="#B1" n="2"/>sas consuetudines &amp; leges humanas secundum diuersitatem situs temporis: 
+          <lb ed="#B1" n="3"/>&amp; assuefactionis, &amp; complexionis. Diuisiones temporum: id est, distinctas reuo 
+          <lb ed="#B1" n="4"/>lutiones planetarum, vicissitudinum permutationes. i. aëris &amp; terrae uarias trans  
+          <lb ed="#B1" n="5"/>mutationes, quibus uicissim, &amp; successiue, &amp; contrarie disponuntur, ut nunc 
+          <lb ed="#B1" n="6"/>situer, nunc aestas, nunc autumnus, nunc hyems, &amp; consummationes temporum. 
+          <lb ed="#B1" n="7"/>id est, quando unumquodque istorum incipit &amp; terminatur secundum gressum 
+          <lb ed="#B1" n="8"/>planetarum in diuerla signa in zodiaco: anni cursus &amp; stellarum dispositiones: 
+          <lb ed="#B1" n="9"/>id est, computationes motuum Solis &amp; Lunae, &amp; figuras &amp; imagines omnium 
+          <lb ed="#B1" n="10"/>stellarum nxarum in octaua sphaera. Naturas animalium, quantum ad genera 
+          <lb ed="#B1" n="11"/>tionem. Iras bestiarum quantum ad utilitatem &amp; domesticationem humanam. 
+          <lb ed="#B1" n="12"/>uim ventorum: id est, differentias uentorum quatuor principalium, &amp; 8. conlla 
+          <lb ed="#B1" n="13"/>teralium sicut patet 3. Meteo. Et cogitationes hominum: id est, affectiones ad quas 
+          <lb ed="#B1" n="14"/>homines debent esse ex complexione, &amp; corporum coelestium, &amp; cooperatio  
+          <lb ed="#B1" n="15"/>ne dispositi. Differentia virgultorum, quantum ad plantationes, insertiones, 
+          <lb ed="#B1" n="16"/>translationes, fructificationes. De quibus Virgil. lib. Georgicorum. Palladius 
+          <lb ed="#B1" n="17"/>de agricultura: &amp; virtutes radicum quae calida, quae frigida, quae temperata, 
+          <lb ed="#B1" n="18"/>quae conferens, quae nociua, secundum uarietates sanitatum &amp; infirmitatum, 
+          <lb ed="#B1" n="19"/>Etiam non solum ista, imo quaecunque sunt absconsa &amp; improuisa: id est, commu 
+          <lb ed="#B1" n="20"/>niter alijs hominibus occulta didici, non per inuentionem, sed per reuelatto.  
+          <lb ed="#B1" n="21"/>nem. Et est quod subdit: omnium enim artifex docuit me sapientia. Sapientia in 
+          <lb ed="#B1" n="22"/>creata uidelicet quae CHRISTVS est, 1. Corinth.1. Nos autem praedicamus 
+          <lb ed="#B1" n="23"/>CHRISTVM crucifixum: Iudaeis quidem scandalum, gentibus autem stul  
+          <lb ed="#B1" n="24"/>titiam. Ipsis autem uocatis Iudaeis atque Graecis CHRISTVM, DEI uir 
+          <lb ed="#B1" n="25"/>tutem &amp; DEI sapientiam. 
+        </p>
+        <p xml:id="rhwis-l99-d1e212">
+          <lb ed="#B1" n="26"/>Occasione eius quod in litera dicitur inter alia de sapientia, quod uidelicet 
+          <lb ed="#B1" n="27"/>habuit scientiam de cursu anni &amp; dispositionibus stellarum. Quaeritur utrum 
+          <lb ed="#B1" n="28"/>de motibus stellarum possit esse scientia: quod non: Quia si sic, hoc maxime fo 
+          <lb ed="#B1" n="29"/>ret possibile de motibus Solis &amp; Lunae. Sed de istis non potest haberi scientia:. 
+          <lb ed="#B1" n="30"/>Ergo nec de alijs. Assumptum probo: quia si aliqua scientia esset de eorum mo 
+          <lb ed="#B1" n="31"/>tibus, possibile uideretur quod Sol esset in continuo motu circulariter super 
+          <lb ed="#B1" n="32"/>terram, &amp; quod Sol moveretur motu firmamenti ab oriente in occidens, &amp; 
+          <lb ed="#B1" n="33"/>quod Sol non eclipsaretur tempore oppositonis Lunae: &amp; ista uidentur esse  
+          <lb ed="#B1" n="34"/>falsa ex textu Sacrae scripturae: primum patet quod Sol non moueatur conti  
+          <lb ed="#B1" n="35"/>nue, Iosua 10. Stetit Sol in medio coeli, &amp; non festinauit occumbere spacio 
+          <lb ed="#B1" n="36"/>unius diei, non fuit ante &amp; postea tam longa dies DEO obediente uoci homi 
+          <lb ed="#B1" n="37"/>nis: secundum patet Esa. 38. &amp; 4. Reg. 20. Vbi legimus quod cum Excechias 
+          <lb ed="#B1" n="38"/>Rex ludae grauissime aegrotasset, &amp; per fletum &amp; poenitentiam sanitatem a 
+          <lb ed="#B1" n="39"/>Domino meruisset, misit Dominus ad eum Esaiam Prophetam, qui diceret 
+          <lb ed="#B1" n="40"/>quod die tertio ascenderet in templum Domini totus sanus. Excechias uero si 
+          <lb ed="#B1" n="41"/>gnum petiuit, ut certificaretur de sanitate futura, &amp; dicit ad eum Excechias: 
+          <lb ed="#B1" n="42"/>Vis ut ascendat umbra in horologia Acham 10. lineis: an totidem gradibus 
+          <lb ed="#B1" n="43"/>reuertatur: &amp; reuersus est Sol per 10. lin. in horologio Acham: &amp; posita estum 
+          <lb ed="#B1" n="44"/>bra styli in horologio sicut fuit de mane Sole existente in oriente: hoc autem fie 
+          <lb ed="#B1" n="45"/>ri non potuit: Ergo conclusio est falsa. Tertium uidelicet quod Sol possit e 
+          <lb ed="#B1" n="46"/>clipsari, Luna existente in oppositone patet Matth. 27. &amp; Luc. 23. Vbi 
+          <lb ed="#B1" n="47"/>sic scribitur: Tenebrae factae sunt in uniuersa terra usque ad horam nonam, &amp; 
+          <lb ed="#B1" n="48"/>obscuratus est Sol, &amp;c. Sed constat quod Luna tunc fuit opposita regione 
+          <lb ed="#B1" n="49"/>ad Solem: quia CHRISTVS passus est Luna 15. &amp; Sol fuit in nono gradu 
+          <lb ed="#B1" n="50"/>Arietis, &amp; Luna in nono gradu Librae in meridie illius sextae feriae: Ergo patet  
+          <lb ed="#B1" n="51"/>falsitas istius conclusionis de eclipsi. Ad oppositum est litera, &amp; omnes Astro 
+          <lb ed="#B1" n="52"/>nomi. Ad quaestionem dicendum, quod de motibus stellarum potest esse  
+          <lb ed="#B1" n="53"/>scientia, non quidem demonstratiua, qualiter omni tempore mouebuntur,  
+          <!--sap_Page_371.xml-->
+          <pb ed="#B1" n="337"/>
+          <lb ed="#B1" n="1"/>sed demonstratiua qualiter omni tempore natae sunt moveri, si Deus mira 
+          <lb ed="#B1" n="2"/>culose aliter non disponat, sicut enim docet beatus August. Sic DEVS rebus 
+          <lb ed="#B1" n="3"/>creatis motus operationes indidit, ut tamen pro libitu voluptatis eas exerce 
+          <lb ed="#B1" n="4"/>ant, uel omittant: Vnde quamuis experimentaliter &amp; sensibiliter uideamus, 
+          <lb ed="#B1" n="5"/>quod ignis natus est comburere: contigit tamen aliquando quod ignis qui  
+          <lb ed="#B1" n="6"/>dam approximatus quibusdam pueris non nocuit, &amp; tamen alios qui magis  
+          <lb ed="#B1" n="7"/>distabant occidit, sicut patet Dan. 3. Et ideo quamuis sciamus qualiter res na 
+          <lb ed="#B1" n="8"/>tae sunt agere, &amp; qualiter frequenter egerunt: quia hic uocamus naturale quod  
+          <lb ed="#B1" n="9"/>semper uel frequenter contingit. Qualiter tamen res certo tempore agent, ne 
+          <lb ed="#B1" n="10"/>scimus: quia hoc est in manu DEI. Pro rationibus tamen est notandum, quod  
+          <lb ed="#B1" n="11"/>ista tria miracula maxima, quae unquam in corporibus coelestibus contigerunt  
+          <lb ed="#B1" n="12"/>adduxit Dionysius, contra quendam philosophum in Epistola ad Polycarpum, 
+          <lb ed="#B1" n="13"/>quae est 7. in ordine Epistolarum beati Dionysij. Ad quorum euidentiam in 
+          <lb ed="#B1" n="14"/>tentionem dictae Epistolae breuiter explanabo sequens expositonem fratris  
+          <lb ed="#B1" n="15"/>Alberti, qui omnes libros Dionysij exposuit satis clare.
+        </p>
+        <p xml:id="rhwis-l99-d1e312">
+          <lb ed="#B1" n="16"/>Sciendum est ergo quod illa Epistola mentionem facit de tribus personis, 
+          <lb ed="#B1" n="17"/>uidelicet Dionysio, Polycarpo &amp; Appollophane. Fuit autem Polycarpus di 
+          <lb ed="#B1" n="18"/>scipulus beati lohannis Euangelistae, postea episcopus, &amp; tandem martyrixca 
+          <lb ed="#B1" n="19"/>tus. Appollophanes fuit quidam philosophus, qui fuerat magister beati Dio 
+          <lb ed="#B1" n="20"/>nysij in philosophia. Iste cum uisitaretur a Polycarpo, &amp; inuitaretur ad fidem  
+          <lb ed="#B1" n="21"/>CHRISTI redarguebat abeuntem Dionysium super hoc quod philosophia, 
+          <lb ed="#B1" n="22"/>quam a Graecis didicerat, contra philosophos uteretur, dicens: Iniustum esse a 
+          <lb ed="#B1" n="23"/>liquem uti aliquo contra eos a quibus illud accepit: &amp; ideo uocauit Dionysium 
+          <lb ed="#B1" n="24"/>uerberatorem patrum metaphorice: quia uidelicet repraehendit Graecos de 
+          <lb ed="#B1" n="25"/>eorum philosophia, a quibus tamen philosophiam didicerat: sicut a parenti 
+          <lb ed="#B1" n="26"/>bus &amp; magistris. Cum ergo sic frequenter responderet Polycarpo dictus phi  
+          <lb ed="#B1" n="27"/>losophus: Polycarpus nacta opportunitate mandauit Dionysio, quod sibi ali  
+          <lb ed="#B1" n="28"/>qua rescriberet, per quae dictus Appollophanes ad fidem trahi posset ex pro 
+          <lb ed="#B1" n="29"/>prijs principijs disciplinae suae, qui clarus in astronomia inter alios habebatur.  
+          <lb ed="#B1" n="30"/>Hac ergo occasione scribit ad Polycarpum epistolam illam ostendens, quod  
+          <lb ed="#B1" n="31"/>per eam ad cultum DEI ueri nesciuit pertingere. Ad cuius tamen noticiam ex 
+          <lb ed="#B1" n="32"/>astronomia maxime debuisset peruenisse. Et arguit sic. Cum ordo motuum 
+          <lb ed="#B1" n="33"/>corporum coelestium sit regularis &amp; certus: Si ille ordo ab aliquo mutaretur:  
+          <lb ed="#B1" n="34"/>constat quod ille sic mutans, foret DEVS. Sed ordo motuum corporum coe 
+          <lb ed="#B1" n="35"/>lestium fuit aliquando mutatus, sicut ipsemet Appollophan. nouit: ergo debuit  
+          <lb ed="#B1" n="36"/>conclusisse quod causa illius mutationis fuit causa prima continens &amp; regens 
+          <lb ed="#B1" n="37"/>totum coelum. Et per consequens relictis idolis, &amp; talis DEVS foret colendus. 
+          <lb ed="#B1" n="38"/>Minorem huius rationis probatDionysius in tribus exemplis: primo per sta 
+          <lb ed="#B1" n="39"/>tionem Solis, Iosua 10. de quo argutum fuit in prima ratione. Siue etiam dica 
+          <lb ed="#B1" n="40"/>tur quod Sol stetit immotus cum orbibus superioribus &amp; inferioribus secun 
+          <lb ed="#B1" n="41"/>dum unam opinionem. Siue solus Sol steterit alijs motis secundum suum cur 
+          <lb ed="#B1" n="42"/>sum secundum aliam opinionem: hoc tamen certum est Solem stetisse, quod  
+          <lb ed="#B1" n="43"/>non potuit fieri nisi per operationem alicuius causae infinitae. Secundo probat 
+          <lb ed="#B1" n="44"/>idem per ascensum Solis in horologio Acham, sicut argutum fuit in ratione. 
+          <lb ed="#B1" n="45"/>Secundo quando unus dies artificialis fuit fere triplicatus. Dies uero artificia 
+          <lb ed="#B1" n="46"/>lis habet 12. horas &amp; tres dies 36. horas, &amp; per consequens fuit triplicatus ad 
+          <lb ed="#B1" n="47"/>alium diem artificialem exceptis quatuor horis, quod patet: quia sicut in astro 
+          <lb ed="#B1" n="48"/>labio signantur &amp; lineantur duodecim horae in horologio Acham. Et iam in 
+          <lb ed="#B1" n="49"/>aduentu Esa. ad regem descenderant Sol per 10. lineas ita quod non distabat  
+          <lb ed="#B1" n="50"/>nocte nisi per duas horas: Sol ergo transcendit ad dictas 10. lineas &amp; descen 
+          <lb ed="#B1" n="51"/>dit per easdem iterum: ergo compleuit tunc 30. horas &amp; adhuc restabant duae li  
+          <lb ed="#B1" n="52"/>neae ultimae usque ad noctem: ergo illa dies habuit triginta duas horas. Et ideo 
+          <lb ed="#B1" n="53"/>dicit Dionysius quod dies ille fuit triplicatus, &amp; hoc fuit tantum miraculum 
+          <!--sap_Page_372.xml-->
+          <pb ed="#B1" n="338"/>
+          <lb ed="#B1" n="1"/>quod conuertit in stuporem Babylonios qui fuerunt diligentes in considera 
+          <lb ed="#B1" n="2"/>tione motuum coelestium, &amp; hoc miraculum subiecit eos regi Excechiae sine 
+          <lb ed="#B1" n="3"/>pugna sicut cuidam aequali DEO &amp; homines excedenti. Et deinceps sacerdo 
+          <lb ed="#B1" n="4"/>tes Persarum notantes diem illum fecerunt annuatim festum triplicati Solis:  
+          <lb ed="#B1" n="5"/>&amp; dicebantur triplicati inter sacerdotes, uidelicet festum triplicati Solis cole 
+          <lb ed="#B1" n="6"/>bant. Ista ergo signa quae non fuerunt localia facta, uidelicet in regione una, uel 
+          <lb ed="#B1" n="7"/>una terra, sed communia toti mundo, debuerunt mouisse Appolophanem ad 
+          <lb ed="#B1" n="8"/>colendum illum, qui haec miranda causauit. Sed quia Appollophanes posset  
+          <lb ed="#B1" n="9"/>ista ex pertinacia forte negare, quamuis sacerdotum testimonium uiderit, non 
+          <lb ed="#B1" n="10"/>scribit Dionysius Polycarpo, quod si ista duo negauerit contigisse: reducat sibi 
+          <lb ed="#B1" n="11"/>ad memoriam tertium uidelicet de eclipsi tempore passionis CHRISTI, &amp; 
+          <lb ed="#B1" n="12"/>dicat sic sibi, quod illam non potest negare. Dicit Dionysius quando nos ambo 
+          <lb ed="#B1" n="13"/>stetimus in Heliopolim ciuitate Aegypti, &amp; simul stantes uidimus Lunam in 
+          <lb ed="#B1" n="14"/>opinabiliter &amp; innaturaliter supponentem se Soli, cum non esset tempus con 
+          <lb ed="#B1" n="15"/>iunctionis, sed magis oppositonis, uel fere. Quae quidem eclipsis fuit multi  
+          <lb ed="#B1" n="16"/>pliciter miraculosa. Primo quia eclipsis Solis non fit nisi in coniunctione So 
+          <lb ed="#B1" n="17"/>lis &amp; Lunae: Coniunctio autem sit per hoc quod Luna est uelocioris motus 
+          <lb ed="#B1" n="18"/>quam Sol, &amp; ideo attingit Solem. Manifestum ergo est quae Luna accedens ad So 
+          <lb ed="#B1" n="19"/>lem transit per arcum interceptum inter Solem &amp; occidentem: quandocunque  
+          <lb ed="#B1" n="20"/>hoc est naturaliter sit coniunctio siue sit eclipsis, siue non. Modo in passione 
+          <lb ed="#B1" n="21"/>CHRISTI non uenit Luna ab occidente, sed a parte orientis, quod est omnino 
+          <lb ed="#B1" n="22"/>contra naturam. Vnde pars orientalis diametri Solis primo eclipsabatur: &amp; 
+          <lb ed="#B1" n="23"/>sic per consequens totus diameter Solis: quia fuit eclipsis uniuersalis. Et tunc  
+          <lb ed="#B1" n="24"/>redijt uersus orientem, ita quod primo illuminabatur pars diametri occiden  
+          <lb ed="#B1" n="25"/>talis, quae ultimo eclipsabatur, quod quidem fuit contra naturam eclipsis: quia 
+          <lb ed="#B1" n="26"/>in omni naturali eclipsi pars occidentalis eclipsatur primo, &amp; primo re illu 
+          <lb ed="#B1" n="27"/>minatur. Tertio fuit mirabilis: quia Luna tunc temporis infra 6. horas fere com  
+          <lb ed="#B1" n="28"/>pleuit motum 15. dierum: quia inter nonam &amp; uesperam iuit 185. fere gradus. 
+          <lb ed="#B1" n="29"/>Quod sic patet. In oppositone ista constat quod inter Solem &amp; Lunam fue 
+          <lb ed="#B1" n="30"/>runt 185 gradus, qui sunt medietas coeli, non fuit eclipsis post oppositonem 
+          <lb ed="#B1" n="31"/>per 9. horas: ita quod Luna in illis novem horis transierat 5. gradus ultra locum 
+          <lb ed="#B1" n="32"/>uere oppositonis uersus occidentem. Redijt ergo per 185 gradus Solis acce 
+          <lb ed="#B1" n="33"/>dendo, &amp; similiter recedendo, sic infra 6. horas iuit motum fere 15 dierum. 
+          <lb ed="#B1" n="34"/>Quarto fuit miraculosa: quia sicut probatPtolomaeus tam oppositone quam 
+          <lb ed="#B1" n="35"/>coniunctione Luna est in auge. Oportet ergo quod aux circulus Lunae in eo  
+          <lb ed="#B1" n="36"/>dem spacio temporis accederet ad Solem cum Luna, &amp; cum Luna recederet,  
+          <lb ed="#B1" n="37"/>quod est contra naturam: quia aux Lunae semper mouetur motu contrario Lu 
+          <lb ed="#B1" n="38"/>nae: sicut patet in theorica planetarum. Quinto latitudo Lunae causata fuit: quia 
+          <lb ed="#B1" n="39"/>Luna non fuit infra gradus eclipsis sufficiens, &amp; dato, qui fuisset Soli comiuncta
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

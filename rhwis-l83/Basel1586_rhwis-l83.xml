@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 76 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 76 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="286"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l83">
+        <p xml:id="rhwis-l83-d1e95">
+          <lb ed="#B1" n="13"/>VAE sunt conclusiones, quas Spiritus sanctus intendit principa 
+          <lb ed="#B1" n="14"/>liter in hac parte capituli usque ad finem desapientia declarare. Vna 
+          <lb ed="#B1" n="15"/>est, quod in eius adquisitione est facilitas: Alia est, quod in eius pos  
+          <lb ed="#B1" n="16"/>sessione est felicitas: &amp; de istis duobus agit alternatim, nunc decla 
+          <lb ed="#B1" n="17"/>rando facilitatem sapientiam adquirendi, nunc comendando felicitatem sa 
+          <lb ed="#B1" n="18"/>pientiam possidendi. Consequitur autem possessionem sapientiae duplex fe 
+          <lb ed="#B1" n="19"/>licitas, uidelicet temporalis &amp; aeterna: &amp; de utraqe fit hic descriptio: &amp; nunc de 
+          <lb ed="#B1" n="20"/>una, nunc de alia uicissim.
+        </p>
+        <p xml:id="rhwis-l83-d1e115">
+          <lb ed="#B1" n="21"/>Diuiditur ergo textus perlectus in duas partes. Nam primo ostendit felici 
+          <lb ed="#B1" n="22"/>tatem quae est in sapientiae possessione: Secundo felicitatem quae est in eius ad 
+          <lb ed="#B1" n="23"/>quisitione. Secunda pars ibi: Quoniam dignos. Quantum ad primam partem di 
+          <lb ed="#B1" n="24"/>cit, quod duplicem perfectionem confert homini sapientia, quae consistit in 
+          <lb ed="#B1" n="25"/>uero cultu DEI: Nam excludit ab homine, quantum ad rationalem, errorem 
+          <lb ed="#B1" n="26"/>falsitatis, quantum ad irascibilem timorem aduersitatis, quantum ad primum 
+          <lb ed="#B1" n="27"/>dicit sic: Cogitare de illa: id est, de sapientia increata, quae est cultus ueri DEI, est 
+          <lb ed="#B1" n="28"/>sensus consummatus: id est, sensus veraciter informatus sine deceptione. Sensus 
+          <lb ed="#B1" n="29"/>enim multipliciter decipiuntur. Aliquando propter indispositionem organi: 
+          <lb ed="#B1" n="30"/>Sicut lingua febricitantis iudicat dulce amarum. Aliquando propter indispo 
+          <lb ed="#B1" n="31"/>sitionem medij: Sicut oculus iudicat baculum esse fractum cuius una medie 
+          <lb ed="#B1" n="32"/>tas est in aëre &amp; talia in aqua. Aliquando propter elongationem obiecti: Si 
+          <lb ed="#B1" n="33"/>cut oculus iudicat solem esse pedalis quantitatis, &amp; sic de alijs. Propter quod  
+          <lb ed="#B1" n="34"/>sincera ueritas non est a sensibus expetenda, secundum August. secundo soli  
+          <lb ed="#B1" n="35"/>loquiorum. Et ideo iudicium sensus dicitur imperfectum &amp; inconsummatum, 
+          <lb ed="#B1" n="36"/>nisi per rationis sententiam reguletur. In solis ergo sapientibus qui sensua 
+          <lb ed="#B1" n="37"/>litati dominantur per rationem est sensus consummatus. Vnde August. 1. lib.  
+          <lb ed="#B1" n="38"/>de libero arbitrio cap. 18. Sapiens est, qui regno mentis, omni libidinis subiu  
+          <!--sap_Page_321.xml-->
+          <pb ed="#B1" n="287"/>
+          <!--2 extra lines in images that need deletion <lb ed="#B1" n="1"/>M. RO B. Ho RROT. CHP 
+      <lb ed="#B1" n="2"/>VI--> 
+          <lb ed="#B1" n="3"/>gatione semota, pacatus est. Et Eccl. 21. Consummatio timoris DEI sapientia 
+          <lb ed="#B1" n="4"/>&amp; sensus. Et per oppositum stultorum sensus semper est inconsummatus: quia 
+          <lb ed="#B1" n="5"/>insensualitate stante, &amp; secundum rationem non uiuunt. Et ideo uocantur su 
+          <lb ed="#B1" n="6"/>perius ca. 4. Rami inconsummati. Frangentur, inquit, rami inconsummati. Sic er 
+          <lb ed="#B1" n="7"/>go sapientia excludit ab homine quantum ad rationalem errorem falsitatis. Secun 
+          <lb ed="#B1" n="8"/>do excludit timorem poenalitatis. Et quantum ad hoc dicit: Qui vigilauerit propter 
+          <lb ed="#B1" n="9"/>illam, cito securus erit: Cito quia post mortem quae ueniet ualde cito habebit se  
+          <lb ed="#B1" n="10"/>curitatem, quae est pars potissima beatitudinis. Vnde dicit Aug. 13. de Trinitate,  
+          <lb ed="#B1" n="11"/>loquens de futura beatitudine. <quote xml:id="rhwis-l83-Qd1e182" source="http://scta.info/resource/adt-l13-d1e1435">Omne quod ibi erit, bonum erit, &amp; ipse summus 
+            <lb ed="#B1" n="12"/>DEVS summum bonum erit, atque ad fruendum eum amantibus praesto erit, &amp; quod  
+            <lb ed="#B1" n="13"/>est omnino beatissimum, ita semper fore certum erit</quote>: Quilibet ergo bonus 
+          <lb ed="#B1" n="14"/>cito securus erit. Apocal. 22. Ecce uenio cito &amp; merces mea mecum est, reddere 
+          <lb ed="#B1" n="15"/>unicuique secundum opera sua. Et Apocal. 1. Signauit DEVS quae oportet  
+          <lb ed="#B1" n="16"/>fieri cito. Et ideo signanter dicit: Qui vigilauerit propter illam cito, securus erit,  
+          <lb ed="#B1" n="17"/>ad differentiam hominum lasciuorum qui uigilias multas faciunt, non propter cigilie mppe 
+          <lb ed="#B1" n="18"/>cultum DEI, sed propter cultum carnis: quorum quidam uigilant ad gulam, rum, 
+          <lb ed="#B1" n="19"/>quidam ad praedam, quidam ad luxuriam. Quidam uigilant propter gulam, &amp; 
+          <lb ed="#B1" n="20"/>ad suas uoluptates explendas, de quibus dicitur Sap. 14. Insaniae plenas uigi 
+          <lb ed="#B1" n="21"/>lias habentes. Alij uigilant ad praedam sicut fures, latrones &amp; praedones, Iob. 
+          <lb ed="#B1" n="22"/>34. Vigilantes ad praedam, praeparant panem liberis agrum non suum, &amp; ui  
+          <lb ed="#B1" n="23"/>neam eius quam ui oppresserunt uindemiant. Tertij uigilant ad luxuriam, Iob. 
+          <lb ed="#B1" n="24"/>24. Oculus adulteri obseruat caliginem. Sequitur secunda pars lectionis, in 
+          <lb ed="#B1" n="25"/>qua ostenditur facilitas sapientiam adquirendi ex tribus. Ille enim qui nos quae 
+          <lb ed="#B1" n="26"/>rit &amp; qui se nobis ostendit, &amp; qui in omni tempore nobis occurrit, faciliter in 
+          <lb ed="#B1" n="27"/>uenitur a nobis. Sed sapientia in creata quae DEVS est sic se habet ad nos, quod  
+          <lb ed="#B1" n="28"/>ipsa circuit, quaerens dignos se, &amp; in vijs suis: id est, in praeceptis, ostendit se eis hila 
+          <lb ed="#B1" n="29"/>riter &amp; in omni prouidentia occurrit illis. Dicit ergo sic. Facie inuenitur, quonia 
+          <lb ed="#B1" n="30"/>dignos scipsa circuit quaerens: id est, ad modum circumeuntis &amp; quaerentis se habet:  
+          <lb ed="#B1" n="31"/>quia ex omni tempore datnobis DEVS occasionem eum cognoscendi &amp; 
+          <lb ed="#B1" n="32"/>amandi. Vnde August. 4. Confessionum cap. 8. Coelum &amp; terra &amp; omnia quae 
+          <lb ed="#B1" n="33"/>in eis sunt. Ecce undique mihi dicunt, ut te amem, nec cessant dicere omnibus, 
+          <lb ed="#B1" n="34"/>ut sint inexcusabiles.
+        </p>
+        <p xml:id="rhwis-l83-d1e235">
+          <lb ed="#B1" n="35"/>Circumiuit CHRISTVS quaerens nos in terra, in aëre, in inferno. August. cuRISTos 
+          <lb ed="#B1" n="36"/>11. confessionum cap. 2. Quaesisti non quaerentes te, quaesisti autem ut quae nos quesiuit.  
+          <lb ed="#B1" n="37"/>ramus te. Quaesiuit nos in terra docendo, in cruce moriendo, ac per insignia 
+          <lb ed="#B1" n="38"/>passionis suae gloriosa misericorditer ad regna coelestia nos incitando: In infer 
+          <lb ed="#B1" n="39"/>num descendendo. Et in vijs suis ostendit se illis hilariter. Viae CH.RISTI 
+          <lb ed="#B1" n="40"/>sunt praecepta CHRISTI, semitae sunt consilia. In Psalmo: Viastuas rsal. 24  
+          <lb ed="#B1" n="41"/>Domine demonstra mihi, &amp; semitas tuas edoce me: Et hoc hilariter Prover 
+          <lb ed="#B1" n="42"/>biorum 16. In hilaritate uultus regis uita: Et clementia eius quasi imber sero prudentiae pa 
+          <lb ed="#B1" n="43"/>tinus. Et in omni prouidentia occurret illis. Docet enim Tullius 2. Retho tes. 
+          <lb ed="#B1" n="44"/>ricae quod prudentiae tres sunt partes: Memoria, Prouidentia, Intellecti 
+          <lb ed="#B1" n="45"/>ua. Memoria est per quam animus repetit illa quae fuerunt: Intellectiua est per 
+          <lb ed="#B1" n="46"/>quam ea prospicit quae sunt: Prouidentia per quam futuri aliquid uidetur an 
+          <!--extra line that needs to be deleted in coordinates list <lb ed="#B1" n="47"/>prouidentia.-->
+          <lb ed="#B1" n="48"/>tequam fit: unde prouidentia proprio nomine sumpta est praesens notio futu 
+          <lb ed="#B1" n="49"/>rum tractans euentum. In omni ergo spe prouidentiae DEVS occurrit diligen 
+          <lb ed="#B1" n="50"/>tibus, docens quid eis expedit recordari, quid meditari, quid praestolari. 
+          <lb ed="#B1" n="51"/>Vult ergo dicere Spiritus sanctus quod DEVS se diligentibus in omni proui  
+          <lb ed="#B1" n="52"/>dentia occurrit: id est, gratiam tribuit, non solum benem ordinandi praesentia, sed  
+          <lb ed="#B1" n="53"/>etiam prouidendi de futuris.
+        </p>
+        <p xml:id="rhwis-l83-d1e279">
+          <lb ed="#B1" n="54"/>Vbi notandum quod ad perfectum regimen humanae uitae quadruplex  
+          <lb ed="#B1" n="55"/>prouidentia est necessaria: uidelicet legalium statutorum, temporalium the 
+          <lb ed="#B1" n="56"/>saurorum, personalium meritorum, &amp; regularium responsorum. Primam pro 
+          <!--sap_Page_322.xml-->
+          <pb ed="#B1" n="288"/>
+          <lb ed="#B1" n="1"/>uidentiam tenentur facere reges, principes, &amp; praelati iusticiarij, consiliarij, &amp; 
+          <lb ed="#B1" n="2"/>regum ministri: ut uidelicet leges instituantur iuste quae conuenientes &amp; 
+          <lb ed="#B1" n="3"/>communes tam diuitibus quam pauperibus ostendantur. Haec autem proui  
+          <lb ed="#B1" n="4"/>dentia de thesauro Sacrae scripturae procedere debet. Lex enim quae obstat Sa 
+          <lb ed="#B1" n="5"/>crae scripturae, decretis Ecclesiae &amp; bonis moribus nullius debet esse momenti. 
+          <lb ed="#B1" n="6"/>Sicut dicitur in Canone, distinctione 10. Non licet. Vbi etiam Felix Papa ad 
+          <lb ed="#B1" n="7"/>quendam lmperatorem sic scribit. Certum est hoc rebus uestris esse salutare, 
+          <lb ed="#B1" n="8"/>ut cum de causis DEI agitur iuxta ipsius constitutum, regiam uoluntatem 
+          <lb ed="#B1" n="9"/>sacerdotibus CHRISTI studeatis subdere, non proferre &amp; sacrosancta per eo 
+          <lb ed="#B1" n="10"/>rum praesules potius discere quam docere, Ecclesiae formam sequi: non huic  
+          <lb ed="#B1" n="11"/>humanitus sequenda, iura praefigere, neque eius sanxionibus uelle dominari: 
+          <lb ed="#B1" n="12"/>Cui DEVS clementiae tuae piae deuotionis colla uoluit submittere: ne dum 
+          <lb ed="#B1" n="13"/>mensura coelestis dispensationis exceditur, eatur in contumeliam disponentis 
+          <lb ed="#B1" n="14"/>A thesauro ergo Sacrae scripturae sumi debet prouidentia legalium statutorum, 
+          <lb ed="#B1" n="15"/>sine quibus impossibile est pacem inter homines obseruare, 2. Mach. 4. Vide 
+          <lb ed="#B1" n="16"/>batenim Onias sine regali prouidentia esse impossibile pacem rebus dari. Se 
+          <lb ed="#B1" n="17"/>cundam prouidentiam quae est temporalium thesaurorum, tenentur facere 
+          <lb ed="#B1" n="18"/>praelati Ecclesiastici pro pauperibus sustentandis: Ipsi enim sunt spiritualiter 
+          <lb ed="#B1" n="19"/>senascalii CHRISTI, qui de ipsius patrimonio familiam suam prouidere te 
+          <lb ed="#B1" n="20"/>nentur. Vnde Bernh de colloquio Simonis &amp; IESVlib. 4. cap. 5. Res pauperum 
+          <lb ed="#B1" n="21"/>non pauperibus dari par sacrilegi crimen dinoscitur. Sane patrimonia, sunt  
+          <lb ed="#B1" n="22"/>pauperum facultates Ecclesiarum, &amp; sacrilega eis crudelitate subripitur, quid  
+          <lb ed="#B1" n="23"/>quid sibi ministri &amp; dispensatores (non utique uel possessores) ultra uictum susci 
+          <lb ed="#B1" n="24"/>iunt &amp; uestitum. Et c. 4. dicit sic: Dignum est ut qui altario deseruit, de altario 
+          <lb ed="#B1" n="25"/>uiuat. Viuat (inquam) de altario: non superbiat, non luxurietur, non ditetur, non 
+          <lb ed="#B1" n="26"/>in clericatu diues ex paupere fiat, non ex ignobili gloriosus, non sibi de bonis  
+          <lb ed="#B1" n="27"/>Ecclesiae ampla palatia fabricet, nec loculos inde congreget, nec in uanitate, nec 
+          <lb ed="#B1" n="28"/>in superfluitate dispergat, non extollat de facultatibus Ecclesiae consanguine 
+          <lb ed="#B1" n="29"/>os suos, aut nepotes, ne filias dixerim nuptui tradat: Conceditur tibi ut si bene 
+          <lb ed="#B1" n="30"/>deseruis de altario uiuas. Haec Bernhard. Est ergo praelatus Senascalius paupe 
+          <lb ed="#B1" n="31"/>rum, figuratus per angelum, qui Thobiam iuniorem duxit in regionem Me 
+          <lb ed="#B1" n="32"/>dorum, &amp; instruxit, quomodo uxorem sibi debuit copulare, &amp; sanum reduxit.  
+          <lb ed="#B1" n="33"/>Cui Thobias regratiando dixit. Si meipsum tibi tradam seruum, non ero con 
+          <lb ed="#B1" n="34"/>dignus prouidentiae tuae. Vt dicitur Thobiae 9. Sic certe regratiabitur subditus 
+          <lb ed="#B1" n="35"/>sanatus per prouidentiam boni praelati, ductus per uiam poenitentiae, &amp; redu 
+          <lb ed="#B1" n="36"/>ctus ad ciuitatem laeticiae. Et ideo signanter dicitur praelatis, 1. Pet. 5. Pascite qui 
+          <lb ed="#B1" n="37"/>in uobis est gregem DEI: prouidentes non coacte, sed spontanee: Non solum 
+          <lb ed="#B1" n="38"/>autem praelati, sed omnes habentes substantiam huius mundi, ad aliqualem  
+          <lb ed="#B1" n="39"/>huiusmodi prouidentiam obligantur, pro pauperibus sustentandis. Tertia 
+          <lb ed="#B1" n="40"/>prudentia est personalium meritorum, ad istam faciendam omnes obligamur,  
+          <lb ed="#B1" n="41"/>quilibet pro seipso in nundinis huius uitae. Ad Rom. 12. Nolite esse pruden 
+          <lb ed="#B1" n="42"/>tes apud uosmetipsos, nulli malum pro malo reddentes: sed prouidentes bona, 
+          <lb ed="#B1" n="43"/>non tantum coram DEO, sed coram omnibus hominibus: prouidentes (inquit)  
+          <lb ed="#B1" n="44"/>bona, uidelicet maxima, quae sunt uirtutes &amp; bona opera. Ista enim bona ha 
+          <lb ed="#B1" n="45"/>bent in se preciositatem, durabilitatem, &amp; utilitatem. Est enim una eleemosyna 
+          <lb ed="#B1" n="46"/>uel unum ieiunium deuotum magis preciosum coram DEO, quam totum  
+          <lb ed="#B1" n="47"/>aurum mundi, uel etiam omnes lapides preciosi. Est etiam meritum bonum 
+          <lb ed="#B1" n="48"/>durabile: quia perpetuum, si non interrumpatur per peccatum. Fatuus ualde 
+          <lb ed="#B1" n="49"/>foret existens in nundinis, ubi multa uideret uenalia preciosa, si tantum sibi 
+          <lb ed="#B1" n="50"/>prouideret de talibus, de quibus se sciret spoliandum in recessu suo de nundi 
+          <lb ed="#B1" n="51"/>nis, uellet, nollet. Vita praesens nundinae sunt in quibus negociari debemus, 
+          <lb ed="#B1" n="52"/>Luc. 19. Negociamini dum uenio. Fatui ergo sunt qui totam suam prouidentiam  
+          <lb ed="#B1" n="53"/>faciunt de terrenis diuitijs, de quibus in morte sunt necessario spoliandi, 1. Tim. 6. 
+          <!--sap_Page_323.xml-->
+          <pb ed="#B1" n="289"/>
+          <lb ed="#B1" n="1"/>Nihil intulimus in hunc mundum, haud dubium, quia nec auferre quid pos  
+          <lb ed="#B1" n="2"/>sumus. Et in persona talium dicitur Sapien. 9. Cogitationes mortalium timi 
+          <lb ed="#B1" n="3"/>dae, &amp; incertae prouidentiae nostrae. Aduertant etiam qui mundanas diuitias 
+          <lb ed="#B1" n="4"/>per lonpum tempus cum laboribus, periculis, &amp; taedijs pro suis filijs &amp; haere 
+          <lb ed="#B1" n="5"/>dibus, &amp; nihil adhuc pro seipsis perpetuum procurauerunt, quanta fatuitate 
+          <lb ed="#B1" n="6"/>laborant: &amp; accipiant exemplum, de Iacob Genes. 30. Qui postquam 14. an 
+          <lb ed="#B1" n="7"/>nis seruierat Laban: dicit ad socerum suum: Iustum est ut prouideam aliquan 
+          <lb ed="#B1" n="8"/>do etiam domui meae, &amp; ex tunc lucro proprio uacauit pro se &amp; familia sua 
+          <lb ed="#B1" n="9"/>Quarta est prouidentia regularium responsorum, &amp; ad hanc omnes tenemur  
+          <lb ed="#B1" n="10"/>quilibet pro seipso computum redditurus, &amp; clericus responsurus, &amp; reus co 
+          <lb ed="#B1" n="11"/>ram iudice comparaturus, diligenter sibi prouideret de responsuris. In istis ca 
+          <lb ed="#B1" n="12"/>sibus erimus omnes in die iudicij. Et ideo de nobis optat DEVS illud Deut.  
+          <lb ed="#B1" n="13"/>32. Vtinam saperent, &amp; intelligerent ac nouissima prouiderent. Prouidere est 
+          <lb ed="#B1" n="14"/>procul uidere, sicut dicit Boëtius 5. de conso. Nouissima nostra sunt mors, &amp; 
+          <lb ed="#B1" n="15"/>iudicium, poena &amp; praemium. Ista novissima dum procul sunt, prouidere &amp; 
+          <lb ed="#B1" n="16"/>praeordinare debemus, &amp; tunc nunquam peccabimus. Ecclesiast. 7. In omnibus 
+          <lb ed="#B1" n="17"/>operibus tuis memorare nouissima tua, &amp; in aeternum non peccabis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

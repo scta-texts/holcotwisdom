@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 105 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 105 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="355"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l105">
+        <p xml:id="rhwis-l105-d1e95">
+          <!--sap_Page_389.xml-->
+          <pb ed="#B1" n="355"/>
+          <lb ed="#B1" n="1"/>INTENTIO sapientis Salomon in isto cap. VIII est, spe 
+          <lb ed="#B1" n="2"/>cialiter enarrare, quemadmodum ad illam mirabilem sapien 
+          <lb ed="#B1" n="3"/>tiam, quam habebat, deuenerit. Etluult dicere, quod nec ab  
+          <lb ed="#B1" n="4"/>homine, nec a studio, nec a daemone, nec ab angelo, sed per 
+          <lb ed="#B1" n="5"/>deuotam supplicationem impetrauit eam a DEO. Vnde 
+          <lb ed="#B1" n="6"/>circa hoc duo facit. Primo ostendit quantum habuit ad sa 
+          <lb ed="#B1" n="7"/>pientiam adquirendam desiderium &amp; affectionem: Secun 
+          <lb ed="#B1" n="8"/>do ponit in forma suae petitionis deuotam supplicationem. Secunda pars ibi 
+          <lb ed="#B1" n="9"/>cap. IR. DEuS patrum meorum.
+        </p>
+        <p xml:id="rhwis-l105-d1e121">
+          <lb ed="#B1" n="10"/>Circa primum est advertendum quod personae inter quas feruentior amor 
+          <lb ed="#B1" n="11"/>ostenditur, ut communiter inter homines: sunt uir &amp; mulier, iuuenis &amp; puella, 
+          <lb ed="#B1" n="12"/>amicus &amp; amica, qui inter se contrahere cogitant copulam coniugalem: &amp; ideo 
+          <lb ed="#B1" n="13"/>sapiens Salomon ut amoris uehementiam manifestaret, quam habebat ad sa 
+          <lb ed="#B1" n="14"/>pientiam, licentia poetica, ficta quidem narratione, sed sub uera significatione 
+          <lb ed="#B1" n="15"/>introducit seipsum, in forma iuuenis cuiusdam puellae nobilissimae, quam Sa 
+          <lb ed="#B1" n="16"/>pientiam uocat, nuptias affectantis. Prudens autem nuptias contracturus fic 
+          <lb ed="#B1" n="17"/>procedit. Primo considerat ualorem &amp; gratias personae cum qua proponit con 
+          <lb ed="#B1" n="18"/>trahere. Secundo dotem &amp; diuitias, quas potest cum ea recipere. Et tertiosi com  
+          <lb ed="#B1" n="19"/>ditiones propriae suiipsius possint puellae congruere. Quarto quomodo eam  
+          <lb ed="#B1" n="20"/>a parentibus &amp; amicis, quorum interest, poterit petere &amp; habere. Isto modo Sa 
+          <lb ed="#B1" n="21"/>lomon cum amica sua sapientia contracturus. Primo ostendit ipsam puellam mira 
+          <lb ed="#B1" n="22"/>biliter amabilem, &amp; gratiosam. Secundo ostendit ip sius dotem fore summe 
+          <lb ed="#B1" n="23"/>desiderabilem &amp; preciosam. Tertio sibiipsius conditionem monstrat fuisse  
+          <lb ed="#B1" n="24"/>spectabilem &amp; uirtuosam. Et quarto ostendit puellae datorem habere nobilitatem 
+          <lb ed="#B1" n="25"/>uenerabilem, gloriosam. Et secundum ista quatuor capita diuiditur in quatuor  
+          <lb ed="#B1" n="26"/>partes. Secunda pars ibi: proposisi ergo. Tertia ibi: Puer autem eram. Quarta ibi:  
+          <lb ed="#B1" n="27"/>Et vt sciui quoniam aliter non possim esse continens nisi.
+        </p>
+        <p xml:id="rhwis-l105-d1e163">
+          Circa primum duo facit.  
+          <lb ed="#B1" n="28"/>Primo ponit quandam ex praecedentibus deductam conclusionem. Secun 
+          <lb ed="#B1" n="29"/>do aggreditur enarrare, quantum habuit ad sapientiam adquirendam desi 
+          <lb ed="#B1" n="30"/>derium &amp; affectionem. Secunda pars ibi: fanc amaui. Conclusio ex praeceden 
+          <lb ed="#B1" n="31"/>tibus illata &amp; demonstrata est ista, quod sapientia habet omnem potentiam gu 
+          <lb ed="#B1" n="32"/>bernatiuam. Et sequitur ex hoc, quod ipsa omnia potest, benigna, &amp; suauis, &amp; 
+          <lb ed="#B1" n="33"/>amans bonum actum, &amp; nihil uetans benefacere, sicut superius inVII, cap. dictum 
+          <lb ed="#B1" n="34"/>fuit: ergo cum sit libera, non uetabat seipsam, quando faciet bonum actum. Et cum pro 
+          <lb ed="#B1" n="35"/>pria sua actio fuerit regere uniuersa: ergo haec faciet secundum conditiones suae bo 
+          <!--sap_Page_390.xml-->
+          <pb ed="#B1" n="356"/>
+          <lb ed="#B1" n="1"/>nitatis, uidelicet potenter &amp; misericorditer. Vnde dicit: Attingit ergo a 
+          <lb ed="#B1" n="2"/>fine vsque ad finem fortiter, &amp; disponit omnia suauiter. Quia hic sit mento 
+          <lb ed="#B1" n="3"/>de gubernatione diuina, potest esse duplex dubitatio. Prima an omnia sub  
+          <lb ed="#B1" n="4"/>dentur gubernationi diuinae: Secunda an DEVS disponat omnia miseri 
+          <lb ed="#B1" n="5"/>corditer
+        </p>
+        <p xml:id="rhwis-l105-d1e198">
+          <lb ed="#B1" n="6"/>Quantum ad primum uidetur quod DEVS non omnia gubernet: quia si 
+          <lb ed="#B1" n="7"/>sic, nihil male fieret in uniuerso, cum sit summe bonus &amp; summe potens. Se 
+          <lb ed="#B1" n="8"/>cundo: quia si gubernaret omnia, nihil fieret praeter propositum suum, &amp; sic  
+          <lb ed="#B1" n="9"/>nihil fieret a casu, contra Arist. 2. Physic.
+        </p>
+        <p xml:id="rhwis-l105-d1e209">
+          <lb ed="#B1" n="10"/>Ad oppositum est litera. Et est dicendum, quod DEVS gubernat omnia 
+          <lb ed="#B1" n="11"/>cum sit causa efficiens omnium: &amp; etiam finis: quia omnia efficit propter se, &amp; 
+          <lb ed="#B1" n="12"/>ad honorem suum congruit omnia in se dirigi, sicut in finem. Hoc autem est 
+          <lb ed="#B1" n="13"/>gubernare, dirigere res in aliquem finem intentum. Est tamen sic guberna 
+          <lb ed="#B1" n="14"/>tor omnium, quod gubernat mediantibus causis secundis. Vnde corpora 
+          <lb ed="#B1" n="15"/>grossiora &amp; corruptibilia gubernat per corpora coelestia &amp; incorruptibilia: 
+          <lb ed="#B1" n="16"/>&amp; corpora coelestia per angelos siue per intelligentias. Huius ratio est: quia ma 
+          <lb ed="#B1" n="17"/>ioris bonitatis comunicatio est, si gubernans &amp; efficiens causalitatem guber 
+          <lb ed="#B1" n="18"/>nandi &amp; efficiendi alijs sub se ordinate communicet, quam si superiora ab infe 
+          <lb ed="#B1" n="19"/>riorum gubernatione, &amp; omnia immediate per se ipsum gubernaret: &amp; ideo 
+          <lb ed="#B1" n="20"/>ostendendo suam perfectionem in causando, &amp; communicando perfectio 
+          <lb ed="#B1" n="21"/>nem suam in creaturis, communicat quibusdam gubernationem aliarum.
+        </p>
+        <p xml:id="rhwis-l105-d1e239">
+          Et  
+          <lb ed="#B1" n="22"/>ad rationes quando primo arguitur quod nihil male fieret in uniuerso, si ipse o 
+          <lb ed="#B1" n="23"/>mnia gubernaret, neganda est consequentia: sed uerum est si ipse solus &amp; im 
+          <lb ed="#B1" n="24"/>mediate omnia gubernaret &amp; ageret, nihil male fieret: modo quia idem effe 
+          <lb ed="#B1" n="25"/>ctus fit a DEO, sicut a causa partiali, &amp; a creatura rationali concurrente, sicut  
+          <lb ed="#B1" n="26"/>ab alia causa compartiali. Ideo contingit, quod idem effectus fit a DEO bene 
+          <lb ed="#B1" n="27"/>&amp; ab homine male, iuste a DEO, &amp; ab homine, iniuste. Et potest poni ex  
+          <lb ed="#B1" n="28"/>emplum, ut si dominus dicat seruo, trahamus istam chordam leniter, sic quod  
+          <lb ed="#B1" n="29"/>eam non frangamus. Et seruus trahens ruditer frangat chordam. Ista fractio est 
+          <lb ed="#B1" n="30"/>a domino, &amp; tamen seruus peccat &amp; male facit, &amp; dominus non. Sic DEVS 
+          <lb ed="#B1" n="31"/>statuit quod creaturae rationali uult cooperari in suis operationibus, ut cursus 
+          <lb ed="#B1" n="32"/>naturae maneat, quem instituit, sine quo nulla res potest aliquid agere, imo 
+          <lb ed="#B1" n="33"/>nec potest esse per momentum, nisi ipse conseruaret. Quando ergo creatura 
+          <lb ed="#B1" n="34"/>rationalis facit contra legem sibi praefinitam a DEO, quamuis a DEO conser 
+          <lb ed="#B1" n="35"/>uetur &amp; gubernetur, &amp; DEVS idem generaliter cooperetur, sicut cooperatur  
+          <lb ed="#B1" n="36"/>igni comburendo, &amp; Soli lucendo: tamen creatura male facit legem DEI 
+          <lb ed="#B1" n="37"/>transgrediendo, non autem DEVS qui sic facit, sicut lex sua statuit.
+        </p>
+        <p xml:id="rhwis-l105-d1e276">
+          Ad secun 
+          <lb ed="#B1" n="38"/>dum quando arguitur quod nihil fieret a casu, si DEVS omnia gubernaret, di 
+          <lb ed="#B1" n="39"/>cendum est: quod idem effectus dicitur esse a casu, &amp; praeter propositum re 
+          <lb ed="#B1" n="40"/>spectu unius causae, &amp; non a casu respectu alterius. Sicut ponitur exemplum 
+          <lb ed="#B1" n="41"/>de domino, qui mittit duos famulos in negociis suis ordinans, quod uter 
+          <lb ed="#B1" n="42"/>que obuiet alteri certo loco &amp; tempore, quorum neuter scit de alio. Iste con 
+          <lb ed="#B1" n="43"/>cursus famulorum dicitur esse a casu respectu utriusque famuli, &amp; tamen est 
+          <lb ed="#B1" n="44"/>per se intentus respectu Domini. Et sic est dicendum quod nihil fit in uniuer 
+          <lb ed="#B1" n="45"/>so a casu respectu diuinae gubernationis, nec aliquid sibi inopinatum eue 
+          <lb ed="#B1" n="46"/>nire potest. Sed ex concursu caufarum particularium bene procedit effe 
+          <lb ed="#B1" n="47"/>ctus, qui a natura est intentus: &amp; ille effectus dicitur casualis uel fortuitus 
+          <lb ed="#B1" n="48"/>respectu earum. Et haec est intentio beati August. de 83. quaestionibus qui  
+          <lb ed="#B1" n="49"/>24. ubi dicit: Quidquid a casu fit, temere sit, &amp; quod temere fit, non sit 
+          <lb ed="#B1" n="50"/>a prouidentia. Si aliqua fiunt in mundo a casu, non a prouidentia, qua u 
+          <lb ed="#B1" n="51"/>niuersus mundus administratur, tunc erit aliqua natura, &amp; aliqua substan 
+          <lb ed="#B1" n="52"/>tia quae ad opus prouidentiae non pertineat: quod quia falsum est, 
+          <lb ed="#B1" n="53"/>concludit, quod nihil aliud casu sit in mundo. Et ad istum intentum 
+          <!--sap_Page_391.xml-->
+          <pb ed="#B1" n="357"/>
+          <lb ed="#B1" n="1"/>dicit Plato 2. in Thimaeo: Nihil sit cuius ortum legitima causa non procedat  
+          <lb ed="#B1" n="2"/>Isti sententiae concordat Boët. 5. de consolat. prosa 1 ubi definit casum, dicens 
+          <lb ed="#B1" n="3"/><quote xml:id="rhwis-l105-Qd1e322" source="http://scta.info/resource/hy7y6y-d1e83-d1e109">Quod casus est inopinatus ex confluentibus, causis in his, quae ob aliquid ge 
+          <lb ed="#B1" n="4"/>runtur euentus</quote>. Sed hic uidetur esse contrarietas inter Aug. &amp; Boët. quia secum 
+          <lb ed="#B1" n="5"/>dum Aug. nihil in mundo sit a casu, secundum autem Boët, multa siunt a ca 
+          <lb ed="#B1" n="6"/>su. Dicendum quod non est contradictio, sed aequiuocatio. Antiqui enim E 
+          <lb ed="#B1" n="7"/>picurei dixerunt casum esse euentum productum motu temerario, &amp; nulla con 
+          <lb ed="#B1" n="8"/>mixtione causarum. Et sic accipit beatus Aug. casum loco praeallegato. Et Boët 
+          <lb ed="#B1" n="9"/>sic accipiendo casum dicit sic: Casus non est nisi uox inanis nullam rem habens  
+          <lb ed="#B1" n="10"/>suae significationi subiectam. Accipiendo autem casum sicut dicit Arist. 2. Phy 
+          <lb ed="#B1" n="11"/>quia casus est causa per accidens in his quae siunt propter finem &amp; in minori 
+          <lb ed="#B1" n="12"/>parte. Vel secundum Boëtij definitionem sic est dicendum: quia idem fit a ca 
+          <lb ed="#B1" n="13"/>su, &amp; tamen a causis per se: sicut per se causa inuentionis thesauri est fossio agri 
+          <lb ed="#B1" n="14"/>&amp; reposito thesauri in eodem. Sed quia istum effectum non intendebat fodi 
+          <lb ed="#B1" n="15"/>ens, dicitur respectu illius a casu.
+        </p>
+        <p xml:id="rhwis-l105-d1e352">
+          <lb ed="#B1" n="16"/>Quantum ad secundum dubium. An uidelicet DEVS disponat omnia sua 
+          <lb ed="#B1" n="17"/>uiter &amp; misericorditer, uidetur quod non per instantias: quia uidelicet paruulos 
+          <lb ed="#B1" n="18"/>non baptiaeatos punit aeternaliter pro originali peccato, unde uidetur quod in 
+          <lb ed="#B1" n="19"/>istos nullam exerceat misericordiam: Item Iacob. 2. Iudicium sine misericordia fiet 
+          <lb ed="#B1" n="20"/>illi qui non fecerit misericordiam: ergo tales non disponit misericorditer
+        </p>
+        <p xml:id="rhwis-l105-d1e365">
+          <lb ed="#B1" n="21"/>Ad oppositum est litera, &amp; dicendum est quod sic. Sicut enim dicitur 5. E 
+          <lb ed="#B1" n="22"/>thicorum: Minus malum vocatur aliquando magis bonum: quia ergo DEVS 
+          <lb ed="#B1" n="23"/>tribuit bonis ultra merita, &amp; malis citra, dicitur omnia misericorditer dispone 
+          <lb ed="#B1" n="24"/>re. Misericordia enim dicit voluntatem benefaciendi alicui indigenti: DEO 
+          <lb ed="#B1" n="25"/>uero omnis creatura indiget, sine quo nec esse potest: &amp; ideo cum omnia de sua 
+          <lb ed="#B1" n="26"/>gratuita uoluntate conseruet, omnibus misericordiam impendit. Et quia DEVS 
+          <lb ed="#B1" n="27"/>ex sua bonitate nobis impendit bona, &amp; non punit nos nisi pro nostra culpa, 
+          <lb ed="#B1" n="28"/>ideo dicitur proprie sibi competere misereri, &amp; quasi improprie punire. Ad 
+          <lb ed="#B1" n="29"/>primum de paruulis dicendum quod DEVS pro peccato originali non solum 
+          <lb ed="#B1" n="30"/>posset inflixisse carentiam uisionis diuinae, sed posset omnes annihilare si uellet.  
+          <lb ed="#B1" n="31"/>Et ideo in hoc agit misericorditer cum eis, quod esse humanum habebunt, &amp; uiuent  
+          <lb ed="#B1" n="32"/>sine poena sensus. Tren. 3. Misericordiae Domini, quia non sumus consumpti. Ad 
+          <lb ed="#B1" n="33"/>secundum dicendum, quod licet immisericordes non consequuntur misericordiam eos 
+          <lb ed="#B1" n="34"/>totaliter a poena liberantem, consequuntur misericordiam aliquid de poena debita 
+          <lb ed="#B1" n="35"/>relaxantem: quia circa condignum punientur, sicut alij omnes, qui pro suis deme 
+          <lb ed="#B1" n="36"/>ritis danabuntur. In secunda parte lectionis aggreditur Salomon enarrare quan 
+          <lb ed="#B1" n="37"/>tum habuit ad sapientiam adquirendam, affectionem &amp; desiderium: &amp; ideo dicit sic:  
+          <lb ed="#B1" n="38"/>fanc amaui, &amp;c. lbi de se fatetur sapientiam desiderasse secundum quinque condi  
+          <lb ed="#B1" n="39"/>tiones uirtuosas. Ipsam nanque desiderauit frequenter &amp; studiose. Et quantum ac 
+          <lb ed="#B1" n="40"/>hoc dicit: hanc amaui uere, uidelicet ex corde affectualiter &amp; laboriose. Et qua 
+          <lb ed="#B1" n="41"/>tum ad hoc dicit: Et exquisiui lnquirere est, intus querere, scil. in sua voluntate &amp; 
+          <lb ed="#B1" n="42"/>in mente. Et exquirere est extra quaerere in studio &amp; opera, &amp; perseueranter &amp; 
+          <lb ed="#B1" n="43"/>animose: ideo dicit, a iuuentute mea, non a senectute: quia de eo dicitur 3. Reg. 
+          <lb ed="#B1" n="44"/>11. Cum iam esset senex, deprauatum est cor eius per mulieres. Et Ecclesiast. 25 
+          <lb ed="#B1" n="45"/>Quae in iuuentuie tua non congregasti, quomodo inuenies ea in senectute tua:  
+          <lb ed="#B1" n="46"/>Est autem notabile exemplum ad cuiuslibet hominis praesumptionem rescinden 
+          <lb ed="#B1" n="47"/>dam, ne aliquis praetextu mundiciae suae iuuentutis superbiat, cum tam sanctum, 
+          <lb ed="#B1" n="48"/>tantum a DEO priuilegiatum, tanta sapientia dotatum recogitat, per mulieres fuisse 
+          <lb ed="#B1" n="49"/>in senio deprauatum. Quarto desiderauit sapientiam utiliter &amp; fructuose. Et  
+          <lb ed="#B1" n="50"/>quantum ad hoc dicit: Quaesiuit mihi sponsam eam assumere. Sponsa enim natu  
+          <lb ed="#B1" n="51"/>raliter appetitur propter prolem: proles uero sapientiae est opus meritorium, 
+          <lb ed="#B1" n="52"/>Et ideo quicunque sapientia desiderat ad delectationem uel ostentationem seu in 
+          <!--sap_Page_392.xml-->
+          <pb ed="#B1" n="358"/>
+          <lb ed="#B1" n="1"/>trinsecam elationem: hic sibi sapientiam non desiderat fore sponsam, sed po 
+          <lb ed="#B1" n="2"/>tius meretricem. Sed ille eam in sponsam copulat, qui per eam opera merito 
+          <lb ed="#B1" n="3"/>ria generat. Et ideo dicitur Iacob. 2. quod fides sine operibus mortua est. Vn 
+          <lb ed="#B1" n="4"/>de August.s sermone 22. Fides appellataest ab eo quod fit. Duae syllabae sonant 
+          <lb ed="#B1" n="5"/>cum dicitur fides. Prima syllaba est a facio. Secunda a dic. Interrogo ergo 
+          <lb ed="#B1" n="6"/>utrum credas, &amp; dicis, credo Fac quod dicis &amp; fides est. Quinto desiderauit eam 
+          <lb ed="#B1" n="7"/>prudenter &amp; ingeniose, &amp; quantum ad hoc dicit: Et amator factus sum forme 
+          <lb ed="#B1" n="8"/>allius. In sacra namque Scriptura, quae est sapientiae contentiua est sensus literalis 
+          <lb ed="#B1" n="9"/>quasi materia: sensus uero spiritualis quasi forma. Vnde rudi populo ludaeo 
+          <lb ed="#B1" n="10"/>rum dicitur Deut. 4. Vocem uerborum eius audistis, &amp; formam penitus non 
+          <lb ed="#B1" n="11"/>uidistis. Ista ergo ita amanda est, ut habeamus formam scientiae &amp; ueritatis in 
+          <lb ed="#B1" n="12"/>lege, ad Roman. 2. Et ad Rom. 6: <quote xml:id="rhwis-l105-Qd1e466" source="http://scta.info/resource/rom6_17">Gratia autem DEO quod obedistis ex cor 
+          <lb ed="#B1" n="13"/>de in eam formam doctrinae in quam tradidi estis</quote>. Glossa. doctrina Euangelij 
+          <lb ed="#B1" n="14"/>forma est quae imaginem DEI deformatam restituit, in quam tradidi estis, 
+          <lb ed="#B1" n="15"/>non per homines, sed per gratiam IESV CHRISTI
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

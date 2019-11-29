@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 82 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 82 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="283"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l82">
+        <p xml:id="rhwis-l82-d1e95">
+          <!--sap_Page_317.xml-->
+          <pb ed="#B1" n="283"/>
+          <lb ed="#B1" n="1"/>POSTQVAM Spiritus sanctus facilitatem adquirendi sapientiam  
+          <lb ed="#B1" n="2"/>declarauit ex duobus: cum quia habetur si diligatur, tum quia ap  
+          <lb ed="#B1" n="3"/>paret si appetatur: Hic ostendit illud idem ex tertio uidelicet: quia 
+          <lb ed="#B1" n="4"/>occurrit, si quaeratur. Et circa hoc dicit duo: primo quod praeuenit 
+          <lb ed="#B1" n="5"/>se amantes: secundo quod associat uigilantes. Quantum ad primum dicit sic:  
+          <lb ed="#B1" n="6"/>Praeoccupat autem qui se concupiscunt: id est, DEVS ipse qui est sapientia increa 
+          <lb ed="#B1" n="7"/>ta, praeoccupat per gratiam praeuenientem eos, qui effectualiter diligunt il  
+          <lb ed="#B1" n="8"/>lum. Et inueniri potest, sed praeueniri non potest. Sed contra uidetur quod  
+          <lb ed="#B1" n="9"/>nos DEVM praeoccupare &amp; praeuenire deberemus. Quia in Psalmo: Prae 
+          <lb ed="#B1" n="10"/>occupemus faciem eius in confessione. Respondeo quod ibi loquitur Psal 
+          <lb ed="#B1" n="11"/>mus de iudice futuro &amp; uenturo ad iudicium, cuius faciem praeoccupare de 
+          <lb ed="#B1" n="12"/>bemus per confessionem laudis suae &amp; fraudis nostrae. Hic autem loquitur Spi 
+          <lb ed="#B1" n="13"/>ritus sanctus de actu meritorio. In quo ipse nos praeuenit gratia praeuenien 
+          <lb ed="#B1" n="14"/>te, sine qua nullum opus meritorium exercere ualemus. Praeoccupat tergo) qui  
+          <lb ed="#B1" n="15"/>se concupiscunt, ut illis se prior ostendat. Bernhardus: O dulcis IESV primus 
+          <lb ed="#B1" n="16"/>es in accessu, &amp; ultimus in recessu,1 Iohan. 4. In hoc est charitas DEI, non, 
+          <lb ed="#B1" n="17"/>quia nos dilexerimus DEVM, sed quoniam ipse prior dilexit nos. Et sic prae 
+          <lb ed="#B1" n="18"/>uenit se amantes. Secundo associat uigilantes. Et quantum ad hoc subdit: Qui  
+          <lb ed="#B1" n="19"/>de luce vigilauerit ad illam, &amp;c. Sicut dormire est sensus habere ligatos: ita ui  
+          <lb ed="#B1" n="20"/>gilare est sensus habere solutos, &amp; actualiter operantes. Illi ergo qui intelle 
+          <lb ed="#B1" n="21"/>ctu &amp; affectu bene utuntur secundum principia iuris naturalis, uel secundum 
+          <lb ed="#B1" n="22"/>principia fidei, tales dicuntur uigilantes. Sed de luce uigilant, qui mane statim 
+          <lb ed="#B1" n="23"/>a iuuentute in bonis operibus se exercent. Ecclesiast. 39. Iustus cor suum tra 
+          <lb ed="#B1" n="24"/>dit ad uigilandum diluculo, ad Dominum qui fecit illum. Et talis qui sic uigi 
+          <lb ed="#B1" n="25"/>lauerit ad sapientiam: id est, DEVM, qui est sapientia increata, non laborabit  
+          <lb ed="#B1" n="26"/>frustram, uel diu: uel non laborabit: id est, modicum laborabit, in comparatione 
+          <lb ed="#B1" n="27"/>illius boni quod adquirit. Eccles. 50. Modicum laboraui, &amp; mueni mihi mul  
+          <lb ed="#B1" n="28"/>tam requiem. Et quare non inuanum laborabit: Certe, quia statim ipsum DEVM 
+          <lb ed="#B1" n="29"/>inueniet assidentem foribus suis.
+        </p>
+        <p xml:id="rhwis-l82-d1e165">
+          <lb ed="#B1" n="30"/>Fores per quas anima habet accessum ad DEVM, &amp; ad sapientiam uerita 
+          <lb ed="#B1" n="31"/>tis, sunt principia prima, tam practica, quam speculatiua. Practica sicut hoc  
+          <lb ed="#B1" n="32"/>Facias alij quod tibi uis fieri, &amp; quod tibi non uis fieri, alteri ne feceris. Spe 
+          <lb ed="#B1" n="33"/>culatiua, sicut alterum contradictoriorum dicitur de quolibet, &amp; de nul  
+          <lb ed="#B1" n="34"/>lo eorundem ambo simul, sicut patet 4. Methaphys. Per haec ergo prin 
+          <lb ed="#B1" n="35"/>cipia tanquam per quasdam portas, siue quasdam fores anima humana habet  
+          <lb ed="#B1" n="36"/>ingressum ad DEVM cognoscendum, &amp; ad scientiam ueritatis inueniendam. 
+          <lb ed="#B1" n="37"/>Et ideo dicit Aristot. 2. Metha. Quod Theologia, id est, consideratio de uerita 
+          <lb ed="#B1" n="38"/>te, partim est facilis, &amp; partim difficilis. Quia quantum ad prima principia circa 
+          <lb ed="#B1" n="39"/>quae non contingit errare, est facilis: Circa conclusiones uero ab eis deductas, 
+          <lb ed="#B1" n="40"/>circa quas uario modo contingit errare, est ualde difficilis. Quia prima princi 
+          <lb ed="#B1" n="41"/>pia sunt sicut fores domorum, de quibus prouerbialiter dicitur: In foribus 
+          <lb ed="#B1" n="42"/>quis delinquet: quia introitus in domum de facili cognoscitur, &amp; nihil quod ibi 
+          <!--sap_Page_318.xml-->
+          <pb ed="#B1" n="284"/>
+          <lb ed="#B1" n="1"/>ponitur latet. Sed interiora domus latere possunt etiam praesentem scrutato  
+          <lb ed="#B1" n="2"/>rem. Proverbiorum 8. Sapientia in ipsis foribus loquitur, dicens: O uiri ad 
+          <lb ed="#B1" n="3"/>uos clamito, &amp; uox mea ad filios hominum. Intelligite paruuli astutiam, &amp; 
+          <lb ed="#B1" n="4"/>insipientes animaduertite. Sic ergo, qui de luce vigilabit ad sapientiam non labo  
+          <lb ed="#B1" n="5"/>rabit. Asidentem enim illam foribus suis inueniet: Hoc est, sapientiam crea 
+          <lb ed="#B1" n="6"/>tam uel increatam inueniet, assidentem foribus suis, id est, manifeste paten 
+          <lb ed="#B1" n="7"/>tem in intellectu principiorum: quia cognitio existendi DEVM omnibus ho 
+          <lb ed="#B1" n="8"/>minibus naturaliter est inserta. Sicut dicit Damascenus libro primo, capite 
+          <lb ed="#B1" n="9"/>tertio. Et Boëtius de Consolatione libro tertio, prosa 2. Est autem mentibus 
+          <lb ed="#B1" n="10"/>hominum uerbi bonique naturaliter inserta cupiditas. Ad idem Tullius libro 
+          <lb ed="#B1" n="11"/>primo: Insitas uel potius innatas cognitiones habemus. Quae enim gens aut  
+          <lb ed="#B1" n="12"/>penus hominum quod non habeat sine doctrina anticipationem quandam  
+          <lb ed="#B1" n="13"/>deorum, quam Epicurus uocatr prolempsim: id est, anteceptam animo rei 
+          <lb ed="#B1" n="14"/>quandam informationem, sine qua nec intelligitur quicquam, nec quaeri, nec 
+          <lb ed="#B1" n="15"/>disputari potest. Idem libro secundo: Quid potest esse tam apertum tam per 
+          <lb ed="#B1" n="16"/>spicuum, cum coelum suspicimus, coelestia, quae contemplati sumus, quam 
+          <lb ed="#B1" n="17"/>tesse aliquod numen praestantissimae mentis, quo haec regantur. Sed contra 
+          <lb ed="#B1" n="18"/>istam uidetur esse illud, quod scribitur Proverbiorum 8. Beatus homo qui au 
+          <lb ed="#B1" n="19"/>dit me, &amp; qui uigilat ad fores meas quotidie. Ergo sapientia non statim inue 
+          <lb ed="#B1" n="20"/>nitur assidens in foribus. Dicendum est quod inuenitur statim quantum ad 
+          <lb ed="#B1" n="21"/>a. intellectum principiorum, &amp; quantum ad noticiam DEI generalem: Sed non 
+          <lb ed="#B1" n="22"/>inuenitur statim perfecte: quia qui aliquid nouit, plus nosse cupit. Fores uero 
+          <lb ed="#B1" n="23"/>sapientiae, in prouerbijs dicuntur Doctores, per quos habemus ingressum ad 
+          <lb ed="#B1" n="24"/>sapientiam. Et ad illas fores oportet uigilare quotidie. Eccles. 6. Si uideris sen 
+          <lb ed="#B1" n="25"/>satum euigila ad illum, &amp; gradus hostiorum illius exterat pes tuus.
+        </p>
+        <p xml:id="rhwis-l82-d1e254">
+          <lb ed="#B1" n="26"/>Et notandum circa materiam lectionis huius, quod triplex causa exprimi 
+          <lb ed="#B1" n="27"/>tur in Scriptura, quare uigilare &amp; uigilanter nos habere debemus in omni 
+          <lb ed="#B1" n="28"/>bus: uidelicet hostilitas crudelis rebellationis, utilitas fidelis administratio  
+          <lb ed="#B1" n="29"/>nis, &amp; debilitas terrestris inhabitationis. Quantum ad primum homines exi 
+          <lb ed="#B1" n="30"/>stentes in bello mortali non possunt somno uacare. Nos autem sumus in con 
+          <lb ed="#B1" n="31"/>tinuis bellis. In Psalm. Conculcauerunt me inimici mei tota die, &amp;c. Ergo nae 
+          <lb ed="#B1" n="32"/>cesse habemus uigilare. Grues, sicut dicunt naturales, inter se uigilias diui  
+          <lb ed="#B1" n="33"/>dunt. Et illa quae uigilare debet, lapidem tenet in pedibus, ut si illa dormie 
+          <lb ed="#B1" n="34"/>rit, lapis cadens alias excitet &amp; seipsam. Si ergo auis insensata quae uigilare 
+          <lb ed="#B1" n="35"/>tenetur, sic sibi praeuidet contra somnum. Multo magis contra somnum pec 
+          <lb ed="#B1" n="36"/>cati cautelam continuam adhibere debemus, 1 Petri 5. Fratres sobrij estote 
+          <lb ed="#B1" n="37"/>&amp; uigilate, &amp;c. Et bene adiungens praemittit sobrietatem uigiliae. Nam e 
+          <lb ed="#B1" n="38"/>brietatem sequitur necessario multus somnus. Est autem de Diabolo isto ad 
+          <lb ed="#B1" n="39"/>uersario, sicut de quodam duce Chartaginen. refert Sextus lulius Fronti 
+          <lb ed="#B1" n="40"/>nus, stratagemat. libro secundo, capite quinto, quod est de insidijs: Dux iste 
+          <lb ed="#B1" n="41"/>bellum habuit contra quosdam de Africa qui Carthaginenses rebellabant:  
+          <lb ed="#B1" n="42"/>fuerunt isti de Africa auidi nimis ad bibendum uinum, quod intelligens dux, 
+          <lb ed="#B1" n="43"/>usus est contra eos tali cautela. Accepit multa dolia uini, &amp; miscuit cum ui  
+          <lb ed="#B1" n="44"/>no succum cuiusdam herbae, quae uocatur mandragora: quae quidem herba 
+          <lb ed="#B1" n="45"/>est mirabiliter somnifera, sicut docet Aristoteles primo de Somno &amp; uigilia. 
+          <lb ed="#B1" n="46"/>Facit enim homines ita profunde dormire quod fiunt insensibiles: &amp; ideo so 
+          <lb ed="#B1" n="47"/>let dari hominibus, qui sunt propter aliquam infirmitatem curandam, secandi 
+          <lb ed="#B1" n="48"/>ut possint sine dolore secari. Dolia ergo uini sic infecti dimisit iste dux in ten 
+          <lb ed="#B1" n="49"/>torijs suis, &amp; fugit, ad cautelam tentoria derelinquens. Africi gaudentes ten 
+          <lb ed="#B1" n="50"/>toria inuadunt, &amp; inuenientes uictualia cum uino in abundantia, comede 
+          <lb ed="#B1" n="51"/>runt &amp; biberunt de isto uino infecto, &amp; statim omnes sic oppressi sunt som 
+          <lb ed="#B1" n="52"/>no, quod nullo modo se iuuare potuerunt. Hoc explorans dux iste praedictus, 
+          <lb ed="#B1" n="53"/>de nocte redijt super eos miseros, sicut uoluit trucidauit. Ista cautela mora 
+          <!--sap_Page_319.xml-->
+          <pb ed="#B1" n="285"/>
+          <lb ed="#B1" n="1"/>liter loquendo utitur Diabolus contra homines. Vinum quod laetificat, desi 
+          <lb ed="#B1" n="2"/>gnat laeticiam &amp; lasciuiam secularem: Istam laeticiam siue iocunditatem mundi 
+          <lb ed="#B1" n="3"/>Diabolus sic comiscuit succu mandragorae: id est, delectatione luxuriae quod  
+          <lb ed="#B1" n="4"/>omnes de eo bibentes fiunt quasi insensibiles. Mandragora enim est herba ha 
+          <lb ed="#B1" n="5"/>bens masculum &amp; foemellam, &amp; omnia lineamenta corporis humani, in se prae 
+          <lb ed="#B1" n="6"/>fert, &amp; ad generationis foecunditatem confert. Genes. 30. dicit Rachaeml sorori 
+          <lb ed="#B1" n="7"/>suae Liae, de Iacob uiro suo: Dormiat tecum hac nocte pro mandragora filij 
+          <lb ed="#B1" n="8"/>tui. Et ideo mandragora uoluptatem carnis signat. Quia ergo tota munda 
+          <lb ed="#B1" n="9"/>na iocunditas inter homines his diebus procurante Diabolo, qui nos sem 
+          <lb ed="#B1" n="10"/>per cautelose quaerit debellare de succo uoluptatis est infecta. Ideo homi 
+          <lb ed="#B1" n="11"/>nes uitiosi dormiunt in peccatis, &amp; ad correptionem praelatorum, praedica 
+          <lb ed="#B1" n="12"/>tiones doctorum reperiuntur insensibiles: ut dicat quilibet illorum illud Pro 
+          <lb ed="#B1" n="13"/>uerbiorum uigesimotertio: Verberauerunt me &amp; non dolui, traxerunt me &amp; 
+          <lb ed="#B1" n="14"/>non sensi, quando euigilabo &amp; rursum uina reperiam. Non sic uos charis  
+          <lb ed="#B1" n="15"/>simi, sed sicut dicitur 2. Corinthiorum 6. In omnibus exhibeamus nosmeti 
+          <lb ed="#B1" n="16"/>psos sicut DEI ministros. Et infra: In uigilijs, in ieiunijs, in castitate, in scien 
+          <lb ed="#B1" n="17"/>tia. Nota tria scientiam praecedentia, uigilias, ieiunia, &amp; castitatem. Secun 
+          <lb ed="#B1" n="18"/>da causa quare nos in hac uita uigilare debemus est utilitas fidelis admini 
+          <lb ed="#B1" n="19"/>strationis. Sumus enim sicut serui uigilantes de nocte &amp; expectantes ad 
+          <lb ed="#B1" n="20"/>uentum domini de nuptijs redeuntis. Nuptiae sunt in coelo ineffabilis gau 
+          <lb ed="#B1" n="21"/>dij de sacrosancta unione deitatis infinitae ad naturam humanam: De his 
+          <lb ed="#B1" n="22"/>nuptijs Dominus noster uenturus est in die iudicij descensurus ad mundum 
+          <lb ed="#B1" n="23"/>totum iudicandum finaliter. Et ideo Matthaei 24. <quote xml:id="rhwis-l82-Qd1e371" source="http://scta.info/resource/mt24_42">Vigilate, quia nescitis  
+          <lb ed="#B1" n="24"/>qua hora Dominus uester uenturus sit</quote>: &amp; Lucae duodecimo: Sint lumbi 
+          <lb ed="#B1" n="25"/>uestri praecincti &amp; lucernae ardentes. Et uos similes hominibus expectan 
+          <lb ed="#B1" n="26"/>tibus dominum suum quando reuertatur a nuptijs: ut cum uenerit &amp; pul  
+          <lb ed="#B1" n="27"/>sauerit confestim aperiant ei. Beati serui illi, quos cum uenerit dominus in 
+          <lb ed="#B1" n="28"/>uenerit uigilantes. Et licet omnes uigilare debeamus, maxime tamen prae 
+          <lb ed="#B1" n="29"/>lati, quorum curae subditorum animae sunt commissae. In cuius signum cum 
+          <lb ed="#B1" n="30"/>CHRISTVS discipulos suos dormientes inuenisset specialius caeteris in 
+          <lb ed="#B1" n="31"/>crepauit Petrum, dicens: Simon dormis, non potuisti una hora uigilare 
+          <lb ed="#B1" n="32"/>mecum. Tertia causa quare in praesenti moraliter uigilare debemus est de 
+          <lb ed="#B1" n="33"/>bilitas terrestris habitationis. Homo qui iaceret in domo ruinosa, ex o  
+          <lb ed="#B1" n="34"/>mni parte debili, &amp; simul cum hoc sciret, quod aliquis exterius suffoderet  
+          <lb ed="#B1" n="35"/>continue muros, ad eum occidendum: non daret se somno, si esset pru 
+          <lb ed="#B1" n="36"/>dens, sed solerti uigiliae. Domus animae est corpus luteum, uel terreum. 
+          <lb ed="#B1" n="37"/>Iob 3. Habitant domus luteas, &amp; terrenum habent fundamentum, &amp; con 
+          <lb ed="#B1" n="38"/>sumuntur uelut a tinea. Fossor est mors, qui indefesse nititur perfodere do 
+          <lb ed="#B1" n="39"/>mum nostram, ut furetur animam cum peccatis si posset, uel cum poenis de 
+          <lb ed="#B1" n="40"/>bitis pro peccato. Et ideo bene dicitur, Matthaei 24. <quote xml:id="rhwis-l82-Qd1e410" source="http://scta.info/resource/mt24_43">Si sciret paterfamilians qua 
+            <lb ed="#B1" n="41"/>hora fur ueniret, uigilaret utique &amp; non sineret perfodi domum suam</quote>. Sed ti 
+          <lb ed="#B1" n="42"/>mendum est, quod est de nobis sicut de pueris recenter natis. Dicit enim Ari 
+          <lb ed="#B1" n="43"/>stot. 1 de Somno &amp; uigilia, cap. 5. Quod pueri quando pariuntur, dormiunt,  
+          <lb ed="#B1" n="44"/>&amp; habent oculos clausos propter consuetudinem dormiendi in matrice. Sic  
+          <lb ed="#B1" n="45"/>est de multis tamdiu inoleuit in eis consuetudo indulgendi negligentiae, pigri 
+          <lb ed="#B1" n="46"/>tiae, &amp; accidiae, quod uigilare non possunt. Sed cauendum est a tribus malis 
+          <lb ed="#B1" n="47"/>passionibus, quae accidunt in somnis, sicut docet Aristot. lib. praeallegato, Epi 
+          <lb ed="#B1" n="48"/>lentia, Ephialtes, &amp; Lethargia. Epilentia est cerebri passio faciens hominem 
+          <lb ed="#B1" n="49"/>cadere subito &amp; inopinato. Ephialtes est passio in somno faciens homini 
+          <lb ed="#B1" n="50"/>apparere, quod aliquis eum opprimit, &amp; nititur suffocare, unde illis qui ha 
+          <lb ed="#B1" n="51"/>bent hanc passionem uidetur communiter quod uetula incumbat super eos 
+          <lb ed="#B1" n="52"/>&amp; nititur suffocare. Lethargia est infirmitas compellens hominem dormire &amp; 
+          <lb ed="#B1" n="53"/>dormiendo mori. Moraliter istae tres passiones tria uitia generalia signifi 
+          <!--sap_Page_320.xml-->
+          <pb ed="#B1" n="286"/>
+          <lb ed="#B1" n="1"/>cant, quibus inuoluitur totus mundus. Superbi nanque &amp; ambitiosi qui ad gra 
+          <lb ed="#B1" n="2"/>dus &amp; honores nituntur ascendere, Epilentici sunt: quia superbia casum habet.  
+          <lb ed="#B1" n="3"/>Et Claudianus in maiori: 
+          <lb ed="#B1" n="4"/>ima tolluntur in altum. Vt casu grauiore ruant 
+          <lb ed="#B1" n="5"/>Lubrici siue luxuriosi patiuntur ephialten: quia uetula illa est caro quae corru 
+          <lb ed="#B1" n="6"/>pta per peccatum eis supereminet, &amp; dominatur &amp; deprimit eos ne resurgant.  
+          <lb ed="#B1" n="7"/>Auari uero sunt lethargici: id est, obliuiosi, qui quanto plura a DEO percipiunt,  
+          <lb ed="#B1" n="8"/>tanto magis obliuiscuntur tam sui quam DEI. Vnde glossa super illud Psalm. 
+          <lb ed="#B1" n="9"/>DEVS DEuS meus ad te de luce uigilo: sitiuit in te anima mea, quam multi  
+          <lb ed="#B1" n="10"/>pliciter tibi caro mea, &amp;c. Ad DEVM uigilat qui uere DEI memor est: Ad  
+          <lb ed="#B1" n="11"/>DEVM dormit, qui DEVM obliuiscitur. Non sic uos charissimi. Sicut dicitur  
+          <lb ed="#B1" n="12"/>1. Thes. 5. Non dormiamus sicut caeteri, sed uigilemus &amp; sobrij simus, &amp;c
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

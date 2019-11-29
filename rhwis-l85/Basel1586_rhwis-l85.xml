@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 85 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 85 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="292"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l85">
+        <p xml:id="rhwis-l85-d1e95">
+          <lb ed="#B1" n="12"/>VAMVIS sapientia sit singulis necessaria, maxime tamen regi 
+          <lb ed="#B1" n="13"/>bus &amp; principibus, iudicibus &amp; praelatis: Et ideo isti specialius 
+          <lb ed="#B1" n="14"/>sunt monendi, quod studium suum apponant circa sapientiam ad 
+          <lb ed="#B1" n="15"/>quirendam. Quia ergo in parte praecedenti determinatum est, quod  
+          <lb ed="#B1" n="16"/>non solum in eius possessione est felicitas, imo quod in eius adqui  
+          <lb ed="#B1" n="17"/>sitione est facilitas: Ideo hic concludit Spiritus sanctus, quod in eius duratio  
+          <lb ed="#B1" n="18"/>ne est perpetuitas, &amp; per consequens quod ipsa sit naturaliter appetenda. Vn 
+          <lb ed="#B1" n="19"/>de in litera ista duo facit. Primo inuitat reges ad sapientiae dilectionem specia 
+          <lb ed="#B1" n="20"/>liter: Secundo quoscunque alios praefectos uel praelatos generaliter. Secunda 
+          <lb ed="#B1" n="21"/>parsibi: Diligite lumen. Circa primum dicit sic: O reges populi si delectamini in se 
+          <lb ed="#B1" n="22"/>dibus &amp; sceptris. Si: pro quia, sic est de facto quod delectamini in honoribus hu 
+          <lb ed="#B1" n="23"/>ius uitae quos recipitis a populo, propter hoc quod populum iudicatis &amp; regi 
+          <lb ed="#B1" n="24"/>tis, &amp; constat uobis quod sedes uestrae uel sceptra non possunt hic permanere 
+          <lb ed="#B1" n="25"/>perpetue. Ergo diligite sapientiam: id est, uerum cultum DEI, vt in perpetuum 
+          <lb ed="#B1" n="26"/>regnetis, &amp; uestram delectationem praesentem ad futuram continuetis, Apoc  
+          <lb ed="#B1" n="27"/>5. Fecisti nos DEO nostro regnum &amp; sacerdotes, &amp; regnabimus super terram. 
+          <lb ed="#B1" n="28"/>Et Apoc. 20. Erunt sacerdotes DEI &amp; CHRISTI eius, &amp; regnabunt cum 
+          <lb ed="#B1" n="29"/>eo mille annis, Glos. id est, in aeternum. Ponitur enim millenarius, qui est limes 
+          <lb ed="#B1" n="30"/>numerorum pro aeternitate. Haec ergo monito dirigitur regibus specialiter.  
+          <lb ed="#B1" n="31"/>Secundo monet omnes alios praefectos generaliter ita dicens: Diligite lumen 
+          <lb ed="#B1" n="32"/>sapientiae omnes qui praeestis populis. Praecedentibus &amp; ducentibus alios in 
+          <lb ed="#B1" n="33"/>nocte tenebrosa necessarium est lumen: quia alias cadent, uel saltem errabunt  
+          <lb ed="#B1" n="34"/>a uia tam ducentes quam ducti, Matth. 15. Caecus autem si caeco ducatum prae 
+          <lb ed="#B1" n="35"/>stet, ambo in foveam cadunt. Sunt autem praelati ductores subditorum, prae 
+          <lb ed="#B1" n="36"/>cedentes eos in uia morum, &amp; ideo indigent lumen sapientiae &amp; cognitionis  
+          <lb ed="#B1" n="37"/>Sacrae scripturae. Bonus auriga sic ordinat de equis trahentibus bigam, uel cur 
+          <lb ed="#B1" n="38"/>rum, quod si habeat equum excaecatum nunquam facit eum praecedere: quia 
+          <lb ed="#B1" n="39"/>sic bigam subuerteret &amp; socios sequentes confunderet: sed facit eum post alios  
+          <lb ed="#B1" n="40"/>supportare bigam, &amp; sequi alios qui possunt uidere. Isto modo uult CHRISTVS 
+          <lb ed="#B1" n="41"/>fieri qui est currus Israel &amp; auriga eius, 4. Regum 12. Non placet fibi quod ca 
+          <lb ed="#B1" n="42"/>rentes lumine sapientiae praeficiantur, &amp; praeponantur ad trahendam bigam  
+          <!--sap_Page_327.xml-->
+          <pb ed="#B1" n="293"/>
+          <lb ed="#B1" n="1"/>Ecclesiae, sed tantum clare uidentes, in quibus est noticia fidei &amp; sanae doctri 
+          <lb ed="#B1" n="2"/>nae. Et potest dici praelatis Ecclesiae istud uerbum: Diligite lumen sapientiae, &amp;c 
+          <lb ed="#B1" n="3"/>Lumen sapientiae debent esse doctores &amp; scholares Scripturae sacrae. Quibus 
+          <lb ed="#B1" n="4"/>dicitur Matth. 5. Vos estis lux mundi, qui. d. Tales praeferatis in promotionibus, 
+          <lb ed="#B1" n="5"/>tales diligatis honorando, beneficia conferendo, &amp; in proplexitatibus consu 
+          <lb ed="#B1" n="6"/>lendo. Sic tamen pauci faciunt: plures enim consulunt laicos uel legistas quam 
+          <lb ed="#B1" n="7"/>Theologos uel canonistas. Et ideo timendum est, quod eis accidat sicut accidit  
+          <lb ed="#B1" n="8"/>Sauli, qui tempore necessitatis consilium petijt a Phytonissa, &amp; ab ea respon 
+          <lb ed="#B1" n="9"/>sum mortis suae accepit, sicut patet, 1. Reg. 28.
+        </p>
+        <p xml:id="rhwis-l85-d1e189">
+          <lb ed="#B1" n="10"/>Notandum est, quod periculosum est delectari in sedibus &amp; sceptris. Sceptrum  
+          <lb ed="#B1" n="11"/>secundum Papiam est uirga regalis. Sedes dicuntur throni uel solia, in quibus 
+          <lb ed="#B1" n="12"/>reges sedere solent. Dicit tamen magister in historijs, quod in secundo atrio 
+          <lb ed="#B1" n="13"/>templi Salomonis sub porticibus erant tria genera sedilium, uidelicet, Cathedrae, 
+          <lb ed="#B1" n="14"/>exedrae, &amp; synedrae. In cathedris sedebant doctores in gymnasio. In synedris 
+          <lb ed="#B1" n="15"/>sedebant auditores in consistorio, &amp; dicebantur synedrae quasi consessio uel 
+          <lb ed="#B1" n="16"/>consessus. In exedris sedebant assessores in iudicio cum iudice, quando aliquid  
+          <lb ed="#B1" n="17"/>secretius tractabatur. Et dicebant exedrae quasi assessus. Desedium etiam diuersi 
+          <lb ed="#B1" n="18"/>tate distinguunt grammatici sic. Et sunt uersus Eberhardi tales, scilicet:  
+          <lb ed="#B1" n="19"/>Rex solium, doctor cathedram. iudexque tribunal  
+          <lb ed="#B1" n="20"/>postidet ac sedem presul, precoque curutem.
+        </p>
+        <p xml:id="rhwis-l85-d1e215">
+          <lb ed="#B1" n="21"/>In istis ergo sedibus periculosum est delectari. Tum quia in eis est difficile uita 
+          <lb ed="#B1" n="22"/>re iniquitatem, &amp; impossibile seruare stabilitatem: Primo enim patet quod prae 
+          <lb ed="#B1" n="23"/>lati &amp; iudices qualescunque cum magna uirtute &amp; summa difficultate possunt  
+          <lb ed="#B1" n="24"/>uitare iniquitatem in iudicando: Tum propter beneuolos supplicatores: Tum 
+          <lb ed="#B1" n="25"/>propter iniustos cominatores, qui omnes per uaria media iudicem fallere mo 
+          <lb ed="#B1" n="26"/>liuntur, Apocal. 2. Scio ubi habitas, ubi sedes est satanae, potest dici de peruer 
+          <lb ed="#B1" n="27"/>so iudice. Et ideo sicut recitat Helmandus lib. 15. Cambyses rex adeo seuerus 
+          <lb ed="#B1" n="28"/>fuit, quod quendam iniustum iudicem excoriari fecit, &amp; sedem iudicialem pelle 
+          <lb ed="#B1" n="29"/>sua operiri fecit, &amp; in eadem sede filium iudicis posuit loco patris, dicens sibi, 
+          <lb ed="#B1" n="30"/>quod iniquum semper caueret iudicium, ne simili iudicio plecteretur, de qua 
+          <lb ed="#B1" n="31"/>narratione formantur tales uersiculi:  
+          <lb ed="#B1" n="32"/>Sede sedens ista, iudex inflexibilis sta 
+          <lb ed="#B1" n="33"/>s manibus releces munus, ab aure preces. 
+          <lb ed="#B1" n="34"/>Sit tibi lucerna sedes pellisque paterna 
+          <lb ed="#B1" n="35"/>Qua resides natus pro patre sponte datus.  
+          <lb ed="#B1" n="36"/>Iste Cambyses fuit filius Cyri regis Persarum, qui licentiauit ludaeos captiuos 
+          <lb ed="#B1" n="37"/>tempore Esdrae reaedificata Hierusalem. Et iste Cambyses uocatur Nabucho  
+          <lb ed="#B1" n="38"/>donosor in historia Iudith. Et Artaxerxes uel Assuerus apud Hester. quem Se 
+          <lb ed="#B1" n="39"/>neca appellat feliciter furiosum. Tantae fuit austeritatis quod a natiuitate sua 
+          <lb ed="#B1" n="40"/>fingitur furiosus fuisse, sicut dicit Lucanus. Secundo impossibile est seruare sta 
+          <lb ed="#B1" n="41"/>bilitatem. Exemplum de Cyro Persarum &amp; Medorum rege, quem Tomyris  
+          <lb ed="#B1" n="42"/>cum 200000. militibus trucidauit. Ecclesiast. 10. Sedes ducum superborum 
+          <lb ed="#B1" n="43"/>destruxit DEVS, &amp; sedere fecit mites pro eis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

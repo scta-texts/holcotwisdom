@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 76 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 76 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="264"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l106">
+        <p xml:id="rhwis-l106-d1e95">
+          <lb ed="#B1" n="16"/>POSTQVAM Salomon declarauit, quantum habuit ad sapien 
+          <lb ed="#B1" n="17"/>tiam acquirendam desiderium &amp; affectionem: Hic exponit diffu 
+          <lb ed="#B1" n="18"/>se tanti desiderij sui rationem. Et quia usus est figuratiua fictione 
+          <lb ed="#B1" n="19"/>de amicitia, quae est inter amicum &amp; amicam. Et uerecundum est 
+          <lb ed="#B1" n="20"/>homini nobili aliquam in tantam affectionem amplecti, ut eam si 
+          <lb ed="#B1" n="21"/>bi uelit perpetuo coniugio copulari nisi ipsa inueniatur multipliciter gratiosa.  
+          <lb ed="#B1" n="22"/>Ideo in hac parte ad modum ardentis amoris, uel proci suam amasiam singu 
+          <lb ed="#B1" n="23"/>lariter recommendat, ostendens, quod tanta est in ea abundantia gratiarum, 
+          <lb ed="#B1" n="24"/>quod prae cunctis amoris apicem mereatur.
+        </p>
+        <p xml:id="rhwis-l106-d1e117">
+          <lb ed="#B1" n="25"/>Proci secundum Isidorum 10. Etymolo. dicuntur nuptiarum petitores uel 
+          <lb ed="#B1" n="26"/>procuratores. Et dicuntur a procando, quia tales solent frequenter tam uerbis  
+          <lb ed="#B1" n="27"/>quam muneribus procari illas, quas amant, &amp; inde procor, aris, dicitur proci 
+          <lb ed="#B1" n="28"/>officium exercere. Et quia turpe est &amp; confusibile, sicut dictum est alicui nobi  
+          <lb ed="#B1" n="29"/>li ad personam ignobilem exercere procationis officium: Ideo restat Salomo 
+          <lb ed="#B1" n="30"/>ni praeelectissimae sponsae suae declarare praeconium, ut amor suus probe  
+          <lb ed="#B1" n="31"/>tur non ex leuitate uel surreptione, sed ex discreta electione subortus. Ex  
+          <lb ed="#B1" n="32"/>tollendo ergo charissimam a copia gratiarum, septem ei praerogatiuas attri 
+          <lb ed="#B1" n="33"/>buit, excitatiuas amoris: uidelicet generositatem propagationis, celebrita 
+          <lb ed="#B1" n="34"/>tem bonae opinionis, curialitatem bonae educationis, opulentiam in diuitijs, ex  
+          <lb ed="#B1" n="35"/>perientiam in artificijs, sincerum moderamen in moribus, &amp; uerum examen 
+          <lb ed="#B1" n="36"/>in scientialibus. Et secundum istas septem praerogatiuas litera diuiditur in se 
+          <lb ed="#B1" n="37"/>ptem partes. Secunda pars ibi: Sed &amp; omnium Dominus. Tertia ibi: Doctrix est enim. 
+          <lb ed="#B1" n="38"/>Quarta ibi: Et si diuitiae appetantur. Quinta ibi: Si aut. sensusoperatur. Sexta ibi: Et  
+          <lb ed="#B1" n="39"/>si iusticiam quis diligit. Septima ibi: Et si multitudinem scientiae desideret quis. Et pla 
+          <lb ed="#B1" n="40"/>num est quae quae haberet istas conditiones septem amore maximo digna foret. Prima 
+          <lb ed="#B1" n="41"/>ergo praerogatiua quae in istius sponsae praeconibus ponitur est generositas pro 
+          <lb ed="#B1" n="42"/>pagationis. Vitant enim nobiles, ne cum uili uel cum degeneri sanguinem cop ulen 
+          <lb ed="#B1" n="43"/>tur, &amp;quantum ad noc dicit sic: Generositatem illius glorificat, contupernium habens 
+          <lb ed="#B1" n="44"/>DEI, quasi dicat: Si de generis claritate mentio fiat, non solum ipsa est genero 
+          <!--sap_Page_393.xml-->
+          <pb ed="#B1" n="359"/>
+          <lb ed="#B1" n="1"/>sa, imo generositas sua est famosa. Multi enim sunt nobiles, sed de nobilitate 
+          <lb ed="#B1" n="2"/>ipsorum apud multos non est fama. Sapientiae uero generositas tantae extitit  
+          <lb ed="#B1" n="3"/>noticiae atque famae, ut ab omnibus nobilibus testimonium habeat claritatis:  
+          <lb ed="#B1" n="4"/>quia omnis persona contubernium habens DEI, glorificat generositatem il  
+          <lb ed="#B1" n="5"/>lius, Contubernium idem est quod focietas manens simul ad tempus, &amp; dicitur  
+          <lb ed="#B1" n="6"/>contubernium quasi contabernium, &amp;c. a taberna: quia illi qui in taberna com  
+          <lb ed="#B1" n="7"/>ueniunt ad tempus commanent in una societate: unde haec contubernio, onis,  
+          <lb ed="#B1" n="8"/>&amp; hic &amp; haec contubernalis dicitur socius commilito, qui in eodem contuber 
+          <lb ed="#B1" n="9"/>nio manet cum alio. Vult ergo dicere quod quicunque est ille, qui contuber 
+          <lb ed="#B1" n="10"/>nium: id est, societatem habet cum DEO glorificat: id est, clarificat, &amp; claram  
+          <lb ed="#B1" n="11"/>praedicat generositatem sapientiae. Dicitur enim gloria quasi claria: quia lucet 
+          <lb ed="#B1" n="12"/>&amp; claret. Licet autem omnes nos possumus &amp; debeamus contubernium ha 
+          <lb ed="#B1" n="13"/>bere cum DEO, 1. Corinth.1. Fidelis DEVS per quem uocati estis in societatem 
+          <lb ed="#B1" n="14"/>Filij eius Domini nostri IESVCHRISTI, singulare tamen contubernium ha 
+          <lb ed="#B1" n="15"/>buit cum DEO natura humana, in CHRISTO per hypostaticam unionem 1 
+          <lb ed="#B1" n="16"/>Reg. 14. Viri Israel sociati sunt sibi in die illo. i. in die annunciationis domini 
+          <lb ed="#B1" n="17"/>cae: uiri Israel: id est, duo intellectus rationales, uidentes DEVM, coniuncti sunt:  
+          <lb ed="#B1" n="18"/>summus quia diuinus, &amp; infimus quia humanus sociati sunt in die illo: id est 
+          <lb ed="#B1" n="19"/>in die annunciationis dominicae, quando Filius DEI conceptus fuit in uirgi 
+          <lb ed="#B1" n="20"/>ne benedicta. Et ex quo CHRISTVS societatem nostram desiderat, uituperan 
+          <lb ed="#B1" n="21"/>di sumus, nisi nos eius societati aptos &amp; idoneos faciamus, &amp; ei conformes 
+          <lb ed="#B1" n="22"/>iuxta naturae nostrae possibilitatem fiamus, 1. Iohan. 1. Si dixerimus, quia so 
+          <lb ed="#B1" n="23"/>cietatem habemus cum DEO, &amp; in tenebris ambulamus, mentimur, &amp; non fa 
+          <lb ed="#B1" n="24"/>cimus ueritatem. Si autem in luce ambulamus sicut &amp; ipse est in luce, socie 
+          <lb ed="#B1" n="25"/>tatem habemus adinuicem. Sapientia ergo gloriosam habet generositatem: 
+          <lb ed="#B1" n="26"/>quia omnis sapientia a Domino DEO est, Ecclesiast. 1. Generositas uero terre 
+          <lb ed="#B1" n="27"/>na parui precij est, sicut enim allegat Senec. Epist. 7. Plato dicit, neminem re 
+          <lb ed="#B1" n="28"/>gum non ex seruis esse oriundum, neminem seruum non ex regibus. Omnia 
+          <lb ed="#B1" n="29"/>ista longa uarietas miscuit, &amp; sursum deorsum fortuna versauit. Quis est, in 
+          <lb ed="#B1" n="30"/>quit Senec. generosus: &amp; respondet, a natura ad uirtutem bene dispositus: hoc 
+          <lb ed="#B1" n="31"/>unum intuendum est, alioquin si ad uetera reuocas, nemo. Nam primo mundi 
+          <lb ed="#B1" n="32"/>ortu, usque ad hoc tempus produxit nos ex splendidis sordidisque alternata se 
+          <lb ed="#B1" n="33"/>ries. Haec ille. Quid autem bonitatis sit in generositate uel nobilitate carnali ra 
+          <lb ed="#B1" n="34"/>tionabiliter declarat Boët. 3. de consolat. pros. 6. Nobilitas nihil aliud esse ui  
+          <lb ed="#B1" n="35"/>detur, quam quaedam de meritis proueniens laus parentum. Quid si quid bo 
+          <lb ed="#B1" n="36"/>num est in nobilitate, id arbitror esse solum in illo, ut imposita nobilibus necessi 
+          <lb ed="#B1" n="37"/>tudo uideatur, ne a maiorum uirtute degenerent. Haec Boët. Habere enim no 
+          <lb ed="#B1" n="38"/>men honoris sine operibus uirtuosis parum, uel nihil ualet. Vnde Valer. Mar 
+          <lb ed="#B1" n="39"/>tialis epigrammaton 14. scribit ad quendam, qui uocatur Maximus qui de 
+          <lb ed="#B1" n="40"/>nomine honoris gloriabatur, dicens: 
+          <lb ed="#B1" n="41"/>Nomen honoris habere parum, non pondus honoris  
+          <lb ed="#B1" n="42"/>Momentum nullum &amp; nomen habere parum: 
+          <lb ed="#B1" n="43"/>Nomen &amp; amittis si tantum est nomen honoris  
+          <lb ed="#B1" n="44"/>Si quae poscit honos, Maxime, nulla facis. 
+          <lb ed="#B1" n="45"/>Secundo in lectione ista extollendo sapientiam ostendit eam Salomon habe  
+          <lb ed="#B1" n="46"/>re celebritatem bonae opinionis, &amp; quantum ad hoc dicit sic: Sed &amp; omnium Do 
+          <lb ed="#B1" n="47"/>minus dilexit eam. Si enim Dominus unius regionis unam prae caeteris adamare 
+          <lb ed="#B1" n="48"/>dignet, multum faciet ad celebritatem bonae opinionis de ea promulgandae: ergo a 
+          <lb ed="#B1" n="49"/>multo fortiori, ex quo omnium Dominus qui est DEUS istam puellam diligit: com  
+          <lb ed="#B1" n="50"/>stat eam habere celebritatem bonae famae: imo dictum est cap. 7. Neminem enim diligit 
+          <lb ed="#B1" n="51"/>DEVS nisi qui cum sapientia inhabitat. Et propter quod unuquodque tale &amp; illud magis, 
+          <lb ed="#B1" n="52"/>1. posteriorum Arist. ergo plus diligit sapientiam. Quia in litera ista iam exposita de 
+          <lb ed="#B1" n="53"/>ingenuitate siue nobilitate tractat, potest esse dubitatio literalis. Vtrum, proles seg 
+          <!--sap_Page_394.xml-->
+          <pb ed="#B1" n="360"/>
+          <lb ed="#B1" n="1"/>debeat conditiones patris in libertate &amp; seruitute. Et arguitur quod sic. Deno 
+          <lb ed="#B1" n="2"/>minatio debet fieri a digniori: ergo proles magis debet denominari a conditio  
+          <lb ed="#B1" n="3"/>ne patris quam matris. Consequentia patet: quia pater est principium nobilius in 
+          <lb ed="#B1" n="4"/>generatione, &amp; dat formam: mater administrat materiam, 16. de animalibus: ergo, 
+          <lb ed="#B1" n="5"/>&amp;c. Preterea 15. q. ult. Cum multae: dicitur quod si ex detestando conubio alicu 
+          <lb ed="#B1" n="6"/>ius constituti in sacris, cum ingenua fuerint filij procreati, illius Ecclesiae de cuius 
+          <lb ed="#B1" n="7"/>sacerdotis uel ministri ignominia nati sunt, erunt serui, iure perenni: ergo par 
+          <lb ed="#B1" n="8"/>tus non sequitur conditionem matris. Praeterea in Sacra scriptura non texitur ge 
+          <lb ed="#B1" n="9"/>nealogia per mulieres: sed per uiros. Sed per genealogiam maxime declaratur  
+          <lb ed="#B1" n="10"/>nobilitas humana: ergo nobilitas hominis magis attedi debet secundum patrem
+        </p>
+        <p xml:id="rhwis-l106-d1e308">
+          <lb ed="#B1" n="11"/>Ad oppositum extra de natis ex libero uentre cap. unico. Indecens esse cre 
+          <lb ed="#B1" n="12"/>dimus ut progeniti a libera ad seruitium retrahantur: ergo partus sequitur uen 
+          <lb ed="#B1" n="13"/>trem, quantum ad conditionem libertatis. Et consimili ratione quantum ad conditio 
+          <lb ed="#B1" n="14"/>nem seruitutis.
+        </p>
+        <p xml:id="rhwis-l106-d1e319">
+          Ad quaestionem dicendum quod secundum iura ciuilia proles se 
+          <lb ed="#B1" n="15"/>quitur conditionem uentris in seruitutes &amp; libertates. Vnde comuniter dicitur:  
+          <lb ed="#B1" n="16"/>Partus sequitur uentrem. Secundum tamen quaedam iura localia in quibusdam  
+          <lb ed="#B1" n="17"/>regnis, quae non reguntur iure imperiali, partus sequitur parentem deterioris com  
+          <lb ed="#B1" n="18"/>ditionis siue pater siue mater. Et si uterque sit seruilis conditionis, &amp; sint diuersi 
+          <lb ed="#B1" n="19"/>domini, fit diuisio prolis secundum numerum uel secundum aestimationem, si 
+          <lb ed="#B1" n="20"/>est tantum una, uel si sint in numero inaequali. Et istud usitatur in quibusdam  
+          <lb ed="#B1" n="21"/>partibus Franciae. Sed generaliter secundum iura ciuilia partus sequitur uentrem 
+          <lb ed="#B1" n="22"/>Et hoc rationabiliter. Primo quia magis potest constare de matre quam de patre 
+          <lb ed="#B1" n="23"/>sicut dicit Arist. 8. Ethi. Et quia status libertatis debet esse certus, ab illo prin 
+          <lb ed="#B1" n="24"/>cipio, a quo magis &amp; certius constat aliquem esse, rationabilius est eum denomi 
+          <lb ed="#B1" n="25"/>nari. Secundo quia ars imitatur naturam &amp; sic uidemus in animalibus, quae ex di 
+          <lb ed="#B1" n="26"/>uersis speciebus nascuntur, quod partus assimilatur matri magis qua patri. Si 
+          <lb ed="#B1" n="27"/>cut patet de mulo, qui generatur ex equa &amp; asino, &amp; multo euidentius assimi 
+          <lb ed="#B1" n="28"/>latur equae, quam asino. Tertio quia seruitus et libertas sunt conditiones corporis  
+          <lb ed="#B1" n="29"/>Vnde Boët. 2. de consol. pros. 6. Quo uero quisquam ius aliquod in quem 
+          <lb ed="#B1" n="30"/>piam nisi in solum corpus &amp; quod est infra corpus, fortunam loquor possit exer 
+          <lb ed="#B1" n="31"/>cere. Nunquid unquam libero imperabit animo: quasi dicat: Non: ex quo sub  
+          <lb ed="#B1" n="32"/>stantia corporis accipitur a matre, &amp; seruitus &amp; libertas circa corporis officia 
+          <lb ed="#B1" n="33"/>principaliter attenduntur, rationabile uidetur quod matrem sequatur. Et huic con 
+          <lb ed="#B1" n="34"/>cordat lex diuina &amp; Iex canonica. Diuina quidem, Exod. 21 ubi dicitur quod si 
+          <lb ed="#B1" n="35"/>Dominus dederit uxorem alicui quem emerit, &amp; ille postmodum egrediatur liber,  
+          <lb ed="#B1" n="36"/>filii debent postea remanere domino, qui dedit ei uxorem, &amp; uxor similiter: quia 
+          <lb ed="#B1" n="37"/>si iudaeus emerat Iudaeum, 7. anno egrediebatur liber secundum legem. Si tamen 
+          <lb ed="#B1" n="38"/>medio tempore dominus dedisset ei uxorem. Ipsa uero egrediente uiro ad liber 
+          <lb ed="#B1" n="39"/>tatem, remaneret domino cum prole sua tota: Lex enim canonica huic concordat,  
+          <lb ed="#B1" n="40"/>extra de natis ex libero uentre, sicut allegatum fuit. Quod autem dicunt doctores 
+          <lb ed="#B1" n="41"/>quidam que quia pater est principium actiuum &amp; honorabilius, mater uero prin 
+          <lb ed="#B1" n="42"/>cipium passiuum &amp; uilius, ideo proles in conditionibus actiuis, ut in honoribus, 
+          <lb ed="#B1" n="43"/>municipijs sequitur patrem, occupando illa quae solicitudine paterna acquiruntur.  
+          <lb ed="#B1" n="44"/>Vnde talia dicuntur patrimonium filij. In conditionibus uero passiuis ut in ser 
+          <lb ed="#B1" n="45"/>uitute &amp; libertate sequitur matrem. Ista, inquam, ratio movet parum, imo uidetur a 
+          <lb ed="#B1" n="46"/>oere ad oppositum. Libertas namque non uidetur esse conditio passiua, sed actiua 
+          <lb ed="#B1" n="47"/>Dicitur enim liber qui sui gratia &amp; suis actibus dominatur: &amp; per consequens 
+          <lb ed="#B1" n="48"/>secundum istas sequi debent conditionem patris. Praeterea sicut filij succedunt in 
+          <lb ed="#B1" n="49"/>haereditate patrem: Ita succedunt in haereditate matrem. Vnde ratio illa non mouet,  
+          <lb ed="#B1" n="50"/>quam tamen ponunt sanctus Tho. Alex. &amp; Petrus.
+        </p>
+        <p xml:id="rhwis-l106-d1e400">
+          Ad primam rationem dicendum 
+          <lb ed="#B1" n="51"/>que non semper fit denominatio a digniori, sed aliquando a uiliori: sicut homo de 
+          <lb ed="#B1" n="52"/>nominatur ab humo. Fit etiam denominatio a praedominanti, &amp; euidentiori, &amp; 
+          <lb ed="#B1" n="53"/>certiori sicut dictum est in positone.
+        </p>
+        <p xml:id="rhwis-l106-d1e410">
+          Ad secundum dicendum que illud statutum Eccle  
+          <!--sap_Page_395.xml-->
+          <pb ed="#B1" n="361"/>
+          <lb ed="#B1" n="1"/>siae fuit specialiter editum in detestationem illius coniugij. Et sicut dicit glos. i 
+          <lb ed="#B1" n="2"/>bidem, cum Ecclesia non sit usa isto iure, perdidit ius istud.
+        </p>
+        <p xml:id="rhwis-l106-d1e421">
+          Ad tertium quod 
+          <lb ed="#B1" n="3"/>Sacra scriptura computat genealogias non ad sciendum conditiones seruitu 
+          <lb ed="#B1" n="4"/>tis &amp; libertatis, sed ad sciendum de qua familia &amp; tribu persona sit extracta. Et  
+          <lb ed="#B1" n="5"/>quantum ad hoc licet pater &amp; mater deuna tribu esse deberent: pater tamen 
+          <lb ed="#B1" n="6"/>principalior est in illo, unde a patribus in genealogijs denominatio fuit texenda
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

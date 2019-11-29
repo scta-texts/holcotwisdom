@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 108 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 108 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="364"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l108">
+        <p xml:id="rhwis-l108-d1e95">
+          <lb ed="#B1" n="6"/>HAEC est quarta pars comendatoria, in qua Salomon duas conditio 
+          <lb ed="#B1" n="7"/>nes de amica sua sapientia introducit, quae in sponsis eligendis apud  
+          <lb ed="#B1" n="8"/>homines mundanos non modicum poderantur. Et secundum quod ei duas 
+          <lb ed="#B1" n="9"/> praerogatiuas attribuit, litera diuiditur in tot partes. Primo enim attri 
+          <lb ed="#B1" n="10"/>buit ei opulentiam in diuitijs: Et secundo experientiam in artificijs. Secunda 
+          <lb ed="#B1" n="11"/>pars ibi: Si autem sensus operatur. Et quia diuersorum hominum diuersae sunt.  
+          <lb ed="#B1" n="12"/>cupiditates: tam secundum consuetudinem, quam secundum complexio  
+          <lb ed="#B1" n="13"/>nes. Nam aliqui desiderant naturaliter superfluitatem, in diuitijs, aliqui sub  
+          <lb ed="#B1" n="14"/>tilitatem in artificijs, aliqui uirtutum moralium conuenientiam, aliqui uirtu 
+          <lb ed="#B1" n="15"/>tum intellectualium excellentiam: Ideo sub quatuor conditionibus omne 
+          <lb ed="#B1" n="16"/>humanum desiderium honestum tamen, &amp; non bestiale, communiter descri 
+          <lb ed="#B1" n="17"/>bit: quorum tamen appetibilium tantum duo in litem ista prosequitur. Quan 
+          <lb ed="#B1" n="18"/>tum ad primum dicit sic: Et si diuitiae appetantur in vita, quid sapientia locuple  
+          <lb ed="#B1" n="19"/>tius, quae operatur omnia: quasi diceret nihil: Et intelligitur specialiter de sapi 
+          <lb ed="#B1" n="20"/>entia increata quae est CHRISTVS. De qua Ephes. 1. Nam operatur omnia se 
+          <lb ed="#B1" n="21"/>cundum consilium uoluntatis suae. Quia enim sapientia, quae est uirtus huma 
+          <lb ed="#B1" n="22"/>na, donum est sapientiae increatae, &amp; idem est commendare donum &amp; dantem 
+          <lb ed="#B1" n="23"/>in casu: Ideo Salomon frequenter in hoc libro sapientiam commendando quae 
+          <lb ed="#B1" n="24"/>dam de sapientia creata ponit, &amp; plurima de sapientia increata. Potest tamen ista 
+          <lb ed="#B1" n="25"/>litera de sapientia humana intelligi, quam si homo habet locuples satis fiet. Mo 
+          <lb ed="#B1" n="26"/>dum uero quomodo quilibet potest esse diues, dicam secundum Senecam in E 
+          <lb ed="#B1" n="27"/>pist. 134. In qua docet qualiter omnis homo pptestsibi pacem &amp; diuitias fa 
+          <lb ed="#B1" n="28"/>bricare: quae duo communiter multum affectantur. Dicit sic: Nunquid maior est 
+          <lb ed="#B1" n="29"/>animus quam ubi alienum se posuit, &amp; fecit sibi pacem nihil timendo: sibi diuitias 
+          <lb ed="#B1" n="30"/>nihil concupiscendo: Ergo setundum Senecam si uis habere pacem quantum ad 
+          <lb ed="#B1" n="31"/>mundum pertinet: nullum timeas, &amp; eris in pace: nihil concupiscas, &amp; eris satis 
+          <lb ed="#B1" n="32"/>diues: Erras (inquit) si illum putas diuitem, cui uaria supellex, qui in prouincijs mul 
+          <lb ed="#B1" n="33"/>tis arat, qui multum suburbani agri, possidet. Cum omnia dixeris, pauper est. Qua 
+          <lb ed="#B1" n="34"/>re: quia debet. Quantum inquis: Omnia: nisi forteiudicas interesse, utrum ali 
+          <lb ed="#B1" n="35"/>quis ab homine, an a fortuna mutuum sumpserit: Haec Seneca sententialiter. 
+          <lb ed="#B1" n="36"/>Sed melius dixisset si conclusisset omnem diuitem DEO debitorem fuisse non 
+          <lb ed="#B1" n="37"/>fortunae. Dicit enim Aug. 1. de retractionibus cap. 1. Homines habent in pes  
+          <lb ed="#B1" n="38"/>sima consuetudine, ubi dici debet: Hoc DEVS uoluit: dicunt, hoc fortuna uoluit.  
+          <lb ed="#B1" n="39"/>Sed quomodo dantur diuitiae a DEO, cum sint nociuae frequenter illis quibus dan 
+          <lb ed="#B1" n="40"/>tur. Isti quaestioni respondet Seneca Epist. 57. Vbi ostendit, quomodo dii diui  
+          <lb ed="#B1" n="41"/>tibus sunt propicij: &amp; dicit quod dicuntur eis propicij, quiaebono ac benigno 
+          <lb ed="#B1" n="42"/>uultu mala magnifica eis tribuerunt: ad hoc unum excusati, quod illa quae urant 
+          <!--sap_Page_399.xml-->
+          <pb ed="#B1" n="365"/>
+          <lb ed="#B1" n="1"/>&amp; excruciant optantibus data sunt. In hoc ergo dij excusantur secundum 
+          <lb ed="#B1" n="2"/>eum, quod licet dent eis ea, quae eis non prosunt, dant tamen qualia appe  
+          <lb ed="#B1" n="3"/>tunt. Sed certe uerae diuitiae quas sapientia dat hominibus, sunt uirtutes, &amp; 
+          <lb ed="#B1" n="4"/>bonae operationes, quas signanter uocat Propheta diuitias salutis. Esa. 33. Di  
+          <lb ed="#B1" n="5"/>uitiae salutis sapientia &amp; scientia. Prover.10. Benedictio Domini diuites facit. 
+          <lb ed="#B1" n="6"/>Secunda praerogatiua, &amp; quarta in uniuerso ipsius sapientiae est, quod ipsa ha 
+          <lb ed="#B1" n="7"/>bet experientiam in artificijs. Et quantum ad hoc dicit: Si autem sensus opera 
+          <lb ed="#B1" n="8"/>tur, &amp;c. id est, ars quae est circa sensibilia, &amp; experimenta comendetur ab aliquo 
+          <lb ed="#B1" n="9"/>Sapientia increata quae est CHRISTVS artificio praecellit omnia: quia omnia 
+          <lb ed="#B1" n="10"/>creauit de nihilo. Sapientia etiam humana large loquendo prudentiam &amp; ar 
+          <lb ed="#B1" n="11"/>tem comprehendit: &amp; per consequens nihil est magis artifex quam illa
+        </p>
+        <p xml:id="rhwis-l108-d1e206">
+          <lb ed="#B1" n="12"/>Si (inquit) diuitiae appetantur. Notandum quod tria sunt genera diuitiarum. 
+          <lb ed="#B1" n="13"/>Temporales &amp; periculosae, spiritales &amp; uirtuosae, aeternales &amp; gloriosae. Primae 
+          <lb ed="#B1" n="14"/>sunt rationabiliter parui pendendae: Secundae sunt laudabiliter exercendae: Ter 
+          <lb ed="#B1" n="15"/>tiae sunt ineffabiliter appetendae. Primae diuitiae sunt periculosae: quia repellunt  
+          <lb ed="#B1" n="16"/>ueritatem a cognitione, securitatem ab aestimatione, &amp; uanitatem ab affectio 
+          <lb ed="#B1" n="17"/>ne. Primo repellunt ueritatem a cognitione. Diuites enim nec habere possunt  
+          <lb ed="#B1" n="18"/>ueram cognitionem DEI, nec sui, nec proximi. Non DEI: quia Matt. 13. <quote xml:id="rhwis-l108-Qd1e223" source="http://scta.info/resource/mt13_22">Fal  
+          <lb ed="#B1" n="19"/>lacia diuitiarum suffocat uerbum DEI, &amp; sine fructu efficit</quote>. In cuius figuram  
+          <lb ed="#B1" n="20"/>diuitibus regibus, angelus apparuit in somnis: &amp; pauperibus pastoribus in 
+          <lb ed="#B1" n="21"/>perfecta uigilia se ostendit. In signum quod pauperes clariorem de DEO noti  
+          <lb ed="#B1" n="22"/>tiam consequantur quam diuites. Vnde Luc. 19. dicitur quod Zacheus fuit  
+          <lb ed="#B1" n="23"/>princeps publicanorum &amp; diues, &amp; tamen statura pusillus erat, &amp; non pote 
+          <lb ed="#B1" n="24"/>tat prae turba uidere IESVM, donec in arborem ascendisset. Sic diuitijs con 
+          <lb ed="#B1" n="25"/>stipati &amp; familijs sunt parui in statura uirtutum, &amp; comprimuntur solicitudi 
+          <lb ed="#B1" n="26"/>nibus, &amp; pressuris negociorum, &amp; officiorum, quod non uacat eis cogitare de 
+          <lb ed="#B1" n="27"/>IESU nisi ualde raro: id est, si forte semel in anno, in quadragesima, uel circa pa 
+          <lb ed="#B1" n="28"/>scha arborem ascendant poenitentiae &amp; contemplationis deuotae, ut inuitent  
+          <lb ed="#B1" n="29"/>illum in domum suam. Et ideo diuitiae sunt pulueres excaecantes oculos spiri 
+          <lb ed="#B1" n="30"/>tales. Vnde dicitur Apocal. 3. Dicit quia diues sum, &amp; locupletatus, &amp; nullius 
+          <lb ed="#B1" n="31"/>egeo: &amp; nescis quia miser es, &amp; miserabilis, &amp; pauper, &amp; caecus, &amp; nudus. Item  
+          <lb ed="#B1" n="32"/>nec habent ueram cognitionem sui, propter duo impedimenta. Primo propter 
+          <lb ed="#B1" n="33"/>uera dicentium raritatem, &amp; secundo propter adulationis falsae multiplicitatem. De 
+          <lb ed="#B1" n="34"/>primo dicit Seneca: Monstrabo tibi quid omnia possidentibus desit, s. qui ue 
+          <lb ed="#B1" n="35"/>rum dicat. De secundo patet. Tot sunt adulatores diuitum, de familijs, de uici 
+          <lb ed="#B1" n="36"/>nis, de amicis, de extraneis, quod proprios defectus non possunt aduertere. 
+          <lb ed="#B1" n="37"/>Eccl. 13. Diuiti decepto multi recuperatores, locutus est superbe, &amp; iustificaue 
+          <lb ed="#B1" n="38"/>runt illum. Et infra, diues locutus est, &amp; omnes tacuerunt, &amp; uerbum illius us  
+          <lb ed="#B1" n="39"/>que ad nubes perducent. Tertio nec habent ueram notitiam de proximo: quia 
+          <lb ed="#B1" n="40"/>nesciunt qui sunt eorum amici, &amp; qui hostes. Vnde Seneca de remedijs fortui  
+          <lb ed="#B1" n="41"/>torum. Iste quem tu dominum existimas, pecuniae loculus est, multum habet.  
+          <lb ed="#B1" n="42"/>Ignoras utrum auarus uel prodigus sit: si prodigus non habebit, si auarus, non 
+          <lb ed="#B1" n="43"/>habet. Istum quem tu felicem admiratus credis, saepe dolet, saepe suspirat: mul  
+          <lb ed="#B1" n="44"/>ti illum comitantur. Mel muscae sequuntur, lupi cadauera, frumenta formicae, 
+          <lb ed="#B1" n="45"/>praedam sequitur turba ista, non hominem. Et ideo bene deducit Boët. 2. de 
+          <lb ed="#B1" n="46"/>Consol. prosas. quod aduersa fortuna plus hominibus prodest, quam prospe 
+          <lb ed="#B1" n="47"/>ta. Illa enim semper spem felicitatis cum uidetur blanda mentitur: haec semper ue 
+          <lb ed="#B1" n="48"/>ra est, cum se instabilem mutatione demonstrat. Illa fallit, haec instruit: illa menda 
+          <lb ed="#B1" n="49"/>cio spem bonorum mentes fruentium ligat, haec cognitione fragilis felicitatis 
+          <lb ed="#B1" n="50"/>absoluit. Itaqe uideas illam uentosam fluentem, suique semper ignaram: hanc so 
+          <lb ed="#B1" n="51"/>briam succinctamque, &amp; ipsius aduersitatis exercitatione prudentem. Sic ergo 
+          <lb ed="#B1" n="52"/>diuitiae repellunt ueritatem a cognitione. Secundo repellunt securitatem ab 
+          <lb ed="#B1" n="53"/>aestimatione. Diuites enim semper sunt in timore perdendi terras, pecuniam  
+          <!--sap_Page_400.xml-->
+          <pb ed="#B1" n="366"/>
+          <lb ed="#B1" n="1"/>&amp; thesaurum. Et cum sint sine securitate, sunt per consequens sine intrinseca 
+          <lb ed="#B1" n="2"/>iocunditate. Vnde Augustinus 6. confess. narrat quod transiens per quendam  
+          <lb ed="#B1" n="3"/>uicum, uidit pauperem mendicum iacentem, &amp; ingemuit loquens ad socios. 
+          <lb ed="#B1" n="4"/>Omnibus (inquit) conatibus quibus laboramus, nihil aliud vellemus nisi ad 
+          <lb ed="#B1" n="5"/>securam laeticiam peruenire, quo nos iste mendicus praecessit. Et sequitur: Ille 
+          <lb ed="#B1" n="6"/>laetatur, ego anxius: ille securus, ego trepidus eram. Et illud notabiliter in suo 
+          <lb ed="#B1" n="7"/>cantico dicit beata Virgo, Luc. 1. Esurientes impleuit bonis: &amp; diuit. &amp;c. Illud est 
+          <lb ed="#B1" n="8"/>inane, quod apparet esse repletum, &amp; est uacuum: Ita diuites uidentur exte 
+          <lb ed="#B1" n="9"/>rius sine metu: &amp; turbatione, &amp; sine solicitudine, &amp; tamen interius sunt pleni 
+          <lb ed="#B1" n="10"/>tristicijs, &amp; timore. Tertio repellunt unitatem ab affectione: causant enim inui 
+          <lb ed="#B1" n="11"/>dias, turbationes, bella, brigas, &amp; discordias amicorum. Exemplum Genes.  
+          <lb ed="#B1" n="12"/>13. de Abraham &amp; Loth conlanguineo suo: de quibus dicitur. Erat quippe sub  
+          <lb ed="#B1" n="13"/>stantia eorum multa, &amp; non quibant habitare communiter. Vnde statim sub  
+          <lb ed="#B1" n="14"/>ditur in eodem: quod facta est rixa inter pastores gregum Abraham &amp; Loth, cum 
+          <lb ed="#B1" n="15"/>&amp; ipsi substantijs abundabant multifarijs. Et ideo sunt paruipendendae. Vn 
+          <lb ed="#B1" n="16"/>de Seneca Epistola 18. Nemo alius est DEO dignus quam qui opes contem 
+          <lb ed="#B1" n="17"/>pserit: &amp; ideo dicit Psal. Diuitiae si affluant, nolite cor apponere. Dicit Augusti 
+          <lb ed="#B1" n="18"/>nus. Non dicit: nolite habere: sed nolite cor apponere. Non enim damnat diui  
+          <lb ed="#B1" n="19"/>tias unde mereamur coelum, sed cor appositum, quod scilicet non expendit,  
+          <lb ed="#B1" n="20"/>sed recondit. Et ideo dixi, quod diuitiae sunt rationabiliter paruipendendae 
+          <lb ed="#B1" n="21"/>non totaliter secundum rectam rationem, sed ne sint impedimentum uirtutis.  
+          <lb ed="#B1" n="22"/>Vnde optimum temperamentum docet Augustinus super Psalm. 51. quod  
+          <lb ed="#B1" n="23"/>nullus diuitias uel diuites nimis contemnet, nec nimis de paupertate praesu 
+          <lb ed="#B1" n="24"/>mat, dicens sic: Hoc attendite ne passim diuites reprehendatis, &amp; rursum ne 
+          <lb ed="#B1" n="25"/>de paupertate &amp; egestate praesumatis. Si enim non est praesumendum de diui  
+          <lb ed="#B1" n="26"/>tijs, quanto magis non est praesumendum de paupertate. Pauper ulcerosus non 
+          <lb ed="#B1" n="27"/>habens escam, nec uestem, allatus est ab angelis in sinum Abrahae. Vide quo 
+          <lb ed="#B1" n="28"/>sublatus est: lege Scripturam &amp; inuenies diuitem Abraham: sublatus est ergo 
+          <lb ed="#B1" n="29"/>in sinu diuitis pauper: an potius ambo diuites DEO: ambo cupiditate paupe  
+          <lb ed="#B1" n="30"/>res. Haec Augustinus. Secundae diuitiae sunt spirituales &amp; uirtuosae: hae sunt gra 
+          <lb ed="#B1" n="31"/>tiae &amp; operationes uirtutum, &amp; boni mores. Vnde Gregor. Homel. 15. super 
+          <lb ed="#B1" n="32"/>illud: Exijt qui seminat seminare semen suum. Solae diuitiae uerae sunt, quae nos 
+          <lb ed="#B1" n="33"/>uirtutibus diuites efficiunt. Si ergo fratres diuites esse cupitis, ueras diuitias a 
+          <lb ed="#B1" n="34"/>mate. Si culmen honoris quaeritis, ad coeleste regnum tendite. Si gloriam digni 
+          <lb ed="#B1" n="35"/>tatum diligitis, in illa superna angelorum societate ascribi festinate. Vnde 1 
+          <lb ed="#B1" n="36"/>Timoth. 6. Praecipe diuitibus huius seculi non sublime sapere, neque sperare 
+          <lb ed="#B1" n="37"/>in incerto diuitiarum. Et infra: Bene agere, diuites fieri in operibus bonis. Et  
+          <lb ed="#B1" n="38"/>Ephes. 3. Det uobis secundum diuitias gloriae suae uirtutem corroborari per 
+          <lb ed="#B1" n="39"/>spiritum eius, in interiori homine, &amp; habitare CHRISTVM per fidem in 
+          <lb ed="#B1" n="40"/>cordibus uestris, in charitate radicati &amp; fundati. Tertiae diuitiae sunt aeternales  
+          <lb ed="#B1" n="41"/>&amp; gloriae. In istis enim est perpetuitas sine transitione, securitas sine fatigatio  
+          <lb ed="#B1" n="42"/>ne, iocunditas fine afflictione, &amp; satietas sine defectione. De quibus in Psalm. 
+          <lb ed="#B1" n="43"/>Gloriae &amp; diuitiae in domo eius, &amp;c. Et iterum: Spera in Domino, &amp; 
+          <lb ed="#B1" n="44"/>fac bonitatem, &amp; inhabita terram, &amp; pascereris  
+          <lb ed="#B1" n="45"/>in diuitijs eius.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

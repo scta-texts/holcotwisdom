@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 76 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 76 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="329"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l97">
+        <p xml:id="rhwis-l97-d1e95">
+          <!--sap_Page_363.xml-->
+          <pb ed="#B1" n="329"/>
+          <lb ed="#B1" n="1"/>POSTQVAM Salomon persuasit sapientiae communicationem:  
+          <lb ed="#B1" n="2"/>Hic excludit circa hoc quandam dubitationem, quae est talis. Posset 
+          <lb ed="#B1" n="3"/>aliquis imaginari sic. Si ego scientiam indifferenter communicem, 
+          <lb ed="#B1" n="4"/>continget quod quandoque deficiet, sicut de bonis mundanis expe 
+          <lb ed="#B1" n="5"/>rientia communis docet. Istam dubitationem excludit Salomon in litera modo 
+          <lb ed="#B1" n="6"/>lecta, per duo. Primo propter ipsius augmentum &amp; excrescentiam: Secundo 
+          <lb ed="#B1" n="7"/>propter ipsius emolimentum &amp; sufficientiam. Secunda pars ibi: quo qui usi sunt.  
+          <lb ed="#B1" n="8"/>Circa primum dicit sic: Infinitus enim thesaurus est hominibus, quid. Haec est cau 
+          <lb ed="#B1" n="9"/>sa quare sapientia non est abscondenda, sed communicanda liberaliter: quia 
+          <lb ed="#B1" n="10"/>est thesaurus infinitus: id est, non deficiens: quia quanto magis communicatur,  
+          <lb ed="#B1" n="11"/>tanto magis crescit, &amp; augmentatur. Et ideo infinitus est, quia non est tantus 
+          <lb ed="#B1" n="12"/>in aliquo, quin si communicetur augebitur in eodem, unde Seneca: Simul ista 
+          <lb ed="#B1" n="13"/>siunt, &amp; discimus &amp; docemus.
+        </p>
+        <p xml:id="rhwis-l97-d1e130">
+          <lb ed="#B1" n="14"/>De isto thesauro &amp; eiusdem liberali communicatione loquitur pulchre A 
+          <lb ed="#B1" n="15"/>lanus in Anticlaudia, lib. 7. Vbi narrans quomodo apimeis uel pgiuis: id est, pru 
+          <lb ed="#B1" n="16"/>dentia uirum uirtuosum suis ditat muneribus, dicit sic:  
+          <lb ed="#B1" n="17"/>Assistens phronesis pluit omnia dona sophiae. 
+          <lb ed="#B1" n="18"/>Non illas largitur opes quae saepe potentum: 
+          <lb ed="#B1" n="19"/>Excecant animos, &amp; maiestatis honores. 
+          <lb ed="#B1" n="20"/>lnclinant, minuuntque, leges, &amp; iura retardant.  
+          <lb ed="#B1" n="21"/>Sed potius donat the sauros mentis &amp; omnes: 
+          <lb ed="#B1" n="22"/>Diuitias animi, quas qui semel accipit vltra. 
+          <lb ed="#B1" n="23"/>Non eget immo semel ditatus semper abundat:  
+          <lb ed="#B1" n="24"/>Quarum rectus amor possestio nopilis vsus. 
+          <lb ed="#B1" n="25"/>Vtilis vtilior largitio, fructus abundans  
+          <lb ed="#B1" n="26"/>faec est guRe poli celique thesaurus inundans. 
+          <lb ed="#B1" n="27"/>dratia quae doctos ditat, quae prodiga largos. 
+          <lb ed="#B1" n="28"/>Vult possestores, &amp; dedignatur auaros  
+          <lb ed="#B1" n="29"/>clausa perit diffusa redit, nisi publica fiat.  
+          <lb ed="#B1" n="30"/>Labitur, &amp; multas vires acquirit eundo  
+          <lb ed="#B1" n="31"/>Non istas depascit opes rubigo, nec ignis 
+          <lb ed="#B1" n="32"/>Deuorat, aut furis minuit subreptio, mergit. 
+          <lb ed="#B1" n="33"/>Naufragium, tollit praedo, depauperat hostis. 
+          <lb ed="#B1" n="34"/>Isti uersus dant differentiam inter thesaurum diuitiarum &amp; scientiarum: quia the 
+          <lb ed="#B1" n="35"/>saurus diuitiarum excaecat noticiam discretorum, inclinat ad immunditiam ui  
+          <lb ed="#B1" n="36"/>tiorum, &amp; retardat iusticiam legum &amp; statutorum. Thesaurus autem mentis, 
+          <lb ed="#B1" n="37"/>qui est thesaurus scientiae est talis: quia eius amor est rectus, dum appetitur pos  
+          <lb ed="#B1" n="38"/>essio nobilis cum habetur uerus. Vtilis in bene uiuendo, largitio utilior in do 
+          <lb ed="#B1" n="39"/>cendo, fructus abundans in praemium percipiendo. Et in alijs pondera uersus. De 
+          <lb ed="#B1" n="40"/>isto eodem loquitur beatus August. 1. de doct. Christiana, cap. 5. Inuitans ho 
+          <lb ed="#B1" n="41"/>mines ad docendum liberaliter ea, quae a DEO eis sunt concessa scire: quiasi do 
+          <lb ed="#B1" n="42"/>cere curent, plura scient: non est (inquit) metuendum, ne dare desinet caetera, cum 
+          <lb ed="#B1" n="43"/>ea quae data sunt, cepimus impendere. Omnis enim res quae dando non deficit 
+          <lb ed="#B1" n="44"/>dum habetur, &amp; non datur, nondum habetur, quomodo habenda est. Ille aut ait: Qui  
+          <lb ed="#B1" n="45"/>habet dabitur ei. Dabit ergo habentibus: id est, cum benignitate utentibus, eo:  
+          <!--sap_Page_364.xml-->
+          <pb ed="#B1" n="330"/>
+          <lb ed="#B1" n="1"/>quod acceperint.
+        </p>
+        <p xml:id="rhwis-l97-d1e208">
+          Et adducit ad hoc beatus Aug. ibidem duas pulcherrimas fi 
+          <lb ed="#B1" n="2"/>guras, de duobus festis, quae fecit CHRISTVS pauperibus, quae eum sequeban 
+          <lb ed="#B1" n="3"/>tur, ut ab eo docerent: primum festum fecit 5, millibus hominum de quinque panibus &amp;  
+          <lb ed="#B1" n="4"/>duob. piscibus: Et illis saturatis superfuerunt 12. cophini fragmentorum sicut pa 
+          <lb ed="#B1" n="5"/>tet Matt. 14. Secundum festum. 4, millibus hominum de septem panibus &amp; paucis piscibus. 
+          <lb ed="#B1" n="6"/>Quibus saturatis superfuerunt septem sportae plenae fragmentis. Istis miraculosis  
+          <lb ed="#B1" n="7"/>historijs alludens August. ibidem dicit sic: llli quinque, &amp; illi, 7. erant panes ante 
+          <lb ed="#B1" n="8"/>quam ceperant dari esurientibus, &amp; ubi ceperant fieri sportas &amp; cophinos satia 
+          <lb ed="#B1" n="9"/>tis tot millibus hominum frangeret accreuit: Sic secundum Aug. Quando doctor libe 
+          <lb ed="#B1" n="10"/>raliter impertitr docendo, quod dono DEI recepit, multiplicatr &amp; auget in do 
+          <lb ed="#B1" n="11"/>cente sapientia: Ergo est infinitus thesaurus hominibus Notandum est aut, quod inter 
+          <lb ed="#B1" n="12"/>docentes qui pascunt populum uerbo DEI in Ecclesia, differentia est. Quia aliqui 
+          <lb ed="#B1" n="13"/>pascunt de quinque panibus, &amp; aliqui de septem. De quinque pascunt simplices for 
+          <lb ed="#B1" n="14"/>tes in fide &amp; deuotione licet minus eruditi in scholastica eruditione. Isti per qui  
+          <lb ed="#B1" n="15"/>narium passionis CHRISTI praedicantes aedificant ad sufficientiam corda simplicium. 
+          <lb ed="#B1" n="16"/>Et in persona talium loquit Apostolus 1. Cor. 14. In Ecclesia uolo quinque uerba 
+          <lb ed="#B1" n="17"/>sensu meo loqui ut instruam. Ista uerba sunt: Quid credendum, quid faciendum, quid  
+          <lb ed="#B1" n="18"/>timendum, &amp; quid cauendum. Quid credendum: 12. articuli. Quid faciendum: 10. p 
+          <lb ed="#B1" n="19"/>cepta. Quid cauendum: 7. uitia capitalia. Quid timendum: inferni supplicia. Quid  
+          <lb ed="#B1" n="20"/>appetendum: paradysi gaudia. Alij sunt qui pascunt populum DEI de septem pani 
+          <lb ed="#B1" n="21"/>bus. Septenarius est numerus uniuersitatis. Et hi sunt subtiles doctores, in u 
+          <lb ed="#B1" n="22"/>niuersis instructi. Informati libro mystico, qui est scriptus intus &amp; foris, signa 
+          <lb ed="#B1" n="23"/>tis septem sigillis, Apoc. 5. Ergo sapientia est liberaliter comunicanda: quia est 
+          <lb ed="#B1" n="24"/>infinitus thesaurus hominibus sibene dispenset propter ipsius augmentum &amp; ex  
+          <lb ed="#B1" n="25"/>crescentiam. Secundo est liberaliter comunicanda propter sequens emolimentum &amp;  
+          <lb ed="#B1" n="26"/>sufficientiam. Maximum emolimentum est quae homo fiat particeps amicitiae DEI: hoc 
+          <lb ed="#B1" n="27"/>aut bonus usus sapientiae facit. Vnde infra in hoc cap. vers. 27. dicit Amicos 
+          <lb ed="#B1" n="28"/>DEI &amp; prophetas constituit.
+        </p>
+        <p xml:id="rhwis-l97-d1e269">
+          Et quantum ad hoc dicitur. Quo qui usi sunt uideli  
+          <lb ed="#B1" n="29"/>cet, quo thesauro sapientiae qui usi sunt faciendo, quo ad seipsos: docendo, quo 
+          <lb ed="#B1" n="30"/>ad alios participes facti sunt amicitia DEI, Matth. 5. <quote xml:id="rhwis-l97-Qd1e275" source="http://scta.info/resource/mt5_19">Qui fecerit &amp; docuerit hic  
+            <lb ed="#B1" n="31"/>magnus uocabitur</quote>. Et I Ioh. 15. Vos amici mei estis si feceritis, que praecipio uo 
+          <lb ed="#B1" n="32"/>bis. Propter disciplinae dona comendati sunt: noc est, comendati sunt sic speciales a 
+          <lb ed="#B1" n="33"/>mici apud DEVM propter disciplinae dona: quia uidelicet min, doctis dederunt li 
+          <lb ed="#B1" n="34"/>beraliter disciplinam, Eccles. 24. Videte quia non mihi soli laboraui, sed omnibus  
+          <lb ed="#B1" n="35"/>quaerentibus disciplinam. Est etiam notandum quod tria genera sapientum thesauro sa 
+          <lb ed="#B1" n="36"/>pientiae non utuntur ad meritum. Sunt enim quidam sapientum sapientiae sup  
+          <lb ed="#B1" n="37"/>pressores, quidam sapientiae subuersores, &amp; quidam sapientiae abusores. Sup  
+          <lb ed="#B1" n="38"/>primunt enim sapientiam, qui eam a DEO acceperunt ad proximorum aedificatio  
+          <lb ed="#B1" n="39"/>nem, &amp; tamen nullam de ea faciunt communicationem. Et hi similes sunt illi  
+          <lb ed="#B1" n="40"/>seruo maligno &amp; pigro, <quote xml:id="rhwis-l97-Qd1e300" source="http://scta.info/resource/mt25_18">qui acceptum talentum fodit in terram, &amp; abscondit pe 
+            <lb ed="#B1" n="41"/>cuniam Domini sui</quote>, Matth. 25. Et quando socii &amp; conserui uenerunt cum suis 
+          <lb ed="#B1" n="42"/>lucris ad dominum duplicatis: Ipse accessit cum suo talento, &amp; ait: Domine scio 
+          <lb ed="#B1" n="43"/>quod homo durus es, metis ubi non seminasti, &amp; congregas ubi non spersisti, 
+          <lb ed="#B1" n="44"/>&amp; timens abij &amp; abscondi talentum tuum in terra. Et ecce habes quod tuum est. 
+          <lb ed="#B1" n="45"/>De isto loquens Chrysost. Homelia 19. in opere imperfecto. Dicit quod haec 
+          <lb ed="#B1" n="46"/>excusatio est falsa. Dicit inquam: Serue mendax. Quomodo metit ubi non se 
+          <lb ed="#B1" n="47"/>minauit: Quis enim hominum est uel gentilium, uel ludaeorum, quem non sus  
+          <lb ed="#B1" n="48"/>ficienter spiritualibus sensibus adornauit: Cui non dedit scientiam boni &amp; ma 
+          <lb ed="#B1" n="49"/>li: Cui non dedit posse fugere malum &amp; apprehendere bonum si uult: Sicut  
+          <lb ed="#B1" n="50"/>enim nullus est homo cui sit minus aliquod membrorum corporis ad usum 
+          <lb ed="#B1" n="51"/>corporalem: sic non est aliquis, cui sit minus sensus, &amp; potentia ad intelligen 
+          <lb ed="#B1" n="52"/>tiam boni &amp; mali, &amp; ad omne opus bonum faciendum, quodcunque uolue 
+          <lb ed="#B1" n="53"/>rit. Haec Chrysost. Et uult aperte dicere, quod DEVS nulli homini deficit in 
+          <!--sap_Page_365.xml-->
+          <pb ed="#B1" n="331"/>
+          <lb ed="#B1" n="1"/>concedendo sibi scientiam, necessariam ad salutem: si homo bene utatur gratia 
+          <lb ed="#B1" n="2"/>a DEO concessa &amp; non opponat obicem per peccatum.
+        </p>
+        <p xml:id="rhwis-l97-d1e340">
+          <lb ed="#B1" n="3"/>Sunt ergo quidam qui sub terra talentum ab scondunt: quia noticiam Sacrae 
+          <lb ed="#B1" n="4"/>scripturae. i. Ecclesiasticae disciplinae sub solicitudine occupationum terrenarum 
+          <lb ed="#B1" n="5"/>recodunt, uel sub delicijs &amp; pigritia carnis suae: De unoquoque tali potest expo  
+          <lb ed="#B1" n="6"/>ni illud Eccl. 6. Si uixerit homo multis annis, &amp; non utatur bonis substantiae suae, 
+          <lb ed="#B1" n="7"/>de hoc ego pronuncio, quod melior illo est abortiuus. Quia Eccl. 20. Sapientia 
+          <lb ed="#B1" n="8"/>absconsa &amp; thesaurus, quae utilitas in utriusque: Secundo sunt sapientes quidam  
+          <lb ed="#B1" n="9"/>&amp; tamen sapientiae subuersores. Quia quidquid uerbis aedificant, moribus im 
+          <lb ed="#B1" n="10"/>pungant Et dato quod fortassis aedificant proximos tamen in nullo promo 
+          <lb ed="#B1" n="11"/>uent seipso. Dicit Arist. 8. de Animalibus ca. 5. quod apes cum fecerint magnam 
+          <lb ed="#B1" n="12"/>eopiam mellis in fauis suis, sugunt de illo melle, &amp; serecreant de eodem. Et ni 
+          <lb ed="#B1" n="13"/>si hoc facerent, mel illud corrumperetur, &amp; fierent de fauis araneae. Moraliter 
+          <lb ed="#B1" n="14"/>quando persona Ecclesiastica habet magnam copiam mellis. i. scientiam Sacrae 
+          <lb ed="#B1" n="15"/>icripturae quae melli comparatur. In Psalm. Quam dulcia faucibus meis eloquia i 
+          <lb ed="#B1" n="16"/>tua super mel ori meo: necesse habet alere semetipsum de melle suo: quia nisi hoc 
+          <lb ed="#B1" n="17"/>faceret, mel corrumperetur: quia scientia in displicentiam &amp; poenam conuerte 
+          <lb ed="#B1" n="18"/>retur, &amp; de fauis fierent araneae: id est, de habitibus scientialibus uenenosae curio 
+          <lb ed="#B1" n="19"/>sitates &amp; uanitates. In Psal. Tabescere fecisti sicut araneam animam eius &amp; in alio  
+          <lb ed="#B1" n="20"/>Psalm. Anni nostri sicut aranea meditabuntur, uel meditabantur secundum a 
+          <lb ed="#B1" n="21"/>liam literam: glossa bene dicit meditabantur anni non operabantur: quia sine 
+          <lb ed="#B1" n="22"/>utilitate &amp; fructu boni operis transierunt. Et ideo primo &amp; principaliter uti de 
+          <lb ed="#B1" n="23"/>bet quilibet literatus scientia sua ad deuotionem, &amp; recreationem propriam, &amp; po 
+          <lb ed="#B1" n="24"/>stea ad aliena:
+        </p>
+        <p xml:id="rhwis-l97-d1e391">
+          Et hoc est, quod dicitur signanter Ecclesiast. 2. Hanc ratus sum 
+          <lb ed="#B1" n="25"/>partem meam, ut uterer labore meo. Dicit Arist. 1. de Generatione prope finem, 
+          <lb ed="#B1" n="26"/>quod aes &amp; stannum non bene miscentur adinuicem: sed sicut literae coniun 
+          <lb ed="#B1" n="27"/>guntur in ore balbutientis, sic commiscentur aes &amp; stannum. Sicut enim in ore 
+          <lb ed="#B1" n="28"/>balbutientis una litera sonat, &amp; alia euanescit: Ita stannum &amp; aes si commiscea 
+          <lb ed="#B1" n="29"/>tur stannum subterfugit &amp; euanescit, &amp; aes manet: Moraliter aes quod est me 
+          <lb ed="#B1" n="30"/>tallum sonorum, designat praedicationis eloquentiam. Stannum quod appa 
+          <lb ed="#B1" n="31"/>ret argentum &amp; non est, &amp; significat conuersationis falsam apparentiam. Et ista 
+          <lb ed="#B1" n="32"/>duo nimis male commiscentur in persona quacunque. Et ideo cum ad examen 
+          <lb ed="#B1" n="33"/>DEI deuentum fuerit nihil apparebit nisi aes, sonus uidelicet doctrinae sine ue 
+          <lb ed="#B1" n="34"/>ritate uel puritate. Sed cum argento bene commiscetur aes: quia uita claritas &amp; 
+          <lb ed="#B1" n="35"/>cuitae sonoritas delectabilem mixturam faciunt. In cuius figuram legimus Exod.  
+          <lb ed="#B1" n="36"/>35 quod Dominus impleuit Bexceleel spiritu sapientiae &amp; omni doctrina ad fa 
+          <lb ed="#B1" n="37"/>ciendum opus in auro &amp; argento, &amp; aere in omnibus, quae requirebantur ad 
+          <lb ed="#B1" n="38"/>sanctuarium tabernaculi. Hoc est moraliter quod persona Ecclesiastica sic de 
+          <lb ed="#B1" n="39"/>bet esse instructa, quod operari sciat in auro deuotae contemplationis, argento  
+          <lb ed="#B1" n="40"/>honestae conuersationis, &amp; aere sonorae praedicationis. Tertio sunt sapientes sa 
+          <lb ed="#B1" n="41"/>pientiae abusores: &amp; hi sunt homines bene instructi, qui scientiam suam appli  
+          <lb ed="#B1" n="42"/>cant ad nocendum, colorant falsa, excusant mendacia, &amp; impugnant uera, Ec 
+          <lb ed="#B1" n="43"/>cles. 20. Qui multis utitur uerbis, laedit animam suam. Omnes isti male utun 
+          <lb ed="#B1" n="44"/>tur thesauro sapientiae. Consimiliter &amp; hi, qui mendacia praedicant, &amp; false au 
+          <lb ed="#B1" n="45"/>tores allegant ad propriam ostentationem, &amp; omnium praedicantium diffa 
+          <lb ed="#B1" n="46"/>mationem CTalis si quaerat cum Apostolo: Nuquid leuitate usus sum: aut quae : 
+          <lb ed="#B1" n="47"/>cogito, secundum carnem cogito, ut sit apud me est, &amp; non) Dico confidenter 
+          <lb ed="#B1" n="48"/>quod talis utitur leuitate, &amp; carnalitate, &amp; falsitate. Non sic fecerunt sancti pa 
+          <lb ed="#B1" n="49"/>tres, qui nos praecesserunt, sed usi sunt thesauro sapientiae sancte uiuendo, recte 
+          <lb ed="#B1" n="50"/>docendo, &amp; uera defendendo. Et ideo participes facti sunt ami 
+          <lb ed="#B1" n="51"/>citia DEI, propter disciplinae dona 
+          <lb ed="#B1" n="52"/>commendati.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

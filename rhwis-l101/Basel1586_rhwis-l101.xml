@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 101 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 101 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="342"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l101">
+        <p xml:id="rhwis-l101-d1e95">
+          <!--sap_Page_376.xml-->
+          <pb ed="#B1" n="342"/>
+          <lb ed="#B1" n="1"/>POSTTA commendatione multiplici Spiritus sanctus, cuius donum 
+          <lb ed="#B1" n="2"/>est sapientia: restat iam ipsius sapientiae excellentia declaranda 
+          <lb ed="#B1" n="3"/>Commendando autem sapientiam sic procedit. Primo commendat  
+          <lb ed="#B1" n="4"/>sapientiam ex his, quae eis conueniunt absolute ex seipsa. Secundo 
+          <lb ed="#B1" n="5"/>ex his quae ei conueniunt in comparatione ad alia. Secunda pars ibi: Est enim 
+          <lb ed="#B1" n="6"/>haec speciosior sole. Circa primum duo facit: Nam primo ostendit eius nobilitatem  
+          <lb ed="#B1" n="7"/>in essendo, secundo eius potestatem in regendo, ibi: Et cum sit vna omnia potest.
+        </p>
+        <p xml:id="rhwis-l101-d1e117">
+          <lb ed="#B1" n="8"/>Circa primum duo facit. Primo commendat sapientiam per conditiones pro 
+          <lb ed="#B1" n="9"/>prias. Secundo per locutiones tropicas, secunda pars ibi: Papor est enim. Circa 
+          <lb ed="#B1" n="10"/>primum duo attribuit sapientiae omnia gubernanti, uidelicet sufficientiam ce 
+          <lb ed="#B1" n="11"/>leritatis, &amp; coexistentiam praesentialitatis
+        </p>
+        <p xml:id="rhwis-l101-d1e128">
+          <lb ed="#B1" n="12"/>Quantum ad primum dicit sic: omnibus mobilibus mobilior est sapientia. Voi 
+          <lb ed="#B1" n="13"/>notandum est quod quanto agens est maioris uirtutis in agendo, tanto cele 
+          <lb ed="#B1" n="14"/>rius &amp; uelocius producit effectum. Vnde agens infinitae uirtutis agere potest 
+          <lb ed="#B1" n="15"/>in omni tempore: quia ergo sapientia quae est donum Spiritus sancti, est quodan 
+          <lb ed="#B1" n="16"/>modo infinitae uirtutis. Omne autem mouens mobile, est uirtutis finitae: patet  
+          <lb ed="#B1" n="17"/>quod sapientia est mobilior: id est, uirtuosior in movendo omni mobili: &amp; per 
+          <lb ed="#B1" n="18"/>consequens habet sufficientiam celeritatis. Secundo habet coexistentiam praesen 
+          <lb ed="#B1" n="19"/>tialitatis. Et quantum ad hoc dicit: Attingit autem vbi quae propter mundiciam  
+          <lb ed="#B1" n="20"/>siam. Quia enim per sapientiam disponuntur &amp; reguntur. In Psal. Omnia in 
+          <lb ed="#B1" n="21"/>sapientia fecistis, repleta est terra possessione tua. Sicut enim deducit magister 
+          <lb ed="#B1" n="22"/>Alexander cognomento Nequam: In omni creatura corporea quantumque 
+          <lb ed="#B1" n="23"/>sit modica, potest ratio humana uidere infinita DEI potentiam, infinitam sa 
+          <lb ed="#B1" n="24"/>pientiam, &amp; bonitatem: uerbi gratia, ut de atomo fiat exemplum. Satis enim 
+          <lb ed="#B1" n="25"/>approbathumana ratio, &amp; acceptat, quod mensura potentiae agentis sumatur  
+          <lb ed="#B1" n="26"/>secundum proportionem facti ad illud, de quo fit. Tanta enim uidetur poten 
+          <lb ed="#B1" n="27"/>tia facilitatis, quantum ipsum factum excedit illud, de quo sit. Cum ergo ratio inue 
+          <lb ed="#B1" n="28"/>nerit atomum esse aliquid ex nihilo, &amp; sciat quod si atomus excederet, nihil infi 
+          <lb ed="#B1" n="29"/>nitum excederet: concludit quod potentia, ducens atomum de nihilo adesse, est 
+          <lb ed="#B1" n="30"/>infinita. Secundo uidebit ratio quod cum atomus sit corpus, habet inter se tres 
+          <lb ed="#B1" n="31"/>lineas intersecantes se ad angulos rectos: in qua sectione posito circino conscribi 
+          <lb ed="#B1" n="32"/>potest sphaera super atomum: &amp; uidet in sphaera infinitos circulos posse describi, 
+          <lb ed="#B1" n="33"/>imo infinita corpora infra sphaeram esse imaginabilia, &amp; ultra, infra circulos om 
+          <lb ed="#B1" n="34"/>nes figuras fore inscriptibiles, quae tamen sunt infinitae: super quas infinitae pos  
+          <lb ed="#B1" n="35"/>sunt erigi demostrationes, tam de magnitudinibus, quam de numeris. Ergo ui  
+          <lb ed="#B1" n="36"/>debit ratio humana in atomo, uel in flore infinitam scientiam, obiectiue descriptan 
+          <lb ed="#B1" n="37"/>Infinitam uero scientiam non potest descripsisse agens quodcumque, nisi sapientie infinitae: 
+          <lb ed="#B1" n="38"/>ergo humana ratio si est bona, uidebit &amp; inueniet in uno atomo infinitam sapi 
+          <lb ed="#B1" n="39"/>entiam conditoris. Tertio uidebit ratio mentis humanae quod in assecutione huius in 
+          <lb ed="#B1" n="40"/>finitae scientiae quae est in atomo est magna utilitas animae, &amp; delectatio admira 
+          <lb ed="#B1" n="41"/>bilis. Et si foret infiniti intellectus, infinitas haberent delectationes, imo unus 
+          <!--sap_Page_377.xml-->
+          <pb ed="#B1" n="343"/>
+          <lb ed="#B1" n="1"/>intellectus in infinitum potest delectari in acquirendo noticiam istius atomi: 
+          <lb ed="#B1" n="2"/>ergo potest ratio concludere, quod ille, qui atomum creauit infinitae est bonita 
+          <lb ed="#B1" n="3"/>tis, qui rem infinitae utilitatis de sua bonitate creauit.  
+          <lb ed="#B1" n="4"/>Sic ergo ex minimo atomo potest homo concludere, DEVM esse infinitae 
+          <lb ed="#B1" n="5"/>potentiae, &amp; bonitatis. Aliter exponi potest de DEO, qui est in rebus omnibus 
+          <lb ed="#B1" n="6"/>per essentiam, potentiam &amp; praesentiam. Per essentiam inquam. Essentia cuius  
+          <lb ed="#B1" n="7"/>libet rei est quaedam participatio diuini esse. Et sic essentia cuiuslibet rei adest. 
+          <lb ed="#B1" n="8"/>inquantum habet esse: sicut adest causa proprio effectui. Per potentiam adest 
+          <lb ed="#B1" n="9"/>inquantum omnia agunt uirtute ipsius. Per praesentiam inquantum omnia 
+          <lb ed="#B1" n="10"/>immediatem disponit &amp; regit. Attingit ergo sapientia diuina vbique: id est, in o 
+          <lb ed="#B1" n="11"/>mni loco propter suam mundiciam: quia cum in omni loco sit corpus, in omni 
+          <lb ed="#B1" n="12"/>corpore scientia potest esse infinita obiectiue: id est, conclusiones scibiles infi 
+          <lb ed="#B1" n="13"/>nitae, &amp; hoc propter suam mundiciam: id est, cuiuscunque defectus impermixtio 
+          <lb ed="#B1" n="14"/>nem. Sic ergo describit sapientiam per conditiones absolutas &amp; proprias. Con 
+          <lb ed="#B1" n="15"/>sequenter eam describit per locutiones figuratiuas &amp; tropicas, cum dicit: Va 
+          <lb ed="#B1" n="16"/>por est enim, ubi incipit subtiliter describere sapientiam per figuras &amp; similitu 
+          <lb ed="#B1" n="17"/>dines. Et ponit quinque similitudines, quibus sapientia comparatur. Dicit enim ir 
+          <lb ed="#B1" n="18"/>quod metaphoricem loquendo, ipsa est vapor, emanatio, candor, speculum, &amp; ima ei 
+          <lb ed="#B1" n="19"/>eo. Vapor est quoddam corpus subtile extractum de terra, uel de aqua per ca 
+          <lb ed="#B1" n="20"/>lorem Solis, sicut patet 1. Metero. Tamen stricte &amp; proprie loquendo, ua 
+          <lb ed="#B1" n="21"/>por est aër humidus, &amp; extrahitur de aqua: exhalatio est sicca, &amp; extrahitur de  
+          <lb ed="#B1" n="22"/>terra. Et de istis duobus generantur omnes aëreae impressiones: cuiusmodi sunt  
+          <lb ed="#B1" n="23"/>nubes, pluuiae, grandines, nix, tonitruum, ros, pruina, &amp; caetera multa. Est ergo 
+          <lb ed="#B1" n="24"/>sapientia quasi uapor uirtutis DEI: id est, subtilis effectus diuinae uirtutis, cau 
+          <lb ed="#B1" n="25"/>satus in mente rationabili. Secundo dicit quod est quaedam emanatio clari.E 
+          <lb ed="#B1" n="26"/>tatis omnipotentis DEI sincera: id est, claritas emanans sincerem ab omnipoten  
+          <lb ed="#B1" n="27"/>ti DEO. Emanare idem est quod scaturire, sicut aqua ascendens de terra di 
+          <lb ed="#B1" n="28"/>citur emanare. Sincerus dicitur quasi sine cera: id est, sine mollitudine &amp; flu 
+          <lb ed="#B1" n="29"/>xibilitate, purus, constans, &amp; mundus: Et ideo nihil inquinatum incurrit in il  
+          <lb ed="#B1" n="30"/>lam propter mundiciam suae claritatis. Sicut lux Solis quantumcunque tur 
+          <lb ed="#B1" n="31"/>pia loca illuminet, nihil tamen inquinati contrahere potest. Et emanatio quae 
+          <lb ed="#B1" n="32"/>dam, &amp;c. DEVS enim fons est a quo emanat omne genus gratiarum. Est e 
+          <lb ed="#B1" n="33"/>nim in fonte iugiter emanante perpetuitas preciosa suauitas saporosa &amp; com 
+          <lb ed="#B1" n="34"/>munitas copiosa. Primo in fonte est perpetuitas preciosa. Quicquid enim bo 
+          <lb ed="#B1" n="35"/>nitatis uel copiae inuenitur in riuulo, totum emanat de fonte. Et eodem mo 
+          <lb ed="#B1" n="36"/>do quicquid delectabilitatis &amp; bonitatis est in creatura, totum emanat de fon 
+          <lb ed="#B1" n="37"/>te bonitatis diuinae infinitae, Ecclesiast. 1. Fons sapientiae uerbum DEI in ex  
+          <lb ed="#B1" n="38"/>celsis. Ad istum fontem sitiunt animae sanctae. Iuxta illud Psalm. Sicut ceruus  
+          <lb ed="#B1" n="39"/>desiderat ad fontes aquarum, &amp;c. sitiuit anima mea ad DEVM fontem uiuum. 
+          <lb ed="#B1" n="40"/>Ceruus hausto serpente moritur, nisi citius attingat aquam: desiderat enim na 
+          <lb ed="#B1" n="41"/>turaliter uitam suam prolongare. Vnde sicut dicit glos. super illud: Quemad 
+          <lb ed="#B1" n="42"/>modum desiderat, &amp;c. Ceruus senio grauatus excrescentibus pilis atque cor 
+          <lb ed="#B1" n="43"/>nibus explorato serpente ipsum naribus haurit: quo hausto ueneno aestuat, un 
+          <lb ed="#B1" n="44"/>de fontem ad bibendum ardentissime desiderat: a quo si deficiat, moritur, &amp; 
+          <lb ed="#B1" n="45"/>inde uitam abbreuiat, quo prolongasse putauit. Moraliter. Homo serpen 
+          <lb ed="#B1" n="46"/>tem haurit, quando Diaboli suggestionibus acquiescit, &amp; noxias sibi dele 
+          <lb ed="#B1" n="47"/>ctationes incorporat per peccatum: sed tunc ueneno aestuat, quando transa 
+          <lb ed="#B1" n="48"/>cta delectatione foeditatem considerat. Tunc enim fontem misericordiae desi 
+          <lb ed="#B1" n="49"/>derat, cum DEO reconciliari per sacramentum poenitentiae affectat. Si aut con 
+          <lb ed="#B1" n="50"/>tingat, quod post haustum serpentis: id est, comissionem peccati fontem gratiae non attin 
+          <lb ed="#B1" n="51"/>gat, damnum perpetuae mortis incurrit. Fons autem gratiae de quo putei aquarum 
+          <lb ed="#B1" n="52"/>uiuentium emanant est CHRISTVS. In cuius corpore multa uulnera, quasi multi  
+          <lb ed="#B1" n="53"/>putei extiterunt. Eccles. 50. In diebus ipsius emanauerunt putei multi aquarum, 
+          <!--sap_Page_378.xml-->
+          <pb ed="#B1" n="344"/>
+          <lb ed="#B1" n="1"/>&amp; quasi mare adimpleti sunt supramodum. De istis fontibus dicitur Esa.12. 
+          <lb ed="#B1" n="2"/>Haurietis aquas in gaudio de fonte Saluatoris. Secundo est in fonte ema 
+          <lb ed="#B1" n="3"/>nante suauitas saporosa. Dulcior enim aqua est in fonte quam in riuulo. Et  
+          <lb ed="#B1" n="4"/>isto modo delectabilior dulcedo est in CHRISTO, quam in creatura qua 
+          <lb ed="#B1" n="5"/>cunque. Dulcedo enim fontis est secundum conditiones terrae, de qua ema 
+          <lb ed="#B1" n="6"/>nat: sicut dicit Aristoteles libro de Sensu &amp; sensato. Et ideo aqua currens per 
+          <lb ed="#B1" n="7"/>terram amaram &amp; sulphuream, &amp; sic emanans est amara naturaliter. Sed aqua 
+          <lb ed="#B1" n="8"/>emanans de terra pura &amp; sabulosa fit dulcis &amp; clara. CHRISTVS autem fons 
+          <lb ed="#B1" n="9"/>sapientiae manauit de terra humili virgine, uidelicet gloriosa. In qua nihil au 
+          <lb ed="#B1" n="10"/>steritatis, nihil amaritudinis, nihil lutosae foeditatis erat. Vnde nihil amari 
+          <lb ed="#B1" n="11"/>tudinis in fonte qui CHRISTVS dicitur inueniri potest. Iacobi 3. Nunquid  
+          <lb ed="#B1" n="12"/>fons de eodem foramine emanat dulcem &amp; amaram aquam. Et tamen ipse 
+          <lb ed="#B1" n="13"/>de ingratis hominibus, qui diuina delectatione contempta, in terrenis uolu 
+          <lb ed="#B1" n="14"/>ptatibus immerguntur, grauiter conquirit Hieron. 2. Foderunt sibi desipatas 
+          <lb ed="#B1" n="15"/>cisternas, quae continere non ualent aquas.
+        </p>
+        <p xml:id="rhwis-l101-d1e352">
+          <lb ed="#B1" n="16"/>Tertio in fonte iugiter emanente inuenitur communitas copiosa. Est enim 
+          <lb ed="#B1" n="17"/>fons omnibus communis, pauperibus &amp; diuitibus, hominibus &amp; iumentis 
+          <lb ed="#B1" n="18"/>lsto modo CHRISTVS iustis &amp; peccatoribus omnibus clemens inuenitur  
+          <lb ed="#B1" n="19"/>&amp; propitius, Genesis 2. Fons ascendebat de terra irrigans uniuersam super 
+          <lb ed="#B1" n="20"/>ficiem terrae.
+        </p>
+        <p xml:id="rhwis-l101-d1e365">
+          <lb ed="#B1" n="21"/>Dubitatio literalis esse potest. An DEVS sit in qualibet creatura adoran  
+          <lb ed="#B1" n="22"/>dus. Et uidetur quod non. Quia si sic, tunc cum in aliqua creatura sit adoran  
+          <lb ed="#B1" n="23"/>dus DEVS, pari ratione in alia: quia in qualibet est essentialiter. Quod au 
+          <lb ed="#B1" n="24"/>tem sit adorandus in aliqua creatura, patet Exodi 3. Quia Moyses adorauit  
+          <lb ed="#B1" n="25"/>DEVM in rubo. Et in Genes. habemus quod Abraham adorauit DEVM 
+          <lb ed="#B1" n="26"/>in angelo. Praeterea Christianus adorat DEVM in crucifixo, uel in imagi 
+          <lb ed="#B1" n="27"/>ne intendens precise adorare DEVM, &amp; sic non peccat: ergo cum DEVS 
+          <lb ed="#B1" n="28"/>sit essentialiter in lapide intendit adorare, non peccat eadem ratione.
+        </p>
+        <p xml:id="rhwis-l101-d1e386">
+          Prae 
+          <lb ed="#B1" n="29"/>terea quod est maioris potentiae DEO magis est attribuendum, sed maioris  
+          <lb ed="#B1" n="30"/>potentiae uidetur conseruare rem per absentiam suam, quam per praesentiam: 
+          <lb ed="#B1" n="31"/>sicut ex nobilitate regiae maiestatis est, quod ubique regat in regno, licet ubi  
+          <lb ed="#B1" n="32"/>que personaliter non existat. Contra, quidam effectus dependet ex suis cau 
+          <lb ed="#B1" n="33"/>sis, quod sine earum praesentia non existunt, propter uehementiam causali  
+          <lb ed="#B1" n="34"/>tatis, &amp; dependent iam effectus: sicut patet de radio &amp; sole: sed omnes res sum 
+          <lb ed="#B1" n="35"/>me a DEO dependent, &amp; DEVS est causa intima omnis rei: ergo est omni 
+          <lb ed="#B1" n="36"/>rei essentialiter praesens. Ad quaestionem dicit Chrysostomus: Quod DEVS 
+          <lb ed="#B1" n="37"/>est ubique, scimus: sed quomodo sit ubique, intellectu non capimus.
+        </p>
+        <p xml:id="rhwis-l101-d1e408">
+          Ad pri 
+          <lb ed="#B1" n="38"/>mum dicendum, quod DEUS non est adorandus in quolibet suo signo, sed  
+          <lb ed="#B1" n="39"/>tantum in proprio, quod est aliqua res ad hoc ordinata, ut in ea DEVS ho 
+          <lb ed="#B1" n="40"/>noretur, sicut fuit rubus ardens sine combustione, &amp; angelus apparens Abra 
+          <lb ed="#B1" n="41"/>hae.
+        </p>
+        <p xml:id="rhwis-l101-d1e419">
+          Ad secundum non sunt docendi simplices, ut sic in lapidibus &amp; lignis 
+          <lb ed="#B1" n="42"/>DEVM adorent propter similitudinem ad idololatriam. Quamuis possit ho 
+          <lb ed="#B1" n="43"/>mo adorare DEVM, sub pia intentione, in quacunque re sine peccato: quia 
+          <lb ed="#B1" n="44"/>tamen habere posset speciem mali, melius est a talibus adorationibus abstine 
+          <lb ed="#B1" n="45"/>re.
+        </p>
+        <p xml:id="rhwis-l101-d1e430">
+          Ad tertium dicendum quod maioris potentiae est regere per praesentiam 
+          <lb ed="#B1" n="46"/>quam absentiam uniuersa. Vnde ille qui potest esse absens indiget mo 
+          <lb ed="#B1" n="47"/>ueri &amp; transferre se frequenter: Motus autem est actus imper 
+          <lb ed="#B1" n="48"/>fecti, nec potest aliquis perfecte regere ab  
+          <lb ed="#B1" n="49"/>sens sicut praesens
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

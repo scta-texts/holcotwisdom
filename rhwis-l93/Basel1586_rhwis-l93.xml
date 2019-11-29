@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 93 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 93 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="313"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l93">
+        <p xml:id="rhwis-l93-d1e95">
+          <lb ed="#B1" n="36"/>OSTQVAM Salom. declarauit sapientiam esse praeponendam  
+          <lb ed="#B1" n="37"/>bonis exterioribus, puta potentijs, diuitijs, &amp; honoribus: Hic osten 
+          <lb ed="#B1" n="38"/>dit sapientiam esse praeponendam bonis corporibus, tam exterioribus 
+          <lb ed="#B1" n="39"/>quam interioribus. Et circa haec tria facit. Nam primo ostendit quod  
+          <lb ed="#B1" n="40"/>sapientia perponderat omni corporali prosperitate: Secundo eam assimilat cui  
+          <lb ed="#B1" n="41"/>dam spirituali qualitati: Tertio declarat causam exempli dati: secunda pars ibi:  
+          <lb ed="#B1" n="42"/>Et proposut pro luce: Tertia ibi: Quoniam inextinguibile. Circa primum est ad 
+          <lb ed="#B1" n="43"/>vertendum, quod duo bona sunt ad corpus pertinentia, quae amplius apprecian 
+          <lb ed="#B1" n="44"/>tur mundani, uidelicet, assistentia sanitatis, &amp; apparentia speciositatis. Haec enim 
+          <lb ed="#B1" n="45"/>maxime affectat homo habere, quantum ad bona corporalia: uidelicet corpus 
+          <lb ed="#B1" n="46"/>suum sanum, &amp; pulchrum: sed secundum sententiam Spiritus sancti quam  
+          <!--sap_Page_348.xml-->
+          <pb ed="#B1" n="314"/>
+          <lb ed="#B1" n="1"/>nobis per Salomonem proponit utrique istorum praeponenda est sapientia: id 
+          <lb ed="#B1" n="2"/>est, conuersatio bonae uitae, uel deuotus DEI cultus. Vnde dicit sic: Super salu 
+          <lb ed="#B1" n="3"/>tem. Quantum ad primum, &amp; speciem. Quantum ad secundum: Dilexi eam: id  
+          <lb ed="#B1" n="4"/>est, sapientiam. Ratio primi est: quia sapientia est salus animae.
+        </p>
+        <p xml:id="rhwis-l93-d1e134">
+          <lb ed="#B1" n="5"/>Et ideo quantum praeponderat anima corpori, tantum praeualet sapientia cor 
+          <lb ed="#B1" n="6"/>poris sanitati. Eccl. 30. Salus animae in sanctitate iusticiae. Ratio secundi est: quia 
+          <lb ed="#B1" n="7"/>pulchritudo corporis est multum uana, Proverb. 31. Fallax gratia, &amp; uana est 
+          <lb ed="#B1" n="8"/>pulchritudo. Cum ergo salus animae magis sit diligenda, quam salus corporis,  
+          <lb ed="#B1" n="9"/>&amp; salus corporis plus quam forma corporis, patet quod super utranque est sapientia 
+          <lb ed="#B1" n="10"/>diligenda. Notandum est que sanitas corporis non est nimis diligenda, nec cor 
+          <lb ed="#B1" n="11"/>poralis infirmitas nimis detestanda, imo quando a DEO immittitur cum gra 
+          <lb ed="#B1" n="12"/>tiarum actionibus acceptanda: quia ualde cedit in bonum infirmitas corpo 
+          <lb ed="#B1" n="13"/>ris, si tamen assit patientia mentis. Primo, est enim ut antiquis exemplis utar,  
+          <lb ed="#B1" n="14"/>infirmitas corporalis quasi arcae preciosae concatenatio, personae scelerosae  
+          <lb ed="#B1" n="15"/>incarceratio, socii fugientis arrestatio, &amp; hostis resistentis expugnatio: Primo 
+          <lb ed="#B1" n="16"/>enim dico que infirmitas corporalis est quasi arcae preciosae concatenatio, quan  
+          <lb ed="#B1" n="17"/>to enim cista uel arca fortioribus cathenis est colligata, &amp; quanto pluribus se 
+          <lb ed="#B1" n="18"/>ris ferreis est clausa, tanto est aptior ad seruandum thesaurum, &amp; quod intrin 
+          <lb ed="#B1" n="19"/>secus est reconditum: Sic quando corpus hominis est infirmum, ligatur si 
+          <lb ed="#B1" n="20"/>cut solet dici uulgariter uinculis ipsius DEI, &amp; seratur sera, quam solus DEVS 
+          <lb ed="#B1" n="21"/>aperit, &amp; tunc est tale corpus aptum ad seruandum thesaurum preciosum ipsius 
+          <lb ed="#B1" n="22"/>animae, quae est ipsum nobilissimum iocale DEI: unde Bern. Thesaurum seruan 
+          <lb ed="#B1" n="23"/>dum accepi pro quo mercator non insipiens sanguinem suum dedit: Vincula erge 
+          <lb ed="#B1" n="24"/>infirmitatis sunt gratanter sustinenda, quando nobis DEVS ea mittit. Eccl. 6. Subij 
+          <lb ed="#B1" n="25"/>ce humerum tuum, &amp; porta illam, &amp; ne accideris in uinculis illius. Et infra: Decor 
+          <lb ed="#B1" n="26"/>uitae est in illa, &amp; uincula illius alligatura salutaris. Hoc est quod signanter di 
+          <lb ed="#B1" n="27"/>cit Apostolus 2. Cor.12. Libenter gloriabor in infirmitatibus meis, ut inhabi 
+          <lb ed="#B1" n="28"/>tet in me uirtus CHRISTI, quasi dicat: Quando sum uinctus in infirmitati 
+          <lb ed="#B1" n="29"/>bus, tunc sum fortis, sicut cista apta &amp; idonea, ut inhabitet in me uirtus CHRI 
+          <lb ed="#B1" n="30"/>STI: quia quando infirmior tunc fortior sum &amp; potens. Secundo infirmitas corpo  
+          <lb ed="#B1" n="31"/>ralis est moraliter quasi personae scelerosae incarceratio. Quando unus fur uel 
+          <lb ed="#B1" n="32"/>praedo capitur, qui multos socios habuit, &amp; multorum malorum conscius, uincu 
+          <lb ed="#B1" n="33"/>latur, &amp; magnis tormentis affligitur, donec dicat &amp; confiteat ueritatem, &amp; focios 
+          <lb ed="#B1" n="34"/>suos in crimine proclamet &amp; accuset. Caro enim moraliter est res multum crimi 
+          <lb ed="#B1" n="35"/>nosa. Socii sui sunt sensus corporis, &amp; frequenter spoliant animam uirtutibus. Istum 
+          <lb ed="#B1" n="36"/>furem DEVS capit, &amp; incarcerat, &amp; ponit ad quaestiones, &amp; tormenta, quando mit 
+          <lb ed="#B1" n="37"/>tit sibi fortes febres, uel guttam, uel paralysim, &amp; sic de alijs infirmitatibus Et causa 
+          <lb ed="#B1" n="38"/>est: quia alias non confiteretur ueritatem, nec socios in crimine proclamaret. Vnde 
+          <lb ed="#B1" n="39"/>uidemus comuniter que illi qui sunt sani uix in anno, uel in duobus confitentur 
+          <lb ed="#B1" n="40"/>annis, statim cum infirmantur mittunt pro confessoribus suis, &amp; faciunt accusationem 
+          <lb ed="#B1" n="41"/>suae confessionis coram tortore: in Psal. Cum occiderit eos, quaerebant eum, &amp; reuer 
+          <lb ed="#B1" n="42"/>tebantur, &amp; diluculo ueniebant ad DEVM. Et memorati sunt: quia Dominus 
+          <lb ed="#B1" n="43"/>adiutor est eorum, &amp; DEVS excelsus redemptor eorum est. Et in alio Psal. Multi  
+          <lb ed="#B1" n="44"/>plicatae sunt infirmitates eorum, postea accelerauerunt. Tertio infirmitas cor 
+          <lb ed="#B1" n="45"/>poralis est quasi socii fugientis arrestatio. Contingit quandoque quod multi so 
+          <lb ed="#B1" n="46"/>cij peregrinantur simul in itinere, faciunt expensas communes, &amp; uiuunt deli  
+          <lb ed="#B1" n="47"/>catae, symbolum conferentes, ut unusquisque pro rata sua soluat. Euenit ergo 
+          <lb ed="#B1" n="48"/>interdum quod unus eorum fugere nititur symbolo suo nondum soluto, &amp; in 
+          <lb ed="#B1" n="49"/>tendit asportare ratam suam, ut alij etiam soluent pro eo communiter. Talem  
+          <lb ed="#B1" n="50"/>deprehensum, iustum est arrestari, &amp; ad symboli sui solutionem compelli. Isto 
+          <lb ed="#B1" n="51"/>modo moraliter anima &amp; corpus peregrinantur simul in hac uita, 2. Corin 
+          <lb ed="#B1" n="52"/>thiorum 5. Quandiu sumus in hoc corpore peregrinantur, &amp; faciunt expen 
+          <lb ed="#B1" n="53"/>sas communes: quia nec anima sine corpore, nec corpus sine anima delecta 
+          <!--sap_Page_349.xml-->
+          <pb ed="#B1" n="315"/>
+          <lb ed="#B1" n="1"/>tur in peccando. Iustum est ergo quod sicut uterque in delectatione in peccan 
+          <lb ed="#B1" n="2"/>do participat. Sic uterque pro rata sua in poenitentia symbolum suae portionis exsol  
+          <lb ed="#B1" n="3"/>uat: Modo sic est, quo caro est sicut socius fugitiuus &amp; inconstans, &amp; nollet solue 
+          <lb ed="#B1" n="4"/>re quicquam, Iob 13. Fugit uelut umbra &amp; nunquam in eodem statu permanet.  
+          <lb ed="#B1" n="5"/>DEVS ergo qui iustus est &amp; iusticias diligit, facit eam arrestari per infirmitatem 
+          <lb ed="#B1" n="6"/>&amp; compellit eam soluere quantum iusticia exigit, uelit, nolit. Matth. 18. <quote xml:id="rhwis-l93-Qd1e259" source="http://scta.info/resource/mt18_30">Misit eum 
+            <lb ed="#B1" n="7"/>in carcerem, donec redderet uniuersum debitum</quote>. Exemplum huius habemus 
+          <lb ed="#B1" n="8"/>Esa. 36. de rege Excechia, qui cum peccasset contra Dominum in hoc, quod si 
+          <lb ed="#B1" n="9"/>bi non fecerat canticum, regratiatorium pro uictoria nobilissima, quam sibi DEVS 
+          <lb ed="#B1" n="10"/>fecerat, 4. Reg. 19. Quando angelus Domini percussit in una nocte in castris  
+          <lb ed="#B1" n="11"/>Sennacheribus regis Assyriorum 100000. Offensus ergo Dominus contra E 
+          <lb ed="#B1" n="12"/>xechiam, misit sibi infirmitatem grauissimam, de qua aegrotauit usque ad mor 
+          <lb ed="#B1" n="13"/>tem. Misit etiam ad eum Esaiam prophetam, qui sibi diceret: Dispone domui 
+          <lb ed="#B1" n="14"/>tuae, quia morieris tu, &amp; non uiues: &amp; fuit prophetia secundum comminatio  
+          <lb ed="#B1" n="15"/>nem, &amp; non secundum praescientiam. Et statim Excechias conuertit faciem snam  
+          <lb ed="#B1" n="16"/>ad parietem, &amp; orauit cum Iachrymis Dominum, &amp; fletu magno fleuit, &amp; sta 
+          <lb ed="#B1" n="17"/>tim egresso Esaia de palacio regio, antequam transiret mediam partem atrij,  
+          <lb ed="#B1" n="18"/>dicit Dominus ad Esaiam: Reuertere, &amp; dic Excechiae duci populi mei, haec di 
+          <lb ed="#B1" n="19"/>cit Dominus: Audiui orationem tuam, &amp; uidi lachrymas tuas, &amp; sanaui te, die ter 
+          <lb ed="#B1" n="20"/>tio ascendens in templum Domini, &amp; addam diebus tuis quindecim annos. 
+          <lb ed="#B1" n="21"/>Et tunc tertio die ascendit in templum, &amp; cantauit illud canticum: Ego dixi in 
+          <lb ed="#B1" n="22"/>dimidio dierum meorum uadam ad portas inferi, &amp;c. Ecce quomodo Excechias 
+          <lb ed="#B1" n="23"/>quia non soluerat DEO quod debuit, arrestatus fuit per infirmitatem, donec sol 
+          <lb ed="#B1" n="24"/>uisset perfecte. Antiqui enim patres pro uictorijs eis concessis diuinitus canti  
+          <lb ed="#B1" n="25"/>ca regratiatoria curiose solebat componere, sicut dicit magister in historijs, 4. 
+          <lb ed="#B1" n="26"/>lib. Reg. 4. Quarto infirmitas corporalis est hostis resistentis expugnatio. Ca  
+          <lb ed="#B1" n="27"/>ro enim concupiscit aduersus spiritum, spiritus autem aduersus carnem. Haec  
+          <lb ed="#B1" n="28"/>autem sibijnuicem contrariatur ad Gal. 5. Et ideo debilitas carnis est fortitudo 
+          <lb ed="#B1" n="29"/>spiritus, Eccl. 31. Infirmitas grauis sobriam facit animam. Vnde Bern. exponens 
+          <lb ed="#B1" n="30"/>illud Apostoli: Quando infirmior tunc fortior sum &amp; potens, dicit sic: Quid mi 
+          <lb ed="#B1" n="31"/>rum si hoste debilitato fortior efficiaris: nisi forte illam insanissimam dicam amican 
+          <lb ed="#B1" n="32"/>quae non cessat concupiscere aduersus spiritum admittas. Ex quibus omnibus satis 
+          <lb ed="#B1" n="33"/>patet quod sanitas corporis, non est nimis affectanda, nec infirmitas corporis ni 
+          <lb ed="#B1" n="34"/>mis detestanda, &amp; quod super salutem corporis sapientia est amanda, propter 
+          <lb ed="#B1" n="35"/>quod dicit merito Salo. super salutem dilexi eam. Secundo praeponit sapientiam 
+          <lb ed="#B1" n="36"/>pulchritudini. Super salutem (inquio &amp; speciem dilexi eam. Nec mirum. Species  
+          <lb ed="#B1" n="37"/>enim, siue corporis pulchritudo, est bonum defectiuum, bonum infectiuum, &amp; bo 
+          <lb ed="#B1" n="38"/>num deceptiuum. Primo dico que forma pulchritudo uel species est bonum defe 
+          <lb ed="#B1" n="39"/>ctiuum. Nam continue fugit, continue perditur &amp; diminuitur. Vnde Boët. 3. 
+          <lb ed="#B1" n="40"/>de Consola. prosa 8. Formae uero nitor rapidus est, &amp; uelox, &amp; uernalium flo 
+          <lb ed="#B1" n="41"/>rum mutabilitate fugatior. Et infra: Aestimate quantum uultis, nimio corporis  
+          <lb ed="#B1" n="42"/>bona dum sciatis, hoc quodcunque miramini triduanae febris igniculo posse  
+          <lb ed="#B1" n="43"/>dissolui. De hoc dicit Ouid. 2: de arte Amandi: 
+          <lb ed="#B1" n="44"/>Forma bonum fragile est, quantumque accedit ad annos: 
+          <lb ed="#B1" n="45"/>Fit minor, &amp; spacio carpitur ipsa suo 
+          <lb ed="#B1" n="46"/>Nec violae semper nec florent lilia semper, 
+          <lb ed="#B1" n="47"/>Et riget amissa spina relicta rosa. 
+          <lb ed="#B1" n="48"/>Et tibi iam venit cani formose capilli,  
+          <lb ed="#B1" n="49"/>lam venient ruge quae tibi corpus arent. 
+          <lb ed="#B1" n="50"/>Et ideo dat consequenter bonam doctrinam homini, qui uult se facere amabi 
+          <lb ed="#B1" n="51"/>lem, quod studeat animum suum colere per uirtutes &amp; scientias: quia illa est 
+          <lb ed="#B1" n="52"/>pulchritudo permanens usque ad mortem. Vnde subdit:  
+          <!--sap_Page_350.xml-->
+          <pb ed="#B1" n="316"/>
+          <lb ed="#B1" n="1"/>lam molire animum, qui duret, &amp; astrue formam. 
+          <lb ed="#B1" n="2"/>Solus ad extremos permanet ille rogos: 
+          <lb ed="#B1" n="3"/>Nec lcuis inoenuas pectus soluisse per artes. 
+          <lb ed="#B1" n="4"/>Cura sit, &amp; linguas edidicisse duas: uidelicet Graecam &amp; Latinam. 
+          <lb ed="#B1" n="5"/>Et eiusdem lib. 3. dicit sic:  
+          <lb ed="#B1" n="6"/>Quam cito, me miserum, laxantur corpora rugis. 
+          <lb ed="#B1" n="7"/>Et perit in nitido qui fuit ore color. 
+          <lb ed="#B1" n="8"/>Est ergo species hominum bonum defectiuum. Vnde Eccl. 11. Ne laudes ho 
+          <lb ed="#B1" n="9"/>minem in specie sua, nec spernes hominem in uisu suo. Secundo est bonum in 
+          <lb ed="#B1" n="10"/>fectiuum. Raro enim coniungitur pudicitia &amp; pulchritudo. Vnde auctor libri 
+          <lb ed="#B1" n="11"/>de uarietate carminum ad Iohan. de Normis. Secundo dicit sic: Tria sunt semi 
+          <lb ed="#B1" n="12"/>num genera, quae in culto iuuentutis agro absque comitantibus zixanijs raris  
+          <lb ed="#B1" n="13"/>sime conualescunt: Elegantia pulchritudinis, uigor pulchritudinis, &amp; suaui  
+          <lb ed="#B1" n="14"/>tas uocis. Pulchritudo enim iuuenem alienae praedam libidinis aut praedo  
+          <lb ed="#B1" n="15"/>nem efficit castitatis. Fortitudo audaciam ingerit, audacia uero ad iniurias com 
+          <lb ed="#B1" n="16"/>mittendas impellit. At uero qui uocis amoenitate proerffinent, lasciuia mo 
+          <lb ed="#B1" n="17"/>destis, Iudicra proficuis, &amp; iocosa serijs anteponunt. Vnde Helmandus, sicut  
+          <lb ed="#B1" n="18"/>narrat Vincentius libro 4. capite 109. Difficile inuenitur aliquis leuis uocis  
+          <lb ed="#B1" n="19"/>&amp; grauis uitae, cum quippe uocis leuitas cantum, uitae grauitas planctum de 
+          <lb ed="#B1" n="20"/>sideret. Et subdit: Et uidi infinitos tam uiros, quam mulieres seu seminas tan 
+          <lb ed="#B1" n="21"/>to uitae peiores quanto uocis meliores. Haec ille. Est ergo pulchritudo siue 
+          <lb ed="#B1" n="22"/>species bonum quoddam corporis quod nonnullis est occasio magni mali &amp; 
+          <lb ed="#B1" n="23"/>ideo signanter dicitur Ecclesiast. 9. Auerte faciem tuam a muliere compta, 
+          <lb ed="#B1" n="24"/>&amp; ne circumspicias speciem alienam: propter speciem mulierum multi perie 
+          <lb ed="#B1" n="25"/>runt. Et ex hac concupiscentia quasi ignis exardescet. Tertio species corpo  
+          <lb ed="#B1" n="26"/>ralis est bonum deceptiuum. Erigit enim hominem in superbiam aliquotiens, 
+          <lb ed="#B1" n="27"/>&amp; sic propter formam carnis perdit gratiam mentis. In cuius figuram legi 
+          <lb ed="#B1" n="28"/>mus, Matthaei 14. Quod Herodes in conuiuio suo celebrans diem natalis  
+          <lb ed="#B1" n="29"/>sui, iussit occidi lohannem Baptistam. Herodes interpretatur glorians in pel  
+          <lb ed="#B1" n="30"/>libus, &amp; signat de specie corporis gloriantes, quae tota est in pesse siue in super 
+          <lb ed="#B1" n="31"/>ficie, &amp; non in profundo. Vnde Boëtius 3 de Consolatione, prosa 8. Si lyn 
+          <lb ed="#B1" n="32"/>ceis (inquit) oculis homines uterentur, ut eorum uisus quaeqe obstantia pe 
+          <lb ed="#B1" n="33"/>netraret, nonne introspectis uisceribus illud Alcibiadis superficie pulcherri 
+          <lb ed="#B1" n="34"/>mum corpus, turpissimum uideretur. Igitur te pulchrum uideri non tua na 
+          <lb ed="#B1" n="35"/>tura, sed oculorum spectantium reddit infirmitas. Homo ergo glorians in pel 
+          <lb ed="#B1" n="36"/>lis suae pulchritudines, celebrat suum diem natalem, dum inaniter gloriatur  
+          <lb ed="#B1" n="37"/>de bono tam uano, quod non operando, sed nascendo recepit. Et iste statim 
+          <lb ed="#B1" n="38"/>occidit lohannem: id est, gratiam propter uanam gloriam deceptus. Daniel  
+          <lb ed="#B1" n="39"/>13. Species decepit te
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

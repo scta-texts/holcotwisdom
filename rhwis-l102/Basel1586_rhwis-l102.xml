@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 102 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 102 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="345"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l102">
+        <p xml:id="rhwis-l102-d1e95">
+          <!--sap_Page_379.xml-->
+          <pb ed="#B1" n="345"/>
+          <lb ed="#B1" n="1"/>DESCRIBTA sapientia secundum duas similitudines meta 
+          <lb ed="#B1" n="2"/>phoricas, exequitur in hac litera eam describendo secundum tres 
+          <lb ed="#B1" n="3"/>alias figuras. Habet enim sapientia, quae est donum DEI, pul  
+          <lb ed="#B1" n="4"/>chritudinem uenustatis, magnitudinem puritatis, &amp; similitudi  
+          <lb ed="#B1" n="5"/>nem deitatis. Quantum ad primum dicit sic, quod est candor luci 
+          <lb ed="#B1" n="6"/>aternae. Lux aeterna est ueritas necessariorum, quae candorem recepit cum de 
+          <lb ed="#B1" n="7"/>monstrationis euidentia inducit. Vel potest dici, ueritas manifestissima fidei,  
+          <lb ed="#B1" n="8"/>inquantum ad ea quae fide tenentur. Ab isto autem candore doctores in Ec 
+          <lb ed="#B1" n="9"/>clesia candidi nominantur. Gen. 40. Pulchriores sunt oculi eius uino, &amp; den 
+          <lb ed="#B1" n="10"/>tes eius lacte candidiores.
+        </p>
+        <p xml:id="rhwis-l102-d1e124">
+          <lb ed="#B1" n="11"/>Doctores enim &amp; praelati, quorum est alios informare, dicuntur dentes  
+          <lb ed="#B1" n="12"/>Ecclesiae: quia sicut officium dentium est cibum frangere, diuidere, conterere,  
+          <lb ed="#B1" n="13"/>&amp; masticare: ita officium praelatorum &amp; doctorum est Sacram scripturam fran 
+          <lb ed="#B1" n="14"/>gere, &amp; diuidere secundum quod subditorum necessitas exigit. Can. 4. dicit 
+          <lb ed="#B1" n="15"/>sponsus Ecclesiae: Dentes tui sicut greges tonsarum, quae ascenderunt de la 
+          <lb ed="#B1" n="16"/>uacro, gloss. Dentes qui peccata rodunt, scripturas atterunt, sunt fortiores, &amp; 
+          <lb ed="#B1" n="17"/>ad regendum apti, scilicet Ecclesiam, qui in infirmitate praeualent. Et dicun 
+          <lb ed="#B1" n="18"/>tur isti dentes sicut greges quium propter innocentiam: tonsarum propter uo 
+          <lb ed="#B1" n="19"/>luntariam paupertatem, per quam ab eis omnia superflua, &amp; quandoque ne 
+          <lb ed="#B1" n="20"/>cessaria afferuntur: quae ascenderunt de lauacro: quia a baptismali regenera 
+          <lb ed="#B1" n="21"/>tione continuem proficiunt ascendentes de uirtute in uirtutem. Et isti dentes sunt  
+          <lb ed="#B1" n="22"/>lacte candidiores propter sapientiae uenustatem. Dicit Aristoteles ista tria de 
+          <lb ed="#B1" n="23"/>dentibus: unum est, quod dentes qui sunt stupidi, curantur cum sale: quia sal 
+          <lb ed="#B1" n="24"/>aufert stuporem a dentibus. Et hoc dicit Aristot. particula 1. problem. 37. Se 
+          <lb ed="#B1" n="25"/>cundum est quod habentes raros &amp; distantes dentes non sunt ita longaeui si 
+          <lb ed="#B1" n="26"/>cut illi qui habent densos &amp; fortes. Et hoc dicit particula 6. problem. 1. Tertium 
+          <lb ed="#B1" n="27"/>quod dentes sunt duriores &amp; fortiores quam carnes: &amp; tamen magis patiuntur  
+          <lb ed="#B1" n="28"/>a frigiditate quam carnes: sed a calido plus laeditur caro quam dens. Cuius 
+          <lb ed="#B1" n="29"/>causa est secundum eum: quia dentes habent multos poros &amp; minutos, &amp; hoc 
+          <lb ed="#B1" n="30"/>denotat albedo eorum. In istis uero minutis poris est modicum de calido. Sunt  
+          <lb ed="#B1" n="31"/>enim dentes frigidiores quam ossa, &amp; ideo frigidum adueniens cito alterat  
+          <lb ed="#B1" n="32"/>&amp; laedit dentes. Caro autem habet poros latos in quibus plus continetur de 
+          <lb ed="#B1" n="33"/>calido: &amp; ideo minus patitur de frigido. Sed calido plus laeditur caro quam 
+          <lb ed="#B1" n="34"/>dens. Calida nanque celeriter percipiunt calidum, &amp; laeduntur inde: ita quod ef 
+          <lb ed="#B1" n="35"/>ficitur uelut ignis in igne. Moraliter sic dictum est. Doctores &amp; praelati in Eccle 
+          <lb ed="#B1" n="36"/>sia sunt sicut dentes candidi in corpore CHRISTO mystico. lnferiores uero 
+          <lb ed="#B1" n="37"/>delicatiores sunt sicut caro. Contingit autem aliquando quod isti dentes pati  
+          <lb ed="#B1" n="38"/>untur stuporem: sicut euenit quum homo comedit fructus acerbos &amp; imma 
+          <lb ed="#B1" n="39"/>turos, tunc enim non possunt statim postea masticare sine laesione cibos alios.  
+          <lb ed="#B1" n="40"/>Quando ergo sic est, quie illi qui doctores esse deberent in Ecclesia, occupant  
+          <lb ed="#B1" n="41"/>suum ingenium circa scientias seculares, &amp; circa prudentiam dispensandi mun 
+          <lb ed="#B1" n="42"/>dana, isti contrahiunt stuporem, &amp; siunt inepti ad digerendum cibum doctrinae fidei 
+          <lb ed="#B1" n="43"/>ad usum subditorum. De talibus dicitur Amos 4. Dedi uobis stuporem dentium in 
+          <lb ed="#B1" n="44"/>cunctis urbibus uestris, ad indigentiam panum in omnibus locis uestris. Istum tamen 
+          <lb ed="#B1" n="45"/>stuporem auferre possunt faciliter per sal. i. per studium Sacrae scripturae, ad Col. 4.: 
+          <!--sap_Page_380.xml-->
+          <pb ed="#B1" n="346"/>
+          <lb ed="#B1" n="1"/>Sermo uester semper in gratia sit sale conditus. Secundo illae Ecclesiae in Chri 
+          <lb ed="#B1" n="2"/>stianitate quae habent raros dentes: id est, paucos doctores &amp; praelatos instru 
+          <lb ed="#B1" n="3"/>ctos, non sunt ita longaeuae: id est, ita perseuerantes in uita gratiae sicut sunt il  
+          <lb ed="#B1" n="4"/>la loca ubi abundant doctores morigerati, sancti &amp; instructi. Tertio tamen 
+          <lb ed="#B1" n="5"/>isti dentes magis patiuntur a frigido quam calido: &amp; carnales siue mundani 
+          <lb ed="#B1" n="6"/>magis patiuntur a calido. Frigidum &amp; calidum sunt aduersitas &amp; prosperi 
+          <lb ed="#B1" n="7"/>tas. Boni autem &amp; perfecti magis laeduntur aduersitatibus quam imperfecti, 
+          <lb ed="#B1" n="8"/>&amp; imperfecti magis laeduntur &amp; falluntur peccando in prosperitatibus. Quia 
+          <lb ed="#B1" n="9"/>Proverbiorum 1. Prosperitas stultorum perdet illos. Dicit ergo Spiritus san 
+          <lb ed="#B1" n="10"/>ctus quod sapientia contenta in Scriptura sacra est candor lucis aeternae: id  
+          <lb ed="#B1" n="11"/>est, ueritatis increatae quae est DEVS, 1. lohannis 1. DEVS Iux est, &amp; in 
+          <lb ed="#B1" n="12"/>eo tenebrae non sunt uulae. Secundo est speculum sine macula DEI maiesta 
+          <lb ed="#B1" n="13"/>tis. In Scriptura enim sacra DEI maiestas per fidem inspicitur, quasi in 
+          <lb ed="#B1" n="14"/>quodam speculo mundissimo, in quo nulla est macula falsitatis, primae Co 
+          <lb ed="#B1" n="15"/>rinthiorum decimotertio: Videmus nunc per speculum in aenigmate. Vnde 
+          <lb ed="#B1" n="16"/>tota cognitio quam de DEO habemus in praesenti est specularis: in qua co  
+          <lb ed="#B1" n="17"/>gnitione obiectum repraesentatur, non per se, sed per suam similitudinem, &amp; 
+          <lb ed="#B1" n="18"/>non per lineam rectam, sed per lineam reflexam: sed in futuro uidebimus 
+          <lb ed="#B1" n="19"/>DEVM sicuti est, non per creaturas, sed immediate quasi per lineam rectam. 
+          <lb ed="#B1" n="20"/>Non solum autem in speculo sapientiae, quae est Sacra scriptura, uidemus DEVM: 
+          <lb ed="#B1" n="21"/>sed etiam mores nostros, quales esse deberemus si secundum legem DEI 
+          <lb ed="#B1" n="22"/>uiueremus. Vnde Hieronymus in epistola ad Demetriadem uirginem: Vtere 
+          <lb ed="#B1" n="23"/>(inquit) lectione diuina uice speculi: foeda corripiendo, pulchra conseruan 
+          <lb ed="#B1" n="24"/>do, &amp; pulchriora faciendo. Scriptura enim speculum est, foeda ostendens, 
+          <lb ed="#B1" n="25"/>&amp; corrigenda docens. Similiter dicit beatus Gregorius secundo Moralium, 
+          <lb ed="#B1" n="26"/>capite primo: Sacra (inquit) Scriptura quasi speculum, quod oculis mentis  
+          <lb ed="#B1" n="27"/>opponitur, ut interna nostra facies in ipsa uideatur. Ibi enim foeda, ibi pul  
+          <lb ed="#B1" n="28"/>chra nostra cognoscimus: ibi sentimus quantum proficimus, quantumue a 
+          <lb ed="#B1" n="29"/>profectu longe distamus. Et sicut ille qui habet in facie maculam manifestam  
+          <lb ed="#B1" n="30"/>abhorret se uidere in speculo: ita moraliter uitiosi in uita abhorrent se reprae 
+          <lb ed="#B1" n="31"/>sentare, ubi Sacra scriptura quantum ad bonos mores in uerbo DEI mani 
+          <lb ed="#B1" n="32"/>feste proponitur. Et tales sunt quibus nullum speculum bene placet. Sicut  
+          <lb ed="#B1" n="33"/>narratur de quadam turpi &amp; deformi domicella. Ista autem habuit tortam fa 
+          <lb ed="#B1" n="34"/>ciem &amp; oblongam, &amp; quotiens respexit speculum doluit &amp; offendebatur: de 
+          <lb ed="#B1" n="35"/>formitatem tamen suam semper imputabat speculo, unde plura specula fre 
+          <lb ed="#B1" n="36"/>git quam omnes mulieres de patria. Ita est in Ecclesia de hominibus uitio 
+          <lb ed="#B1" n="37"/>sis, nec uitam suam uolentibus emendare: Nullus sermo bonus eis placet,  
+          <lb ed="#B1" n="38"/>contra quemlibet bene praedicantem offenduntur: quia semper perpendunt  
+          <lb ed="#B1" n="39"/>in isto speculo uitam suam esse distortam &amp; turpem, nec tamen se corrigunt  
+          <lb ed="#B1" n="40"/>per poenitentiam: sed quantumcunque bene audierint se descriptos, statim 
+          <lb ed="#B1" n="41"/>propter ueterem consuetudinem obliuiscuntur quales in speculo describun 
+          <lb ed="#B1" n="42"/>tur. Et de talibus dicitur Iacobi primo: Si quis auditor est uerbi &amp; non fa 
+          <lb ed="#B1" n="43"/>ctor, hic comparabitur uiro consideranti uultum natiuitatis suae in speculo:  
+          <lb ed="#B1" n="44"/>considerauit enim se &amp; abijt, &amp; statim oblitus est qualis fuerit. Et ideo benem 
+          <lb ed="#B1" n="45"/>praemittit. Estote factores uerbi DEI, &amp; non auditores tantum fallentes 
+          <lb ed="#B1" n="46"/>uosmetipsos. Legimus enim Exodi 38. Quod Moyses fecit de mandato  
+          <lb ed="#B1" n="47"/>Domini quendam luterem: id est, quoddam lauatorium quod ponebatur in 
+          <lb ed="#B1" n="48"/>ter tabernaculum &amp; altare, in cuius margine superiori erant specula, &amp; inte 
+          <lb ed="#B1" n="49"/>rius continebatur aqua, ut sacerdotes antequam ad altare accederent inspice 
+          <lb ed="#B1" n="50"/>re possent, si aliquam maculam abluendam haberent: sicut dicit Magister in 
+          <lb ed="#B1" n="51"/>historijs, &amp; eam abluendo delerent antequam accederent ad altare. Isto mo 
+          <lb ed="#B1" n="52"/>do moraliter in Sacra scriptura est interius aqua gratiae, &amp; deuotionis: &amp; ex  
+          <lb ed="#B1" n="53"/>terius in uerbo doctrinae sunt specula informationis sincerae, ut omnis homo 
+          <!--sap_Page_381.xml-->
+          <pb ed="#B1" n="347"/>
+          <lb ed="#B1" n="1"/>semetipsum posset inspicere, &amp; quod defectiuum fuerit emendare. Quoniam 
+          <lb ed="#B1" n="2"/>hoc est speculum sine macula maiestatis DEI. Tertio sapientia quae in Scriptu 
+          <lb ed="#B1" n="3"/>ta sacra continetur imago bonitatis DEI dicitur. Sicut enim per imaginem co  
+          <lb ed="#B1" n="4"/>gnoscitur id cuius est imago: ita per eam quae per Scripturam docentur, &amp; diui  
+          <lb ed="#B1" n="5"/>na beneficia nobis exhibita &amp; promissa uidentur. Aliter potest litera hodier 
+          <lb ed="#B1" n="6"/>nae lectionis exponi de CHRISTO, qui est sapientia increata. Ipse enim fuit  
+          <lb ed="#B1" n="7"/>candor lucis, honestissime uiuendo: speculum sine macula, rectissime do 
+          <lb ed="#B1" n="8"/>cendo: &amp; imago bonitatis, benignissime redimendo. Fuit enim candor lucis  
+          <lb ed="#B1" n="9"/>per corporis puritatem: Speculum sine macula per mentis claritatem: &amp; ima 
+          <lb ed="#B1" n="10"/>go bonitatis per diuinam personalitatem. Vnde Augustinus de Trinitate li  
+          <lb ed="#B1" n="11"/>bro duodecimo, capite 6. dicit, quod homo dicitur ad imaginem DEI, se 
+          <lb ed="#B1" n="12"/>cundum illud Gen.1. Faciamus hominem ad imaginem &amp; similitudinem no 
+          <lb ed="#B1" n="13"/>stram. Sed Filius DEI sic dicitur imago Patris, &amp; non ad imaginem: quia na 
+          <lb ed="#B1" n="14"/>tus est, non creatus: similis &amp; aequalis, &amp; in nullo dissimilis. Homo autem 
+          <lb ed="#B1" n="15"/>est imago &amp; ad imaginem: quia non adaequatur paralitate, sed accepit simi 
+          <lb ed="#B1" n="16"/>litudinem: In qua tamen imagine plus difformitatis, quam conuenientiae de 
+          <lb ed="#B1" n="17"/>monstratur.
+        </p>
+        <p xml:id="rhwis-l102-d1e362">
+          <lb ed="#B1" n="18"/>Licet enim fimilitudo sit de ratione imaginis, non tamen aequalitas: sed tan 
+          <lb ed="#B1" n="19"/>tum de ratione perfectae imaginis est aequalitas. Sicut dicit idem Augustinus 
+          <lb ed="#B1" n="20"/>in libro 83. quaestion. q. 15. Istud speculum CHRISTVS uidelicet fuit speculum 
+          <lb ed="#B1" n="21"/>planum plane docendo: speculum concauum humiliter moriendo: speculum 
+          <lb ed="#B1" n="22"/>connexum potenter resurgendo. In illo speculo enim concauo apparet ima 
+          <lb ed="#B1" n="23"/>go reuersa ad superius &amp; inferius: &amp; dexterum &amp; sinistrum. Et ita fuit in CHRI 
+          <lb ed="#B1" n="24"/>STO moriente summus DEVS, a uilissimis ribaldis torquebantur, summe iu 
+          <lb ed="#B1" n="25"/>stus accusabatur, summus iudex plectebatur. Et sicut per speculum conca 
+          <lb ed="#B1" n="26"/>uum accenditur ignis: Ita per contemplationem istius speculi concaui sum 
+          <lb ed="#B1" n="27"/>me in nobis accenditur ignis deuotionis ad DEVM. Et sicut in speculo inte 
+          <lb ed="#B1" n="28"/>gro non apparet nisi una imago: si autem confringatur uel discontinuetur,  
+          <lb ed="#B1" n="29"/>quaelibet particula suam repraesentat imaginem: Ita fuit in CHRISTO, quam 
+          <lb ed="#B1" n="30"/>diu anima CHRISTI &amp; corpus coniuncta fuerunt adinuicem, &amp; CHRI 
+          <lb ed="#B1" n="31"/>STVS fuit homo uiuens, una tantum imago apparuit: uidelicet similitudo 
+          <lb ed="#B1" n="32"/>hominis: quia apud populum infidelem non uidebatur nisi homo purus &amp;  
+          <lb ed="#B1" n="33"/>non homo &amp; DEVS. Sed ubi facta est confractio istius speculi &amp; disconti 
+          <lb ed="#B1" n="34"/>nuatio siue diuisio corporis ab anima, licet diuinitas utrique esset coniuncta:  
+          <lb ed="#B1" n="35"/>statim mundo apparuerunt duae imagines duarum naturarum, uidelicet DEI 
+          <lb ed="#B1" n="36"/>&amp; hominis, &amp; semper imperpetuum apparebunt: Imago hominis apparuit  
+          <lb ed="#B1" n="37"/>in corpore uulnerato, crucifixo, conclauato, sepulto &amp; consignato. Sed ima 
+          <lb ed="#B1" n="38"/>go DEI apparuit in sole eclipsato, terraemotu monstrato, uelo lacerato, ru 
+          <lb ed="#B1" n="39"/>ptione, &amp; mortuorum resuscitatione, ut merito fateretur Centurio: Vere Fi 
+          <lb ed="#B1" n="40"/>sius DEI erat homo iste, Matth. 27. Hic ergo CHRISTVS dicitur speculum 
+          <lb ed="#B1" n="41"/>sine macula, ad differentiam hominum, qui specula quaedam dici possunt, sed  
+          <lb ed="#B1" n="42"/>non sine macula, propter fomitem concupiscentiae repugnantem spiritui conti  
+          <lb ed="#B1" n="43"/>nue dum uiuit in carne, Iob 15. Quid est homo ut in maculatus sit, &amp; ut iustus 
+          <lb ed="#B1" n="44"/>appareat natus de muliere. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

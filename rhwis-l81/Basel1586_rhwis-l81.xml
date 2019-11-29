@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 81 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 81 [Basel Transcription]</title>
+          <date when="2019-11-28">November 28, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-11-28" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="280"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l81">
+        <p xml:id="rhwis-l81-d1e95">
+          <lb ed="#B1" n="7"/>DECLARATA conclusione principali, uidelicet quod reges &amp; 
+          <lb ed="#B1" n="8"/>praesides tenentur studere sapientiae: Hic ostendit per quem mo 
+          <lb ed="#B1" n="9"/>dum hoc sit eis possibile. Posset enim aliquis se forsitan excusare,  
+          <lb ed="#B1" n="10"/>quod non posset istam sapientiam attingere, cum sapientia uidea 
+          <lb ed="#B1" n="11"/>tur esse possessio diuina non humana: sicut dicitur 1. Metaphysicorum. Sed 
+          <lb ed="#B1" n="12"/>hoc excludit Spiritus sanctus in hac parte ostendens, quod sapientia ista, quae 
+          <lb ed="#B1" n="13"/>est cognitio DEI per fidem &amp; amorem, non solum est unicuique possibilis, 
+          <lb ed="#B1" n="14"/>imo multum facilis: quae quidem facilitas patet ex tribus. Nam ipsa habe 
+          <lb ed="#B1" n="15"/>tur si diligatur, apparet si appetatur, &amp; tertio occurrit si inquiratur. Et secun 
+          <lb ed="#B1" n="16"/>dum hoc ista litera diuiditur in tres partes. Nam primo ostendit quod ista sa 
+          <lb ed="#B1" n="17"/>pientia quae est cultus DEI per cognitionem &amp; amorem habetur si diligatur.  
+          <lb ed="#B1" n="18"/>Secundo quod apparet si appetatur: Et tertio occurrit si inquiratur. Secunda 
+          <lb ed="#B1" n="19"/>pars ibi. Praeoccupat autem si qui se concupiscat. Et tertia lbi: Quoniam dignos se 
+          <lb ed="#B1" n="20"/>ipsa. Dicuntur ergo duo de sapientia in ista lectione. Primum quod ipsa habet  
+          <lb ed="#B1" n="21"/>aeternitatem in permanendo: aliud, quod habet facilitatem m occurrendo. Concu 
+          <lb ed="#B1" n="22"/>piscite ergo sermones meos. Concupiscentia nutrimenti, est sigrium sanitatis &amp;  
+          <lb ed="#B1" n="23"/>bonae dispositionis in corpore. Et per oppositum abominatio cibi &amp; potus, 
+          <lb ed="#B1" n="24"/>est signum manifestum grauis infirmitatis. Moraliter sermo DEI est cibus ani 
+          <lb ed="#B1" n="25"/>mae Christianae, Matthaei 4. <quote xml:id="rhwis-l81-Qd1e138" source="http://scta.info/resource/mt4_4">Non in solo pane uiuit homo, sed in omni uerbo 
+          <lb ed="#B1" n="26"/>quod procedit de ore DEI</quote>, dixit CHRISTVS ad Diabolum: Vnde Ambro 
+          <lb ed="#B1" n="27"/>sius in quodam sermone de quadragesima: Quisque uerbo DEI pascitur ter 
+          <lb ed="#B1" n="28"/>renum pabulum non requirit: nec enim potest panem seculi capere, qui pane 
+          <lb ed="#B1" n="29"/>reficitur Saluatoris: negligit panem uel famem corporis, qui pabulo lectio  
+          <lb ed="#B1" n="30"/>nis intendit: nec uentris curam habere poterit, qui alimenta uerbi coelestis ad 
+          <lb ed="#B1" n="31"/>quirit. Ipsa est enim refectio, quae saginat animam, quae impinguit uiscera, cum 
+          <lb ed="#B1" n="32"/>de diuinis Scripturis cibum eloqui perennis accipimus. Quando ergo sic est,  
+          <lb ed="#B1" n="33"/>quod persona quaecunque desiderat legere &amp; audire sermones DEI, &amp; cum 
+          <lb ed="#B1" n="34"/>delectatione sibi incorporat, signum est sanitatis conscientiae uel saltem bonae 
+          <lb ed="#B1" n="35"/>dispositionis ad sanitatem. Hieremiae 15. Inuenti sunt sermones tui, &amp; come 
+          <lb ed="#B1" n="36"/>di eos, &amp; factum est mihi uerbum tuum in gaudium, &amp; in laeticiam cordis mei 
+          <lb ed="#B1" n="37"/>Et per oppositum illi qui nullum saporem in diuinis Scripturis experiuntur:  
+          <lb ed="#B1" n="38"/>nec aliquam dulcedinem sentiunt, signum est quod stomachus eorum reple 
+          <lb ed="#B1" n="39"/>tus est amaris humoribus, &amp; grauiter infirmantur. In Psalm. Omnem escam  
+          <lb ed="#B1" n="40"/>abominata est anima eorum, &amp;c. concupiscite dicit CHRISTVS sermones meos &amp; 
+          <lb ed="#B1" n="41"/>diligite eos. Diligere illos, est seruare, Iohan.15. Si quis diligit me, sermonem 
+          <!--sap_Page_315.xml-->
+          <pb ed="#B1" n="281"/>
+          <lb ed="#B1" n="1"/>meum seruabit: quia secundum beatum Gregorium: Probatio dilectionis est 
+          <lb ed="#B1" n="2"/>exhibitio operis: Non enim sufficit sermones CHRISTI in memoria portare 
+          <lb ed="#B1" n="3"/>nisi seruentur in uita. Vnde Augustinus super illud Psal. In quo corrigit ado 
+          <lb ed="#B1" n="4"/>lescentior uiam suam, in custodiendo sermones tuos. Custoditio sermonum 
+          <lb ed="#B1" n="5"/>DEI intelligenda est operatio praeceptorum. Vnde frustra enim custodiun 
+          <lb ed="#B1" n="6"/>tur in memoria, si non custodiuntur in uita. Nam uerba DEI tenendo agunt  
+          <lb ed="#B1" n="7"/>ne obliuiscantur: non tamen agunt uiuendo, ut corrigantur. Et habebitis disci 
+          <lb ed="#B1" n="8"/>plinam. Quia secundum Gregorium: Obseruantia mandatorum aperit intel 
+          <lb ed="#B1" n="9"/>ligentiam oculorum, uel occultorum. Vnde qui diligunt sermones CHRISTI 
+          <lb ed="#B1" n="10"/>habebunt disciplinam.
+        </p>
+        <p xml:id="rhwis-l81-d1e202">
+          <lb ed="#B1" n="11"/>Quid autem sit disciplina, docet Hugo de S. Victore de disciplina noui 
+          <lb ed="#B1" n="12"/>tiorum dicens: Disciplina est conuersatio bona &amp; honesta, cui parum est ma 
+          <lb ed="#B1" n="13"/>la non facere, sed studet etiam in his quae bene agit per cuncta irreprehensibilis 
+          <lb ed="#B1" n="14"/>apparere. Disciplina est enim omnium membrorum motus ordinatus, &amp; dis 
+          <lb ed="#B1" n="15"/>posito decens in omni habitu &amp; actione. Haec Hugo. De eadem Bernhar 
+          <lb ed="#B1" n="16"/>dus in quadam epistola: O quam compositum reddit omnem corporis sta 
+          <lb ed="#B1" n="17"/>tum, nec non &amp; mentis habitum disciplina: ceruicem submittit, ponit super 
+          <lb ed="#B1" n="18"/>cilia, componit uultum, ligat oculos, cachinnos cohibet, moderatur lin 
+          <lb ed="#B1" n="19"/>guam, frenat gulam, sedat iram: huius disciplinae schola est studium sacrae 
+          <lb ed="#B1" n="20"/>Theologiae, ubi potius deuotionibus, quam quaestionibus intendendum 
+          <lb ed="#B1" n="21"/>est. Vnde Hugo in praeallegato libro. Vos (inquit) fratres qui scholam di 
+          <lb ed="#B1" n="22"/>sciplinae iam intrastis, in lectione diuina plus debetis quaerere, quod mores 
+          <lb ed="#B1" n="23"/>uestros ad uirtutem instruat, quam quod sensum acuat ad subtilitatem: ma 
+          <lb ed="#B1" n="24"/>gisque uelle informari praeceptis Scripturarum, quam quaestionibus impediri 
+          <lb ed="#B1" n="25"/>Cum ergo diuinas Scripturas legitis, solerter perpendite quid ibi dictum sit,  
+          <lb ed="#B1" n="26"/>ad excitandum in uobis amorem DEI: quid ad contemptum seculi, quid ad 
+          <lb ed="#B1" n="27"/>cauendum insidias inimici, quid ad bonos affectus nutriendos, &amp; quid ad 
+          <lb ed="#B1" n="28"/>praua desideria extinguenda ualeat, &amp; quid cor citius per compunctionis ar 
+          <lb ed="#B1" n="29"/>dorem accendat, quid disciplinam in opere, quid humilitatem in cogitatio  
+          <lb ed="#B1" n="30"/>ne, quid obedientiam in praeceptis, quid patientiam in aduersis habere do 
+          <lb ed="#B1" n="31"/>ceat. Quid denique ad agenda bona sedulum, &amp; ad mala cauenda doceat es  
+          <lb ed="#B1" n="32"/>se circumspectum. Haec Hugo. Et ideo Seneca epistola uigesima docet, quod  
+          <lb ed="#B1" n="33"/>causa, quare scholares non sunt morigerati, partim est ex parte doctoris, par 
+          <lb ed="#B1" n="34"/>tim ex parte discipulorum. Aliquid (inquit) praecipientium uitio peccatur,  
+          <lb ed="#B1" n="35"/>qui uos docent subtiliter disputare non uiuere: aliquid discentium, qui pro 
+          <lb ed="#B1" n="36"/>positum ad praeceptores afferunt, non causa animum excolendi, sed ingenium 
+          <lb ed="#B1" n="37"/>Vult dicere, quod haec sola est intentio scholarium communiter, ingenium co  
+          <lb ed="#B1" n="38"/>lere per scientiam, non autem animum per uirtutes. Sed talem ordinem non 
+          <lb ed="#B1" n="39"/>tenuit Psalmista, qui dicit Bonitatem &amp; disciplinam, &amp; scientiam doce me: 
+          <lb ed="#B1" n="40"/>Clara est &amp; quae nunquam marcescit sapientia, quasi diceret: Merito est dili 
+          <lb ed="#B1" n="41"/>genda Scriptura sacra: quia clara est &amp; non turbida. In Psalm. Calixmeus ine 
+          <lb ed="#B1" n="42"/>brians quam praeclarus est. Iste enim calix est ita dulcis, quod quanto magis 
+          <lb ed="#B1" n="43"/>magisqe homo gustat, tanto magis delectando sitit. Ecclesiast. 24. Qui edunt  
+          <lb ed="#B1" n="44"/>me, adhuc esurient, &amp; qui bibunt me adhuc sitient. Et ideo animae curiosae cir 
+          <lb ed="#B1" n="45"/>ca iura mundi, &amp; non curanti de dulci claritate Scripturae diuinae dicitur. Hie 
+          <lb ed="#B1" n="46"/>rem. 2. Quid tibi uis in uijs Aegypti, ut bibas aquam turbidam. Aegyptus 
+          <lb ed="#B1" n="47"/>tenebra interpretatur, &amp; significat mundum. Viae mundi sunt solicitudines 
+          <lb ed="#B1" n="48"/>seculi, uel scholae legum secularium. In istis uijs bibitur aqua turbida: quia sci 
+          <lb ed="#B1" n="49"/>entia turbatiua per quam mali ad turbandum bonos redduntur audaces. Sed  
+          <lb ed="#B1" n="50"/>oppositum de lege DEI dicit Psalm. Pax multa diligentibus legem tuam: 
+          <lb ed="#B1" n="51"/>Clara est inquit &amp; quae nunquam marcescet sapientia. Ideo solepant antiqui  
+          <lb ed="#B1" n="52"/>tus sapientes coronari lauro. In signum quod sicut laurus seruat uiriditatem  
+          <lb ed="#B1" n="53"/>perpetuam: Ita sapientia nunquam arescit. Et ideo probat Aristoteles 1. po 
+          <!--sap_Page_316.xml-->
+          <pb ed="#B1" n="282"/>
+          <lb ed="#B1" n="1"/>steriorum, Quod omnis scientia est de perpetuis. Et quamuis sit ita nobilis, 
+          <lb ed="#B1" n="2"/>est tamen inuentu facilis, unde subdit: Facile videtur ab his qui diligunt eam. 
+          <lb ed="#B1" n="3"/>Sapientiae 7. Optaui, &amp; datus est mihi sensus, &amp; inuocaui, &amp; uenit ad me, sci 
+          <lb ed="#B1" n="4"/>licet sapientia. Ecce quam faciliter. Iacob. 1. Si quis uestrum indiget sapien 
+          <lb ed="#B1" n="5"/>tia, postulet a DEO qui datomnibus affluenter, &amp; non improperat, &amp; dabi  
+          <lb ed="#B1" n="6"/>tur ei. Vnde pietas, boni mores, &amp; oratio deuota, sunt uiae ad istam sapientiam 
+          <lb ed="#B1" n="7"/>adquirendam. Vnde Augustinus libro primo de moribus Manichaeorum: 
+          <lb ed="#B1" n="8"/>In sacris diuinitus inspiratis, neque omnes a quibus quaeritur docere possunt,  
+          <lb ed="#B1" n="9"/>neque omnes qui quaerunt discere digni sunt: Sed ad hoc quod ueritatis scien 
+          <lb ed="#B1" n="10"/>tia doceatur, &amp; uideatur &amp; diligentia, &amp; pietas adhibenda est: altero fiet ut  
+          <lb ed="#B1" n="11"/>scientes inueniamur, altero ut mereamur. Haec ibi. Non tamen uidetur nisi ab  
+          <lb ed="#B1" n="12"/>his qui diligunt eam: Amanti enim omnia sunt facilia: ratio est, quia mens si 
+          <lb ed="#B1" n="13"/>ne delectatione est caeca. Sapien. 2. Excaecauit enim eos malicia sua. Et Sopho 
+          <lb ed="#B1" n="14"/>1. Ambulant ut caeci: quia Domino peccauerunt. Et inuenitur ab his qui qua 
+          <lb ed="#B1" n="15"/>runt eam: non ab ociosis, qui eam non requirunt. Quaerenda est enim certo 
+          <lb ed="#B1" n="16"/>loco, certo tempore, &amp; certo modo, si debeat inueniri. Certo loco, quia in poe 
+          <lb ed="#B1" n="17"/>nitentia Iob 28. Non inuenitur in terra suauiter uiuentium, sed in terra aspe 
+          <lb ed="#B1" n="18"/>re uiuentium. Et ideo inuenta est in Daniele, &amp; sociis eius, qui contemnen 
+          <lb ed="#B1" n="19"/>tes cibos regios leguminibus uescebantur. Et ideo de eis dicitur Daniel. 1. 
+          <lb ed="#B1" n="20"/>Pueris autem hic DEVS dedit scientiam &amp; disciplinam in omni libro &amp; sa 
+          <lb ed="#B1" n="21"/>pientia. Certo tempore, quia continue Lucae 11. Petite &amp; accipietis, quaeri 
+          <lb ed="#B1" n="22"/>te &amp; inuenietis, puliate &amp; aperietur uobis. Certo modo, quia humiliter Pro 
+          <lb ed="#B1" n="23"/>uerbiorum 11. Vbi est humilitas, ibi &amp; sapientia, Sapien.1. In simplicitateicor 
+          <lb ed="#B1" n="24"/>dis quaerite illum. Bernhardus in sermone 24. Si nolumus quaerere frustra 
+          <lb ed="#B1" n="25"/>DEVM, quaeramus eum scilicet ueraciter, frequenter, &amp; perseueranter: ut  
+          <lb ed="#B1" n="26"/>nec queramus pro illo aliud, nec cum illo aliud, nec ab illo ad aliud conuer 
+          <lb ed="#B1" n="27"/>tamur. Facilius est enim coelum &amp; terram transire, quam ut sic quaerens non in 
+          <lb ed="#B1" n="28"/>ueniat, sic petens non accipiat, &amp; sic pulsanti non aperietur.
+        </p>
+        <p xml:id="rhwis-l81-d1e363">
+          <lb ed="#B1" n="29"/>Sed in hoc est mirabile quod DEVS quaeri non potest, nisi prius inuenia 
+          <lb ed="#B1" n="30"/>tur: quia nullus eum quaerit nisi aliquo modo inuenerit, unde Bernhardus de 
+          <lb ed="#B1" n="31"/>diligendo DEO: Nemo te Domine quaerere ualet, nisi qui prius inuenerit. 
+          <lb ed="#B1" n="32"/>Vis ergo inueniri ut quaeraris, uis quaeri ut inueniaris. Haec Bernhard. in Psal. 
+          <lb ed="#B1" n="33"/>Laetetur cor quaerentium Dominum, quaerite faciem eius semper. Quod expo 
+          <lb ed="#B1" n="34"/>nens beatus Augustinus dicit sic: Si semper quaeritur, quando inuenitur: For 
+          <lb ed="#B1" n="35"/>te quando facie ad faciem eum uiderimus, sicuti est. Adhuc quaerendus erit,  
+          <lb ed="#B1" n="36"/>&amp; sine fine quaerendus: quia sine fine amandus. Causa est diuinae bonitatis 
+          <lb ed="#B1" n="37"/>immensitas, quae uideri potest, comprehendi non potest: &amp; ideo semper po 
+          <lb ed="#B1" n="38"/>test haberi, &amp; tamen semper quaeri. Vnde Augustinus super lohannem dicit: 
+          <lb ed="#B1" n="39"/>Quaeramus inueniendum, quaeramus inuentum, &amp; inueniendus quaeratur,  
+          <lb ed="#B1" n="40"/>occultus est: ut inuentus quaeratur, immensus est. Et licet inueniri possit, non 
+          <lb ed="#B1" n="41"/>tamen perfecte in hac uita. Cum enim sit uita, non perfecte potest reperiri in 
+          <lb ed="#B1" n="42"/>regione umbrae mortis. Vnde Augustinus contra quaerentes beatitudinem in 
+          <lb ed="#B1" n="43"/>hac uita, dicit sic. 4. confess. cap. 12. Redite praeuaricatores ad cor, &amp; inhaere 
+          <lb ed="#B1" n="44"/>te illi, qui fecit uos. State cum eo, &amp; stabiles requiescite cum eo, &amp; quieti eri 
+          <lb ed="#B1" n="45"/>tis. Qui itis in aspera, quo itis: Bonum quod amatis ab illo est. Sed quantum 
+          <lb ed="#B1" n="46"/>ad illum, bonum non est &amp; suaue, sed amarum erit iuste: quia iniuste amatur,  
+          <lb ed="#B1" n="47"/>deserto illo, quicquid abs illo est. Quo uultis adhuc ambulare: uias difficiles  
+          <lb ed="#B1" n="48"/>&amp; laboriosas, imo non est requies, ubi quaeritis eum, quaerite quod quae 
+          <lb ed="#B1" n="49"/>ritis, sed ibi non est ubi quaeritis: beatam uitam quaeritis in re 
+          <lb ed="#B1" n="50"/>gione mortis, non est illic. Quomodo nec uita 
+          <lb ed="#B1" n="51"/>beata, ubi nec uita.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
