@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 113 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 113 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="379"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l113">
+        <p xml:id="rhwis-l113-d1e95">
+          <lb ed="#B1" n="41"/>NVMERATIS quinque dotibus, uel quinque dotis parti 
+          <lb ed="#B1" n="42"/>bus, quas Spiritus sanctus sponte largitur cuilibet virtuoso: In 
+          <lb ed="#B1" n="43"/>hac parte sexta subiungitur, quae est maxima, uidelicet immortalis  
+          <lb ed="#B1" n="44"/>perpetuitas bonae uitae, quae solis sapientibus: id est, DEVM co  
+          <lb ed="#B1" n="45"/>lentibus est promissa. Et quia ista immortalitas potest dupli  
+          <lb ed="#B1" n="46"/>citer percipi: uidelicet, realiter, uel singulariter, in aeterna gloria, &amp; tempora  
+          <!--sap_Page_414.xml-->
+          <pb ed="#B1" n="380"/>
+          <lb ed="#B1" n="1"/>liter in hominum memoria. Ideo de utroque sufficienter subiungens, dicit sic: Prate 
+          <lb ed="#B1" n="2"/>rea habebo per hanc immortalitatem, uerem uidelicet &amp; tealiter: qia Sap. 1. Iusticia perpe  
+          <lb ed="#B1" n="3"/>tua est imortalis. De ista imortalitate loquit beatus <ref xml:id="rhwis-l113-Rd1e121">Aug. 13. de Ciui. DEI. <!-- thi is actually book 3 of de trin, discussed in lombard l4d49c1--> ca 
+            <lb ed="#B1" n="4"/>20</ref>. ubi dicit sic: <quote xml:id="rhwis-l113-Qd1e128" source="http://scta.info/resource/adt-l13-d1e1444"><!-- de trin 13, 8, 11 -->Cum beati omnes esse uolunt, profecto esse &amp; immortales uolunt. Ali  
+              <lb ed="#B1" n="5"/>ter enim beati esse non possent</quote>: hoc probat Aug. sic, de immortalitate interro 
+          <lb ed="#B1" n="6"/>ganti: sicut de beatitudine omnes eam se uelle. Respondet similiter. Quomo 
+          <lb ed="#B1" n="7"/>do possunt beatem uiuere, nisi uiuerent: Cum ergo omnes appetunt beate uiuere, &amp; 
+          <lb ed="#B1" n="8"/>beate uiuere non possent nisi immortaliter uiuant: constat omns appetere immorta 
+          <lb ed="#B1" n="9"/>litatem. Et cum naturalis appetitus non sit frustra: constat que immortalitas est homini 
+          <lb ed="#B1" n="10"/>possibilis, licet eam habere non ualeat a seipso. Sed quia per sapientiam eam habere po 
+          <lb ed="#B1" n="11"/>terimus, hoc est, per DEI cultum sincerum, quae a bona uoluntate dependet. Ideo di 
+          <lb ed="#B1" n="12"/>cit Salo. praeterea habebo. i. praeter emolimenta superius enumerata habebo per 
+          <lb ed="#B1" n="13"/>hanc immortalitatem, s. per sapientiam. In huius figuram apud poëtas, dea sapientiae dice 
+          <lb ed="#B1" n="14"/>batur Minerua. i. non * mortalis: Min, idem quid non, erua mortalis interpretat. Inde 
+          <lb ed="#B1" n="15"/>Minerua quasi immortalis. Ista dea pingebatur quasi uirgo decora, triplicem ha 
+          <lb ed="#B1" n="16"/>bens uestem, &amp; in pectore caput Gorgonis portabat depictum, sicut dicit Alexan 
+          <lb ed="#B1" n="17"/>der Nequam in scintillario poetarum, capitulo de Pallade: dicit etiam nata de louis  
+          <lb ed="#B1" n="18"/>uertice, &amp; sine matre: &amp; dicitur Tritonia Pallas &amp; Minerua, cui septenarius nu 
+          <lb ed="#B1" n="19"/>merus consecratur: &amp; est dea sapientiae, &amp; omnium artium, &amp; bellorum. Ideo uirgo pin 
+          <lb ed="#B1" n="20"/>gitur dea sapientiae: quia nullum recipit uitiorum corruptionem, sed perpetua morum 
+          <lb ed="#B1" n="21"/>gaudet integritate. Triplice habet uestem propter tres scientias sermocionales, qi 
+          <lb ed="#B1" n="22"/>bus ipsa uestitur &amp; ornatur: quae sunt, gramatica, rhetorica, &amp; dialectica. In pe 
+          <lb ed="#B1" n="23"/>ctore portat caput Gorgonis. i. Medusae, qui aspicientes in lapidem conuertebat, cu: 
+          <lb ed="#B1" n="24"/>ius caput Perseus abscidit. Gorgon interpretatur terror: quia ergo omnis sapiens 
+          <lb ed="#B1" n="25"/>terribilis uitiosis &amp; fatuis esse debet. Ergo pingitur dea sapientiae caput Gorgo  
+          <lb ed="#B1" n="26"/>nis portare in pectore. Ista dicitur nata de uertice louis &amp; sine matre: quia sapien 
+          <lb ed="#B1" n="27"/>tia fidei &amp; bonorum morum est a dono DEI. Eccl. 24. Ego ex ore altissimi prodij,  
+          <lb ed="#B1" n="28"/>primogenita ante omnem creaturam. Huic septenarius numerus consecratur, qui est 
+          <lb ed="#B1" n="29"/>uniuersitatis: eo quo uniuersum tempus per septem decurrat dies, uniuersus mundus per 
+          <lb ed="#B1" n="30"/>septem planetas dirigit. Omnis homo ex septem quodammodo componitur, s. ex tri 
+          <lb ed="#B1" n="31"/>bus potentijs animae, &amp; quatuor elementis. Iuxta modum quorundam loquendi uoca 
+          <lb ed="#B1" n="32"/>tur Tritonia. i. trina notitia secundum remigium: quia philosophi in tribus cognoscen 
+          <lb ed="#B1" n="33"/>dis maxime laborabant, uidelicet creatore, creatura &amp; anima. Vocatur etiam Pal  
+          <lb ed="#B1" n="34"/>las. i. nova: quia sapientia nullum senium nullam sentit uetustatem. Haec est dea bello 
+          <lb ed="#B1" n="35"/>rum: quia bellis magis confert sapientia quam corporis fortitudo: Sap. 5. Melior est sa 
+          <lb ed="#B1" n="36"/>pientia quam uires, uir prudens magis quam fortis. Dicit ergo Salo. Habebo per hanc immo, 
+          <lb ed="#B1" n="37"/>talitatem &amp; non solu noc, sed &amp; memoriam aeternam his, qui post me futuri sunt relin 
+          <lb ed="#B1" n="38"/>quam: sicut dicit Sene. Ad pauca natus est, qui tantum de suo tempore cogitat. Omnis 
+          <lb ed="#B1" n="39"/>enim uirtuosus &amp; ad bonam uitam tenetur: &amp; ad bonam famam, ut per uitam ipse saluet 
+          <lb ed="#B1" n="40"/>&amp; per famam proximus aedificet: pximus inquam non solum qui est, sed qui futurus est. 
+          <lb ed="#B1" n="41"/>Vnde bonum copiose est sui comunicatiuum. Vnus enim bonus homo quasi infinitis 
+          <lb ed="#B1" n="42"/>futuris prdesse potest per bonum exemplum. Vnde ille uenerabilis Eleaxarus ludaeus 
+          <lb ed="#B1" n="43"/>nobilissimus cum interficeret, quia contra legem carnes suillas nollet comedere, nobi 
+          <lb ed="#B1" n="44"/>lem mortem magis quam odibilem uitam amplexans, dicit: Fortiter uitam excedendo, se 
+          <lb ed="#B1" n="45"/>nectute quidem dignus apparebo, adolescentibus autem forte exemplum relinquam Et  
+          <lb ed="#B1" n="46"/>ideo dicit Psal. In memoria aeterna erunt iusti. Et Proverb. 10. Memoria iusti cum 
+          <lb ed="#B1" n="47"/>laudibus. In Scripturae nanque locis uarijs inuenitur triplex memoria.
+        </p>
+        <p xml:id="rhwis-l113-d1e226">
+          <lb ed="#B1" n="48"/>Est enim memoria beneficiorum, memoria exemplorum, &amp; memoria damno 
+          <lb ed="#B1" n="49"/>rum. Prima est continue possidenda. Secunda est alijs exhibenda: Et tertia est relin 
+          <lb ed="#B1" n="50"/>quenda. Primo enim memoriam habere debemus beneficiorum diuinorum, Esa. 43. Ego 
+          <lb ed="#B1" n="51"/>sum qui deleo iniquitates tuas propter me, &amp; peccatorum tuorum non recorda 
+          <lb ed="#B1" n="52"/>bor. Reduc me in memoriam, &amp; iudicemur simul. Reduc me in memoriam. i. bo 
+          <lb ed="#B1" n="53"/>na, qui tibi feci secundum glos. creando, redimendo, &amp; pparando beatitudinem. Sed istam 
+          <!--sap_Page_415.xml-->
+          <pb ed="#B1" n="381"/>
+          <lb ed="#B1" n="1"/>memoriam tria impediunt: prosperitas, curiositas, &amp; uoluptas. Prosperitas fa 
+          <lb ed="#B1" n="2"/>cit ingratos, obliuisci amicorum, qui eos in angustijs adiuuerunt. Vnde Gen 
+          <lb ed="#B1" n="3"/>40. legimus quod praepositus pincernarum Pharaonis, qui prius fuerat incar 
+          <lb ed="#B1" n="4"/>ceratus cum loseph, &amp; per ipsum de sua liberatione prophetice informatus, suc 
+          <lb ed="#B1" n="5"/>cedentibus: prosperis oblitus est interpretis sui: lsto modo est de multis, qui cum tri 
+          <lb ed="#B1" n="6"/>bulantur afflictionibus, persecutionibus uel infirmitatibus DEVM habent in memo 
+          <lb ed="#B1" n="7"/>ria: sed cum sint in sanitate, traquillitate, &amp; prosperitate, tradunt DEVM obliuioni.  
+          <lb ed="#B1" n="8"/>Deut. 32. DEVM qui te genuit dereliquisti, &amp; oblitus es DEI creatoris tui. Nar 
+          <lb ed="#B1" n="9"/>rat Vincentius in speculo historiali, quod semel in Aethiopia tanta contigit pesti 
+          <lb ed="#B1" n="10"/>lentia, qui ad memoria hominum, quod homines obliuiscebantur nomina patrum suorum, 
+          <lb ed="#B1" n="11"/>nomina filiorum, &amp; etiam nomina propria. Et oriebatur ista pestilentia secundum 
+          <lb ed="#B1" n="12"/>eum ex foetore &amp; putrefactione quorundam cadauerum, interfectorum in bello. Mora 
+          <lb ed="#B1" n="13"/>liter tanta his diebus est in hominibus in parte memorantia peestilentia, quo nec recor 
+          <lb ed="#B1" n="14"/>dant nominis DEI Patris omnium, nec grati sunt amicis, nec animabus desun 
+          <lb ed="#B1" n="15"/>ctorum: nec prudentes ad se ipsos. Eccl. 9. Obliuioni tradita est memoria eorum. 
+          <lb ed="#B1" n="16"/>Sene. 2. de beneficijs, comparat legem gratitudinis &amp; beneficentiae mutuae ludo 
+          <lb ed="#B1" n="17"/>pilae: quando enim homines ludunt cum pila, &amp; eam alternatim recipiunt in se: tam 
+          <lb ed="#B1" n="18"/>diu durat &amp; continuatur ludus inter eos, quandiu conuenienter recipitur &amp; iacta 
+          <lb ed="#B1" n="19"/>tur. Si uero unus recipiat &amp; retineat, uel inconuenienter repercutiat, desinit lu 
+          <lb ed="#B1" n="20"/>dus, qui desinere non potest: sicut dicit Seneca, nisi uel mittentis uel recipientis 
+          <lb ed="#B1" n="21"/>defectu. Isto modo imaginatur Sene quod debet esse de beneficentia mutua 
+          <lb ed="#B1" n="22"/>inter amicos. Si enim a te beneficium recipio, &amp; postea pro uiribus illud tibi propor 
+          <lb ed="#B1" n="23"/>tionabiliter retribuo, iuxta leges gratitudinis, apte ludo: si uero beneficium rece 
+          <lb ed="#B1" n="24"/>ptum obliuioni commendo, nec tibi ubi possem in aliquo recompenso, ludendi 
+          <lb ed="#B1" n="25"/>finem facio, &amp; beneficentiae ludum soluo. Et ideo signanter dicitur Hebr. 13. 
+          <lb ed="#B1" n="26"/>Beneficentiae autem &amp; comunionis nolite obliuisci. Si sic nos habere debemus 
+          <lb ed="#B1" n="27"/>ad homines, multo magis erga DiEVM nos gratos esse conuenit. Hugo de clau 
+          <lb ed="#B1" n="28"/>stro animae. Sicut nullum est momentum quo homo non utatur uel fruatur DEI 
+          <lb ed="#B1" n="29"/>bonitate &amp; misericordia: Ita nullum debet esse momentum quo eum praesen 
+          <lb ed="#B1" n="30"/>tem non habeatur in memoriam, Thren.3. Memoria memor ero, &amp; tabescet in 
+          <lb ed="#B1" n="31"/>me anima mea. Sed istam memoriam secundo impedit curiositas, &amp; solicitudo 
+          <lb ed="#B1" n="32"/>nimia circa mundum: sicut dicitur communiter: 
+          <lb ed="#B1" n="33"/>Pluribus intentus minor est ad singul: sensus.
+        </p>
+        <p xml:id="rhwis-l113-d1e317">
+          <lb ed="#B1" n="34"/>In Psal. Obliti sunt beneficiorum eius, &amp; mirabilium eius quai ostendit eis. Tertio istam 
+          <lb ed="#B1" n="35"/>memoriam impedit &amp; tollit uoluptas carnis, Boët. 3. de Conso, metro 10. uocat  
+          <lb ed="#B1" n="36"/>corpus secundum imaginationem Platonicorum molem obliuiosam: Fuit enim opi 
+          <lb ed="#B1" n="37"/>nio Platonis, sicut tagit Arist. 1. posteri. quod anima habet notitiam omnium 
+          <lb ed="#B1" n="38"/>rerum a principio sibi concreatam, &amp; species omnium rerum sibi inditas a DEO: sed  
+          <lb ed="#B1" n="39"/>statim quando infunditur corpori terreno tradit obliuioni illam noticiam sibi datam 
+          <lb ed="#B1" n="40"/>nec ea potestuti donec per sensus excitetur. Et ideo posuit Plato, quod addi 
+          <lb ed="#B1" n="41"/>scere non est, nisi recordari. Vnde concludit Boët. metro praeallegato: quod si 
+          <lb ed="#B1" n="42"/>Platonis musa personat uerum quod quisque discit immemor recordatur. Mo 
+          <lb ed="#B1" n="43"/>raliter: corpus est moles obliuiosa: id est, obliuionem DEI inducens. Vnde a 
+          <lb ed="#B1" n="44"/>nima immersa uoluptatibus, &amp; delicijs carnis perdit memoriam DEI sui, quo 
+          <lb ed="#B1" n="45"/>contra dicit Psalm. Adhaereat lingua mea faucibus meis, si non meminero tui.  
+          <lb ed="#B1" n="46"/>Haec est memoria continue possidenda. Alia est memoria proximis exhiben 
+          <lb ed="#B1" n="47"/>da per odorem bonae famae, &amp; honestae conuersationis. Opera enim strenuita 
+          <lb ed="#B1" n="48"/>tis &amp; uictoriae solent haberi in memoria, &amp; ideo uincentes mundum per pau 
+          <lb ed="#B1" n="49"/>pertatem, carnem per castitatem, sensum proprium per humilitatem, memo 
+          <lb ed="#B1" n="50"/>ria dignos faciunt seipsos, Eccles. 45. Dilectus DEO &amp; hominibus cuius me 
+          <lb ed="#B1" n="51"/>moria in benedictione est. Narrat Magister in historijs super Exo. qui Moyses 
+          <lb ed="#B1" n="52"/>duxerat in uxorem filiam regis Aethiopiae, &amp; cum in patriam suam redire uoluisset  
+          <lb ed="#B1" n="53"/>impedire eum nitebatur uxor sua. Moyses ergo tanquam uir peritus astro 
+          <!--sap_Page_416.xml-->
+          <pb ed="#B1" n="382"/>
+          <lb ed="#B1" n="1"/>rum sculpsit in gemmas duas imagines huius efficaciae, ut altera memoriam, 
+          <lb ed="#B1" n="2"/>altera obliuionem conferret: Cumque paribus. i. similibus annulis eas inseruisset,  
+          <lb ed="#B1" n="3"/>annulum uxori praebuit &amp; memoriae annulum secum tulit: ut sicut pari amore,  
+          <lb ed="#B1" n="4"/>sic paribus annulis insignirentur: Coepit ergo mulier obliuisci uiri sui, &amp; sic Moy 
+          <lb ed="#B1" n="5"/>ses in patriam suam libere est ingressus. Moraliter: Animus humanus natione 
+          <lb ed="#B1" n="6"/>coelestis cum carne terrena (quae per Ethiopyssam designatur) coniugium contra 
+          <lb ed="#B1" n="7"/>hit, quando corpori infunditur. Animus uero rationalis naturaliter desiderat  
+          <lb ed="#B1" n="8"/>beatitudinem, &amp; uult in coelum reuerti. Sed ista uxor eum impedit, &amp; ideo u 
+          <lb ed="#B1" n="9"/>tendum est cautela Moysi, ut duos annulos cum gemmis faciamus, &amp; annulum 
+          <lb ed="#B1" n="10"/>obliuionis carni tradams. Annulus obliuionis est recogitatio mortis: quia mors 
+          <lb ed="#B1" n="11"/>obliuioni tradit hominem. In Psal. Obliuioni datus sum tanquam mortuus a 
+          <lb ed="#B1" n="12"/>corde. Annulus memoriae est recogitatio uitae aeternaem. Vnde memoria aeterna 
+          <lb ed="#B1" n="13"/>erit iustus, &amp; sic libere in coelestem patriam reuertamur. Tertia memoria est pe 
+          <lb ed="#B1" n="14"/>nitus relinquenda. Et haec est memoria damnorum &amp; iniuriarum nobis illatarum 
+          <lb ed="#B1" n="15"/>a proximis, Leui. 19. Non quaeres ultionem nec memor eris iniuriae ciuium tuo 
+          <lb ed="#B1" n="16"/>rum. Sicut dicit Basilius in hexameron: Camelus habet mirabiliter bonam me 
+          <lb ed="#B1" n="17"/>moriam de uerberibus. Vnde si aliquis eum percusserit dissimulat percussionem ad 
+          <lb ed="#B1" n="18"/>tempus, sed indubitanter cum opportunitatem habuerit, expetit ultionem. Sic sunt  
+          <lb ed="#B1" n="19"/>nonnulli qui iniurias dissimulant, non remittunt, abscondunt, non obliuiscun 
+          <lb ed="#B1" n="20"/>tur: quanuis dicatSene, memoria beneficiorum tuorum debet esse tenax, &amp; iniu 
+          <lb ed="#B1" n="21"/>riarum facilis. Et in Proverbijs fuis dicit: Iniuriae remedium est obliuio. Et talis  
+          <lb ed="#B1" n="22"/>qui uirtuose iniurias obliuiscitur, dicere potest DEO confidenter illud Tob. 3. 
+          <lb ed="#B1" n="23"/>Nunc Domine memor esto mei, neque uindicta sumas de peccatis meis: Et ipse  
+          <lb ed="#B1" n="24"/>Dominus iustis respondebit per illud Esa. 65. Non erunt in memoria priora ne 
+          <lb ed="#B1" n="25"/>que ascendent super cor, sed gaudebitis, &amp; exultabitis usque in sempiternum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

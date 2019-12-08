@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 127 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 127 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="426"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l127">
+        <p xml:id="rhwis-l127-d1e95">
+          <lb ed="#B1" n="26"/>HAEC est tertia pars istius primae partis huius Capituli. In qua poni 
+          <lb ed="#B1" n="27"/>tur commendatio specialis ipsius sapientiae ex gubernatione per 
+          <lb ed="#B1" n="28"/>sonae Abrahae. Et diuiditur haec particula in duas partes. Nam pri 
+          <lb ed="#B1" n="29"/>mo tangitur mirabilis elatio quorundam hominum fatuorum: se 
+          <lb ed="#B1" n="30"/>cundo narratur ipsius Abrahae approbatio in benedictione filio  
+          <lb ed="#B1" n="31"/>rum: Secunda pars ibi: Sciuit iustum.
+        </p>
+        <p xml:id="rhwis-l127-d1e111">
+          <lb ed="#B1" n="32"/>Circa primum est sciendum quod sicut narrat Philo in libro quaestionum su 
+          <lb ed="#B1" n="33"/>per Genesim, &amp; narrat Magister in historijs, ex tribus filijs Noe, Sem, Cham, &amp; 
+          <lb ed="#B1" n="34"/>laphet, adhuc ipso Noe uiuente, nati sunt uigintiquatuor millia hominum, &amp; 
+          <lb ed="#B1" n="35"/>centum, praeter mulieres &amp; paruulos, &amp; habuerunt super se tres duces, uideli  
+          <lb ed="#B1" n="36"/>cet: Nemroth super filios Cham: Ietram super filios Sem: &amp; Suffene super fi 
+          <lb ed="#B1" n="37"/>lios laphet. Hi ergo post obitum Noë mouerunt se ab oriente, uenerunt in cam 
+          <lb ed="#B1" n="38"/>pum Sennaar, qui nunc est, Babylon, &amp; timentes diluuium, quod tempore Noë 
+          <lb ed="#B1" n="39"/>fuerat, coeperunt aedificare turrim, quae pertingeret usque ad coelos: hoc est, ual  
+          <lb ed="#B1" n="40"/>de in altum: forte quod aquae diluuij non pertingerent ad summitatem. Non 
+          <lb ed="#B1" n="41"/>est enim credendum eos tam fatuos fuisse, quod usque ad corpus coeleste in 
+          <lb ed="#B1" n="42"/>tenderent turrim facere. Quia iste Nemroth doctus fuit a lonitho filio quarto 
+          <!--sap_Page_461.xml-->
+          <pb ed="#B1" n="427"/>
+          <lb ed="#B1" n="1"/>Noë secundum Methodium de ortu regnorum: Et ille lonithus fuit Astrono 
+          <lb ed="#B1" n="2"/>mus magnus. Et dicit de eo Magister in historijs: quod inuenit Astrono 
+          <lb ed="#B1" n="3"/>miam. Coeperunt ergo aedificare turrim istam, habentes lateres pro saxis, &amp; 
+          <lb ed="#B1" n="4"/>bitumen pro cemento. DEVS uero animaduertit elationem hominum uo 
+          <lb ed="#B1" n="5"/>lentium se quasi contra ipsum munire: ne &amp; ipsi etiam, si DEO placeret, pos  
+          <lb ed="#B1" n="6"/>sent aquis diluuij castigari. Impediuit eos per istum modum. Quicunque 
+          <lb ed="#B1" n="7"/>homines, si debent cohabitare, indigent uno idiomate ad communicandum 
+          <lb ed="#B1" n="8"/>inuicem conceptiones suas in diuersis negociis. Vnde Aristoteles octauo E 
+          <lb ed="#B1" n="9"/>thico: dicit, quod omnis amicitia consistit in communicatione, &amp; quod mul  
+          <lb ed="#B1" n="10"/>tas amicitias dissoluit in appellatione. DEVS ergo miraculose, cum essent o 
+          <lb ed="#B1" n="11"/>mnes unius linguae &amp; unius idiomatis diuisit eos in 72. linguas, ita quod il  
+          <lb ed="#B1" n="12"/>le qui sciuit unam, omnes alias penitus ignorauit. Ista ergo multitudo consi 
+          <lb ed="#B1" n="13"/>derans diuisionem tantam in idiomate, diuisit se secundum numerum lingua 
+          <lb ed="#B1" n="14"/>rum: &amp; qui erant de una lingua traxerunt se ad inuicem ad unam turmam, &amp; 
+          <lb ed="#B1" n="15"/>sic a loco illo diuiserunt se in uniuersas partes mundi. Inter has 72. lin 
+          <lb ed="#B1" n="16"/>guas tres sunt principales, Hebraea, Graeca, &amp; Latina: sicut recitat Augu 
+          <lb ed="#B1" n="17"/>stinus de mirabilibus Sacrae scripturae capite decimoquinto. Et ideo de istis  
+          <lb ed="#B1" n="18"/>linguis scriptus fuit titulus crucis CHRISTI. Et secundum istas 72. lin 
+          <lb ed="#B1" n="19"/>guas elegit CHRISTVS70. duos discipulos Lucae.10. Quia ergo in aedi 
+          <lb ed="#B1" n="20"/>ficatione turris istius perdiderunt filij Noe communicationem linguae He 
+          <lb ed="#B1" n="21"/>braeae, &amp; diuisi secundum multitudinem supradictam uocatum est nomen loci 
+          <lb ed="#B1" n="22"/>illius Babel, quod interpretatur confusio: quia ibi confusum est labium uniuer 
+          <lb ed="#B1" n="23"/>sae terrae, Gen.11. Istam ergo mirabilem praesumptionem &amp; elationem tangit 
+          <lb ed="#B1" n="24"/>Salomon inhac litera ita dicens: Haec in consensu superbiae, cum se nationes extu 
+          <lb ed="#B1" n="25"/>sissent sciuit iustum. Rec: id est, sapientia, &amp; etiam cum se nationes extulissent in 
+          <lb ed="#B1" n="26"/>consensis superbiae: id est, in illo consensu superbo quo dixerunt: Venite facia 
+          <lb ed="#B1" n="27"/>mus ciuitatem, &amp; turrim, cuius cacumen pertingat coelum, &amp; celebremus no 
+          <lb ed="#B1" n="28"/>men nostrum, antequam diuidamur in uniuersas terras. Tunc inquam sapien 
+          <lb ed="#B1" n="29"/>tia sciuit, iustum: id est, Abraham qui propter magnitudinem fidei fuit iustus, 
+          <lb ed="#B1" n="30"/>Gen.15. Credidit Abraham DEO, &amp; reputatum est ei ad iusticiam: Sciuit (in 
+          <lb ed="#B1" n="31"/>quam )iustum: id est, approbanda praesciuit.
+        </p>
+        <p xml:id="rhwis-l127-d1e209">
+          <lb ed="#B1" n="32"/>Non est imaginandum quod Abraham fuit tempore diuisionis linguarum: 
+          <lb ed="#B1" n="33"/>quae quidem diuisio facta fuit tempore Phares, qui fuit 6. ante Abraham se 
+          <lb ed="#B1" n="34"/>cundum linearum successionem: sed uult Spiritus sanctus dicere in litera ista, 
+          <lb ed="#B1" n="35"/>quod in tempore confusionis linguarum DEVS praeuidit Abraham futurum. 
+          <lb ed="#B1" n="36"/>&amp; praeelegit eum sicut talem, per quem cultus DEI multipliciter augeretur, &amp; 
+          <lb ed="#B1" n="37"/>cui fieret specialis promissio de redemptione generis humani. Tangit ergo tri 
+          <lb ed="#B1" n="38"/>plex beneficium sapientiae circa Abraham, uidelicet praelectionem antequam 
+          <lb ed="#B1" n="39"/>esset: conseruationem cum esset: &amp; bonae prolis propagationem, postquam 
+          <lb ed="#B1" n="40"/>esset. Vnde dixit quod sapientia tunc temporis cum se nationes extulissent  
+          <lb ed="#B1" n="41"/>modo praeexposito, sciuit: id est, approbando praesciuit, lustum: id est, Abra 
+          <lb ed="#B1" n="42"/>ham qui postea fuit iustus, &amp; conseruauit eum sine quaerela DEO: id est, ad  
+          <lb ed="#B1" n="43"/>honorem &amp; uoluntatem DEI. Conseruauit enim eum educendo de ter 
+          <lb ed="#B1" n="44"/>ra Chaldaeorum in terram Chanaan, Genesis duodecimo. Et inde in ter 
+          <lb ed="#B1" n="45"/>ram Aegypti, ubi ductus timore dixit, Saram uxorem suam sororem es  
+          <lb ed="#B1" n="46"/>se. Simili modo postea fecit, cum apud regem Gerarum peregrinaretur, Gene 
+          <lb ed="#B1" n="47"/>sis 20. Et uocauit Aram fratrem suum, patrem suum, quia senior fuit. Sa 
+          <lb ed="#B1" n="48"/>ra autem filia Aram. Illam uero uocauit sororem secundum consuetudinem 
+          <lb ed="#B1" n="49"/>loquendi inter Hebraeos, qui cognatos uocant fratres, &amp; cognatas sorores. 
+          <lb ed="#B1" n="50"/>Vnde tantum est dictum cognata mea est ex parte patris mei. Vnde nullum ma 
+          <lb ed="#B1" n="51"/>lum fuit eos decipere: quia hoc cessit in bonum. De hac materia respondens 
+          <lb ed="#B1" n="52"/>Augustinus contra Faustum lib. 12. cap. 30. ostendit quare non ita praesum 
+          <lb ed="#B1" n="53"/>psit Abraham de DEO, ut non timeret fateri eam uxorem. Et dicit, quod ideo:  
+          <!--sap_Page_462.xml-->
+          <pb ed="#B1" n="428"/>
+          <lb ed="#B1" n="1"/>quia uoluit uti ratione, &amp; non tentare DEVM totaliter. Si enim interroga 
+          <lb ed="#B1" n="2"/>tus illam foeminam indicasset uxorem: duas res tuendas committeret DEO: 
+          <lb ed="#B1" n="3"/>uidelicet suam uitam, &amp; uxoris pudicitiam. Proinde cum propter pulchri 
+          <lb ed="#B1" n="4"/>tudinem Sarae &amp; eius pudicitia &amp; Abrahae etiam uita esset in dubio, nec u 
+          <lb ed="#B1" n="5"/>trumque tueri posset Abraham, sed tantum unum: id est, uitam suam, fecit 
+          <lb ed="#B1" n="6"/>quod potuit, ne DEVM tentaret: Quod autem non potuit, illi commisit. 
+          <lb ed="#B1" n="7"/>Quia ergo hominem se occultare non potuit, maritum se occultauit ne occi 
+          <lb ed="#B1" n="8"/>deretur. Haec Augustinus. Sic ergo sapientia Abraham conseruauit immu 
+          <lb ed="#B1" n="9"/>nem a culpa, &amp; in filijs misericordiam fortem custodiuit. Hoc uerificatum 
+          <lb ed="#B1" n="10"/>fuit dando sibi misericorditer filium, cum esset centenarius, Genesis 17. I 
+          <lb ed="#B1" n="11"/>tem statuendo sibi foedus circumcisionis, Genesis decimoseptimo: Statuam 
+          <lb ed="#B1" n="12"/>(inquit) pactum meum inter me &amp; te, &amp; inter semen tuum post te in genera 
+          <lb ed="#B1" n="13"/>tionibus tuis foedere sempiterno. De Abraham dicit Magister in historijs,  
+          <lb ed="#B1" n="14"/>quod quando tempore famis morabatur in Aegypto docuit Aegyptios 
+          <lb ed="#B1" n="15"/>Arithmethicam &amp; Astrologiam illud temporis ignotam: &amp; de Aegyptijs uene 
+          <lb ed="#B1" n="16"/>rit ad Graecos, de Graecis ad Latinos. Dicit ergo losephus de eo, quod primus 
+          <lb ed="#B1" n="17"/>praesumpsit pronunciare DEVM esse unum creatorem cunctorum. Et opinio  
+          <lb ed="#B1" n="18"/>nes quas caeteri habebant de DEO innouare &amp; immutare praeualuit. Istum etiam 
+          <lb ed="#B1" n="19"/>recommendat Arist. lib. suo de pomo tangens quomodo ad diuinum praece 
+          <lb ed="#B1" n="20"/>ptum filium proprium uoluit immolare.
+        </p>
+        <p xml:id="rhwis-l127-d1e307">
+          <lb ed="#B1" n="21"/>Nota quod misericordia DEI est fortis. Vnde dicit quod in filijs misericor 
+          <lb ed="#B1" n="22"/>diam fortem custodiuit hominis uero misericordia est ualde debilis &amp; infirma 
+          <lb ed="#B1" n="23"/>Est enim misericordia DEI fortis in homines intensiue, extensiue, &amp; duratiue 
+          <lb ed="#B1" n="24"/>Intensiue quia parcit homini in peccato, qui tantae est maliciae quod nullo mo 
+          <lb ed="#B1" n="25"/>do per se possit satisfacere. Vnde probatuenerabilis Anshelm. 2. cur DEVS 
+          <lb ed="#B1" n="26"/>homo: cap. 6. quod oportuit hominem DEO aliquid dare maius omni eo, 
+          <lb ed="#B1" n="27"/>quod non est DEVS, ad satisfaciendum pro peccatis suis. Sed constat quod  
+          <lb ed="#B1" n="28"/>hoc nullo modo potuit facere: &amp; ideo DEVS misericorditer est incarnatus, ut  
+          <lb ed="#B1" n="29"/>pro homine satisfaceret factus homo. Quod autem homo tenebatur DEO sol 
+          <lb ed="#B1" n="30"/>uere ad satisfaciendum, pro peccato suo, aliquid maius omni eo quod non est 
+          <lb ed="#B1" n="31"/>DEVS, probatidem Anshelmus 1. Cur DEVS homo ca. 21. sic: Non satisfacis 
+          <lb ed="#B1" n="32"/>DEO pro peccatis nisi reddendo aliquid maius quam sit omne illud, pro quo 
+          <lb ed="#B1" n="33"/>peccatum facere non debueras. Sed pro toto mundo saluando nec pro aliquo 
+          <lb ed="#B1" n="34"/>citra DEVM debuisti facere peccatum: ergo oportet te satisfaciendo reddere 
+          <lb ed="#B1" n="35"/>aliquid maius toto mundo: &amp; illud fuit uita corporalis CHRISTI secundum 
+          <lb ed="#B1" n="36"/>Anshelmum. Et ideo ad Titum 3. Non ex operibus iusticiae quae fecimus nos, 
+          <lb ed="#B1" n="37"/>sed secundum suam misericordiam saluos nos fecit. Ista ergo misericordia fuit  
+          <lb ed="#B1" n="38"/>fortis intensiue. Dicit enim Arist. 1. de coelo, quod fortitudo potentiae actiuae 
+          <lb ed="#B1" n="39"/>terminatur per maximum in quod potest. Vnde si esset aliqua potentia quae possit 
+          <lb ed="#B1" n="40"/>in aliquid, &amp; in duplum, triplum &amp; quadruplum, &amp; sic in infinitum, illa poten 
+          <lb ed="#B1" n="41"/>tia diceretur infinita intensiue: sed talis est misericordia DEI: quia non est da 
+          <lb ed="#B1" n="42"/>re peccatum ita turpe, ita malitiosum, ita deforme quin misericordia DEI sit 
+          <lb ed="#B1" n="43"/>maior ad remittendum. Refert Ambrosius de morte Theodosij, quod tantae 
+          <lb ed="#B1" n="44"/>erat misericordiae, quod nunquam negauit ueniam confitenti, de quo sic  
+          <lb ed="#B1" n="45"/>scribit: Beneficium se putabat accepisse angustae memoriae Theodosius, cum 
+          <lb ed="#B1" n="46"/>rogaretur ignoscere, &amp; tunc propior erat ueniae cum fuisset commotio maior  
+          <lb ed="#B1" n="47"/>iracundiae: &amp; ideo optabatur in eo, quod timebatur in alijs, ut irasceretur. Hoc 
+          <lb ed="#B1" n="48"/>erat remedium reorum, quoniam cum haberet super omnes potestatem, quasi 
+          <lb ed="#B1" n="49"/>parens postulari malebat, quam quasi iudex puniri aequitatis iudex non poe 
+          <lb ed="#B1" n="50"/>nae arbitrer, qui nunquam ueniam negauit confitenti. Haec Ambrosius. Fuit  
+          <lb ed="#B1" n="51"/>enim ueraciter Filius illius, qui dicit Lucae 6. Estote misericordes, sicut &amp; Pa 
+          <lb ed="#B1" n="52"/>ter uester misericors est. Secundo misericordia DEI in homines fortis est 
+          <lb ed="#B1" n="53"/>extensiue: hoc autem dupliciter potest declarari. Primo ex parte ipsius 
+          <!--sap_Page_463.xml-->
+          <pb ed="#B1" n="429"/>
+          <lb ed="#B1" n="1"/>subiecti CHRISTI, secundo a parte hominis siue misericordiae obiecti. A 
+          <lb ed="#B1" n="2"/>parte quidem CHRISTI sic. Si aliquis omnibus uicinis suis riuulos concede 
+          <lb ed="#B1" n="3"/>ret de suo fonte, ut sibi inde facerent aquae ductus pro suo libito, signum es  
+          <lb ed="#B1" n="4"/>set quod ille fons magnae foret sufficientiae. Isto modo DEVS Pater habens Fi  
+          <lb ed="#B1" n="5"/>lium suum, qui est uerbum DEI &amp; fons bonitatis omnis (quia fons sapientiae 
+          <lb ed="#B1" n="6"/>uerbum DEI dicit Eccles. 7)] misit eum in mundum, &amp; iussit eum scaturire de 
+          <lb ed="#B1" n="7"/>terra uentris uirginalis, &amp; ut esset copiosus &amp; abundans omnibus, permisit cui  
+          <lb ed="#B1" n="8"/>libet sibi facere riuulum, quando omnium ludaeorum &amp; Gentiliam flagella 
+          <lb ed="#B1" n="9"/>tioni &amp; crucifixioni se dedit. Et ideo bene dicit pluraliter per Prophetam: Da 
+          <lb ed="#B1" n="10"/>bo uobis misericordias &amp; miserebor uestri, Hierem. 42. Secundo patet idem a 
+          <lb ed="#B1" n="11"/>parte obiecti: quia si de obiecto misericordiae sermo fiat, illud obiectum est ho 
+          <lb ed="#B1" n="12"/>mo, cui DEVS multipliciter miseretur, praeseruando ut caueat, expectando ut  
+          <lb ed="#B1" n="13"/>redeat, &amp; condonando si poeniteat. Vnde Augustin. 2. confessionum cap. 10. 
+          <lb ed="#B1" n="14"/>Gratiae tuae deputo, &amp; misericordiae quod peccata mea tanquam glaciem sol 
+          <lb ed="#B1" n="15"/>uisti: gratiae tuae deputo quaecunque non feci mala, &amp; omnia mihi dimissa fateor, 
+          <lb ed="#B1" n="16"/>quae &amp; mea sponte feci mala, &amp; quae te duce non feci. Tertio misericordia DEI 
+          <lb ed="#B1" n="17"/>est fortis in homines duratiue: quia quantumlibet homo expectet si post infi 
+          <lb ed="#B1" n="18"/>nita mala, in fine tardissime poenitere uelit, recipit eum statim. Exemplum de 
+          <lb ed="#B1" n="19"/>latrone cui tardissime, poenitenti dictum est: Hodie mecum eris in Paradiso, Luc 
+          <lb ed="#B1" n="20"/>23. Vnde Bernhardus super Cantica: Omnino propter mansuetudinem quae in 
+          <lb ed="#B1" n="21"/>te praedicatur currimus post te, Domine IESVCHRISTE, audientes quoc 
+          <lb ed="#B1" n="22"/>non spernas pauperem, peccatorem non abhorreas. Non enim horruisti latro 
+          <lb ed="#B1" n="23"/>nem confitentem, nec lachrymantem peccatricem: non Chananeam supplicantem 
+          <lb ed="#B1" n="24"/>non deprehensam in adulterio, non sedentem in teloneo: non supplicantem publi  
+          <lb ed="#B1" n="25"/>canum, non negantem discipulum, non persecutorem discipulorum, non ipsos 
+          <lb ed="#B1" n="26"/>crucifixores tuos. Haec Bernhardus. Misericordia ergo DEI fortis est durati 
+          <lb ed="#B1" n="27"/>ue: quoniam misericordia Domini ab aeterno usque in aeternum super timentes 
+          <lb ed="#B1" n="28"/>eum: In Psalm.
+        </p>
+        <p xml:id="rhwis-l127-d1e446">
+          <lb ed="#B1" n="29"/>Per oppositum ad haec tria misericordia hominis ad hominem inuenitui 
+          <lb ed="#B1" n="30"/>debilis &amp; modica intensiue, duratiue &amp; extensiue. Intensiue, quia uix aliquis  
+          <lb ed="#B1" n="31"/>mouetur ad compatiendum cuicunque: quia nunc adimpletur illud Tim. 3. E 
+          <lb ed="#B1" n="32"/>runt omnes homines seipsos amantes. Extensiue, quia si aliqua sit compassio  
+          <lb ed="#B1" n="33"/>hominis ad alium, erit forte ad consanguineum, &amp; non ad extraneum, ad ami 
+          <lb ed="#B1" n="34"/>cum &amp; familiarem, &amp; non ultra: Et ideo signanter dicitur Eccles. 18. Miseratio 
+          <lb ed="#B1" n="35"/>hominis circa proximum suum: misericordia autem DEI super omnem carnem 
+          <lb ed="#B1" n="36"/>Breuis est etiam duratiue: quia non durat diutius quam homo cernitur oculis si  
+          <lb ed="#B1" n="37"/>cut porcus compatitur porco, quamdiu audit eum clamare, Oseae 6. Misericor 
+          <lb ed="#B1" n="38"/>dia uestra quasi matutina, &amp; quasi ros mane pertransiens. Non sic docuit To 
+          <lb ed="#B1" n="39"/>bias filium suum. Quomodo (inquit) potueris ita esto misericors, Tob. 4. Et A 
+          <lb ed="#B1" n="40"/>postolus ad Coloss. 3. Induite uos sicut electi DEI sancti &amp; dilecti uiscera mi 
+          <lb ed="#B1" n="41"/>sericordiae. Non dicit uerba misericordiae, sed uiscera. Multi enim sermonibus 
+          <lb ed="#B1" n="42"/>compatiuntur, sed operibus ualde pauci: &amp; tamen de solis operibus fiet com 
+          <lb ed="#B1" n="43"/>putatio in iudicio generali. Vnde Petrus Rauanensis in quodam sermone di 
+          <lb ed="#B1" n="44"/>cit: In regno coeli coram omnibus angelis in conuentu resurgentium, quod A 
+          <lb ed="#B1" n="45"/>bel passus sit, quod mundum saluauit Noe, quod Abraham fidem seruauit,  
+          <lb ed="#B1" n="46"/>quod Moyses legem dedit, quod Petrus crucem resupinus ascendit, DEVS ta 
+          <lb ed="#B1" n="47"/>cet, &amp; clamat, quod quasi pauper comedit dicens: Esuriui, &amp;c. Qui mise 
+          <lb ed="#B1" n="48"/>ricors est, misericordia dignus est. Haec Petrus Raua 
+          <lb ed="#B1" n="49"/>nensis in quodam sermone. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

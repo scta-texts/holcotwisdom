@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 134 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 134 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="450"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l134">
+        <p xml:id="rhwis-l134-d1e95">
+          <lb ed="#B1" n="27"/>POSTQVAM tactum fuit breuiter &amp; summatim de liberatione 
+          <lb ed="#B1" n="28"/>populi Israelitici de Aegypto in manu Moysi: In ista lectione pro 
+          <lb ed="#B1" n="29"/>sequitur Spiritus sanctus, siue Salomon per Spiritum sanctum 
+          <lb ed="#B1" n="30"/>diffusius, de modo recedendi eorundem. Et duo narrat, uidelicet  
+          <lb ed="#B1" n="31"/>Hebraeorum opulentam ditationem in eorum exitu de Aegypto, &amp; eorum 
+          <lb ed="#B1" n="32"/>mirabilem peregrinationem in deserto. Quantum ad primum dicit sic: Et red  
+          <lb ed="#B1" n="33"/>didit iustis mercedem laborum suorum.
+        </p>
+        <p xml:id="rhwis-l134-d1e113">
+          <lb ed="#B1" n="34"/>Vbi sciendum quod filij Israel in exitu eorum de Aegypto acceperunt mutuo ab 
+          <lb ed="#B1" n="35"/>Aegyptijs supellectilem uariam, uestes, &amp; uasa in magna copia, &amp; omnia se 
+          <lb ed="#B1" n="36"/>cum asportauerunt de mandato Domini: Vnde nec furtum comiserunt: Tum quia 
+          <lb ed="#B1" n="37"/>DEI autoritate fecerunt, qui est Dominus omnium: Tum etiam quia eis debebatur merces pro 
+          <lb ed="#B1" n="38"/>labore durissimo, quo serui etant in Aegypto, &amp; hoc est quod dicit: Et reddidit  
+          <!--sap_Page_485.xml-->
+          <pb ed="#B1" n="451"/>
+          <lb ed="#B1" n="1"/>iustis mercedem laborum suorum, quibus laboribus Aegyptijs seruierant annis  
+          <lb ed="#B1" n="2"/><!-- extra line that needs to be deleted in images; all line numbers below will need to be deleted or changes -->  
+          <lb ed="#B1" n="3"/>300. dando eis bona mobilia Aegyptiorum pro magna parte. Vnde canit Ec 
+          <lb ed="#B1" n="4"/>clesia: Haec nox est in qua Dominus spoliauit Aegyptios, ditauit Hebraeos.
+        </p>
+        <p xml:id="rhwis-l134-d1e140">
+          <lb ed="#B1" n="5"/>Sequitur secundum, de mirabili eorum peregrinatione in deserto, in qua 
+          <lb ed="#B1" n="6"/>pensanda sunt multa. Generaliter tamen duo, scilicet uiam per quam, &amp; tempus 
+          <lb ed="#B1" n="7"/>per quod. Quantum ad uiam fuerunt tres difficultates, spacium desertum, 
+          <lb ed="#B1" n="8"/>mare rubrum, &amp; flumen lordanicum. Quantum ad tempus sicut tunc, ita &amp; 
+          <lb ed="#B1" n="9"/>nunc. Fuerunt communes diuersitates, uidelicet diei &amp; noctis. In die pro 
+          <lb ed="#B1" n="10"/>texit eos a feruore maximo, qui est in partibus illis, per nubem, quae populum  
+          <lb ed="#B1" n="11"/>semper obumbrabit ne laederentur ab aestu. In nocte per columnam ignis quae 
+          <lb ed="#B1" n="12"/>eis illuxit ita, quod se transferre potuerunt, quando eis placebattam de no 
+          <lb ed="#B1" n="13"/>cte quam de die. Rursus ut ad uiam redeamus per quam de Aegypto transie 
+          <lb ed="#B1" n="14"/>runt, fuerunt tres difficultates sicut prius tetigi: Transitus per desertum, tran 
+          <lb ed="#B1" n="15"/>situs per mare rubrum, &amp; transitus per lordanis fluuium. In mari rubro fecit  
+          <lb ed="#B1" n="16"/>DEVS duodecim diuisiones iuxta numerum tribuum filiorum Israel: ita quod  
+          <lb ed="#B1" n="17"/>unaquaeque in sua diuisione transiret. Et ibi tribus luda meruit primo regnum: quia 
+          <lb ed="#B1" n="18"/>ipsa Moysen praecedentem primo secuta est alijs dubitantibus. Aegyptij aut has 
+          <lb ed="#B1" n="19"/>diuisiones uidentes in mari rubro, &amp; Hebraeos per easdem transire coram eis sine 
+          <lb ed="#B1" n="20"/>periculo, animati sunt ad intrandum mare rubrum, quod &amp; Dominus sustinuit pa 
+          <lb ed="#B1" n="21"/>tienter. Tandem in uigilia matutina respexit Dominus super castra Aegyptio 
+          <lb ed="#B1" n="22"/>rum, &amp; reuersae sunt aqua maris, quae steterant transeuntibus filijs Israel a dextris 
+          <lb ed="#B1" n="23"/>&amp; a sinistris quasi murus, &amp; submerserunt Pharaonem, &amp; exercitum eius totum. Di  
+          <lb ed="#B1" n="24"/>ci: ur aut ideo mare rubrum: quia omnis terra circustans rubra est, &amp; inficit aquan 
+          <lb ed="#B1" n="25"/>colore consimili, ibi etiam rubeae gemmae inueniuntur. His intellectis sensus lite 
+          <lb ed="#B1" n="26"/>rae satis patet. Dicit enim sic: Et deduxit illos in via mirabili, uidelicet per deser 
+          <lb ed="#B1" n="27"/>tam terram &amp; in uiam, nec illa quae isti asportauerunt de Aegypto, potuerunt eis  
+          <lb ed="#B1" n="28"/>sufficere ultra triginta dies. Et fuit illis in velamento diei: id est, per diem protexit  
+          <lb ed="#B1" n="29"/>eos per nuben sicut praedictum est: &amp; in luce stellarum per noctem: hoc est, in columna 
+          <lb ed="#B1" n="30"/>ignis: &amp; transtulit illos per mare rubrum, sicco, scilicet uestigio, &amp; sine periculo  
+          <lb ed="#B1" n="31"/>quantum ad mare rubrum, &amp; transuexit illos per aquam nimiam: id est, per lor 
+          <lb ed="#B1" n="32"/>danis fluuium, qui illo tempore transierat alueos suos: sicut patet losuae 3 de quo 
+          <lb ed="#B1" n="33"/>hic narranda est historia. Cum exploratores terram Promissionis uidissent, &amp; 
+          <lb ed="#B1" n="34"/>relationem losuae fecissent, certo tempore losua dicit ad populum, quem duce 
+          <lb ed="#B1" n="35"/>bat: Sanctificamini cras uidebitis mirabilia: statimque de mane dicit sacerdoti 
+          <lb ed="#B1" n="36"/>bus, quod accipientes arcam intrarent fluuium, qui tunc maximus fuit, tum 
+          <lb ed="#B1" n="37"/>ex aquis imbrium, cum ex liquefactione niuium de montibus. Cumque sacerdo 
+          <lb ed="#B1" n="38"/>tes intrassent aquam, steterunt aquae ex illa parte unde fluebant quasi mons, ex  
+          <lb ed="#B1" n="39"/>alia autem descendebant, &amp; currebant in mare mortuum. Sacerdotes uero stete 
+          <lb ed="#B1" n="40"/>runt in medio fluminis cum arca, dum uniuersus populus pertransiret. Et hanc  
+          <lb ed="#B1" n="41"/>historiam tangit hic cum dicit: Transuexit illos per aquam nimiam: id est, per lordanem 
+          <lb ed="#B1" n="42"/>qui tunc maximus existebat. Vel aliter potest exponi de mari rubro, &amp; tunc  
+          <lb ed="#B1" n="43"/>continuatur cum litera quae dicit: Inimicos aut illorum dimersit in mari: id est, 
+          <lb ed="#B1" n="44"/>Aegptios, &amp; ab altitudine inferorum eduxit eos scilicet Heoraeos, ab altitudi  
+          <lb ed="#B1" n="45"/>ne: id est, profunditate maris, quae ualde inferius descendebat.
+        </p>
+        <p xml:id="rhwis-l134-d1e231">
+          <lb ed="#B1" n="46"/>Transtulit illos per mare.] Moraliter, per mare per quod transire debemus ad 
+          <lb ed="#B1" n="47"/>regnum coeleste, quod est terra Promissionis nobis factae. Est mundus iste qui  
+          <lb ed="#B1" n="48"/>mare dicitur propter inquietudinem tempestatis, propter amaritudinem acerbitatis,  
+          <lb ed="#B1" n="49"/>&amp; propter inualitudinem sanitatis. Primo ergo iste mundus dicitur mare, &amp; com  
+          <lb ed="#B1" n="50"/>paratur mari propter inquietudinem tempestatis. In mari enim est abundantia 
+          <lb ed="#B1" n="51"/>fluctuum &amp; uentorum. Vnde qui in mari sunt, semper sunt in periculo. Eccle 
+          <lb ed="#B1" n="52"/>siast. 43. Qui nauigant mare, narrant pericula eius. Sic in praesenti uita semper 
+          <lb ed="#B1" n="53"/>sunt procellae &amp; fluctuationes undarum. Modo homo deprimitur per aduer 
+          <lb ed="#B1" n="54"/>sitatem, modo eleuat per prosperitatem, modo gaudet per sanitatem, modo dolet,  
+          <!--sap_Page_486.xml-->
+          <pb ed="#B1" n="452"/>
+          <lb ed="#B1" n="1"/>modo ridet, modo circumdatur turbis amicorum: modo hostium &amp; inimico 
+          <lb ed="#B1" n="2"/>rum, modo exaltatur ad dignitatem, modo humiliatur ad paupertatem, in Psal. 
+          <lb ed="#B1" n="3"/>Mirabiles elationes maris: id est, huius mundi fluctuantis. Macrob. 1. Saturnalium 
+          <lb ed="#B1" n="4"/>prope finem dicit: quod aqua maris proiecta in flammam eam non extinguit,  
+          <lb ed="#B1" n="5"/>neque accendit. Cuius ratio est naturalis pinguedo aquae marinae, quae est den 
+          <lb ed="#B1" n="6"/>sa, pinguis &amp; grauis. Moraliter loquendo: aqua maris est iocunditas secularis 
+          <lb ed="#B1" n="7"/>Haec iocunditas adiuncta flammae iuuenilis ardoris, eam accendit ultra omnem 
+          <lb ed="#B1" n="8"/>modum rectae rationis. Et ideo debent iuuenes uirtuosi se ab istis abstrahere, &amp; fer 
+          <lb ed="#B1" n="9"/>uorem suae iuuentutis in aqua dulci extinguere, Eccles. 3. Ignem ardentem ex  
+          <lb ed="#B1" n="10"/>tinguit aqua. In libro de naturis rerum dicitur quod si leo dormiat in naui trans  
+          <lb ed="#B1" n="11"/>eunte mare, nauis incipit mergi &amp; periclitari: cum uero uigilat, redit tranquil  
+          <lb ed="#B1" n="12"/>litas nauis. Moraliter quando praelatus dormit per negligentiam, congregatio 
+          <lb ed="#B1" n="13"/>incipit periclitari. Tali praelato dicitur Proverb. 23. Eris sicut dormiens in me 
+          <lb ed="#B1" n="14"/>dio maris, &amp; sicut gubernator amisso clauo. Et ideo ad hoc quod salus con 
+          <lb ed="#B1" n="15"/>gregationi reddatur, oportet talem praelatum excitari, cuius figuram habe  
+          <lb ed="#B1" n="16"/>mus, Matth. 8. ubi legimus quod CHRISTO in naui dormiente tantas su 
+          <lb ed="#B1" n="17"/>stinuit nauis tempestates, quod discipuli compellebantur Dominum excitare,  
+          <lb ed="#B1" n="18"/>&amp; dicere: Domine salua nos, perimus. Ecclesia in mundo est sicut nauis in ma 
+          <lb ed="#B1" n="19"/>ri. Vnde Ecclesia uocatur nauicula, iuxta illud metricum: 
+          <lb ed="#B1" n="20"/>Ecclesiam pro naui rego. sunt climata mundi, 
+          <lb ed="#B1" n="21"/>Sunt mihi Scripturae retia, piscis homo 
+        </p>
+        <p xml:id="rhwis-l134-d1e303">
+          <lb ed="#B1" n="22"/>Quando in ista naui dormit praelatus per negligentiam &amp; remissionem, exci 
+          <lb ed="#B1" n="23"/>tandus est per monitiones amicorum, ut pericula consideret, &amp; undas maris, 
+          <lb ed="#B1" n="24"/>ne nauicula submergat. Quam periculosum sit istud mare dicit beatus Bern 
+          <lb ed="#B1" n="25"/>hardus in quodam sermone: Periculosum (inquit) probat transeuntium raritas, 
+          <lb ed="#B1" n="26"/>&amp; pereuntium multitudo. In mari Marsiliae de quatuor nauibus non perituna: 
+          <lb ed="#B1" n="27"/>In mari huius mundi de quatuor animabus uix euadit una. Secundo mundus 
+          <lb ed="#B1" n="28"/>iste dicitur mare propter amaritudinem acerbitatis. Totum enim gaudium hu 
+          <lb ed="#B1" n="29"/>ius uitae aspersum est amaritudinibus. Vnde Grego. in quadam Homel. Vbique  
+          <lb ed="#B1" n="30"/>mors, ubique luctus, ubique desolatio, undique concutimur, undique amaritudine re 
+          <lb ed="#B1" n="31"/>plemur: &amp; tamen caeca mente carnalem concupiscentiam, &amp; eius amaritudi  
+          <lb ed="#B1" n="32"/>nes amamus: fugientem sequimur, labenti inhaeremus: &amp; quia labentem reti 
+          <lb ed="#B1" n="33"/>nere non possumus, cum ipsa labimur cadentem quam tenemus. Haec Grego. 
+          <lb ed="#B1" n="34"/>Clementer enim DEVS disposuit, ut uita ista taedijs &amp; tribulationibus sit ad 
+          <lb ed="#B1" n="35"/>mixta: quia eam aliter amaremus. Vnde sicut nutrix uolens puerum ablacta 
+          <lb ed="#B1" n="36"/>re, linit mamillam aliquo amaro, ut sinapio: Itao DEVS uolens nos ab amore mumn 
+          <lb ed="#B1" n="37"/>di retrahere, ipsum amaritudinibus uoluit admiscere. Vnde Grego. 24, moral  
+          <lb ed="#B1" n="38"/>Electis suis ad se pergentibus dominus huius mundi iter asperum facit, ne 
+          <lb ed="#B1" n="39"/>dum quisque uitae praesentis requie, quasi uiae amoenitate pascitur, magis eum 
+          <lb ed="#B1" n="40"/>diu pergere, quam citius peruenire delectet me dum delectatur in uia, obliui  
+          <lb ed="#B1" n="41"/>scatur quod desiderabat in patria. Sicut enim pisces non sentiunt amaritudinem 
+          <lb ed="#B1" n="42"/>maris, sic homines mundani horum non sentiunt amaritudinem: quia sunt ta 
+          <lb ed="#B1" n="43"/>libus assueti, Abacuc. 1. Facies hominis ut pisces maris
+        </p>
+        <p xml:id="rhwis-l134-d1e354">
+          <lb ed="#B1" n="44"/>Hic tamen est advertendum, quod uiri sancti qui inter alios, amaritudines 
+          <lb ed="#B1" n="45"/>mundi gustant, tripliciter sciunt eas dulcorare, secundum tres modos, quibus 
+          <lb ed="#B1" n="46"/>solent dulces fieri aquae maris. Aquae enim marinae siunt dulces per Solis ele 
+          <lb ed="#B1" n="47"/>uationem, per terrae transmutationem, &amp; per cerae distillationem. Isto modo  
+          <lb ed="#B1" n="48"/>sancti uiri tribulationes huius mundi dulces sibi faciunt. Primo per eleuationem: 
+          <lb ed="#B1" n="49"/>sicut Sol eleuat uapores a mari qui postea congelantur in nubes, de quibus 
+          <lb ed="#B1" n="50"/>dulcissima redditur aqua: sic sancti uiri tribulationibus agitati, statim in coelum 
+          <lb ed="#B1" n="51"/>ascendunt, ubi de gloria futura recogitant. Quibus pensatis manifeste consi 
+          <lb ed="#B1" n="52"/>derant, quod non sunt condignae passiones huius temporis ad futuram glo 
+          <lb ed="#B1" n="53"/>riam &amp; beatitudinem, quam expectant. Secundo aquae siunt dulces ex con 
+          <!--sap_Page_487.xml-->
+          <pb ed="#B1" n="453"/>
+          <lb ed="#B1" n="1"/>ditione terrae per quam transeunt. Vnde aquae transeuntes per terram sabulosam  
+          <lb ed="#B1" n="2"/>comuniter fiunt dulces. Sic moraliter, si mortem nostram, &amp; nos in breui mori 
+          <lb ed="#B1" n="3"/>turos, &amp; in terram vertendos cogitemus: dicemus quod uana sunt quaecumque in hac 
+          <lb ed="#B1" n="4"/>uita dura uident. Hieron. inquit: Facile contemnit omnia qui semper se cogitat  
+          <lb ed="#B1" n="5"/>moriturum. Tertium experimentum est, quod si uas integrum &amp; concauum de cera uirgi 
+          <lb ed="#B1" n="6"/>nea factum mittatur in mare, inuenitur cito repletum aqua, ualde dulci: eo quod  
+          <lb ed="#B1" n="7"/>cera illa nihil amaritudinis pmittit transire. Sic moraliter CHRISTVM reco 
+          <lb ed="#B1" n="8"/>gitemus, in cuius persona dicit Psal. Factum est cor meum tanquam cera liquescens. 
+          <lb ed="#B1" n="9"/>Et certe cera uirginea, quia de Virgine pura natus est, &amp; in eum referamus, 
+          <lb ed="#B1" n="10"/>quidquid hic tribulationis toleramus, &amp; totum fiet dulce. Ratio est: quia cera ta 
+          <lb ed="#B1" n="11"/>lis est in se dulcis ex natura mellis, &amp; habet in se poros per quos aqua salsa tra 
+          <lb ed="#B1" n="12"/>hitur, &amp; sic dulcescit. CHRISTVS aut dulcis est ex natura mellis: quia conceptus 
+          <lb ed="#B1" n="13"/>in Virgine pura fuit de Spiritu sancto. De quo Eccles. 24. Spiritus enim meus 
+          <lb ed="#B1" n="14"/>super mel dulcis. Poros aut habet patentes, magnos, &amp; paruos: uulnera uideli  
+          <lb ed="#B1" n="15"/>cet, spinis &amp; clauis, lancea &amp; flagellis, corpori suo sancto pro nobis illata. Et ideo 
+          <lb ed="#B1" n="16"/>si per istos poros tribulationes huius uitae distillare uelimus: nihil est ita magnum, 
+          <lb ed="#B1" n="17"/>nec ita graue quin paruissimum uidebitur ad illud, quod ipse pro nobis non pro 
+          <lb ed="#B1" n="18"/>se uoluit tolerare. Vnde Ambrosius in quodam sermone: Omnia habemus in 
+          <lb ed="#B1" n="19"/>CHRISTO, et omnia in nobis habet CHRISTVS. Si uulnera curare desideras. 
+          <lb ed="#B1" n="20"/>medicus est: si febribus aestuas, fons est: si grauaris iniqua sententia, iusticia est: si 
+          <lb ed="#B1" n="21"/>indiges auxilio, uirtus est: si mortem times, uita est: si tenebras fugis, Iux est: sicoe  
+          <lb ed="#B1" n="22"/>lum desideras, uia est: si cibum quaeris, alimentum est. Sic igit CHRISTVS amaritudi  
+          <lb ed="#B1" n="23"/>nes huius uitae dulciter recogitatus efficit nobis dulces, nec uia uite nostrae in 
+          <lb ed="#B1" n="24"/>tolerabilis nobis fiat. Esa. 51. Posuisti profundum maris uiam, ut transirent libera  
+          <lb ed="#B1" n="25"/>ti. Hoc est dictum quantumcunque sit homo in profundo tribulationis in hoc mari 
+          <lb ed="#B1" n="26"/>magno, uiam tamen habet per qua CHRISTVS praecessit. Tertio mundus iste 
+          <lb ed="#B1" n="27"/>dicitur mare propter inualitudinem sanitatis. Non est aliquis quantumcunque bonae 
+          <lb ed="#B1" n="28"/>complexionis, qui ita beneposset esse sanus in mari, sicut in terra. Illi enim qui in 
+          <lb ed="#B1" n="29"/>terra nutriti, &amp; ad terram sunt assueti, quando in mare ueniunt, pessime patiuntur,  
+          <lb ed="#B1" n="30"/>&amp; abominationem tantam habent, quod inter nautas non possunt capita eleua 
+          <lb ed="#B1" n="31"/>re. Isto modo moraliter nullus est ita morigeratus, qui possit ita uirtuose uiue 
+          <lb ed="#B1" n="32"/>re in mari huius mundi, sicut in solida terra sanctae religionis: nec est aliquis in 
+          <lb ed="#B1" n="33"/>religione bona radicaliter educatus, quin multas abominationis patiatur, si 
+          <lb ed="#B1" n="34"/>se immisceat mundanis: ut merito dici possit illud Soph. 2. Vae qui habitatis  
+          <lb ed="#B1" n="35"/>funiculum maris, gens perditorum. 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

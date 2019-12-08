@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 135 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 135 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n=""/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l135">
+        <p xml:id="rhwis-l135-d1e95">
+          <lb ed="#B1" n="36"/>NPRICATA liberatione filiorum Israel de Aegypto, &amp; eorun 
+          <lb ed="#B1" n="37"/>mirabili peregrinatione in deserto: Hic prosequitur de iustorum 
+          <lb ed="#B1" n="38"/>gratiarum actione. Postquam enim Dominus tot mirabiles plagas 
+          <lb ed="#B1" n="39"/>fecerat in Aegypto: Diuisiones in mari rubro, submersiones Aegy 
+          <!--sap_Page_488.xml-->
+          <pb ed="#B1" n="454"/>
+          <lb ed="#B1" n="1"/>ptiorum in eo, &amp; filij Israel se in manu forti liberatos &amp; liberos uiderunt, sta 
+          <lb ed="#B1" n="2"/>tim DEO gratias reddiderunt. Vnde tunc temporis fecit Moyses illud canti  
+          <lb ed="#B1" n="3"/>cum, quod ponitur Exod. 15. Cantemus Domino, gloriose enim magnifica 
+          <lb ed="#B1" n="4"/>tus est, &amp;c. &amp; moratus est totus populus iuxta litus maris 7. diebus, &amp; omni 
+          <lb ed="#B1" n="5"/>die accesserunt ad litus cum tympanis, &amp; cytharis, &amp; alijs musicis instrumen 
+          <lb ed="#B1" n="6"/>tis, &amp; cantauerunt illud canticum Domino: Viri seorsum in turma una, &amp; mu 
+          <lb ed="#B1" n="7"/>lieres seorsum in alia. Consimili autem modo Ecclesia septem diebus in 
+          <lb ed="#B1" n="8"/>hebdomada Paschae, descendit cum processione &amp; cantu ad fontem baptis  
+          <lb ed="#B1" n="9"/>malem, cantando cum gaudio illud Psalm. In exitu Israel de Aegypto. Fuit  
+          <lb ed="#B1" n="10"/>autem canticum istud Moysi factum metrice uersibus hexametris siue metro 
+          <lb ed="#B1" n="11"/>heroico, in quo nobilium uictoriae describi solent. Et quia istud canticum est 
+          <lb ed="#B1" n="12"/>primum, de quo legimus: Ideo uocatur Canticum canticorum ratione anti 
+          <lb ed="#B1" n="13"/>quitatis.
+        </p>
+        <p xml:id="rhwis-l135-d1e139">
+          <lb ed="#B1" n="14"/>Narrando igitur in lectione ista de iubilo atque laude, quam DEO dederunt  
+          <lb ed="#B1" n="15"/>filij Israel liberati ab Aegyptijs, quatuor facit. Primo enim dicit, laudantium 
+          <lb ed="#B1" n="16"/>conditionem: secundo laudis intentionem: tertio tantae iocunditatis assignat  
+          <lb ed="#B1" n="17"/>occasionem: &amp; quarto istius laudis ordinationem. Illi nanque qui laudauerunt  
+          <lb ed="#B1" n="18"/>iusti fuerunt: quia Ecclesiast. 15. Non est speciosa laus in ore peccatoris. Vnde 
+          <lb ed="#B1" n="19"/>quantum ad hoc dicit primo sic: Iusti tulerunt spolia impiorum, ideo, uidelicet,  
+          <lb ed="#B1" n="20"/>quia sapientia direxit populum Israel, ideo ipsi iuste tulerunt spolia impiorum. 
+          <lb ed="#B1" n="21"/>Quando enim impij submersi sunt &amp; proiecti ad litus maris, filij Israel eos spo 
+          <lb ed="#B1" n="22"/>liauerunt armis, &amp; rebus quas habebant: similiter spoliauerunt eos ante aspor 
+          <lb ed="#B1" n="23"/>tando de mandato Domini uestes, &amp; uasa argentea, &amp; aurea de Aegypto. Huic  
+          <lb ed="#B1" n="24"/>historiae alludit August. 2. de doctrina Christiana cap. ultmo dicens: Quod <quote xml:id="rhwis-l135-Qd1e165" source="http://scta.info/resource/addc-l2-d1e652">si for 
+            <lb ed="#B1" n="25"/>te uera &amp; fidei nostrae accommoda philosophi dixerunt, &amp; maxime Platonici, 
+            <lb ed="#B1" n="26"/>non solum formidanda non sunt, sed ab eis tanquam ab iniustis possessoribus 
+            <lb ed="#B1" n="27"/>in usum nostrum uendicanda. Sicut enim Aegyptij non tantum idola habuerunt,  
+            <lb ed="#B1" n="28"/>&amp; onera grauia, quae populus Israel detestaretur &amp; fugeret: sed etiam uasa atque  
+            <lb ed="#B1" n="29"/>ornamenta de auro &amp; argento, quae populus Israel exiens de Aegypto in usus 
+            <lb ed="#B1" n="30"/>meliores, de praecepto Domini uendicauit, sic etiam doctrinae gentilium non solum 
+            <lb ed="#B1" n="31"/>supersticiosa &amp; superuacua continent, sed scientias liberales aptissimas usui ue 
+            <lb ed="#B1" n="32"/>ritatis</quote>: Et quaedam praecepta de bonis moribus quae omnia sunt a bonis Theo 
+          <lb ed="#B1" n="33"/>logis uendicanda secundum sententiam Aug. ut philosophia bona Theologiae sub  
+          <lb ed="#B1" n="34"/>seruiat. Et ideo tam in philosophia quam in poetria debent Theologi ad horam a 
+          <lb ed="#B1" n="35"/>liquam studuisse. Nec est ueritas contenenda, licet in theca lateat uanitatis. Vnde 
+          <lb ed="#B1" n="36"/>cum Virgilius studeret in poetria, &amp; quidam ab eo quaereret, quid faceret: respon 
+          <lb ed="#B1" n="37"/>dit: Lego (inquit) aurum in stercore: id est, colligo sapientiam de rudi poetria. Iusti 
+          <lb ed="#B1" n="38"/>igitur tulerunt spolia impiorum: id est, Aegyptiorum, qui in eos impij fuerunt &amp;  
+          <lb ed="#B1" n="39"/>ctudeles: &amp; decantauerunt, Domine nomen sanctum tuum. Ecce recta intentio 
+          <lb ed="#B1" n="40"/>laudantium: quia non hominibus decantauerunt, nec dominabus, sed Domi 
+          <lb ed="#B1" n="41"/>no, quem specialiter extulerunt, de nobilitate suae essentiae, &amp; strenuitate suae 
+          <lb ed="#B1" n="42"/>potentiae: Vnde dicit: Decantauerunt Domine nomen sanctum tuum, quo nomi 
+          <lb ed="#B1" n="43"/>ne nobilis eius essentia designatur, in Psalm. Domine Dominus noster, quam  
+          <lb ed="#B1" n="44"/>admirabile est nomen tuum in uniuersa terra. Haec quantum ad primum, 
+          <lb ed="#B1" n="45"/>Et victricem manum tuam laudauerunt pariter. Manum: id est, potentiam quan 
+          <lb ed="#B1" n="46"/>tum ad secundum, &amp; ita fecerunt unanimiter, mulieres seorium, &amp; uiri seor 
+          <lb ed="#B1" n="47"/>sum. Et hoc est multo commendabilius, quam committere mulieres inter cle 
+          <lb ed="#B1" n="48"/>ricos &amp; cantores stare, &amp; discurrere in choro, Zach. 12. Familiae &amp; familiae 
+          <lb ed="#B1" n="49"/>seorsum &amp; mulieres eorum seorsum. Laudauerunt igitur, sed ex qua actio  
+          <lb ed="#B1" n="50"/>ne. Certe quia sapientia os mutorum aperuit: id est. Hebrgeotum, qui fuerunt ante 
+          <lb ed="#B1" n="51"/>quasi muti prae timore &amp; captiuitate in qua fuerunt. Et linguas infantium fecit 
+          <lb ed="#B1" n="52"/>disertas: hoc est, Hebraeorum, qui siluerunt a laude DEI in Aegypto, quasi in 
+          <lb ed="#B1" n="53"/>tantes non potentes loqui. Eorum, inquam, linguas sapientia fecit disertas: id est,  
+          <!--sap_Page_489.xml-->
+          <pb ed="#B1" n="455"/>
+          <lb ed="#B1" n="1"/>expeditas ad loquendum. Ad disertitudinem multum confert iocunditas 
+          <lb ed="#B1" n="2"/>&amp; audacia. Et per oppositum obstat &amp; impedit omnis timor. Et ideo 
+          <lb ed="#B1" n="3"/>postquam euaserunt Aegyptiorum timorem statim facti sunt diserti ad DEVM 
+          <lb ed="#B1" n="4"/>suum laudandum. Sed de cuius ordinatione fecerunt istum laudem. Certe haec 
+          <lb ed="#B1" n="5"/>&amp; alia fecerunt de mandato Moysis. Et ideo subiungit: Direxit opera eorum, 
+          <lb ed="#B1" n="6"/>videlicet sapientia in manibus prophetae sancti, scilicet Moysis, Oseae 12. In mani 
+          <lb ed="#B1" n="7"/>bus prophetarum assimilatus sum.
+        </p>
+        <p xml:id="rhwis-l135-d1e251">
+          <lb ed="#B1" n="8"/>Decantauerunt Domine nomen sanctum tuum.] Si filij Israel nomen Domini 
+          <lb ed="#B1" n="9"/>decantauerunt deuote, quia eos de seruitute Aegyptiaca liberauit, multo ma 
+          <lb ed="#B1" n="10"/>gis nos nomen Domini decantare debemus, &amp; uenerari, qui nos a poena in 
+          <lb ed="#B1" n="11"/>ferni passione sua redemit. Ipsi enim laudare potuerunt nomen antiquum tre 
+          <lb ed="#B1" n="12"/>mendae potentiae: nos autem nomen nouum pietatis &amp; clementiae in Psalm. 
+          <lb ed="#B1" n="13"/>Secundum nomen tuum DEVS, sic &amp; laus tua in fines terrae. Hoc nomen 
+          <lb ed="#B1" n="14"/>est IESVS, de quo Matth. 1. <quote xml:id="rhwis-l135-Qd1e268" source="http://scta.info/resource/mt1_21">Vocabis nomen eius IESVM: Ipse enim saluum 
+            <lb ed="#B1" n="15"/>faciet populum suum a peccatis eorum</quote>: Solent enim multum amantes de per 
+          <lb ed="#B1" n="16"/>sonis amatis facere cantilenas, earum nomina exprimendo. Igitur de hoc no 
+          <lb ed="#B1" n="17"/>mine IESVidem faciamus iuxta illud Psalm. Laudabo nomen Domini cum  
+          <lb ed="#B1" n="18"/>cantico, &amp; magnificabo eum in laude.
+        </p>
+        <p xml:id="rhwis-l135-d1e280">
+          <lb ed="#B1" n="19"/>Est igitur notandum quod istud nomen est nomen honoris &amp; excellentiae,  
+          <lb ed="#B1" n="20"/>nomen amoris &amp; beneuolentiae, nomen ualoris &amp; omnipotentiae. Primo est no 
+          <lb ed="#B1" n="21"/>men honoris &amp; excellentiae, Phil. 2. Dedit illi nomen, quod est super omne no 
+          <lb ed="#B1" n="22"/>men: ut in nomine IESVomne genu flectatur, coelestium, terrestrium, &amp; infer 
+          <lb ed="#B1" n="23"/>norum. Vnde secundum sacros canones, quando hoc nomen IESVS profertur in 
+          <lb ed="#B1" n="24"/>Ecclesia, omnis Christianus inclinari docetur cum capite: quanuis iam hoc quam 
+          <lb ed="#B1" n="25"/>multa alia spiritualia in quibus lucrum diuitiarum non consistit, a praelatis huius 
+          <lb ed="#B1" n="26"/>temporis negligantur. Istud nomen est nomen nouum, &amp; nouiter fuit CHRISTO 
+          <lb ed="#B1" n="27"/>impositum in sua circuncisione. Vocatum est nomen eius IESVS quod uocatum est 
+          <lb ed="#B1" n="28"/>ab angelo, priusquam in utero conciperetur, Luc. 2. Solent enim homines nomi 
+          <lb ed="#B1" n="29"/>na nova assumere triplici ratione. Quidam ratione adeptae dignitatis, quidam ra 
+          <lb ed="#B1" n="30"/>tione celandae ueritatis, &amp; quidam ratione practicae probitatis. Ratione adeptae 
+          <lb ed="#B1" n="31"/>dignitatis. Omnis persona quae creatur in Papam, eligit sibi nomen nouum, &amp; no 
+          <lb ed="#B1" n="32"/>men tale quod uirtutum bonitatem &amp; modestiam repraesentet: quasi dicat, qualiter 
+          <lb ed="#B1" n="33"/>cunque fuerim temporibus retroactis, rigidus uel iniustus, negligens uel seuerus, 
+          <lb ed="#B1" n="34"/>ero deinceps pietate modestus, &amp; regulatus uirtute: Secundo ratione celandae 
+          <lb ed="#B1" n="35"/>ueritatis. Solent nonulli sibi assumere nomina nova, &amp; maxime tales, qui intrant 
+          <lb ed="#B1" n="36"/>regnum in quo dominantur inimici eorum: Tunc solent tales statum suum celare, &amp; se 
+          <lb ed="#B1" n="37"/>extraneo nomine nuncupare, ne eorum conditio alijs innotescat. Tertio ratione 
+          <lb ed="#B1" n="38"/>practicae probitatis: sicut Manilius Torquatus: iste enim fuit quidam Romanus &amp;  
+          <lb ed="#B1" n="39"/>dicebatur Lucius Manilius, quem cum quidam Gallus ad singulare certamen prouoca 
+          <lb ed="#B1" n="40"/>uit, cum eo congressus ipsum occidit, &amp; torquem auream, quam in collo gestabat au 
+          <lb ed="#B1" n="41"/>ferens sibi imposuit. A quo facto nomen Torquati tam sibi quam posteris coqui  
+          <lb ed="#B1" n="42"/>siuit. Et sic etiam propter auctam magnifice Romanam rempublicam Octa 
+          <lb ed="#B1" n="43"/>uianus dicebatur August. Propter istas tres rationes, decuit CHRISTVM Fi  
+          <lb ed="#B1" n="44"/>lium DEI noviter incarnatum sibi assumere nomen nouum. Creatus nanque fuit  
+          <lb ed="#B1" n="45"/>Apostolicus siue summus Pontifex, &amp; caput Ecclesiae secundum humanitatem, 
+          <lb ed="#B1" n="46"/>Eph. 1. Ipsum dedit caput super omnem Ecclesiam, qui est corpus eius, ad Hebrae.: 3: 
+          <lb ed="#B1" n="47"/><quote xml:id="rhwis-l135-Qd1e344" source="http://scta.info/resource/hebr3_1">Considerate Apostolum, &amp; Pontificem nostrae confessionis IESVM</quote>. Et quia fuerat 
+          <lb ed="#B1" n="48"/>multum rigidus ante uoluit in suo nomine futurae clementiae significare modestiam. 
+          <lb ed="#B1" n="49"/>Secundo, quia ipse intrauit mundum istum corporaliter, in quo daemones qui sibi ini 
+          <lb ed="#B1" n="50"/>micabant grauiter, &amp; ut plurimum dominabantur, uoluit se occultare ne ab eis  
+          <lb ed="#B1" n="51"/>deprehenderetur, ut latere possit, principes, &amp; potestates tenebrarum harum. Ter 
+          <lb ed="#B1" n="52"/>tio ratione practicae probitatis quam fecit sanguine proprio redimendo ge 
+          <lb ed="#B1" n="53"/>nus humanum. Vnde statim effuso modico sanguine in circumcisione, qui  
+          <!--sap_Page_490.xml-->
+          <pb ed="#B1" n="456"/>
+          <lb ed="#B1" n="1"/>fuit quasi pignus &amp; arra completae redemptionis futurae, impositum fuit sibi 
+          <lb ed="#B1" n="2"/>istud nomen IESVS, Esa. 62. Vocabitur tibi nomen nouum, quod os Domi 
+          <lb ed="#B1" n="3"/>ni nominauit. Est igitur nomen IESVS nomen honoris &amp; excellentiae. Se 
+          <lb ed="#B1" n="4"/>cundo hoc nomen est nomen amoris &amp; beneuolentiae, Esa. 26. Nomen tuum 
+          <lb ed="#B1" n="5"/>&amp; memoriale tuum in desiderio animae. Anima mea desiderauit te in nocte. 
+          <lb ed="#B1" n="6"/>Nec mirum, quia secundum Bernhard, hoc nomen IESVS est mel in ore, melos 
+          <lb ed="#B1" n="7"/>in aure, iubilus in corde. Hoc nomen bene senserat beatus lgnatius, qui tor 
+          <lb ed="#B1" n="8"/>mentis expositus, nomen istud semper sonabat. A quo cum pagani quaere 
+          <lb ed="#B1" n="9"/>rent, quare incessanter hoc nomen inuocaret: Dixit quod illud sic in corde 
+          <lb ed="#B1" n="10"/>scriptum habuit, quod illud obliuioni tradere non ualebat. Hic igitur cum oc 
+          <lb ed="#B1" n="11"/>cisus fuisset, cor de corpore extraxerunt, &amp; illud in partes minutas deciderunt,  
+          <lb ed="#B1" n="12"/>&amp; semper in unaquaeque particula hoc nomen IESVS scriptum aureis literis in 
+          <lb ed="#B1" n="13"/>uenerunt. Hoc nomen Paulus sibi multum impresserat, cuius caput a corpo  
+          <lb ed="#B1" n="14"/>re decollatum illud manifeste sonuit clara uoce. Qui etiam nomen CHRISTI 
+          <lb ed="#B1" n="15"/>sub isto termino IESVS uel CHRISTVS in suis Epistolis 500. uicibus repli  
+          <lb ed="#B1" n="16"/>cauit. Huius etiam nominis amorem satis sibi impresserat, qui pro eo contu 
+          <lb ed="#B1" n="17"/>meliam &amp; opprobria perpeti se gaudebat. Act. 5. Ibant Apostoli gaudentes 
+          <lb ed="#B1" n="18"/>a conspectu concilij, &amp;c. Tertio nomen istud est nomen ualoris &amp; omnipo 
+          <lb ed="#B1" n="19"/>tentiae, cui nihil uel diabolicum uel phantasticum potest resistere, si digne contra 
+          <lb ed="#B1" n="20"/>daemones proferatur. Vnde Marc. 16. uel ulti. In nomine meo daemonia eijci 
+          <lb ed="#B1" n="21"/>ent, linguis loquentur nouis, serpentes tollent, &amp;c. Vnde narratur, quod cum 
+          <lb ed="#B1" n="22"/>quidam gentilis ad fidem nostram fuisset conuersus, daemones sibi inuidentes 
+          <lb ed="#B1" n="23"/>mirabiliter eum infestauerunt, &amp; uisibiliter uerberauerunt frequenter. Iste ad 
+          <lb ed="#B1" n="24"/>doctrinam cuiusdam uiri sancti in quatuor angulis linteaminum suorum fecit 
+          <lb ed="#B1" n="25"/>istud nomen sanctum scribi: &amp; quotiens ad cameram intrauerunt stantes a re 
+          <lb ed="#B1" n="26"/>motis dixerunt, ha, IESV, ha, IESV: sed ad lectum nullatenus appropinquare 
+          <lb ed="#B1" n="27"/>ualebant. Ille conuersus de novo hoc uidens scripsit hoc nomen, &amp; ad quan 
+          <lb ed="#B1" n="28"/>dam lanceam appendit, &amp; quotiens ad eum molestandum uenerunt, lanceam  
+          <lb ed="#B1" n="29"/>cum nomine eius obiecit, &amp; sic ab eis penitus extitit liberatus. De hoc nomi 
+          <lb ed="#B1" n="30"/>ne verificatur illud Ioel. 2. Omnis quicunque inuocauerit nomen Domini, sal 
+          <lb ed="#B1" n="31"/>uus erit. Huius nominis uisa uirtute sanctus Dionysius Ariopagita, conuer 
+          <lb ed="#B1" n="32"/>sus est ad fidem. Sicut enim refert Magister in historijs super Actus Apostolo  
+          <lb ed="#B1" n="33"/>rum. Contigit quendam caecum coram Paulo &amp; Dionysio in Athenis trans  
+          <lb ed="#B1" n="34"/>ire. Dixit ergo Dionysius Paulo: Si dixeris isti caeco: In nomine DEI tui uide,  
+          <lb ed="#B1" n="35"/>&amp; sic uiderit, ego statim credam. Sed ne utaris magicis uerbis: quia forte nosti 
+          <lb ed="#B1" n="36"/>uerba, quae habent huiusmodi efficaciam, ego praescribam formam uerborum: 
+          <lb ed="#B1" n="37"/>In hac (inquit) forma uerborum dicas: In nomine IESV CHRISTI nati de 
+          <lb ed="#B1" n="38"/>de uirgine crucifixi, mortui, qui &amp; resurrexit, &amp; ascendit in coelum, uide. Sed 
+          <lb ed="#B1" n="39"/>ut omnis suspicio tolleretur, Paulus praecepit Dionysio, ut ipsemet eadem uer 
+          <lb ed="#B1" n="40"/>ba proferret. Quo facto, qui fuerat caecus uidit: &amp; Dionysius statim conuersus 
+          <lb ed="#B1" n="41"/>est. Vnde de isto nomine singulariter &amp; signanter dicitur Act. 4. Nec 
+          <lb ed="#B1" n="42"/>enim est aliud nomen sub coelo datum hominibus, in quo 
+          <lb ed="#B1" n="43"/>oporteat nos saluos fieri, &amp;c 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

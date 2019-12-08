@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 121 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 121 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="405"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l121">
+        <p xml:id="rhwis-l121-d1e95">
+          <lb ed="#B1" n="20"/>POSTTA supplicatione deuota pro sapientia impetranda, &amp; alle  
+          <lb ed="#B1" n="21"/>gata ratione tam ex parte DEI, quam ex parte Salomonis. Hic ite 
+          <lb ed="#B1" n="22"/>rato redit ad continuationem suae petitionis. Et circa haec tria facit. 
+          <lb ed="#B1" n="23"/>Primo petit quod sapientia detur sibi liberalitaer. Secundo innuit  
+          <lb ed="#B1" n="24"/>quod intendit per eam regi generaliter. Tertio probatquod ipsa possit eum 
+          <lb ed="#B1" n="25"/>bene regere moraliter. Secunda pars ibitvt mecum sit. Tertia ibi: Scit enim om 
+          <lb ed="#B1" n="26"/>nia illa. Circa primum dicit sic: Mitte illam: id est, sapientiam, quae est fides in 
+          <lb ed="#B1" n="27"/>fusa, operans per dilectionem, de celis sanctis tuis: id est, de coelo empyreo, quod  
+          <lb ed="#B1" n="28"/>inhabitare principaliter crederis, licet omni loco tu assis: Sicut em dicit Arist. 
+          <lb ed="#B1" n="29"/>primo de coelo, secundum omnes antiquos: coelum est locus DEI, &amp; quod est in 
+          <lb ed="#B1" n="30"/>coelo, nec ueterascit, nec mutatur, nec alterat, sed habet uitam in secula seculorum. 
+          <lb ed="#B1" n="31"/>Et a sede magnitudinis tuae, figuratiua locutio est. Loquitum enim deDEO modo  
+          <lb ed="#B1" n="32"/>humano, cum tamen sit sine quantitate magnus, &amp; sine qualitate bonus, &amp; sine situ 
+          <lb ed="#B1" n="33"/>praesidens, ut dicit Aug. 5. de Tri. cap. 4. Per sedem ergo magnitudinis nihil aliud  
+          <lb ed="#B1" n="34"/>intelligitur, nisi quies uel tranquillitas DEI omnipotentis, qua uniuersa dis  
+          <lb ed="#B1" n="35"/>ponit. Sap. 12. Tu autem dominator uirtutis cum tranquillitate iudicas. Se 
+          <lb ed="#B1" n="36"/>cundo ostendit ad quid istam sapientiam tantum optat, &amp; dicit, ut per eam re 
+          <lb ed="#B1" n="37"/>gatur generaliter, &amp; perficiatur essendo, agendo, &amp; cognoscendo. Vnde sub  
+          <lb ed="#B1" n="38"/>dit: Vt mecum sit quantum ad primum 1. Corinth.15. Gratia DEI sum id quod 
+          <lb ed="#B1" n="39"/>sum, &amp; mecum laboret. Quantum ad secundum, 1. Corinth.15. Abundantius 
+          <lb ed="#B1" n="40"/>illis omnibus laboraui, non ego, sed gratia DEI mecum. Vt sciam quid acce 
+          <lb ed="#B1" n="41"/>prtum sit apud te. Quantum ad tertium. Et hoc dupliciter, scilicet DEI bene 
+          <lb ed="#B1" n="42"/>placitum cognoscendo, &amp; me eidem conformando.
+        </p>
+        <p xml:id="rhwis-l121-d1e147">
+          <lb ed="#B1" n="43"/>Vt mecum sit &amp; mecum laboret.] Notandum est quod si primus parens in sta 
+          <lb ed="#B1" n="44"/>tu innocentiae perstitisset, omnes eius posteri sine labore meruissent. Perfe 
+          <lb ed="#B1" n="45"/>ctam enim fuisset obedientia carnis ad spiritum. Vnde sicut coelum mouetur sine 
+          <!--sap_Page_440.xml-->
+          <pb ed="#B1" n="406"/>
+          <lb ed="#B1" n="1"/>fatigatione &amp; labore, eo quod suo motori non resistit: Ita corpus tunc ab a 
+          <lb ed="#B1" n="2"/>nima sine labore motum fuisset. lam uero nec cogitare de aliquo diu possumus 
+          <lb ed="#B1" n="3"/>sine labore corporis, &amp; a multo fortiori, nec loqui possumus, nec moveri. In 
+          <lb ed="#B1" n="4"/>Psalm. Existimabam ut cognoscerem hoc, labor est ante me. In tantum autem 
+          <lb ed="#B1" n="5"/>uersa est in contrarium nostra conditio, ut qui nati fuissemus ad quietem, si 
+          <lb ed="#B1" n="6"/>peccatum non esset: generaliter &amp; quasi naturaliter nascimur ad laborem, di 
+          <lb ed="#B1" n="7"/>cit Iob. Homo ad laborem nascitur, &amp; auis ad uolandum. Iob. 5. Sicut autem 
+          <lb ed="#B1" n="8"/>peregrinus ueniens ad concursus uiarum eligere potest, per quam uelit ambu 
+          <lb ed="#B1" n="9"/>lare, nullam tamen ibit sine labore: Ita homo positus in hac uita multas uias ui  
+          <lb ed="#B1" n="10"/>uendi inuenit, in diuitijs &amp; paupertate, &amp; honore &amp; seruitute, in delicijs &amp; mi 
+          <lb ed="#B1" n="11"/>serijs: sed nullam accipiet, in qua magnum laborem non inueniet: Si diues esse uo 
+          <lb ed="#B1" n="12"/>luerit, in diuitijs congregandis, conseruandis &amp; dispensandis necessario labo  
+          <lb ed="#B1" n="13"/>rabit. Ecclesiast. 31. Laborabit diues in congregatione substantiae. Et statim se 
+          <lb ed="#B1" n="14"/>quitur: Laborabit pauper in diminutione uictus. Et sic discurrendo ubique la 
+          <lb ed="#B1" n="15"/>borem reperiet: quoniam haec fuit poenitentia toti humano generi iniuncta 
+          <lb ed="#B1" n="16"/>Gen. 3. Maledicta terra in opere tuo: in laboribus comedes ex ea omnibus 
+          <lb ed="#B1" n="17"/>diebus uitae tuae. Laborare ergo debemus in uita praesenti uiriliter &amp; uirtuo 
+          <lb ed="#B1" n="18"/>se propter tria: uidelicet propter conuenientiam permissi temporis, propter poe 
+          <lb ed="#B1" n="19"/>nitentiam commissi sceleris, &amp; propter uehementiam promissi muneris.
+        </p>
+        <p xml:id="rhwis-l121-d1e202">
+          <lb ed="#B1" n="20"/>Primo dico laborare debemus in praesenti, non quiescere, non ociari pro 
+          <lb ed="#B1" n="21"/>pter conuenientiam, permissi temporis. Tempus enim quo uiuimus, &amp; aeterni 
+          <lb ed="#B1" n="22"/>tas uitae futurae sic comparantur ad inuicem, sicut uigilia praecedens &amp; festum se 
+          <lb ed="#B1" n="23"/>quens. In uigilijs enim solennitatum solent homines laborare feruenter &amp; diu, 
+          <lb ed="#B1" n="24"/>unde in talibus uigilijs faciunt agricolae altam noctem: In diebus uero festiuis 
+          <lb ed="#B1" n="25"/>indulgere solent communiter quieti &amp; solatio. lsto modo moraliter nunc 
+          <lb ed="#B1" n="26"/>est uigilia in qua ieiunijs &amp; laboribus nos dare debemus, 1. Petri 5. Sobrij e 
+          <lb ed="#B1" n="27"/>stote &amp; uigilate. Et 2. Corinth. 6. In omnibus exhibeamus nosmeipsos sicut  
+          <lb ed="#B1" n="28"/>DEI ministros, in laboribus, uigilijs, &amp; in ieiunijs multis. Sed cras in uita futu 
+          <lb ed="#B1" n="29"/>ra erit festum, &amp; solennitas sempiterna, &amp; ideo nunc uacabimus gaudio, laetitia &amp; 
+          <lb ed="#B1" n="30"/>quiete. Apoc. 14. Beati mortui, qui in Domino moriuntur: amodo iam dicit 
+          <lb ed="#B1" n="31"/>apiritus, ut requiescant a laboribus suis. Vnde Hieron. in quadam Epist. Nullus 
+          <lb ed="#B1" n="32"/>labor durus, nullus tempus uideri debet longum, quo gloria aeternitatis adqui  
+          <lb ed="#B1" n="33"/>ritur. Sicut omnino fatus esset, qui in uigilia omnibus laborantibus &amp; sudan 
+          <lb ed="#B1" n="34"/>tibus ociosus foret, &amp; in festo laboraret, quando omnes gauderent &amp; quiesce 
+          <lb ed="#B1" n="35"/>rent: sic fatuus esset qui in praesenti uita quietem acceptaret, in qua CHRISTVS 
+          <lb ed="#B1" n="36"/>&amp; omnes sancti, qui nos praecesserunt laboribus, &amp; poenitentijs se dederunt, &amp; 
+          <lb ed="#B1" n="37"/>sibi in futuro laborem perpetuum thesaurixaret. In Psal. Laborabit in aeternum, 
+          <lb ed="#B1" n="38"/>&amp; uiuet adhuc in finem.
+        </p>
+        <p xml:id="rhwis-l121-d1e246">
+          <lb ed="#B1" n="39"/>Secundo tenemur laboribus uirtuosis insistere propter poenitentiam com 
+          <lb ed="#B1" n="40"/>missi sceleris. Magna enim gratia foret, si Dominus remitteret rustico perpe 
+          <lb ed="#B1" n="41"/>tuam seruitutem pro labore unius diei, &amp; merito diceret ille rusticus tali die labo  
+          <lb ed="#B1" n="42"/>rare diligentissime. Moraliter omnis peccator seruituti perpetuae addicitur,  
+          <lb ed="#B1" n="43"/>quando peccat. Iohan. 8. Omnis qui facit peccatum, seruus est peccati. Pro 
+          <lb ed="#B1" n="44"/>hac seruitute peccati in perpetuum laborare deberet in inferno, ut dictum est, 
+          <lb ed="#B1" n="45"/>nisi sacramentum poenitentiae mediaret, per quod poena aeterna in poenam tem 
+          <lb ed="#B1" n="46"/>poralem commutaretur. Iustus est ergo quemlibet qui peccauerit diebus uitae 
+          <lb ed="#B1" n="47"/>istius fortiter laborare propter poenitentiam commissi sceleris. Exemplo pro 
+          <lb ed="#B1" n="48"/>phetae qui ait: Laboraui in gemitu meo, lauabo per singulas noctes lectum 
+          <lb ed="#B1" n="49"/>meum, lachrymis meis stratum meum rigabo. Homines qui animose laborant  
+          <lb ed="#B1" n="50"/>cito patiuntur sudorem: Ita deuoti in labore poenitentiae cito irrigantur sudo 
+          <lb ed="#B1" n="51"/>re lachrymarum contritionis. Dicit Aristinus de prople. parte 23. proble. 23: quod  
+          <lb ed="#B1" n="52"/>quando plorantes lachrymas emittimus, lachrymae sunt calidae, quando autem dolen 
+          <lb ed="#B1" n="53"/>tes oculos ex aliqua infirmitate emittimus lachrymas, lachrymae illae sunt frigi 
+          <!--sap_Page_441.xml-->
+          <pb ed="#B1" n="407"/>
+          <lb ed="#B1" n="1"/>dae. Et huius causam assignat talem. Indigestum est frigidum, digestum uero cali  
+          <lb ed="#B1" n="2"/>dum. Dolentium autem oculos lachryma est in digesta propter quod &amp; frigi 
+          <lb ed="#B1" n="3"/>da, propter quod &amp; medici signum putant esse maximae aegritudinis frigidos su 
+          <lb ed="#B1" n="4"/>dores: Calidos aut econtrario bonae alterationis. Et huius subiungit causam, cum 
+          <lb ed="#B1" n="5"/>quidem fuerit superfluitas multa in oculo, non potest interius calidum illam digerere: 
+          <lb ed="#B1" n="6"/>quare necesse est frigidam esse. Quando autem pauca superfluitas est, tunc calor uin 
+          <lb ed="#B1" n="7"/>cit, quare tunc lachrymae sunt calidae. Fiunt autem ex superfluitatibus aegritudines 
+          <lb ed="#B1" n="8"/>huiusmodi. Moraliter loquendo inter poenitentes est diuersitas: quia aliqui com  
+          <lb ed="#B1" n="9"/>teruntur ex charitate, &amp; amore iustitiae: charitas autem ignis est. Et ideo istorum la 
+          <lb ed="#B1" n="10"/>chrymae sunt bene digestae calore charitatis, &amp; istorum iudores sunt calidi &amp; sig  
+          <lb ed="#B1" n="11"/>nant sanitatem. Alij autem uidentur poenitentes, &amp; atteruntur magis quam conteran 
+          <lb ed="#B1" n="12"/>tur: recogitant enim poenam infernalem quam peccando meruerunt, &amp; exinde 
+          <lb ed="#B1" n="13"/>timorem cocipiunt, quo timore ducti lachrymas frigidas &amp; sudores frigidos fa 
+          <lb ed="#B1" n="14"/>ciunt: quia confessionem frigidam faciunt de peccatis timore poenae, non amore 
+          <lb ed="#B1" n="15"/>iustitiae: sic poenituit Antioch. 2. Mach. 9. Orabat scelestus Dominum a quo non 
+          <lb ed="#B1" n="16"/>erat misericordia consecuturus. Sic ludas poenitentia ductus retulit triginta ar 
+          <lb ed="#B1" n="17"/>genteos dicens: Peccaui tradens sanguinem iustum, Matth. 27. Ista est confessio  
+          <lb ed="#B1" n="18"/>frigida per timorem &amp; desperationem. Et ideo signum est magnae infirmitatis. Isti 
+          <lb ed="#B1" n="19"/>sic laborantes licite dicere possunt illud Luc. 5. Per totam noctem laborantes nihil 
+          <lb ed="#B1" n="20"/>coepimus. Tales non fuerunt lachrymae Petri, Matth. 26. Nec lachrymae Mariae 
+          <lb ed="#B1" n="21"/>Magdalenae, Luc. 7. Tertio laborare debemus in praesenti per opera merito 
+          <lb ed="#B1" n="22"/>ria propter uehementiam promissi muneris. Consideratio enim mercedis, ac 
+          <lb ed="#B1" n="23"/>cendit amorem laboris. Isto modo persuadendi laborem uirtutis utitur Boët. uel 
+          <lb ed="#B1" n="24"/>philosophia loquens Boët. 4. de conso. Metro ultimo: Vbi inducit exemplum 
+          <lb ed="#B1" n="25"/>trium uirorum illustrium, qui labores maximos pro uirtute, &amp; gloria temporali  
+          <lb ed="#B1" n="26"/>sustinuerunt, uidelicet Agamemnonis, Vlyssis, &amp; Herculis. Quorum primus 
+          <lb ed="#B1" n="27"/>bello decennali Troiam deuastauit, per summa pericula: Secundus Polyphe 
+          <lb ed="#B1" n="28"/>mum gigantem monoculum, qui omnes socios deuorauerat, per summam audaciam 
+          <lb ed="#B1" n="29"/>interemit: Tertius Hercules qui duros labores sustinuit,. De quo dicitur:  
+          <lb ed="#B1" n="30"/>Hlerculem duri celebrant labores. Ille centaur os domuit superbos, &amp;c. quae 
+          <lb ed="#B1" n="31"/>hic non ponam. Et tandem dicit sic:  
+          <lb ed="#B1" n="32"/>VItimus coelum labore irresle xo 
+          <lb ed="#B1" n="33"/>Sustulit collo, preciumque rursus 
+          <lb ed="#B1" n="34"/>VItimi celestem meruit laboris.  
+          <lb ed="#B1" n="35"/>Et enarratis istis exemplis dicit sic:  
+          <lb ed="#B1" n="36"/>Ite nunc fortes vbi celsa magni. Terga nudatis superata tellus. 
+          <lb ed="#B1" n="37"/>Ducit exempli via cur inertes  banan.n1n.n Sidera donat.  
+          <lb ed="#B1" n="38"/>Vult dicere: Vos qui uirtuosi &amp; fortes esse uultis, ite ad coelum per uiam uir 
+          <lb ed="#B1" n="39"/>tutis, quae cum sit uia excelsa, est uia magni exempli, quia multi &amp; magni am 
+          <lb ed="#B1" n="40"/>bulant per eam, qui ante uos iuerunt. Et ideo uia excelsa magni exempli ducit 
+          <lb ed="#B1" n="41"/>uos. Cur inertes terga nudatis, quasi miseri fugientes de praelio, &amp; petentes ab 
+          <lb ed="#B1" n="42"/>hostibus misericordiam: Ecce qualis merces uobis promittitur. Superata tel  
+          <lb ed="#B1" n="43"/>lus sidera donat: hoc est dictum: Habeatis uos sic in terra quod uictores sitis  
+          <lb ed="#B1" n="44"/>&amp; supra sidera erit in perpetuum merces uestra. Et hoc est quod dicitur Sap. 3. 
+          <lb ed="#B1" n="45"/>Bonorum laborum gloriosus est fructus. Et in Psalm. Labores manuum tua 
+          <lb ed="#B1" n="46"/>rum quia manducabis, beatus es &amp; bene tibi erit. De hac beatitudine loquitur  
+          <lb ed="#B1" n="47"/>Bernhard, in quodam sermone dicens: O beata regio paradisi: O beata regio 
+          <lb ed="#B1" n="48"/>deliciarum, ad quam suspiro de ualle lachrymarum: ubi sapientia sine igno 
+          <lb ed="#B1" n="49"/>rantia, ubi memoria sine obliuione, ubi intellectus sine errore, ubi ratio sine 
+          <lb ed="#B1" n="50"/>obscuritate fulgebit. Beati qui ibi habitant dicentes cum Psalm. 
+          <lb ed="#B1" n="51"/>Beati qui habitant in domo tua Domine, in secula se 
+          <lb ed="#B1" n="52"/>culorum laudabunt te.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 109 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 108 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="440"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l131">
+        <p xml:id="rhwis-l131-d1e95">
+          <lb ed="#B1" n="34"/>OSTQVAM declaratum est, quomodo sapientia, quae est ue 
+          <lb ed="#B1" n="35"/>rus DEI cultus, liberauit lacob in fugiendo fratris sui odium, in 
+          <lb ed="#B1" n="36"/> contrahendo duplex coniugium, &amp; in exhibendo Laban labo  
+          <lb ed="#B1" n="37"/>riosum seruitium: quae omnia fecit partim uersus Laban itineran 
+          <lb ed="#B1" n="38"/>do, partim cum eo morando. Hic consequenter ostendit quo 
+          <lb ed="#B1" n="39"/>modo sapientia eundem Iacob gubernauit ad partes suas repatriando. Ha 
+          <lb ed="#B1" n="40"/>buit enim Iacob fratrem suum persecutorem, auunculum suum seductorem, 
+          <lb ed="#B1" n="41"/>&amp; angelum suum colluctatorem. Et ab istis tribus sapientia eum custodiuit, si 
+          <lb ed="#B1" n="42"/>cut sibi expediuit: Nam germanum suum reconciliauit, Auunculum suum ra 
+          <lb ed="#B1" n="43"/>tione placauit, &amp; ab angelo benedictionem impetrauit.  
+          <!--sap_Page_475.xml-->
+          <pb ed="#B1" n="441"/>
+          <lb ed="#B1" n="1"/>Sciendum est ergo quem Iacob repatriando cum uxoribus, liberis, gregibus, &amp; armentis  
+          <lb ed="#B1" n="2"/>tres sustinuit difficultates. Prima fuit quoe cum fugeret clam a Laban cum omnibus 
+          <lb ed="#B1" n="3"/>quae adquisierat sub eius seruitio, Laban indignatus, quod non accepta licentia &amp; 
+          <lb ed="#B1" n="4"/>insalutato hospite recessisset cum gregibus &amp; filiabus suis, insecutus est eum cum 
+          <lb ed="#B1" n="5"/>magna cominatione &amp; comitatu, sicut narratur Gen. 31. Et septimo die eum 
+          <lb ed="#B1" n="6"/>attigit: Cui nocte praecedenti Dominus apparuit &amp; dixit ei: Caue ne quicquam 
+          <lb ed="#B1" n="7"/>loquaris aspere contra Iacob. Qua increpatione correptus Laban nihil nisi ra 
+          <lb ed="#B1" n="8"/>tionabile ad lacob dixit. Et ibi finaliter pactum fecerunt, &amp; titulum lapidis erexerunt  
+          <lb ed="#B1" n="9"/>in signum, quod neuter unquam in posterum contra alium transire liceret. Secunda difficul  
+          <lb ed="#B1" n="10"/>tas quam habuit in repatriando de fratre suo, quem audiuit sibi uelle occurrere cum 
+          <lb ed="#B1" n="11"/>quadringentis uiris, &amp; contra hunc timorem DEVS eum confortauerat antem, osten 
+          <lb ed="#B1" n="12"/>dens ei multitudinem angelorum, Gen. 32. in loco qui dicitur Mahanaim: id est, ca 
+          <lb ed="#B1" n="13"/>stra quem locum sibi uocauit sic: quia ibi uidit angelos DEI, de quibus ait: Castra 
+          <lb ed="#B1" n="14"/>DEI sunt haec. Tertia difficultas quam sustinuit in repatriando fuit in lucta an 
+          <lb ed="#B1" n="15"/>geli: de qua Gen. 32. ubi dicitur queo uir luctabatur cum eo usque mane: sed finali  
+          <lb ed="#B1" n="16"/>ter uir ille sibi benedixit, &amp; quo contra germanum praeualeret praedixit. Liberatio  
+          <lb ed="#B1" n="17"/>nem ergo lacob per sapientiam describens dicit sic: Custodiuit illum ab inimicis, uideli  
+          <lb ed="#B1" n="18"/>cet a fratre eum perse quente, antequam fugeret a patria sua, &amp; a Laban eum insequen 
+          <lb ed="#B1" n="19"/>te, cum redire uellet ad patriam suam, Proverb. 16. Cum placuerint Domino uiae ho 
+          <lb ed="#B1" n="20"/>minis, inimicos eius conuertet ad pacem. Et a seductoribus tutauit illii: hoc est, a 
+          <lb ed="#B1" n="21"/>fraudibus Laban eum persequentis, &amp; filiorum suorum, quando morabatur in Me 
+          <lb ed="#B1" n="22"/>sopotamia: Et certamemn forte dedit illi vt vinceret quando cum angeloluctaba 
+          <lb ed="#B1" n="23"/>tur, &amp; uictoriam obtinuit: non per uiolentiam, sed per deuotionem, angelo uolente 
+          <lb ed="#B1" n="24"/>sibi dare signum. Quia sicut luctabatur cum eo, &amp; tamen habuit finaliter uicto 
+          <lb ed="#B1" n="25"/>riam: ita sustineret aduersitatem a fratre, &amp; tamen in fine uictoriam haberet. Et  
+          <lb ed="#B1" n="26"/>sic experimentaliter disceret, &amp; sciret quoniam omnium potentior est sapientia quen 
+          <lb ed="#B1" n="27"/>attingit a fine usque ad finem fortiter, &amp; disponit omnia suauiter, Sap. 8.
+        </p>
+        <p xml:id="rhwis-l131-d1e182">
+          <lb ed="#B1" n="28"/>Custodiuit illum ab inimicis.] Notandum quod inter omnia praesentis ui  
+          <lb ed="#B1" n="29"/>tae necessaria, maxime foret utile scire, discernere inter amicos &amp; inimicos: quia 
+          <lb ed="#B1" n="30"/>frequenter amicos credimus illos, qui sunt realiter inimici, &amp; illos inimicos ali  
+          <lb ed="#B1" n="31"/>quotiens aestimamus, qui nobis realiter sunt amici. Sunt enim duo genera ho 
+          <lb ed="#B1" n="32"/>minum qui apparent amici, &amp; sunt hostes &amp; inimici. Et duo genera hominum 
+          <lb ed="#B1" n="33"/>uidentur inimici, &amp; sunt amici: &amp; ita quidam realiter, quidam apparenter.
+        </p>
+        <p xml:id="rhwis-l131-d1e198">
+          <lb ed="#B1" n="34"/>Vnde quadruplices habemus inimicos, uidelicet blandos adulatores, falsos  
+          <lb ed="#B1" n="35"/>consiliatores, detrahentes &amp; persecutores, corripientes &amp; correctores. Pri 
+          <lb ed="#B1" n="36"/>mi sunt exanimandi per conscientiam: secundi sunt repudiandi per pruden  
+          <lb ed="#B1" n="37"/>tiam: tertij sunt tolerandi per patientiam: quarti sunt acceptandi per bene 
+          <lb ed="#B1" n="38"/>uolentiam.
+        </p>
+        <p xml:id="rhwis-l131-d1e211">
+          <lb ed="#B1" n="39"/>Primi igitur inimici a quibus nos custodire debemus, sunt blandi adula 
+          <lb ed="#B1" n="40"/>tores. Qui enim in collo te ita suauiter raderet, &amp; guttur tibi amputaret, uel 
+          <lb ed="#B1" n="41"/>ideo genam tuam tergeret, ut oculum erueret, talis merito foret inimicus di 
+          <lb ed="#B1" n="42"/>cendus: sed adulator cuius lingua novacula acuta &amp; dolosa, &amp; ideo tibi blan 
+          <lb ed="#B1" n="43"/>ditur, ut te decipiat, &amp; oculum discretionis tibi eruat. Ecclesiast. 12. In labijs  
+          <lb ed="#B1" n="44"/>suis indulcat inimicus, &amp; in corde suo insidiatur, ut subuertat te in foueam. 
+          <lb ed="#B1" n="45"/>In oculis tuis lachrymabitur inimicus, &amp; si inuenerit tempus non satiabitur  
+          <lb ed="#B1" n="46"/>sanguine. Si incurrerint tibi mala, tunc inuenies eum illic priorem, &amp; quasi ad 
+          <lb ed="#B1" n="47"/>iuuans suffodiet plantas tuas. De ista materia loquitur Seneca Epistola 80 
+          <lb ed="#B1" n="48"/>Secundum quantitatem maiorem adulatio quam similis amicitiae, non imi 
+          <lb ed="#B1" n="49"/>tatur tamen illam, sed uincit &amp; penetrat apertis ac propicijs auribus accipitur,  
+          <lb ed="#B1" n="50"/>&amp; in ima praecordia descendit: eo ipso gratiosa quo ledit. Doce, quemadmo 
+          <lb ed="#B1" n="51"/>dum istam similitudinem possim dinoscere, uenit ad me pro amico, inimicus 
+          <lb ed="#B1" n="52"/>blandus: uitia sub uirtutum nomine subripiunt: temeritas sub titulo fortitudi  
+          <lb ed="#B1" n="53"/>nis latet: Ignauia vocatur moderatio, pro cauto timidus accipitur. In his dicit 
+          <!--sap_Page_476.xml-->
+          <pb ed="#B1" n="442"/>
+          <lb ed="#B1" n="1"/>Seneca, magno periculo errauimus. Imo sicut declarat idem Epist. 45. Non su 
+          <lb ed="#B1" n="2"/>mus contenti modica laudatione, imo si quis nos sanctissimos, sapientissimos, 
+          <lb ed="#B1" n="3"/>&amp; modestissimos praedicet, totum nos acceptamus tanquam nobis debitum: 
+          <lb ed="#B1" n="4"/>cum constet nobis que illi solent mentiri comuniter, qui nos laudant, &amp; tamen 
+          <lb ed="#B1" n="5"/>in laudibus nostris credimus eis, &amp; ideo nos non corrigimus. Ideo mutari non 
+          <lb ed="#B1" n="6"/>uolumus: quia nos optimos esse credimus: &amp; ideo sententia Platonis fuit, si 
+          <lb ed="#B1" n="7"/>cut dicitur libro de dictis philosophorum seu sapientum: Quod homines ex inimi 
+          <lb ed="#B1" n="8"/>cis magis realibus quam ex amicis apparentibus proficiunt: quia dum inimici 
+          <lb ed="#B1" n="9"/>eis errores eorum improperant, corriguntur. Amici uero non manifestant er 
+          <lb ed="#B1" n="10"/>rores, sed tolerant &amp; occultant. Mich. 7. Inimici hominis domestici eius. Et E 
+          <lb ed="#B1" n="11"/>sa. 3. Popule meus quibeatum te dicunt, ipsi te decipiunt, &amp; uias gressuum tuo 
+          <lb ed="#B1" n="12"/>rum dissipant. Isti igitur examinandi sunt per conscientiam. Consideremus de 
+          <lb ed="#B1" n="13"/>fectus nostros, de quibus conscij nobis sumus, &amp; tunc non decipiemur: &amp; hoc 
+          <lb ed="#B1" n="14"/>est quod docet nos Seneca in Epist. ult. allegata, inducens exemplum de Ale 
+          <lb ed="#B1" n="15"/>xandro Magno, qui in obsidione cuiusdam urbis, dum circuiret muros, sagitta 
+          <lb ed="#B1" n="16"/>percussus, cum uulnus uehementer doleret, ait: Omnes (inquit)iurant me esse filium 
+          <lb ed="#B1" n="17"/>louis, sed uulnus hoc hominem me esse clamat. Idem &amp; nos faciamus, dicit Sene 
+          <lb ed="#B1" n="18"/>ca, dicamus: Vos dicitis me prudentem esse, ego uideo quam multa inutilia con 
+          <lb ed="#B1" n="19"/>cupiscam. Nec hoc quidem intelligo, quod animalibus satietas monstrat, quis cibo, 
+          <lb ed="#B1" n="20"/>quis potioni debeat esse modus. De isto inimico exponi potest illud Eccl. 12. 
+          <lb ed="#B1" n="21"/>Ne credas inimico tuo in aeternum. Nocentior enim omnium non est pestis, quam fami 
+          <lb ed="#B1" n="22"/>liaris inimicus. Qui dum uerbis bonis saltem apparentibus laudem exprimere 
+          <lb ed="#B1" n="23"/>nititur, intus sub complacentiae typo uiscus fraudis atque doloris seminatur.
+        </p>
+        <p xml:id="rhwis-l131-d1e300">
+          <lb ed="#B1" n="24"/>Secundi uero nostri inimici sunt falsi consiliatores, qui nobis aliter sugge 
+          <lb ed="#B1" n="25"/>runt quam expedit animabus: &amp; hi maxime sunt periculosi in communitate 
+          <lb ed="#B1" n="26"/>quacunque. Quia sicut in bonis consiliatoribus consistit maxime honor, salus, &amp; 
+          <lb ed="#B1" n="27"/>profectus reipublicae: ita in malis consiliatoribus maxime consistit confusio, &amp; sub  
+          <lb ed="#B1" n="28"/>uersio eiusdem. Dicit enim Tullius libro suo de Senectute: quod consiliator 
+          <lb ed="#B1" n="29"/>est in republica sicut gubernator in naui. In naui (inquit) alij sentinam exhau 
+          <lb ed="#B1" n="30"/>riunt, alij chordas trahunt, alij malum scandunt. Ille uero qui tenet clauum, est 
+          <lb ed="#B1" n="31"/>quietus, sedens in puppi, &amp; multa maiora facit, &amp; Auicenna dicit, quod con 
+          <lb ed="#B1" n="32"/>silians est efficiens, sicut dans formam secundum quam alius habet operari 
+          <lb ed="#B1" n="33"/>&amp; dirigi. Distinguit enim quadruplex efficiens, consilians, adiuuans, dispo 
+          <lb ed="#B1" n="34"/>nens, perficiens
+        </p>
+        <p xml:id="rhwis-l131-d1e327">
+          <lb ed="#B1" n="35"/>Debent igitur ipsi consiliarij habere in uita sanctitatem, in uerbo ueritatem, 
+          <lb ed="#B1" n="36"/>in zelo aequitatem, &amp; in experimento sagacitatem: &amp; tales in Romana repu 
+          <lb ed="#B1" n="37"/>blica uocabuntur senatores, &amp; se habent in comunitate, sicut cor in corpore, se 
+          <lb ed="#B1" n="38"/>cundum Plutarchum. Vnde Romulus condita ciuitate, quam ex nomine suo Romam 
+          <lb ed="#B1" n="39"/>uocauit, centum ex senatoribus elegit, quorum consilio omnia ageret, quos sena 
+          <lb ed="#B1" n="40"/>tores propter senectutem, patres propter solicitudinem curae nominauit. Horum nomi 
+          <lb ed="#B1" n="41"/>na ab initio urbis conditae aureis literis scribebantur, propter quod patres con 
+          <lb ed="#B1" n="42"/>scripti ab omnibus dicebantur. Isti eligebantur postquam emeriti in diuersis sta 
+          <lb ed="#B1" n="43"/>tibus, &amp; officijs extitissent: tanto aptiores sapientiae negociis, quanto in exerci 
+          <lb ed="#B1" n="44"/>tijs corporis minus possent. Istorum apud Graecos tantus honor fuit, quod nun 
+          <lb ed="#B1" n="45"/>quam duces producerent, nec aliquod solene facerent sine istis. Sicut igit isti senato 
+          <lb ed="#B1" n="46"/>res, &amp; consiliatores sunt reipub. utilissimi, quando sunt boni &amp; uirtuosi: ita, sunt  
+          <lb ed="#B1" n="47"/>iudici, principi, &amp; plato perniciosissimi, quando sunt mali: quando uidelicet ha 
+          <lb ed="#B1" n="48"/>bent zelum pro comodo suo priuato &amp; personali, &amp; non pro bono comuni, quando 
+          <lb ed="#B1" n="49"/>sunt corrupti cupiditate, &amp; receptione, quando sunt nimis perterriti: dissimulant  
+          <lb ed="#B1" n="50"/>dicere ueritatem, quod odio amore uel rancore regulantur, uel inuidia ad alios,  
+          <lb ed="#B1" n="51"/>tunc consulendo principem destruunt, quem regere &amp; dirigere deberent: &amp; 
+          <lb ed="#B1" n="52"/>siunt non solum ei, sed toti reipublicae pessimi inimici, quorum cuilibet di 
+          <lb ed="#B1" n="53"/>ci potest illud quod dicit Paulus Elymae mago, Act. 13. O plene omni dolo 
+          <!--sap_Page_477.xml-->
+          <pb ed="#B1" n="443"/>
+          <lb ed="#B1" n="1"/>&amp; omni fallacia fili Diaboli, inimici omnis iusticiae, non desinis subuertere 
+          <lb ed="#B1" n="2"/>uias Domini rectas. Talis consiliator fuit ille Aman, qui subtilitatem nobi  
+          <lb ed="#B1" n="3"/>lissimi principis Assueri fraudulentis consilijs circumuenit, &amp; nobilis regis  
+          <lb ed="#B1" n="4"/>innocentiam ad nephariam crudelitatem induxit. Hest. 13. Hostis noster &amp; 
+          <lb ed="#B1" n="5"/>inimicus pessimus iste est Aman. Isti igitur inimici sunt repudiandi per pru 
+          <lb ed="#B1" n="6"/>dentiam, sicut idem Assuerus fecit. Aman quando iniquam sententiam ad 
+          <lb ed="#B1" n="7"/>suggestionem &amp; consilium eius datam, de occidendo toto genere ludaeorum, 
+          <lb ed="#B1" n="8"/>misericorditer retractauit. 
+        </p>
+        <p xml:id="rhwis-l131-d1e392">
+          <lb ed="#B1" n="9"/>Tertij inimici nostri sunt detrahentes &amp; persecutores. Et istos uulgariter 
+          <lb ed="#B1" n="10"/>uocamus hostes &amp; inimicos qui personas &amp; conditiones nostras laedunt, &amp; 
+          <lb ed="#B1" n="11"/>tamen ipsi frequenter nobis proficiunt. Sicut enim docet Boëtius 4. de Con 
+          <lb ed="#B1" n="12"/> solatione prosa 6. Prouidentia diuina exinde saepe producit insigne miracu 
+          <lb ed="#B1" n="13"/>lum, quod malos mali bonos faciunt. Nam dum mali quidam considerant se 
+          <lb ed="#B1" n="14"/>iniqua quaedam a pessimis perpeti, noxiorum odio flagrantes ad uirtutis fru 
+          <lb ed="#B1" n="15"/>gem redeunt, dum se eis dissimiles student esse quos oderant. Tales sunt ad 
+          <lb ed="#B1" n="16"/>uersus religiosos &amp; sanctos uiros isti mundo dediti &amp; Diabolo, qui facta &amp; 
+          <lb ed="#B1" n="17"/>uitam sanctorum laniant, iudicant &amp; deprauant, quorum infamatio timen 
+          <lb ed="#B1" n="18"/>da non est: quia est a turpibus orta. Sicut enim dicit Gregorius super Exce 
+          <lb ed="#B1" n="19"/>chielem: Peruersorum derogatio uitae nostrae approbatio est: quia iam o 
+          <lb ed="#B1" n="20"/>stenditur iusticiae aliquid nos habere, si illis qui DEO non placent, incipi 
+          <lb ed="#B1" n="21"/>mus displicere.
+        </p>
+        <p xml:id="rhwis-l131-d1e423">
+          <lb ed="#B1" n="22"/>Non enim est derogatio, sed commendatio lucis, si eam odiunt &amp; fugiunt  
+          <lb ed="#B1" n="23"/>uespertiliones. Sancti uiri sunt lux mundi per lucidam famam, &amp; sinceram  
+          <lb ed="#B1" n="24"/>conscientiam, 1. Thessalon. 5. Vos filij lucis estis &amp; filij diei. Peccatores au 
+          <lb ed="#B1" n="25"/>tem sunt sicut uespertiliones, amantes semper opera tenebrarum. Iterum non 
+          <lb ed="#B1" n="26"/>est derogatio, sed commendatio odoris uitis, si eum serpentes fugiunt. Boni 
+          <lb ed="#B1" n="27"/>uiri sunt bonus odor CHRISTI per bonam conuersationem suam, 2. Co 
+          <lb ed="#B1" n="28"/>rinthiorum 2. Alijs quidem sumus odor mortis in mortem, alijs autem uitae 
+          <lb ed="#B1" n="29"/>in uitam. Peccatores autem sunt serpentes pleni ueneno peccati. Tertio non 
+          <lb ed="#B1" n="30"/>est derogatio, sed commendatio coloris, si caeci de illo mentiantur, &amp; iudicant  
+          <lb ed="#B1" n="31"/>falsum. Peccatores caeci sunt, Sophocles 1. Ambulant ut caeci: quia Domino 
+          <lb ed="#B1" n="32"/>peccauerunt, &amp; Sapientiae 2. Excaecauit eos malicia eorum. Vnde &amp; iudicia 
+          <lb ed="#B1" n="33"/>temeraria de sanctis sunt simpliciter contemnenda. Vnde cum quidam iu 
+          <lb ed="#B1" n="34"/>uenis ociosus diceret Demostheni philosopho: Si homines me odirent sicut  
+          <lb ed="#B1" n="35"/>te, me ipsum perimerem. Et respondit: Et ego me perimerem, si me quemad  
+          <lb ed="#B1" n="36"/>modum te amarent. Quarto non est derogatio, sed commendatio medici, si 
+          <lb ed="#B1" n="37"/>phreneticus maledicat. Serui DEI sunt medici animarum: Peccatores au 
+          <lb ed="#B1" n="38"/>tem sicut phrenetici. Si igitur tales uiros sanctos diffamant, oportet eorum blas  
+          <lb ed="#B1" n="39"/>phemias deridere. Vnde legitur de Vespasiano lmperatore, quod cum esset  
+          <lb ed="#B1" n="40"/>auarus &amp; senex &amp; quidam improperando sibi diceret: Vulpem pellem posse  
+          <lb ed="#B1" n="41"/>mutare non animum: Respondit: Risum huiusmodi debemus hominibus, no 
+          <lb ed="#B1" n="42"/>bis correctionem, poenam criminosis.
+        </p>
+        <p xml:id="rhwis-l131-d1e471">
+          <lb ed="#B1" n="43"/>Quarti inimici quos habemus apparenter, sed tamen realiter sunt amici: 
+          <lb ed="#B1" n="44"/>sunt corripientes &amp; correctores, qui nos de nostris excessibus &amp; erroribus ar 
+          <lb ed="#B1" n="45"/>guunt, puniunt &amp; emendant. Veritas enim est errantibus odiosa, quamdiu 
+          <lb ed="#B1" n="46"/>in erroribus perseuerant. Talis fuit Paulus erga Galatas, quibus dicit Gal. 4: 
+          <lb ed="#B1" n="47"/>ergo inimicus factus sum uobis, uerum dicens uobis: Isti inimici sunt ac 
+          <lb ed="#B1" n="48"/>ceptandi ad beneuolentiam, Matth. 5. Diligite inimicos ue 
+          <lb ed="#B1" n="49"/>stros, &amp; benefacite his, qui uos oderunt, hoc 
+          <lb ed="#B1" n="50"/>est, uitiosos mores ue 
+          <lb ed="#B1" n="51"/>stros.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

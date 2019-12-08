@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 115 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 115 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="385"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l115">
+        <p xml:id="rhwis-l115-d1e95">
+          <lb ed="#B1" n="28"/>CTAVVM &amp; ultimum emolimentum, quod sapientia confert 
+          <lb ed="#B1" n="29"/>possessori suo, est iocunditas solaminis in conscientia: quod quidem 
+          <lb ed="#B1" n="30"/>emolimentum, Salomon se asserit habiturum in hodierna lectione. 
+          <lb ed="#B1" n="31"/>Et circa haec duo facit. Primo allegat modum aeternae iocunditatis: 
+          <lb ed="#B1" n="32"/>Secundo assignat causam aeternae tranquillitatis. Secunda pars ibi:  
+          <lb ed="#B1" n="33"/>Non enim habet amaritudinem. Circa primum dicit sic: lntrans in domum meum 
+          <lb ed="#B1" n="34"/>conquiescam cum illa, quasi dicat: Ecce quantum mihi emolimentum accrescit, si 
+          <lb ed="#B1" n="35"/>mihi sapientiam: id est, cultum DEI desponsauero. Si enim nihil aliud pro do 
+          <lb ed="#B1" n="36"/>te reciperem cum hac sponsa, hoc mihi solum deberet sufficere quod intrans in domu 
+          <lb ed="#B1" n="37"/>meam: id est, conscientiam meam, conquiescam: id est, quietem inueniam, cum illa: id  
+          <lb ed="#B1" n="38"/>est, sapientia. Nulla quies exterior poterit delectari, quamdiu conscientia habet  
+          <lb ed="#B1" n="39"/>unde poterit murmurare. Haec est domus, quam sancti post labores, &amp; taedia se 
+          <lb ed="#B1" n="40"/>culi repetunt &amp; requirunt. Haec est domus quam DEO dedicare debemus per 
+          <lb ed="#B1" n="41"/>sanctam conuersationem. In Psal. Domum tuam decet sanctitudo Domine in lon 
+          <lb ed="#B1" n="42"/>gitudine dierum. De securitate &amp; tranquillitate conscientiae loquens beatus Greg. 
+          <lb ed="#B1" n="43"/>super Excech. Homel. 9. dicit sic: In omni quod DEI est, semper tacite recurrere 
+          <lb ed="#B1" n="44"/>debemus ad mentem, &amp; interiorem testem, &amp; iudicem requirere. Quid enim pdest, 
+          <lb ed="#B1" n="45"/>si omnes laudant, &amp; conscientia accusat. Aut quid poterit obesse: si omnes dero 
+          <!--sap_Page_420.xml-->
+          <pb ed="#B1" n="386"/>
+          <lb ed="#B1" n="1"/>gent, &amp; sola conscientia defendatur. Qualis sit conscientia bona, docet Hugo 
+          <lb ed="#B1" n="2"/>de sancto Victore lib. 2. cap. 6. de anima dicens: Tranquilla conscientia est, 
+          <lb ed="#B1" n="3"/>quae omnibus est dulcis, nulli grauis, utens amico ad gratiam, inimico ad patien 
+          <lb ed="#B1" n="4"/>tiam, cunctis ad beneuolentiam, &amp; quibus potest ad beneficentiam: cui DEVS 
+          <lb ed="#B1" n="5"/>nec sua peccata imputat, quia non fecit: nec aliena, quia non approbauit: nec ne 
+          <lb ed="#B1" n="6"/>gligentiam, quia non tacuit: nec superbiam, quia in humilitate permansit. Istam do 
+          <lb ed="#B1" n="7"/>mum conscientiae debemus bene fundare, &amp; honeste mundare. Mundare quidem,  
+          <lb ed="#B1" n="8"/>per frequentem &amp; puram confessionem. In tali domo potest quiescere tam DEVS 
+          <lb ed="#B1" n="9"/>quam homo. Et licet tam fama quam conscientia sit homini necessaria: conscientia 
+          <lb ed="#B1" n="10"/>propter seipsam: fama propter proximum 12. q. 1. nolo. Tamen in tantum ponderat  
+          <lb ed="#B1" n="11"/>bonum conscientiae, quod pro salute conscientiae perdi debet cum gaudio bonum famae, 
+          <lb ed="#B1" n="12"/>ubi necessario oportet alterum omittere. Vnde Senec. Epist. 83. secundum lib. com  
+          <lb ed="#B1" n="13"/>munes. Nemo mihi plus uidetur aestimare uirtutem, nemo magis illo esse deuo 
+          <lb ed="#B1" n="14"/>tus, quam qui boni uiri perdidit famam, ne conscientiam perderet. Et uult dicere, qui 
+          <lb ed="#B1" n="15"/>pro opere uirtuoso exercendo etiam per mediam infamiam debet homo pro 
+          <lb ed="#B1" n="16"/>cedere. Haec est ergo domus in qua sapiens cum sapientia quiescit sine turbatio  
+          <lb ed="#B1" n="17"/>ne: quia certem non habet amaritudinem conuersatio illius: ergo, &amp;c. Bona exteriora, 
+          <lb ed="#B1" n="18"/>deliciae, diuitiae, &amp; honores, uel habent amaritudines, uel ad minus generant tae 
+          <lb ed="#B1" n="19"/>dium, &amp; fastidium, &amp; satietatem: ita quod homo illud idem quod prius optauit, postea 
+          <lb ed="#B1" n="20"/>fastideat &amp; contemnat. Et ideo dicit Rabanus hoc in glos. Corporales deliciae 
+          <lb ed="#B1" n="21"/>corpus grauant: spirituales uero mentem releuant. Et quanto magis esuriuntur 
+          <lb ed="#B1" n="22"/>tanto amplius comeduntur. In illis appetitus placet, experientia displicet. Au 
+          <lb ed="#B1" n="23"/>gent spiritales deliciae desiderium, &amp; quo magis sumuntur, auidius amantur.  
+          <lb ed="#B1" n="24"/>Haec Rabanus. Et accepit a beato Greg. in quadam Homelia: qui eandem senten 
+          <lb ed="#B1" n="25"/>tiam multo eloquentius, dicit sic: Corporales deliciae cum non habentur, graue in 
+          <lb ed="#B1" n="26"/>se desiderium accendunt: cum uero habitae eduntur, comedentem protinus in fasti 
+          <lb ed="#B1" n="27"/>dium uertunt. At contraspiritales deliciae cum non habentur in fastidio sunt, cum 
+          <lb ed="#B1" n="28"/>uero habentur in desiderio. In illis appetitus saturitatem, saturitas fastidium gene 
+          <lb ed="#B1" n="29"/>rat: In istis aut appetitus saturitatem, saturitas appetitum parat: Augent enim spiri 
+          <lb ed="#B1" n="30"/>tales deliciae desiderium in mente, dum satiant: &amp; quanto magis earum sapor perci 
+          <lb ed="#B1" n="31"/>pitur, eo amplius agnoscitur, quid auidius ametur. Haec Greg. Vnde Senec. car 
+          <lb ed="#B1" n="32"/>nis uoluptatem docens contenere, dicit: Voluptas corporalis fragilis est &amp; breuis:  
+          <lb ed="#B1" n="33"/>fastidio obiecta, quo auidius acta est, citius in contrarium recedens. Cuius subin 
+          <lb ed="#B1" n="34"/>de necesse est aut poeniteat, aut pudeat quemcunque.
+        </p>
+        <!-- fuzzy break -->
+        <p xml:id="rhwis-l115-d1e217">
+          In qua nihil magnificum, aut  
+          <lb ed="#B1" n="35"/>quod naturam hominis, proximi deceat, res humilis membrorum turpium mini 
+          <lb ed="#B1" n="36"/>sterio ueniens exitu foeda. Haec Senec. Sapientia ergo non habet amaritudinem  
+          <lb ed="#B1" n="37"/>in conuersatione, nec tedium in conuictu, sed per oppolitum laeticiam &amp; gaudium. &amp; 
+          <lb ed="#B1" n="38"/>ideo a sapore sapientia, quasi sapida scientia nuncupatur. Et per contrarium sapi 
+          <lb ed="#B1" n="39"/>entia huius mundi quae cosistit in noticia iuris positiui, amaritudinem &amp; taedium ha 
+          <lb ed="#B1" n="40"/>bet in conuersatione: ut comuniter reddens hominem praesumptuosum in seipso, et  
+          <lb ed="#B1" n="41"/>iniuriosum ad alios in conuictu. Et ideo ad pacem &amp; traquillitatem studentium in 
+          <lb ed="#B1" n="42"/>sacrae paginae sapientia, est ab Ecclesia prohibitum, ne Parisijs, uel in ciuitatibus 
+          <lb ed="#B1" n="43"/>uicinis, aliquis docere uel audire ius ciuile praesumat: Et qui contra fecerit a cau 
+          <lb ed="#B1" n="44"/>sarum patrocinijs excludatur, &amp; per Episcopum loci excomunicetur extra de pri 
+          <lb ed="#B1" n="45"/>uil &amp; exces. priuil. super specula. Circa domum conscientiae est notandum, quod ipsa ha 
+          <lb ed="#B1" n="46"/>bere debet solidum fundamentum, decens ornamentum, aptum tegumentum, &amp; frequens 
+          <lb ed="#B1" n="47"/>expurgamentum. Primo fundamentum conscientiae debet fundari super solidam do 
+          <lb ed="#B1" n="48"/>ctrina CHRISTI: sicut Saluator dicit Matth. 7. <quote xml:id="rhwis-l115-Qd1e249" source="http://scta.info/resource/7_24">Omnis qui audit uerba haec, &amp; 
+            <lb ed="#B1" n="49"/>facit ea, assimilabitur uiro sapienti, qui aedificauit domum suam supra petram</quote>. Petra est 
+          <lb ed="#B1" n="50"/>doctrina CHRISTI, Matth. 16. Super istam petram sanae doctrine debet conscientia 
+          <lb ed="#B1" n="51"/>cuiuslibet aedificari. Vnde summe cauendum est, ne ista, domus sit erronee fabri 
+          <lb ed="#B1" n="52"/>cata, uel nimis larga, uel nimis stricta: quia omne quod sit contra conscientiam ae 
+          <lb ed="#B1" n="53"/>dificat ad gehennam 28. q. 1. omnes. Et habetur in glos. ad Rom. 14. Vnde sicut  
+          <!--sap_Page_421.xml-->
+          <pb ed="#B1" n="387"/>
+          <lb ed="#B1" n="1"/>dicunt doctores. Dictamen conscientiae plus obligat, quam praeceptum prae 
+          <lb ed="#B1" n="2"/>lati. Et ideo omnis conscientia, siue recta siue erronea, siue in se mala, siue indis  
+          <lb ed="#B1" n="3"/>ferentibus obligatoria est: quin omnibus talibus ueniens contra scientiam, fa 
+          <lb ed="#B1" n="4"/>cit contra illud quid credit a lege DEI esse prohibitum. In ista, domo male parant sibi 
+          <lb ed="#B1" n="5"/>quietem multi homines mundani, qui illud quod durius est ponunt sub capite, &amp; 
+          <lb ed="#B1" n="6"/>illud quod mollius sub pede. Moraliter. Conscientia in mente est, sicut caput in 
+          <lb ed="#B1" n="7"/>homine, &amp; sensualitas est sicut pes. Qui ergo ponit in sensualitate delectatio  
+          <lb ed="#B1" n="8"/>nem, &amp; peccatum in conscientia &amp; murmur contra peccatum, dure reclinat caput suum. 
+          <lb ed="#B1" n="9"/>Istam domum fundant quidam super aquas uoluptatis, quidam super arenam cupidita 
+          <lb ed="#B1" n="10"/>tis: &amp; ideo conscientiae talium stare non possunt, eo quo carent solido fundamento. Et  
+          <lb ed="#B1" n="11"/>ideo dicitur Matth. 7. <quote xml:id="rhwis-l115-Qd1e291" source="http://scta.info/resource/mt7_26 http://scta.info/resource/mt7_26">queo uir stultus aedificauit domum suam super arenam, &amp; descen 
+            <lb ed="#B1" n="12"/>dit pluuia, &amp; flauerunt uenti, &amp; cecidit domus</quote>.
+        </p>
+        <p xml:id="rhwis-l115-d1e297">
+          Secundo domus conscientiae de 
+          <lb ed="#B1" n="13"/>bet habere honestum ornamentum, ut sit picta curiose &amp; artificialiter imaginibus 
+          <lb ed="#B1" n="14"/>uirtutum, &amp; sanctorum uirorum exemplis, qui nos praecesserunt. Narrat Aug. contra 
+          <lb ed="#B1" n="15"/>Iulianum lib. 5. &amp; 2. retractionum cap. 62. quod rex quidam Cypri deformis spe 
+          <lb ed="#B1" n="16"/>cie thalamum suum siue cubiculum fecit depingi imaginibus pulchris, ut per earum 
+          <lb ed="#B1" n="17"/>aspectum uxor sua pareret pulchram prolem. Rex est ratio, cubiculum memoria uel 
+          <lb ed="#B1" n="18"/>conscientia. Sensualitas est uxor, &amp; ideo si pulchram prolem: id est, uirtuosas ope 
+          <lb ed="#B1" n="19"/>rationes habere uelimus, domum patrum nostrorum imaginibus depingi studea 
+          <lb ed="#B1" n="20"/>mus, dicentes cum Psal. Dilexi Domine decorem domus tuae, &amp;c. Sed est notandum 
+          <lb ed="#B1" n="21"/>que domus, quae non inhabitatur contrahit sordes, uermes, &amp; uarias corruptiones. 
+          <lb ed="#B1" n="22"/>Et ita est de multorum conscientijs, quae non inhabitantur ab eis. Nunquam tamen est 
+          <lb ed="#B1" n="23"/>eis ita male, sicut in quadragesima, quando redeunt ad se, &amp; intrant domos com  
+          <lb ed="#B1" n="24"/>scientiarum suarum malarum. Ibi inueniunt uermes, corruptiones, &amp; foetores uete 
+          <lb ed="#B1" n="25"/>rum peccatorum, &amp; domus incipit declinari ad mortem. Iuxta illud Proverb. 2. In 
+          <lb ed="#B1" n="26"/>clinata est ad mortem domus eius, &amp; ad inferos semitae ipsius.
+        </p>
+        <p xml:id="rhwis-l115-d1e330">
+          Tertio domus com  
+          <lb ed="#B1" n="27"/>scientiae debet habere aptum tegumentum. Cooperimentum bonae conscientiae est 
+          <lb ed="#B1" n="28"/>honestas conuersationis uirtuosae: ut boni uiri quod didicerunt interius ostendant  
+          <lb ed="#B1" n="29"/>exterius. Et sic luceat lux eorum coram hominibus, ut uideant opera uestra bona &amp;  
+          <lb ed="#B1" n="30"/>glorificent Patrem uestrum, qui in coelis est: hoc est, quod dicitur Matth. 10. Quod  
+          <lb ed="#B1" n="31"/>in aure audistis praedicate super tecta: id est, per bonam conuersationem.
+        </p>
+        <p xml:id="rhwis-l115-d1e344">
+          Quarto 
+          <lb ed="#B1" n="32"/>domus conscientiae debet habere frequens expurgamentum per scopam confessionis: 
+          <lb ed="#B1" n="33"/>nec ad aliquod remedium fugiendum est, ut a Diabolo uel a peccato, nisi que a con 
+          <lb ed="#B1" n="34"/>scientia expellatur peccatum. Vnde Aug. super lohan. Homel. 41. Seruus peccati 
+          <lb ed="#B1" n="35"/>quo fuit, secum se trahit, quocumque fuerit non fugit seipsam mala conscientia: non est 
+          <lb ed="#B1" n="36"/>quo eat, semper segtur se, imo non recedit a se: peccatum enim quod fecit intus est. 
+          <lb ed="#B1" n="37"/>Vis audire consilium. Si uis a DEO fugere ad ipsum fuge: confitendo, non latendo,  
+          <lb ed="#B1" n="38"/>confiteri potes, latere non potes. Sic est de Diabolo, sicut fuit de Daedalo &amp; Laby 
+          <lb ed="#B1" n="39"/>rintho: Fecit enim Daedalus domum quandam cum uarijs uijs, &amp; cum parietibus ita p  
+          <lb ed="#B1" n="40"/>plexis, quod nullus eam intrans exire poterat sine glomere fili, &amp; illa domus uocabatur d 
+          <lb ed="#B1" n="41"/>Labyrinthus: id est, labor intus: quia in egrediendo et in ingrediendo maximus la 
+          <lb ed="#B1" n="42"/>bor fuit. In illa domo inclusit Daedalus unum monstrum, quid ex una medietate fuit  
+          <lb ed="#B1" n="43"/>homo, &amp; alia medietate bos: ea intentione ut ibi in ppetuum pasceretur, &amp; nunquam 
+          <lb ed="#B1" n="44"/>exiret: sicut narrat Ouid, lib. 7. Met. et Isid. 3. Ethym. Moraliter loquendo: quado 
+          <lb ed="#B1" n="45"/>ita est, quo Diabolus pecipit unam personam, aliquod peccatum monstruosum fecisse, facit 
+          <lb ed="#B1" n="46"/>conscientiam talis quasi domum Daedali, &amp; abscondit peccatum, &amp; fabricat illi peccato 
+          <lb ed="#B1" n="47"/>ri tot uias pplexas, &amp; parietes obsistentes, nunc de timore, nunc de pudore, nunc de 
+          <lb ed="#B1" n="48"/>negligentia mnunc de expectatione &amp; dilatione confessionis: &amp; ibi occultat illud  
+          <lb ed="#B1" n="49"/>mostrum, ut nulltis confessor possit intrare, nisi cum glomere fili. Oportet enim com  
+          <lb ed="#B1" n="50"/>fessorem reuoluere omns interrogationes spectantes ad peccatum, antequam reus uelit  
+          <lb ed="#B1" n="51"/>cognoscere illud, quid fecit. Non sic facit probus homo confessoribus suis, sed oia pa 
+          <lb ed="#B1" n="52"/>dit &amp; ostendit nude &amp; aperte. Iuxta illud quid in figura scribitur 4. Reg. 20. Omnia 
+          <lb ed="#B1" n="53"/>quae sunt in domo mea uiderunt, nihil est quaed non monstrauerim eis in thesauris meis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

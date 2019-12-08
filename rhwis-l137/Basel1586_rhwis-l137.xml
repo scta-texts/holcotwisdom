@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 137 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 137 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="459"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l137">
+        <p xml:id="rhwis-l137-d1e95">
+          <lb ed="#B1" n="26"/>NARRATIO beneficio collationis aqua profluentis de petra 
+          <lb ed="#B1" n="27"/>miraculose, quam dedit sapientia increata filijs Israel sitientibus in 
+          <lb ed="#B1" n="28"/>deserto: Hic comparat istud beneficium ad poenam contrariam il  
+          <lb ed="#B1" n="29"/>latam Aegyptijs in Aegypto. Cum enim Aegyptij rebelles Domi 
+          <lb ed="#B1" n="30"/>no filios Iirael nollent dimittere, Dominus 10. plagis Aegyptum 
+          <lb ed="#B1" n="31"/>percussit, quae in his uersibus continentur: 
+          <lb ed="#B1" n="32"/>Sanguis rana, culex, cinomia, mors pecorina, 
+          <lb ed="#B1" n="33"/>Vlcera, grando, brucus, tenebrae, stirps mortua prima, &amp;c 
+          <lb ed="#B1" n="34"/>Quarum prima fuit ista. Aaron uirga Moysi accepta percussit fluuium Ni  
+          <lb ed="#B1" n="35"/>lum, &amp; conuersa est aqua fluuij in sanguinem: ita quod Aegyptijs aliquid inde 
+          <lb ed="#B1" n="36"/>haurire volentibus, tam colore quam sapore sanguis apparuit. Et sic factus est san 
+          <lb ed="#B1" n="37"/>guis in tota terra Aegypti, in fluuijs, &amp; riuis, &amp; paludibus, &amp; in uasis domo 
+          <lb ed="#B1" n="38"/>rum, tam ligneis quam saxeis: &amp; ubicunque Aegyptij foderunt puteos iuxta flu 
+          <lb ed="#B1" n="39"/>uium inuenerunt sanguinem: Huic autem miraculo alludens Salomon in hac litera 
+          <lb ed="#B1" n="40"/>uult dicere per quendam antithesim. Quod sicut Dominus iuste puniuit Aegy 
+          <lb ed="#B1" n="41"/>ptios per sitim &amp; potus defectum in Aegypto quando filij Israel in Aegypto aqs 
+          <!--sap_Page_495.xml-->
+          <pb ed="#B1" n="460"/>
+          <lb ed="#B1" n="1"/>potabilibus abundabant: ita per oppositum in deserto cum filij Israel sitim haberent,  
+          <lb ed="#B1" n="2"/>&amp; aquis carerent, bene cum illis fecit DEVS, dando eis aquam de petra miraculo  
+          <lb ed="#B1" n="3"/>se, &amp; non sustinendo eos siti nimis affligi. Dicit igitur sic: per quae enim paenas a 
+          <lb ed="#B1" n="4"/>defectione: 1. propter detectus, potus sut &amp; in eis cum abundarent filij Israel letati  
+          <lb ed="#B1" n="5"/>sunt. per haec: i. per naturas aquarum in deserto, cum illis: i. cum filijs Israel bene actum est. 
+          <lb ed="#B1" n="6"/>DEO ministrante aquas salubres de petra. Et ideo sicut per defectum aquarum pu 
+          <lb ed="#B1" n="7"/>niuit Aegyptios, &amp; laetificauit filios Israel in Aegypto: Ita per contrarium filios ls  
+          <lb ed="#B1" n="8"/>rael sitientes in deserto aqs eductis de petra potauit. Et est contrarietas in hoc 
+          <lb ed="#B1" n="9"/>Aegyptijs insitientibus nullam aquam concessit: Hebraeis per sitim afflictis aquas 
+          <lb ed="#B1" n="10"/>optimas de petra pduxit, &amp; hoc est, quod subiungit litera. Nam pro fonte quidem 
+          <lb ed="#B1" n="11"/>sempiterni fluminis: i. Nili, humanum sanguinem: 1. aquas mutatas in sanguinem, 
+          <lb ed="#B1" n="12"/>dedisti iniustis: i. Aegyptijs: &amp; hoc iustem: quia humanum sanguinem in flumen priece 
+          <lb ed="#B1" n="13"/>tant, submergendo paruulos Hebraeorum: sic habet Exo. 1. humanum sanguinem: i 
+          <lb ed="#B1" n="14"/>aquas conuersas in sanguinem biberent, si uellent extinguere sitim suam. Iuxta 
+          <lb ed="#B1" n="15"/>illud Excech. 35. Cum sanguinem odoris, sanguis te persequetur.
+        </p>
+        <p xml:id="rhwis-l137-d1e169">
+          <lb ed="#B1" n="16"/>Haec est sententia literae: licet uario modo posset exponi. humanum sangui  
+          <lb ed="#B1" n="17"/>nem dedisti iniustis. Sicut dicit Aug. contra quinque haereses: Fusus est sanguis me 
+          <lb ed="#B1" n="18"/>dici &amp; factum est medicamentum phrenetici. Omnis peccator phrenetico com 
+          <lb ed="#B1" n="19"/>paratur: quia quanto grauius infirmatur, tanto se reputat securiorem: ridet cum 
+          <lb ed="#B1" n="20"/>flere deberet, &amp; gaudet de infirmitate, &amp; non potest custodiri nisi uinculatus. 
+          <lb ed="#B1" n="21"/>lsto modo peccator quanto peior, tanto minus se reputat peccatorem: quia Pro 
+          <lb ed="#B1" n="22"/>uerb. 18. Impius cum in profundum uenerit peccatorum contemnit. Sed sequitur  
+          <lb ed="#B1" n="23"/>eum ignominia &amp; opprobrium: quia ridet cum flere deberet. Vnde CHRISTVS 
+          <lb ed="#B1" n="24"/>uidens ciuitatem Hierusalem fleuit super eam, dicens: quia si cognouisses &amp; tu, supple, fle 
+          <lb ed="#B1" n="25"/>res Luc. 19. Vnde etiam uiri sancti gaudentibus impijs flere solent, propter conm 
+          <lb ed="#B1" n="26"/>passionem quam habent de perditione eorum. Vnde in uita patrum de quodam  
+          <lb ed="#B1" n="27"/>sancto legitur, quo cum uidisset ornatum curiosum cuiusdam fatuae mulieris, flens di 
+          <lb ed="#B1" n="28"/>xit: Ignosce mihi omnipotens DEVS: quia unus dies ornatus istius mulieris su 
+          <lb ed="#B1" n="29"/>perauit totius uitae meae industria ornamenta. Interrogantibus ergo causam fle 
+          <lb ed="#B1" n="30"/>tus dixit: Duae res me movent, una de illius perditione, alia de mea remissione: 
+          <lb ed="#B1" n="31"/>quia non habeo tantum studium placendi DEO, quantum habet illa ad placendi ho 
+          <lb ed="#B1" n="32"/>minibus malis &amp; Diabolo. Phreneticus etiam gaudet de sua propria infirmitate, 
+          <lb ed="#B1" n="33"/>&amp; multi turpissimi peccatores iactant se de suis sceleribus Proverb. 2. Laetantur  
+          <lb ed="#B1" n="34"/>cum malefecerint, &amp; exultant in rebus pessimis. Isti sanari non possunt nisi uincu 
+          <lb ed="#B1" n="35"/>lentur infirmitatibus immissis a DEO, quae sunt uincula salutaria peccatorum. In 
+          <lb ed="#B1" n="36"/>Psal. Cum occideret eos, quaerebant eum, &amp; reuertebantur, &amp; diluculo ueniebant  
+          <lb ed="#B1" n="37"/>ad eum: Et in Psal. Et multiplicatae sunt infirmitates eorum, &amp; postea accelera  
+          <lb ed="#B1" n="38"/>uerunt: Vincula ecce in quibus ligari debet peccator, sunt Sacramenta Ecclesiae,  
+          <lb ed="#B1" n="39"/>&amp; praecipue tres partes poenitentiae, contritio, confessio, satisfactio, Eccl. 6. De 
+          <lb ed="#B1" n="40"/>cor enim uitae est in illa, &amp; uincula illius alligatura salutis. Ista uincula salutem 
+          <lb ed="#B1" n="41"/>operantur uirtute passionis CHRISTI, in qua pro salute nostra sanguinem  
+          <lb ed="#B1" n="42"/>suum fudit, ut pro eo verificetur dictum August. quia fusus est sanguis medi 
+          <lb ed="#B1" n="43"/>ci, &amp; factum est medicamentum phrenetici: ut merito CHRISTO regratiando 
+          <lb ed="#B1" n="44"/>dicamus: Humanum sanguinem dedisti iniustis.
+        </p>
+        <p xml:id="rhwis-l137-d1e234">
+          <lb ed="#B1" n="45"/>In quibus uerbis nostra redemptio per CHRISTI passionem diuinitus procu  
+          <lb ed="#B1" n="46"/>rata declarat esse preciosa, dolorosa, amorosa, &amp; gratiosa. Preciosa quia huma 
+          <lb ed="#B1" n="47"/>num: inter omnes enim creaturas corporales homo est preciosior: quia ad simili 
+          <lb ed="#B1" n="48"/>tudinem &amp; imaginem Trinitatis creatus, Esa. 13. Preciosior est uir auro &amp; ho 
+          <lb ed="#B1" n="49"/>mo mundo obriaeo, &amp; ideo ex ordinatione doctrina, homo omnibus bestijs  
+          <lb ed="#B1" n="50"/>praeponitur ad regendum, ut dominus. Iaco. 3. Omnis natura bestiarum &amp; uo 
+          <lb ed="#B1" n="51"/>lucrum &amp; serpentum &amp; caeterorum domatur, &amp; domata est a natura humana. Et  
+          <lb ed="#B1" n="52"/>ideo pro effusione sanguinis humani non bestialis, mors inflicta fuit pro poe 
+          <lb ed="#B1" n="53"/>na. Gen. 9. Quicumque effudit sanguinem humanum, effundetur sanguis illius: ad  
+          <!--sap_Page_496.xml-->
+          <pb ed="#B1" n="462"/>
+          <lb ed="#B1" n="1"/>imaginem quippe DEI factus est homo. Vnde Arist. in Epist. ad Alex. Caue 
+          <lb ed="#B1" n="2"/>(inquit) effundere sanguinem humanum: quia hoc solum DEO conuenit. Fuit ergo re 
+          <lb ed="#B1" n="3"/>demptio nostra preciosa facta per CHRISTI humanitatem. Vnde Apostol, ad  
+          <lb ed="#B1" n="4"/>Tit. 3. Apparuit benignitas &amp; humanitas Saluatoris nostri. Vnde Aug. in lib.  
+          <lb ed="#B1" n="5"/>de Virgi. Inspicite uulnera pendentis, sanguinem morientis, precium redimentis, cica 
+          <lb ed="#B1" n="6"/>trices resurgentis: caput habet inclinatum ad osculum, cor apertum ad diligendum, bra 
+          <lb ed="#B1" n="7"/>chia extensa ad amplexandum, totum corpus extensum ad redimendum: hic quanta sint,  
+          <lb ed="#B1" n="8"/>cogitate. Haec in statera cordis appendite, ut totus uobis sit figuratus in corde 
+          <lb ed="#B1" n="9"/>qui totus pro uobis fuit fixus in cruce. Est igitur redemptio nostra preciosa: quia 
+          <lb ed="#B1" n="10"/>per humanum sanguinem, quia veraciter imaginando, nunquam fuit humanus san 
+          <lb ed="#B1" n="11"/>guis uere &amp; proprie &amp; pure effusus, ut in CHRISTO. Homo enim peccando rece 
+          <lb ed="#B1" n="12"/>dit a natura humana, &amp; fit sicut bestia secundum Psal. &amp; secundum Boët. 4. lib. de 
+          <lb ed="#B1" n="13"/>consol. Post peccatum ergo primi parentis corruptus est sanguis ille, qui pri 
+          <lb ed="#B1" n="14"/>mo corpori primi hominis fuit concreatus, nec unquam sanus fuit donec ue 
+          <lb ed="#B1" n="15"/>niretur ad CHRISTVM, de mundissimis sanguinibus, de purissima uirgi 
+          <lb ed="#B1" n="16"/>ne, &amp; in utero sanctificato, progenitum opere Spiritus sancti. Vnde ipse secun 
+          <lb ed="#B1" n="17"/>dus post Adam fanguinem habuit humanum in illa puritate, quam natura re 
+          <lb ed="#B1" n="18"/>quirit humana: &amp; ideo proprie loquendo nunquam fuit sanguis humanus ni 
+          <lb ed="#B1" n="19"/>si ille: &amp; ideo signanter dicit Apostolus ad Heb. 9. Quod CHRISTVS assistens 
+          <lb ed="#B1" n="20"/>pontifex futurorum bonorum per amplius &amp; perfectius tabernaculum, non 
+          <lb ed="#B1" n="21"/>manufactum: neque per sanguinem hircorum aut uitulorum, sed per proprium 
+          <lb ed="#B1" n="22"/>sanguinem introiuit semel in sancta, aeterna redemptione inuenta
+        </p>
+        <p xml:id="rhwis-l137-d1e308">
+          <lb ed="#B1" n="23"/>Secundo innuitur nostra redemptio dolorosa, cum dicitur pe sanguinem. Sanguis 
+          <lb ed="#B1" n="24"/>de corpore sano non exit sine dolore. Dolor aut CHRISTI maximus fuit. Iuxta 
+          <lb ed="#B1" n="25"/>illud Thren.1. O uos oës qui transitis per uiam, attendite &amp; uidete, si est dolor simi 
+          <lb ed="#B1" n="26"/>lis, sicut dolor meus. Sanguis aut humanus habet naturaliter ista tria, s quod 
+          <lb ed="#B1" n="27"/>secundat lignum aridum, sanat corpus languidum, &amp; causat cementum solidum. Primo 
+          <lb ed="#B1" n="28"/>foecundat lignum aridum: dicitur, quod si fuit lignum arefactum, optimum remedium est statim 
+          <lb ed="#B1" n="29"/>in principio arefactionis apponere radici, sanguinem humanum. Narrat enim 
+          <lb ed="#B1" n="30"/>Hermes Aegyptius, quod rosarium plantatum m terra commixta cum sanguine hu 
+          <lb ed="#B1" n="31"/>mano ad calorem modicum ignis omni tempore anni producit rosas. Sic mo 
+          <lb ed="#B1" n="32"/>raliter homo, sicut arbor Mar. 8. Video homines quasi arbores) arescit per pec 
+          <lb ed="#B1" n="33"/>catum, quando de DEO non cogitat, ut deberet, non habet deuotionem, non 
+          <lb ed="#B1" n="34"/>facit delectabiliter, quae DEI sunt. Ioel. 1. Ligna agri aruerunt, quoniam con 
+          <lb ed="#B1" n="35"/>fusum est gaudium a filijs hominum. In isto casu non est melius remedium quam 
+          <lb ed="#B1" n="36"/>ad radicem cordis talis personae apponere sanguinem CHRISTI calidum, 
+          <lb ed="#B1" n="37"/>per meditationem deuotam. Ista meditatio statim accendit amorem, qui est ca 
+          <lb ed="#B1" n="38"/>lor naturalis hominis. Sed amor DEI nunquam ociosus est, sed operatur ma 
+          <lb ed="#B1" n="39"/>gna, sicut est secundum Gregorium: Et ideo ad istum fanguinem sequitur fru 
+          <lb ed="#B1" n="40"/>ctus operis: Et ideo dicit Bernh. super Can. serm. 22. Super omnia reddit te mi 
+          <lb ed="#B1" n="41"/>hi amabilem bone IESV, calix quem bibisti opus nostrae redemptionis: Hic 
+          <lb ed="#B1" n="42"/>enim omnino amorem meum sibi uendicat, hic deuotionem blandius sibi al  
+          <lb ed="#B1" n="43"/>licit, iustius exigit, &amp; arctius astringit. Et ideo sicut dicit Apostolus ad Hebr. 9. 
+          <lb ed="#B1" n="44"/><quote xml:id="rhwis-l137-Qd1e356" source="http://scta.info/resource/hebr9_22">Omnia pene secundum legem in sanguine mundantur, &amp; sine sanguinis effu 
+            <lb ed="#B1" n="45"/>sione non sit remissio</quote>.
+        </p>
+        <p xml:id="rhwis-l137-d1e362">
+          <lb ed="#B1" n="46"/>Secundo sanguis sanat corpus languidum. Vnde consultum legimus 
+          <lb ed="#B1" n="47"/>Constantino Imperatori leproso, quod balnearet se in sanguine calido pue 
+          <lb ed="#B1" n="48"/>rorum, &amp; curaretur. Est enim infirmitas pueri quam quandoque sustinent, &amp; 
+          <lb ed="#B1" n="49"/>uocatur tenglos, periculosa ualde, nisi per remedium aliquod occurratur. Et  
+          <lb ed="#B1" n="50"/>est remedium tale, quod puer ungatur sanguine hominis, qui prius morbum 
+          <lb ed="#B1" n="51"/>illum passus fuerit. Isto modo corporis nostri mortalitas, est incurabilis in 
+          <lb ed="#B1" n="52"/>firmitas: quia continue morimur secundum Senecam. Ista infirmitas, ut ui  
+          <lb ed="#B1" n="53"/>delicet fieremus immortales, curari non potuit, nisi per illius sanguinem. 
+          <!--sap_Page_497.xml-->
+          <pb ed="#B1" n="463"/>
+          <lb ed="#B1" n="1"/>qui sponte nostram mortalitatem suscepit, &amp; sua nos passione curauit. Vnde 
+          <lb ed="#B1" n="2"/>Bernhardus in quodam sermone: O bone IESV quid tibi &amp; morti. Nos de 
+          <lb ed="#B1" n="3"/>linquimus, &amp; tu soluis, nos peccamus, &amp; tu luis: Opus sine exemplo, gratia sine 
+          <lb ed="#B1" n="4"/>merito, &amp; charitas sine modo.
+        </p>
+        <p xml:id="rhwis-l137-d1e396">
+          <lb ed="#B1" n="5"/>Tertio sanguis causat cementum solidum: dicitur, quod antiqui volentes 
+          <lb ed="#B1" n="6"/>facere aedificia perpetua, cementum cum humano sanguine commiscuerunt.  
+          <lb ed="#B1" n="7"/>Vnde etiam deVortegirno rege Britanniae in historia Britonum dicitur: quod  
+          <lb ed="#B1" n="8"/>cum aedificaret turrim in monte Eterij uel monte niuis in Vyallia, quidquid  
+          <lb ed="#B1" n="9"/>cementarijuna die operabantur, tellus alio die absorbuit. Consulerunt ergo 
+          <lb ed="#B1" n="10"/>magistri dicto regi, quod iuuenem quendam inquiri faciat, qui patrem terre 
+          <lb ed="#B1" n="11"/>num non haberet, cuius sanguine lapides, &amp; cementum aspersi praestarent so 
+          <lb ed="#B1" n="12"/>lidum fundamentum. Moraliter ante CHRISTI passionem sic erat in mun 
+          <lb ed="#B1" n="13"/>do, quod quidquid homines aedificauerunt quantumcunque bene aedifica 
+          <lb ed="#B1" n="14"/>rent, moraliter uiuendo bene, totum in morte absorbebatur a terra: quia om 
+          <lb ed="#B1" n="15"/>nes in puteum inferni descenderunt, nec stare potuit aedificium meritorum: 
+          <lb ed="#B1" n="16"/>donec aspersi essent sanguine iuuenis, qui patrem non habebat in terris, ad  
+          <lb ed="#B1" n="17"/>Hebr. 12. Accessistis ad mediatorem novi Testamenti IESVM &amp; sanguinis  
+          <lb ed="#B1" n="18"/>aspersionem, melius loquentem quam Abel. Isto igitur sanguine cementum 
+          <lb ed="#B1" n="19"/>Ecclesiae conglutinatur, &amp; solidatur, ut DEO amore indissolubili inhaerea. 
+          <lb ed="#B1" n="20"/>mus, qui procul prius in regione dissimilitudinis distabamus, ad Ephesios 2. 
+          <lb ed="#B1" n="21"/>Nunc aut in CHRISTO IESV uos qui aliquando eratis longe facti, estis pro 
+          <lb ed="#B1" n="22"/>pe in sanguine CHRISTI.
+        </p>
+        <p xml:id="rhwis-l137-d1e438">
+          <lb ed="#B1" n="23"/>Tertio innuitur nostra redemptio fuisse amorosa, cum dicitur: Dedisti. Non 
+          <lb ed="#B1" n="24"/>enim propter nostra praecedentia merita uel futura, CHRISTVS nos rede 
+          <lb ed="#B1" n="25"/>mit, sed sola sua ineffabili charitate. Iuxta illud Apostoli ad Titum 2. Dedit  
+          <lb ed="#B1" n="26"/>semetipsum pro nobis, ut nos redimeret ab omni iniquitate. Et lohan. 3. Sic  
+          <lb ed="#B1" n="27"/>DEVS dilexit mundum, ut Filium suum unigenitum daret. De ista mirabi  
+          <lb ed="#B1" n="28"/>li deuotione deuote loquitur Augustinus in quodam sermone de natali Do 
+          <lb ed="#B1" n="29"/>mini. Homo, inquit, factus est hominis factor, ut suggeret ubera regens side 
+          <lb ed="#B1" n="30"/>ra, ut esuriret panis, sitiret fons, dormiret lux: ab itinere uia fatigaretur, fal 
+          <lb ed="#B1" n="31"/>sis testibus ueritas occultaretur, iudex uiuorum &amp; mortuorum a iudice 
+          <lb ed="#B1" n="32"/>mortali iudicaretur, ab iniustis iusticia damnaretur, flagellis disciplina cede 
+          <lb ed="#B1" n="33"/>retur, spinis botrus coronaretur, uirtus infirmaretur, salus uulneraretur, uita 
+          <lb ed="#B1" n="34"/>moreretur.
+        </p>
+        <p xml:id="rhwis-l137-d1e467">
+          <lb ed="#B1" n="35"/>Quarto fuit nostra redemptio gratiosa: quia non fuit facta pro amicis bo 
+          <lb ed="#B1" n="36"/>nis &amp; iustis, sed pro inimicis peccatoribus, &amp; iniustis. Vnde ultimo subinfer 
+          <lb ed="#B1" n="37"/>tut. Humanum languinem dedisti iniustis, 1. Peut. 3. CHRISTVS semel pro pee 
+          <lb ed="#B1" n="38"/>catis nostris mortuus est, iustus pro iniustis. Sed quod adhuc est gratiosius, 
+          <lb ed="#B1" n="39"/>non solum pro iniustis dabatur, sed quotidie datur iniustis in sacramento al  
+          <lb ed="#B1" n="40"/>taris: quia iniusti sunt, qui peccandi tanto beneficio sunt ingrati: unde Augu 
+          <lb ed="#B1" n="41"/>stinus in quodam sermone de die iudicij: Cur me grauiori criminum tuorum 
+          <lb ed="#B1" n="42"/>cruce, quam illa in qua quondam penderam affixisti: Grauior enim mihi est 
+          <lb ed="#B1" n="43"/>crux criminum tuorum in qua inuitus pendo, quam in illa in qua quondam  
+          <lb ed="#B1" n="44"/>mortem tuam occisurus, tui misertus uolens ascendi: Haec Augustinus. Qua 
+          <lb ed="#B1" n="45"/>propter beatus Bernhardus in quodam sermone loquens in persona Domini 
+          <lb ed="#B1" n="46"/>deuotae animae, sic dicit: O homo uide quid pro te patior: non est dolor super 
+          <lb ed="#B1" n="47"/>dolorem meum quo crucior, ad te clamo qui pro te morior: uidetur poenas 
+          <lb ed="#B1" n="48"/>quibus afficior: uide clauos quibus confodior: &amp; cum sit dolor 
+          <lb ed="#B1" n="49"/>tantus exterior, interitus tamen est planctus gra 
+          <lb ed="#B1" n="50"/>uior, cum te iam ingratum ex  
+          <lb ed="#B1" n="51"/>perior.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

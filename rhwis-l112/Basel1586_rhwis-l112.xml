@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 112 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 112 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="376"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l112">
+        <p xml:id="rhwis-l112-d1e95">
+          <lb ed="#B1" n="5"/>POSTOVAM Salomon enumerauit duas partes dotis spiritua 
+          <lb ed="#B1" n="6"/>lis, quas de octo dotibus cum sapientia sua recepit: in ista litera sub  
+          <lb ed="#B1" n="7"/>iungit tres alias. Habet enim per ea in populis uenerationem, in iu 
+          <lb ed="#B1" n="8"/>dicijs discretionem, inter nobiles admirationem. Et secundum ista 
+          <lb ed="#B1" n="9"/>tria litera diuiditur in tres partes: nam primo ostendit, quod sapien 
+          <lb ed="#B1" n="10"/>tia confert uenerationem in populis. <quote xml:id="rhwis-l112-Qd1e110" source="http://scta.info/resource/adcd-l19-d1e3184">Populus autem est secundum Aug. 19. 
+            <lb ed="#B1" n="11"/>de Ciuit. DEI, ca. 21.] coetus multitudinis pari iuris consensu &amp; utilitatis com 
+            <lb ed="#B1" n="12"/>munione sociatus</quote>. Vnde ubi est populus, ibi est societas ordinata multorum:  
+          <lb ed="#B1" n="13"/>quorum aliqui sunt digniores &amp; honorabiliores, &amp; aliqui sunt minores. Maio 
+          <lb ed="#B1" n="14"/>res uocat hic seniores: Minores autem uocat turbas. Apud utrosque autem sit 
+          <lb ed="#B1" n="15"/>sapiens honorabilis: sed diuersimode: quia a uulgo recipit famam, &amp; apud se 
+          <lb ed="#B1" n="16"/>niores recipit honores.
+        </p>
+        <p xml:id="rhwis-l112-d1e126">
+          <lb ed="#B1" n="17"/>Fama enim secundum Isid. 5. Ethym. dicitur a philosophando: id est, a loquen 
+          <lb ed="#B1" n="18"/>do: quia loquendo peruagatur. Vulgus autem multum loquitur. Et ideo fama 
+          <lb ed="#B1" n="19"/>hominis per uulgus maxime publicatur. Quantum autem ad ista duo, quae ue 
+          <lb ed="#B1" n="20"/>nerationem conferunt: uidelicet famam &amp; honorem, dicit sic: Habebo propter 
+          <lb ed="#B1" n="21"/>hanc, scilicet sapientiam, claritatem: id est, ponam famam, ad turbas, &amp; bonorem 
+          <lb ed="#B1" n="22"/>apud seniores. Ad turbas: id est, ad minores &amp; uulgares homines: qui ideo uo 
+          <lb ed="#B1" n="23"/>cantur turbae: quia minus ordinati sunt in educationibus &amp; moribus, quam  
+          <lb ed="#B1" n="24"/>sunt nobiles. Sicut enim dicit Aug. libro locutionum: Turba est multitudo in 
+          <lb ed="#B1" n="25"/>ordinata. Vnde turba a turbatione dicitur secundum Papiam. In signum autem 
+          <lb ed="#B1" n="26"/>quod sapientia praestat famam, &amp; quod fama uolitat faciliter ore uulgi. Figu 
+          <lb ed="#B1" n="27"/>ra famae, apud Poëtas fuit quidam alatus, qui pegasus dicebatur. Iste natus fuit  
+          <lb ed="#B1" n="28"/>de sanguine Gorgonis, qui timor uel terror interpretatur. Quia initium sapi 
+          <lb ed="#B1" n="29"/>entiae timor Domini. Iste equus pede suo percussit terram, &amp; erupit fons Mu 
+          <lb ed="#B1" n="30"/>sarum. De quo Horatius in Prologo poetriae: 
+          <lb ed="#B1" n="31"/>Nec fonte labra prolui caballino.
+        </p>
+        <p xml:id="rhwis-l112-d1e161">
+          <lb ed="#B1" n="32"/>Quia occasione famae multi de fonte sapientiae bibere cupierunt, propter fa 
+          <lb ed="#B1" n="33"/>mam enim conquirendam multi studijs, &amp; rebus bellicis se dederunt. Hoc est 
+          <lb ed="#B1" n="34"/>ergo primum emolimentum positum in ista lectione, quod sapientia contulit  
+          <lb ed="#B1" n="35"/>Salomoni, quod uidelicet habuit per eam uenerationem in populis. Sed com 
+          <lb ed="#B1" n="36"/>putatis primis duobus emolimentis, istud est tertium. Quartum emolimen 
+          <!--sap_Page_411.xml-->
+          <pb ed="#B1" n="377"/>
+          <lb ed="#B1" n="1"/>tum confert sapientia uidelicet discretionem in iudicijs. Et quantum ad hoc di 
+          <lb ed="#B1" n="2"/>cit sic: luuenis &amp; acutus inueniar in iudicijs. Iuuenis: id est, fortis, 1. lohan. 2. Scri 
+          <lb ed="#B1" n="3"/>bo uobis iuuenes, quoniam fortes estis, &amp; uerbum DEI manet in uobis, &amp; ui  
+          <lb ed="#B1" n="4"/>cistis malignum. Et acutus: id est, subtilis in iudicio discernendo noxium ab inson 
+          <lb ed="#B1" n="5"/>te. Istud acumen iudicij dedit sapientia Danieli, Dan. 13. Reuertimini ad iu 
+          <lb ed="#B1" n="6"/>dicium: quia falsum testimonium tulerunt contra eam. Istud enim acumen iu 
+          <lb ed="#B1" n="7"/>dicij, &amp; caetera, Salomon a sapientia percepit 3. Reg. 3. Audiuit itaque om 
+          <lb ed="#B1" n="8"/>nis Israel iudicium, quod iudicasset rex, &amp; timuerunt regem, uidentes sapien 
+          <lb ed="#B1" n="9"/>tiam DEI esse in eo ad faciendum iudicium. Quintum emolimentum quod 
+          <lb ed="#B1" n="10"/>homo per sapientiam consequitur est, quod confert homini inter nobiles ad 
+          <lb ed="#B1" n="11"/>mirationem: Nobiles principes &amp; potentes maxime indigent consilio sapien 
+          <lb ed="#B1" n="12"/>tum. Vnde propter sapientiam pauperes etiam regum fiunt ductores: hoc est, 
+          <lb ed="#B1" n="13"/>quod dicit, in conspectu potentum admirabilis ero. Et potest illa litera specialiter 
+          <lb ed="#B1" n="14"/>exponi de CHRISTO in quo mansit personaliter sapientia increata: de quo 
+          <lb ed="#B1" n="15"/>dicit, Luc. 4. Omnes illi dabant testimonium, &amp; mirabantur in uerbis gratiae 
+          <lb ed="#B1" n="16"/>quae procedebant de ore ipsius. Et facies principum mirabantur eum, Esa. 52. super 
+          <lb ed="#B1" n="17"/>ipsum continebunt reges os suum. Tria aut dant potentes sapientibus ratione 
+          <lb ed="#B1" n="18"/>doctrinae: uidelicet expectationem cum reuerentia, considerationem cum di 
+          <lb ed="#B1" n="19"/>ligentia, &amp; auscultationem cum patientia: &amp; ideo quantum ad ista tria subiun 
+          <lb ed="#B1" n="20"/>git. Tacentem me sustinebunt: id est, expectabunt, Iob. 29. Expectabant me sicut  
+          <lb ed="#B1" n="21"/>pluuiam, &amp; os suum aperiebant quasi ad imbrem serotinum. Ecce expectatio 
+          <lb ed="#B1" n="22"/>cum reuerentia, quantum ad primum: &amp; loquentem me respicient sicut homines 
+          <lb ed="#B1" n="23"/>intenti ad uerba alicuius, respiciunt eum in faciem, Iob. 29. lntenti tacebunt ad  
+          <lb ed="#B1" n="24"/>consilium meum, ecce consideratio cum diligentia: &amp; sermocinante me plura, 
+          <lb ed="#B1" n="25"/>manus ori suo imponent: quia non ualebunt resistere sapientiae &amp; spiritui, qui lo 
+          <lb ed="#B1" n="26"/>quitur, Actu. 7. Ecce auscultatio cum patientia, quo ad tertium, Iob. 29. Vide 
+          <lb ed="#B1" n="27"/>bant me iuuenes &amp; abscondebantur, &amp; senes assurgentes stabant, principes 
+          <lb ed="#B1" n="28"/>cessabant loqui, &amp; digitum supponebant ori suo 
+          <lb ed="#B1" n="29"/>Iuuenis acutus inueniar in iudicio.
+        </p>
+        <p xml:id="rhwis-l112-d1e241">
+          <lb ed="#B1" n="30"/>Notandum est, quod iuuenibus sunt tria praecauenda, tria sunt imponen 
+          <lb ed="#B1" n="31"/>da, &amp; sunt tria praedicenda. Praecauere enim debent somnum torpentis ocio 
+          <lb ed="#B1" n="32"/>sitatis, uiscum inficientis societatis, &amp; aestum praesumentis tumiditatis. Primo 
+          <lb ed="#B1" n="33"/>praecauere debet somnum torpentis ociositatis. Sicut docet Plinius: Accipiter 
+          <lb ed="#B1" n="34"/>pullos suos cum apti fuerint ad uolandum, extra nidum proijcit &amp; verberat  
+          <lb ed="#B1" n="35"/>eos alis, cauensquem ne in aetate tenera pinguescant, ne marcescant ocio, &amp; soluan 
+          <lb ed="#B1" n="36"/>tur delicijs: sic conuenit omnino circa iuuenes ordinari. Primo extra nidum 
+          <lb ed="#B1" n="37"/>propriae uoluntatis eijciantur, de erroribus castigentur, &amp; ad capiendum prae 
+          <lb ed="#B1" n="38"/>dam suam statim assuescant. Si clerici debent esse: praeda eorum est intelligen 
+          <lb ed="#B1" n="39"/>tia Scripturarum, &amp; compellantur ad libros. Si milites, praeda eorum est stre 
+          <lb ed="#B1" n="40"/>nuitas &amp; uictoria pugnarum, exerceantur in bellis. Si mercatores, praeda eo  
+          <lb ed="#B1" n="41"/>rum est lucrum: exerceantur in nundinis. Sic omnino quod nullus uacet ocio:  
+          <lb ed="#B1" n="42"/>sed posset quilibet dicere cum Psal. <quote xml:id="rhwis-l112-Qd1e271" source="http://scta.info/resource/ps87_16">Pauper sum ego &amp; in laboribus a iuuen 
+            <lb ed="#B1" n="43"/>tute mea</quote>. Sed sicut dicitur in lib. de naturis rerum: Pullus asini quanto senior,  
+          <lb ed="#B1" n="44"/>tanto turpior. Et de capris dicit Arist. 5. de Animalibus, quod foetus qui pri 
+          <lb ed="#B1" n="45"/>mogeneratur est melior &amp; fortior. Et foetus qui postea generatur est peior 
+          <lb ed="#B1" n="46"/>Tales etiam moraliter inter iuuenes inueniuntur, qui in principio sunt deuoti,  
+          <lb ed="#B1" n="47"/>uirtuosi, &amp; boni. Sed quanto magis adolescunt, tanto magis uitijs se immi 
+          <lb ed="#B1" n="48"/>scent, &amp; siunt turpiores: Tales sunt scholares deuoti dummodo sunt pauperes  
+          <lb ed="#B1" n="49"/>&amp; iuuenes, tardissimi &amp; superbi, dum diuites esse coeperint de patrimonio cru 
+          <lb ed="#B1" n="50"/>cifixi. Secundo praecauere debent uiscum infectiuae societatis: Sicut enim pueri 
+          <lb ed="#B1" n="51"/>de facili inficiuntur lepra corporali: Ita facillime inuiscantur familiaritatibus 
+          <lb ed="#B1" n="52"/>uitiosis, &amp; praecipue cum mulieribus, quarum blanditiae etiam fortes aut e 
+          <lb ed="#B1" n="53"/>molliunt aut eneruant, Proverb. 7. <quote xml:id="rhwis-l112-Qd1e298" source="http://scta.info/resource/prov7_6">De fenestra domus meae prospexi iuuenem</quote>. 
+          <!--sap_Page_412.xml-->
+          <pb ed="#B1" n="378"/>
+          <lb ed="#B1" n="1"/>Et infra: <quote xml:id="rhwis-l112-Qd1e307" source="http://scta.info/resource/prov7_7 http://scta.info/resource/prov7_8">Considero uecordem iuuenem qui transit per plateas</quote>: &amp; <quote xml:id="rhwis-l112-Qd1e311" source="http://scta.info/resource/prov7_10">ecce mulier 
+            <lb ed="#B1" n="2"/>occurrit illi in ornatu meretricio praeparata ad capiendas animas</quote>, &amp; <quote xml:id="rhwis-l112-Qd1e316" source="http://scta.info/resource/prov7_13">apprehen 
+              <lb ed="#B1" n="3"/>sum deosculatur iuuenem</quote>. Et bene infra subditur: <quote xml:id="rhwis-l112-Qd1e321" source="http://scta.info/resource/prov7_22">Statim eam sequitur, quasi 
+                <lb ed="#B1" n="4"/>bos ductus ad uictimam</quote>. Tertio praecauere debent aestum praesumentis tu 
+          <lb ed="#B1" n="5"/>miditatis. Duo genera hominum sunt naturaliter magnae spei, dumodo con 
+          <lb ed="#B1" n="6"/>ditio status eorum durat. luuenes, &amp; ebrij. Et quia praesumptio mater est 
+          <lb ed="#B1" n="7"/>iurgiorum, raro iurgia &amp; dissensiones uel bella inter socios oriuntur, nisi iu 
+          <lb ed="#B1" n="8"/>uenes &amp; ebrij sint in causa. Quod aut iuuenes sunt praesumptuosi, &amp; magnae 
+          <lb ed="#B1" n="9"/>spei dicit Aristot. 2. Ethicor. Et huius causa est triplex secundum tres condi 
+          <lb ed="#B1" n="10"/>tiones obiecti ipsius spei. Obiectum enim spei est bonum arduum &amp; possibi 
+          <lb ed="#B1" n="11"/>se: quia enim iuuenes multum se habere putant de futuro, &amp; parum habent de 
+          <lb ed="#B1" n="12"/>praeterito. Memoria autem est praeteriti: Spes uero futuri: ideo multum habent  
+          <lb ed="#B1" n="13"/>de spe &amp; possibili, &amp; parum de re &amp; actu. Vnde sicut materia prima dicitur in 
+          <lb ed="#B1" n="14"/>potentia ad omnes formas: Et quanto magis actuatur, tanto plus perdit de po 
+          <lb ed="#B1" n="15"/>tentialitate. Ita puer dummodo est iuuenis, tunc est in potentia ad omnem sta 
+          <lb ed="#B1" n="16"/>tum, potest esse sacerdos, potest esse Episcopus, potest esse Papa: sed cum cre 
+          <lb ed="#B1" n="17"/>uerit modicum, uix sufficiet portare aquam benedictam. Secunda causa quare 
+          <lb ed="#B1" n="18"/>iuuenes sunt praesumptuosi est caliditas naturae. Habent enim copiam calo 
+          <lb ed="#B1" n="19"/>rum &amp; spirituum, &amp; ideo cor in eis ampliatur. Ex ampliatione autem cordis ho 
+          <lb ed="#B1" n="20"/>mo tendit in ardua. In Psalm. <quote xml:id="rhwis-l112-Qd1e361" source="http://scta.info/resource/ps118_32">Viam mandatorum tuorum cucurri, cum dila 
+            <lb ed="#B1" n="21"/>tasti cor meum</quote>. Tertia causa est inexperientia. Illi qui nondum passi sunt dif 
+          <lb ed="#B1" n="22"/>ficultates &amp; resistentias in factis suis, audaces sunt ad attentandum omma. Illi  
+          <lb ed="#B1" n="23"/>uero qui iam frequenter sustinuerunt repulsam, frustra laborauerunt in cona 
+          <lb ed="#B1" n="24"/>tibus, non de facili attentant ea, quae non sunt experti. Et haec est causa quare 
+          <lb ed="#B1" n="25"/>iuuenes non debent fieri duces bellorum: sicut dicitur 3. Topic. Nemo eligit  
+          <lb ed="#B1" n="26"/>iuuenes in duces, eo quod constat eos non esse prudentes. Et ideo signanter 
+          <lb ed="#B1" n="27"/>dicitur Ecclesiast. 11. Laetare iuuenis in adolescentia tua, &amp; in bono sit cor tuum 
+          <lb ed="#B1" n="28"/>in diebus iuuentutis tuae. In bono uidelicet humilitatis. Quia sicut dicit Gre 
+          <lb ed="#B1" n="29"/>gor. in quadam Homelia: Qui sine humilitate uirtutes congregat, quasi in uen 
+          <lb ed="#B1" n="30"/>to pulueres portat. Ambrosius super Beati immaculati. Non mirabilis humi 
+          <lb ed="#B1" n="31"/>litas in senectute: quia effecta uiribus, debilitata facturis, tristicijs &amp; doloribus 
+          <lb ed="#B1" n="32"/>anhela, coacta curarum aestibus, &amp; ipsa uiuendi moesta, fastidio, alacritate est 
+          <lb ed="#B1" n="33"/>oblita, iactantiae. Rara sane in iuuenibus est humilitas, ideoque miranda dum 
+          <lb ed="#B1" n="34"/>aetas uiget, dum uires solidae, dum sanguis aestuat, dum solicitudo nescitur,  
+          <lb ed="#B1" n="35"/>dum ignoratur nobilitas, dum laeticia frequentatur.
+        </p>
+        <p xml:id="rhwis-l112-d1e397">
+          Secundo principaliter sunt  
+          <lb ed="#B1" n="36"/>tria iuuenibus imponenda, scilicet promptitudo obedientiae, teneritudo con 
+          <lb ed="#B1" n="37"/>scientiae, &amp; solicitudo continentiae. Promptitudo obedientiae: quia iuuenis si 
+          <lb ed="#B1" n="38"/>ne obedientia abusio est, secundum August. Vnde sicut docet Arist. 8. Ethic.  
+          <lb ed="#B1" n="39"/>Amicitia inter fenes &amp; iuuenes utrisque est necessaria. Senibus quidem, ut eis  
+          <lb ed="#B1" n="40"/>a iuuenibus seruiatur: Et iuuenibus ut inpeccabiles fiant: id est, ut per senio 
+          <lb ed="#B1" n="41"/>res a peccati actionibus praeseruentur. Timore enim seniorum &amp; reuerentia 
+          <lb ed="#B1" n="42"/>solent iuuenes se a suis infolentijs refrenare, Iob. 29. <quote xml:id="rhwis-l112-Qd1e414" source="http://scta.info/resource/iob29_8">Videbant me iuuenes, &amp; 
+            <lb ed="#B1" n="43"/>abscondebantur</quote>. De ista obedientia iuuenum ad seniores dicit Valerius libro  
+          <lb ed="#B1" n="44"/>2. cap. 1. quod apud antiquos senectuti iuuentus generaliter immensum ho 
+          <lb ed="#B1" n="45"/>norem reddebat, tanquam seniores communes patres essent omnium iunio 
+          <lb ed="#B1" n="46"/>rum. Iudic. 4. Sic enim iuuenes facere consueuerant, &amp; bene dicitur consueue 
+          <lb ed="#B1" n="47"/>rant: quia iam olim est consuetudo haec abrogata, Esa. 3. Tumultuabitur puer 
+          <lb ed="#B1" n="48"/>contra senem, &amp;c. Secundo est eis imponenda teneritudo conscientiae, ut discant 
+          <lb ed="#B1" n="49"/>peccata sua cum eorum circumstantijs diligenter discussa, integraliter &amp; dili 
+          <lb ed="#B1" n="50"/>genter euidenter exprimere: quia si fuerit conscientia larga in iuuentute, am 
+          <lb ed="#B1" n="51"/>pliabitur sine mensura in senectute, Ecclesiast. 6. Fili mi a iuuentute tua excipe 
+          <lb ed="#B1" n="52"/>doctrinam, &amp; usque ad canos inuenies superbiam. Et 25. Quae in iuuentute 
+          <lb ed="#B1" n="53"/>tua non congregasti, quomodo inuenies ea in senectute tua: qui d. nullo modo.  
+          <!--sap_Page_413.xml-->
+          <pb ed="#B1" n="379"/>
+          <lb ed="#B1" n="1"/>Et ideo dolorem hominis merito plangentis consumptionem suae iuuentutis  
+          <lb ed="#B1" n="2"/>in ociositate &amp; insolentia, describit Salomon Proverb. 5. Cur detestatus sum 
+          <lb ed="#B1" n="3"/>disciplinam, &amp; increpationibus non adquieuit cor meum: nec audiui uoces 
+          <lb ed="#B1" n="4"/>docentium me, &amp; magistris non inclinauit aurem meam: Et merito plangere 
+          <lb ed="#B1" n="5"/>potest talis, quoniam metrice dicitur:  
+          <lb ed="#B1" n="6"/>Damna sieo rerum, sed plus fleo damna dierum, 
+          <lb ed="#B1" n="7"/>uisque potest rebus succurrere, nemo diebus.
+        </p>
+        <p xml:id="rhwis-l112-d1e462">
+          <lb ed="#B1" n="8"/>Tertium est solicitudo continentiae: quia continentes esse non potuerunt sine sum 
+          <lb ed="#B1" n="9"/>ma custodia, &amp; solicitudine uitae suae propter carnis impugnationes. In Psal. <quote xml:id="rhwis-l112-Qd1e468" source="http://scta.info/resource/ps128_1">Sae 
+            <lb ed="#B1" n="10"/>pe expugnauerunt me a iuuentute mea</quote>. Et ideo bene petijt Psal. Delicta iuuentu  
+          <lb ed="#B1" n="11"/>tis. Tria sunt eis praedicenda: uidelicet debilitas corporalis uirtutis, labilitas tem 
+          <lb ed="#B1" n="12"/>poralis iuuentutis, &amp; deformitas hyemalis senectutis. Solent enim iuuenes de 
+          <lb ed="#B1" n="13"/>fortitudine sua gloriari nimis, non aduertentes illud Esa. 40. Iuuenes in infir 
+          <lb ed="#B1" n="14"/>mitate cadent. Item praedicenda est eis labilitas temporalis iuuentutis: quia 
+          <lb ed="#B1" n="15"/>forma corporis quantumcunque magna cito transit. Vnde Ouidius 2. de arte 
+          <lb ed="#B1" n="16"/>Amandi: 
+          <lb ed="#B1" n="17"/>Forma bonum fragile est, quantum accedit ad annos: 
+          <lb ed="#B1" n="18"/>Fit minor &amp; spacio carpitur ipsa suo 
+          <lb ed="#B1" n="19"/>Naec violae semper nec lilia canuida florent. 
+          <lb ed="#B1" n="20"/>Et riget amissa spina relicta rosa. 
+          <lb ed="#B1" n="21"/>Et tibi iam venient cani formose capilli. 
+          <lb ed="#B1" n="22"/>lam venient ruge quae tibi corpus arent. 
+          <lb ed="#B1" n="23"/>Et Virgilius in Bucolicis Egloga 2 
+          <lb ed="#B1" n="24"/>O formose puer nimium ne crede colori,  
+          <lb ed="#B1" n="25"/>Alba licustra cadent vacinia nigra leguntur. 
+          <lb ed="#B1" n="26"/>Vacinia apud Virg. aliquando sunt parui fructus nigri Anglici in austro, in bo 
+          <lb ed="#B1" n="27"/>rea bilberies: in Gallico plebes: &amp; sic loquitur hic. Aliquando uacinia sunt flo 
+          <lb ed="#B1" n="28"/>res qui uocantur primulae ueris: &amp; sic loquitur Virg. in eadem Egloga dicens: 
+          <lb ed="#B1" n="29"/>Mollia lut eola pingit vacinia caltha 
+        </p>
+        <p xml:id="rhwis-l112-d1e515">
+          <lb ed="#B1" n="30"/>Tertio praedicenda est iuuenibus deformitas hyemalis senectutis, de qua ibi  
+          <lb ed="#B1" n="31"/>dem Ouid. lib. 3. de arte Amandi ita scribit:  
+          <lb ed="#B1" n="32"/>Venture memores iam nunc estote senecta, &amp; 
+          <lb ed="#B1" n="33"/>Sic nullum tempus vobis abibit iners. 
+          <lb ed="#B1" n="34"/>Vtendum est atate citopede labitur atas. 
+          <lb ed="#B1" n="35"/>Nec bona tam sequitur, quam bona prima fuit.  
+          <lb ed="#B1" n="36"/>Quam cito me miserum laxantur corpora rugis, 
+          <lb ed="#B1" n="37"/>Et perit in nitido qui fuit ore color. 
+          <lb ed="#B1" n="38"/>Et ideo signanter dicitur Eccles. 12. Memento creatoris tui in diebus iuuentu 
+          <lb ed="#B1" n="39"/>tis tuae, antequam ueniat tempus afflictionis, &amp; appropinquant anni, de qui  
+          <lb ed="#B1" n="40"/>bus dicas, non mihi placent.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

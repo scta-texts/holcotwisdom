@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 119 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 119 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="398"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l119">
+        <p xml:id="rhwis-l119-d1e95">
+          <!--sap_Page_432.xml-->
+          <pb ed="#B1" n="398"/>
+          <lb ed="#B1" n="1"/>POSTQVAM Salomon deprecaturus DEVM pro sapientia 
+          <lb ed="#B1" n="2"/>impetranda captauit beneuolentiam diuinam: In hac parte proponit 
+          <lb ed="#B1" n="3"/>deuotae suae petitionis sententiam. Et circa hoc duo facit. Primo pro 
+          <lb ed="#B1" n="4"/>ponit formam suae supplicationis. Secundo allegat causam diuinae 
+          <lb ed="#B1" n="5"/>exauditionis. Secunda pars ibi: Quoniam seruus tuus sum. In peti 
+          <lb ed="#B1" n="6"/>tione autem sua duo ponit ad bonam uitam necessaria, uidelicet diuinam informa 
+          <lb ed="#B1" n="7"/>tionem, &amp; diuinam approbationem. Primum pertinet ad intellectum. Secun 
+          <lb ed="#B1" n="8"/>dum ad uoluntatem siue affectum. Petit ergo duo, uidelicet sufficientiam no 
+          <lb ed="#B1" n="9"/>ticiae, &amp; complacentiam bonae uitae.
+        </p>
+        <p xml:id="rhwis-l119-d1e121">
+          <lb ed="#B1" n="10"/>Quo ad primum, dicit sic: Da mihi sedium tuarum Domine assistricem sapientiam. 
+          <lb ed="#B1" n="11"/>Quantum ad secundum: Et noli me reprobare a pueris tuis. Da (inquit) mihi, quia 
+          <lb ed="#B1" n="12"/>nec emere possum, nec uiolenter auferre, Prover.17. Quid prodest diuitias ha 
+          <lb ed="#B1" n="13"/>bere stulto, cum sapientiam emere non possit: Da mihi igitur sedium tuarum assistricem 
+          <lb ed="#B1" n="14"/>sapientiam: id est, sapientiam sanctorum angelorum in quibus sedes. Iuxta illud Psalm 
+          <lb ed="#B1" n="15"/>Qui sedes super Cherubin. Assistrice sapientiam: id est, sapientiam quae tuae maiesta 
+          <lb ed="#B1" n="16"/>ti semper assistit. Non enim petiuit sapientiam mundi, quae sedibus principum &amp; 
+          <lb ed="#B1" n="17"/>pontificum semper assistit: quia illa stulticia est apud DEVM, 1. Cor. 2. Sapientiam 
+          <lb ed="#B1" n="18"/>autem loquimur inter perfectos. Sapientiam autem non huius seculi, neque princi 
+          <lb ed="#B1" n="19"/>pum huius seculi, quae destruitur: sed loquimur DEI sapientiam in mysterio ab  
+          <lb ed="#B1" n="20"/>sconditam, quam praedestinauit DEVS, &amp;c. Quaesiuit ergo Salomon sapientiam 
+          <lb ed="#B1" n="21"/>non huius seculi, sed sapientiam quae assistit sedibus DEI. Sedes etiam DEI dici 
+          <lb ed="#B1" n="22"/>possunt animae deuotae in quibus CHRISTVS quiescit: supra 111. cap. In animas 
+          <lb ed="#B1" n="23"/>sanctas se transfert. Et noli reprobare me a pueris tuis: hoc est, dignare me inter 
+          <lb ed="#B1" n="24"/>pueros tuos acceptare. Et noli permittere ut propter demerita mea sim repro 
+          <lb ed="#B1" n="25"/>pandus, &amp; eijciendus a consortio puerorum tuorum: id est, electorum, humilium 
+          <lb ed="#B1" n="26"/>&amp; paruulorum in oculis suis, Luc. 18. Sinite paruulos uenire ad me: talium est 
+          <lb ed="#B1" n="27"/>enim regnum coelorum. Haec est ergo forma supplicationis.
+        </p>
+        <p xml:id="rhwis-l119-d1e163">
+          <lb ed="#B1" n="28"/>Sequitur allegatio causae diuinae exauditionis: &amp; allegat quod DEVS debet  
+          <lb ed="#B1" n="29"/>eum fauorabiliter exaudire. Primo ratione sumpta a parte sui, secundo ratione 
+          <lb ed="#B1" n="30"/>sumpta a parte DEI. Secunda pars ibi: Tu autem elegisti me regem. A parte au 
+          <lb ed="#B1" n="31"/>tem sui assignat duplex motiuum: quorum unum procedit per modum iusti  
+          <lb ed="#B1" n="32"/>ciae, &amp; aliud per modum misericordiae: Primum est specialis familiaritas: secun 
+          <lb ed="#B1" n="33"/>dum naturalis imbecillitas. Specialem familiaritatem allegat, dicens: Quonia 
+          <lb ed="#B1" n="34"/>ego seruus tuus sum: id est, per fidem &amp; deuotionem. Et seruos suos utiles &amp; ne 
+          <lb ed="#B1" n="35"/>cessarios solent homines fauorabiliter exaudire. Iohel. 2. Super seruos meos &amp; 
+          <lb ed="#B1" n="36"/>ancillas meas in diebus illis effundam spiritum meum. Et non sum seruus tuus 
+          <lb ed="#B1" n="37"/>conducticius, uel empticius, sed originarius: quia nec tibi seruire coepi de no 
+          <lb ed="#B1" n="38"/>uo, sed ab uberibus matris meae ad hoc extiti educatus: quia filius ancillae tuae: id  
+          <lb ed="#B1" n="39"/>est, Bersabeae. Hoc est, ergo Domine dicit Salomon, primum motiuum quare di 
+          <lb ed="#B1" n="40"/>gnus sum exaudiri a te, scilicet specialis familiaritas. Sed aliud est quod magis 
+          <lb ed="#B1" n="41"/>prouocat ad compassionem, &amp; ad dandum mihi quod peto per modum benefi 
+          <lb ed="#B1" n="42"/>cij &amp; misericordiae, non autem per modum meriti uel iusticiae: uidelicet natu  
+          <lb ed="#B1" n="43"/>ralis imbecillitas propter quam sum impotens ad faciendum illud quod de 
+          <lb ed="#B1" n="44"/>beo. Et quantum ad hoc dicit: Homo infirmus, &amp;c. Vbi primo allegat impoten 
+          <lb ed="#B1" n="45"/>tiam ex defectu naturae, secundo ex defectu gratiae: Ex defectu naturae allegat  
+          <lb ed="#B1" n="46"/>impotentiam dupliciter: primo ex parte corporis: secundo ex parte animae. Ex  
+          <lb ed="#B1" n="47"/>parte corporis dicit: homo infirmus &amp; exigui temporis, quasi diceret: Quia 
+          <lb ed="#B1" n="48"/>dicor homo &amp; recognosco propriam uilitatem: homo enim dicitur ab 
+          <!--sap_Page_433.xml-->
+          <pb ed="#B1" n="399"/>
+          <lb ed="#B1" n="1"/>humo: quia infirmus confiteor fragilitatem unde dicebat CHRISTVS Matth.  
+          <lb ed="#B1" n="2"/>26. <quote xml:id="rhwis-l119-Qd1e219" source="http://scta.info/resource/mt26_41">Spiritus quidem promptus est, caro autem infirma</quote>: quia exigui temporis pro 
+          <lb ed="#B1" n="3"/>uideo uitae breuitatem, Iob 14. Breues dies hominis sunt. Et Sap. 2. Exiguum 
+          <lb ed="#B1" n="4"/>&amp; cum taedio est tempus uitae nostrae. Ex parte autem animae allegat ignoran  
+          <lb ed="#B1" n="5"/>tiam dicens: Et minor, supple sum, ad intellectum iudicij &amp; legum. Ista materia iu 
+          <lb ed="#B1" n="6"/>diciorum &amp; noticia legum, quam DEVS statuit in Ecclesia est necessaria iudici 
+          <lb ed="#B1" n="7"/>Leuit. 18. Custodite leges meas atque iudicia, quae faciens homo uiuet in eis. V 
+          <lb ed="#B1" n="8"/>timo allegat impotentiam ex defectu gratiae: quia quantumcunque homo sit perfe 
+          <lb ed="#B1" n="9"/>ctus &amp; sanctus in scientijs quas potest acquirere per naturam, sine tamen gratia 
+          <lb ed="#B1" n="10"/>nihil faciet meritorium uitae aeternae. Et ideo dicit: Et enim si aliquis fuerit consuma 
+          <lb ed="#B1" n="11"/>tus, id est, perfectus, quantum homo potest per naturam: si ab illo fugerit sapien 
+          <lb ed="#B1" n="12"/>tia tua: id est, noticia uel fidei tendentis in te per dilectionem, in nihilum compu 
+          <lb ed="#B1" n="13"/>tabitur. Sapien.13. Vani sunt omnes homines, in quibus non est sapientia DEI, 
+          <lb ed="#B1" n="14"/>Et ideo de insipientibus dicitur supra tertio cap. Et siquidem longae uitae erunt  
+          <lb ed="#B1" n="15"/>in nihilum computabuntur.
+        </p>
+        <p xml:id="rhwis-l119-d1e251">
+          <lb ed="#B1" n="16"/>Noli me reprobare a pueris tuis.] Nota quod secundum Aristot. in problema.  
+          <lb ed="#B1" n="17"/>Pueri in iuuentute respectum sui corporis maiores habent oculos quam in se 
+          <lb ed="#B1" n="18"/>nectute, &amp; causa illius est: quia habent humidum cerebrum: quia plus abun 
+          <lb ed="#B1" n="19"/>dant in humiditate cerebri in iuuentute, quam in senectute. Et propter eandem 
+          <lb ed="#B1" n="20"/>humiditatem pueri sunt somnolentiores &amp; grauiores in capitibus eorum, quam 
+          <lb ed="#B1" n="21"/>senes, &amp; promptiores ad lachrymandum in fletu. Sunt etiam acutiores in uisu: 
+          <lb ed="#B1" n="22"/>quia oculi eorum sunt magis dispositi ex parte organi quam in senio: si enim 
+          <lb ed="#B1" n="23"/>senex haberet oculos ut iuuenis, uideret ut iuuenis. Moraliter per pueros intel 
+          <lb ed="#B1" n="24"/>liguntur fideles homines, de quibus Psalm. Laudate pueri Dominum. Et prin 
+          <lb ed="#B1" n="25"/>cipaliter illi qui fuerunt in ueteri Testamento, &amp; in principio primitiuae Eccle 
+          <lb ed="#B1" n="26"/>siae, quae tempora intelliguntur per iuuentutem. Sicut ergo pueri in iuuentute 
+          <lb ed="#B1" n="27"/>habent maiores oculos, &amp; uident acutius: sic ipsi fideles tanquam pueri DEI 
+          <lb ed="#B1" n="28"/>magnos habuerunt oculos non corporis, sed mentis, &amp; acute uiderunt ipsum 
+          <lb ed="#B1" n="29"/>DEVM ante multa tempora. Nota quod sancti &amp; deuoti homines pueris com 
+          <lb ed="#B1" n="30"/>parantur propter septem pueri conditiones, quae in istis uersibus continentur:  
+          <lb ed="#B1" n="31"/>Sunt pueri puri, parui, paruisque cibantur,  
+          <lb ed="#B1" n="32"/>Currunt, laetantur, cito dant cito pacificantur. Vel sic: 
+          <lb ed="#B1" n="33"/>Sunt pueri parui, puri, paruo satiati,  
+          <lb ed="#B1" n="34"/>Conformes ludunt, cito dant, cito pacificantur.  
+          <lb ed="#B1" n="35"/>Est enim in puero inuenire paruitatem, puritatem, sobrietatem, conformita 
+          <lb ed="#B1" n="36"/>tem, iocunditatem, liberalitatem, &amp; tranquillitatem. Sic moraliter sancti sunt  
+          <lb ed="#B1" n="37"/>parui, contra tumorem superbiae: Puri, contra foetorem luxuriae: Sobrij, con 
+          <lb ed="#B1" n="38"/>tra feruorem gulae: Conformes, contra liuorem inuidiae: locundi contra tor 
+          <lb ed="#B1" n="39"/>porem accidiae: Liberales contra rigorem auaritiae: &amp; tranquilli, contra fer 
+          <lb ed="#B1" n="40"/>uorem iracundiae. Primo dico quod sancti sunt parui per humilitatem. Cum 
+          <lb ed="#B1" n="41"/>enim porta coelestis sit parua &amp; angusta, oportet ibi uolentes intrare paruos 
+          <lb ed="#B1" n="42"/>fieri. Matth. 18. Nisi conuersi fueritis, &amp; efficiamini sicut paruuli, non intra 
+          <lb ed="#B1" n="43"/>bitis in regnum coelorum. Et Lucae 18. Quicunque non acceperit regnum DEI 
+          <lb ed="#B1" n="44"/>sicut puer, non intrabit in illud. Preciosa iocalia solent cooperari crystallo com 
+          <lb ed="#B1" n="45"/>muniter propter duo. Primo, quia sic honeste &amp; secure saluantur a puluere,  
+          <lb ed="#B1" n="46"/>&amp; ab extrinseco tactu laesiuo. Secundo, quia sic bene manifestantur. Crystal 
+          <lb ed="#B1" n="47"/>lus enim cum sit transparens permittit speciem rei transire ad oculum, imo au 
+          <lb ed="#B1" n="48"/>get speciem, &amp; facit rem apparere maioris quantitatis, quam est. lsto modo 
+          <lb ed="#B1" n="49"/>moraliter qui uult uirtutes aliquas saluas custodire occultet &amp; operiat eas sub  
+          <lb ed="#B1" n="50"/>humilitate. Est enim humilitas sicut crystallus: quia seruabit uirtutes a pulue 
+          <lb ed="#B1" n="51"/>re uanae gloriae, &amp; tactu siue palpatione laudis humanae, &amp; in conspectu DEI 
+          <lb ed="#B1" n="52"/>faciet eas apparere maioris ualoris, quam si per se starent sine humilitate. Per 
+          <!--sap_Page_434.xml-->
+          <pb ed="#B1" n="400"/>
+          <lb ed="#B1" n="1"/>istud medium praesentauit beata uirgo DEO suam uirginitatem, suam pieta 
+          <lb ed="#B1" n="2"/>tem, &amp; suam charitatem: ita quod omnia fuerunt cooperata sub crystallo hu 
+          <lb ed="#B1" n="3"/>militatis. Ideo signanter dicit in suo cantico: Quia respexit humilitatem ancil 
+          <lb ed="#B1" n="4"/>lae suae, Luc. 1. Istud in gratijs naturalibus &amp; etiam acquisitis generaliter satis pa 
+          <lb ed="#B1" n="5"/>tet: quia quaelibet uirtus talis, tanto maior uidetur, quanto magis sub humilita 
+          <lb ed="#B1" n="6"/>te contegitur. Si enim sapientia nimis nuda ostendatur per iactantiam, si pul 
+          <lb ed="#B1" n="7"/>chritudo, si fortitudo, minor apparet. Et si etiam quodlibet bonum naturae mi 
+          <lb ed="#B1" n="8"/>nus est gratum homini, sed quando coniungitur cum humilitate gratum sit 
+          <lb ed="#B1" n="9"/>homini, &amp; acceptum in tantum, quod ipsa superbia appetit humilis appare 
+          <lb ed="#B1" n="10"/>re. Nemo est enim qui superbus uelit apparere uel uideri. Vnde Bernhardus 
+          <lb ed="#B1" n="11"/>de 12. gradibus humilitatis. Gloriosa res est humilitas, qua ipsa quoqe super 
+          <lb ed="#B1" n="12"/>bia palliare se appetit ne uilescat. Vnde de Saule legitur, 1. Reg. 15. Cum esses 
+          <lb ed="#B1" n="13"/>paruus in oculis, tuis caput in tribubus Israel factus es. Propter humilitatem fuit  
+          <lb ed="#B1" n="14"/>electus, &amp; propter superbiam deiectus. Habet ergo puer paruitatem contra 
+          <lb ed="#B1" n="15"/>tumorem superbiae.
+        </p>
+        <p xml:id="rhwis-l119-d1e371">
+          <lb ed="#B1" n="16"/>Secundo habet puritatem contra foetorem luxuriae. Quanto Dominus est 
+          <lb ed="#B1" n="17"/>maior tanto maiorem honestatem in seruo suo seruiente requirit. DEVS au 
+          <lb ed="#B1" n="18"/>tem maximus Dominus est, ideo uult ministros suos esse mundos &amp; honestos. 
+          <lb ed="#B1" n="19"/>In cuius figuram legimus, 1. Reg. 21. Quod cum Dauid uenisset cum fociis 
+          <lb ed="#B1" n="20"/>ad Achimelech sacerdotem in Nobe, &amp; fames eos urgeret uehementer, pete 
+          <lb ed="#B1" n="21"/>retque Dauid ab Achimelech panem pro se &amp; suis, in tanta necessitate. Respon 
+          <lb ed="#B1" n="22"/>dit sacerdos: Si mundi sunt pueri maxime a mulieribus manducent, quasi di 
+          <lb ed="#B1" n="23"/>ceret: Necessitas non habet legem, sed si immundi essent nullo modo eis da 
+          <lb ed="#B1" n="24"/>rem. Foetet autem luxuria non solum in conspectu DEI &amp; angelorum bono 
+          <lb ed="#B1" n="25"/>rum, imo etiam coram quibusdam daemonibus nobilis naturae. Vnde quidam  
+          <lb ed="#B1" n="26"/>nigromanticus cum daemonem more solito inuocasset, post longam expecta 
+          <lb ed="#B1" n="27"/>tionem &amp; carminum suorum terminationem, tandem apparuit stans a longe 
+          <lb ed="#B1" n="28"/>uestibus obturans nares suos, a quo cum coniurator quaereret quare ita tardas  
+          <lb ed="#B1" n="29"/>set, &amp; quare ita a remotis se partibus tenuit: Respondit. Foetor (inquit) luxuriae 
+          <lb ed="#B1" n="30"/>tuae non permittit me ad te accedere. Cognoverat autem meretricem suam cle 
+          <lb ed="#B1" n="31"/>ricus ille parum ante. Et de talibus verificatur illud Esa. 34. De cadaueribus 
+          <lb ed="#B1" n="32"/>eorum ascendit foetor.
+        </p>
+        <p xml:id="rhwis-l119-d1e411">
+          <lb ed="#B1" n="33"/>Tertio puer habet sobrietatem contra feruorem gule. Quando enim indiget, co  
+          <lb ed="#B1" n="34"/>medit &amp; bibit, &amp; mensuram naturalem non excedit. Sic sancti uiri in hoc pueros 
+          <lb ed="#B1" n="35"/>imitantes, quantum naturae sufficit capiunt, &amp; tunc tam sanitatem quam sumptus 
+          <lb ed="#B1" n="36"/>saluabunt. In cuius signum legimus Dan. 1. quoe Daniel &amp; socii sui pueri qui nolebant  
+          <lb ed="#B1" n="37"/>comedere de cibis regis Nabuchodonosoris, nec bibere de uino eius, sed co 
+          <lb ed="#B1" n="38"/>mederunt legumina, &amp; biberunt aquam, honestiores fuerunt caeteris pueris Chal 
+          <lb ed="#B1" n="39"/>daeorum. Vnde dicitur ibi: post decem dies inuenti sunt uultus eorum melio  
+          <lb ed="#B1" n="40"/>res &amp; corpulentiores prae omnibus pueris, qui uescebantur cibo regio. Et pue 
+          <lb ed="#B1" n="41"/>ris illis dedit DEVS scientiam &amp; disciplinam in omni scientia. Et ideo merito 
+          <lb ed="#B1" n="42"/>comparatur sobrietas amethisto, de quo dicitur in lapidario, cap. 16. 
+          <lb ed="#B1" n="43"/>tsic facilis sculpi contrarius ebrietati,  
+          <lb ed="#B1" n="44"/>Carus haberetursi rarior inueniretur.  
+          <lb ed="#B1" n="45"/>Dicitur autem de isto lapide quoe praeseruat equum gestantis a cespitatione &amp; in 
+          <lb ed="#B1" n="46"/>firmitate. Isto modo moraliter sobrietas est facilis sculpi: quia sobrij facilime 
+          <lb ed="#B1" n="47"/>docentur &amp; castigantur. Similiter anima vuiri sancti est sicut eques, &amp; caro sicut e 
+          <lb ed="#B1" n="48"/>quus. Esa. 31. Equi eorum caro. Anima istum equum debet regere &amp; refrenare, &amp; 
+          <lb ed="#B1" n="49"/>interdum urgere calcaribus Si uero eques: id est, anima istam gemmam: id est, sobrieta 
+          <lb ed="#B1" n="50"/>tem portauerit, equus: id est, caro non perdet sensum: nec cespitabit in uia mo 
+          <lb ed="#B1" n="51"/>rum, nec cadet super peccatum, imo corporalem infirmitatem euadet. Sen.10. decla 
+          <lb ed="#B1" n="52"/>ma. dicit, quod ideo subito morimur: quia de mortibus uiuimus. Quicquid  
+          <lb ed="#B1" n="53"/>auium volitat, quicquid piscium natat, quicquid ferarum discurrit, nostris sepeli
+          <!--sap_Page_435.xml-->
+          <pb ed="#B1" n="401"/>
+          <lb ed="#B1" n="1"/>tur uentribus. Quaeritur enim, quare nunc subito moriamur: quia nunc morti 
+          <lb ed="#B1" n="2"/>bus uiuimus. Et ad Lucil. epist. 7. Morbos multos multa fercula fecerunt, innu 
+          <lb ed="#B1" n="3"/>merabiles morbos non miraberis. Coquos numera. De hac materia notabili  
+          <lb ed="#B1" n="4"/>ter loquitur lnnocentius, de uilitate conditionis humanae. Initium (inquit) ui  
+          <lb ed="#B1" n="5"/>tae hominis panis &amp; aqua. Gulosis autem non sufficiunt fructus arborum, non 
+          <lb ed="#B1" n="6"/>grana leguminum, non radices herbarum, non pisces maris, non bestiae terrae,  
+          <lb ed="#B1" n="7"/>non aues coeli: sed quaeruntur pigmenta, parantur aromata, capiuntur obesa, quae 
+          <lb ed="#B1" n="8"/>studiosissime coquuntur, &amp; laute parantur officio ministrorum: alius contun 
+          <lb ed="#B1" n="9"/>dit &amp; colat, &amp; alius confundit &amp; conficit, substantiam uertit in accidens, natu  
+          <lb ed="#B1" n="10"/>ram mutat in artem, ut saturitas transeat in esuriem, reuocat appetitum ad ir 
+          <lb ed="#B1" n="11"/>ritandum gulam, non ad sustentandum naturam: non ad necessitatem supplen  
+          <lb ed="#B1" n="12"/>dam, sed ad cupiditatem explendam. Haec ille
+        </p>
+        <p xml:id="rhwis-l119-d1e489">
+          <lb ed="#B1" n="13"/>Quarto habet puer conformitatem contra liuorem inuidiae. Si puer uideat.  
+          <lb ed="#B1" n="14"/>nutricem flere, statim collachrymatur, et si uideat eam ridere, mox arridet. Isto  
+          <lb ed="#B1" n="15"/>modo uult DEVS qui sancti uiri in praesenti compatiantur tribulatis &amp; cum profi 
+          <lb ed="#B1" n="16"/>cientibus gaudeant. Iuxta doctrinam Apostoli ad Ro.12. Gaudete cum gauden 
+          <lb ed="#B1" n="17"/>tibus: flete cum flentibus ut sint omnibus conformes &amp; coniuncti per charita 
+          <lb ed="#B1" n="18"/>tem. Isti figurantur per pueros clamantes in templo: Osanna CHRISTO, Matth  
+          <lb ed="#B1" n="19"/>21. Soli pueri carentes inuidia digni sunt DEUM laudare. 
+        </p>
+        <p xml:id="rhwis-l119-d1e507">
+          <lb ed="#B1" n="20"/>Quinto puer habet iocunditatem contra torporem accidiae. Iocunditas enim 
+          <lb ed="#B1" n="21"/>cordis facit eos ita mobiles quom currunt, ambulant, &amp; discurrunt, &amp; ludunt, &amp; nun 
+          <lb ed="#B1" n="22"/>quam sunt ociosi. Sic sancti in praesenti debent esse laboriosi, soliciti, &amp; semper in 
+          <lb ed="#B1" n="23"/>aliquo utili occupati. Iuxta illud:  
+          <lb ed="#B1" n="24"/>Sic fac, quod nulla sine fructu transeat hora. 
+          <lb ed="#B1" n="25"/>Nunc praedicando, nunc infirmos non solum corpore, sed &amp; fide leniter infor 
+          <lb ed="#B1" n="26"/>mando, ungentes oleo laeticiae fidei salutaris. Horum figuram habuit Samuel 
+          <lb ed="#B1" n="27"/>de quo 1. Reg. 1. &amp; 2. cap. dicitur: Puer Samuel ministrabat coram Domino 
+          <lb ed="#B1" n="28"/>statim cum esset ablactatus.
+        </p>
+        <p xml:id="rhwis-l119-d1e529">
+          <lb ed="#B1" n="29"/>Sexto puer habet liberalitatem contra auariciae rigorem. Puer enim libenter:  
+          <lb ed="#B1" n="30"/>dat quicquid habet. Isto modo uiri sancti liberales debent esse per eleemosyna 
+          <lb ed="#B1" n="31"/>rum largitionem. Istos figurabat puer habens quinque panes hordeaceos, &amp; 
+          <lb ed="#B1" n="32"/>duos pisces, de quibus CHRISTVS satiauit quinque millia hominum, lohan. 6. 
+          <lb ed="#B1" n="33"/>Et Tobias, qui cum iunior esset, omnibus de tribu sua in captiuitate (nihil ta 
+          <lb ed="#B1" n="34"/>men puerile gessit in opere) sed omnia quae habere poterat quotidie concapti 
+          <lb ed="#B1" n="35"/>uis fratribus, qui erant ex eius genere, impertiuit, Tob. 1.
+        </p>
+        <p xml:id="rhwis-l119-d1e547">
+          <lb ed="#B1" n="36"/>Septimo habet puer traquillitatem contra furorem iracundiae. Puer enim non laedit:  
+          <lb ed="#B1" n="37"/>&amp; si ipse offendatur, &amp; laedatur statim remittit. Vnde pro uno pomo reconcilia 
+          <lb ed="#B1" n="38"/>tur, licet fuerit ualde offensus: Isto modo sancti remittere tenentur illis qui contra  
+          <lb ed="#B1" n="39"/>eos delinquunt: Nota quo Aristot. 9. Ethi. cap. 13. secundum Thomam distinguit tres 
+          <lb ed="#B1" n="40"/>species iracundorum. Sunt enim quidam acuti, quidam amari, &amp; quidam difficiles. A 
+          <lb ed="#B1" n="41"/>cuti dicuntur, qui uelociter irascuntur &amp; uelociter quiescunt. Et istud est optimum 
+          <lb ed="#B1" n="42"/>quod habent que non retinent iram in corde celando: sed statim iram suam per aliqua 
+          <lb ed="#B1" n="43"/>signa manifestant, propter uelocitatem motus irae. Et ad istam speciemn maxime dispo 
+          <lb ed="#B1" n="44"/>nuntur cholerici propter subtilitatem cholerae. Amari dicuntur, quorum ira diu 
+          <lb ed="#B1" n="45"/>perseuerat, &amp; eam nunquam ostendunt, sed occultant: &amp; ideo sunt amarissimi 
+          <lb ed="#B1" n="46"/>in seipsis, &amp; etiam ad alios, &amp; indigent multo tempore ad hoc quod digerant 
+          <lb ed="#B1" n="47"/>iram suam. Et ad hanc iram maxime disponuntur, melancholici propter gros  
+          <lb ed="#B1" n="48"/>sitiem humorum melancholiae. Difficiles sunt qui nunquam cessant ab ira con 
+          <lb ed="#B1" n="49"/>cepta, donec fuerint uindicati. Istas tres species uincere debet sanctus per man 
+          <lb ed="#B1" n="50"/>suetudinem, &amp; moderantiam rationis. Primam per modestiam, ne sit acutus. 
+          <lb ed="#B1" n="51"/>Secundam per patientiam, ne sit amarus. Tertiam per pietatem, ne sit 
+          <lb ed="#B1" n="52"/>difficilis, ut sit puer DEO gratus, &amp; acceptus. De quo Oseae 
+          <lb ed="#B1" n="53"/>11 cap. Puer Israel &amp; * elegi eum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

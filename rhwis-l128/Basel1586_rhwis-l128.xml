@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 128 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 128 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="430"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l128">
+        <p xml:id="rhwis-l128-d1e95">
+          <!--sap_Page_464.xml-->
+          <pb ed="#B1" n="430"/>
+          <lb ed="#B1" n="1"/>IECLARATA gubernatione sapientiae in liberatione Adae, Noë 
+          <lb ed="#B1" n="2"/>&amp; Abrahae: In ista parte prosequitur Spiritus sanctus de mirabili li  
+          <lb ed="#B1" n="3"/>beratione ipsius Loth, qui est quartus, quem inducit de patribus anti  
+          <lb ed="#B1" n="4"/>quis, ad declarandum quantum ualet colere DEVM. Cultum enim 
+          <lb ed="#B1" n="5"/>DEI uocat sapientiam ut pluries replicaui. Vnde indifferenter potest exponi quid 
+          <lb ed="#B1" n="6"/>quid tam hic quam superius dicitur de sapientia increata, quae est DEVS: uel de 
+          <lb ed="#B1" n="7"/>sapientia creata, quae est pietas, uel uerus DEI cultus, ut dicamus quod sapientia 
+          <lb ed="#B1" n="8"/>creata: id est, uerus DEI cultus liberauit, &amp; gubernauit electos &amp; sanctos dis  
+          <lb ed="#B1" n="9"/>positiue &amp; meritorie: quia fecit eos dignos gubernatione diuina, sicut consue 
+          <lb ed="#B1" n="10"/>uimus dicere militi: Strenuitas tua te fecit militem.
+        </p>
+        <p xml:id="rhwis-l128-d1e124">
+          <lb ed="#B1" n="11"/>Circa liberationem ergo Loth de subuersione Sodomae sciendum quod si 
+          <lb ed="#B1" n="12"/>cut narratur Gen.18. &amp; 19. Ciuitates quinque fuerunt in regione iuxta lordanem, 
+          <lb ed="#B1" n="13"/>ubi modo est mare mortuum inter ludaeam &amp; Arabiam. Et dicebatur aliquan 
+          <lb ed="#B1" n="14"/>do illa regio uallis illustris, uidelicet Sodoma &amp; Gomorra, Adama, Seboim, 
+          <lb ed="#B1" n="15"/>&amp; Segor. Viri autem istarum ciuitatum utentes ocio, &amp; abundantia uictuali  
+          <lb ed="#B1" n="16"/>um, omni generi libidinis se dederunt in tantum, quod usum naturalem exces  
+          <lb ed="#B1" n="17"/>serunt, quem DEVS ad propagandum instituit inter uirum &amp; mulierem: exar 
+          <lb ed="#B1" n="18"/>serunt masculi in masculos, &amp; foeminae in foeminas luxuriam exercentes. Vo 
+          <lb ed="#B1" n="19"/>lens ergo Dominus istud nefandum flagitium punire, misit tres angelos ad  
+          <lb ed="#B1" n="20"/>Abraham, qui morabatur in ualle Mambre non multum a Sodoma, nuncian 
+          <lb ed="#B1" n="21"/>tes Abrahae quod ciuitates praedictae deberent subuerti. Abraham considerans 
+          <lb ed="#B1" n="22"/>quod Loth frater uxoris suae habitauit in Sodoma, &amp; quod esset iustus, posuit  
+          <lb ed="#B1" n="23"/>se supplicans DEO quod parceret malis propter bonos, &amp; ait: Si fuerint ibi  
+          <lb ed="#B1" n="24"/>quinquaginta in Sodoma uidelicet nonne parces populo propter eos: Et Do 
+          <lb ed="#B1" n="25"/>minus respondit, quod parceret populo propter 50. Quid (inquit) Abraham si 
+          <lb ed="#B1" n="26"/>fuerint quadraginta quinque. Et sic paulatim descendendo quaesiuit. Quid si 
+          <lb ed="#B1" n="27"/>quadraginta: Quid si triginta: Quid si uiginti: Quid si decem: Et Dominus 
+          <lb ed="#B1" n="28"/>respondit quod parceret propter decem. Cum ergo in tanta multitudine non 
+          <lb ed="#B1" n="29"/>fuerunt decem boni, recesserunt angeli illi duo ab Abraham, &amp; iuerunt ad So 
+          <lb ed="#B1" n="30"/>domam. Loth autem habitans in Sodoma fuit simpliciter hospitalitati deuo 
+          <lb ed="#B1" n="31"/>tus. Vnde cum uidisset istos angelos in humana effigie uenientes (aestimans 
+          <lb ed="#B1" n="32"/>eos esse homines) inuitauit in domum suam, &amp; fecit eis conuiuium, &amp; r prae 
+          <lb ed="#B1" n="33"/>munierunt eum, quod subuerterent Sodomam. Et mane dissimulante Loth  
+          <lb ed="#B1" n="34"/>exire apprehenderunt eum angeli cum uxore sua &amp; duabus filiabus suis, &amp; sta 
+          <lb ed="#B1" n="35"/>tuerunt eum extra ciuitatem, dicentes eis, quod fugerent in montem, &amp; non 
+          <lb ed="#B1" n="36"/>respicerent retro. Et statim Dominus pluit super illas ciuitates sulphur &amp; ignem, 
+          <lb ed="#B1" n="37"/>&amp; subuertit quatuor ex eis statim: Segor uero pepercerunt usque post: propter 
+          <lb ed="#B1" n="38"/>Loth qui petierat quod ibi possint ad tempus morari. Vxor ergo Loth more 
+          <lb ed="#B1" n="39"/>foemineo, quae est Semper prona rei quae prohibetur ei, tespexit tetro se, &amp; 
+          <!--sap_Page_465.xml-->
+          <pb ed="#B1" n="431"/>
+          <lb ed="#B1" n="1"/>uersa est in statuam salis. Post hoc egresso Loth de Segor subuersa est illa, sicut  
+          <lb ed="#B1" n="2"/>&amp; aliae quatuor. Et uersa est tota illa regio in lacum salsum, &amp; sterilem, qui dein 
+          <lb ed="#B1" n="3"/>ceps uocatus est mare mortuum: quia nec aues nec pisces in eo uiuunt, imo si 
+          <lb ed="#B1" n="4"/>aliquid uiuum in eo proiectum, uel submersum fuerit, statim exilit &amp; supernatat.  
+          <lb ed="#B1" n="5"/>Vnde narrat losephus quod Vespasianus iussit quosdam uinctos post tergum 
+          <lb ed="#B1" n="6"/>manibus ligatis proijci in lacum &amp; submergi, qui omnes quasi uiuentes repul 
+          <lb ed="#B1" n="7"/>si sunt ad superficiem, &amp; desuper fluctuabant. Omnes autem quod uita caret si 
+          <lb ed="#B1" n="8"/>intus proijciatur, mergitur, nisi limiatur bitumine, nec nauem patitur, nisi bi  
+          <lb ed="#B1" n="9"/>tumen limiatur: lucerna ardens supernatat, extincta submergitur. Glebas foe 
+          <lb ed="#B1" n="10"/>tidas in diuersis locis euomit, poma nascentia in arboribus circa littus, usqe ad 
+          <lb ed="#B1" n="11"/>maturitatem sunt uiridis coloris, &amp; uiuidi caloris, cum esse matura putantur, sunt  
+          <lb ed="#B1" n="12"/>plena cineribus &amp; fauillis. Haec dicta sunt ad historiam. Narrat ergo Spiritus san 
+          <lb ed="#B1" n="13"/>ctus in lectione ista de liberatione Loth ab ista mirabili ultione, &amp; dicit sic: Haec 
+          <lb ed="#B1" n="14"/>id est, sapientia liberauit iustum fugientem, uidelicet Lot quem hospitalitas sin 
+          <lb ed="#B1" n="15"/>gulariter commendabat, a pereuntibus impiis, uidelicet Sodomitis: descenden 
+          <lb ed="#B1" n="16"/>te igne in pentapolim: id est, in regionem quinque ciuitatum praedictarum: Et  
+          <lb ed="#B1" n="17"/>dicitur pentapolis a *penta quod est quinque, &amp; I polis, ciuitas: quibus impiis in 
+          <lb ed="#B1" n="18"/>testimonium nequiciae constat terra deserta: id est, destructa, &amp; comousta, &amp; ad  
+          <lb ed="#B1" n="19"/>huc sumigabunda: id est, emittentis fumum foetidum, in signum foetidi peccati,  
+          <lb ed="#B1" n="20"/>quod antiqui incolae commiserant: &amp; constat ibi similiter in testimonium ne 
+          <lb ed="#B1" n="21"/>quitiae eorum arbores habentes fructus non certo, sed incerto tempore, ut inutilitati 
+          <lb ed="#B1" n="22"/>peccati contra naturam respondeat inutilis ac innaturalis fructus arborum: Con 
+          <lb ed="#B1" n="23"/>stat etiam in testimonium nequitiae incredibilis anime memoria stans sigmentum 
+          <lb ed="#B1" n="24"/>salis: id est, statua illa salis, in quam conuersa fuit uxor Loth, quae statua est me 
+          <lb ed="#B1" n="25"/>moriale quoddam incredibilis animae: id est, foeminae non credentis angelo, nisi 
+          <lb ed="#B1" n="26"/>respiceret a tergo, ut uideret ueritatem.
+        </p>
+        <p xml:id="rhwis-l128-d1e250">
+          <lb ed="#B1" n="27"/>Circa illam clausulam, liberauit fugientem. Notandum, quod apud bellico  
+          <lb ed="#B1" n="28"/>sos quamuis fuga uideatur communiter inhonesta tamen aliquando laudabi  
+          <lb ed="#B1" n="29"/>lis inuenitur. Vnde si esset aliquis qui simul sciret fugere &amp; pugnare notabili  
+          <lb ed="#B1" n="30"/>ter faceret factum suum. Sic enim legimus de Tartaris contra Christianos pu 
+          <lb ed="#B1" n="31"/>gnantibus, quod simul equis insedentes fugiunt, &amp; tamen insequentes a ter 
+          <lb ed="#B1" n="32"/>go sagittant: Sic fuit de Parthis de quibus Boëtius 5. de Conso. Metro 1. 
+          <lb ed="#B1" n="33"/>ita dicit: 
+          <lb ed="#B1" n="34"/>Ruptis Achimeniae scopolis vbi turba sequentum, 
+          <lb ed="#B1" n="35"/>Fectoribus figit spicula pugna fugax. 
+          <lb ed="#B1" n="36"/>Moraliter in hac uita bellum habemus contra hostes multos, qui tamen non 
+          <lb ed="#B1" n="37"/>habent unum modum pugnandi, nec uno genere uictoriae uinci possunt. Nam 
+          <lb ed="#B1" n="38"/>Diabolus uincendus est per resistentiam 1. Pet. 5. Cui resistite fortes in fide: sed  
+          <lb ed="#B1" n="39"/>caro &amp; mundus uincuntur per bonae fugae prudentiam, ita quod uni tantum 
+          <lb ed="#B1" n="40"/>habemus resistere, &amp; duos fugere. De resistentia qua Diabolo debemus resi 
+          <lb ed="#B1" n="41"/>stere, dicitur metrice sic:  
+          <lb ed="#B1" n="42"/>dostis non ladit nisi cum tentatus obedit 
+          <lb ed="#B1" n="43"/>Est leo si cedit, si non quasi musca recedit.  
+          <lb ed="#B1" n="44"/>Hoc est quod dicitur lac 4. Resistite Diabolo &amp; fugiet a uobis. De fuga uero 
+          <lb ed="#B1" n="45"/>qua a carne fugitur dicitur metrice sic:  
+          <lb ed="#B1" n="46"/>cede Venus cedit, insta magis, mproba ledit  
+          <lb ed="#B1" n="47"/>Si fugias Veneris prelia, tutus eris. 
+          <lb ed="#B1" n="48"/>De mundo uero constat quod per fugam uinci debet, exemplo CHRI 
+          <lb ed="#B1" n="49"/>STI proposita sibi mundi uanitate, cum eum regem elegisse uolebant, fu 
+          <lb ed="#B1" n="50"/>git in montem, lohannis 6. Figuram ad hoc habemus 2. Regum 2. ubi 
+          <lb ed="#B1" n="51"/>habetur quod ille bonus miles Abner tres filios Saruiae, loab, Abisai, &amp; 
+          <!--sap_Page_466.xml-->
+          <pb ed="#B1" n="432"/>
+          <lb ed="#B1" n="1"/>Asael euasit: quia duos primos declinauit per fugam, &amp; tertium fugere non po 
+          <lb ed="#B1" n="2"/>tuit, sed resistens occidit  
+        </p>
+        <p xml:id="rhwis-l128-d1e315">
+          <lb ed="#B1" n="3"/>Praecipue ergo fugiamus societatem carnalem propter tria. Solent enim homi 
+          <lb ed="#B1" n="4"/>nes fugere ignium conflagrationem, uermium intoxicationem &amp; fluminum inun 
+          <lb ed="#B1" n="5"/>dationem. Carnalis uero societas generat ignem libidinis inter quascunque 
+          <lb ed="#B1" n="6"/>personas: nec est facile declinare sine fuga: Nullus ergo confidat de senectute, 
+          <lb ed="#B1" n="7"/>nullus de suae religionis uirtute: ferrum &amp; silex duo sunt corpora frigida, &amp; ta 
+          <lb ed="#B1" n="8"/>men de eis excutitur ignis percussione minima: Vnde Esaiae 4 8. Egredimini 
+          <lb ed="#B1" n="9"/>a Babylone, fugite a Chaldaeis. Babylon interpretatur confusio, Chaldaei adora  
+          <lb ed="#B1" n="10"/>uerunt ignem: &amp; figurant homines libidinosos, qui per ardorem ignis Iluxu 
+          <lb ed="#B1" n="11"/>riae ducunt communiter semetipsos ad confusionem infamiae: &amp; ideo pro ulti  
+          <lb ed="#B1" n="12"/>mo remedio docet Apostolus 1. ad Corinth. 6. Fugite fornicationem. Secun 
+          <lb ed="#B1" n="13"/>da conclusio sit ista. Fugere debemus carnalem uoluptatem, sicut fugiunt ho 
+          <lb ed="#B1" n="14"/>mines uermium intoxicationem, probatur. Nullus enim libenter quiescit aut  
+          <lb ed="#B1" n="15"/>dormit ubi uermes uel serpentes aut coluber communiter conuersantur, &amp; cer 
+          <lb ed="#B1" n="16"/>te mulieres multo facilius intoxicant aliquam mentem, quam coluber car 
+          <lb ed="#B1" n="17"/>nem. Nullum enim uenenum dicitur interficere carnem, priusquam cum san 
+          <lb ed="#B1" n="18"/>guine misceatur: species autem mulieris etiam a longe sine tactu per solam im 
+          <lb ed="#B1" n="19"/>mutationem spiritualem oculorum inficit, &amp; allicit mentem: quia qui uiderit 
+          <lb ed="#B1" n="20"/>mulierem ad concupiscendum eam, iam moechatus est in corde suo, Matth. 5. 
+          <lb ed="#B1" n="21"/>Et ideo satis apte potest exponi de foemina, quae cum sit radix peccati, illud  
+          <lb ed="#B1" n="22"/>Eccles. 21. Quasi a facie colubri fuge peccatum. Coluber dicitur quasi colens  
+          <lb ed="#B1" n="23"/>umbras, &amp; mulieres communiter angulos, &amp; umbras, &amp; loca non patentia di 
+          <lb ed="#B1" n="24"/>ligunt. Iuxta illud Ecclesiast. 21. Non est caput nequius super caput colubri, &amp; 
+          <lb ed="#B1" n="25"/>non est ira super iram mulieris. Et parum ante dicitur: quod omnis malicia ne 
+          <lb ed="#B1" n="26"/>quicia mulieris. De hac loquitur signanter Petrus Blesenn. ad Heinricum re 
+          <lb ed="#B1" n="27"/>gem Angliae: in expositone quadam super Iob, ubi cum exposuit, quare Dia 
+          <lb ed="#B1" n="28"/>bolus, qui Iob de omnibus bonis suis exspoliauit, filijs, &amp; filiabus, &amp; etiam  
+          <lb ed="#B1" n="29"/>substantia, uxorem tamen sibi reliquit. Hoc (inquit) non fuit ad solatium uiri,  
+          <lb ed="#B1" n="30"/>sed ad consummationem suae maliciae, ut per foeminam uinceret, quem per 
+          <lb ed="#B1" n="31"/>persecutionem non uicerat, &amp; quod uerberibus non poterat, uerbis mulieris  
+          <lb ed="#B1" n="32"/>efficeret. Per foeminam (inquit) Ioseph incarceratus est, Naboth occisus, 
+          <lb ed="#B1" n="33"/>Samson uinculatus, lsboseth interfectus, Dauid adulter &amp; homicida, Salo 
+          <lb ed="#B1" n="34"/>mon apostata, Sisara clauis confossus, Praecursor &amp; Baptista CHRISTI decol  
+          <lb ed="#B1" n="35"/>latus. Per foeminam mors in orbem terrarum intrauit: &amp; cum per Filium DEI 
+          <lb ed="#B1" n="36"/>ordinata esset nostra redemptio, praesentiens hostis quod in morte CHRISTI 
+          <lb ed="#B1" n="37"/>dispensatio nostrae redemptionis impleretur, salutem totius humani generis, 
+          <lb ed="#B1" n="38"/>machinatus est per foeminam impedire. In uxore nanque Pilati uisiones de 
+          <lb ed="#B1" n="39"/>ceptorias, &amp; phantasticas illusiones immisit, in tantum quod Pilato mortem 
+          <lb ed="#B1" n="40"/>CHRISTI dissuadendo mandauit. Nihil tibi &amp; iusto illi: Multa enim hodie 
+          <lb ed="#B1" n="41"/>per uisum passa sum propter illum. Haec Petrus.
+        </p>
+        <p xml:id="rhwis-l128-d1e402">
+          <lb ed="#B1" n="42"/>Nota quod de CHRISTO mirabantur discipuli Ioh. 4: quod solus loque 
+          <lb ed="#B1" n="43"/>batur cum muliere: Quid ergo mirum si homines infirmi infirmum iudicent 
+          <lb ed="#B1" n="44"/>sinistre, si nimis consortia mulierum habemus. Gene. 2. quod propter mulierem 
+          <lb ed="#B1" n="45"/>formandam costa fuit assumpta de uiro: sed qualis fuit restitutio. Certe sicut  
+          <lb ed="#B1" n="46"/>ibi dicitur: DEVS impleuit carnem pro ea. In signum quod quantumcunque 
+          <lb ed="#B1" n="47"/>fuerit homo mulieri familiaris, quantumcunque eam ad bonos mores pro 
+          <lb ed="#B1" n="48"/>moueat, &amp; ad uitae rectitudinem, quod est quasi solidum os praestare ni 
+          <lb ed="#B1" n="49"/>hil ab ea uiceuersa recipiet, nisi carnem: id est, carnales affectiones: Et ideo il  
+          <lb ed="#B1" n="50"/>le bonus loseph allectus, &amp; inuitatus ab uxore domini sui pallium reliquit.  
+          <lb ed="#B1" n="51"/>Genesis trigesimo nono. De ista fuga loquitur beatus Augustinus de co  
+          <lb ed="#B1" n="52"/>habitatione clericorum &amp; mulierum. Grauem (inquit) inimicum sortita est ca 
+          <lb ed="#B1" n="53"/>stitas, cui non solum resistendum est, sed dimisso fraeno longius fugiendum: 
+          <!--sap_Page_467.xml-->
+          <pb ed="#B1" n="433"/>
+          <lb ed="#B1" n="1"/>nec eo minus cauendae sunt: quia religiosae dicuntur: quia quanto religiosores, 
+          <lb ed="#B1" n="2"/>tanto citius alliciunt, &amp; sub praetextu pietatis latet uiscus libidinis. Experto 
+          <lb ed="#B1" n="3"/>crede, dicit Aug. Episcopus loquar coram DEO, non mentior. Cedros libani 
+          <lb ed="#B1" n="4"/>duces gregum sub hac peste cecidisse reperi, de quorum casu non magis suspi 
+          <lb ed="#B1" n="5"/>cabar quam Ambrosij uel Hieronymi. Haec Augustinus. De eodem Ambro 
+          <lb ed="#B1" n="6"/>sius in de officijs lib. 1. Foeminarum cum clericis, nullo modo permittitur com  
+          <lb ed="#B1" n="7"/>uersatio: lanua Diaboli, uia iniquitatis, Scorpionis percussio, nociuum genus 
+          <lb ed="#B1" n="8"/>est foemina cum proximat, stimulat &amp; ignem incendit. Haec ille. Tripliciter enim 
+          <lb ed="#B1" n="9"/>laedit mulier sensibiliter: Voce, uisu, &amp; tactu. Vox enim mulieris frangit natu  
+          <lb ed="#B1" n="10"/>raliter uirilem animum suauitate mirabili, periculosa tamen. Vnde Augustinus 
+          <lb ed="#B1" n="11"/>de fingularitate monachorum cap. 8. Mulier nunc in risum dissoluit, nunc blan 
+          <lb ed="#B1" n="12"/>dicias exhibet, &amp; quod est uenenosius super cuncta, propsallere delectatur,  
+          <lb ed="#B1" n="13"/>cuius cantu tolerabilius est audire Basiliscum sibulantem, uisu laedit si uidea  
+          <lb ed="#B1" n="14"/>tur. Vnde prudenter dicit metricus: 
+          <lb ed="#B1" n="15"/>Femina fax Sathana, faetens rosa dulce venenum. 
+          <lb ed="#B1" n="16"/>Semper prona rei, quae prohibetur ei. 
+          <lb ed="#B1" n="17"/>Vrit enim vultu, visu, risu, quoque cultu. 
+          <lb ed="#B1" n="18"/>Huius ab insultu quantum potes, esto procul tu. 
+          <lb ed="#B1" n="19"/>Sed tertio &amp; maxime nocet tactu. Vnde August. lib. 1. soliloquio, cap. 5. Nihil 
+          <lb ed="#B1" n="20"/>esse sentio quod magis ex arce contemplationis animum uirilem deijcit, quam 
+          <lb ed="#B1" n="21"/>blandimenta foemine tactusque corporum, lohan. 20. Noli me tangere mulier, di 
+          <lb ed="#B1" n="22"/>cit CHRISTVS Mariae Magdalenae cum sola esset. Et 1. Timo. 6. Tu uero 
+          <lb ed="#B1" n="23"/>homo DEI haec fuge. Tertio debemus fugere carnalem voluptatem sicut fluuio  
+          <lb ed="#B1" n="24"/>rum inundationem. Qui fugiunt aquarum inundationes ascendunt monta 
+          <lb ed="#B1" n="25"/>na. Moraliter, locus montanus est locus Sanctae religionis, ad quem fugere de 
+          <lb ed="#B1" n="26"/>bent, quae carnis delicias uincere uolunt perfecte. Exemplo istius Loth, cui di 
+          <lb ed="#B1" n="27"/>cebatur: Ne stes in omni circa regione, sed in monte saluum te fac. Omnis status 
+          <lb ed="#B1" n="28"/>in mundo est quasi circa regionem uoluptatis. Sed solus mons est locus securus. 
+          <lb ed="#B1" n="29"/>Luc. 21. Qui in Iudaea sunt fugiant ad montes. Iudaea interpretatur confessio, 
+          <lb ed="#B1" n="30"/>&amp; significatueram poenitentiam ueteris uitae carnalis, quam quicunque habere 
+          <lb ed="#B1" n="31"/>uoluerit ad montem religionis accedat: qui modo merito solitudo propter raritatem 
+          <lb ed="#B1" n="32"/>accedentium reputatur. In Psal. Ecce elongaui fugiens, &amp; mansi in solitudine.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

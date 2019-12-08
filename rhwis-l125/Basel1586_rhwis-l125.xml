@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 125 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 125 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="420"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l125">
+        <p xml:id="rhwis-l125-d1e95">
+          <!--sap_Page_454.xml-->
+          <pb ed="#B1" n="420"/>
+          <lb ed="#B1" n="1"/>HIC designatur decimum Capitulum, &amp; est secunda pars hu 
+          <lb ed="#B1" n="2"/>ius libri, quamuis nonnulli antiqui signauerunt capitulum 
+          <lb ed="#B1" n="3"/>parum ante, ibi: Num per sapientiam sanati. Quos in princi 
+          <lb ed="#B1" n="4"/>pio libri diuidendo sequebar: sed quia hoc modicum refert,  
+          <lb ed="#B1" n="5"/>uel nihil, ad libri processum modo tamen sequi malo capi 
+          <lb ed="#B1" n="6"/>tula communiter computata. Vnde postquam Salomon 
+          <lb ed="#B1" n="7"/>multipliciter declarauit sapientiae nobilitatem, &amp; magnam 
+          <lb ed="#B1" n="8"/>fecit de ea commendationem secundum ipsius effectus generales: In ista parte 
+          <lb ed="#B1" n="9"/>prosequitur sapientiae utilitatem, quantum ad quosdam effectus speciales, o 
+          <lb ed="#B1" n="10"/>stendendo in particulari, quomodo singulares quaedam personae fuerunt, per sa 
+          <lb ed="#B1" n="11"/>pientiam in bono conseruatae, &amp; a malo praeseruatae. Vnde ab ista parte usquae 
+          <lb ed="#B1" n="12"/>ad finem libri ponitur exemplificatio in particularibus gestis, &amp; historijs, de be 
+          <lb ed="#B1" n="13"/>neficijs quae hominibus per sapientiam sunt collata: &amp; de supplicijs, quae per 
+          <lb ed="#B1" n="14"/>eandem peccatoribus sunt illata. Et diuiditur haec secunda pars huius libri in 
+          <lb ed="#B1" n="15"/>duas principaliter. Nam primo agit de beneficijs collatis per sapientiam qui  
+          <lb ed="#B1" n="16"/>busdam personis. Secundo agit de beneficijs uni toti populo, certae nationis,  
+          <lb ed="#B1" n="17"/>uidelicet Israelitico. Secunda pars ibi: Haec populum. Intra eodem capite. Prima 
+          <lb ed="#B1" n="18"/>pars diuiditur in sex partes, secundum sex personas quas describit, &amp; ostendit  
+          <lb ed="#B1" n="19"/>a sapientia gubernatas fuisse, uidelicet: Adam, Noë, Abraham, Loth, Iacob,  
+          <lb ed="#B1" n="20"/>&amp; Ioseph.
+        </p>
+        <p xml:id="rhwis-l125-d1e145">
+          <lb ed="#B1" n="21"/>Prima ergo pars quae est lectio praesens, est de Adam, cui contulit sapientia 
+          <lb ed="#B1" n="22"/>DEI quinque praerogatiuas, &amp; gratias speciales. Ipse enim habuit paternalem  
+          <lb ed="#B1" n="23"/>praeeminentiam ad genus humanum propagandum: originalem innocentiam  
+          <lb ed="#B1" n="24"/>ad semetipsum conseruandum: situalem excellentiam ad iocunde inhabitan 
+          <lb ed="#B1" n="25"/>dum: rationalem magnificentiam ad creaturas gubernandum: &amp; finalem in 
+          <lb ed="#B1" n="26"/>dulgentiam ad DEVM post peccatum reconciliandum, Dicit ergo primo sic:  
+          <lb ed="#B1" n="27"/>fiaec: id est, sapientia increata, illum: id est, Adam qui primo formatus est a DEO, 
+          <lb ed="#B1" n="28"/>Pater orbis terrarum: id est, qui praeordinatus fuit a DEO principium &amp; radix  
+          <lb ed="#B1" n="29"/>totius humani generis, quod modo est diuisum in diuersis partibus orbis ter 
+          <lb ed="#B1" n="30"/>rarum. Ecce paternalis praeeminentia ad genus humanum propagandum: Ge 
+          <lb ed="#B1" n="31"/>nerassent enim homines in statu innocentiae, sine feruore, sine dolore, sine pu 
+          <lb ed="#B1" n="32"/>dote. Haec vero illum: id est, Adam, cum solus esset creatus, custodiuit: id est, origi 
+          <lb ed="#B1" n="33"/>nalem innocentiam sibi dedit, qua semper se &amp; suos custodisse potuit. Habuit  
+          <lb ed="#B1" n="34"/>enim anima sua ita perfectum dominium supra corpus, quod nunquam sen 
+          <!--sap_Page_455.xml-->
+          <pb ed="#B1" n="421"/>
+          <lb ed="#B1" n="1"/>sisset infirmitatem ab intrinseco, nec laesionem ab extrinseco, nec deceptio 
+          <lb ed="#B1" n="2"/>nem ab aliquo, si in statu innocentiae perstitisset. Haec habuit cum solus esset  
+          <lb ed="#B1" n="3"/>creatus: id est, antequam genus humanum per generationem multiplicasset,  
+          <lb ed="#B1" n="4"/>tunc quodammodo solus fuit: quia solus in sexu uirili existens, uel cum sim 
+          <lb ed="#B1" n="5"/>pliciter esset solus ante formationem mulieris de costa. Ecce originalis inno 
+          <lb ed="#B1" n="6"/>centia ad semetipsum conseruandum. Et istam iusticiam originalem naturali  
+          <lb ed="#B1" n="7"/>ter in filios transfudisset, sicut modo parentes transfundunt peccatum origi 
+          <lb ed="#B1" n="8"/>nale. Tertio illum Adam eduxit a delicto suo, dando sibi finalem indulgentiam 
+          <lb ed="#B1" n="9"/>ad DEVM, post peccatum placandum. Et istud beneficium propter sui magni 
+          <lb ed="#B1" n="10"/>tudinem enumeratur ante duo alia, quae sequuntur: licet posterius sit colla 
+          <lb ed="#B1" n="11"/>tum. Dedit enim Adae gratiam poenitentiae pro peccato suo, &amp; remissionem e 
+          <lb ed="#B1" n="12"/>iusdem peccati. Et quantum adhoc dicit: Et eduxit illum a delicto suo: hoc au 
+          <lb ed="#B1" n="13"/>tem factum fuit incomplete per ipsius Adae contritionem: sed perfecte &amp; com 
+          <lb ed="#B1" n="14"/>plete per CHRISTI passionem. Quarto haec sapientia increata dedit Adae situa 
+          <lb ed="#B1" n="15"/>lem uel localem excellentiam, ad iocunde inhabitandum: Sicut enim narrat hi 
+          <lb ed="#B1" n="16"/>storia scholastica super Genes. Creatus fuit homo in agro Damasceno, &amp; inde 
+          <lb ed="#B1" n="17"/>translatus in Paradisum, qui est locus delicatissimus ubi modo manent Enoch, 
+          <lb ed="#B1" n="18"/>&amp; Helias: continuantes uitam suam per esum ligni uitae &amp; aliorum, quae sunt  
+          <lb ed="#B1" n="19"/>ibi. Et quantum ad hoc dicit: Et eduxit illum de limo terrae: id est, de agro Da 
+          <lb ed="#B1" n="20"/>masceno, in quo formatus fuerat de limo illius terrae, &amp; transtulit in locum amoe 
+          <lb ed="#B1" n="21"/>nissimum Paradisi, Genes. 2. Plantauerat autem Dominus DEVS Paradisum 
+          <lb ed="#B1" n="22"/>uoluptatis a principio, in quo posuit hominem quem formauerat. Quinto haec 
+          <lb ed="#B1" n="23"/>sapientia dedit Adae rationalem magnificentiam ad creaturas gubernandum, 
+          <lb ed="#B1" n="24"/>Et quantum ad hoc dicit: Et dedit illi virtutem continendi omnia: id est, rationem 
+          <lb ed="#B1" n="25"/>&amp; cognitionem, qua potuit omnibus creaturis dominari, Gen.1. Dominamini 
+          <lb ed="#B1" n="26"/>piscibus maris, &amp; uolatilibus coeli, &amp; uniuersis animantibus, quae mouent super terram.
+        </p>
+        <p xml:id="rhwis-l125-d1e239">
+          <lb ed="#B1" n="27"/>Dubitatio literalis. Vtrum Adam in statu innocentiae fuit a DEO rationa 
+          <lb ed="#B1" n="28"/>biliter custoditus.
+        </p>
+        <p xml:id="rhwis-l125-d1e246">
+          Quod non: Quia crudelis pater esset, qui permitteret filium  
+          <lb ed="#B1" n="29"/>suum pugnare in duello, in quo praesciret, eum esse uincendum. Sed Dominus 
+          <lb ed="#B1" n="30"/>praesciuit Adam filium suum per creationem, uincendum per tentationem fu 
+          <lb ed="#B1" n="31"/>turam per Diabolum: Ergo crudelis fuit non custodiendo illum ab illa tenta 
+          <lb ed="#B1" n="32"/>tione: ergo eum pro tunc non rationabiliter custodiuit.
+        </p>
+        <p xml:id="rhwis-l125-d1e257">
+          Praeterea si DEVS 
+          <lb ed="#B1" n="33"/>eum custodiuit: ergo non debuit permittere tentari. Respondet <ref xml:id="rhwis-l125-Rd1e261" target="http://scta.info/resource/pl-l2d23c1-d1e111">Magister sen 
+            <lb ed="#B1" n="34"/>tentiarum, dist. 23. 2i. cap. 1</ref> quod <quote xml:id="rhwis-l125-Qd1e266"><!-- quote is from Augustinus, Gen. ad litteram, XI, c. 6, n. 8 --> gloriosus est non consentire, quam tentari 
+              <lb ed="#B1" n="35"/>non posse</quote>. Et ideo DEVS eum tentari permisit, ut inde gloriosiorem reportas  
+          <lb ed="#B1" n="36"/>set uictoriam. Sed contra sciuit eum uincendum: ergo non expectauit homi 
+          <lb ed="#B1" n="37"/>nis uictoriam: ergo nihil est dictum, quod ideo permisit quod homo uinceret
+        </p>
+        <p xml:id="rhwis-l125-d1e278">
+          <lb ed="#B1" n="38"/>Praeterea sapientius est unumquodque ordinare in finem suum ita conuenien 
+          <lb ed="#B1" n="39"/>ter, sicut potest ab eo ordinari: sed finis hominis est beatitudo, &amp; beatitudinem 
+          <lb ed="#B1" n="40"/>potuisset homo attigisse conuenienter sine tentatione, &amp; sine peccato: quia illa 
+          <lb ed="#B1" n="41"/>sunt impedimenta a beatitudine consequenda.
+        </p>
+        <p xml:id="rhwis-l125-d1e289">
+          Praeterea ad bonum custodem 
+          <lb ed="#B1" n="42"/>pertinet praecauere &amp; remouere omnia pericula ab illo, quod est suae custodiae 
+          <lb ed="#B1" n="43"/>commissum: ergo DEVS debuit tentationem amouisse.
+        </p>
+        <p xml:id="rhwis-l125-d1e296">
+          <lb ed="#B1" n="44"/>Ad oppositum dicitur in litera, quod sapientia increata, cum solus esset crea 
+          <lb ed="#B1" n="45"/>tus, custodiuit illum.
+        </p>
+        <p xml:id="rhwis-l125-d1e303">
+          Ad quaestionem dicendum quod DEVS eum custodisse  
+          <lb ed="#B1" n="46"/>dicitur quod sibi de iusticia originali &amp; gratia prouidit, per quae semetipsum 
+          <lb ed="#B1" n="47"/>potuit custodisse, si uoluisset. Pro argumentis est notandum: sicut docet Dio 
+          <lb ed="#B1" n="48"/>nysius cap. 4. de di. no. Prouidentia DEI non est naturae corruptiua, sed salua 
+          <lb ed="#B1" n="49"/>tiua. Vnde ad prouidentiam DEI pertinet rerum naturas administrare, sicut  
+          <lb ed="#B1" n="50"/>condecet bonitatem uniuersitatis. Secundo notat quod bonitas totius praepon  
+          <lb ed="#B1" n="51"/>derat bonitati partis. Vnde si aliquid esset melius parti quam toti, tali toti ce 
+          <lb ed="#B1" n="52"/>deret in praeiudicium: ideo pertinet ad bonum gubernatorem tale commo 
+          <lb ed="#B1" n="53"/>dum parti subtrahere, ut habeatur perfectio totius. Licet enim secundum ima 
+          <!--sap_Page_456.xml-->
+          <pb ed="#B1" n="422"/>
+          <lb ed="#B1" n="1"/>ginationem melius esset perdere pedes quam caput: tamen melius est toti homi 
+          <lb ed="#B1" n="2"/>ni, habere unum caput, &amp; duos pedes, quam duo capita, &amp; unum pedem
+        </p>
+        <p xml:id="rhwis-l125-d1e332">
+          <lb ed="#B1" n="3"/>Ad oppositum ergo dicendum, quod decuit DEO creare unum uniuersum, 
+          <lb ed="#B1" n="4"/>in quo esset uarietas specierum &amp; naturarum ad ostensionem suae bonitatis: in 
+          <lb ed="#B1" n="5"/>ter quas species homo est quaedam de nobilibus: Non aut posset homo esse ho 
+          <lb ed="#B1" n="6"/>mo, nisi esset peccabilis, &amp; tentabilis ad peccandum. Et ideo facere quod homo non 
+          <lb ed="#B1" n="7"/>fuisset tentatus, &amp; fecisse hominem, contradictionem includit. Sed dices: Potuis  
+          <lb ed="#B1" n="8"/>set eum sic dotasse gratijs naturalibus, &amp; infusis, quod fuisset immutabilis ad 
+          <lb ed="#B1" n="9"/>malum, sicut erit post beatitudinem. Dicendum quod licet DEVS hoc potuisset  
+          <lb ed="#B1" n="10"/>de potentia absoluta, non tamen de potentia ordinata. Natura enim hominis est, 
+          <lb ed="#B1" n="11"/>quod pertingat ad beatitudinem per bonum usum liberi arbitrij: Hoc aut requi  
+          <lb ed="#B1" n="12"/>rit mutabilitatem &amp; peccabilitatem, &amp; posse tentari, &amp; huiusmodi. Et ideo ra 
+          <lb ed="#B1" n="13"/>tionabiliter ad perfectum hominis permittit eum esse peccabilem tentabilem, 
+          <lb ed="#B1" n="14"/>&amp; ad magnam sibi cessisset utilitatem, si tentatus uicisset.
+        </p>
+        <p xml:id="rhwis-l125-d1e361">
+          Ad primum dicendum 
+          <lb ed="#B1" n="15"/>quod licet DEVS praesciret Adam uincendum: sciuit tamen quod natura sua 
+          <lb ed="#B1" n="16"/>erat ad hoc instituta, ut foret per tentationes praemiata, &amp; ideo decuit eum per 
+          <lb ed="#B1" n="17"/>mittere tentari, ut uirtute sua vteret, quam frustra accepisset nisi ea uti potuisset.
+        </p>
+        <p xml:id="rhwis-l125-d1e371">
+          <lb ed="#B1" n="18"/>Ad secundam. Quod Magister sentent. satis dicit, quod magna satis sint sicut pa 
+          <lb ed="#B1" n="19"/>tet per dicta: quia cum factus est ut per uictoriam ad beatitudinem perueniret,  
+          <lb ed="#B1" n="20"/>&amp; uictoriam habere non posset nisi per pugnam. Praeseruare eum a pugna, es  
+          <lb ed="#B1" n="21"/>set eum impedire a uictorijs, ad quas fuit ordinatus.
+        </p>
+        <p xml:id="rhwis-l125-d1e382">
+          Ad tertium quod homo 
+          <lb ed="#B1" n="22"/>est ordinatus ad beatitudinem, sic, quod eam mereatur declinando a malo &amp; 
+          <lb ed="#B1" n="23"/>faciendo bonum: unde uia communis homini concessa est per uictoriam ten 
+          <lb ed="#B1" n="24"/>tationum. Vnde haec est neganda, quod homo potest ita conuenienter attin  
+          <lb ed="#B1" n="25"/>gere beatitudinem sine tentatione, sicut cum tentatione. In cuius signum CHRI 
+          <lb ed="#B1" n="26"/>STVS ipsemet tentationes sustinuit ab extrinseco, tam daemonibus quam a ma 
+          <lb ed="#B1" n="27"/>lis hominibus.
+        </p>
+        <p xml:id="rhwis-l125-d1e398">
+          Ad quartum dicendum quod tentatio non est homini pericu 
+          <lb ed="#B1" n="28"/>losa, nisi uelit uinci: sed est sibi necessaria &amp; gloriosa, &amp; ideo a bono custode 
+          <lb ed="#B1" n="29"/>permitti debuit. Vnde Augustinus super Psal. 60. Vita nostra in hac peregri 
+          <lb ed="#B1" n="30"/>natione, &amp; profectus noster per tentationem fit, nec sibi quisquam innotescit,  
+          <lb ed="#B1" n="31"/>nisi tentatus, nec potest coronari nisi uicerit, nec potest uincere nisi certauerit,  
+          <lb ed="#B1" n="32"/>nec potest certare, nisi inimicum &amp; tentationes habuerit. Idem super Psal. 61. 
+          <lb ed="#B1" n="33"/>Tantum permittitur Diabolus tentare, quantum tibi prodest, ut exercearis &amp; pro 
+          <lb ed="#B1" n="34"/>beris: ut qui te nesciebas, a teipso inueniaris. De ista materia loquitur Ambro 
+          <lb ed="#B1" n="35"/>sius in quadam Epistola: DEUS omnium ipse rector ac Dominus, cum omnium 
+          <lb ed="#B1" n="36"/>Angelorum militia certamen tuum expectat, tibique contra Diabolum dimicanti parat 
+          <lb ed="#B1" n="37"/>aeternitatis coronam: Quam nobis concedat CHRISTVS IESVS, Amen
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

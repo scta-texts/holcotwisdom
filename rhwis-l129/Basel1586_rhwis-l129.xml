@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 129 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 129 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="433"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l129">
+        <p xml:id="rhwis-l129-d1e95">
+          <lb ed="#B1" n="33"/>OSTQVAM actum est de liberatione ipsius Loth a Sodomitarum 
+          <lb ed="#B1" n="34"/>subuersione. In ista litera diffusius prosequitur de eorum iusta puni 
+          <lb ed="#B1" n="35"/>tione. Et circa hoc duo facit. Primo ostendit quomodo sapientia 
+          <lb ed="#B1" n="36"/>rigide damnat malos: Secundo quomodo misericorditer saluat  
+          <lb ed="#B1" n="37"/>bonos: Secunda pars ibi: Sapientia aut hos. Circa primum ostendit  
+          <lb ed="#B1" n="38"/>quod poena Sodomitarum debuit esse sibiipsis nociua &amp; damnosa: Secundo 
+          <lb ed="#B1" n="39"/>debuit esse quo ad alios publica &amp; famosa, ibi: Sed &amp; insipientia suae. Circa 
+          <lb ed="#B1" n="40"/>primum est advertendum que secundum Arist. 7. Ethi. Intemperatus differt a continente 
+          <!--sap_Page_468.xml-->
+          <pb ed="#B1" n="434"/>
+          <lb ed="#B1" n="1"/>per hoc, quod incontinens peccatex passione, unde erit cito penitiuus: Intem 
+          <lb ed="#B1" n="2"/>peratus autem peccat ex certa malicia &amp; ex corrupta electione, &amp; ideo non peni 
+          <lb ed="#B1" n="3"/>tiuus, sed insanabilis: hoc est, uix sanabilis: Mala enim consuetudo delectabilis  
+          <lb ed="#B1" n="4"/>&amp; frequentia peccandi corrumpunt iudicium rationis in homine: ita quod homo 
+          <lb ed="#B1" n="5"/>iudicat illud quod est malum, &amp; uitiosum esse faciendum, &amp; licitum &amp; no esse pecca 
+          <lb ed="#B1" n="6"/>tum. Et talis apud Arist. uocatur intemperatus. Incontinens uero dicitur qui  
+          <lb ed="#B1" n="7"/>bene iudicat esse uitiosum illud quod facit: tamen propter passionem abducitur  
+          <lb ed="#B1" n="8"/>a iudicio, &amp; operatur secundum passionem, &amp; ideo passione cessante poenitet de 
+          <lb ed="#B1" n="9"/>facto. Sed intemperatus iudicat illud quod est uitiosum esse faciendum, &amp; ideo 
+          <lb ed="#B1" n="10"/>post factum non poenitet propter habitum erroneum, quem sibi adquisiuit ex pec 
+          <lb ed="#B1" n="11"/>cando frequenter. Et haec est caecitas mentalis, &amp; ignorantia habitualis, quam pec 
+          <lb ed="#B1" n="12"/>catores adquirunt sibi per consuetudinem peccandi: ita quod ignorant quid sit bo 
+          <lb ed="#B1" n="13"/>num in genere morum, &amp; quid sit malum. Vnde consuetudo uitij est, ut ab illo 
+          <lb ed="#B1" n="14"/>de facili non consideretur, qui eo premitur. Peccator enim cum in profundum ma 
+          <lb ed="#B1" n="15"/>lorum uenerit, contemnit. Et isto modo fuit de Sodomitis qui in illud uitium  
+          <lb ed="#B1" n="16"/>non inciderunt ex passione, sed deduxerunt illud uitium in consuetudinem 
+          <lb ed="#B1" n="17"/>publicam, &amp; in uulgarem licentiam, ita quod apud eos licite ficbat &amp; impu 
+          <lb ed="#B1" n="18"/>ne. Vnde ita ignorantes facti sunt ex consuetudine maliciae, quod uitiosum 
+          <lb ed="#B1" n="19"/>iudicauerunt bonum. Vnde quantum ad hoc dicit de eis sic: Sapientiam enim: 
+          <lb ed="#B1" n="20"/>id est, timorem, &amp; cultum DEI, praetereuntes in ocio, &amp; gula, &amp; luxuria: quia ista 
+          <lb ed="#B1" n="21"/>tria dominabantur in eis. Lapsi sunt, a iudicio rectae rationis: quia homo natu  
+          <lb ed="#B1" n="22"/>raliter scit discernere illud, quod est contra naturam, ab illo quod est secundum 
+          <lb ed="#B1" n="23"/>naturam: in tantam ignorantiam vt nescirent bona: id est, quae sunt bona &amp; com  
+          <lb ed="#B1" n="24"/>mendabilia in genere morum. Et sic fuit poena eorum primo mentalis, &amp; interior 
+          <lb ed="#B1" n="25"/>sibiipsi nociua &amp; damnosa: sed non tantum haec, imo fuit eis inflicta poena cor 
+          <lb ed="#B1" n="26"/>poralis exterior publica &amp; famosa. Et ideo subdit: Non tantum in hoc lapsi sunt,  
+          <lb ed="#B1" n="27"/>vt ignorarent bona, sed &amp;, pro etiam reliquerunt hominibus memoriam insipien 
+          <lb ed="#B1" n="28"/>tiae suae, in perpetuum, ut nullo modo laterent in illis uilitatibus, quas fecerunt,  
+          <lb ed="#B1" n="29"/>ut homines pro semper exemplo eorum perterriti a consimilibus cauerent sibi 
+          <lb ed="#B1" n="30"/>Et sic sapientia iuste &amp; rigide damnat malos: sed non solum hoc, imo per op  
+          <lb ed="#B1" n="31"/>positum misericorditer saluat bonos. Et ideo subdit: Sapientia autem: id est, 
+          <lb ed="#B1" n="32"/>debitus cultus DEI, liberabit a doloribus hos, qui send est, ipsum cultum obser 
+          <lb ed="#B1" n="33"/>uant, &amp; secundum illum uiuunt: uel hos qui seipsos obseruauerint ab occasio  
+          <lb ed="#B1" n="34"/>nibus &amp; causis peccandi, sicut liberauit Loth a subuersione Sodomorum. De 
+          <lb ed="#B1" n="35"/>hac historia legitur 2. Petri 2. Ciuitates inquit Sodomorum &amp; Gomorreo 
+          <lb ed="#B1" n="36"/>rum in cinerem redigens euersione damnauit. Exemplum eorum qui impie 
+          <lb ed="#B1" n="37"/>acturi sunt ponens, &amp; iustum Loth oppressum a nephandorum impudica ac 
+          <lb ed="#B1" n="38"/>luxuriosa conuersatione, eripuit. Huius impuritas flagitosam libidinem pu 
+          <lb ed="#B1" n="39"/>blicum est, &amp; Neronem commisisse: Sicut scribit de eo Boët. lib. de uita 12. 
+          <lb ed="#B1" n="40"/>Caesarum. Vnde &amp; quendam puerum Sporum nomine castrauit, &amp; in habitu 
+          <lb ed="#B1" n="41"/>foemineo texit, &amp; solennissimo nuptiarum officio in uxorem duxit. De quo 
+          <lb ed="#B1" n="42"/>quidam ludendo optime dicit, propter quod hanc uilitatem hic scripsi: O quam 
+          <lb ed="#B1" n="43"/>bene, inquit, actum fuisset cum rebus humanis, si pater tuus Domicianus ta 
+          <lb ed="#B1" n="44"/>lem habuisset uxorem. Contra istud flagitosum &amp; nephandissimum uitium 
+          <lb ed="#B1" n="45"/>fecit librum de planctu naturae Alanus Magnus de Insula, doctor sacrae Theo 
+          <lb ed="#B1" n="46"/>logiae famosus, metro &amp; prosa compositum, scientifice multum, &amp; curiose.
+        </p>
+        <p xml:id="rhwis-l129-d1e219">
+          <lb ed="#B1" n="47"/>Habuerunt enim Sodomitae undecim incentiua libidinis, quae computat  
+          <lb ed="#B1" n="48"/>Helimandus in duodecim uersibus ita dicens: 
+          <lb ed="#B1" n="49"/>ocia, segnicies, somnus, caro, femina, vinum, 
+          <lb ed="#B1" n="50"/>Prosperitas, ludus, carmina, forma, puer 
+          <lb ed="#B1" n="51"/>Ocium est primum: quia iuxta Ouidium de remedio Amoris uersus: 
+          <lb ed="#B1" n="52"/>ocia si tollas, periere Cupidinis artes. 
+          <!--sap_Page_469.xml-->
+          <pb ed="#B1" n="435"/>
+          <lb ed="#B1" n="1"/>Segnicies: id est, desidia, &amp; pigritia: Iuxta illud de Remedijs: 
+          <lb ed="#B1" n="2"/>Quaeritur negistus quare sit factus adulter.  
+          <lb ed="#B1" n="3"/>In promptu caula est, desidiosus erat.  
+          <lb ed="#B1" n="4"/>Somnus excessiuus nutrit carnalia uitia. Vnde Caton. versus: 
+          <lb ed="#B1" n="5"/>Plus vigila semper ne somno deditus esto: 
+          <lb ed="#B1" n="6"/>Nam diuturna quies vitijs alimenta ministrat.  
+          <lb ed="#B1" n="7"/>Caro: Esus carnium carnem facit petulantem. Foemina: id est, consortium foe 
+          <lb ed="#B1" n="8"/>minarum. Numeri 31. Cur foeminas reseruasti: nonne istae sunt quae decepe 
+          <lb ed="#B1" n="9"/>runt filios Isracel: Vinum, quia luxuriosa res est uinum &amp; tumultuosa ebrie 
+          <lb ed="#B1" n="10"/>tas. Proverb. 20. Prosperitas. Exemplum de Dauid, qui quando fuit in bellis  
+          <lb ed="#B1" n="11"/>fatigatus castus erat: quando uero in pace &amp; prosperitate, incidit in adulte 
+          <lb ed="#B1" n="12"/>rium 2. Reg. 11. 
+          <lb ed="#B1" n="13"/>Luxuriant animi rebus plerunque secundis. 
+          <lb ed="#B1" n="14"/>Nec facile est aequa commoda mente sequi  
+          <lb ed="#B1" n="15"/>Haec 2. de Arte amandi. Ludus: dissoluit enim Iudus mentis solicitudinem. 
+          <lb ed="#B1" n="16"/>Vnde signanter Sara dixit: Nunquam cum Iudentibus miscui me. Tobiae 3 
+          <lb ed="#B1" n="17"/>Carmina: id est, harmonia dissoluta, &amp; lasciua. Contra quae nota Boëtium in 
+          <lb ed="#B1" n="18"/>prol ogo super Musicam. Formam: id est, pulchritudo, &amp; ideo fallax gratia &amp; 
+          <lb ed="#B1" n="19"/>uana est pulchritudo, Proverb. 31. Puer. Dicit enim Helinandus, quod idem  
+          <lb ed="#B1" n="20"/>facit aetas in puero, quod sexus in muliero.
+        </p>
+        <p xml:id="rhwis-l129-d1e282">
+          <lb ed="#B1" n="21"/>Dicitur hic quod sapientia a doloribus liberauit. Vnde sciendum quod sapien 
+          <lb ed="#B1" n="22"/>tia, quae est CHRISTVS homines liberauit tripliciter. Liberat enim sicut me 
+          <lb ed="#B1" n="23"/>dicus, liberat aegrotantes, &amp; a morbis oppressos: Sicut liberat princeps dimi 
+          <lb ed="#B1" n="24"/>cantes, &amp; in castris obsessos: Sicut liberat iudex allegantes se iniusta perpessos. 
+          <lb ed="#B1" n="25"/>Primo ergo liberat nos sicut medicus, liberat aegrotantes, &amp; a morbis oppres  
+          <lb ed="#B1" n="26"/>sos. Bonus medicus non statim curat hominem in casu, ubi materia infirmi 
+          <lb ed="#B1" n="27"/>tatis est magna: sed paulatim iuuat naturam per medicinam, ut infirmitas sic  
+          <lb ed="#B1" n="28"/>adiuta purget seipsam, &amp; fortior &amp; purior finaliter conualescat. Et licet infir 
+          <lb ed="#B1" n="29"/>mus ingemiscat &amp; ploret ut cito liberetur, medicus tamen prudenter expe 
+          <lb ed="#B1" n="30"/>ctat &amp; patienter operatur, &amp; melius pro infirmo quam ipsemet intelligat.  
+          <lb ed="#B1" n="31"/>Moraliter. Infirmitas propter quam CHRISTVS uenit nos sanare, est pecca 
+          <lb ed="#B1" n="32"/>tum. Iuxta petitionem, Psalm. Ego dixi Domine miserere mei, sana animam  
+          <lb ed="#B1" n="33"/>meam: quia peccaui tibi. Istam infirmitatem contrahimus a natura propter fo 
+          <lb ed="#B1" n="34"/>mitem &amp; concupiscentiam originalem, qui in corpore nostro manet semper 
+          <lb ed="#B1" n="35"/>inclinans ad peccatum, qui languor naturae uocatur ab Augustino qui in hac 
+          <lb ed="#B1" n="36"/>uita minui potest, sed extingui non potest. Vnde medicus noster noluit nos 
+          <lb ed="#B1" n="37"/>curare subito, sed per moram temporis. Et ideo reliquit nobis electuaria, un 
+          <lb ed="#B1" n="38"/>ctiones, &amp; cibaria collatiua sanitatis: id est, sacramenta Ecclesiae, baptismum, 
+          <lb ed="#B1" n="39"/>eucharistiam, poenitentiam, &amp;c. Sed perfecte curabimur in resurrectione cor 
+          <lb ed="#B1" n="40"/>porum generali, cessante omni infirmitate, &amp; ad peccandum pronitate. Et ideo 
+          <lb ed="#B1" n="41"/>in praesenti continue infirmi sumus. Dicit Psal. Miserere mei DEVS quoniam  
+          <lb ed="#B1" n="42"/>infirmus sum: sana me Domine, quoniam conturbata sunt ossa mea. Dilatio  
+          <lb ed="#B1" n="43"/>nem uero illius sanitatis molestae quodammodo ferunt sancti &amp; electi: quia est 
+          <lb ed="#B1" n="44"/>con tra affectionem commodi. Vnde dicit Apostolus Rom. 7. <quote xml:id="rhwis-l129-Qd1e336" source="http://scta.info/resource/rom7_24">Infelix ego ho 
+            <lb ed="#B1" n="45"/>mo, quis me liberabit de corpore mortis huius</quote>: Sed consolando seipsum re 
+          <lb ed="#B1" n="46"/>spondit Rom. 8. dicens, quod in breui consequetur sanitatem perfectam, licet  
+          <lb ed="#B1" n="47"/>nunc ingemiscat expectans. <quote xml:id="rhwis-l129-Qd1e345" source="http://scta.info/resource/rom8_21">Ipsa (inquit) creatura liberabitur a seruitute cor 
+            <lb ed="#B1" n="48"/>ruptionis in libertatem gloriae filiorum DEI</quote>. Quod erit, quando natura hu 
+          <lb ed="#B1" n="49"/>mana glorificabitur, &amp; omnino erit sanata ab omni infirmitate peccati, Iob. 5. 
+          <lb ed="#B1" n="50"/>In sex tribulationibus liberabit te, &amp; in septima non tanget te malum. Secun 
+          <lb ed="#B1" n="51"/>do liberat CHRISTVS sicut Princeps milites suos in castris obsessos. Nar 
+          <lb ed="#B1" n="52"/>rat Sextus Iulius lib. 3. cap. 6. de quodam principe nomine Cleonino, cuius po 
+          <lb ed="#B1" n="53"/>pulus in quadam ciuitate claudebatur obsessus. Volens ergo populo suo 
+          <!--sap_Page_470.xml-->
+          <pb ed="#B1" n="436"/>
+          <lb ed="#B1" n="1"/>consulere, quid eis utilius expediret, cum eis aliter literas non posset trans  
+          <lb ed="#B1" n="2"/>mittere: ordinauit quod unus de militibus suis, de quo satis confidebat, ob  
+          <lb ed="#B1" n="3"/>sidionem accederet, &amp; cum adversarijs obsidionem facientibus fortiter quasi 
+          <lb ed="#B1" n="4"/>eos adiuuans insultum praeberet. Ordinauit tamen quod nulla tela mitteret 
+          <lb ed="#B1" n="5"/>nisi illa quae sibi traderet. Tradidit ergo sibi tela, lanceas, &amp; sagittas, in qui  
+          <lb ed="#B1" n="6"/>bus artificialiter erat scriptum: Confortamini, &amp; estote fideles: Ego Cleoni 
+          <lb ed="#B1" n="7"/>nus obsidionem istam uobis uenio celeriter remouere. Iste ergo miles quasi 
+          <lb ed="#B1" n="8"/>hostis &amp; inimicus ciuitatis obsidionem accessit: cum ciuitatem obsidenti  
+          <lb ed="#B1" n="9"/>bus &amp; expugnantibus se immiscuit, &amp; tela sua in praedicto modo inscripta 
+          <lb ed="#B1" n="10"/>ultra muros eiecit, quibus inspectis &amp; electis: Illi qui ciuitatem plurimum 
+          <lb ed="#B1" n="11"/>defendebant, confortati hostibus restiterunt, &amp; ciuitatem domino suo serua 
+          <lb ed="#B1" n="12"/>uerunt. Moraliter. Princeps iste CHRISTVS est, ciuitas Ecclesia militans 
+          <lb ed="#B1" n="13"/>in qua sumus. Haec ciuitas est obsessa per circuitum a daemonibus &amp; malis 
+          <lb ed="#B1" n="14"/>hominibus: quia aduersarius noster Diabolus tanquam leo rugiens circuit,  
+          <lb ed="#B1" n="15"/>quaerens quem deuoret. 1. Pet. 5. Et in Psalm. In circuitu impij ambulant.  
+          <lb ed="#B1" n="16"/>Princeps uero noster uolens nos liberare &amp; confortare mittit nobis militem 
+          <lb ed="#B1" n="17"/>cum Ianceis, sagittis &amp; telis: hoc est, praelatum uel praedicatorem uerbi DEI, 
+          <lb ed="#B1" n="18"/>huiusmodi sunt sagittae potentes, acutae. Iste accedens uidetur audientibus 
+          <lb ed="#B1" n="19"/>specietenus non esse adiutor, sed aduersarius. Capitulat, obiurgat, &amp; repre 
+          <lb ed="#B1" n="20"/>hendit, ac increpat Ecclesiam militantem, &amp; eius multiplices defectus demon 
+          <lb ed="#B1" n="21"/>strat. Vnde iste est realiter amicus, sed apparenter aduersarius de quo Matthaei 
+          <lb ed="#B1" n="22"/>5. Esto consentiens cito aduersario tuo, dum es in uia cum eo. Videas ergo di 
+          <lb ed="#B1" n="23"/>ligenter quid in telis suarum increpationum sit scriptum, &amp; inuenies quod 
+          <lb ed="#B1" n="24"/>missus est a principe tuo CHRISTO non ad te finaliter expugnandum, sed 
+          <lb ed="#B1" n="25"/>ad te de obsidione prudenter liberandum. Ecclesiast. 9. Ciuitas parua, &amp; pau 
+          <lb ed="#B1" n="26"/>ci in ea uiri: Venitque contra eam rex magnus, &amp; uallauit eam, extruxitque 
+          <lb ed="#B1" n="27"/>munitiones per gyrum, &amp; profecta est obsidio. lnuentus que est in ea uir pau 
+          <lb ed="#B1" n="28"/>per &amp; sapiens liberauit urbem per sapientiam suam. Tertio liberat CHRI 
+          <lb ed="#B1" n="29"/>STVS sicut iudex allegantes se iniusta perpessos: Diabolus enim seduxerat  
+          <lb ed="#B1" n="30"/>&amp; induxerat ad peccandum. Et ideo sub seruitute Diaboli homo erat de 
+          <lb ed="#B1" n="31"/>tentus: iuste quidem a parte hominis, sed iniuste a parte Diaboli, sicut decla 
+          <lb ed="#B1" n="32"/>rat Ansielmus libro primo. Cur DEUS homo, capite septimo: Homo (in 
+          <lb ed="#B1" n="33"/>quit) neruerat ut puniretur, nec ab ullo conuenientius quam ab illo cui con 
+          <lb ed="#B1" n="34"/>senserat ut peccaret: Diaboli uero nullum erat meritum ut puniret: imo hoc 
+          <lb ed="#B1" n="35"/>tanto Diabolus faciebat iniustius, quanto non ad hoc amore iusticiae tra 
+          <lb ed="#B1" n="36"/>heretur: sed instinctu maliciae impelleretur.
+        </p>
+        <!-- fuzzy break -->
+        <p xml:id="rhwis-l129-d1e446">
+          Et ideo secundum eum iustum 
+          <lb ed="#B1" n="37"/>fuit ex parte hominis, quod ipse a Diabolo puniretur: sed non fuit iustum 
+          <lb ed="#B1" n="38"/>ex parte Diaboli, ut ipse hominem puniret. Ab ista nanque iniusta seruitute 
+          <lb ed="#B1" n="39"/>liberauit nos CHRISTVS morte sua: quia ipse solus hoc facere potuit.  
+          <lb ed="#B1" n="40"/>Iacob 4. Vnus est legislator &amp; iudex, qui potest perdere &amp; liberare. Qui 
+          <lb ed="#B1" n="41"/>iudicando propter aequitatem rei personam non respicit: nec ad munera pro 
+          <lb ed="#B1" n="42"/>pter iusticiae rigiditatem cuiusquam placatus intuetur. Liberauit autem 
+          <lb ed="#B1" n="43"/>eo modo, quo narrat Augustinus decimooctauo de Ciuit. DEI, capite deci 
+          <lb ed="#B1" n="44"/>monono, &amp; Valerius libro quinto, cap. quarto de Codro rege Atheniensium, 
+          <lb ed="#B1" n="45"/>quod cum regio sua &amp; ciuitas ingenti hostium bello debellata esset, humani 
+          <lb ed="#B1" n="46"/>auxilij diffidentia ad oraculum Apollinis confugit, ac per legatos sciscitatus 
+          <lb ed="#B1" n="47"/>est, quomodo tam graue bellum discuti posset. Respondit Apollo: Ita finem  
+          <lb ed="#B1" n="48"/>ei fore si ipse hostium manu cecidisset &amp; occubuisset: quod cum ad hostium ca 
+          <lb ed="#B1" n="49"/>stra peruenisset, ordinauerunt quod nullo modo regem Atheniensium occi 
+          <lb ed="#B1" n="50"/>derent. Videns ergo Codrus quod ciuitas sua nullo modo pace habere pos  
+          <lb ed="#B1" n="51"/>set, nisi ipse manu hostili occumberet: Deposuit regis insignia, &amp; habitum 
+          <lb ed="#B1" n="52"/>pauperis induit, castra hostium ingressus est: ubi quendam ad pugnam 
+          <lb ed="#B1" n="53"/>prouocans interfectus, occubuit: Sicque patriam liberauit, propter quod  
+          <!--sap_Page_471.xml-->
+          <pb ed="#B1" n="437"/>
+          <lb ed="#B1" n="1"/>apud suos inter deos deputatus est. Adaptatio plane patet, quod CHRISTVS 
+          <lb ed="#B1" n="2"/>rex est Ecclesiae militantis. Aduersarij sunt Diaboli ex daemonibus &amp; malis ho 
+          <lb ed="#B1" n="3"/>minibus congregati. Prophetatum enim fuit, &amp; a DEO praeordinatum, quod  
+          <lb ed="#B1" n="4"/>Ecclesia: id est, electi de genere humano, aliter non possent pacem habere, nisi 
+          <lb ed="#B1" n="5"/>rex eorum interficeretur. CHRISTVS ergo DEI Filius hoc uidens, qui cum 
+          <lb ed="#B1" n="6"/>in forma DEI esset, exinaniuit semetipsum, formam serui accipiens, in simili 
+          <lb ed="#B1" n="7"/>tudine hominum factus &amp; habitu inuentus ut homo. Humiliauit se factus 
+          <lb ed="#B1" n="8"/>obediens usque ad mortem, mortem autem crucis. Et sic nos a seruitute Diabo  
+          <lb ed="#B1" n="9"/>li restituit liberatos. Galat. 4. Itaqe non sumus ancillae filij, sed liberae, qua liber 
+          <lb ed="#B1" n="10"/>tate CHRISTVS nos liberauit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

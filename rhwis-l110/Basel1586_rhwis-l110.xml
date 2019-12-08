@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 110 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 110 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="370"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l110">
+        <p xml:id="rhwis-l110-d1e95">
+          <lb ed="#B1" n="15"/>INTER ea quibus homines singulariter extolluntur, unum est ex  
+          <lb ed="#B1" n="16"/>perientia in diuersis scientijs. Quia enim omnis scientia est de nu 
+          <lb ed="#B1" n="17"/>mero bonorum honorabilium, ab omni scientia redditur persona quae 
+          <lb ed="#B1" n="18"/>libet honore digna. Cuius ratio est: quia honor est praemium uirtu 
+          <lb ed="#B1" n="19"/>tis, uirtus aut rei mensuratur in hoc, quod potest attingere ad illud, ad 
+          <lb ed="#B1" n="20"/>quod naturaliter est ordinatum: quia in eo consistit eius perfectio. Modo omnis  
+          <lb ed="#B1" n="21"/>homo naturaliter scire desiderat, &amp; scientia est hominis perfectio naturalis, &amp; 
+          <lb ed="#B1" n="22"/>ideo omnis scientia reddit omnem personam honore dignam. Postquam ergo Salo 
+          <lb ed="#B1" n="23"/>mon sex praerogatiuas de sapientia sponsa sua retulit, uidelicet generositatem pro 
+          <lb ed="#B1" n="24"/>pagationis, celepritatem bonae opinionis, curialitatem educationis, opulentiam 
+          <lb ed="#B1" n="25"/>in diuitijs, &amp; experientiam in artificijs, sincerum moderamen in moralibus. In 
+          <lb ed="#B1" n="26"/>hac parte subiungit septimam praerogatiuam uidelicet: uerum examen in scientia 
+          <lb ed="#B1" n="27"/>libus. Et quia scientiae secantur, quemadmodum &amp; res de quibus sunt, 3 de Ani 
+          <lb ed="#B1" n="28"/>ma. Res uero diuiditur in signum &amp; signatum, ideo omnis doctrina uel est re 
+          <lb ed="#B1" n="29"/>rum uel signorum. Sicut dicit August. 1. de doctrina Christiana, cap. 6. Scien 
+          <lb ed="#B1" n="30"/>tiae uero quae sunt de signis, uocantur scientiae sermocionales. Scientiae quae 
+          <lb ed="#B1" n="31"/>sunt de rebus, uocantur scientiae reales. Et ideo: quia omnis scientia sub altero 
+          <lb ed="#B1" n="32"/>istorum generum continetur: ideo ad commendationem scientiae introducit 
+          <lb ed="#B1" n="33"/>Salomon in hac parte eam habere noticiam, tam scientiarum naturalium, quam 
+          <lb ed="#B1" n="34"/>etiam sermocionalium, &amp; dicit sic: Et si multitudinem scientiae diligit quis, scit, &amp;c 
+          <lb ed="#B1" n="35"/>Si pro quia: quia homo naturaliter desiderat multitudinem scientiae: quasi dice 
+          <lb ed="#B1" n="36"/>ret, non solum ipsa adornata est uirtutibus moralibus, uidelicet iusticia, prudentia, 
+          <lb ed="#B1" n="37"/>fortitudine, &amp; temperantia, imo etiam dotata uirtutibus intellectualibus, ut ha 
+          <lb ed="#B1" n="38"/>beat non solum scientiam, sed multitudinem scientiae. Quia uero multitudo scien 
+          <lb ed="#B1" n="39"/>tiae est secundum multitudinem scibilium: Sunt autem in naturalibus quaedam  
+          <lb ed="#B1" n="40"/>praeterita, quaedam futura, quaedam quae eueniunt raro, &amp; quaedam quae fre 
+          <lb ed="#B1" n="41"/>quenter. Item in sermocinalibus scientijs, quaedam sunt plana &amp; facilia ad intelli  
+          <lb ed="#B1" n="42"/>gendum, &amp; quaedam obscura &amp; perplexa, &amp; apta ad decipiendum. De istis 
+          <lb ed="#B1" n="43"/>omnibus dixit sapientiam esse sufficienter instructam: quia scit praeterita, &amp; de fu 
+          <lb ed="#B1" n="44"/>turis aestimat, &amp;c. Quia enim disciplinati est intellectum certiorem inquirere 
+          <!--sap_Page_405.xml-->
+          <pb ed="#B1" n="371"/>
+          <lb ed="#B1" n="1"/>secundum unumquodque genus, quantum natura rei permittit: sicut dicitur 1. E 
+          <lb ed="#B1" n="2"/>thicorum. Ideo fatuum esset tantam certitudinem exigere de futuris, quantam  
+          <lb ed="#B1" n="3"/>habere possumus de praeteritis: cum futura annexa sint contingentibus, prae 
+          <lb ed="#B1" n="4"/>terita uero necessitati sint subiecta. Et ideo signanter distinguendo dicit: Scit 
+          <lb ed="#B1" n="5"/>praeterita &amp; de futuris estimat: id est, opinatur uel coniecturat. Scit enim versu 
+          <lb ed="#B1" n="6"/>tias sermonum: id est, occultos, &amp; aenigmaticos modos loquendi. Vel versutiae 
+          <lb ed="#B1" n="7"/>sermonum dicuntur perplexae formae arguendi, in quibus patet redargutio sal  
+          <lb ed="#B1" n="8"/>tem apparens, quamcunque partem homo elegerit: sicut in insolubilibus. Scit e 
+          <lb ed="#B1" n="9"/>tiam dissolutiones argumentorum, quae uidentur apud simplicem solui non pos  
+          <lb ed="#B1" n="10"/>se. Nlia litera habet dispositiones argumentorum: id est, debitas formas arguendi 
+          <lb ed="#B1" n="11"/>syllogistice, enthymematice, exemplariter, &amp; inductiue, &amp; huiusmodi disposi 
+          <lb ed="#B1" n="12"/>tiones, de quibus in libro priorum tractatur ab Aristotele. Scit non solum 
+          <lb ed="#B1" n="13"/>isia: imo in naturalibus scit signae, &amp; monstra. Signa dicuntur aliqui effectus na 
+          <lb ed="#B1" n="14"/>turales in coelo uel in aëre, qui euentus futuros designant circa statum huma 
+          <lb ed="#B1" n="15"/>num: sicut patet de cometa quae significat mortem principis, &amp; bella futura. 
+          <lb ed="#B1" n="16"/>sicut patet primo Metero. &amp; longa experientia est expertum. Monstra uero di 
+          <lb ed="#B1" n="17"/>cuntur quae siunt contra consuetum cursum &amp; contra intentionem naturae. 
+          <lb ed="#B1" n="18"/>Sicut quando homo nascitur cum sex digitis, uel cum duobus capitibus, &amp; hu 
+          <lb ed="#B1" n="19"/>iusmodi. Et uocantur monstra, quae communiter aliquid dissuetum demon 
+          <lb ed="#B1" n="20"/>strant esse futurum. Vnde omne monstrum est signum, sed non econtram large 
+          <lb ed="#B1" n="21"/>loquendo de signo: quamuis stricte loquendo posset dici istud signum quod 
+          <lb ed="#B1" n="22"/>raro: tamen secundum naturam accidit: sicut est cometa uel eclipsis Solis. Mon 
+          <lb ed="#B1" n="23"/>strum quia raro euenit &amp; contra naturam. Sicut si aliquis ex media parte esset  
+          <lb ed="#B1" n="24"/>nomo, ex teliqua bos uel econtra. Scit euentus temporum &amp; seculorum: id est, sci 
+          <lb ed="#B1" n="25"/>te facit: quia sicut superius dictum fuit: Amicos DEI &amp; prophetas constituit.
+        </p>
+        <p xml:id="rhwis-l110-d1e221">
+          <lb ed="#B1" n="26"/>Nota quod inter multa quae scire nos conuenit, trium est nobis scientia ne 
+          <lb ed="#B1" n="27"/>cessaria: uidelicet flagitorum quae perpetrauimus: beneficiorum quae repor 
+          <lb ed="#B1" n="28"/>tauimus: &amp; suppliciorum quae nos meruimus. Prima ergo scientia circa quan 
+          <lb ed="#B1" n="29"/>debemus esse curiosi, est noticia nostrorum flagitorum, ut illa discutiamus, ut  
+          <lb ed="#B1" n="30"/>nosipsos paruipendamus, &amp; non superbiamus: &amp; argumentum demonstratiuum 
+          <lb ed="#B1" n="31"/>ad causandum istam scientiam affert nobis conscientia nostra, murmurans &amp; 
+          <lb ed="#B1" n="32"/>laesa quodammodo de malicia factorum nostrorum. Vnde signanter dicit Hier.  
+          <lb ed="#B1" n="33"/>2. Arguet te malicia tua &amp; auersio tua increpabit te. Scito &amp; uide quia malum 
+          <lb ed="#B1" n="34"/>&amp; amarum est dereliquisse te Dominum tuum. Sed defectum huius scientiae 
+          <lb ed="#B1" n="35"/>multi habent, qui in rebus mundanis &amp; in defectibus aliorum percipiendis  
+          <lb ed="#B1" n="36"/>sunt prudentes, &amp; circa seipsos negligentes, sicut oculus uidet omnia praeter 
+          <lb ed="#B1" n="37"/>se. Contra quales Bern. in principio meditationum suarum dicit: Multi multa 
+          <lb ed="#B1" n="38"/>sciunt, &amp; seipsos nesciunt, alios inspiciunt, &amp; seipsos deserunt: &amp; ideo signan 
+          <lb ed="#B1" n="39"/>ter dicitur 1. Thess. 4. Sciat unusquisque uas suum: id est, corpus suum posside 
+          <lb ed="#B1" n="40"/>re, uel conscientiam suam possidere in sanctificatione &amp; honore.
+        </p>
+        <p xml:id="rhwis-l110-d1e256">
+          <lb ed="#B1" n="41"/>Secunda scientia circa quam debemus esse curiosi, est noticia beneficiorum 
+          <lb ed="#B1" n="42"/>quae reportauimus. Inter quae praecipuum est redemptio quam recepimus per 
+          <lb ed="#B1" n="43"/>passionem CHRISTI. In qua CHRISTVS fecit nobis unum argumentum de 
+          <lb ed="#B1" n="44"/>monstratiuum suae maximae dilectionis, quando pro nobis mori uoluit in ligno 
+          <lb ed="#B1" n="45"/>crucis. Tria autem requiruntur ad demonstrationem, sicut docet Philolophus 
+          <lb ed="#B1" n="46"/>primo posteriorum: subiectum, passio, &amp; definitio: quae sit medium ad conclu 
+          <lb ed="#B1" n="47"/>dendum propriam passionem de subiecto. Subiectum huius demonstratio  
+          <lb ed="#B1" n="48"/>nis fuit Filius DEI: quia licet esset aequalis Patri secundum deitatem, multipli  
+          <lb ed="#B1" n="49"/>citer tamen pro nobis seipsum exinaniuit, &amp; subiecit, factus obediens usque ad 
+          <lb ed="#B1" n="50"/>mortem, 1. Corinth.15. Filius erat subiectus ei, qui sibi subiecit omnia. Passio 
+          <lb ed="#B1" n="51"/>conclusa ex hoc subiecto fuit passio mortis CHRISTI. Ad Hebr. 2. Videmus 
+          <lb ed="#B1" n="52"/>IESVM propter passionem mortis coronatum. Medium ad concludendum 
+          <lb ed="#B1" n="53"/>hanc passionem de hoc subiecto fuit definitio subiecti: id est, praeordinatio  
+          <!--sap_Page_406.xml-->
+          <pb ed="#B1" n="372"/>
+          <lb ed="#B1" n="1"/>Filij DEI, qui tradidit seipsum pro nobis, una cum Patre &amp; Spiritu sancto, Lue 
+          <lb ed="#B1" n="2"/>22. Filius quidem hominis sicut definitum est uadit. Haec fuit demonstratio 
+          <lb ed="#B1" n="3"/>facta pro nobis in figura crucis, causans in nobis tam suauem conscientiam, ut 
+          <lb ed="#B1" n="4"/>in comparatione istius alia scientia contemnatur. Vnde Paulus scribit 1. Cor 
+          <lb ed="#B1" n="5"/>2. Non enim iudicaui me scire aliquid inter uos, nisi CHRISTVM IESVM, 
+          <lb ed="#B1" n="6"/>&amp; hunc crucifixum,
+        </p>
+        <p xml:id="rhwis-l110-d1e304">
+          <lb ed="#B1" n="7"/>Tertia scientia circa quam curiosi esse debemus est noticia suppliciorum, 
+          <lb ed="#B1" n="8"/>quae meruimus, &amp; hanc habebimus per demonstrationem poenarum infer 
+          <lb ed="#B1" n="9"/>nalium, quae sunt diuersis sanctis patribus reuelatae. Et in duobus uersibus 
+          <lb ed="#B1" n="10"/>tanguntur:  
+          <lb ed="#B1" n="11"/>Sitis &amp; esuries frigus, ignis, fetor &amp; horror.  
+          <lb ed="#B1" n="12"/>Desperant tenebrae vincti, vermesque, rodentes. 
+          <lb ed="#B1" n="13"/>Et de ista scientia dicitur in Psalm. Conuertantur peccatores in infernum, om 
+          <lb ed="#B1" n="14"/>nes gentes quae obliuiscuntur DEVM. Et cito post: Sciant gentes quoniam ho 
+          <lb ed="#B1" n="15"/>mines sunt mortales, uidelicet &amp; puniendi, si delinquunt.
+        </p>
+        <p xml:id="rhwis-l110-d1e326">
+          <lb ed="#B1" n="16"/>Sed quia tactum est quod CHRISTVS fecit nobis unum argumentum de 
+          <lb ed="#B1" n="17"/>monstratum in ligno crucis. Est notandum quod CHRISTVS hominibus tri 
+          <lb ed="#B1" n="18"/>plex efficit argumentum, uidelicet argumentum, quo ei socialiter uniuntur: &amp; 
+          <lb ed="#B1" n="19"/>argumentum quo per eum sententialiter puniuntur: &amp; argumentum quo per 
+          <lb ed="#B1" n="20"/>eum spiritualiter muniuntur. Primum fecit in sua benedicta incarnatione: Se 
+          <lb ed="#B1" n="21"/>cundum in sua quotidiana conuersatione: Tertium facit in finalis iudicij de 
+          <lb ed="#B1" n="22"/>claratione: Et innituntur ista tria argumenta tribus regulis philosophicis satis 
+          <lb ed="#B1" n="23"/>notis. Quantum prima talis est: Medio existente hoc aliquid: necesse est extre 
+          <lb ed="#B1" n="24"/>ma coniungi. Secunda Maiori existente de necessario, &amp; minori de inesse, se 
+          <lb ed="#B1" n="25"/>quitur conclusio uera de necessario. Tertia. Si affirmatio est causa affirmatio 
+          <lb ed="#B1" n="26"/>nis, &amp; negatio erit causa negationis, &amp; tenet in causis praemissis
+        </p>
+        <p xml:id="rhwis-l110-d1e353">
+          <lb ed="#B1" n="27"/>Primum ergo argumentum factum fuit in benedicta incarnatione, cuius 
+          <lb ed="#B1" n="28"/>conclusio erat, quod necesse fuit esse pacem &amp; concordiam inter DEVM &amp; ho 
+          <lb ed="#B1" n="29"/>minem. DEVS fuit maior extremitas, &amp; homo minor. Istae uero extremitates 
+          <lb ed="#B1" n="30"/>unitae fuerunt in quodam medio, quod uere fuit hoc aliquid: uidelicet in Filio, 
+          <lb ed="#B1" n="31"/>quando naturam humanam in suam personalitatem assumpsit, ut eadem per 
+          <lb ed="#B1" n="32"/>sona idem singulare, idem hoc aliquid fieret DEVS &amp; homo: &amp; habito tali  
+          <lb ed="#B1" n="33"/>medio necessario fuit pax, Ioh. 20. Venit IESVS &amp; stetit in medio, &amp; dicit eis,  
+          <lb ed="#B1" n="34"/>pax uobis. Istud argumentum fuit tantae difficultatis, quod nihil praeter DEVM po 
+          <lb ed="#B1" n="35"/>tuit istas extremitates unire, Iob. 9. Non est qui utrumque ualeat arguere, &amp; ponere 
+          <lb ed="#B1" n="36"/>manum in ambobus. Et exponitur de DEO &amp; homine secundum Gloss. Sed  
+          <lb ed="#B1" n="37"/>sicut dicitur Gen.32. Respexit DEVS, &amp; arguit.
+        </p>
+        <p xml:id="rhwis-l110-d1e379">
+          <lb ed="#B1" n="38"/>Secundum argumentum fecit CHRISTVS in sua conuersatione, &amp; uult  
+          <lb ed="#B1" n="39"/>quod nos idem faciamus. Huius argumenti conclusio est de necessitate. Om 
+          <lb ed="#B1" n="40"/>nis perseueranter bene uiuens erit beatus. Istam conclusionem quae est de ne 
+          <lb ed="#B1" n="41"/>cessario uult quod concludamus per istam regulam. Maiori de necessario &amp; 
+          <lb ed="#B1" n="42"/>minori de inesse, &amp;c. Vitae enim meritoriae pars est duplex: uidelicet contem 
+          <lb ed="#B1" n="43"/>platiua, &amp; actiua. Contemplatiua est maior &amp; minor, secundum sanctos. Com 
+          <lb ed="#B1" n="44"/>templatiua est de necessario: quia aeterna. Inchoatur enim in hac uita, &amp; conti  
+          <lb ed="#B1" n="45"/>nuatur ulterius in futura. Actiua est de inesse: quia non pertinet nisi ad uitam  
+          <lb ed="#B1" n="46"/>temporalem, &amp; corporalem, quae nunc instat: Ergo si maior pars uitae nostrae 
+          <lb ed="#B1" n="47"/>fuerit data contemplationi, &amp; minor pars uitae nostrae fuerit data actioni utili  
+          <lb ed="#B1" n="48"/>circa proximos: sequitur conclusio necessaria in uitam aeternam. Istam simili 
+          <lb ed="#B1" n="49"/>tudinem, quae contemplatiua est de necessario, &amp; uita actiua est de inesse, habe 
+          <lb ed="#B1" n="50"/>mus a Saluatore, Luc. 10. ubi de hac uita duplici sub figura duarum sororum lo 
+          <lb ed="#B1" n="51"/>quitur, uolens per Mariam uitam figurare contemplatiuam, &amp; per Martham ui  
+          <lb ed="#B1" n="52"/>tam actiuam: loquens enim de Martha dicit sic: Martha, Martha, sollicita es, 
+          <lb ed="#B1" n="53"/>&amp; tumultuaris erga plurima. Ecce quia est de inesse: sed certe de contemplatiua 
+          <!--sap_Page_407.xml-->
+          <pb ed="#B1" n="373"/>
+          <lb ed="#B1" n="1"/>subiungit. Porro unum est necessarium. Ecce quod contemplatiua est de neces  
+          <lb ed="#B1" n="2"/>sario. Vnde sequitur: Maria optimam partem elegit quae non auferetur ab ea. 
+          <lb ed="#B1" n="3"/>Istud argumentum tetigit Propheta, quando dicit Abacuc 2. Contemplabor  
+          <lb ed="#B1" n="4"/>ut uideam quid dicatur mihi, &amp; quid respondeam ad arguentem.
+        </p>
+        <p xml:id="rhwis-l110-d1e429">
+          <lb ed="#B1" n="5"/>Tertium argumentum faciet CHRISTVS in finalis iudicij declaratione. 
+          <lb ed="#B1" n="6"/>Conclusio erit ista: Nullus malus finaliter erit beatus. Et concludetur per istam 
+          <lb ed="#B1" n="7"/>regulam: Si affirmatio est causa affirmationis, &amp; negatio erit causa negationis 
+          <lb ed="#B1" n="8"/>Sicut enim dicitur Matth. 25. CHRISTVS in iudicio sic arguet, quo ad bo 
+          <lb ed="#B1" n="9"/>nos: <quote xml:id="rhwis-l110-Qd1e442" source="http://scta.info/resource/mt25_35">Esuriui &amp; dedistis mihi manducare: Sitiui &amp; dedistis mihi bibere: Hospes 
+            <lb ed="#B1" n="10"/>eram, &amp; collegistis me</quote>: &amp; sic de alijs. Et certe ex istis affirmationibus sequitur  
+          <lb ed="#B1" n="11"/>ista conclusio affirmatiua: Venite benedicti Patris mei, &amp;c. Et quia istae affir 
+          <lb ed="#B1" n="12"/>mationes sunt causae praecisae praedictae affirmationis: Ideo oppositae negatio  
+          <lb ed="#B1" n="13"/>nes erunt causae oppositae negationis: Vnde statim subiunget contra malos 
+          <lb ed="#B1" n="14"/>sic: Esuriui &amp; non dedistis mihi manducare. Siti. &amp; non dm. b. Hospes eram. 
+          <lb ed="#B1" n="15"/>&amp;c. Ergo concludet: Discedite a me maledicti in ignem aeternum, qui, &amp;c. Et  
+          <lb ed="#B1" n="16"/>isto terribili argumento loquitur Propheta Esa. 2. iudicabit gentes, &amp; arguet 
+          <lb ed="#B1" n="17"/>populos multos. Et ipsemet CHRISTVS Excech. 25. Faciam in eis ultiones ma 
+          <lb ed="#B1" n="18"/>gnas, arguens in furore. Et ideo dicit Psalm. <quote xml:id="rhwis-l110-Qd1e464" source="http://scta.info/resource/ps6_2 http://scta.info/resource/ps37_2">Domine ne in furore tuo arguas 
+            <lb ed="#B1" n="19"/>me, neque in ira tua corripias me</quote>.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

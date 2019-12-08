@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 138 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 138 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="464"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l138">
+        <p xml:id="rhwis-l138-d1e95">
+          <!--sap_Page_498.xml-->
+          <pb ed="#B1" n="464"/>
+          <lb ed="#B1" n="1"/>NARRATO aquae beneficio notabilis datae miraculosae He 
+          <lb ed="#B1" n="2"/>braeis in deserto, &amp; econtrario supplicio aquae conuersae in sangui  
+          <lb ed="#B1" n="3"/>nem illato Aegyptijs in Aegypto: Hic assignat tanti beneficij He 
+          <lb ed="#B1" n="4"/>braeis collati congruam rationem. Est aut quaedam talis congruen 
+          <lb ed="#B1" n="5"/>tia, quare eos non sustinuit propter defectum aquarum perimi in 
+          <lb ed="#B1" n="6"/>deserto. Hebraei enim in Aegypto occisi fuerant, &amp; mirabiliter diminuti per 
+          <lb ed="#B1" n="7"/>submersionem paruulorum. De qua habetur Exod. 1. Quidquid masculini 
+          <lb ed="#B1" n="8"/>sexus natum fuerit, in flumen proijcite. Igitur in recompensationem illius dam  
+          <lb ed="#B1" n="9"/>ni per aquas illati, congruum fuit quod per aquas remedium contra sitim per 
+          <lb ed="#B1" n="10"/>ciperent in deserto: ut sic ostenderetur iniusticia, Aegyptiorum siti occisorum, 
+          <lb ed="#B1" n="11"/>aquis conuersis in sanguinem: &amp; innocentia Hebraeorum consecutorum de sua 
+          <lb ed="#B1" n="12"/>siti remedium, per aquas de petra profluentes, dicitur ergo sic: Qui cum minue 
+          <lb ed="#B1" n="13"/>rentur: qui: id est, Heoraei, cum minuerentur: id est, fierent pauciores, in traductia 
+          <lb ed="#B1" n="14"/>ne infantium occisorum: id est, in propalatione infantium ad mortem secundum 
+          <lb ed="#B1" n="15"/>legem statutam, qua ordinabatur quod omnes masculi traducerentur ad mor 
+          <lb ed="#B1" n="16"/>tem: Dedisti illis aquam abundantem insperate: id est, contra spem ipsorum, scili 
+          <lb ed="#B1" n="17"/>cet Moysi &amp; Aaron. Vnde dixit Moyses populo Numer. 13. Audite rebelles  
+          <lb ed="#B1" n="18"/>&amp; increduli. Num depetra hac poterimus uobis eijcere aquas: Et infra dixit 
+          <lb ed="#B1" n="19"/>Dominus ad Moysen &amp; Aaron: Cur non credidistis mihi ut sanctificaretis me 
+          <lb ed="#B1" n="20"/>coram filijs Israel: Non introducetis hos populos in terram, quam dabo eis.  
+          <lb ed="#B1" n="21"/>Dedisti inquit eis aquam insperate: ostendens per sitim, quae tunc fuit in defetto com  
+          <lb ed="#B1" n="22"/>parata ad sitim quae fuit in Aegypto: quemadmodum tuos exaltares, eis mira 
+          <lb ed="#B1" n="23"/>culose potum tribuendo, &amp; ministrando: &amp; aduersarios eorum necares, siti in 
+          <lb ed="#B1" n="24"/>tolerabili flagellando.
+        </p>
+        <p xml:id="rhwis-l138-d1e154">
+          <lb ed="#B1" n="25"/>Circa istam clausulam: dedisti eis aquam abundantem. Notandum quod per a 
+          <lb ed="#B1" n="26"/>quam in Scriptura sacra plurima designantur. Significat interdum sapientiam sa 
+          <lb ed="#B1" n="27"/>lutarem, interdum astutiam secularem, interdum poenitentiam regularem: Sapientiam 
+          <lb ed="#B1" n="28"/>aut salutarem, quae est uerus DEI cultus, qui consistit in studio, &amp; oratione: id  
+          <lb ed="#B1" n="29"/>est, in studio sacrae Theologiae, &amp; orationibus deuotis, quod nobis per Sacram scri 
+          <lb ed="#B1" n="30"/>pturam relucet: &amp; signanter propter tria, videlicet propter eius superficialem  
+          <lb ed="#B1" n="31"/>continuationem, propter naturalem humectationem, &amp; propter eius figurae re 
+          <lb ed="#B1" n="32"/>praesentationem: Primo aqua sapientiam salutarem significat propter eius superfi 
+          <lb ed="#B1" n="33"/>cialem continuationem: aqua enim faciliter secundum ea quae sibi approximant se 
+          <lb ed="#B1" n="34"/>conformat. Vnde Ambros. in hexameron lib. 3. Aqua rigorem frigoris comutat,  
+          <lb ed="#B1" n="35"/>ut inter uaporantia ferueat, inter umbrosa frigescat, sole repercusia exaestuet, ni 
+          <lb ed="#B1" n="36"/>uibus irrigata glaciali humore concalescat. isto modo sapientia moralis, quae 
+          <lb ed="#B1" n="37"/>hominem docet conuersari sine querela in medio nationis prauae &amp; peruersae, 
+          <lb ed="#B1" n="38"/>salua semper honestate uitae, &amp; ueritate conscientiae: nouit se omnibus confor 
+          <lb ed="#B1" n="39"/>mare, 1. Cor. 9. Omnibus omnia factus sum, ut omnes lucrifacerem, unde Cato:  
+          <lb ed="#B1" n="40"/>constans &amp; lenis vt res expostulat esto. 
+          <lb ed="#B1" n="41"/>Temporibus mores sapiens sine crimine mutat.  
+          <lb ed="#B1" n="42"/>Item Sallustius super Albertum: 
+          <lb ed="#B1" n="43"/>consulo, quisquis eris, qui pacis federa quaeris. 
+          <lb ed="#B1" n="44"/>consonus esto lupis cum quibus esse cupis.  
+          <!--sap_Page_499.xml-->
+          <pb ed="#B1" n="465"/>
+          <lb ed="#B1" n="1"/>Nec tamen hic inconstantiae deputandum est, sed prudentiae. Vnde Martialis  
+          <lb ed="#B1" n="2"/>de formula vitae honestate cap. 1. Si prudentiam amplecteris idem ubique eris: 
+          <lb ed="#B1" n="3"/>&amp; prout rerum aut temporum uarietas exigit, ita te accomodes tempori: Nec 
+          <lb ed="#B1" n="4"/>te in aliquibus mutes, sed magis aptes: sicut manus eadem est, &amp; cum palma 
+          <lb ed="#B1" n="5"/>extenditur, &amp; in pugnum astringitur. Istae sunt aquae Siloe quae currunt cum 
+          <lb ed="#B1" n="6"/>silentio, Esa. 8. Quia ubi est multiloquium, clamor, &amp; garrulitas, ibi est comu 
+          <lb ed="#B1" n="7"/>niter fatuitas &amp; turbatio, Hiere. 2. Quid tibi uis inquia Aegypti, ut bibas aquam 
+          <lb ed="#B1" n="8"/>turbidam: Ista sapientia traditur in Scriptura sacra &amp; emanauit de Petra altis  
+          <lb ed="#B1" n="9"/>sima, uidelicet de CHRISTO, 1. Corintha 0. Petra autem erat CHRISTVS 
+          <lb ed="#B1" n="10"/>Et sicut dicit Auicen. Sic aqua descendens de alto melior est alijs caeteris pari 
+          <lb ed="#B1" n="11"/>bus: ita sapientia &amp; discretio uiuendi deriuata a CHRISTO melior est nobis  
+          <lb ed="#B1" n="12"/>doctrina quacunque alia, Eccles. 1. Fons sapientiae uerbum DEI in excelsis.
+        </p>
+        <p xml:id="rhwis-l138-d1e230">
+          <lb ed="#B1" n="13"/>Secundo interdum aqua in Scriptura sacra significat sapientiam salutarem, pro 
+          <lb ed="#B1" n="14"/>pter eius naturalem humectationem. Dicit Ambr. in exa. de opere tertiae diei 
+          <lb ed="#B1" n="15"/>Quod aqua est alitrix omnium uirgultorum, diuersos singulis usus ministrans: 
+          <lb ed="#B1" n="16"/>Isto modo doctrina Sacrae scripturae datsingulis alimentum, iuxta suae condi 
+          <lb ed="#B1" n="17"/>tionis necessitatem, ut faciant fructum bonorum operum tempore opportuno.  
+          <lb ed="#B1" n="18"/>In Psalm. Et erit tanquam lignum, quod plantatum est secus decursus aquarum, 
+          <lb ed="#B1" n="19"/>quod fructum suum dabit in tempore suo. Dicit Arist. 7. de Animalibus, ca. 5. 
+          <lb ed="#B1" n="20"/>Quod aqua pluuialis ualet omnibus piscibus, &amp; plantis terrae plus, quam aqua 
+          <lb ed="#B1" n="21"/>fluuialis uel fontis, &amp; plus per illam crescunt arbores: &amp; nihil bene crescit, nisi 
+          <lb ed="#B1" n="22"/>bene imbibatur aqua. Moraliter aqua pluuialis quae de coelo descendit est doctri 
+          <lb ed="#B1" n="23"/>na moralis Sacrae scripturae, Deuter. 32. Concrescat ut ros eloquium meum. 
+          <lb ed="#B1" n="24"/>Ista plus confert piscibus &amp; plantis: id est, hominibus in medio conuersantibus 
+          <lb ed="#B1" n="25"/>&amp; crescentibus, quam quaecunque alia doctrina, quantumcunque moralis, a phi  
+          <lb ed="#B1" n="26"/>losophis adinuenta. Et ideo signanter uocatur aqua sapientiae salutaris, Eccles.  
+          <lb ed="#B1" n="27"/>15. Et in Psalm. In loco pascuae ibi me collocauit, super aquam refectionis edu 
+          <lb ed="#B1" n="28"/>cauit me. Aqua enim Scripturae sacrae non solum potat bibentes, sed eos refi 
+          <lb ed="#B1" n="29"/>cit. Vnde inter religiosos in refectorio legi solet, ut non solum uentres cibo, sed  
+          <lb ed="#B1" n="30"/>etiam mentes reficiantur DEI uerbo. Ista aqua mutatur in uinum ad preces Ma 
+          <lb ed="#B1" n="31"/>riae: quia nisi ipsa gratiam docendi impetrare dignetur, insipidum apparebit  
+          <lb ed="#B1" n="32"/>quidquid ab homine proferetur. In cuius figuram non nisi ad Mariae instantiam 
+          <lb ed="#B1" n="33"/>CHRISTVS in nuptijs aquam commutauit in uinum, Iohan. 2.
+        </p>
+        <p xml:id="rhwis-l138-d1e278">
+          <lb ed="#B1" n="34"/>Tertio aqua in Scriptura significat sapientiam salutarem, propter eius figuralem 
+          <lb ed="#B1" n="35"/>repraesentationem. In aqua enim clara &amp; non turbata, sed quieta species rerum 
+          <lb ed="#B1" n="36"/>abiectarum apparent: unde Bernhardus Syluester in Megacosmo suo: Prodit 
+          <lb ed="#B1" n="37"/>liquentis aqua, clara substantia, cuius plana ac lubrica superficies figuras reddit  
+          <lb ed="#B1" n="38"/>aemulas umbrarum, in cursibus lacessita. Vnde aqua tenet uicem speciali ad 
+          <lb ed="#B1" n="39"/>usum pauperum: iuxta illud Eccles. 27. In aqua resplendet uultus prospicien 
+          <lb ed="#B1" n="40"/>tium. Isto modo Scriptura sacra seu esse uerbum DEI hominem sibi ostendit,  
+          <lb ed="#B1" n="41"/>qualis est in moribus: Vnde Greg. 2, mora. Scriptura sacra mentis oculis quasi 
+          <lb ed="#B1" n="42"/>quoddam speculum opponitur, ut interna nostra facies in ipsa uideatur. Ibi et  
+          <lb ed="#B1" n="43"/>enim foeda, ibi pulchra nostra agnoscimus, ibidem sentimus quantum profici 
+          <lb ed="#B1" n="44"/>mus, uel quam longe a profectu distamus. 
+        </p>
+        <p xml:id="rhwis-l138-d1e304">
+          <lb ed="#B1" n="45"/>Secundo principaliter aqua in Scriptura significat astutiam secularem: de qua A 
+          <lb ed="#B1" n="46"/>postolus 1. Corin. 3. Sapientia huius mundi stulticia est apud DEVM. Scriptum 
+          <lb ed="#B1" n="47"/>est enim: Comprehendam sapientes in astutia sua. Haec enim astutia ad mo 
+          <lb ed="#B1" n="48"/>dum aquae, datapparentiam quantitatis, excellentiam sublimitatis, &amp; insolen 
+          <lb ed="#B1" n="49"/>tiam mutabilitatis. Primo astutia secularis datapparentiam quantitatis: quia 
+          <lb ed="#B1" n="50"/>illud quod per aquam uidetur, grandius apparet, quam est in sua propria quan  
+          <lb ed="#B1" n="51"/>titate: unde Ptolo. Quod in aqua ponitur uidetur maius, &amp; Seneca de natura 
+          <lb ed="#B1" n="52"/>libus quaestionibus lib. 1. dicit: Omnia per aquam iudicantibus longe uiden 
+          <lb ed="#B1" n="53"/>tur esse maiora. Et cito post: Sidera ampliora per nubem aspicienti uidentur:  
+          <!--sap_Page_500.xml-->
+          <pb ed="#B1" n="466"/>
+          <lb ed="#B1" n="1"/>quia acies nostra in humido labitur, nec apprehendere quod uult fideliter po 
+          <lb ed="#B1" n="2"/>test: quod manifestum fiet si poculum impleueris aqua, &amp; in illud proieceris an 
+          <lb ed="#B1" n="3"/>nulum: Nam cum in ipso fundo annulus lateat, facies eius in summa clarior red 
+          <lb ed="#B1" n="4"/>ditur, quidquid uidetur, per humorem longe amplius in illo est. Haec Senec. Pro 
+          <lb ed="#B1" n="5"/>batur etiam in perspectiua, quod aliqua quae ab oculis in certa distantia non ui  
+          <lb ed="#B1" n="6"/>dentur, aquae superinfusione incipiunt uideri. Vnde si denarius in scutella po 
+          <lb ed="#B1" n="7"/>natur, sumaturque distantia aqua minime uideatur, si aqua in scutellam infunda 
+          <lb ed="#B1" n="8"/>tur, eodem existente spacio inter scutellam &amp; oculum, denarius qui prius, ante 
+          <lb ed="#B1" n="9"/>infusionem aquae, uideri non poterat, apparebit. Moraliter. Quantumcunque ali  
+          <lb ed="#B1" n="10"/>quis fuerit modicus secundum mundum, sine pulchritudine &amp; fortitudine cor 
+          <lb ed="#B1" n="11"/>poris, sine diuitijs, sine genere, sine parentibus: si aqua sapientiae secularis ope 
+          <lb ed="#B1" n="12"/>riatur: grandescet &amp; apparebit magnus. Addiscatiura ciuilia &amp; canonica, or 
+          <lb ed="#B1" n="13"/>net se legibus &amp; statutis regijs, statim apparebit nobilissimae quantitatis: faciet  
+          <lb ed="#B1" n="14"/>eum crescere in diuitijs familia &amp; thesauris: &amp; tamen non ideo est maior in rei 
+          <lb ed="#B1" n="15"/>ueritate apud DEVM, sed minor. Vnde Gregor. 5, mora. Paruulus est qui ter 
+          <lb ed="#B1" n="16"/>rena diligit, magnus qui coelestia concupiscit. Vnde quamuis appareant ma 
+          <lb ed="#B1" n="17"/>gni nobiles &amp; iocundi apud seculariter iudicantes, sunt tamen in diuino con 
+          <lb ed="#B1" n="18"/>pectu &amp; iudicio conscientiae propriae parui, ignobiles, &amp; dolore repleti, Iob. 
+          <lb ed="#B1" n="19"/>29. Ecce gigantes gemunt sub aquis, &amp; qui habitant cum eis. Gigantes, hoc 
+          <lb ed="#B1" n="20"/>est, illi qui nostro iudicio magni uidentur. Secundo aqua datexcellentiam sub  
+          <lb ed="#B1" n="21"/>tilitatis. Aqua enim naturaliter quaerit terrae supereminere &amp; dominari, &amp; ali  
+          <lb ed="#B1" n="22"/>ter non quiescit aqua naturaliter: quia ille est totus appetitus aquae superemi 
+          <lb ed="#B1" n="23"/>nere &amp; supponi immediate, &amp; dominari terrae. Isto modo moraliter: astutia se 
+          <lb ed="#B1" n="24"/>cularis ad nullum alium finem tendit nisi ad volandum in honoribus, &amp; ad ad 
+          <lb ed="#B1" n="25"/>quirendum dominium terrenorum. In cuius figura aqua produxit aues, Ge 
+          <lb ed="#B1" n="26"/>nes. 1. Producant aquae reptile animae uiuentis, &amp; uolatile super terram sub fic  
+          <lb ed="#B1" n="27"/>mamento coeli. Astutia enim secularis duo genera hominum producit, repti 
+          <lb ed="#B1" n="28"/>lia &amp; volatilia. Reptilia sunt agricultores, &amp; falsi mechanici, &amp; manuum ope 
+          <lb ed="#B1" n="29"/>ratores, &amp; huiusmodi quorum tota conuersatio est in terra. Volatilia sunt no 
+          <lb ed="#B1" n="30"/>biles placitatores, falsi mercatores, usurarij solennes, &amp; clerici simoniaci, &amp; pra 
+          <lb ed="#B1" n="31"/>ui nobilium consiliarij. Isti adquirunt loca sublimia &amp; gradus &amp; dignitates in 
+          <lb ed="#B1" n="32"/>Ecclesia, Genes. 7. Multiplicatae sunt aquae &amp; eleuauerunt arcam in sublime a 
+          <lb ed="#B1" n="33"/>terra. Tertio aqua datinsolentiam mutabilitatis. Vnde omnes insulares &amp; ma 
+          <lb ed="#B1" n="34"/>ritimi inconstantes sunt, &amp; insolentes nimis: sicut patet de nautis, qui commu 
+          <lb ed="#B1" n="35"/>niter conuersantur in aquis: tales enim regulantur per Lunam quae est domi 
+          <lb ed="#B1" n="36"/>na aquarum. Luna enim est uelocissimi motus: hoc est, proles circumuolutio  
+          <lb ed="#B1" n="37"/>nes facit circa terram, quam quicunque alius Planeta. Et sic moraliter astutia 
+          <lb ed="#B1" n="38"/>secularis reddit homines mutabiles, &amp; versipelles ad modum uulpis, quae nun 
+          <lb ed="#B1" n="39"/>quam recto, sed tortuoso itinere graditur. De ista astutia dicitur Hiere. 15. Fa 
+          <lb ed="#B1" n="40"/>cta est mihi quasi mendacium aquarum infidelium. Baculus quantumcunque  
+          <lb ed="#B1" n="41"/>rectus, siuna eius medietas profundetur in aqua, uidebitur tortuosus. Sic isti 
+          <lb ed="#B1" n="42"/>falsi placitatores, quantumcunque fuerit causa hominis iusta, per eorum astutiam 
+          <lb ed="#B1" n="43"/>&amp; astutam uersutiam faciunt apparere iniustam: &amp; econtra iniustam causam fa 
+          <lb ed="#B1" n="44"/>ciunt uideri rectam. Et hi sunt a quibus iurgia, lites, &amp; iniqua mendacia oriun 
+          <lb ed="#B1" n="45"/>tur, Proverb. 15. Qui dimittit aquam, caput est iurgiorum: qui dimietit aquam: 
+          <lb ed="#B1" n="46"/>id est, qui astutia seculari sine regula bonae conscientiae utitur, caput est: id est,  
+          <lb ed="#B1" n="47"/>principalis causa litis inter homines mundiales.
+        </p>
+        <p xml:id="rhwis-l138-d1e433">
+          <lb ed="#B1" n="48"/>Tertio principaliter aqua in Scriptura sacra significat poenitentiam regula 
+          <lb ed="#B1" n="49"/>rem. Aqua enim lauat sordida, flectit rigida, &amp; coquit cruda. Isto modo poeni 
+          <lb ed="#B1" n="50"/>tentia primo abluit sordes peccatorum, quantumcunque fuerint enormia: In cu 
+          <lb ed="#B1" n="51"/>ius figuram dictum est Naaman leproso 4. Reg. 5. Vade &amp; laua te septies in lor 
+          <lb ed="#B1" n="52"/>dane, &amp; recipiet sanitatem caro tua, atque mundaberis, Excech. 16. Laui te aqua 
+          <lb ed="#B1" n="53"/>munda, &amp; mundani sanguinem tuum ex te. Sanguinem tuum: hoc est, peccatum 
+          <!--sap_Page_501.xml-->
+          <pb ed="#B1" n="467"/>
+          <lb ed="#B1" n="1"/>tuum quod ex carne &amp; sanguine ortum habet, Eccles. 17. Quid nequius quam 
+          <lb ed="#B1" n="2"/>quod excogitauit caro &amp; sanguis: Hoc ergo sacrum poenitentiae figuratur per 
+          <lb ed="#B1" n="3"/>piscinam probaticam, De qua dicitur lohan. 5. quod habuit quinque porticus 
+          <lb ed="#B1" n="4"/>in quibus iacebat multitudo languentium. Angelus autem Domini secundum 
+          <lb ed="#B1" n="5"/>tempus descendebat, &amp; mouebatur aqua, &amp; qui primus descendisset post mo 
+          <lb ed="#B1" n="6"/>tionem aquae, sanus fiebat, a quacunque detinebatur infirmitate. Piscina dicitur  
+          <lb ed="#B1" n="7"/>quasi aqua pisces habens per contrarium. 1Probation Graece, ouis Latine. Quia 
+          <lb ed="#B1" n="8"/>ergo illa aqua caruit piscibus, &amp; oues immolandae ibi lauabantur, ideo piscina 
+          <lb ed="#B1" n="9"/>probatica dicebatur. Et Sacramentum poenitentiae significat, in quo lauari de 
+          <lb ed="#B1" n="10"/>bet quisquis, qui debet DEO immolari. Habet aut quinque porticus secundum 
+          <lb ed="#B1" n="11"/>quinque occasiones, ex quibus homines aquam poenitentiae ingrediuntur: ui 
+          <lb ed="#B1" n="12"/>delicet, uerbi DEI praedicationem, sanctorum praecedentium considerationem, 
+          <lb ed="#B1" n="13"/>generalem Ecclesiae ordinationem, diuinam inspirationem, &amp; corporeae infir 
+          <lb ed="#B1" n="14"/>mitatis tribulationem. Quidam &amp; ualde multi ingrediuntur piscinam poeni 
+          <lb ed="#B1" n="15"/>tentiae per porticum uerbi DEI, Act. 2. His auditis compuncti sunt corde, &amp; 
+          <lb ed="#B1" n="16"/>dixerunt ad Petrum &amp; reliquos Apostolos: Quid faciemus uiri fratres: Petrus 
+          <lb ed="#B1" n="17"/>uero ait ad illos: Poenitentiam agite. Alij ingrediuntur piscinam poenitentiae 
+          <lb ed="#B1" n="18"/>per porticum exemplorum uirorum sanctorum. Vnde beatus Greg. 1. Dialo. 
+          <lb ed="#B1" n="19"/>Sunt nonnulli quos ad amorem patriae coelestis non minus exempla quam prae 
+          <lb ed="#B1" n="20"/>dicamenta succendunt. Alij per porticum Ecclesiasticae constitutionis, qua prae 
+          <lb ed="#B1" n="21"/>cipitur cuilibet Christiano semel in anno confiteri &amp; communicare: alij per di 
+          <lb ed="#B1" n="22"/>uinam inspirationem &amp; occultam, sicut Nicolaus, Benedictus, Dominicus, &amp; 
+          <lb ed="#B1" n="23"/>Franciscus. Alij per infirmitatis corporeae flagellationem. Et ista est porticus 
+          <lb ed="#B1" n="24"/>communissima, in qua iacet multitudo maxima languentium: quia uix uolunt  
+          <lb ed="#B1" n="25"/>extra quadragesimam confiteri, nisi per infirmitatis articulum necessitentur.  
+          <lb ed="#B1" n="26"/>Secundo aqua designat poenitentiam: quia flectit rigida: Ita poenitentia corda 
+          <lb ed="#B1" n="27"/>superba, indomita, &amp; insolentia flectit ad obedientiam. Vnde sicut corallus 
+          <lb ed="#B1" n="28"/>quamdiu est in aqua crescit, &amp; augetur ad modum plantae: quam cito extrahi  
+          <lb ed="#B1" n="29"/>tur rigescit in lapidem. Iuxta illud Ouidij Meta. 15. 
+          <lb ed="#B1" n="30"/>Sic &amp; cor allum quo primum contigit auras 
+          <lb ed="#B1" n="31"/>Tempore durescit mollis fuit herba sub vndis.
+        </p>
+        <p xml:id="rhwis-l138-d1e520">
+          <lb ed="#B1" n="32"/>Ita multi dum sunt inter sanctos uiros poenitentiae datos crescunt, &amp; molles &amp; 
+          <lb ed="#B1" n="33"/>attractibiles siunt: qui extra poenitentiam positi, inuenirentur rigidi &amp; rebelles,  
+          <lb ed="#B1" n="34"/>Ecclesiast. 24. Dixi rigabo ortum plantationum, inebriabo partus mei fructus. 
+          <lb ed="#B1" n="35"/>Tertio aqua designat poenitentiam: quia coquit cruda: cum adiutorio enim i 
+          <lb ed="#B1" n="36"/>gnis quod crudum est &amp; digestioni contrarium, sit per decoctionem in aqua 
+          <lb ed="#B1" n="37"/>conueniens corporis nutrimentum. Isto modo quidam incorporari non pos  
+          <lb ed="#B1" n="38"/>sunt corpori CHRISTI mystico propter suam cruditatem &amp; insipiditatem: do 
+          <lb ed="#B1" n="39"/>nec in aquis poenitentiae decocti fuerint. Iuxta illud Excech. 24. Consumentur 
+          <lb ed="#B1" n="40"/>carnes, &amp; coquetur uniuersa composito, &amp; ossa tabescent. Consumentur carnes: 
+          <lb ed="#B1" n="41"/>id est, carnales affectiories, &amp; coquetur vniuersa composito: id est, ornatus super 
+          <lb ed="#B1" n="42"/>fluus ad modestiam reducetur: &amp; ossa tabescent: id est, rigidae &amp; rebelles uo 
+          <lb ed="#B1" n="43"/>luntates ad humanitatem, &amp; obedientiam ducentur
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

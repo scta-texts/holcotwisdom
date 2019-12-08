@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 122 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 122 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="408"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l122">
+        <p xml:id="rhwis-l122-d1e95">
+          <!--sap_Page_442.xml-->
+          <pb ed="#B1" n="408"/>
+          <lb ed="#B1" n="1"/>POSTQVAM Salomon declarauit, quod per sapientiam quam 
+          <lb ed="#B1" n="2"/>optauit, intendebat se regere moraliter in omni bonitate: Hic osten 
+          <lb ed="#B1" n="3"/>dit quod eadem sapientia hoc conferre potuit generaliter ex pro 
+          <lb ed="#B1" n="4"/>pria potestate: &amp; per consequens potuit eum facere uirtuosum per 
+          <lb ed="#B1" n="5"/>fecte. Huius ergo potestatis, primo ponit probationem: secundo ex hoc infert 
+          <lb ed="#B1" n="6"/>quandam conciusionem. Secunda pars ibi: Et ero dignus. Circa primum talem  
+          <lb ed="#B1" n="7"/>nonit rationem. Illud potest hominem perfecte facere uirtuosum, quod confert 
+          <lb ed="#B1" n="8"/>homini scientiam, prudentiam, &amp; potentiam, &amp; etiam facit DEO acceptum 
+          <lb ed="#B1" n="9"/>&amp; sibi subiectis proficuum. Sed talis est sapientia quam peto a DEO, dicit 
+          <lb ed="#B1" n="10"/>Salomon: ergo per ipsam potero me regere uirtuose in omnibus. Minorem ergo 
+          <lb ed="#B1" n="11"/>huius rationis ponit in quinque particulis: narrans de sapientia, quod ipsa est 
+          <lb ed="#B1" n="12"/>doctrix per prudentiam, defensatrix per potentiam, mediatrix per amicitiam, 
+          <lb ed="#B1" n="13"/>moderatrix per iusticiam. Quantum ad primum dicit sic: Scit enim illa: id est, sapi 
+          <lb ed="#B1" n="14"/>entia omnia &amp; intelligit: apud Aristotelem, inter scientiam &amp; intellectum haec est 
+          <lb ed="#B1" n="15"/>differentia: quia scientia est habitus conclusionis demonstratae. Vnde nihil pro 
+          <lb ed="#B1" n="16"/>prie dicitur sciri apud eum stricte loquendo de scientia, nisi quod potest demon 
+          <lb ed="#B1" n="17"/>stratiue probari. Et ideo facere scire cadit in definitione demonstrationis, sicut  
+          <lb ed="#B1" n="18"/>patet primo posterio. lntellectus uero proprie loquendo est habitus cognosci 
+          <lb ed="#B1" n="19"/>tiuus principiorum &amp; propositonum, quae probari non possunt. Vnde Arist. 6. 
+          <lb ed="#B1" n="20"/>Ethi. Intellectus est principiorum quorum non est ars, neque scientia, neque pruden 
+          <lb ed="#B1" n="21"/>tia: quia scientia est demonstrabilium. Ars uero &amp; prudentia contingentium 
+          <lb ed="#B1" n="22"/>Siue igitur loquamur de principijs siue conclusionibus, sapientia scit: id est, 
+          <lb ed="#B1" n="23"/>scire facit, omnia: id est, omnia necessaria ad salutem. Sic enim loquitur Salua 
+          <lb ed="#B1" n="24"/>tor de Spiritu sancto, lohan.16. Cum autem uenerit ille Spiritus ueritatis, do 
+          <lb ed="#B1" n="25"/>cebit uos omnem ueritatem, Glossa. supple necessariam ad salutem. Est autem 
+          <lb ed="#B1" n="26"/>sapientia doctrix per scientiam, Sap. 6. Doctrix est enim discipline DEI &amp; ele 
+          <lb ed="#B1" n="27"/>ctrix operum illius. Secundo sapientia est doctrix per prudentiam. Est enim pru 
+          <lb ed="#B1" n="28"/>dentia recta ratio agibilium. Vnde ad prudentem pertinet bene consiliari cir 
+          <lb ed="#B1" n="29"/>ca totam uitam hominis, &amp; bene eligere: quia sine prudentia nullus potest ha 
+          <lb ed="#B1" n="30"/>bere uirtutem moralem, sicut docet Arist. 6. Ethi. Et quantum ad hoc dicit 
+          <lb ed="#B1" n="31"/>Salomon de sapientia: Deducet me (inquit) in operibus meis sobrie: id est, men 
+          <lb ed="#B1" n="32"/>surate, secundum mensuram rectae rationis. Dicitur autem sobrius a se &amp; bria, 
+          <lb ed="#B1" n="33"/>quasi secum habens briam: id est, mensuram, &amp; ebrius quasi extra briam. Ter 
+          <lb ed="#B1" n="34"/>tio sapientia est defensatrix per potentiam. Et quantum ad hoc subdit: Et custo  
+          <lb ed="#B1" n="35"/>diet me in sua potentia ab omni aduersitate, uidelicet ne uitiose succumbam., 
+          <lb ed="#B1" n="36"/>In Psalm. Dominus custodit te ab omni malo. Quarto sapientia est media trix  
+          <lb ed="#B1" n="37"/>per amicitiam. Et quantum ad hoc subdit: Et erunt accepta opera mea. Istud pro 
+          <lb ed="#B1" n="38"/>prie facit homini CHRISTVS, qui est sapientia DEI Patris. Nam per meritum 
+          <lb ed="#B1" n="39"/>CHRISTI omnia opera nostra bona siunt DEO accepta, ad Titum 2. Dedit  
+          <lb ed="#B1" n="40"/>semetipsum pro nobis, ut nos redimeret ab omni iniquitate, &amp; mundaret sibi 
+          <!--sap_Page_443.xml-->
+          <pb ed="#B1" n="409"/>
+          <lb ed="#B1" n="1"/>populum acceptabilem, bonorum operum sectatorem. Quinto sapientia est 
+          <lb ed="#B1" n="2"/>moderatrix per iusticiam. Facit enim hominem iuste regere subiectos. Et quan  
+          <lb ed="#B1" n="3"/>tum ad hoc subiungit sic: Disponam populum tuum iuste. Notanter dicit, popu 
+          <lb ed="#B1" n="4"/>lum titum, non meum. Quando homines bene uiuunt, tunc Dominus uocat  
+          <lb ed="#B1" n="5"/>eos populum suum, quando male, tunc sunt populi hominum. Vnde DEVS 
+          <lb ed="#B1" n="6"/>legitur signanter dixisse Moysi. Exod. 32. quando filij Israel fecerant sibi uitu 
+          <lb ed="#B1" n="7"/>lum conflatilem, Moyse existente cum Domino in monte: uade, descende, pec 
+          <lb ed="#B1" n="8"/>cauit populus tuus, quem eduxi de terra Aegypti. Quando uero homines be 
+          <lb ed="#B1" n="9"/>ne se habent, tunc sunt populi DEI. In Psalm. Attendite popule legem meam  
+          <lb ed="#B1" n="10"/>inclinate aurem uestram in uerba oris mei. Pinaliter ergo in litera infert Salo 
+          <lb ed="#B1" n="11"/>mon ex his omnibus conclusionem istam: Et ero dignus sedium patris mei, qua 
+          <lb ed="#B1" n="12"/>si dicat: Si sic mihi concesseris sapientiam, quam imploro, ero dignus regia se 
+          <lb ed="#B1" n="13"/>de, quam tenuit pater meus Dauid in regno praesenti: &amp; sedibus patris mei, 
+          <lb ed="#B1" n="14"/>per remunerationem futuram in regno coelesti.
+        </p>
+        <p xml:id="rhwis-l122-d1e223">
+          <lb ed="#B1" n="15"/>Deducet me in operibus meis sobrie.] Notandum est quod triplex in Scriptu 
+          <lb ed="#B1" n="16"/>ra sacra inuenitur sobrietas necessaria uirtuoso. Debet enim virtuosus habe  
+          <lb ed="#B1" n="17"/>re talem, ut sit scientia sine praesumptione in parte intellectiua: ut sit continen 
+          <lb ed="#B1" n="18"/>tia sine dissolutione in parte sensitiua: ut sit abstinentia sine ingurgitatione in 
+          <lb ed="#B1" n="19"/>parte nutritiua 
+        </p>
+        <p xml:id="rhwis-l122-d1e236">
+          <lb ed="#B1" n="20"/>Primo ergo necessaria est uirtuoso sobrietas in scientialibus, ut sit scientia 
+          <lb ed="#B1" n="21"/>sine praesumptione. Et hanc suadet Apostoluslad Romanos 12. Dico enim 
+          <lb ed="#B1" n="22"/>per gratiam, quae data est mihi, omnibus, quae sunt inter uos non plus sapere 
+          <lb ed="#B1" n="23"/>quam oportet, sed sapere ad sobrietatem. Senec. ad Lucillum Epistola 125. &amp;  
+          <lb ed="#B1" n="24"/>est ultima ad Lucillum: Plus scire uelle, quam sit satis, intemperantiae genus 
+          <lb ed="#B1" n="25"/>est, &amp; Epistola decimanona, dicit sic: Quemadmodum aliarum rerum, ita lite 
+          <lb ed="#B1" n="26"/>rarum intemperantia laboramus, non uitae, sed scholae discimus. Non faciunt  
+          <lb ed="#B1" n="27"/>istae doctrinae bonos, sed doctos. Et subdit: Paucis enim satis est: id est, contin 
+          <lb ed="#B1" n="28"/>git ad mentem bonam paucis uti literis.. Huius autem sobrietatis contra 
+          <lb ed="#B1" n="29"/>rium est ebrietas praesumptionis, qua aliquis sententiam sui proprij sensus ni 
+          <lb ed="#B1" n="30"/>mis approbat, &amp; eam praeponderat sententijs meliorum. Talis autem praesum 
+          <lb ed="#B1" n="31"/>ptuosi hominis signa docet Bernhardus libro suo de 12. gradibus humilita 
+          <lb ed="#B1" n="32"/>tis. Et loquitur de monacho praesumptuoso dicens: Primus (inquit) in con 
+          <lb ed="#B1" n="33"/>uentu residet, in consilijs primus respondet, non uocatus accedit, non iussus 
+          <lb ed="#B1" n="34"/>se intromittit, reordinat ordinata, reficit facta: quidquid ipse non fecit, aut non  
+          <lb ed="#B1" n="35"/>ordinauit, aut non recte factum, nec pulchre aestimat ordinatum. Iudicat iu 
+          <lb ed="#B1" n="36"/>digantes, praeiudicat iudicaturis. Haec ibi. Huiusmodi conditiones docet 
+          <lb ed="#B1" n="37"/>Aristoteles 7. Ethicorum cap. 13. Vbi dicit quod quidam sunt nimis imman 
+          <lb ed="#B1" n="38"/>siui propriae opinioni, &amp; sunt ita pertinaces, quod nullo modo a suis opinioni 
+          <lb ed="#B1" n="39"/>bus auelluntur. Et tales uocat ibidem Graece * Ischyrognomones abfls  
+          <lb ed="#B1" n="40"/>chyron quod est fortis, &amp; * gnome quod est cognitio, quasi fortiter suae opi 
+          <lb ed="#B1" n="41"/>nioni uel cognitioni intendens. Et istis attribuit quatuor conditiones. Pri 
+          <lb ed="#B1" n="42"/>mo quod se habent ad continentem, sicut prodigus ad liberalem, &amp; audax ad  
+          <lb ed="#B1" n="43"/>fortem. Continens enim apud Aristotelem uocatur, qui contra omnes pas  
+          <lb ed="#B1" n="44"/>siones manet fixus in uirtute, secundum rectam rationem, semper immobilis: 
+          <lb ed="#B1" n="45"/>ischyrognomon autem hoc habet tantum de continente, quod manet im 
+          <lb ed="#B1" n="46"/>mobilis, &amp; immobiliter adhaeret. Hoc autem non est uirtuosum secundum se, 
+          <lb ed="#B1" n="47"/>sed quando fit secundum rectam rationem. Vnde sicut prodigus excedit li  
+          <lb ed="#B1" n="48"/>beralem: quia datplus quam oportet: Ita iste praesumptuosus excedit constan 
+          <lb ed="#B1" n="49"/>tem uirtuose, quem uocat philosophus continentem: quia adhaeret plus quam 
+          <lb ed="#B1" n="50"/>oportet fensui suo proprio. Secundo dicit Aristoteles de talibus quod sunt in 
+          <lb ed="#B1" n="51"/>disciplinati: quia nolunt ab aliquo instrui. Tertio sunt agrestes: quia cum 
+          <lb ed="#B1" n="52"/>semper uelint sequi proprium sensum, non possunt de facili commorari cum 
+          <lb ed="#B1" n="53"/>alijs hominibus, &amp; necesse habent fieri solitarij, &amp; parum communicantes 
+          <!--sap_Page_444.xml-->
+          <pb ed="#B1" n="410"/>
+          <lb ed="#B1" n="1"/>cum alijs. Omnis enim homo qui uult amicabiliter cum alijs conuersari, debet  
+          <lb ed="#B1" n="2"/>se eis multipliciter conformare. Vnde cum Alexander regnum Persarum es  
+          <lb ed="#B1" n="3"/>set adeptus, statim relicta formaMacedonum in habitu &amp; uestitu conformauit  
+          <lb ed="#B1" n="4"/>se Persis, ut sic eorum beneuolentiam concaptaret. Omnis enim singularis sit 
+          <lb ed="#B1" n="5"/>eo ipso odiosus. Et ideo benem dicit Salustius, sicut Albertus 4. politicorum reci 
+          <lb ed="#B1" n="6"/>tat istos uersus: 
+          <lb ed="#B1" n="7"/>Consulo quisquis eris qui pacis faedera quaeris, 
+          <lb ed="#B1" n="8"/>consonus esto lupis, cum quibus esse cupis. 
+          <lb ed="#B1" n="9"/>Haec est ergo fobrietas primo modo dicta scientia sine praesumptione in parte 
+          <lb ed="#B1" n="10"/>intellectiua. 
+        </p>
+        <p xml:id="rhwis-l122-d1e338">
+          <lb ed="#B1" n="11"/>Secundo est continentia sine dissolutione in parte sensitiua, &amp; ista sobrietas 
+          <lb ed="#B1" n="12"/>est ordinata modestia sensuum exteriorum, ut nihil uagae mentis appareat, ni 
+          <lb ed="#B1" n="13"/>hil libidinosum, sed totum sit religiosum Et huius contrarium est ebrietas dis  
+          <lb ed="#B1" n="14"/>solutionis, quae est uia insolentis gestus, &amp; ornatus in homine exteriori. Istam  
+          <lb ed="#B1" n="15"/>sobrietatem in gestu morum Apostolus prima Timoth secundo, notat, ubi 
+          <lb ed="#B1" n="16"/>dicit sic: Volo uiros orare in omni loco leuantes manus puras sine ira &amp; disce 
+          <lb ed="#B1" n="17"/>ptatione. Similiter &amp; mulieres in habituornato cum uerecundia &amp; sobrieta 
+          <lb ed="#B1" n="18"/>te. De ista sobrietate dicit Augustin. in regula: In omnibus moribus uestris ni 
+          <lb ed="#B1" n="19"/>hil fiat, quod cuiquam offendat aspectum, sed quod uestram deceat sanctita 
+          <lb ed="#B1" n="20"/>tem. Et Ambroi. de officijs libro 3 dicit sic: Sermones proferamus libra iu 
+          <lb ed="#B1" n="21"/>sticiae examinatos, ut sit grauitas in sensu, in sermone pondus, atque in uerbis  
+          <lb ed="#B1" n="22"/>modus. Temperantia cordis habeat animi mundiciam, iusticia misericordiam, 
+          <lb ed="#B1" n="23"/>prudentia pace, fortitudo mansuetudinem. Haec Ambr. Ista sobrietate carent  
+          <lb ed="#B1" n="24"/>dissoluti &amp; uoluptuosi iuuenes, quamdiu sunt sani &amp; incolumes, qui propter 
+          <lb ed="#B1" n="25"/>corporis caliditatem &amp; animi leuitatem infra semetipsos non possunt consi 
+          <lb ed="#B1" n="26"/>stere: sed si febre corripiantur per unam hebdomadam uel duas, statim siunt  
+          <lb ed="#B1" n="27"/>sobrij saltem ad tempus. Et ideo fignanter Eccles. 31. dicitur: Infirmitas grauis 
+          <lb ed="#B1" n="28"/>sobriam faci t animam. 
+        </p>
+        <p xml:id="rhwis-l122-d1e380">
+          <lb ed="#B1" n="29"/>Tertio sobrietas est abstinentia sine ingurgitatione in parte nutritiua: Et sic  
+          <lb ed="#B1" n="30"/>de ea loquitur Apostolus consequenter ad Titum 2. Sobrie, &amp; pie &amp; iuste ui  
+          <lb ed="#B1" n="31"/>uamus in hoc seculo. Sobrie ad nosmetipsos: iuste ad proximos: &amp; pie ad 
+          <lb ed="#B1" n="32"/>DEVM &amp; sanctos: De hac sobrietate Gregorius Homel. 37. sobrietas omni 
+          <lb ed="#B1" n="33"/>um uirtutum mater est, &amp; econtra ebrietas mater omnium uitiorum: haec est 
+          <lb ed="#B1" n="34"/>denudatrix omnium secretorum, infatuatrix sensatorum, alligatrix robusto  
+          <lb ed="#B1" n="35"/>rum, &amp; imperatrix flagitorum. 
+        </p>
+        <p xml:id="rhwis-l122-d1e399">
+          <lb ed="#B1" n="36"/>Primo est denudatrix secretorum. Vnde Senec. ad Lucillum, Epistola 84 
+          <lb ed="#B1" n="37"/>Quemadmodum musto ipsa dolia rumpuntur, &amp; omne quod in imo iacet in 
+          <lb ed="#B1" n="38"/>summam partem uasis, uis caloris eructat, sic uino aestuante quidquid in imo 
+          <lb ed="#B1" n="39"/>iacet abditum, effertur &amp; prodit in medium. Et haec estuna causa, quare spe 
+          <lb ed="#B1" n="40"/>cialiter regibus prohibetur uinum, quorum est celare consilia. Nihil est enim 
+          <lb ed="#B1" n="41"/>ita periculosum reipublicae sicut ebrietas in rege. A tali nanque principe ultio 
+          <lb ed="#B1" n="42"/>nes indebitae &amp; praecipites irrogantur, consultationes acceptae in iniuriam alio  
+          <lb ed="#B1" n="43"/>rum incaute reuelantur: Ordinationes concessae &amp; utiles reipublicae retractan 
+          <lb ed="#B1" n="44"/>tur: Et ideo signanter dicitur Proverb. 31. &amp; ulti. Noli regibus, O Lamuel 
+          <lb ed="#B1" n="45"/>noli regibus dare uinum: quia nullum secretum est ubi regnat ebrietas. Nar 
+          <lb ed="#B1" n="46"/>rat Valerius Maximus lib. 6. cap. 2. quod mulier quaedam innocens damna 
+          <lb ed="#B1" n="47"/>ta fuit a Philippo rege Macedonum temulento, quae propriae innocentiae 
+          <lb ed="#B1" n="48"/>conscia clamauit: Provocarem (inquit) a rege Philippo ebrio ad eundem, so 
+          <lb ed="#B1" n="49"/>brium si esset. Quo uerbo excussit regi ebrietatem, qui causam sobrius di 
+          <lb ed="#B1" n="50"/>ligenter inspexit &amp; mulierem liberam a poena dimisit. in signum uero quod  
+          <lb ed="#B1" n="51"/>ebrietas est denudatrix secretorum legimus Genesis 9 quod Noe primo  
+          <!--sap_Page_445.xml-->
+          <pb ed="#B1" n="411"/>
+          <lb ed="#B1" n="1"/>plantauit uineam, &amp; bibens uinum inebriatus est, &amp; cum postea dormiret, iacuit  
+          <lb ed="#B1" n="2"/>denudatus, &amp; a filio proprio derisus est.
+        </p>
+        <p xml:id="rhwis-l122-d1e445">
+          <lb ed="#B1" n="3"/>Secundo ebrietas est infatuatrix sensatorum. Vnde Augustinus in libro ad 
+          <lb ed="#B1" n="4"/>sacras uirgines: In ebrijs nulla ratio, nullum gerendae uitae consilium, non ge 
+          <lb ed="#B1" n="5"/>storum aut lectionum memoria, nec ulla artium aut industriae prouidentia: Et  
+          <lb ed="#B1" n="6"/>ideo nullus de sua confidat scientia, si ebrietati succumbat. Esa. 28. Sacerdos 
+          <lb ed="#B1" n="7"/>&amp; propheta nescierunt prae ebrietate, absorpti sunt a uino, errauerunt in ebrieta 
+          <lb ed="#B1" n="8"/>te. Et ideo in antiqua lege sacerdotibus fuit prohibitum ne biberent uinum, 
+          <lb ed="#B1" n="9"/>quando ingressuri erant tabernaculum ad ministrandum, Leui. 10. Vinum &amp; 
+          <lb ed="#B1" n="10"/>omne quod inebriare potest non bibetis, tu &amp; filij tui, quando intrabitis in ta 
+          <lb ed="#B1" n="11"/>bernaculum testimonii. 
+        </p>
+        <p xml:id="rhwis-l122-d1e467">
+          <lb ed="#B1" n="12"/>Tertio ebrietas est alligatrix fortium, uel robustorum. Facit enim dehomi 
+          <lb ed="#B1" n="13"/>ne bestiam, de robusto infirmum, de prudente insanum. Exemplum de Holo 
+          <lb ed="#B1" n="14"/>ferne fortissimo, quem nimia ebrietate sopitum, Iudith uidua gladio proprio 
+          <lb ed="#B1" n="15"/>interemit, Iudith 13. Exemplum habemus de Alexandro, de quo dicit Sene 
+          <lb ed="#B1" n="16"/>ca Epistola 84. quod eum in tot praelijs inuictum intemperantia bibendi de 
+          <lb ed="#B1" n="17"/>uicit, &amp; ille Herculianus ac fatalis cyphus submersit. Propter hoc philosophi 
+          <lb ed="#B1" n="18"/>ueteres, sicut dicit Pap. uinum vocabant uenenum. Sed postquam inuentum 
+          <lb ed="#B1" n="19"/>est uirus lethiferi succi: hoc uinum, illud uvenenum dictum est. Et infra: Vinum 
+          <lb ed="#B1" n="20"/>(inquit) sobrie potatum sanitatem dat, &amp; auget prudentiam, immoderate sum 
+          <lb ed="#B1" n="21"/>ptum ad uitia causas praestat. DEVS enim creaturam dedit, abundantiam au 
+          <lb ed="#B1" n="22"/>tem humano arbitrio reseruauit, ut parsimonia naturae esset in magisterio so 
+          <lb ed="#B1" n="23"/>brietatis: abundantiae uitium, lapsumque temulentium sibi ascriberet humana 
+          <lb ed="#B1" n="24"/>conditio. 
+        </p>
+        <p xml:id="rhwis-l122-d1e498">
+          <lb ed="#B1" n="25"/>Quarto ebrietas est imperatrix flagitorum. Vt probatira, arma, &amp; ictus: 
+          <lb ed="#B1" n="26"/>libido, uerba, &amp; tactus: tunc ardor nimius, pudor nullus. Exemplum habemus 
+          <lb ed="#B1" n="27"/>de Loth Gen. 21. qui per ebrietatem cum utraque filia commisit incoestum, 
+          <lb ed="#B1" n="28"/>Exemplum quo ad iram de Alexandro Magno, qui amicum sibi charissimum 
+          <lb ed="#B1" n="29"/>atque fidelissimum inter epulas cultello transfodit. Et intellecto facinore mo 
+          <lb ed="#B1" n="30"/>ri uoluit. Voluit enim seipsum interficere, nisi ab amicis suis praeuentus fuisset.  
+          <lb ed="#B1" n="31"/>Rusticus quidam inebriatus redit domum, &amp; de quolibet uno quod uidebat ap  
+          <lb ed="#B1" n="32"/>parebant sibi duo. Considerans ergo duos filios suos, putabat eos esse quatuor.  
+          <lb ed="#B1" n="33"/>Et imponens uxori quod haberet quatuor filios, ipsaque negante: Iussit quod  
+          <lb ed="#B1" n="34"/>se purgaret, &amp; praecepit cultrum: hoc est, uomerem afferri, &amp; poni in ignem, &amp; 
+          <lb ed="#B1" n="35"/>dixit uxori suae quod omnino portaret ferrum ignitum. Illa vtens prudentia 
+          <lb ed="#B1" n="36"/>foeminea, Respondit: quod libenter hoc faceret, si tamen primo ferrum igni 
+          <lb ed="#B1" n="37"/>tum sibi traderet. Ille autem fatuus omnino ignitum ferrum accepit in manibus. 
+          <lb ed="#B1" n="38"/>&amp; excoriauit se pessime, &amp; ad sobrietatem se reduxit, &amp; errorem proprium re 
+          <lb ed="#B1" n="39"/>cognouit continuo. Et ideo signanter dicitur de omnibus talibus Iob. 12. 
+          <lb ed="#B1" n="40"/>Palpabunt quasi in tenebris &amp; non in luce, &amp; errare eos faciet quasi ebrios.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

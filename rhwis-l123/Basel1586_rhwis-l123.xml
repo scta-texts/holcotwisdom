@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 123 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 123 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="412"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l123">
+        <p xml:id="rhwis-l123-d1e95">
+          <!--sap_Page_446.xml-->
+          <pb ed="#B1" n="412"/>
+          <lb ed="#B1" n="1"/>OSTQVAM Salomon deuote supplicauit DEO, pro sapientia 
+          <lb ed="#B1" n="2"/>impetranda, &amp; suae petitionis declarauit utilitatem: In ista parte ite 
+          <lb ed="#B1" n="3"/>rato manifestat suae supplicationis necessitatem. Est autem necessi 
+          <lb ed="#B1" n="4"/>tas maxima ad supplicandum DEO pro sapientia, qua dirigitur i 
+          <lb ed="#B1" n="5"/>gnorantia nostra in agendis. Iuxta illud 2. Paral. 20. Cum ignoremus quid a 
+          <lb ed="#B1" n="6"/>gere debeamus, hoc solum habemus residui, ut oculos nostros dirigamus ad 
+          <lb ed="#B1" n="7"/>te. Istam ergo ignorantiam nostram allegando, ostendit hebetudinem nostram, 
+          <lb ed="#B1" n="8"/>tam in naturalibus, quam supernaturalibus cognoscendis. Licet enim ex co  
+          <lb ed="#B1" n="9"/>gnitione creaturarum assurgere possimus aliqualiter in DEI noticiam, quan  
+          <lb ed="#B1" n="10"/>tum ad multa, uidelicet quod potens, bonus, omnipotens, &amp; clemens est (lux  
+          <lb ed="#B1" n="11"/>ta illud ad Roman. 1. Inuisibilia enim ipsius a creatura mundi per ea quae facta 
+          <lb ed="#B1" n="12"/>sunt, intellecta conspiciuntur) tamen ad euidenter cognoscendum cosilia sua, 
+          <lb ed="#B1" n="13"/>&amp; praecepta, quae uult nos seruare in hac uita, pertingere non possumus sine 
+          <lb ed="#B1" n="14"/>ipsius reuelatione. Et ideo primo ostendit Salomon quantam habemus ad co  
+          <lb ed="#B1" n="15"/>gnoscendum coelestia &amp; supernaturalia difficultatem. Et circa hoc duo fa 
+          <lb ed="#B1" n="16"/>cit: quia primo allegat hominis generalem ignorantiam: Secundo assignat  
+          <lb ed="#B1" n="17"/>tantae ignorantiae causam. Secunda pars ibi: Cogitationes enim mortalium. 
+          <lb ed="#B1" n="18"/>Quantum ad primum dicit sic: Quis enim bominum poterit scire consilium 
+          <lb ed="#B1" n="19"/>DEI Aut quis poterit cogitare quid velit DEVS: quasi diceret, ad hoc 
+          <lb ed="#B1" n="20"/>quod homo consequatur beatitudinem, quae est uita aeterna, &amp; uisio superna 
+          <lb ed="#B1" n="21"/>turalis diuinae essentiae, oportet hominem transire per meritum adimplendo  
+          <lb ed="#B1" n="22"/>aliquo modo diuinam uoluntatem in praeceptis, &amp; consilijs suis. Sed quid  
+          <lb ed="#B1" n="23"/>DEVS consulat &amp; praecipiat non potest homini constare, nisi per reuelationem 
+          <lb ed="#B1" n="24"/>fidei de credendis &amp; agendis: ergo haec reuelatio, quae est uera sapientia, est ho 
+          <lb ed="#B1" n="25"/>mini necessaria: quia nullus homo ex sua naturali cognitione potest scire con 
+          <lb ed="#B1" n="26"/>tilium DEI, nec quid uelit DEVS.
+        </p>
+        <p xml:id="rhwis-l123-d1e158">
+          <lb ed="#B1" n="27"/>Sed sciendum est, quod iste terminus consilium est aequiuocus: quia ali  
+          <lb ed="#B1" n="28"/>quando inquisitio unius uel plurium in rebus dubijs uocatur consilium. Et  
+          <lb ed="#B1" n="29"/>sic loquitur Aristotel. 3. Ethicorum, ubi ostendit quod consilium debet prae 
+          <lb ed="#B1" n="30"/>cedere electionem, &amp; quod omne consiliabile est eligibile. Et sic loquitur To 
+          <lb ed="#B1" n="31"/>bias filio suo: Consilium semper a sapiente perquire, Tob. 4. Et Proverb. 11. 
+          <lb ed="#B1" n="32"/>Salus autem ubi multa consilia. Alio modo uocatur consilium sententia de 
+          <lb ed="#B1" n="33"/>claratiua illis, quod expedit fieri in incertis: Et sicut loquitur Apostolus 1. Co 
+          <lb ed="#B1" n="34"/>rinth. 7. De uirginibus autem praeceptum Domini non habeo. Consilium au 
+          <lb ed="#B1" n="35"/>tem do. Tertio modo uocatur consilium persuasio, ad aliquid agendum, uel 
+          <lb ed="#B1" n="36"/>omittendum. Quarto modo uocatur consilium quodcunque arcanum alteri 
+          <lb ed="#B1" n="37"/>reuelatum.
+        </p>
+        <p xml:id="rhwis-l123-d1e184">
+          <lb ed="#B1" n="38"/>Primo modo non possumus DEO attribuere consilium proprie loquendo, 
+          <lb ed="#B1" n="39"/>sed metaphorice &amp; figuratiue loquendo de DEO more humano: quia in DEO 
+          <lb ed="#B1" n="40"/>nullo modo cadit incertitudo uel dubitatio. Damasc. lib. 1. cap. 22. Non enim 
+          <lb ed="#B1" n="41"/>consiliatur DEVS: ignorantiae enim est consiliari. Et Aristo. 3. Ethic. Consilium 
+          <lb ed="#B1" n="42"/>est de his, quae incerta sunt, &amp; nescitur qualiter eueniant. Et per consequens DEO 
+          <lb ed="#B1" n="43"/>qui est praescius futurorum omnium conuenire non potest. Secundo modo DEO 
+          <lb ed="#B1" n="44"/>maxime conuenit consilium: quia ipse maxime in dubijs nos certificare scit. Ter 
+          <lb ed="#B1" n="45"/>tio modo etiam si &amp; sic distinguamus inter praecepta &amp; consilia DEI. Et quarto  
+          <lb ed="#B1" n="46"/>modo similiter. Allegata ergo ignorantia humana explanatur conuenienter 
+          <!--sap_Page_447.xml-->
+          <pb ed="#B1" n="413"/>
+          <lb ed="#B1" n="1"/>nostrae ignorantiae causa. Et ponitur duplex causa. Videlicet cognoscentis  
+          <lb ed="#B1" n="2"/>debilitas, &amp; cognoscendorum subtilitas. Secunda causa ponitur ibi: Et difficile 
+          <lb ed="#B1" n="3"/>astimamus.
+        </p>
+        <p xml:id="rhwis-l123-d1e217">
+          <lb ed="#B1" n="4"/>Circa primum duo facit: quia primo allegat ignorantiae causam ex parte a 
+          <lb ed="#B1" n="5"/>nimae: secundo ex parte corporis, ibi: Corpus enim quod corrumpitur. Quan 
+          <lb ed="#B1" n="6"/>tum autem ad animam sicut docet Aristot. 2. Metaphysicae: Intellectus noster 
+          <lb ed="#B1" n="7"/>se habet ad intelligentias, &amp; ad manifesta in natura, sicut oculus noctuae ad lu 
+          <lb ed="#B1" n="8"/>men Solis: Et ideo ad tractandum de his, quae supra uires nostras sunt, debemus 
+          <lb ed="#B1" n="9"/>esse timidi. Et hoc est quod dicit: Cogitationes mortalium timidae. Et iterum  
+          <lb ed="#B1" n="10"/>ad illa quae sunt infra nos, circa quae operamur &amp; consiliamur, frequenter ex  
+          <lb ed="#B1" n="11"/>perimur nos decipi, &amp; aliter deuenire quam nos ordinamus. Et ideo non so 
+          <lb ed="#B1" n="12"/>lum sunt cogitationes nostrae infirmae in speculatiuis: sed etiam incerta sunt proui  
+          <lb ed="#B1" n="13"/>dentiae nostrae in practicis. Et ideo docuit nos Ilacobus, quod locuturi de futu  
+          <lb ed="#B1" n="14"/>ris agibilibus a nobis, semper sub conditione dicamus. Si Dominus uoluerit 
+          <lb ed="#B1" n="15"/>faciemus hoc uel illud, Iacob. 4. Ex parte uero corporis duplex surgit diffi 
+          <lb ed="#B1" n="16"/>cultas adquirendi scientiam de DEO, &amp; necessarijs ad salutem. Prima quia 
+          <lb ed="#B1" n="17"/>corpus infectum fomite concupiscentiae, corrumpit affectum animae, &amp; facit 
+          <lb ed="#B1" n="18"/>animam ad surgendum ad spiritualia grauem. Et ideo dicit: Corpus quod cor 
+          <lb ed="#B1" n="19"/>rumpitur, aggrauat animam. Secundo quia solicitudo circa necessaria corporis. 
+          <lb ed="#B1" n="20"/>&amp; ista temporalia deprimit sensum hominis cogitantis multa, &amp; reddit eum dis  
+          <lb ed="#B1" n="21"/>tractum a studio &amp; scientia adquirenda. Et ideo subdit: Et deprimit terrena in 
+          <lb ed="#B1" n="22"/>habitatio: id est, occupatio circa terrena, corpori necessatia, sensum: id est, intel 
+          <lb ed="#B1" n="23"/>lectum, multa cogitantem.
+        </p>
+        <p xml:id="rhwis-l123-d1e263">
+          <lb ed="#B1" n="24"/>Corpus quod corrumpitur aggrauat animam.] Nota quod corpus post. 
+          <lb ed="#B1" n="25"/>peccatum, animae alligatur in triplex officium: habet enim anima corpus si 
+          <lb ed="#B1" n="26"/>cut instrumentum in adiutorium ad seruiendum. Secundo sicut indu 
+          <lb ed="#B1" n="27"/>mentum uel opertorium ad se tegendum. Tertio habet anima corpus si 
+          <lb ed="#B1" n="28"/>cut sibi coniunctum &amp; datum sicut detrimentum, uel afflictorium ad pu 
+          <lb ed="#B1" n="29"/>niendum.
+        </p>
+        <p xml:id="rhwis-l123-d1e280">
+          <lb ed="#B1" n="30"/>Primo dico quod anima habet corpus sibi coniunctum sicut instrumen 
+          <lb ed="#B1" n="31"/>tum in adiutorium ad seruiendum. Vnde Aristoteles primo Politicorum, 
+          <lb ed="#B1" n="32"/>ait: Animal constat ex anima &amp; corpore: quorum hoc quidem principa 
+          <lb ed="#B1" n="33"/>lius est a natura, scilicet anima: hoc autem subiectum puta corpus. In ho 
+          <lb ed="#B1" n="34"/>mine autem bene disposito corpus est sicut seruus &amp; anima principans &amp; 
+          <lb ed="#B1" n="35"/>dominans. Sed in homine pestilente corpus dominatur, &amp; anima famulatur.
+        </p>
+        <p xml:id="rhwis-l123-d1e296">
+          <lb ed="#B1" n="36"/>Est autem secundum eum ibidem duplex principatus: uidelicet, t despoti 
+          <lb ed="#B1" n="37"/>cus siue seruilis, &amp; politicus siue regalis. Anima enim principatur corpo  
+          <lb ed="#B1" n="38"/>ri principatu despotico: &amp; est talis principatus quando subiectum non ha 
+          <lb ed="#B1" n="39"/>bet potentiam resistendi principanti. Sed intellectus principatur appetitui po 
+          <lb ed="#B1" n="40"/>litico principatu: quia appetitus habet interdum potentiam resistendi ratio 
+          <lb ed="#B1" n="41"/>ni. Patet ergo secundum eum quod corpus naturaliter est seruilis conditio 
+          <lb ed="#B1" n="42"/>nis, &amp; anima liberae conditionis: Et quia seruus delicate nutritus proteruit in 
+          <lb ed="#B1" n="43"/>dominum: Iuxta illud Proverbiorum uigesimonono: Qui delicate a pueritia 
+          <lb ed="#B1" n="44"/>nutrit seruum suum, sentiet eum postea contumacem. Ideo statim a pueritia de 
+          <lb ed="#B1" n="45"/>bet seruus iste domari, &amp; in seruitutem redigi. Et hoc satis aduertit Apo 
+          <lb ed="#B1" n="46"/>stolus, quando dicit: Castigo corpus meum, &amp; in seruitutem redigo, ne cum 
+          <lb ed="#B1" n="47"/>alijs praedicauerim ipse reprobus efficiar, primae Corinthiorum nono: Ser 
+          <lb ed="#B1" n="48"/>uitus autem secundum iura si sit occulta, impedit matrimonium contractum 
+          <lb ed="#B1" n="49"/>cum libera. Vnde si seruus dicat se ingenuum, &amp; contrahit cum libera, &amp; ipsa 
+          <lb ed="#B1" n="50"/>postea perpendit se esse deceptam, potest agere ad diuortium, &amp; obtinebit  
+          <lb ed="#B1" n="51"/>22. quaestione secunda capitu. Si foemina ingenua. Moraliter loquendo 
+          <lb ed="#B1" n="52"/>seruus est corpus nostrum, quod fingit se liberum &amp; nobilem, &amp; iactat totum 
+          <lb ed="#B1" n="53"/>mundum esse suum, &amp; propter se ordinatum, &amp; ideo parificare se praesumit 
+          <!--sap_Page_448.xml-->
+          <pb ed="#B1" n="414"/>
+          <lb ed="#B1" n="1"/>rationi, quae est domina sua, &amp; ingerit se ad matrimonium per quandam aequa 
+          <lb ed="#B1" n="2"/>litatem cum ratione contrahendum: sed certe ratio debet aduertere, &amp; ipsum 
+          <lb ed="#B1" n="3"/>repellere, sicut non maritum suum 1. Corinthiorum 7. Nonne est seruituti 
+          <lb ed="#B1" n="4"/>subiectus frater uel soror huiusmodi: More ergo serui debet corpus nostrum 
+          <lb ed="#B1" n="5"/>tractari.
+        </p>
+        <p xml:id="rhwis-l123-d1e353">
+          <lb ed="#B1" n="6"/>Quis uero sit modus tractandi seruum, dicitur Ecclesiastici trigesimoter 
+          <lb ed="#B1" n="7"/>tio: Panis &amp; disciplina &amp; opus seruo. Tria enim sibi conueniunt: uideli  
+          <lb ed="#B1" n="8"/>cet educatio, quia panis: Castigatio, quia disciplina: Occupatio, quia o 
+          <lb ed="#B1" n="9"/>pus. Educatio sibi debetur talis temperamenti, ne superbiat, &amp; ne succum 
+          <lb ed="#B1" n="10"/>bat. Vnde Gregorius super Excechielem secunda parte, Homelia septima: 
+          <lb ed="#B1" n="11"/>Si plus corpori quam debeamus tribuimus, hostem nutrimus. Et si neces  
+          <lb ed="#B1" n="12"/>sitati illius quae debemus non reddimus, ipsum nostrum conciuem neca 
+          <lb ed="#B1" n="13"/>mus. Haec ille. Ex quo ergo corpus naturaliter seruus est, &amp; subiectum 
+          <lb ed="#B1" n="14"/>spiritui, quanta utilitas est huic seruo seruire. De hoc Seneca Epistola qua 
+          <lb ed="#B1" n="15"/>dragesima nona. Fateor (inquit) insitam nobis nostri corporis charitatem: Fa 
+          <lb ed="#B1" n="16"/>teor nos huiusmodi gerere tutelam, non nego indulgendum, illi seruien 
+          <lb ed="#B1" n="17"/>dum nego. Multis enim seruiet, qui corpori seruit, qui pro illo nimium ti 
+          <lb ed="#B1" n="18"/>met, qui ad illud omnia refert: honestum ei uile est, cui corpus nimis cha 
+          <lb ed="#B1" n="19"/>rum est. Sit ergo primo corpus Spiritui sicut instrumentum in adiutorium ad 
+          <lb ed="#B1" n="20"/>seruiendum.
+        </p>
+        <p xml:id="rhwis-l123-d1e388">
+          <lb ed="#B1" n="21"/>Secundo corpus datum est animae sicut indumentum uel opertorium ad te 
+          <lb ed="#B1" n="22"/>gendum, Iob. 10. Pelle &amp; carne uestisti me, ossibus &amp; neruis compegisti me: 
+          <lb ed="#B1" n="23"/>De hoc Seneca Epist. 4. Corpus naturaliter ut quandam uestem animae circum 
+          <lb ed="#B1" n="24"/>dedit, &amp; uelamentum est eius. Quis enim per uestimentum aestimauit aliquem, 
+          <lb ed="#B1" n="25"/>nec bonum nec malum gladium uagina facit: Ita nec bona corporis bonum 
+          <lb ed="#B1" n="26"/>hominem. Haec Seneca
+        </p>
+        <p xml:id="rhwis-l123-d1e404">
+          <lb ed="#B1" n="27"/>De indumentis autem notandum, quae domini distribuunt famulis suis, 
+          <lb ed="#B1" n="28"/>duo uidelicet. Vnum est quod dominus, qui datannuatim duplicem libra 
+          <lb ed="#B1" n="29"/>tam, unam pro hyeme, &amp; aliam pro honestate: sic solet ordinare, quod illali  
+          <lb ed="#B1" n="30"/>brata quae seruiet pro hyeme fiat de panno grossiori: llla uero de subtiliori, 
+          <lb ed="#B1" n="31"/>quae seruiet in aestate. Moraliter totum tempus nostrum diuidetur in duas par 
+          <lb ed="#B1" n="32"/>tes: hyemem &amp; aestatem: hyems est uita praesens: aestas erit uita futura. Do 
+          <lb ed="#B1" n="33"/>minus autem noster daturus est nobis duplicem libratam: unam robam acci 
+          <lb ed="#B1" n="34"/>pimus pro hyeme huius uitae, &amp; ideo est rudi de panno. Corpus enim no 
+          <lb ed="#B1" n="35"/>strum si modo aduertimus de turpi materia uel rudi est facta, &amp; tamen satis 
+          <lb ed="#B1" n="36"/>sufficit pro hyeme huius uitae. Hebr. 10. <quote xml:id="rhwis-l123-Qd1e427" source="http://scta.info/resource/hebr10_5">Corpus autem aptasti mihi</quote>: idest, 
+          <lb ed="#B1" n="37"/>aptum dedisti conueniens tempori in quo uiuo: secunda librata, quam ha 
+          <lb ed="#B1" n="38"/>bebimus in paschate uitae futurae: id est, in resurrectione generali, est de pan 
+          <lb ed="#B1" n="39"/>no subtili: erit enim corpus nostrum sabtile contra grossiciem: clarum con 
+          <lb ed="#B1" n="40"/>tra opacitatem: agile contra grauitatem: &amp; impassibile contra mortalita 
+          <lb ed="#B1" n="41"/>tem, primae Corinthiorum decimoquinto: Seminatur corpus animale, sur 
+          <lb ed="#B1" n="42"/>get corpus spiritale. Dat ergo Dominus noster duplicem libratam, secun 
+          <lb ed="#B1" n="43"/>dum congruentiam temporum diuersorum. Secundo uidemus in istis fa 
+          <lb ed="#B1" n="44"/>milijs &amp; curijs quod boni armigeri robas duplices percepturi, non parcunt  
+          <lb ed="#B1" n="45"/>in hyeme a laboribus, lacerant robas nunc in pluuijs, in niuibus, in igni 
+          <lb ed="#B1" n="46"/>bus, ubicunque Domino placuerit: Ratio est dicta: quia sciunt se nouas ro 
+          <lb ed="#B1" n="47"/>bas in paschate percepturos. Consimili modo moraliter boni Christiani 
+          <lb ed="#B1" n="48"/>non parcunt ab operibus poenitentiae corporibus suis: uigilant, ieiunant,  
+          <lb ed="#B1" n="49"/>&amp; uarijs poenitentijs lacerant, uel macerant corpus suum. Et quare hoc: Cer 
+          <lb ed="#B1" n="50"/>te quia nouas robas expectant in resurrectione, quando uestientur spiri 
+          <lb ed="#B1" n="51"/>tus corporibus suis gloriosis, ad Philippenses tertio: Saluatorem expectamus 
+          <lb ed="#B1" n="52"/>Dominum nostrum IESVM CHRISTVM, qui reformabit corpus hu 
+          <lb ed="#B1" n="53"/>militatis nostrae configuratum corpori claritatis suae. Item notandum 
+          <!--sap_Page_449.xml-->
+          <pb ed="#B1" n="415"/>
+          <lb ed="#B1" n="1"/>quod inter indumenta quaedam sunt uestes &amp; arma, &amp; quaedam sunt uestes 
+          <lb ed="#B1" n="2"/>tantum &amp; non arma. In uestibus &amp; armis fiunt quaedam signa de picturis &amp; 
+          <lb ed="#B1" n="3"/>coloribus. Et consueuerunt reges iuuenes &amp; principes militare in ludis mili  
+          <lb ed="#B1" n="4"/>taribus in armis non notis, nec in armis quae postea debent deferri, sed in armis  
+          <lb ed="#B1" n="5"/>ignotis ad uoluntatem eorum. Quando autem tales principes exercitium ar 
+          <lb ed="#B1" n="6"/>morum in talibus ludis dimittunt, tunc solent dare alicui armigero illa arma 
+          <lb ed="#B1" n="7"/>consecrando eum in statu militari, &amp; id cedit ad honorem notabilem talis armi 
+          <lb ed="#B1" n="8"/>geri, quod possit arma portare domini sui, quibus usus est in sua militia iuue 
+          <lb ed="#B1" n="9"/>nili: Moraliter Dominus noster DEI Filius CHRISTVS militauit in cruce,  
+          <lb ed="#B1" n="10"/>arma habuit de argento albissimo carnis suae, quinque rosis rubeis distincto, quae 
+          <lb ed="#B1" n="11"/>sunt quinque uulnera corpori illi facro impressa: princeps iste ludum talem ar 
+          <lb ed="#B1" n="12"/>morum sua resurrectione dimisit: quia CHRISTVS resurgens ex mortuis, iam  
+          <lb ed="#B1" n="13"/>non moritur: mors illi ultra non dominabitur, Roman. 6. Sed homini tanquam 
+          <lb ed="#B1" n="14"/>armigero multum dilecto contulit arma illa, &amp; militem fecit eum Dominus, ut  
+          <lb ed="#B1" n="15"/>patet per Apostolum 2. Timoth. 2. Labora sicut bonus miles CHRISTI. Et  
+          <lb ed="#B1" n="16"/>honorificum debet esse homini multum, scilicet memoriter recogitandi: si in 
+          <lb ed="#B1" n="17"/>iusta corporaliter tolerando, portare ualeat arma CHRISTI: &amp; ideo de istis 
+          <lb ed="#B1" n="18"/>armis bene gloriabatur ille, qui dicit Gal. 6. Stigmata Domini nostri IES 
+          <lb ed="#B1" n="19"/>CHRISTI in corpore meo porto. Et ideo scribitur 1. Corinth. 6. Empti estis  
+          <lb ed="#B1" n="20"/>precio magno, glorificate &amp; portate DEVM in corpore uestro.
+        </p>
+        <p xml:id="rhwis-l123-d1e516">
+          <lb ed="#B1" n="21"/>Tertio corpus est datum animae sicut detrimentum, &amp; afflictorium ad puni 
+          <lb ed="#B1" n="22"/>endum. Et hoc est uerum secundum tempus naturae lapsae. Ex quo enim ra 
+          <lb ed="#B1" n="23"/>tio mentis humanae subtraxit DEO obedientiam, quam debebat: subtracta 
+          <lb ed="#B1" n="24"/>est animae illa obedientia, quam sibi corpus exhibebat, &amp; coeperunt passiones 
+          <lb ed="#B1" n="25"/>mortis &amp; corruptionis affligere animam, in corpore habitantem, in tantum, 
+          <lb ed="#B1" n="26"/>quod clamare compellebatur Apostolus ad Roman. 7. Infelix ego sum, quis  
+          <lb ed="#B1" n="27"/>liberabit me de corpore mortis huius. Vnde Seneca Epistola cap. 1. Corpus 
+          <lb ed="#B1" n="28"/>hoc animae pondus est, &amp; poena. Praemente illo, urget, &amp; in uinculis est &amp; i 
+          <lb ed="#B1" n="29"/>fra: Maior sum, &amp; ad maiora genitus, quam ut mancipium sim corporis mei: 
+          <lb ed="#B1" n="30"/>quod equidem non aliter aspicio, quam uinculum aliquod libertati meae cir 
+          <lb ed="#B1" n="31"/>cumdatum: Haec Senec. Et de hoc notabiliter loquitur Epistola 44. Admi 
+          <lb ed="#B1" n="32"/>ror dementiam nostram, quod tanto tempore amamus rem fugitissimam cor 
+          <lb ed="#B1" n="33"/>pus nostrum, timemus quam ne quando moriamur, cum omne momentum mors 
+          <lb ed="#B1" n="34"/>sit prioris habitus. Vis tu timere ne semel fiat, quod quotidie fit. Et ideo si 
+          <lb ed="#B1" n="35"/>gnanter dicit hic: Corpus quod corrumpitur, non quod corrumpetur. Corrupta 
+          <lb ed="#B1" n="36"/>est infantia, corrupta est pueritia, corrupta est adolescentia, 2. Regum 14. Om 
+          <lb ed="#B1" n="37"/>nes morimur, &amp; quasi aquae dilabimur in terram, quae non reuertetur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

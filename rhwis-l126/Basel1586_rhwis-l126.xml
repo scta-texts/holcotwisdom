@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 126 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 126 [Basel Transcription]</title>
+          <date when="2019-12-08">December 08, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-08" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="422"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l126">
+        <p xml:id="rhwis-l126-d1e95">
+          <lb ed="#B1" n="38"/>POSTQVAM Salomon declarauit gubernationem tam utilem quam 
+          <lb ed="#B1" n="39"/>mirabilem, quam exercuit sapientia increata circa personam ipsius 
+          <lb ed="#B1" n="40"/>Adae, quem mirabiliter in agro Damasceno creauit, &amp; in Paradiso 
+          <lb ed="#B1" n="41"/> uenerabiliter collocauit, &amp; a peccato finaliter liberauit: hic prose
+          <!--sap_Page_457.xml-->
+          <pb ed="#B1" n="423"/>
+          <lb ed="#B1" n="1"/>quitur de sapientiae gubernatione, quam fecit circa personam ipsius Noe. Vbi 
+          <lb ed="#B1" n="2"/>sciendum quod sicut scribitur Gen. 6. Tempore Noë tanta fuit hominum ma 
+          <lb ed="#B1" n="3"/>litia, quod omnis caro corruperat uiam suam, ordinauitque DEVS per diluuium  
+          <lb ed="#B1" n="4"/>dissipare totum genus humanum, exceptis octo personis, quae fuerunt de fa 
+          <lb ed="#B1" n="5"/>milia Noe: scilicet ipso Noë cum uxore sua, &amp; tribus filijs suis, Sem, Cham &amp; la 
+          <lb ed="#B1" n="6"/>phet, &amp; uxoribus eorundem. Haec ergo fuit utilissima gubernatio qua sapien 
+          <lb ed="#B1" n="7"/>tia custodiuit Noe, dans sibi praeceptum de arca fabricanda. In quam de singu 
+          <lb ed="#B1" n="8"/>lis speciebus animalium introduxit. Factum est ergo diluuium uniuersale post 
+          <lb ed="#B1" n="9"/>duo millia sexcentos 56. annos ab origine mundi
+        </p>
+        <p xml:id="rhwis-l126-d1e130">
+          <lb ed="#B1" n="10"/>Et quia causa diluuij fuit multiplex malitia Cain &amp; seminis sui: Ideo Spiri 
+          <lb ed="#B1" n="11"/>tus sanctus ostendens quomodo sapientia custodiuit Noë tempore diluuij.  
+          <lb ed="#B1" n="12"/>Litera incipit a primo peccato Cain, qui ab illo primo peccato continuauit ma 
+          <lb ed="#B1" n="13"/>litiam per desperationem, &amp; aliorum peccatorum multiplicationem, tam in se 
+          <lb ed="#B1" n="14"/>quam in filijs suis: donec per diluuium tota illa cognatio perijt ex integro, prae 
+          <lb ed="#B1" n="15"/>ter octo personas, ut dictum est. In hodierna lectione duo siunt: primo narra 
+          <lb ed="#B1" n="16"/>tur Cain malitiosa transgressio: secundo Noe gloriosa liberatio. Secunda pars  
+          <lb ed="#B1" n="17"/>ibi: Propter quod. Dicit ergo primo sic: Ab hac vt recessit iniustus in ira: id est, 
+          <lb ed="#B1" n="18"/>postquam recessit Cain ab hac: id est, sapientia, iniustus in ira sua: id est, per iram  
+          <lb ed="#B1" n="19"/>suam qua voluit interficere fratrem suum per iram homicidij. Fraternitas depe 
+          <lb ed="#B1" n="20"/>riit: id est, cessauit esse fraternitas: quia destructo uno relatiuorum destruitur  
+          <lb ed="#B1" n="21"/>&amp; reliquum. Nec plures adhuc fratres fuerunt, &amp; ideo mortuo Abel fraterni 
+          <lb ed="#B1" n="22"/>tas tota fuit destructa. Vel per iram homicidij fraternitas deperijt: id est, amor &amp; 
+          <lb ed="#B1" n="23"/>gratitudo quae inter fratres debent inueniri. Et bene dicit: quia Cain receden 
+          <lb ed="#B1" n="24"/>do a sapientia incurrit homicidium. Prius enim in ordine naturae homo dimit 
+          <lb ed="#B1" n="25"/>tit DEVM, &amp; recedit ab eo, quam DEVS recedit ab eo per gratiam. Prius e 
+          <lb ed="#B1" n="26"/>nim ordine naturae homo peccat, quam priuatur gratia, licet simul tempore. 
+          <lb ed="#B1" n="27"/>Vnde Bernhar. Duleis IESVS primus est in accessu, &amp; ultimus in recessu, Iob. 
+          <lb ed="#B1" n="28"/>2 1. De peccatoribus dicitur: Dixerunt DEO recede a nobis, scientiam uia 
+          <lb ed="#B1" n="29"/>rum tuarum nolumus. Secundo in ista lectione narratur gloriosa liberatio i 
+          <lb ed="#B1" n="30"/>psius Noe de diluuio generali. Et quantum ad hoc dicit sic: propter quod, scili 
+          <lb ed="#B1" n="31"/>cet peccatum Cain &amp; posteriorum suorum tam imitatione quam generatione, 
+          <lb ed="#B1" n="32"/>Genes. 6. Corrupta est terra coram Domino, &amp; repleta est iniquitate: cum aqua 
+          <lb ed="#B1" n="33"/>deleret terram: id est, cum aqua diluuij deleret homines, &amp; bestias in terra habi  
+          <lb ed="#B1" n="34"/>tantes. Iterum sapientia quae DEVS est, sanauit lauando genus humanum, gu 
+          <lb ed="#B1" n="35"/>bernans iustum, Noe scilicet, Genes. Noe uir iustus atque perfectus in genera 
+          <lb ed="#B1" n="36"/>tionibus suis. De isto Noe dicit Aristot. libro de pomo, ubi dicit quod omnes 
+          <lb ed="#B1" n="37"/>homines in hoc errabant, quod stellas adorauerunt, &amp; corpora coelestia usque  
+          <lb ed="#B1" n="38"/>ad aduentum Noë: Per contemptibile lignum: id est, per arcam &amp; lignis fabrica 
+          <lb ed="#B1" n="39"/>tam, Gen. 6. Fac tibi arcam delignis leuigatis: id est, politis. Et dicitur arca con 
+          <lb ed="#B1" n="40"/>temptibile lignum: quia fortem iudicio nautarum figura arcae fuit ualde rudis. Cir 
+          <lb ed="#B1" n="41"/>ca istam liberationem Noë notanda sunt tria. Primo de diluuij causa: secundo 
+          <lb ed="#B1" n="42"/>de eius duratione uel mora: tertio de arca. Quantum ad causam est sciendum 
+          <lb ed="#B1" n="43"/>quod materia omnis pluuiae est uapor eleuatus a terra &amp; aqua, uirtute Solis, 
+          <lb ed="#B1" n="44"/>qui uapor per calorem Solis immissum sibi, ascendit usque ad locum frigidum, 
+          <lb ed="#B1" n="45"/>ubi frigus occurrens subintrat nubem, &amp; condensatur in aquam. Vnde quan  
+          <lb ed="#B1" n="46"/>do multi uapores eleuantur quos calor Solis non sufficit desiccare, &amp; in mate 
+          <lb ed="#B1" n="47"/>riam digerere in aëre, tunc siunt multae pluuiae: sicut patet in hyeme. Quando  
+          <lb ed="#B1" n="48"/>aut calor Solis est fortis &amp; uapores eleuatos sufficit desiccare, &amp; in aërem dige 
+          <lb ed="#B1" n="49"/>rere, tunc siunt paucae pluuiae: sicut patet in aestate.
+        </p>
+        <p xml:id="rhwis-l126-d1e219">
+          <lb ed="#B1" n="50"/>Dicendum est ergo, quod causa principalis effectiua diluuij fuit DEVS uo 
+          <lb ed="#B1" n="51"/>lens punire peccata generis humani: causa instrumentalis effectiua, Sol: cau 
+          <lb ed="#B1" n="52"/>sa dispositiua demeritorie, homo peccans: causa materialis, uapores multi ele 
+          <lb ed="#B1" n="53"/>uati de terra &amp; aquis: sicut aliarum pluuiarum secundum Aristotel. 2: meteoro 
+          <!--sap_Page_458.xml-->
+          <pb ed="#B1" n="424"/>
+          <lb ed="#B1" n="1"/>rum: Qualiter uero peccata creuerunt, &amp; malicia hominum multiplicata est su 
+          <lb ed="#B1" n="2"/>per terram, narrat Methodius martyr magis in speciali quam Moyses Genens. 6. 
+          <lb ed="#B1" n="3"/>Dicit ergo quod quingentesimo anno primae chiliadis: id est, primi millenarij 
+          <lb ed="#B1" n="4"/>mundi, filij Cain abutebantur uxoribus fratrum suorum nimis fornicationi 
+          <lb ed="#B1" n="5"/>bus. Sexcentesimo uero anno mulieres in uesaniam uersae supergressae uiris  
+          <lb ed="#B1" n="6"/>abutebantur. Quingentesimo autem anno secundae chiliadis inarserunt ho 
+          <lb ed="#B1" n="7"/>mines in alterutrum coëuntes. Septingentesimo filij Seth concupierunt filias 
+          <lb ed="#B1" n="8"/>Cain, &amp; ab eis orti sunt gigantes: quamuis etiam ante hoc gigantes fuerunt se 
+          <lb ed="#B1" n="9"/>cundum beatum August. 15. de Ciuit. DEI. Prohibuerat autem Adam Seth 
+          <lb ed="#B1" n="10"/>&amp; filijs suis quod non cohabitarent, nec matrimonia copularent cum stirpe 
+          <lb ed="#B1" n="11"/>Cain, unde filij Cain habitauerunt in oriente in monte Corban. Filij uero Seth 
+          <lb ed="#B1" n="12"/>habitauerunt circa Damascum. Tenuit autem ista prohibitio uiuente Adam, 
+          <lb ed="#B1" n="13"/>quo mortuo filij Seth contra prohibitionem patris coniunxerunt se filiabus 
+          <lb ed="#B1" n="14"/>Cain propter earum pulchritudinem, &amp; se totaliter libidini mancipauerunt pro 
+          <lb ed="#B1" n="15"/>pter quod diluuium inundauit.
+        </p>
+        <p xml:id="rhwis-l126-d1e267">
+          <lb ed="#B1" n="16"/>Secundo de mora siue duratione diluuij est sciendum, quod eodem die an 
+          <lb ed="#B1" n="17"/>no reuoluto, quo Noe ingressus est arcam eodem die egressus est.
+        </p>
+        <p xml:id="rhwis-l126-d1e274">
+          <lb ed="#B1" n="18"/>Tertio de arca sciendum, quod erat in fundo quadrangularis formae, &amp; non 
+          <lb ed="#B1" n="19"/>quadrata: sed altera parte longior, cuius longitudo fuit 300. cubitorum: lati  
+          <lb ed="#B1" n="20"/>tudo 40. astitudo 30. fundus ab angulis in arcum ascendebat, &amp; summitas e 
+          <lb ed="#B1" n="21"/>ius in cubito consummabatur. In latere uero iuxta fundum habuit ostium, per 
+          <lb ed="#B1" n="22"/>quod homines &amp; animalia ingrediebantur, &amp; cum ingressi essent, Dominus 
+          <lb ed="#B1" n="23"/>clausit illud a foris: &amp; versus summitatem habuit fenestram, quam Hebraei di 
+          <lb ed="#B1" n="24"/>cunt fuisse cristallinam. In ipsa uero arca fuerunt quinque distinctiones secun 
+          <lb ed="#B1" n="25"/>dum Strabum, sex uero secundum Augustinum. Ponit enim Augustinus quod  
+          <lb ed="#B1" n="26"/>immediate supra fundum habuit quoddam spacium uacuum, sicut in naui  
+          <lb ed="#B1" n="27"/>bus contingit, quod spacium dicebatur sentina: &amp; supra illud fuit unum tabu 
+          <lb ed="#B1" n="28"/>latum, &amp; illud secundum tabulatum, &amp; tunc supra illud tectum. Spacium ergo 
+          <lb ed="#B1" n="29"/>immediatum sub tecto diuisit Augustinus in tres partes: spacium sub illo in 
+          <lb ed="#B1" n="30"/>duas partes: &amp; sic secundum Augustinum quinque cameras habuit. Tres su 
+          <lb ed="#B1" n="31"/>periores, duae inferiores: de tribus cameris superioribus media fuit hominum: 
+          <lb ed="#B1" n="32"/>laterales alia * initium auium: alia * initium animalium, De duabus cameris  
+          <lb ed="#B1" n="33"/>inferioribus altera fuit apothecaria, in qua ponebantur cibaria ad esum ho 
+          <lb ed="#B1" n="34"/>minum &amp; animalium: Alia dicebatur stercoraria. Ostium uero ponunt ubi  
+          <lb ed="#B1" n="35"/>bicamerata &amp; tricamerata iungebantur. Alij istas cameras quinque in altitu  
+          <lb ed="#B1" n="36"/>dine disponunt ascendendo: dicentes: Infimam esse sentinam: secundam a 
+          <lb ed="#B1" n="37"/>pothecariam: tertiam * initium animalium: quartam initium auium: quin  
+          <lb ed="#B1" n="38"/>tam hominum. Et isti ponunt ostium in iunctura inter apothecariam, &amp; ini 
+          <lb ed="#B1" n="39"/>tium animalium. Sed de hac materia non plus ad praesens, cum textus ui  
+          <lb ed="#B1" n="40"/>detur esse contra utrosque de collatione ostij, Gen. 6. Ostium areae facies in la 
+          <lb ed="#B1" n="41"/>tere deorsum.
+        </p>
+        <p xml:id="rhwis-l126-d1e330">
+          <lb ed="#B1" n="42"/>Recessit iniustus in ira sua.] Notandum quod ira facit iniuriam DEO, pro 
+          <lb ed="#B1" n="43"/>ximo, &amp; subiecto proprio. Subtrahit enim DEO effectum suae potentiae, proxi 
+          <lb ed="#B1" n="44"/>mo affectum debitae beneuolentiae, proprio subiecto aspectum rationis &amp; in 
+          <lb ed="#B1" n="45"/>telligentiae. Primo ergo subtrahit DEO effectum suae potentiae. Conuenit e 
+          <lb ed="#B1" n="46"/>nim DEO ratione suae potentiae culpas iudicialiter uindicare, bonos speciali  
+          <lb ed="#B1" n="47"/>ter inhabitare, &amp; eis liberaliter sua bona legare. Sed contra ista iniuriatur ira 
+          <lb ed="#B1" n="48"/>cundus, DEO in omnibus: primo aufert a DEO uindictam: quia ira est deor 
+          <lb ed="#B1" n="49"/>dinatus appetitus uindictae. Et DEVS dicit: Mihi uindictam &amp; ego retribuam, 
+          <lb ed="#B1" n="50"/>Roman. 12. Et Deuteron. 32. Mea est ultio, &amp; ego retribuam. DEVS enim 
+          <lb ed="#B1" n="51"/>duo sibi retinuit, gloriam &amp; uindictam: alterum superbus aufert, &amp; alterum i 
+          <lb ed="#B1" n="52"/>racundus, Esa. 48. Gloriam meam alteri non dabo. Secundo iracundus DEO 
+          <lb ed="#B1" n="53"/>iniuriatur: quia expellit eum a quiete suae habitationis, Psalm. Et factus est in 
+          <!--sap_Page_459.xml-->
+          <pb ed="#B1" n="425"/>
+          <lb ed="#B1" n="1"/>pace locus eius. Ira autem turbat pacem, &amp; destruit, Proverbior. 15. Vir ira 
+          <lb ed="#B1" n="2"/>cundus provocat rixas. Et domum, quae tota die moveretur &amp; tremeret, nul  
+          <lb ed="#B1" n="3"/>lus magnus dominus libenter inhabitaret. Tertio DEA iniuriatur impe 
+          <lb ed="#B1" n="4"/>diendo, ne legatum DEI possit stare. Legauit enim DEVS pacem homini 
+          <lb ed="#B1" n="5"/>bus, lohannis decimoquarto: Pacem relinquo uobis, pacem meam do uobis:  
+          <lb ed="#B1" n="6"/>&amp; ideo iracundus tanquam excommunicatus est euitandus, Proverbiorum 
+          <lb ed="#B1" n="7"/>uigesimosecundo: Noli esse amicus homini iracundo, neque ambules cum 
+          <lb ed="#B1" n="8"/>uiro furioso.
+        </p>
+        <p xml:id="rhwis-l126-d1e380">
+          <lb ed="#B1" n="9"/>Secundo principaliter ira subtrahit proximo affectum debitae beneuolen 
+          <lb ed="#B1" n="10"/>tiae. Teneor enim proximi saluare substantiam, famam, &amp; personam: &amp; contra 
+          <lb ed="#B1" n="11"/>ista tria compellit ira ad nocendum proximo: in substantia depraedando, in fa 
+          <lb ed="#B1" n="12"/>ma diffamando, &amp; in persona trucidando, Ecclesiast. 27. Ira &amp; furor utraque 
+          <lb ed="#B1" n="13"/>execrabilia: quia Ecclesiast. 28. Obiurgatio &amp; ira annihilabunt substantiam. 
+          <lb ed="#B1" n="14"/>Dicit Aristot. 3. de Animalibus, quod apis cum eijcit aculeum, moritur: Et ita 
+          <lb ed="#B1" n="15"/>est moraliter de iracundo, &amp; appetitiuo uindictae. Dum enim exercet mali  
+          <lb ed="#B1" n="16"/>ciam suam contra proximum uerbo uel opere laedendo, in substantia, persona, uel 
+          <lb ed="#B1" n="17"/>fama: primum interficit spiritualiter semetipsum, Iob. 5. Virum stultum inter 
+          <lb ed="#B1" n="18"/>ficit iracundia.
+        </p>
+        <p xml:id="rhwis-l126-d1e404">
+          <lb ed="#B1" n="19"/>Tertio ira subiecto proprio subtrahit tria bona. Primo namque destruit hone 
+          <lb ed="#B1" n="20"/>statem corporalis dispositionis: Secundo impedit potestatem naturalis ratio  
+          <lb ed="#B1" n="21"/>nis: Et tertio minuit quantitatem uitalis durationis. Primo ergo destruit ho 
+          <lb ed="#B1" n="22"/>nestatem corporalis dispositionis. Quantumcunque enim persona sit pulchra, 
+          <lb ed="#B1" n="23"/>ira tamen subuertit oculos, genae siunt nimis rubeae, uel nimis pallidae: gestus 
+          <lb ed="#B1" n="24"/>est tremulus, lingua cespitat, &amp; totus homo dehonestatur: De isto loquitur Se 
+          <lb ed="#B1" n="25"/>neca 2. de Ira: Nihil aeque profuit iratis, sicut intueri deformitatem rei, scilicet 
+          <lb ed="#B1" n="26"/>irae: nam in ea facies turbatior, ora pulcherrima foedat toruos uultus ex tran 
+          <lb ed="#B1" n="27"/>quillissimis reddit, linquit decor omnis iratos. Et sequitur: Qualem putas esse  
+          <lb ed="#B1" n="28"/>animum cuius imago tam foeda est: ideo dicit quidam philosophus, quod ira 
+          <lb ed="#B1" n="29"/>tis profuit aspexisse speculum, ut imago repercussa ostenderet homini suam de 
+          <lb ed="#B1" n="30"/>formitatem. Haec Seneca. Idem 3 lib. de ira: Nulla facies ferae quantumlibet  
+          <lb ed="#B1" n="31"/>agitetur, est ita turpis, sicut hominis ira flagrantis. Narrant fabulae quod Miner 
+          <lb ed="#B1" n="32"/>ua aliquando delectata est in Musica tibiarum. Cum ergo semel insufflaret ti 
+          <lb ed="#B1" n="33"/>bias iuxta quendam fluuium, uidit guttas turpiter tumescentes, &amp; statim fistu 
+          <lb ed="#B1" n="34"/>las suas proiecit: Minerua est dea sapientiae, &amp; sapientes interdum sunt indi 
+          <lb ed="#B1" n="35"/>gnantis naturae, Ecclesiast. 1. In multa sapientia, multa est indignatio. Contin 
+          <lb ed="#B1" n="36"/>git ergo quod sapiens aliquis quandoque per motum iracundiae tangitur: sed statim  
+          <lb ed="#B1" n="37"/>si est sapiens considerat indecentiam sui status, &amp; alias sibi cauet. Secundo im 
+          <lb ed="#B1" n="38"/>pedit potestatem naturalis rationis: Iuxta illud Catonis: 
+          <lb ed="#B1" n="39"/>impedit ira animum ne possit cernere verum.
+        </p>
+        <p xml:id="rhwis-l126-d1e452">
+          <lb ed="#B1" n="40"/>Et ideo Diabolus facit, sicut astutus piscator, quando uult faciliter decipere pi 
+          <lb ed="#B1" n="41"/>sces, turbat aquam, &amp; tunc est securus quod pisces non poterunt praeuidere re 
+          <lb ed="#B1" n="42"/>te suum. Eodem modo Diabolus facit in congregatione quacunque: immit 
+          <lb ed="#B1" n="43"/>tit turbationem per aliquem iracundum in totam congregationem, &amp; tunc du 
+          <lb ed="#B1" n="44"/>cit eos ad peccata &amp; malicias excogitandas, sicut sibi placet, &amp; totam congre 
+          <lb ed="#B1" n="45"/>gationem reddit turbatam. Dicit Aristot. 5. topi. quod irascibilis non imperat  
+          <lb ed="#B1" n="46"/>rationali, nisi cum fuerit peruersa anima hominis: &amp; ita est quando peruersa fue 
+          <lb ed="#B1" n="47"/>rit anima, ira dominatur, &amp; nunquam alias. Dicit etiam Aristotel. 1. Elencho 
+          <lb ed="#B1" n="48"/>rum: quod ista est cautela specialis sophistae, ut uidelicet socium suum prouo 
+          <lb ed="#B1" n="49"/>cet ad iram: quia impedit ira animum, &amp;c. Iste sophista est Diabolus, Eccle 
+          <lb ed="#B1" n="50"/>siast. 37. Qui sophistice loquitur odibilis est. Item dicit Aristotel. libro primo 
+          <lb ed="#B1" n="51"/>de Animalibus, quod ista tria coniunguntur: ira, insipientia, &amp; indocilitas. Et  
+          <lb ed="#B1" n="52"/>ponit exemplum de apro agresti. Et ita est moraliter: iracundus nunquam be 
+          <lb ed="#B1" n="53"/>ne docebitur. Et ideo bene dicitur Ecclesiastic. 7. Ne uelox sis ad irascendum: 
+          <!--sap_Page_460.xml-->
+          <pb ed="#B1" n="426"/>
+          <lb ed="#B1" n="1"/>quia ira in sinu stulti requiescit. Tertio ira minuit quantitatem uitalis duratio  
+          <lb ed="#B1" n="2"/>nis. Animalia enim excessiue cholerica sunt naturaliter breuis uitae, sicut ma 
+          <lb ed="#B1" n="3"/>xime patet de cane. Et hoc est quod dicitur Ecclesiastici 30. zelus &amp; iracun 
+          <lb ed="#B1" n="4"/>dia minuunt dies, &amp; ante tempus senectutem adducunt. Vnde antiqui dixe 
+          <lb ed="#B1" n="5"/>runt iram esse breuem insaniam, secundum Senecam 3 de ira: aeque enim impo 
+          <lb ed="#B1" n="6"/>tens est sui decoris oblita. Haec ergo ira praecipue est cauenda, quae iniustum 
+          <lb ed="#B1" n="7"/>Cain fecit, &amp; quemlibet quem inuadit facit iniustum. Iuxta illud Iacobi pri 
+          <lb ed="#B1" n="8"/>mo: Ira enim uiri, DEI iusticiam non operatur. Vnde ira merito comparatur  
+          <lb ed="#B1" n="9"/>cuidam gemmae, quae uocatur onyx, cui malae proprietates attribuuntur in la 
+          <lb ed="#B1" n="10"/>pidario. Ad collum enim suspensa in aegritudine: 
+          <lb ed="#B1" n="11"/>in somno lemures, &amp; tristia cuncta figurat.  
+          <lb ed="#B1" n="12"/>Multiplicat lites &amp; commouet vndique rixas. 
+          <lb ed="#B1" n="13"/>Haec gemma uenit de India &amp; Arabia, nullam bonam uirtutem uel paucas ha 
+          <lb ed="#B1" n="14"/>bens. Et merito designat iracundiam: quae ad nihil ualet, sed saepe facit lemu 
+          <lb ed="#B1" n="15"/>res: id est, diabolicas imaginationes: quando irruit in hominem, &amp; turbat  
+          <lb ed="#B1" n="16"/>cerebrum, &amp; commouet rixas &amp; lites: Proverbiorum 27. Graue est saxum &amp; 
+          <lb ed="#B1" n="17"/>onerosa arena, sed ira stulti utroque grauior. Vnde Seneca tertio dae ira: assi 
+          <lb ed="#B1" n="18"/>milat iram pestilentiae &amp; dicit, quod sicut contra pestilentiam nulla bona dis  
+          <lb ed="#B1" n="19"/>posito ualet: Ita nec contra iram aliqua composito morum: sed tam bonos 
+          <lb ed="#B1" n="20"/>mores quam malos corrumpit &amp; Iacessit. Sed tamen sic in lapidario dicitur  
+          <lb ed="#B1" n="21"/>contra maliciam praedictae gemmae, inuenitur uirtus alterius, quae uocatur Sar 
+          <lb ed="#B1" n="22"/>dis. In cuius praesentia non potest onyx nocere: Moraliter ista secunda gem 
+          <lb ed="#B1" n="23"/>ma designat patientiam, Proverbiorum 15. Responsio mollis frangit iram. 
+          <lb ed="#B1" n="24"/>Et Seneca tertio de ira: Si amicus est qui offendit, fecit quod uoluit: Si inimi 
+          <lb ed="#B1" n="25"/>cus, fecit quod debuit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
