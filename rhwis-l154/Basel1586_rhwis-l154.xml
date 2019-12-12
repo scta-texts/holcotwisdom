@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 154 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 154 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n=""/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l154">
+        <p xml:id="rhwis-l154-d1e95">
+          <lb ed="#B1" n="13"/>DECLARATO sufficienter, quod DEVS est benignus flagellan  
+          <lb ed="#B1" n="14"/>do, quo ad illos qui se corrigunt: Hic finaliter concludit quod est 
+          <lb ed="#B1" n="15"/>iustus, rigidus, &amp; seuerus contra illos, qui se propter flagella non 
+          <lb ed="#B1" n="16"/> conuertunt. Et circa hoc duo facit: Nam primo ostendit quod  
+          <lb ed="#B1" n="17"/>DEVS contra eos iustum exercet iudicium. Secundo declarat iu 
+          <lb ed="#B1" n="18"/>dicij sui modum. Secunda pars ibi: In his enim quaepatiebantur.
+        </p>
+        <p xml:id="rhwis-l154-d1e111">
+          <lb ed="#B1" n="19"/>Quantum ad primum dicit sic: Qui autem ludibrijs &amp; increpationibus non cor 
+          <lb ed="#B1" n="20"/>recti sunt, dignum DEI iudicium experti sunt. Ludibtium secundum Papiam est. 
+          <lb ed="#B1" n="21"/>res aliqua, quae digna est haberi ludo uel contemptui: uel magis proprie in Sa 
+          <lb ed="#B1" n="22"/>cra scriptura dicitur ludibrium poena alicui illata, cum Iudo &amp; derisione. Et quia 
+          <lb ed="#B1" n="23"/>DEVS Cananaeos sic afflixit, ut Hebraei de eis ludere &amp; ridere potuerunt,  
+          <lb ed="#B1" n="24"/>quando uiderunt eos per uespas &amp; muscas exterminari. Ideo dicitur DEVS eos 
+          <lb ed="#B1" n="25"/>ludibrijs puniuisse &amp; increpationibus per uerba, uidelicet seruorum suorum eos 
+          <lb ed="#B1" n="26"/>monendo: Et quia nec his nec illis correpti sunt: id est, correctionem, propter 
+          <lb ed="#B1" n="27"/>quam fit correptio, non habuerunt: Ideo dignum DEI iudicium experti sunt.  
+          <lb ed="#B1" n="28"/>Et per quem modum: subiungit inculcando, tamen idem quod prius dictum est 
+          <lb ed="#B1" n="29"/>frequenter, qualiter per talia animalia puniebantur, qualia in praeiudicium 
+          <lb ed="#B1" n="30"/>Deitatis coluerant. In punitione uero duo fiebant. Primo ipsi afflicti murmu 
+          <lb ed="#B1" n="31"/>rauerunt, &amp; contra DEVM indignabantur. Secundo ex falsis dijs quos in spe 
+          <lb ed="#B1" n="32"/>cie animalium coluerunt, ad ueri DEI noticiam deducebantur. Nam quando ipsi 
+          <lb ed="#B1" n="33"/>idolatrae affligebantur, clamauerunt pro liberatione sua, ad deos quos cole 
+          <lb ed="#B1" n="34"/>bant. Et cum eos impotentes sentirent, reducti sunt ad cognoscendum uerum  
+          <lb ed="#B1" n="35"/>DEVM, quem olim negabant se nosse: Quia secundum Gregorium, oculos quos 
+          <!--sap_Page_547.xml-->
+          <pb ed="#B1" n="513"/>
+          <lb ed="#B1" n="1"/>culpa claudit, poena aperit: propter quod &amp; finis condemnationis illorum veniet  
+          <lb ed="#B1" n="2"/>super illos: id est, finalis condemnatio, quae in inferno fine carebit.  
+          <lb ed="#B1" n="3"/>Nogabant se nosse DEVM.] Circa illam clausulam notandum est, quod tria c 
+          <lb ed="#B1" n="4"/>genera hominum negant se nosse DEVM: uidelicet auari &amp; pecuniosi, supern 
+          <lb ed="#B1" n="5"/>bi &amp; praesumptuosi, periuri &amp; maliciosi: Pecuniosi sunt nimis tenaces, praesum 
+          <lb ed="#B1" n="6"/>ptuosi sunt nimis audaces, maliciosi sunt nimis fallaces. Primi negant DEVM 
+          <lb ed="#B1" n="7"/>quatenus est charitas, secundi quatenus est bonitas, tertij quatenus est ueritas. 
+          <lb ed="#B1" n="8"/>Primo ergo se negant DEUM nosse auari &amp; tenaces. CHRISTVS enim eis ap 
+          <lb ed="#B1" n="9"/>paret in forma pauperis, ostendens indigentiam &amp; petens charitatem: ipsi pau 
+          <lb ed="#B1" n="10"/>perem contemnunt, nec poterunt se excusare, dicentes: Domine apparuisti no 
+          <lb ed="#B1" n="11"/>bis in aliena effigie, non potuimus noticiam tui habere. Praemoniti sunt enim 
+          <lb ed="#B1" n="12"/>quod CHRISTVS in praesenti tali roba uestitur. Isti sunt de quibus dicit CHRI 
+          <lb ed="#B1" n="13"/>STVS: Non potestis DEO seruire &amp; Mammoni, &amp; nemo potest duobus do 
+          <lb ed="#B1" n="14"/>minis seruire. Aut enim unum odio habebit, &amp; alterum contemnet, Matth. 6. 
+          <lb ed="#B1" n="15"/>De ista negatione pulchre se excusauit sanctus lob. 31. Si negaui, quod uole 
+          <lb ed="#B1" n="16"/>bant, pauperibus, &amp; oculos uiduae expectare feci. Isti negant CHRISTVM 
+          <lb ed="#B1" n="17"/>modo, &amp; CHRISTVS eos negabit in die iudicij, quando dicet eis illud Matth.  
+          <lb ed="#B1" n="18"/>25. Amen amen dico uobis: nescio uos. Et Matth. 10. Qui negauerit me co  
+          <lb ed="#B1" n="19"/>ram hominibus, negabo &amp; ego eum coram Patre meo.
+        </p>
+        <p xml:id="rhwis-l154-d1e196">
+          <lb ed="#B1" n="20"/>Secundo negant se nosse DEVM praesumptuosi &amp; nimis audaces. Tales sunt  
+          <lb ed="#B1" n="21"/>qui propriae fortitudini uel uiribus innitentes, non recommendant se DEO, 
+          <lb ed="#B1" n="22"/>nec diuinum implorant auxilium, sicut CHRISTVS eos docuit Matthaei 6. di 
+          <lb ed="#B1" n="23"/>cens: Et ne nos inducas in tentationem. Tales sunt qui se immergunt uel inge 
+          <lb ed="#B1" n="24"/>runt periculis tentationum, &amp; malae societati se admiscent, suspecta consortia 
+          <lb ed="#B1" n="25"/>non refugiunt, &amp; ideo cito cadunt. Horum figuram &amp; signum gessit Petrus, 
+          <lb ed="#B1" n="26"/>qui propriae infirmitatis ignarus, dixit CHRISTO. Etiam si oportuerit me mo 
+          <lb ed="#B1" n="27"/>ri tecum, non re negabo, Matth. 26. Ipse tamen eadem nocte se ingerens socie 
+          <lb ed="#B1" n="28"/>tati curialium, &amp; mulierum, CHRISTVM ter negauit, sicut ibidem describitur.  
+          <lb ed="#B1" n="29"/>Tales sunt multi se iactantes de castitate &amp; continentia, &amp; alios qui cadunt con 
+          <lb ed="#B1" n="30"/>temnentes, sed ipsi nec ex modica tentatione uexati facillime caperentur, &amp; fre 
+          <lb ed="#B1" n="31"/>quenter capiuntur. Et ideo sancti uiri DEO se recommendant continue, scien 
+          <lb ed="#B1" n="32"/>tes quod diuina bonitas est, &amp; non sua, si contra tentationes resistant. Et ideo 
+          <lb ed="#B1" n="33"/>signanter dicit lob. Si uidi solem cum fulgeret, &amp; lunam incedentem clare, &amp; 
+          <lb ed="#B1" n="34"/>laetatum est in abscondito cor meum, &amp; osculatus sum manum meam ore meo, 
+          <lb ed="#B1" n="35"/>quae est iniquitas maxima, &amp; negatio contra DEVM altissimum, lob. 31. Vbi 
+          <lb ed="#B1" n="36"/>dicit Gloss. Greg. Osculari manum est bonum uel naturae uel gratiae a DEO 
+          <lb ed="#B1" n="37"/>concessum meritis humanis tribuere. Vnde qui bona opera faciunt, &amp; illa DEO 
+          <lb ed="#B1" n="38"/>non attribuunt, sed uirtuti naturali uel prudentiae propriae: hi DEVM, qui est 
+          <lb ed="#B1" n="39"/>bonitas, a quo omne bonum deriuatur, negant.
+        </p>
+        <p xml:id="rhwis-l154-d1e242">
+          <lb ed="#B1" n="40"/>Tertio negant se DEVM nosse periuri maliciosi, &amp; fallaces: cuiusmodi sunt  
+          <lb ed="#B1" n="41"/>falsi testes, &amp; falsi aduocati, &amp; falsi iudices, qui scienter ueritatem negant. CHRI 
+          <lb ed="#B1" n="42"/>STVS enim est ueritas, Ioh. 14. Falsi enim testes a iudicibus inuestigant, quod  
+          <lb ed="#B1" n="43"/>super materiam, de qua fit inquisitio, ueritatem dicant, fidem praestent: sed ipsi 
+          <lb ed="#B1" n="44"/>uoluntarie a ueritate recedunt, &amp; tales non solum CHRISTVM negant, imo 
+          <lb ed="#B1" n="45"/>uendunt. Vnde Gloss. super illud Matth. 26. Exinde quaerebat opportunitatem, 
+          <lb ed="#B1" n="46"/>ut eum traderet. Multi enim hodie sunt, qui factum Iudae execrantur, &amp; idem  
+          <lb ed="#B1" n="47"/>faciunt: Nam cum pro munere falsum testimonium dicunt, DEVM qui ueritas 
+          <lb ed="#B1" n="48"/>est, uendunt. Horum figuram gesserunt ludaei, quibus Petrus dixit Act. 3. DEVS 
+          <lb ed="#B1" n="49"/>glorificauit Filium suum IESVM, quem uos quidem tradidistis &amp; negastis an 
+          <lb ed="#B1" n="50"/>te faciem Pilati, iudicante illo dimitti. Tales sunt etiam falsi iudices, qui scien 
+          <lb ed="#B1" n="51"/>ter ueritatem subuertunt: &amp; iudicant pro muneribus illud, quod sciunt esse fal 
+          <lb ed="#B1" n="52"/>sum, uel pro timore &amp; minis a ueritate recedunt. Sicut fecit Pilatus qui audito  
+          <!--sap_Page_548.xml-->
+          <pb ed="#B1" n="514"/>
+          <lb ed="#B1" n="1"/>isto uerbo a Iudaeis: Si hunc dimittis, non es amicus Caesaris, timuit &amp; a dicta 
+          <lb ed="#B1" n="2"/>mine propriae conscientiae recessit.
+        </p>
+        <p xml:id="rhwis-l154-d1e281">
+          <lb ed="#B1" n="3"/>Et tamen est notandum quod non excusantur falsi iudices nisi totis uiribus 
+          <lb ed="#B1" n="4"/>liberare studeant innocentes. Legimus enim Matth. 26. quod Pilatus multi  
+          <lb ed="#B1" n="5"/>pliciter egit ad liberationem CHRISTI. Primo comparando latronem iusto 
+          <lb ed="#B1" n="6"/>dicendo: Quem uultis dimitta uobis, Barrabam an IESVM qui dicitur CHRI 
+          <lb ed="#B1" n="7"/>STVS, quasi dicat: Necesse habetis unum dimittere, ex quo debetis uel eum di 
+          <lb ed="#B1" n="8"/>mittere, uel latronem. Secundo cum quaereret a Iudaeis: Quid enim mali fe 
+          <lb ed="#B1" n="9"/>cit &amp; quid faciam de IESV qui dicitur CHRISTVS: Tertio quando la 
+          <lb ed="#B1" n="10"/>uit manus suas coram populo, &amp; dixit: Innocens ego sum a sanguine iusti hu 
+          <lb ed="#B1" n="11"/>ius, uos uideritis. Quarto quando flagellari eum mandauit. Quod ideo secun 
+          <lb ed="#B1" n="12"/>dum Rabanum fecisse creditur, ut Iudaei poenis &amp; opprobrijs eius satiati, desi 
+          <lb ed="#B1" n="13"/>sterent ab instantia mortis CHRISTI. Sed his omnibus non obstantibus, non 
+          <lb ed="#B1" n="14"/>excusatur Pilatus: quia faciebateum innocentem, &amp; quod per inuidiam tradi 
+          <lb ed="#B1" n="15"/>dissent eum Iudaei. Hoc tamen non obstante illud uerbum conelusit Pilatum: 
+          <lb ed="#B1" n="16"/>Si hunc dimittis, non es amicus Caesaris. Vnde audito hoc uerbo adiudicauit  
+          <lb ed="#B1" n="17"/>fieri petitionem ludaeorum de CHRISTO, Matth. 27. &amp; Io.19. Et sicut falsi 
+          <lb ed="#B1" n="18"/>iudices cum praetendunt se uelle defendere ueritatem, diligenter inquirunt de 
+          <lb ed="#B1" n="19"/>ueritate, sed si possint eam faciliter, uidere non prosequuntur: Ita Pilatus dili  
+          <lb ed="#B1" n="20"/>genter inquisiuit a CHRISTO quid est ueritas, sed noluit CHRISTI respon 
+          <lb ed="#B1" n="21"/>sum audire: sed post quaestionem exiuit continue ad ludaeos, Ioh. 18. De his 
+          <lb ed="#B1" n="22"/>omnibus verificatur illud Hierem. 5. Negauerunt Dominum &amp; dixerunt: Non 
+          <lb ed="#B1" n="23"/>est ipse neque ueniet super nos malum. Falsi enim aduocati dicunt se nosse DEVM 
+          <lb ed="#B1" n="24"/>uerbis: sed factis eum negant, &amp; non solum negant, imo reprobant ueritatem, 
+          <lb ed="#B1" n="25"/>&amp; colorant falsitatem. De quibus verificatur illud ad Titum 1. Inquinate sunt  
+          <lb ed="#B1" n="26"/>uiae eorum, &amp; mens &amp; conscientia. Confitentur autem se nosse DEVM, factis  
+          <lb ed="#B1" n="27"/>autem negant. De istis loquens Sidonius in quadam epistola, sic eos describit. 
+          <lb ed="#B1" n="28"/>Hi sunt in conuiuijs scurrae, in exactionibus harpyiae, in collocutionibus bestiae,  
+          <lb ed="#B1" n="29"/>in quaestionibus statuae: ad intelligendum saxei, ad iudicandum lignei, ad igno 
+          <lb ed="#B1" n="30"/>scendum ferrei: ad iniurias pardi, ad facetias ursi, ad fallendum uulpes, ad super 
+          <lb ed="#B1" n="31"/>biendum tauri, &amp; ad consummandum minotauri. Haec ille. Istis nihil sufficit,  
+          <lb ed="#B1" n="32"/>nihil placet nisi pecunia: sicut dicit Alanus in lib. suo de conquaestu naturae. Si 
+          <lb ed="#B1" n="33"/>quis (inquit) armatur pecunia, tanquam loricis argenteis, torrentis impetum 
+          <lb ed="#B1" n="34"/>fulguris Tulliani, incursus Hectoreae militiae, robur uirtutis Herculeae, versi 
+          <lb ed="#B1" n="35"/>pellis Vlyssis uilipendit astutia. Et in tantum habendi fames incanduit, ut dia 
+          <lb ed="#B1" n="36"/>lecticae mutescat subtilitas, Rhetoricae languescat ciuilitas, ubi nummorum per 
+          <lb ed="#B1" n="37"/>orat pluralitas. Si enim in aure iudicis uel aduocati susurret pecunia, Orphei 
+          <lb ed="#B1" n="38"/>lyra, carmen Amphitryonis, musa Virgilij, uoce pecuniae suffocant. Quid plu 
+          <lb ed="#B1" n="39"/>ra: Vbi nummus loquitur, Tulliani eloquij lingua mutescit, ubi numus mili  
+          <lb ed="#B1" n="40"/>tat, Hectoreae militiae fulgura compescuntur, ubi pugnat pecunia, uirtus expu 
+          <lb ed="#B1" n="41"/>gnatur Herculea: nummus uincit, nummus regnat, nummus imperat uniuer 
+          <lb ed="#B1" n="42"/>sis. Haec Alanus. Istis aduocatis sicut dicit Ambrosius in quodam ser 
+          <lb ed="#B1" n="43"/>mone, iuste dicetur: Redde quod accepisti, quae contra uerita 
+          <lb ed="#B1" n="44"/>tem dixisti: iniquitati affuisti, iudicem fefellisti, iu 
+          <lb ed="#B1" n="45"/>stam causam oppressisti, de falsi  
+          <lb ed="#B1" n="46"/>tate uixisti.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

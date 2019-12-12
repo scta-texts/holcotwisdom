@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 146 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 146 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="490"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l146">
+        <p xml:id="rhwis-l146-d1e95">
+          <!--sap_Page_524.xml-->
+          <pb ed="#B1" n="490"/>
+          <lb ed="#B1" n="1"/>SICVT superius dictum fuit, intentio Salomonis a medio ro 
+          <lb ed="#B1" n="2"/>cap. usque ad finem libri est declarare, quomodo sapientia, quae 
+          <lb ed="#B1" n="3"/>est uerus DEI cultus, mirabiliter gubernauit populum He 
+          <lb ed="#B1" n="4"/>braeorum, ut per hoc omnes homines Hebraeorum historiam 
+          <lb ed="#B1" n="5"/>audientes, ad uerum cultum unius DEI, qui est sapientia, anima 
+          <lb ed="#B1" n="6"/>rentur. Fuit ista gubernatio mirabilis in tribus: In Aegyptio 
+          <lb ed="#B1" n="7"/>rum expugnatione, in Hebraeorum per desertum traductione, &amp; in Chananae. 
+          <lb ed="#B1" n="8"/>orum de terra Promissionis eicctione. Postquam igitur declarata est guber  
+          <lb ed="#B1" n="9"/>natio sapientiae circa populum Hebraeorum, quantum ad duo prima: In ista par 
+          <lb ed="#B1" n="10"/>te consequenter agitur de punitione gentium peruersarum, quae terram San 
+          <lb ed="#B1" n="11"/>ctam inhabitabant, ante filios Isracl. Inhabitabatur autem a septem gentibus, 
+          <lb ed="#B1" n="12"/>quas in aduentu filiorum Israel, &amp; in mora eorum non statim &amp; subito, sed paulatim  
+          <lb ed="#B1" n="13"/>Dominus deleuit, &amp; captiuauit, &amp; dnjo illius terrae priuauit, &amp; in eadem filios 
+          <lb ed="#B1" n="14"/>Israel miraculose plantauit. Et circa ista duo siunt. Nam primo agitur de Chana 
+          <lb ed="#B1" n="15"/>naeorum afflictione: Secundo de Hebreorum instructione, ibi: Tu aut dominator. Cu 
+          <lb ed="#B1" n="16"/>ca primum autem duo siunt: quia primo agit de modo afflictionis, qua gens Cha 
+          <lb ed="#B1" n="17"/>nanaeorum fuit flagellata: Secundo ostenditur, quod ad illum modum diuina poten 
+          <lb ed="#B1" n="18"/>tia non fuit necessario limitata. Secunda pars ibi: Non quia impotens. Circa pri 
+          <lb ed="#B1" n="19"/>mum duo siunt: quia primo ostenditur bonitas diuinae castigationis ad omnes 
+          <lb ed="#B1" n="20"/>peccatores generaliter: Secundo ad Chananaeos specialiter. Secunda pars  
+          <lb ed="#B1" n="21"/>ioi. Illos enim antiquos.
+        </p>
+        <p xml:id="rhwis-l146-d1e147">
+          <lb ed="#B1" n="22"/>Circa primum in lectione hodierna duo siunt: quia primo agitur de diuina 
+          <lb ed="#B1" n="23"/>dulcedinc, quam influit mentibus iustorum: secundo de mira mansuctudinc, quam 
+          <lb ed="#B1" n="24"/>ostendit in correptione malorum: secunda pars ibi: Ideoque hos, qui exerrant parti. 
+          <lb ed="#B1" n="25"/>bus corripis, &amp; de quibus, &amp;c. Crca primu dicitur sic: o quam bonus &amp; suauis  
+          <lb ed="#B1" n="26"/>est, Domine, spiritus iuus in nobis. Vol diuinae bonitatis dulcedo comendatur ex  
+          <lb ed="#B1" n="27"/>signo magnae admirationis. O, est nota grandis intentionis: quam, ex uocabulo  
+          <lb ed="#B1" n="28"/>summae perfectionis: bonus, ex uerbo mirae delectationis: suauis, ex dulcedinc 
+          <lb ed="#B1" n="29"/>degustationis, spiritus iuus. O, secundum Priscianum &amp; Papiam aliquando est nomen 
+          <lb ed="#B1" n="30"/>literae: aliquando est intcriectio, aliquando est aduerbium. Si est interiectio: est in 
+          <lb ed="#B1" n="31"/>tericctio quandoque dolentis, ut o in quanta miseria sumus: quandoque est interic 
+          <lb ed="#B1" n="32"/>ctio admirantis, ut o rem mirabilem: quandoque similiter est aduerbium, &amp; diuersas 
+          <lb ed="#B1" n="33"/>habet significationes. Est em aduerbium uocandi, ut o regina: admirandi, ut o qua 
+          <lb ed="#B1" n="34"/>lis facies: indignandi, ut o tempora, o mores: optandi, ut o assis: exhortandi, ut o 
+          <lb ed="#B1" n="35"/>fugite. Quando uero profertur cum suspiratione &amp; motu animi, sic est interie 
+          <lb ed="#B1" n="36"/>ctio. Quando sequit accusatiuus, est aducrbium: ut o conditionem miscram. In pro 
+          <!--sap_Page_525.xml-->
+          <pb ed="#B1" n="491"/>
+          <lb ed="#B1" n="1"/>posito. O, an est interiectio, uel aduerbium, non est cura: &amp; est nota magnae admi 
+          <lb ed="#B1" n="2"/>rationis. Quam, est nota grandis intentionis. Iuxta illud Psal. O quam magna 
+          <lb ed="#B1" n="3"/>multitudo dulcedinis tuae, Domine. Bonus, est uocabulum diuinae perfectionis 
+          <lb ed="#B1" n="4"/>Luc. 18. Nemo bonus est nisi solus DEVS. Suauis est uerbum mirae delectationis 
+          <lb ed="#B1" n="5"/>In Psal. Gustate &amp; uidete, quoniam suauis est Dominus. Vult ergo dicere DEO 
+          <lb ed="#B1" n="6"/>regratiando: O quam mirabiliter, quam ineffabiliter Spiritus tuus: id est, beni 
+          <lb ed="#B1" n="7"/>gnitas tua, est magna in nobis: id est, Iudaeis. In Psal. Non fecit taliter omni natio 
+          <lb ed="#B1" n="8"/>ni, vel in omnibus, secundum aliam literam: quia in Psal. Suauis est Dominus uniuer 
+          <lb ed="#B1" n="9"/>sis, &amp; miserationes eius super omnia opcra cius. Sic ergo patet diuina dulce 
+          <lb ed="#B1" n="10"/>do in omnibus creaturis generaliter: sed specialiter masnetudinem declarat in 
+          <lb ed="#B1" n="11"/>correptione malorum, quos tamen posset affligere, &amp; annihilare si uellet, uel in 
+          <lb ed="#B1" n="12"/>infernum detrudere, corripit: admonet, &amp; alloquitur, ut rclinquant maliciam suan 
+          <lb ed="#B1" n="13"/>&amp; redeant ad eum per poenitentiam. Et hoc est, quod subdit: Ideog: uidelicet quia 
+          <lb ed="#B1" n="14"/>tanta est in peccado: scilicet partibus corripis: id est, particulariter &amp; paulatim, 
+          <lb ed="#B1" n="15"/>&amp; de quibus peccant, id est, de peccatis admones per praedicationem exteriore tuan 
+          <lb ed="#B1" n="16"/>&amp; alloqueris per interna inspirationem: vt relicta malicia credant per fidem, opetantem 
+          <lb ed="#B1" n="17"/>per dilectionem, in te Domine, qui eos ita dulciter reuocas ab errore.
+        </p>
+        <p xml:id="rhwis-l146-d1e223">
+          <lb ed="#B1" n="18"/>Suauis est, Domine, spiritus tuus.] Quamuis homo certitudinaliter experii. 
+          <lb ed="#B1" n="19"/>non potest, se Spiritum sanctum habere, sicut nec potest se scire esse in charitate se 
+          <lb ed="#B1" n="20"/>cundum sanctos: tria tamen signa potest homo habere, secundum tria signa, per quae 
+          <lb ed="#B1" n="21"/>homo potest scire, quod habeat Spiritum sanctum, quae uerisimiliter potest coli  
+          <lb ed="#B1" n="22"/>cere, se Spiritum sanctum habere per gratiam. Et accipiunt ista tria signa secundum tri 
+          <lb ed="#B1" n="23"/>plice specie, in qua legimus Spiritum sanctum apparuissc. Apparuit enim in specie 
+          <lb ed="#B1" n="24"/>nubis, super CHRISTVM transfiguratum: In specie colubae super baptiaatum: In spe 
+          <lb ed="#B1" n="25"/>cie ignis supet Apostolorum collegium cogregatum. Primum signum est abundantia 
+          <lb ed="#B1" n="26"/>lachrymarum, &amp; ideo apparuit in spexic nubis. Nubes em fundunt fluuios super 
+          <lb ed="#B1" n="27"/>terram, &amp; Spiritus sanctus irrigat mentem deuotam, quam inhabitare dignatr fluuio 
+          <lb ed="#B1" n="28"/>lachrymarum. Vnde Gen. primo dicit, quod Spiritus DEI fcrebatur super aquas. 
+          <lb ed="#B1" n="29"/>Et in Psal. Hauit Spiritus eius, &amp; fluentaquae. Rom. 8. <quote xml:id="rhwis-l146-Qd1e251" source="http://scta.info/resource/rom8_26">Ipse Spiritus postulat pro 
+            <lb ed="#B1" n="30"/>nobis gemitibus in enarrabilibus</quote>: postulas: id est, postulare nos facit secundum glos. 
+          <lb ed="#B1" n="31"/>Bern. super Can. Lachrymae poenitentium uinum sunt angelorum: quia inillis est. 
+          <lb ed="#B1" n="32"/>dulcor uitae, sapor gratiae, gustus indulgentiae, sanitas redeuntis innocentiae, re 
+          <lb ed="#B1" n="33"/>conciliationis locunditas, &amp; screnatae conscientiae suauitas.
+        </p>
+        <p xml:id="rhwis-l146-d1e263">
+          <lb ed="#B1" n="34"/>Secundum signum est dimissio iniuriarum, &amp; ideo apparuit in specie columhaes 
+          <lb ed="#B1" n="35"/>quae felle caret. Vnde quando homo inuenit se paratum, &amp; benignum ad dimitten 
+          <lb ed="#B1" n="36"/>dum iniuriam sibi factam, cuidens signum est, quod Spiritum sanctum habet, cum quo nul  
+          <lb ed="#B1" n="37"/>lum odium stare potest, cum sit amor: odiumnamque animam inflat, indurat, &amp; amari 
+          <lb ed="#B1" n="38"/>cat. Sed Spiritus sanctus per oppositas conditiones describit: Nam comparatur ro 
+          <lb ed="#B1" n="39"/>ri, unctioni, &amp; melli. In quantum em cor inflamatum refrigerat, dicit ros. Eccle.  
+          <lb ed="#B1" n="40"/>i8. Nonne ardorem refrigerabit ros: Vnde petit Ecclesia, quod corda nostra Spi 
+          <lb ed="#B1" n="41"/>ritus sancti mundet infusio, &amp; sui roris intima aspersione foecundet. In quan  
+          <lb ed="#B1" n="42"/>tum uero cor odijs induratum mollificat, dicit unctio. 1. Ioh. 2. Vnctionem habctis  
+          <lb ed="#B1" n="43"/>a Sancto illo, &amp; nostis omnia. Quia uero cor odio amaricatum dulcorat, dicit 
+          <lb ed="#B1" n="44"/>mel. Eccle. 24. Spiritus meus super mel dulcis, nec iuuat hominem pacem fictam  
+          <lb ed="#B1" n="45"/>praetendere in uerbis, &amp; odium celare lri corde: quia fictionem talem detestat Spiri 
+          <lb ed="#B1" n="46"/>tus sanctus, Sapientiae 1. Spiritus enim sanctus disciplinae effugiet fictum.
+        </p>
+        <p xml:id="rhwis-l146-d1e294">
+          <lb ed="#B1" n="47"/>Tertium signum est desiderium supernorum, &amp; ideo Spiritus sanctus apparuit  
+          <lb ed="#B1" n="48"/>in specie ignis. Sic enim ignis naturaliter tendit sursum &amp; se coelo coniungit: 
+          <lb ed="#B1" n="49"/>Ita Spiritus sanctus corda illorum accendit, &amp; sursum elcuat, ut terrena fastidi 
+          <lb ed="#B1" n="50"/>ant, &amp; coelestia desiderent. Exccch. 8. Eleuauit me spiritus inter coelum &amp; terram: non 
+          <lb ed="#B1" n="51"/>dixit, posuit me in coelo: quia ibi tantum sunt boni: nec dixit, posuit me in terra: 
+          <lb ed="#B1" n="52"/>quia ibi manent mali auari. Sed dixit, elcuauit me inter coelum &amp; terram: quia 
+          <lb ed="#B1" n="53"/>abi debent esse fideles Christiani: Cuius ratio est: quia habent aliquando ascen 
+          <!--sap_Page_526.xml-->
+          <pb ed="#B1" n="491"/>
+          <lb ed="#B1" n="1"/>dere uersus coelum, coelestia contemplando: &amp; aliquando uersus terram, pro 
+          <lb ed="#B1" n="2"/>ximorum utilitatibus ministrando.
+        </p>
+        <p xml:id="rhwis-l146-d1e321">
+          <lb ed="#B1" n="3"/>Dubitatio literalis. Vtrum gratia Spiritus sancti detur necessario hominis 
+          <lb ed="#B1" n="4"/>se quantum potest ad gratiam praeparanti.
+        </p>
+        <p xml:id="rhwis-l146-d1e328">
+          Et uidetur quod non. Quia cuicunque DEVA 
+          <lb ed="#B1" n="5"/>dat gratiam, gratis dat cam, &amp; libere ex sola miscricordia. Igitur quantumcunque dispo 
+          <lb ed="#B1" n="6"/>nat se homo, est in libera DEI uoluntate dare sibi gratiam, uel non dare. Ite homo 
+          <lb ed="#B1" n="7"/>comparatur ad DEVM sicut lutum ad figulum. Hiere. 18. Sicut lutum mn manu figuli,  
+          <lb ed="#B1" n="8"/>sic nos in manu Domini Israel. Sed lutum quantumcunque, sit bene praeparatum, non 
+          <lb ed="#B1" n="9"/>accipit formam a figulo ex necessitate. Igitur nce homo gratiam a DEO, quantum. 
+          <lb ed="#B1" n="10"/>cunque se praeparet.
+        </p>
+        <p xml:id="rhwis-l146-d1e344">
+          Ad oppositum est glossa super illud Rom. 5. Iustificati per fidem 
+          <lb ed="#B1" n="11"/>pace habeamus. Et est August. DEVS recipit confugientes ad se, aliter esset ini 
+          <lb ed="#B1" n="12"/>quitas in eo. Sed impossibile est, quod in DEO sit iniquitas: ergo impossibile 
+          <lb ed="#B1" n="13"/>est, quod non recipiat confugientes ad se. Ergo confugiens ad DEVM necessario 
+          <lb ed="#B1" n="14"/>sequitur gratiam.
+        </p>
+        <p xml:id="rhwis-l146-d1e355">
+          Praeterea, Apoc. 3. Ego sto ad ostium &amp; pulso, si quis aperuerit 
+          <lb ed="#B1" n="15"/>mihi, intrabo ad cum, &amp; coenabo * cum eo. Sed iste, qui disponit se faciendo ida 
+          <lb ed="#B1" n="16"/>quod in eo est, aperit sibi: ergo intrat necessario. Confirmatur. Quia isto aperis  
+          <lb ed="#B1" n="17"/>ente sibi, aut intrat, aut non intrat. Si non intrat: ergo frustra pulsat, quod impium 
+          <lb ed="#B1" n="18"/>est dicere. Si intrat: ergo datgratiam.
+        </p>
+        <p xml:id="rhwis-l146-d1e366">
+          Praeterea Anshel. de causa Diaboli. cap. 2. di 
+          <lb ed="#B1" n="19"/>citur: Quod illa est causa, quare DEVS Diabolo non dedit gratiam &amp; perscueran 
+          <lb ed="#B1" n="20"/>tiam: quia ipse noluit accipere. Vnde non ideo non accepit Diabolus perseuo 
+          <lb ed="#B1" n="21"/>rantiam: quia DEVS non dedit: sed ideo DEVS non dedit: quia ipse non ac 
+          <lb ed="#B1" n="22"/>cepit. Quia quicunque se parat ut accipiat, necessario recipit.
+        </p>
+        <p xml:id="rhwis-l146-d1e377">
+          <lb ed="#B1" n="23"/>Ad dubitationem dicendum, quod quaedam est necessitas coactionis, &amp; quae 
+          <lb ed="#B1" n="24"/>dam est necessitas infallibilitatis. Necessitas coactionis nullo modo cadit in 
+          <lb ed="#B1" n="25"/>DEO: necessitas uero infallibilitatis cadit in DEO ex promisso suo &amp; pacto, si 
+          <lb ed="#B1" n="26"/>ue lege statuta: &amp; haec non est necessitas absoluta, sed necessitas consequentiae. 
+          <lb ed="#B1" n="27"/>Vnde non stat cum lege statuta, quod uiator faciat, quod in se est disponendo se 
+          <lb ed="#B1" n="28"/>ad gratiam, quin habeat gratiam: posset tamen Deus mutare legem circa aliam perso 
+          <lb ed="#B1" n="29"/>nam, si uellet. Et talis quantumcumque se disponeret, non haberct: quia dispositio ho 
+          <lb ed="#B1" n="30"/>minis nullam causalitatem habet respectu gratiae de necessitate: sed tantum de 
+          <lb ed="#B1" n="31"/>cogruo: quia gratia excedit omnem operationem naturalem. Nec est possibile, quod  
+          <lb ed="#B1" n="32"/>homo mereatur per quodcunque opus naturale, morale, puta gratiam de condi 
+          <lb ed="#B1" n="33"/>gno.
+        </p>
+        <p xml:id="rhwis-l146-d1e404">
+          Ad rationes in oppositum. Primam concedendo, quod dat misericordia ex 
+          <lb ed="#B1" n="34"/>&amp; gratia sua pro tanto: quia tale legem miscricorditer statuit &amp; obseruat: sed sta 
+          <lb ed="#B1" n="35"/>tuta lege, necessario dat gratiam necessitate consequentiae.
+        </p>
+        <p xml:id="rhwis-l146-d1e411">
+          Ad secundum, quam 
+          <lb ed="#B1" n="36"/>uis sumus sicut lutum per comparationem ad DEVM aliquo modo: non tamen si 
+          <lb ed="#B1" n="37"/>militudo tenet in omnibus, nec est pactum inter artifice &amp; Iutum: &amp; dato quod  
+          <lb ed="#B1" n="38"/>foret, artifex posset frangere pactum, pacti lege manente, quod non potest DEe 
+          <lb ed="#B1" n="39"/>VS pacto suo manente: nec lutum potest aliquid apud artificem promereri, nec de com  
+          <lb ed="#B1" n="40"/>digno, nec de congruo. In hac tamen quaestione magis pie quam logice est loquendum
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

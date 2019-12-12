@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 144 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 144 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="483"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l144">
+        <p xml:id="rhwis-l144-d1e95">
+          <lb ed="#B1" n="11"/>POSTQUAM ostensum est, quod DEVS gubernat uniuersam  
+          <lb ed="#B1" n="12"/>creaturam per potentiam, cui nihil potest resistere: Hic ostendit,  
+          <lb ed="#B1" n="13"/>quod eam administrat per beneuolentiam, cui nulla creatura po 
+          <lb ed="#B1" n="14"/>test satisfacerc. Et circa hoc duo facit: nam primo ostendit, quod  
+          <lb ed="#B1" n="15"/>DEVS omnem creaturam per beneuolentiam &amp; amorem libere constituit,  
+          <lb ed="#B1" n="16"/>&amp; crcauit a principio. Secundo, quod omnem crcaturam libere conseruat,  
+          <lb ed="#B1" n="17"/>&amp; continuat in esse suo, pro suae uoluntatis arbitrio. Secunda pars ibi: Quos 
+          <lb ed="#B1" n="18"/>modo autem aliquid permanere possit.
+        </p>
+        <p xml:id="rhwis-l144-d1e115">
+          <lb ed="#B1" n="19"/>Circa primum tria facit: Primo ostendit, quod misericordia DEI est genc 
+          <lb ed="#B1" n="20"/>ralis ad omnem creaturam uniuersaliter. Secundo, quod est mirabilis circa 
+          <lb ed="#B1" n="21"/>homines spccialiter. Tertio probat DEVM diligere quidquid produxit tepo 
+          <lb ed="#B1" n="22"/>taliter. Secunda pars ibi. Et dissimulas peccata. Et tertia ibi: Diligis enim omnia. 
+          <lb ed="#B1" n="23"/>Dicit ergo primo sic: Sed &amp; misereris omnium, quoniam omnia potes: quasi  
+          <lb ed="#B1" n="24"/>dicat: Licet totus orbis terrarum sit tanquam momentum staterae ante te: uel 
+          <lb ed="#B1" n="25"/>sicut gutta roris antelucani: non tamen ideo despicis uel paruipendis crea 
+          <lb ed="#B1" n="26"/>turam tuam, sed foues, protegis, &amp; conseruas: &amp; ideo misereris omnium uni 
+          <lb ed="#B1" n="27"/>uer saliter: in Psalm. Miserationes eius super omnia opera eius. Et quare sic 
+          <lb ed="#B1" n="28"/>miscreris: Certe ideo: quoniam omnia potes. Non ex indigentia, quasi tu indi 
+          <lb ed="#B1" n="29"/>gcas auxilio uel consilio creaturae: non ex infirmitate, quasi non possis crea 
+          <lb ed="#B1" n="30"/>turam delere: Sed ideo: quoniam omnia potes nacuraliter. Marc. 14. Pater  
+          <lb ed="#B1" n="31"/>omnia possibilia sunt tibi. Et Ecclesiast. 2. Secundum magnitudinem illius, 
+          <lb ed="#B1" n="32"/>sic &amp; misericordia ipsius cum ipso est. Et hoc est, quod dicitur intra 12. cap  
+          <lb ed="#B1" n="33"/>Ob hoc, quod Dominus es omnium, omnibus parcere facis. Et ideo tales  
+          <lb ed="#B1" n="34"/>domini &amp; praelati sunt DEI specialiter imitatores, qui quanto fuerint poten 
+          <lb ed="#B1" n="35"/>tiores, tanto sunt clementiores. Sic Alexander Magnus deuictos populos  
+          <lb ed="#B1" n="36"/>plus clementia quam potentia sibi constrinxit. 32. Reg. 20. Reges Israelis cle 
+          <lb ed="#B1" n="37"/>mentes sunt. Et quamuis Domine miserationes tuae sunt super omnia opcra 
+          <lb ed="#B1" n="38"/>tua: tamen magis est admiranda circa omnes peccatores, quorum peccata 
+          <lb ed="#B1" n="39"/>dissimulas uindicare. Vnde subdit: Dissimulas peccata hominum propter peni 
+          <lb ed="#B1" n="40"/>tentiam: id est, sub dissimulatione, non fictionis, sed affectionis: peccata homi 
+          <!--sap_Page_518.xml-->
+          <pb ed="#B1" n="484"/>
+          <lb ed="#B1" n="1"/>aum propter penitentiam, id est, ut ipsi poeniteant interim, dum sic eos clemen 
+          <lb ed="#B1" n="2"/>ter expectas. Roman. 2. Ignoras, quoniam benignitas DEI ad poenitentiam  
+          <lb ed="#B1" n="3"/>te adducit. Glossa dicit hic: Potentia DEI bonitate plena, opus suum propter 
+          <lb ed="#B1" n="4"/>peccata non despicit, sed per poenitentiam abluit, &amp; ipse fouet, &amp; nutrit. 
+          <lb ed="#B1" n="5"/>Excechiae decimooctano: Si impius egerit poenitentiam ab omnibus pec 
+          <lb ed="#B1" n="6"/>catis, quae fecerit, uita uiuet, &amp; non morietur, omnium iniquitatum, quas o 
+          <lb ed="#B1" n="7"/>peratus est, non recordabor. Tertio probat DEVM diligere quidquid  
+          <lb ed="#B1" n="8"/>produxit temporaliter. Hoc probatur sic: Nullus facit nec producit libere il  
+          <lb ed="#B1" n="9"/>lud, quod detestatur &amp; odit: quia si homo odit aliquid, uellet illud non esse: 
+          <lb ed="#B1" n="10"/>&amp; per consequens non dat sibi libere esse: sed DEVS libere produxit &amp; com  
+          <lb ed="#B1" n="11"/>stituit omnia: ergo diligit, quae temporaliter constituit. Et hoc est, quod di 
+          <lb ed="#B1" n="12"/>cit litera. Diligis enim omnia, quae sunt. Supra capite primo: Cteauit, ut essent o 
+          <lb ed="#B1" n="13"/>mnia, &amp; nihil odisti eorum, quae fecisti, in quantum uidelicet est opus tuum: quia 
+          <lb ed="#B1" n="14"/>Ecclesiast. 22. Altissimus odio habet peccatores, hoc est, ad modum odientis  
+          <lb ed="#B1" n="15"/>se habet: quia prohibet peccata fieri, pro peccatis punit peccantes, nec ipsa 
+          <lb ed="#B1" n="16"/>peccata ipse fecit, in quantum peccata sunt. Fit enim actus, qui est peccatum, 
+          <lb ed="#B1" n="17"/>&amp; a DEO &amp; ab homine: a DEO uero sit iuste, &amp; ideo non habet, quod sit pec 
+          <lb ed="#B1" n="18"/>catum, quia fit a DEO: Ab homine uero fit iniuste, &amp; ideo ab hoc habet,  
+          <lb ed="#B1" n="19"/>quod sit peccatum, &amp; sine DEo factum est peccatum, secundum Augusti 
+          <lb ed="#B1" n="20"/>num: Quia licet hoc, quod est peccatum, sit a DEo, non tamen habet a DEO, 
+          <lb ed="#B1" n="21"/>quod sit peccatum. Nihil ergo eorum odisti, quae fecisti, &amp; quare: Certe quia ri 
+          <lb ed="#B1" n="22"/>hil possis odiendo constituere uel facere. Nam si quid odis, uis non esse: quod 
+          <lb ed="#B1" n="23"/>autem constituis, us esse, &amp; ideo dicit: Nec enim odiens aliquid constituisti, de ni 
+          <lb ed="#B1" n="24"/>hilo autem fecisti ex praeiacenti materia producendo.
+        </p>
+        <p xml:id="rhwis-l144-d1e222">
+          <lb ed="#B1" n="25"/>Dissimulas peccata hominum propter penitentiam.] Cca poerten 
+          <lb ed="#B1" n="26"/>tiam est notandum, quod quatuor sunt poenitentiae incitamenta, qua 
+          <lb ed="#B1" n="27"/>tuor poenitentiae impedimenta, quatuor poenitentiae documenta, qua 
+          <lb ed="#B1" n="28"/>tuor poenitentiae emolimenta. Quatuor poenitentiae incitamenta sunt  
+          <lb ed="#B1" n="29"/>ista. Amor CHRISTI, quem offendimus, dolor pro gratia, quam omisi 
+          <lb ed="#B1" n="30"/>mus, horror poenae, quam incurrimus, &amp; timor mortis, ad quam decurrimus. 
+          <lb ed="#B1" n="31"/>lnter haec quatuor primum incitamentum ad poenitendum est amor CHRI 
+          <lb ed="#B1" n="32"/>STI, quem offendimus. Si CHRISTI beneficia cogitemus, nostram ingra 
+          <lb ed="#B1" n="33"/>titudinem ponderemus, non est dubium, si usum rationis habemus, quin oc 
+          <lb ed="#B1" n="34"/>casionem poenitentiae sentiemus. Scribunt Philosophi naturales, quod harpya 
+          <lb ed="#B1" n="35"/>auis est habens faciem quasi hominis: sed est auis multum crudelis &amp; ferox in 
+          <lb ed="#B1" n="36"/>tantum, quod interdum &amp; famc stimulante hominem inuadit, &amp; occidit: Sitiens 
+          <lb ed="#B1" n="37"/>ad aquam uolat, ut bibat, ubi faciem suam intuens, &amp; sibi similem se occidis  
+          <lb ed="#B1" n="38"/>se recolligens, tanto labore compatitur, quod inde quandoquc moritur.  
+          <lb ed="#B1" n="39"/>Quid ergo nos ratione utentes faciemus: quando Dominum nostrum &amp; fra 
+          <lb ed="#B1" n="40"/>trem nostrum CHRISTVM, quantum nostri interfuit, nos occidisse cogno 
+          <lb ed="#B1" n="41"/>scimus. Hoc autem uidemus expresse, cum uerba DEI audimus, uel scripta 
+          <lb ed="#B1" n="42"/>legimus Sanctorum deuore: &amp; quicunque non poenitet de peccatis, i 
+          <lb ed="#B1" n="43"/>sta recolligens, non est perfecte Christianus, nec Euangelio DEI credit. Et  
+          <lb ed="#B1" n="44"/>ideo signanter dicitur Marci primo capite: Poenitemini &amp; credite Eu 
+          <lb ed="#B1" n="45"/>angelio.
+        </p>
+        <p xml:id="rhwis-l144-d1e270">
+          <lb ed="#B1" n="46"/>Secundum incitamentum est dolor pro gratia, quam amisimus: Effici 
+          <lb ed="#B1" n="47"/>mur enim per culpam de filijs DEI, filij Diaboli, &amp; de familiaribus &amp; amicis  
+          <lb ed="#B1" n="48"/>Dci, hostes, proditores, &amp; aemuli: &amp; de regni coelestis haeredibus sumus exu 
+          <lb ed="#B1" n="49"/>les &amp; proscripti. In libro de naturis rerum dicitur, quod sit quaedam auis, 
+          <lb ed="#B1" n="50"/>quae uocatur auis paradisi, quae propter insignem pulchritudinem sic uoca 
+          <lb ed="#B1" n="51"/>tur. Sunt enim pennae cius adeo pulchrae &amp; mirabiles, quod nullus cius co  
+          <lb ed="#B1" n="52"/>lor deesse credatur: uox est ita dulcis &amp; pia, quod possit in homine deuotionem 
+          <lb ed="#B1" n="53"/>&amp; gaudium excitare. Haec auis, si capta fuerit &amp; illaqucata, irtemedia 
+          <!--sap_Page_519.xml-->
+          <pb ed="#B1" n="485"/>
+          <lb ed="#B1" n="1"/>biliter gemit &amp; plangit, nec plangere desinit, donec reddita fuerit liber tati:  
+          <lb ed="#B1" n="2"/>Moraliter auis ista est figura &amp; exemplum animae Christianae: haec quando est 
+          <lb ed="#B1" n="3"/>in gratia, est auis pulcherrima, quia in ea relucet imago Trinitatis, naturali  
+          <lb ed="#B1" n="4"/>ter sibi impressa: imago (inquit) decorata uirtutibus &amp; gratia, ut nihil sibi de 
+          <lb ed="#B1" n="5"/>sit, quin sit DEI filia, &amp; patriae coelestis incola gratiosa. Ista illaqueatur &amp; ca 
+          <lb ed="#B1" n="6"/>pitur in laqueo daemonis, quando peccat. Quid ergo restat ei facere: nisi plam 
+          <lb ed="#B1" n="7"/>gere, &amp; plorare, &amp; flere, &amp; dolere, &amp; incessanter poenitere, donec per gratiam 
+          <lb ed="#B1" n="8"/>recociliationis in statum pristinum reducatur: &amp; de bufone diaboli fiat denuo 
+          <lb ed="#B1" n="9"/>auis paradisi. Sic planxit &amp; gemuit sanctus latro iuxta CHRISTVM suspen 
+          <lb ed="#B1" n="10"/>sus, donec a fonte gratiae gratiam obtinuit, &amp; audiuit: Amen dico tibi, hodie 
+          <lb ed="#B1" n="11"/>mecum eris in paradiso, Luc. 23. Et ideo Mat. 3. Poenitentiam agite, appro 
+          <lb ed="#B1" n="12"/>pinquabit enim regnum coelorum.
+        </p>
+        <p xml:id="rhwis-l144-d1e320">
+          <lb ed="#B1" n="13"/>Tertium incitamentum poenitentiae est horror poenae, quam incur 
+          <lb ed="#B1" n="14"/>rimus. Istum horrorem bene sibi impresserat lob, quando dixit: Dimitte me, 
+          <lb ed="#B1" n="15"/>ut plangam paululum dolorom meum, antequam uadam, &amp; non reuertar ad 
+          <lb ed="#B1" n="16"/>terrami tenebrosam, &amp; opertam mortis caligine, terram miseriae &amp; tenebra 
+          <lb ed="#B1" n="17"/>rum, ubi umbra mortis, &amp; nullus ordo, sed sempiternus horror inhabitat. Et  
+          <lb ed="#B1" n="18"/>Apostolus ad Hebao. cap. Horrendum est incidere in manus Dei omnipoten 
+          <lb ed="#B1" n="19"/>tis. Et Greg. 9. moralium: Horrenda modo sit miseris mors sine morte, finis 
+          <lb ed="#B1" n="20"/>sinc fine, defectus sine defectu: quia mors semper uiust, &amp; finis semper incipit,  
+          <lb ed="#B1" n="21"/>&amp; deficere defectus nescit. Mors perimit, &amp; non extinguit: dolor cruciat, sed  
+          <lb ed="#B1" n="22"/>pauorem non fugit: flamma comburit, sed tenebras non excutit. Haec Gre 
+          <lb ed="#B1" n="23"/>gorius. Istud incitamentum poenitentiae multos mouit, quia sic a timore 
+          <lb ed="#B1" n="24"/>poenae, qui est timor seruilis &amp; initialis, gignitur timor filialis: sicut cera 
+          <lb ed="#B1" n="25"/>praecedit sigillum, uel seta praecedit filum, secundum Augustinum. Sic incoe 
+          <lb ed="#B1" n="26"/>pit loannes Baptista praedicare ludaeis: Progenies uiperarum, quis demofistra 
+          <lb ed="#B1" n="27"/>bit uobis fugerc a uentura ira:S Facite fructum digntmn poenitentiae, Matth.  
+          <lb ed="#B1" n="28"/>tertio.
+        </p>
+        <p xml:id="rhwis-l144-d1e358">
+          <lb ed="#B1" n="29"/>Quartum incitamentum poenitentiae est timor mortis, ad quam transcur 
+          <lb ed="#B1" n="30"/>rimus: Haec enim est ratio secundum Gregor. quare DEVS diem mortis no 
+          <lb ed="#B1" n="31"/>strae nobis incertam esse uoluit, ut dum semper ignoratur, semper proximo 
+          <lb ed="#B1" n="32"/>esse credatur, &amp; ideo semper parati inueniamur: 1, moral. Poenitentia au 
+          <lb ed="#B1" n="33"/>tem post mortem est impossibilis, quia in morte desinit aesse uiator. Poeniten 
+          <lb ed="#B1" n="34"/>tia prope mortem est ualde difficilis. Tum quia dolor languoris corporis  
+          <lb ed="#B1" n="35"/>occupat totaliter uires mentis, &amp; cum homo tantum cor unicum habeat, non 
+          <lb ed="#B1" n="36"/>habet pro tunc, ubi dolorem pro culpa producat: tum quia homo tunc non 
+          <lb ed="#B1" n="37"/>potest esse certus, an doleat pro peccato suo, diictus timore, an ductus amo 
+          <lb ed="#B1" n="38"/>re. Vnde Augustinus in quodam sermone, &amp; ponitur in canonae de poen. distin 
+          <lb ed="#B1" n="39"/>7 nullus. Quem morbus urget &amp; poena terreat, ad noram uix ueniet satisfa 
+          <lb ed="#B1" n="40"/>ctionem, maxime cum filij, quos illicite dilexerit sint praesentes, utor, mun 
+          <lb ed="#B1" n="41"/>dus a se uocent. Multos enim solet serotina poenitentia decipere. Haec Augu 
+          <lb ed="#B1" n="42"/>stinus. Quando enim persona nobilis grauiter infirmatur, uix inuenitur ali  
+          <lb ed="#B1" n="43"/>quis, qui de animae salute audeat sibi loqui: executores solicitantur circa diui  
+          <lb ed="#B1" n="44"/>tias &amp; thesauros, medici circa corporis medicinas, uxor &amp; filii &amp; amici con 
+          <lb ed="#B1" n="45"/>solantur infirmum ctiam contra conscientiam mentientes: &amp; sic non per 
+          <lb ed="#B1" n="46"/>mittitur de peccatis suis cogitare, nec animae suae statum salubriter ordinare: 
+          <lb ed="#B1" n="47"/>&amp; sic iusto DEI iudicio se damnationi exponit. Ecclesiastic. 2. Si poenitentiam  
+          <lb ed="#B1" n="48"/>non egerimus, incidemus in manus DEI, &amp; non in manus hominum. In ma 
+          <lb ed="#B1" n="49"/>nus hominum incidimus, si sacramentum poenitentiae debito modo susci 
+          <lb ed="#B1" n="50"/>pimus: Sed in manus DEI incidimus, quando post mortem tempus sacramen 
+          <lb ed="#B1" n="51"/>torum transimus.
+        </p>
+        <p xml:id="rhwis-l144-d1e410">
+          <lb ed="#B1" n="52"/>Secundo quatuor sunt poenitentiae impedimenta: pudor propalandi, ti 
+          <lb ed="#B1" n="53"/>mor recidiuandi, ardor delcctandi, &amp; torpor praestolandi. Primo volenti 
+          <!--sap_Page_520.xml-->
+          <pb ed="#B1" n="486"/>
+          <lb ed="#B1" n="1"/>efficaciter poenitere obiicitur pudor, quo homo confunditur alteri homini 
+          <lb ed="#B1" n="2"/>reuclare, quod notum est DEO &amp; angelis, &amp; daemonibus, &amp; sanctis anima 
+          <lb ed="#B1" n="3"/>bus, &amp; forte multis animabus. Et iste pudor est primus armiger 
+          <lb ed="#B1" n="4"/>quem Diabolus mittit contra uolentem salubriter poenitere. Vnde quidam 
+          <lb ed="#B1" n="5"/>sanctus uidit Diabolum inter poenitentes incedere, facientem cos erubesce 
+          <lb ed="#B1" n="6"/>re in Ecclesia, cum se ad confessionem pararent: qui adiuratus a sancto, 
+          <lb ed="#B1" n="7"/>&amp; interrogatus, quid inter illos poenitentes faceret: Respondit: Reddo 
+          <lb ed="#B1" n="8"/>quod abstuli: uerecundiam cis abstuli, quando peccauerunt, &amp; modo cis  
+          <lb ed="#B1" n="9"/>restituo, ne possint confiteri. Sicut enim Iupus ouem per guttur accipit, &amp; 
+          <lb ed="#B1" n="10"/>non per pedem, &amp; uulpes gallinam: ita Diabolus gnttur peccatorum con 
+          <lb ed="#B1" n="11"/>stringit pudore. Vnde Augustinus super Psalmum: O homo, quid times con 
+          <lb ed="#B1" n="12"/>fiteri illud: quod per confessionem scio, minus scio, quam id, quod nescio 
+          <lb ed="#B1" n="13"/>Cui confiteri erubescis peccata tua: peccator sum sicut &amp; tu: Homo sum, 
+          <lb ed="#B1" n="14"/>humanum a me nihil alienum. Confitere homo homini, homo peccator 
+          <lb ed="#B1" n="15"/>homini peccatori. Elige quod uis: si confessus, lates: non confessus, damnabe 
+          <lb ed="#B1" n="16"/>ris. Ad hoc DE VS exigit confessionem, ut liberet humilem: ad hoc damnat 
+          <lb ed="#B1" n="17"/>non confitentem, ut puniat superbum.
+        </p>
+        <p xml:id="rhwis-l144-d1e458">
+          <lb ed="#B1" n="18"/>Secundum impedimentum est timor redidiuandi: &amp; iste est secundus 
+          <lb ed="#B1" n="19"/>argniger, quem Diabolus mittit statim contra poenitere uolentem. Quomo 
+          <lb ed="#B1" n="20"/>do (inquit) proponis tu de caetero a peceatis abstinere 1 Poteris tu in perpe 
+          <lb ed="#B1" n="21"/>tuum uiuere continenterς Ad quid proderit tibi hodie confiteri: &amp; post 
+          <lb ed="#B1" n="22"/>cras labi in similc:Et non aduertit homo fatuus, quod non ideo statuit DEVI 
+          <lb ed="#B1" n="23"/>sacramentum poenitentiae ad manum, ut quotiens recidiuamus, totiens re 
+          <lb ed="#B1" n="24"/>surgamus.
+        </p>
+        <p xml:id="rhwis-l144-d1e476">
+          <lb ed="#B1" n="25"/>Tertium impedimentum poenitentiae est ardor desectandi, &amp; tertius 
+          <lb ed="#B1" n="26"/>armiger obuians poenitenti. Recolligit enim homo miser delectationem prae 
+          <lb ed="#B1" n="27"/>habitam in peccato, ut uideatur sibi, quod sinc eo non posset perducere ui  
+          <lb ed="#B1" n="28"/>tam suam, &amp; manente tali affectione impossibile est cum utiliter poenite 
+          <lb ed="#B1" n="29"/>re. Chrisostom, dib de compunctione cordis: Sicut impossibile est, ut ignis 
+          <lb ed="#B1" n="30"/>inflammetur in aqna: ita impossibile est compunctionem cordis uige 
+          <lb ed="#B1" n="31"/>re in delitijs: Contraria enim haec sunt sibi ad inuicem &amp; perempto 
+          <lb ed="#B1" n="32"/>ria. Illa enim mater fletus, haec risus: illa cor constringit, haec dis  
+          <lb ed="#B1" n="33"/>soluit.
+        </p>
+        <p xml:id="rhwis-l144-d1e498">
+          <lb ed="#B1" n="34"/>Quartum &amp; fortissimum impedimentum poenitentiae est torpor prae 
+          <lb ed="#B1" n="35"/>stolandi, qui oritur ex duplici praesumptione: scilicet ex praesumptione uita 
+          <lb ed="#B1" n="36"/>prolitae, &amp; finalis ueniae diuinitus concedendae: &amp; est quartus armiger, &amp; com  
+          <lb ed="#B1" n="37"/>muniter omnes inpedit: confidunt de futuro, promittunt in poste 
+          <lb ed="#B1" n="38"/>rum, procrastinant in longinquum, &amp; dicunt cum cor 
+          <lb ed="#B1" n="39"/>uo, cras, cras, donec morte subita 
+          <lb ed="#B1" n="40"/>periclitentur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

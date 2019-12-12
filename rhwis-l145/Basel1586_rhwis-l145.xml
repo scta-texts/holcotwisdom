@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 145 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 145 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="487"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l145">
+        <p xml:id="rhwis-l145-d1e95">
+          <!--sap_Page_521.xml-->
+          <pb ed="#B1" n="487"/>
+          <lb ed="#B1" n="1"/>POSTQUAM ostensum est, quod DEVS omnem creaturam per 
+          <lb ed="#B1" n="2"/>suae bonitatis clementiam crcando produxit a principio: In hac par 
+          <lb ed="#B1" n="3"/>te declarat Salomon, quod idem DEVS omnem creaturam confer 
+          <lb ed="#B1" n="4"/>uat, quamdiu sibi placet pro suae uoluntatis arbitrio.
+        </p>
+        <p xml:id="rhwis-l145-d1e111">
+          <lb ed="#B1" n="5"/>Et primo generaliter ascribit DEO omnium rerum conseruationem: Secun 
+          <lb ed="#B1" n="6"/>do DEO specialiter ascribit humanam gubernationem: secunda pars ibi: Par 
+          <lb ed="#B1" n="7"/>cis autem omnibus. Crca prmum dicitur sic: Quomodo autem aliquid perma nere 
+          <lb ed="#B1" n="8"/>posset, nisi tu voluisse: Non erum creatura ita parum dependet a DEO, sicut do 
+          <lb ed="#B1" n="9"/>mus ab artifice: Perfecta autem domo non plus dependet domus ab artifice, im 
+          <lb ed="#B1" n="10"/>mo corrupto artifice, nihilominus manet domus. Vnde artifex non est causa 
+          <lb ed="#B1" n="11"/>rei, cum iam est in esse perfecto, sed tantum est causa fieri ipsius rei. Vnde August 
+          <lb ed="#B1" n="12"/>22. de ciuit. DEI cap. 23. <quote xml:id="rhwis-l145-Qd1e130" source="http://scta.info/resource/adcd-l22-d1e3779">Vt ipsius Diaboli natura subsistat, ille facit, qui summe 
+            <lb ed="#B1" n="13"/>est, &amp; facit esse quidquid aliquo modo est</quote>. Efficacem quippe potentiam si rebus 
+          <lb ed="#B1" n="14"/>subtrahat, nec progredi poterunt, &amp; suis diuersis motibus peragere tempora: 
+          <lb ed="#B1" n="15"/>nec prorsus in eo, quod creatae sunt, aliquatenus permanebunt. Item de ucra Re  
+          <lb ed="#B1" n="16"/>ligione cap. 94. DEVS per suam sapientiam omnia fecit, &amp; per suam benignitate 
+          <lb ed="#B1" n="17"/>omnia conseruat. Idem 1. &amp; 2. super Gen. &amp; 3. de Trinitate, &amp; in multis alijs locis: 
+          <lb ed="#B1" n="18"/>&amp; noc est, quod subdit in litera: Aut quomodo, quod a te ocatum non esset, conserua 
+          <lb ed="#B1" n="19"/>retursquasi dicat: nullo modo, pocatum: id est, uerbum edictum de non esse. In 
+          <lb ed="#B1" n="20"/>Psal. <quote xml:id="rhwis-l145-Qd1e150" source="http://scta.info/resource/ps32_9 http://scta.info/resource/ps148_5">Dixit &amp; facta sunt</quote>: &amp; ad Rom. 4. <quote xml:id="rhwis-l145-Qd1e154" source="http://scta.info/resource/rom4_17">Vocat ea, quae non sunt, tanquam ea, quae  
+          <lb ed="#B1" n="21"/>sunt</quote>. Et quamuis sic generaliter omnia conseruet, quae produxit: specialiter ta 
+          <lb ed="#B1" n="22"/>men homines gubernat per clementiam. Vnde merito litera subdit: harcis au 
+          <lb ed="#B1" n="23"/>tem omnibus, quomam tua sunt, Domine, qui amas animas: parcis Gnqit) omnibus. 
+          <lb ed="#B1" n="24"/>supple, hominibus etiam peccantibus, qui digni forent, si tibi placeret, statim 
+          <lb ed="#B1" n="25"/>in infernum detrudi: sed parcis eis, tu, qui omnes homines uis saluos fieri, &amp; ad  
+          <lb ed="#B1" n="26"/>cognitionem ueritatis uenire, 1. Thimo. l. Ratio autem parcendi est: quoniam 
+          <lb ed="#B1" n="27"/>tua sunt, Domine. Sapien. . Etiam si peccauerimus, tul sumus, qui amas animas: 
+          <lb ed="#B1" n="28"/>homines enim communiter amant corpora: sed tu amas animas a te creatas 
+          <lb ed="#B1" n="29"/>singulariter, &amp; tibi assimilatas, &amp; tuo sanguine reformatas. Excech. i8. Omnes 
+          <lb ed="#B1" n="30"/>animae meae sunt. Amat DEVS etiam animas non singulariter sic, quod non 
+          <lb ed="#B1" n="31"/>corpora amet: sed priuilegialiter, quia cas ad se in perpctuum fruendum prae 
+          <lb ed="#B1" n="32"/>parauit.
+        </p>
+        <p xml:id="rhwis-l145-d1e183">
+          <lb ed="#B1" n="33"/>Totus autem labor Diaboli ad hoc nititur, ut summopere corpora diliga 
+          <lb ed="#B1" n="34"/>mus, &amp; animas negligamus, ut illud, quod a nobis neglectum fuerit, in partem 
+          <lb ed="#B1" n="35"/>sam cedat. Gen. 24. Da mihi animas, caetera tollet tibi. Arguuntur ctiam in 
+          <lb ed="#B1" n="36"/>noc uexoo sparcis autem omnibus: quoniam tua sunt, Domine, qui amas animas]  
+          <lb ed="#B1" n="37"/>tam mali domini, quam mali praelati. Mali domini non parcunt hominibus, 
+          <lb ed="#B1" n="38"/>quoniam sui sunt, sed spoliant, &amp; appropriant, &amp; destruunt, &amp; si de hoc ar 
+          <lb ed="#B1" n="39"/>guantur: respondent, quod licita faciunt, quoniam sui sunt.  
+          <!--sap_Page_522.xml-->
+          <pb ed="#B1" n="488"/>
+          <lb ed="#B1" n="1"/>Isti DEVM potius imitari deberent, &amp; cis parcere, quoniam sui sunt. Mali autem 
+          <lb ed="#B1" n="2"/>praelati arguuntur, qui plus amant decimas, oblationes, garbas &amp; lanas, quam 
+          <lb ed="#B1" n="3"/>animas CHRISTI sanguinc redemptas, contra quos Bern. in persona boni 
+          <lb ed="#B1" n="4"/>praelati dicit. Certe seruandum accepi, pro quo mercator non insipiens ipsa 
+          <lb ed="#B1" n="5"/>utique sapientia sanguinem suum fudit. Sic loquebatur Paulus 2. Corinth.12 
+          <lb ed="#B1" n="6"/>Ego autem libentissime impendam, &amp; supcrimpendar ipse pro animabus uc 
+          <lb ed="#B1" n="7"/>stris, licet plus uos diligens minus diligar.
+        </p>
+        <p xml:id="rhwis-l145-d1e220">
+          <lb ed="#B1" n="8"/>Quomodo quod vocatum a te non esset, conseruaretur.] Hic est notandum, quem 
+          <lb ed="#B1" n="9"/>sunt diuinae uocationes, quae sunt humanae excusationes, &amp; quae sunt excusan 
+          <lb ed="#B1" n="10"/>tium punitiones. De diuinis autem uocationibus est sciendum, quod tres 
+          <lb ed="#B1" n="11"/>sunt in genere, &amp; tres in specic. In generc quidem loquendo uocat uerbo, 
+          <lb ed="#B1" n="12"/>signo, &amp; nuncio. Sicut uolens aliquem ad se uocare, uocationem suam potest 
+          <lb ed="#B1" n="13"/>faccre tribus modis, per uerbum, signum, &amp; per nuncium. DEVS autem uo 
+          <lb ed="#B1" n="14"/>cat nos per uerbum in incarnatione Filij sui, quando <quote xml:id="rhwis-l145-Qd1e237" source="http://scta.info/resource/io1_14">uerbum caro factum est</quote>, 
+          <lb ed="#B1" n="15"/>Ioh. primo. Quando misit uerbum suum, &amp; sanauit eos: in Psalmo. Magna foret 
+          <lb ed="#B1" n="16"/>rusticitas, si rex Angliae mitteret filium suum ad uocandum aliquem pauperem. 
+          <lb ed="#B1" n="17"/>si ille uenire contemneret: et maior sit iniuria, si homo uilis &amp; pauper uerbo  
+          <lb ed="#B1" n="18"/>DEI, quod est Filius Patris, incarnato inuitante uenire contemnit, quod tamen 
+          <lb ed="#B1" n="19"/>frequenter uidemus, ut merito dicat CHRISTVS illud Iob io. <quote xml:id="rhwis-l145-Qd1e251" source="http://scta.info/resource/iob19_16">Seruum meum 
+            <lb ed="#B1" n="20"/>uocaui, &amp; non respondit mihi, ore proprio deprecabar illum</quote>. Os DEI, est uer 
+          <lb ed="#B1" n="21"/>bum DEI, iuxta illud Canticorum primo: Osculetur me osculo oris sui. Secun 
+          <lb ed="#B1" n="22"/>do CHRISTVS uocauit nos signo. Signum istud fuit corpus suum extensum in 
+          <lb ed="#B1" n="23"/>cruce, &amp; exaltatum in monte: rubricatum proprio sanguinc, sicut uolens re 
+          <lb ed="#B1" n="24"/>clamare falconem, stat in loco apparenti, cum reclamatorio rubricato: Ita 
+          <lb ed="#B1" n="25"/>CHRISTVS volens hominem clamare, qui a paradiso auolauerat in infernum, in 
+          <lb ed="#B1" n="26"/>montem Caluariae accessit, lignum crucis ascendit, latus sanguinolentum 
+          <lb ed="#B1" n="27"/>ostendit, uocc magna clamauit: ut sic scipso facto signo hominem reuocaret.  
+          <lb ed="#B1" n="28"/>Et tamen istis risis ingratissimi homines ad eum yenire contemnunt, sicut ipse  
+          <lb ed="#B1" n="29"/>conqueritur, Proverbiorum primo: Vocaui &amp; renuistis, extendi manus mcas, 
+          <lb ed="#B1" n="30"/>&amp; non fuit qui aspiceret. Tertio uocauit nos per nuncium: id est, per praedica 
+          <lb ed="#B1" n="31"/>torum officium, cuiuscunque, fuerint conditionis, siue praelati ordinarij, siuc a 
+          <lb ed="#B1" n="32"/>lij ab Ecclesia ad praedicandum deputati. De isto nuncio dicitur Luc. 14. Ho 
+          <lb ed="#B1" n="33"/>mo quidam fecit coenam magnam, &amp; uocauit multos, &amp; misit seruum suum 
+          <lb ed="#B1" n="34"/>hora coenae dicere inuitatis, ut uenirent. Quem locum exponens Grego. di 
+          <lb ed="#B1" n="35"/>cit scruum illum ordinem praedicatorum designare, cum tamen tempore suo  
+          <lb ed="#B1" n="36"/>nullus ordo in Ecclesia sic uocarctur.
+        </p>
+        <p xml:id="rhwis-l145-d1e292">
+          <lb ed="#B1" n="37"/>Secundo sicut homines tripliciter uocantur, ita se excusant tripliciter. Su 
+          <lb ed="#B1" n="38"/>perbi per subtilitatem dominationis: Auari per difficultatem terrenae occupa 
+          <lb ed="#B1" n="39"/>tionis: Luxuriosi per uoluptatem carnalis delectationis. Et isti tres figuran 
+          <lb ed="#B1" n="40"/>tur per illos tres, quos enumerat Euangelista Luc. 14. Quorum primus dixit:  
+          <lb ed="#B1" n="41"/><quote xml:id="rhwis-l145-Qd1e303" source="http://scta.info/resource/lc14_18">Villam emi &amp; necesse habeo exire &amp; uidere illam, rogo te habe me excusa  
+            <lb ed="#B1" n="42"/>tum</quote>. Secundus dixit: luga boum emi quinque, &amp; eo probarc illa, rogo te ha 
+          <lb ed="#B1" n="43"/>be me excusatum. Et tertius dixit: Vxorem duxi, &amp; ideo non possum ueni 
+          <lb ed="#B1" n="44"/>re. Primus designat superbos, qui pro ambitione terreni dominij gloriam a 
+          <lb ed="#B1" n="45"/>mittunt coelestis regni. Iste in sua excusatione bene se fatetur fatuum fuisse,  
+          <lb ed="#B1" n="46"/>qui se prius dicit uillam emisse quam uidisse. Faciliter cnim quilibet fallitur, quan  
+          <lb ed="#B1" n="47"/>do uidelicet illud emit, quod ab eo abscondit: &amp; certe si homo uideret &amp; com  
+          <lb ed="#B1" n="48"/>sidcraret, quid est in dignitate dominij secularis, illud non emeret nimis care, 
+          <lb ed="#B1" n="49"/>uideret enim ipsius breuitatem, quia Eccl. io. Omnis potentatus breuis uitae. Vi 
+          <lb ed="#B1" n="50"/>deret praecipitij grauitatem: quia quanto status altior, tanto casus grauior. Ccci  
+          <lb ed="#B1" n="51"/>dit Petrus, sed de infimo, ideo statim surrexit. Cecidit Dauid, sed de plano: qa 
+          <lb ed="#B1" n="52"/>se non in altum extulit: iuxta illud Psal. <quote xml:id="rhwis-l145-Qd1e330" source="http://scta.info/resource/ps130_1">Domine non est exaltatum cor meum</quote>, &amp; ideo 
+          <lb ed="#B1" n="53"/>cito surrexit. Cecidit Adam, sed de alto: quia de paradiso, &amp; ideo cum difficul  
+          <!--sap_Page_523.xml-->
+          <pb ed="#B1" n="489"/>
+          <lb ed="#B1" n="1"/>tate surrexit. Cecidit Lucifer, sed de coelo altissimo, ideo surgcre nunquam 
+          <lb ed="#B1" n="2"/>potuit. Secundus excusans figurat auaros, qui iuga boum quinque dicit sc emis 
+          <lb ed="#B1" n="3"/>se. Per quinque, iuga boum intelliguntur quinque sensus exteriores corporis. Et  
+          <lb ed="#B1" n="4"/>dicuntur iuga: quia secundum August. cuiuslibet sensus instrumenta combi  
+          <lb ed="#B1" n="5"/>nantur: duo enim sunt oculi, duae aures, duae nares, duo instrumenta gustus, lin 
+          <lb ed="#B1" n="6"/>gua &amp; palatum, duae manus, in quibus praecipue patet tactus. Sic ergo bo 
+          <lb ed="#B1" n="7"/>ues terram ucrsant, sic sensus auari circa terrena continue dclectantur: magis 
+          <lb ed="#B1" n="8"/>enim dclectantur cius oculi uidendo massam auri, quam in Ecclesia uidere cor 
+          <lb ed="#B1" n="9"/>pus CHRISTI. In ore ctiam dulcior est auri nominatio, quam uerbi DEI praedica 
+          <lb ed="#B1" n="10"/>tio: &amp; fatue iste se excusauit: quia prius debuit iuga probasse, quam emisse. Ter 
+          <lb ed="#B1" n="11"/>tius luxuriosos designat, qui per uxorem intelligit voluptatem: non enim per 
+          <lb ed="#B1" n="12"/>coniugium coniugati excluduntur a coena, licet aliqualiter. Vnde ille dicitur uxo 
+          <lb ed="#B1" n="13"/>rem duxisse, qui tota affectione sc tradidit uoluptati: &amp; talis ad coenam coelestem  
+          <lb ed="#B1" n="14"/>uenirc non potest nec debet, nec est dignus, nec potest ire: quia ipse est foeti 
+          <lb ed="#B1" n="15"/>dus: non est dignus, quia est sordida ueste indutus: &amp; ideo, quia tot sunt, qui so 
+          <lb ed="#B1" n="16"/>excusant, licet multi sunt uocati, pauci tamen sunt electi, Matth. 20. In cu 
+          <lb ed="#B1" n="17"/>ius signum Numcri M. legimus, quod de sedecim millibus hominum non 
+          <lb ed="#B1" n="18"/>cesserunt in partem Domini nisi 32. animae.
+        </p>
+        <p xml:id="rhwis-l145-d1e381">
+          <lb ed="#B1" n="19"/>Tertio uidendum est, quae sunt excusantium punitiones, &amp; sunt tres. Sc 
+          <lb ed="#B1" n="20"/>gregatio a consortio bonorum, Luc. i4. Nemo uirorum illorum, qui uocati sunt.  
+          <lb ed="#B1" n="21"/>gustabunt coenam meam. Subsannatio &amp; improperium peccatorum: quia in 
+          <lb ed="#B1" n="22"/>iudicio DEVS &amp; angeli, &amp; homines, &amp; daemones subsannabunt, &amp; deridebunt  
+          <lb ed="#B1" n="23"/>fatuos peccatores, qui diuinas uocationes neglexerunt. Prover. primo: Quia 
+          <lb ed="#B1" n="24"/>uocaui &amp; renuistis, extendi manus meas, &amp; non fuit qui aspiceret. Et infra 
+          <lb ed="#B1" n="25"/>Ego quoqu, in interitu uestro ridebo, &amp; subsannabo, cum uobis, quod timeba 
+          <lb ed="#B1" n="26"/>tis, aduenerit. Cruciatio perpetua tormentorum. Efa. ult. Eligam illusiones eo  
+          <lb ed="#B1" n="27"/>rum, quae timebant, adducam eis: quia uocaul, &amp; non erat qui responderet:  
+          <lb ed="#B1" n="28"/>Non sic de bonis &amp; iustis, qui DEVM audiunt uocantem per obedientiam, &amp; 
+          <lb ed="#B1" n="29"/>praeceptorum obseruantiam: hi in coelo ponentur, lucentes sicut stellae in per 
+          <lb ed="#B1" n="30"/>petuas aeternitates. Baruch. 3. Stellae vocatae sunt, &amp; dixerunt: adsumus, &amp; Iuxe 
+          <lb ed="#B1" n="31"/>runt ei cum iocunditate, qui fecit illas. Specialius autem uocat nos ostensio  
+          <lb ed="#B1" n="32"/>nibus exemplorum, promissionibus praemiorum, &amp; percussionibus flagello 
+          <lb ed="#B1" n="33"/>rum. Primo nos uocat ostensionibus excmplorum, Quot enim nos per uiam  
+          <lb ed="#B1" n="34"/>poenitentiae praecesserunt, tot uocationes habemus: quot millia martyrum: 
+          <lb ed="#B1" n="35"/>quot millia virginum: quot millia confessorum, tot sunt millia vocantium, 
+          <lb ed="#B1" n="36"/>Ioh. 10. <quote xml:id="rhwis-l145-Qd1e422" source="http://scta.info/resource/io10_3">Proprias oues uocat nominatim, &amp; adducit eas</quote>. At Apostolus ad Phi 
+          <lb ed="#B1" n="37"/>lip. 3. Ea, quae retro sunt, obliuiscens, &amp; ad ea, quae priora sunt, extendens me 
+          <lb ed="#B1" n="38"/>ipsum, ad destinatum persequor, ad brauium supernae uocationis. Secundo 
+          <lb ed="#B1" n="39"/>nos uocat promissionibus praemiorum, sicut diues uocat pauperem, osten 
+          <lb ed="#B1" n="40"/>dendo sibi denarium. Prima Pet. 3. In hoc estis uocati, ut benedictionem hae 
+          <lb ed="#B1" n="41"/>reditate possideatis. Tertio uocat nos percussionibus flagellorum: quotiens  
+          <lb ed="#B1" n="42"/>enim infirmitatibus flagellamur, seu fatigamur, uel aduersitatibus tri 
+          <lb ed="#B1" n="43"/>bulamur, totiens a DEO uocamur. Et sicut Gregorius 
+          <lb ed="#B1" n="44"/>dicit: Mala, quae nos premunt, ad DEVM 
+          <lb ed="#B1" n="45"/>ire compellunt.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

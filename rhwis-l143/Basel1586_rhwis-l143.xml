@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 143 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 143 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="479"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l143">
+        <p xml:id="rhwis-l143-d1e95">
+          <lb ed="#B1" n="30"/>POSTQVAM declaratum est quod DEVS potuit aliter puniuis  
+          <lb ed="#B1" n="31"/>se Aegyptios quam fecit: quia potuit usus fuisse in eorum supplicio mul 
+          <lb ed="#B1" n="32"/>tiplici ministerio mirabilis creaturae, utpote bestijs saeuis, tam creatis  
+          <lb ed="#B1" n="33"/>quam creabilibus qui eos exterminassent omnino: in hac parte declarat, quod 
+          <!--sap_Page_514.xml-->
+          <pb ed="#B1" n="480"/>
+          <lb ed="#B1" n="1"/>etiam sine quocunque ministerio creaturarum potuisset per hoc per se &amp; imme 
+          <lb ed="#B1" n="2"/>diate propria uirtute. Vnde ab hoc loco usque ad finem Capituli declaratur,  
+          <lb ed="#B1" n="3"/>quomodo DEVS regit omnia, &amp; specialiter naturam humanam, miscendo po 
+          <lb ed="#B1" n="4"/>tentiam suam cum sua misericordia: &amp; hoc facit alternatim, sicut in litera sa 
+          <lb ed="#B1" n="5"/>tis docet.
+        </p>
+        <p xml:id="rhwis-l143-d1e121">
+          <lb ed="#B1" n="6"/>Quantum ad primum dicit sic: Nam &amp; sine his, &amp;c. qui. d. placuit tibi Aegy 
+          <lb ed="#B1" n="7"/>ptios per infirmas bestias affligere, sicut per ciniphes muscas, ranas: potuisti 
+          <lb ed="#B1" n="8"/>tamen per ursos &amp; leones, &amp; bestias inuisas occidisse, si tibi placuisset, &amp; non 
+          <lb ed="#B1" n="9"/>solum hoc: Nam pro etiam sine bis talibus, scilicet bestijs creabilibus, uel crea 
+          <lb ed="#B1" n="10"/>tis, uno spiritu: id est, una iussione tuae uoluntatis poterant occidi: persecutionem: 
+          <lb ed="#B1" n="11"/>id est, diuinam ultionem passi ab ipsis factis suis: id est, merito factorum suorum: 
+          <lb ed="#B1" n="12"/>&amp; dispersi: id est, resoluti in elementa per spiritum: id est, iussionem virtutis tuae 
+          <lb ed="#B1" n="13"/>Ex quibus patet Domine quid posses de tua infinita potentia: scilicet clemen 
+          <lb ed="#B1" n="14"/>tia regulatus non exequeris ulciscendo potentiam absolutam, sed potentiam  
+          <lb ed="#B1" n="15"/>magis per clementiam simitatam. Quia omnia in mensura &amp; numero &amp; pondere 
+          <lb ed="#B1" n="16"/>disposuisti. Hanc autoritatem exponit Augustinus super Genes. ad literam cap.  
+          <lb ed="#B1" n="17"/>7. Fateamur (inquit) DEVM omnia in mensura &amp; numero &amp; pondere dispo 
+          <lb ed="#B1" n="18"/>suisse, tanquam dictum esset: Ita disposita sunt omnia, ut habeant proprias mensu 
+          <lb ed="#B1" n="19"/>tas suas, &amp; proprios numeros, &amp; proprium pondus, quae in eis pro sui cuiusque  
+          <lb ed="#B1" n="20"/>mutabilitate mutarentur augmentis &amp; diminutionibus, multitudine &amp; pau 
+          <lb ed="#B1" n="21"/>citate, leuitate &amp; grauitate, secundum dispositionem DEI. Secundum istam  
+          <lb ed="#B1" n="22"/>expositonem est in illa propositone distributio accommoda, tantum pro ge 
+          <lb ed="#B1" n="23"/>neralibus &amp; corruptibilibus, quae sola augentur &amp; diminuuntur, &amp; grauita 
+          <lb ed="#B1" n="24"/>tem aut leuitatem habent. Generalius tamen sic potest sic exponi. Imagine 
+          <lb ed="#B1" n="25"/>mur quod a DEO cuncta procedant, sicut numeri ab unitate, &amp; unaquaeque spe 
+          <lb ed="#B1" n="26"/>cies uniuersi certum gratum teneat, secundum distantiam a prima causa re 
+          <lb ed="#B1" n="27"/>rum. Et sic uidetur loqui Aristotel. 8. Metaphys. Vbi dicit quod formae rerum se 
+          <lb ed="#B1" n="28"/>habent sicut numeri, &amp; sic inueniemus quod omnis res est in numero. i. in di 
+          <lb ed="#B1" n="29"/>stantia certa a DEO: modo quilibet numerus certam habet distantiam ad uni  
+          <lb ed="#B1" n="30"/>tatem: Item omnis res est in mensura: quia omnis res creata est finitae &amp; limita 
+          <lb ed="#B1" n="31"/>tae perfectionis, tam in essentia quam in potentia agendi. Tertio omnis res crea 
+          <lb ed="#B1" n="32"/>ta habet suum pondus: id est, naturalem appetitum ad aliquid, in quo sua na 
+          <lb ed="#B1" n="33"/>tura saluatur &amp; perficitur: sicut creatura rationalis naturaliter appetit beatitu  
+          <lb ed="#B1" n="34"/>dinem, &amp; creatura corporalis locum sibi conuenientem. Sed magis ad propo 
+          <lb ed="#B1" n="35"/>situm sic exponitur: Tu Domine poteras quidem per potentiam peccatores  
+          <lb ed="#B1" n="36"/>&amp; idolatras multipliciter afflixisse, imo annihilasse, sicut eas de nihilo produ 
+          <lb ed="#B1" n="37"/>xisti: &amp; uerum est quod pro quolibet peccato posses maximam poenam infli 
+          <lb ed="#B1" n="38"/>gere: quia nulla poena potest adaequari peccato quantumcunque sit magna 
+          <lb ed="#B1" n="39"/>Tu tamen Domine omnia peccata nostra in mensura certae quantitatis, &amp; nu 
+          <lb ed="#B1" n="40"/>mero tuae sanctae discretionis, a pondere recti iudicij disposuisti, ac si peccata 
+          <lb ed="#B1" n="41"/>nostra non maiorem poenam sibi determinarent. Ratio autem quare sic po 
+          <lb ed="#B1" n="42"/>tentiam cum clementia temperas, est magnitudo potentiae &amp; bonitatis tuae 
+          <lb ed="#B1" n="43"/>Nam ex quo potes omnia &amp; es summe bonus, bonitas tua disposuit omnia, 
+          <lb ed="#B1" n="44"/>sicut ea decet disponi. Et hoc est quod subditur: Multum enim valore: id est,  
+          <lb ed="#B1" n="45"/>posse tibi soli supererat: id est abundanter erat: quia infinite semper etiam ante 
+          <lb ed="#B1" n="46"/>quam mundus esset, &amp; quid mirum: potentia actiua, quam nulla resistentia 
+          <lb ed="#B1" n="47"/>impedit, operatur sine difficultate: sed talis est potentia DEI: ergo sine difficul 
+          <lb ed="#B1" n="48"/>tate facere potest quidquid uult. Et hoc est qued subdit: Virtuti brachij tui quis re 
+          <lb ed="#B1" n="49"/>sistet: quasi diceret, nullus: quia nihil potest tibi resistere. Et hoc pulchre probat 
+          <lb ed="#B1" n="50"/>Boëtius 3 de conso. prosa 12. Nihil seruans naturam DEO contrarie conatur:  
+          <lb ed="#B1" n="51"/>uide ibi. Et potest colligi ratio sic: Omnia appetunt bonum per naturam: ergo 
+          <lb ed="#B1" n="52"/>nihil contrariatur bono per naturam. DEUS est summum bonum: ideo DEO 
+          <lb ed="#B1" n="53"/>nihil seruans naturam contrariatur.  
+          <!--sap_Page_515.xml-->
+          <pb ed="#B1" n="481"/>
+          <lb ed="#B1" n="1"/>Ex quo autem nihil possit DEo resistere, probat comparando naturam ad 
+          <lb ed="#B1" n="2"/>duo, in quibus modica resistentia reperitur. Primum est momentum staterae: 
+          <lb ed="#B1" n="3"/>id est, lingua staterae: lingua enim staterae, quando pendicula sunt aequalia, &amp; 
+          <lb ed="#B1" n="4"/>in eis aequalia pondera apposita caeteris paribus, stat erecta perpendiculariter. 
+          <lb ed="#B1" n="5"/>Sed quantumcunque, modicum grauitatis apponatur, statim recedit a situ suo, 
+          <lb ed="#B1" n="6"/>&amp; facit nutum sine quacunque resistentia. Isto modo omnis creatura est in manu 
+          <lb ed="#B1" n="7"/>DEi. Quod si DEVS uoluerit eam annihilare, nulla resistentia potest esse: &amp; hoc 
+          <lb ed="#B1" n="8"/>e, quod dicit. Quoniam tanquam momentum staterae, sic est ante te orbis terra 
+          <lb ed="#B1" n="9"/>rum. Secundum exemplum, ad quod comparatur instabilitas humana, est gut.  
+          <lb ed="#B1" n="10"/>ta roris antelucani. Ros antelucanus est ros generatus ante ortum Solis in ma 
+          <lb ed="#B1" n="11"/>tutino. Et dicitur antelucanus, id est, ante ortum Solis existens. Et declinatur  
+          <lb ed="#B1" n="12"/>antelucanus, na, num. Ros autem talis oriente Sole, statim desiccatur, &amp; a ter 
+          <lb ed="#B1" n="13"/>ta absorbetur: &amp; hnoc est, quod subditur: tanquam guita roris antelucani, quae de 
+          <lb ed="#B1" n="14"/>scendit in terram. Et haec est sententia literae.
+        </p>
+        <p xml:id="rhwis-l143-d1e262">
+          <lb ed="#B1" n="15"/>Quia omnia DEVS disposuit in mensura, &amp; numero, &amp; pondere. Conuerens 
+          <lb ed="#B1" n="16"/>est n obis &amp; necessarium, quod omnia nostra in mensura, numero &amp; ponde 
+          <lb ed="#B1" n="17"/>re disponamus: quia nisi haec fecerimus, uitam nostram non poterimus ordi 
+          <lb ed="#B1" n="18"/>nare uirtuose. In figuram, cuius legimus 4. Esdrae 4 uersus principium, quod  
+          <lb ed="#B1" n="19"/>angelus ad Esdram missus, dixit sic: Tres uias missus sum tibi dicere, &amp; tres 
+          <lb ed="#B1" n="20"/>similitudines ostendere coram te. Vade pondera mihi pondus ignis, aut men 
+          <lb ed="#B1" n="21"/>sura mihi flatum uenti, aut reuoca die, quae praeterijt: quasi diceret, pondera 
+          <lb ed="#B1" n="22"/>poenam infernalis acerbitatis, mensura flatum temporalis uanitatis, reuoca, 
+          <lb ed="#B1" n="23"/>hoc est, numera reatum propriae prauitatis. Igitur iuxta literam lectionis, men 
+          <lb ed="#B1" n="24"/>suremus, numcremus, &amp; ponderemus. Mensuremus mundanae gloriae leuita 
+          <lb ed="#B1" n="25"/>tem, praesentis transitus breuitatem, futurae uitae iocunditatem. Et cum si 
+          <lb ed="#B1" n="26"/>mensurauerimus, numeremus quot recipimus diuina munera, quot 
+          <lb ed="#B1" n="27"/>commisimus horrenda crimina, quot omisimus concessa tempo 
+          <lb ed="#B1" n="28"/>ra. Et cum sic numerauimus, ponderemus quantum debuimus, quam 
+          <lb ed="#B1" n="29"/>ingrati fucrimus, quidquid meruimus. Et omnia nostra in mensura, numero 
+          <lb ed="#B1" n="30"/>&amp; pondere disponamus. Si mensuremus mundanae gloriae leuitatem, uidebi  
+          <lb ed="#B1" n="31"/>mus, quod ipsa est parum apprecianda. Vnde Augustinus super Psalm. op. lna 
+          <lb ed="#B1" n="32"/>nis est gloria huius seculi, fallax est suauitas, &amp; infructuosus labor, &amp; perpe 
+          <lb ed="#B1" n="33"/>tuus timor, &amp; periculosa sublimitas: Initium sine prudentia, finis cum poena 
+          <lb ed="#B1" n="34"/>Hanc uanitatem mensurauerat rex ille, de quo Valerius lib. 7. cap. 2. Rex, in 
+          <lb ed="#B1" n="35"/>quit, ille subtilis iudicij, quem ferunt traditum sibi diadema, priusquam ca 
+          <lb ed="#B1" n="36"/>piti imponeret, retentum diu, considcrasse &amp; dixisse: Onerabilem magis quanm 
+          <lb ed="#B1" n="37"/>felicem pannum, quem si quis penitus agnoscat, quam multis solicitudinibus  
+          <lb ed="#B1" n="38"/>&amp; periculis, &amp; miseriis sit refertus, ne humi quidem iacentem tollere uelit.  
+          <lb ed="#B1" n="39"/>Ergo si secundum uerum ualorem mensuraretur gloria temporalis, parua 
+          <lb ed="#B1" n="40"/>foret: ut merito dicant boni Christiani illud 2. Corinth.io. Nos non in immen 
+          <lb ed="#B1" n="41"/>sum gloriamur, sed secundum mensuram regulae, quam mensus est nobis 
+          <lb ed="#B1" n="42"/>DEVS. Ista ergo regula est conscientia benc ordinata 2. Corinth. 1. Gloria no 
+          <lb ed="#B1" n="43"/>stra haec est testimonium conscientiae nostrae. Secundo si mensuremus praesen 
+          <lb ed="#B1" n="44"/>tis transitus breuitatem, uidebitur modica uel nulla. Vnde Psalm. <quote xml:id="rhwis-l143-Qd1e329" source="http://scta.info/resource/ps38_6">Ecce men 
+            <lb ed="#B1" n="45"/>surabiles pofuisti dies meos, &amp; substantia mea</quote>, &amp;c. Istam brcuitatem uitae com  
+          <lb ed="#B1" n="46"/>siderauit erxes rex, &amp;c. Item ille, qui Alexandro suadente, rex nullo modo  
+          <lb ed="#B1" n="47"/>fieri uoluit. In istius tamen temporis breuitate tria magna negotia nos opor 
+          <lb ed="#B1" n="48"/>tet seruare: uidelicet obedientiam praeceptorum, poenitentiam peccatorum  
+          <lb ed="#B1" n="49"/>&amp; bencuolentiam proximorum. In cuius figuram Apocal. 2. quod angelus 
+          <lb ed="#B1" n="50"/>qui muros ciuitatis Hierusalem mensurauit, habuit mensuram arundincam,  
+          <lb ed="#B1" n="51"/>&amp; mensus est muros eius i44. cubitorum. Anima nostra est moraliter ci 
+          <lb ed="#B1" n="52"/>uitas Denl summi, in qua per gratiam inhabitare dignatur. Murus cius est. 
+          <!--sap_Page_516.xml-->
+          <pb ed="#B1" n="482"/>
+          <lb ed="#B1" n="1"/>corpus corruptibile. Istos muros mensurare debet homo seu ratio, replican 
+          <lb ed="#B1" n="2"/>do quotidie uitae breuitatem, &amp; mortis uicinitatem: sic tamen mensuret, 
+          <lb ed="#B1" n="3"/>quod habeat i44. cubitos. In centenario obedientia praeceptorum designa 
+          <lb ed="#B1" n="4"/>tur: decies enim decem faciunt centum. Nos ergo, si quinque sensus exterio 
+          <lb ed="#B1" n="5"/>res, &amp; quinque interiores reducamus ad decem praecepta Decalogi, decem  
+          <lb ed="#B1" n="6"/>multiplicamus per decem, &amp; ad centenarium obedientiae praeceptorum perue 
+          <lb ed="#B1" n="7"/>nimus: &amp; sic in centum annis aedificamus arcam, qua saluamur a diluuio hus 
+          <lb ed="#B1" n="8"/>ius uitae, Genes. 6. Sed debet habere murus corporis nostri i44. cubitos: quia 
+          <lb ed="#B1" n="9"/>non solum oportet nos habere obedientiam praeceptorum, sed etiam poenis 
+          <lb ed="#B1" n="10"/>tentiam peccatorum: quia in multis offendimus omnes. Et si dixcrimus: quia 
+          <lb ed="#B1" n="11"/>peccatum non habemus, nosipsos seducimus. Haec autem poenitentia in 
+          <lb ed="#B1" n="12"/>numero quadragenario designatur. Prouenit autem ex ductu quaternarij in 
+          <lb ed="#B1" n="13"/>decem. Iste enim numerus est numcrus poenitentiae consecratus ab Ecclesia. 
+          <lb ed="#B1" n="14"/>Vnde in Quadragesima oes Christiani ieiunijs &amp; operibus poenitentiae indulgent.  
+          <lb ed="#B1" n="15"/>Et merito quadragenarius est numerus poenitentiae consecratus. Si enim oës 
+          <lb ed="#B1" n="16"/>partes aliquotas ipsius quadragenarij capiamus, facient praecise go. Vnde 4o 
+          <lb ed="#B1" n="17"/>est numerus superabundans. Verbi gratia: 1. 2. 4. 5. 8. 10. 20. non habet plures  
+          <lb ed="#B1" n="18"/>partes aliquotas, &amp; istae complent. 50. Quinquagenarius uero est numerus gra 
+          <lb ed="#B1" n="19"/>tiae &amp; remissionis, secundum quem computatur annus lubileus in lege Iudaeo 
+          <lb ed="#B1" n="20"/>rum. In signum ergo quod per sacramentum poenitentiae consequimur per 
+          <lb ed="#B1" n="21"/>fectam remissionem peccatorum, quadragenarius numerus, cuius partes a 
+          <lb ed="#B1" n="22"/>liquotae faciunt so. qui est numerus remissionis poenitentiae consecratur. Sic  
+          <lb ed="#B1" n="23"/>ergo mensurabimus murum nostrum, quod habeat i44. cubitos. Et ipse to 
+          <lb ed="#B1" n="24"/>talis numcrus compositus, est numerus humanae saluti deputatus. In cuius 
+          <lb ed="#B1" n="25"/>figuram lohan. uidit i44. millia signatos, Apocal. 7. Et i44. millia virgines 
+          <lb ed="#B1" n="26"/>agnum sequentes, Apocal. 14. Tertio si mensuremus futurae uitae iocunditas 
+          <lb ed="#B1" n="27"/>tem, recolligendo, quod beatitudinis futurae gaudia recipiemus pro momen 
+          <lb ed="#B1" n="28"/>tancis meritis in praesenti, non inueniemus imensuram pro mensura: quia 
+          <lb ed="#B1" n="29"/>praemiabimur ultra, sed inueniemus verificatum, quod scribitur Luc. 6. Men 
+          <lb ed="#B1" n="30"/>suram bonam, &amp; confertam, &amp; coagitatam, &amp; supereffluentem dabunt in si 
+          <lb ed="#B1" n="31"/>num uestrum. Cum ergo sic disposucrimus nos in mensura, restat disponere 
+          <lb ed="#B1" n="32"/>nos in numero.
+        </p>
+        <p xml:id="rhwis-l143-d1e424">
+          <lb ed="#B1" n="33"/>Numeremus ergo primo, quot recepimus diuina munera, &amp; inuenic 
+          <lb ed="#B1" n="34"/>mus infinita, quae numerari non possunt. Primo nos creauit ad suam similitus 
+          <lb ed="#B1" n="35"/>dinem, &amp; pro nobis coelum &amp; tcrram, &amp; omnia mirabilia, quae coeli ambitu 
+          <lb ed="#B1" n="36"/>continentur, Genes. . Suspice coelum &amp; numera stellas, si potes, lob. 9. Facit  
+          <lb ed="#B1" n="37"/>magna &amp; inscrutabilia, &amp; mirabilia, quorum non est numerus. Secundo nu 
+          <lb ed="#B1" n="38"/>meremus, quot commisimus deflenda crimina: &amp; iterum inueniemus infi 
+          <lb ed="#B1" n="39"/>nita. In Psalm. <quote xml:id="rhwis-l143-Qd1e441" source="http://scta.info/resource/ps18_13">Delicta quis intelligit</quote>. Iob. 2. Propter malitiam tuam plurimam, 
+          <lb ed="#B1" n="40"/>&amp; infinitas iniquitates tuas. Et Ecclesiast. 1. Stultorum infinitus est numerus. 
+          <lb ed="#B1" n="41"/>Tcrtio inueniemus quot amisimus concessa tempora, &amp; inueniemus infini 
+          <lb ed="#B1" n="42"/>ta. Ecclesiast. 7. Numerum dierum os. tempus dedit illi, s. ad beneoperandum, 
+          <lb ed="#B1" n="43"/>&amp; ad poenitendum de peccatis. Sed lob 24. scribitur: Dedit illi locum poeni 
+          <lb ed="#B1" n="44"/>tentiae, &amp; ipse abutitur eo in superbiam.
+        </p>
+        <p xml:id="rhwis-l143-d1e456">
+          <lb ed="#B1" n="45"/>Cum sic nos disposucrimus in mensura, &amp; numero, ponamus etiam  
+          <lb ed="#B1" n="46"/>nos in ponderce. Primo ponderemus quantum debemus, praesertim propter 
+          <lb ed="#B1" n="47"/>beneficium incarnationis, ex quo natura nostra cum diuina natura commu 
+          <lb ed="#B1" n="48"/>nicationem coepit habere. Ecclesiast. 3. Pondus super se tollat, qui honestiori 
+          <lb ed="#B1" n="49"/>se communicat. Secundo ponderemus quod ingrati fuimus, &amp; ingratitudi  
+          <lb ed="#B1" n="50"/>nis nostrae pondera deponamus, iuxta consilium Apostoli ad Hebraeos 
+          <lb ed="#B1" n="51"/>duodecimo capite: Deponamus omne pondus, &amp; circumstans nos 
+          <lb ed="#B1" n="52"/>peccatum, per patientiam curamus ad propositum nobis certamen 
+          <!--sap_Page_517.xml-->
+          <pb ed="#B1" n="483"/>
+          <lb ed="#B1" n="1"/>Tertio ponderemus quidquid meruimus: quia totum siue bonum siue ma 
+          <lb ed="#B1" n="2"/>lum in iudicium adducetur. Esa. 29. Ponam iudicium in pondere, &amp; iustitiam  
+          <lb ed="#B1" n="3"/>in mensura. Et sic disponamus nos in mensura, numero &amp; pondere: Mensu 
+          <lb ed="#B1" n="4"/>remus ergo mundanae gloriae uanitatem &amp; leuitatem, mensuremus prae 
+          <lb ed="#B1" n="5"/>sentis transitus breuitatem, mensuremus futurae uitae iocunditatem. Et cum 
+          <lb ed="#B1" n="6"/>mensuraucrimus, numeremus quot recipimus diuina muncra, numeremus 
+          <lb ed="#B1" n="7"/>quot commisimus horrenda crimina, numeremus quot omisimus conces  
+          <lb ed="#B1" n="8"/>sa tempora. Et cum sic numeraucrimus, ponderemus quantum debuimus, 
+          <lb ed="#B1" n="9"/>ponderemus, quantum ingrati fuimus, ponderemus quidquid meruimus. 
+          <lb ed="#B1" n="10"/>Et sic omnia nostra in mensura, numero &amp; pondere disponamus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

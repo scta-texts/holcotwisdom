@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 170 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 170 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="561"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l170">
+        <p xml:id="rhwis-l170-d1e95">
+          <lb ed="#B1" n="13"/>VM sit intentio Spiritus sancti in isto capitulo, sicut in duobus prae 
+          <lb ed="#B1" n="14"/>cedentibus idolatriam penitus extirpare, &amp; cultum unius DEI 
+          <lb ed="#B1" n="15"/>hominibus publicare: procedit contra idolatriam, ostendens ido 
+          <lb ed="#B1" n="16"/>latrarum fatuitatem, secundum quatuor causas ipsius idoli: uide 
+          <lb ed="#B1" n="17"/>licet materialem, formalem, efficientem, &amp; finalem. Forma namque  
+          <lb ed="#B1" n="18"/>idoli uana est, &amp; inutilis, atque deceptoria, praetendens aliquid nummis, ubi ni 
+          <lb ed="#B1" n="19"/>hil uitae est: Materia est corruptibilis, de quocunque accipiatur, siue sit aurum &amp; 
+          <lb ed="#B1" n="20"/>argentum, siue sit lapis uel lignum. Efficiens est derisibilis: quia homo miser 
+          <lb ed="#B1" n="21"/>&amp; peccatis inuolutus praesumit sibi facere DEVM. Finalis causa siue finis est 
+          <lb ed="#B1" n="22"/>impossibilis: quia illud quod in se nec uiuit, nec intelligit, alijs nullo modo com  
+          <lb ed="#B1" n="23"/>silium &amp; auxilium potest praestare. Diuiditur ergo pars sequens usque ad finem 
+          <lb ed="#B1" n="24"/>principaliter in quatuor: Nam primo ostendit idolorum inutilitatem ex parte 
+          <lb ed="#B1" n="25"/>formae: secundo ex parte materiae &amp; efficientis similis: tertio ex parte efficien 
+          <lb ed="#B1" n="26"/>tis per se: quarto ex parte finis &amp; efficientis coniunctim. Secunda pars ibi: Sed  
+          <lb ed="#B1" n="27"/>&amp; figulus. Tertia ibi. Sed &amp; est cura. Quarta ibi: Quoniam omnia idola nationum. 
+          <lb ed="#B1" n="28"/>Circa primum duo facit, quia primo ostendit quomodo idolatrae per speciem  
+          <lb ed="#B1" n="29"/>idoli decipiuntur. Secundo quomodo iuste propter hoc puniuntur, ibi: Ma 
+          <lb ed="#B1" n="30"/>lorum amatores. Primo ergo deridendo formam siue pulchritudinem idoli, lo 
+          <lb ed="#B1" n="31"/>quitur in persona colentium uerum DEVM: id est, in persona ludaeorum, qui  
+          <lb ed="#B1" n="32"/>tunc coluetunt uerum DEVM, &amp; dicit sic: Non enim in errorem induxit nos ho 
+          <lb ed="#B1" n="33"/>minum male artis excogitatio: male artis fabricandi idola, quae dicitur ars homi 
+          <lb ed="#B1" n="34"/>num: quia ab hominibus non a DEO est adinuenta. Illa inquam excogitatio: id  
+          <lb ed="#B1" n="35"/>est, ars excogitata non induxit nos in errorem idolatrandi uel deserendi uerum 
+          <lb ed="#B1" n="36"/>cultum DEI: nec etiam vmbra picturae: id est, species idolorum cito transiturae 
+          <lb ed="#B1" n="37"/>sicut umbra. Vmbra dico, quae est labor sine fructu: id est, forma inutili labore fa 
+          <!--sap_Page_596.xml-->
+          <pb ed="#B1" n="562"/>
+          <lb ed="#B1" n="1"/>bricata. Effigies sculpta per varios colores cuius aspectus: id est, forma aspecta dat 
+          <lb ed="#B1" n="2"/>insensato concupiscentiam: id est, amorem reuerentiae, &amp; dilectionis idolo tribuen 
+          <lb ed="#B1" n="3"/>dae. Et talis insensatus diligit mortuae: id est, non uiuentis imaginis effigiem sinc 
+          <lb ed="#B1" n="4"/>anima, sicut fecit Pigmalion: de quo Metam. 10. narrat Ouidius. Consequen 
+          <lb ed="#B1" n="5"/>ter ibi: Malorum enim amatores subiungit, qua poena digni sunt, &amp; distinguit  
+          <lb ed="#B1" n="6"/>quatuor personas, quarum tres pertinent ad idolorum cultores: quarta perti 
+          <lb ed="#B1" n="7"/>net ad factores idolorum. Ad cultores pertinent sperantes, diligentes, &amp; co  
+          <lb ed="#B1" n="8"/>sentes: ad factores, qui ea operantur: omnes isti digni sunt morte, uidelicet infer 
+          <lb ed="#B1" n="9"/>ni, in Psalm. <quote xml:id="rhwis-l170-Qd1e175" source="http://scta.info/resource/ps48_15">Sicut oues in inferno positi sunt, mors depascet eos</quote>. Et hoc est quae 
+          <lb ed="#B1" n="10"/>dicit litera: Malorum enim amatores digni sunt morte, &amp;c. Circa illud quod di 
+          <lb ed="#B1" n="11"/>citur in praesenti litera: Labor sine fructu.] Notandum est quod locus uitae prae 
+          <lb ed="#B1" n="12"/>sentis est medius inter coelum &amp; infernum. Medium autem sapere consueuit  
+          <lb ed="#B1" n="13"/>naturam extremorum: modo in coelo est summa quies, &amp; nullus labor. Apoc  
+          <lb ed="#B1" n="14"/>14. Amodo iam dicit, ut requiescant a laboribus suis: In inferno est summus 
+          <lb ed="#B1" n="15"/>labor, &amp; nulla requies. Iuxta illud Psalm. <quote xml:id="rhwis-l170-Qd1e191" source="http://scta.info/resource/ps48_9 http://scta.info/resource/ps48_10">Laborabit in aeternum, &amp; uiuet ad 
+            <lb ed="#B1" n="16"/>huc in finem</quote>. Ergo conueniens est quod in loco medio: id est, in mundo sit quae 
+          <lb ed="#B1" n="17"/>dam comixtio laboris &amp; quietis: tamen plus participare debet de labore: quia 
+          <lb ed="#B1" n="18"/>uicinior est infernus quam coelum. Vnde signanter dicitur lob. 5. Homo ad la 
+          <lb ed="#B1" n="19"/>borandum nascitur. Et ideo necessaria est nobis cautela aliqua qua fiet tole 
+          <lb ed="#B1" n="20"/>rabilis labor iste.
+        </p>
+        <p xml:id="rhwis-l170-d1e206">
+          <lb ed="#B1" n="21"/>Labor autem iste potest fieri tolerabilis tripliciter, &amp; etiam facilis. Primo per 
+          <lb ed="#B1" n="22"/>occupationum uariationem: Secundo per collaborantium considerationem: 
+          <lb ed="#B1" n="23"/>Tertio per magnae mercedis expectationem. Primum ergo quod facilitat la 
+          <lb ed="#B1" n="24"/>bores bonorum uirorum, est occupationum uariatio, ut homo modo studeat,  
+          <lb ed="#B1" n="25"/>modo scribat, modo oret, modo laboret. Iuxta illud metricum: 
+          <lb ed="#B1" n="26"/>Nunc lege nunc ora, nunc cum feruore labora:  
+          <lb ed="#B1" n="27"/>Sic erit hora breuis, &amp; labor ipse leuis.  
+          <lb ed="#B1" n="28"/>Et hoc est quod docet August. lib. 2. pe sancta uirginitate. Diuersis (inquit) se 
+          <lb ed="#B1" n="29"/>minibus pectoris tui colens agrum, taedia tolles. Sere nunc alimonijs medio  
+          <lb ed="#B1" n="30"/>cribus, nunc ieiunijs partioribus, lectione, opere, prece: &amp; mutationes laboris  
+          <lb ed="#B1" n="31"/>induciae sunt quietis. Secundo facilitat laborem nostrum collaborantium com  
+          <lb ed="#B1" n="32"/>sideratio. Sicut enim consideramus Dominum dicentem per Psalm. <quote xml:id="rhwis-l170-Qd1e234" source="http://scta.info/resource/ps87_16">Pauper 
+            <lb ed="#B1" n="33"/>sum ego, &amp; in laboribus a iuuentute mea</quote>: &amp; Apostolus dicit 1. Corinth. 4. <quote xml:id="rhwis-l170-Qd1e239" source="http://scta.info/resource/Icor4_11 http://scta.info/resource/Icor4_21">Vs  
+              <lb ed="#B1" n="34"/>que in hanc horam esurimus &amp; sitimus, &amp; nudi sumus, &amp; colaphis caedimur  
+              <lb ed="#B1" n="35"/>&amp; instabiles sumus, &amp; laboramus manibus nostris</quote>. Non solum uiri, imo etiam  
+          <lb ed="#B1" n="36"/>mulieres. Phil. 4. Adiuua illas quae mecum laborauerunt. Si ergo talium col  
+          <lb ed="#B1" n="37"/>laborantium diligentiam considerauerimus, facile erit nobis laborare in ope 
+          <lb ed="#B1" n="38"/>ribus meritorum. Vnde Greg. 5. lib. Moral. Si desideramus in labore persiste 
+          <lb ed="#B1" n="39"/>re, collaborantem uideamus: quia subleuatio laboris, est uisio collaborantis 
+          <lb ed="#B1" n="40"/>Iacob. 5. Exemplum accipite fratres laboris, &amp; patientiae per prophetas, qui lo 
+          <lb ed="#B1" n="41"/>cuti sunt in nomine Domini. Vnde subdit ibidem Greg. Sicut cum in itinere 
+          <lb ed="#B1" n="42"/>comes iungitur, uia quidem non contrahitur, sed tamen de societate comitis  
+          <lb ed="#B1" n="43"/>labor itineris alleuiatur. Tertio laborem sanctorum, facilitat in praesenti ma 
+          <lb ed="#B1" n="44"/>nae mercedis expectatio. Hinc athletis praeponitur brauium in fine stadij: ru 
+          <lb ed="#B1" n="45"/>sticus recolit in hyeme futuros fructus autumni, &amp; operarius quantitatem sui 
+          <lb ed="#B1" n="46"/>stipendij contemplatur. De hac mercede nostra futura, &amp; labore praesenti di 
+          <lb ed="#B1" n="47"/>cit Hieron. in quadam epistola: Nullus labor durus, nullum tempus longum 
+          <lb ed="#B1" n="48"/>uideri debet, quo gloria aeternitatis adquiritur. Sapientiae 5. Bonorum labo  
+          <lb ed="#B1" n="49"/>rum gloriosus est fructus. Et Sapientia 10. Reddidit iustis mercedem labo  
+          <lb ed="#B1" n="50"/>rum suorum.
+        </p>
+        <p xml:id="rhwis-l170-d1e279">
+          <lb ed="#B1" n="51"/>Est enim notandum quod distinguere possumus de multiplici labore ho 
+          <lb ed="#B1" n="52"/>t minum in praesenti. Est enim labor delinquentium atque peccatorum: est labor 
+          <lb ed="#B1" n="53"/>poenitentium atque contritorum: est labor studentium atque scholasticorum: est 
+          <!--sap_Page_597.xml-->
+          <pb ed="#B1" n="563"/>
+          <lb ed="#B1" n="1"/>labor praesidentium atque praelatorum. Primus ergo labor est delinquentium 
+          <lb ed="#B1" n="2"/>atque peccatorum. Via enim peccatorum est magis laboriosa, quam uia sancto 
+          <lb ed="#B1" n="3"/>rum. Famulus quanto pluribus habet seruire, tanto maiorem laborem habet,  
+          <lb ed="#B1" n="4"/>modo peccator uult seruire Diabolo, mundo, &amp; carni suae: &amp; ideo necesse ha 
+          <lb ed="#B1" n="5"/>bet multipliciter laborare, Hierem. 9. Docuerunt linguam suam loqui men 
+          <lb ed="#B1" n="6"/>dacium, ut inique agerent laborauerunt. Et multo sollicitus laborant homines 
+          <lb ed="#B1" n="7"/>circa transitoria, quam circa aeterna, &amp; magis circa uoluptates quam circa uir 
+          <lb ed="#B1" n="8"/>tutes. Vnde Leo Papa in sermone quodam de ieiunio septimi mensis: Liben 
+          <lb ed="#B1" n="9"/>tius sustinetur labor pro desiderio uoluptatis, quam amore uirtutis. Et Greg. 
+          <lb ed="#B1" n="10"/>super Excech. Quibusdam prauis mentibus nihil laboriosius est, quam si eis pre 
+          <lb ed="#B1" n="11"/>cipitur, quod in mundi huius actibus non laborent. De huiusmodi uarie &amp; 
+          <lb ed="#B1" n="12"/>uane laborantibus loquitur Anshelmus de similitudinibus molentium: id est, 
+          <lb ed="#B1" n="13"/>in hac uita laborantium, tria sunt genera. Haec autem sunt uelut tres homines 
+          <lb ed="#B1" n="14"/>a mane usque ad uesperam molentes. Horum itaqe primus quidquid molit in sac  
+          <lb ed="#B1" n="15"/>cum suscipit, &amp; abscondit: Alter uero partem capit, &amp; partem ex negligentia 
+          <lb ed="#B1" n="16"/>in flumen cadere facit, &amp; partem aliam a uento rapi permittit: Tertius uero quid  
+          <lb ed="#B1" n="17"/>uespera quando a labore cessatur, &amp; fructus laboris inquiritur, quid putas sin 
+          <lb ed="#B1" n="18"/>quid molit fluminis impetus, secum tollit, uel uentus dissoluit. Veniente autem 
+          <lb ed="#B1" n="19"/>gulos habituros: Primus quidem farinam totam seruauit bene, totum laborem 
+          <lb ed="#B1" n="20"/>iuum recognouit bene. Secundus uero qui partem collegit, inde laetatus est 
+          <lb ed="#B1" n="21"/>quod habuit: inde moestus quod uento uel flumine amisit. Tertius autem qui  
+          <lb ed="#B1" n="22"/>totum amisit, eo tristior fuit. Moraliter loquendo. Flumen pro seculi decursu 
+          <lb ed="#B1" n="23"/>accipitur: Vento uero gloria designatur inanis. Molendinum quod tota die 
+          <lb ed="#B1" n="24"/>molit, praesens labor est, qui a mane usque ad uesperam nunquam finitur. Mane 
+          <lb ed="#B1" n="25"/>nobiscum erat, quando nati sumus, uespere autem erit, quando per mortis de 
+          <lb ed="#B1" n="26"/>bitum hinc transibimus. Tempus itaqe praesens dies est, quo laborare debe 
+          <lb ed="#B1" n="27"/>mus, ut ad uesperam ueniamus. Et sicut mola circumducta ad eundem locum 
+          <lb ed="#B1" n="28"/>semper reuertitur, sic labor iste singulis annis more solito reiteratur. Modo nan 
+          <lb ed="#B1" n="29"/>que aratur, seminatur, metitur, panificatur, comeditur, iterum ad idem reuerti 
+          <lb ed="#B1" n="30"/>tur. In uespere autem cum dicetur: uoca operarios, &amp; redde illis mercedem, lae 
+          <lb ed="#B1" n="31"/>tabuntur iusti tota sua seruata farina: id est, uita sua. Alij uero qui non totam  
+          <lb ed="#B1" n="32"/>eam seruauerunt, in hoc moesti erunt: laeti enim quod ex parte laboris sui DEVM 
+          <lb ed="#B1" n="33"/>cognouerunt. Verum alij omne tempus suum in uanitate ponunt, &amp; quod fa 
+          <lb ed="#B1" n="34"/>ciunt, non ab humana laude abscondunt, quasi omne studium uitae suae in de 
+          <lb ed="#B1" n="35"/>cursum fluminis proijciunt, farinamque suam uento committunt. Vnde &amp; in fi 
+          <lb ed="#B1" n="36"/>ne pane uitae carebunt aeternae, uae illis. Haec Anshel. Isti fatue laborantes dice 
+          <lb ed="#B1" n="37"/>re poterunt illud Luc. 15. Per totam noctem laborantes nihil cepimus. Nihil:  
+          <lb ed="#B1" n="38"/>id est, peccatum, secundum illud Ioh. 1. Sine ipso factum est nihil
+        </p>
+        <p xml:id="rhwis-l170-d1e375">
+          <lb ed="#B1" n="39"/>Secundus labor in proposito est poenitentium &amp; contritorum. Narrat Sex  
+          <lb ed="#B1" n="40"/>tus lulius 1. Stratagem. cap. 41. Quod Cyrus rex Persarum volens animos po 
+          <lb ed="#B1" n="41"/>pularium concitare ad bellum contra Medos, tali usus est cautela. Duxit po 
+          <lb ed="#B1" n="42"/>pulum ad quandam syluam ubi tota die laboribus maximis occupauit eos cir 
+          <lb ed="#B1" n="43"/>ca ligna succidenda. In crastino iussit epulas lautissimas praeparare, &amp; exercitum 
+          <lb ed="#B1" n="44"/>cum gaudio &amp; tripudio conuiuari: &amp; circumiens per turmas interrogauit, quis  
+          <lb ed="#B1" n="45"/>illorum dierum plus placeret eis. Responderunt quod dies secundus plus pla 
+          <lb ed="#B1" n="46"/>ceret eis quam primus. Quibus ille subiunxit: Sicut per laborem hesternum 
+          <lb ed="#B1" n="47"/>peruenistis ad hodiernum conuiuium, sic felices beatique esse non potestis, nisi 
+          <lb ed="#B1" n="48"/>prius Medos uiceritis. Sic etiam moraliter si peccatorum nostrorum remissio 
+          <lb ed="#B1" n="49"/>nem, si uitam &amp; coenam aeternam ingredi uolumus, necesse habemus prius la 
+          <lb ed="#B1" n="50"/>borem poenitentiae, &amp; humilitatis subire. Vnde Psalm. sic petijt: <quote xml:id="rhwis-l170-Qd1e403" source="http://scta.info/resource/ps24_18">Vide humili  
+            <lb ed="#B1" n="51"/>tatem meam &amp; laborem meum, &amp; dimitte uniuersa delicta mea</quote>. Et cuiusmo  
+          <lb ed="#B1" n="52"/>di fuerit labor suus manifestat alibi dicens: Laboraui in gemitu meo lauabo 
+          <lb ed="#B1" n="53"/>per singulas noctes, &amp;c 
+        </p>
+        <p xml:id="rhwis-l170-d1e413">
+          <!--sap_Page_598.xml-->
+          <pb ed="#B1" n="564"/>
+          <lb ed="#B1" n="1"/>Tertius labor in proposito est studentium scholasticorum, De quo loquitur  
+          <lb ed="#B1" n="2"/>sic Senec. Non est (inquit) uiri timere laborem. Generosos animos labor nu 
+          <lb ed="#B1" n="3"/>trit. Philolophia (inquit) nemini nascitur, qui eam uolunt habere, oportet quod  
+          <lb ed="#B1" n="4"/>laborent. Aristotelem non suscepit philosophia ingeniosum, sed effecit: hinc 
+          <lb ed="#B1" n="5"/>Hieronymus cum in studijs scripturarum &amp; circa Hebraeum idioma discendum 
+          <lb ed="#B1" n="6"/>usque ad fatigationem laboraret, semetipsum per illud dictum Poëticum con 
+          <lb ed="#B1" n="7"/>fortare solebat: 
+          <lb ed="#B1" n="8"/>labor improbus omnia vincit.  
+          <lb ed="#B1" n="9"/>Iste labor est in studendo, loquendo, &amp; scribendo, ut posteris poterit prodesse,  
+          <lb ed="#B1" n="10"/>Ecclesiast. 24. Videte quoniam non solum mihi laboraui, sed omnibus exqui  
+          <lb ed="#B1" n="11"/>rentibus ueritatem. Et etiam in orando, exemplo Salomonis dicentis: Da mi 
+          <lb ed="#B1" n="12"/>hi Domine sedium tuarum assistricem sapientiam, ut mecum sit &amp; mecum 
+          <lb ed="#B1" n="13"/>laboret.
+        </p>
+        <p xml:id="rhwis-l170-d1e449">
+          <lb ed="#B1" n="14"/>Quartus labor est praesidentium &amp; aliorum praelatorum, quorum est labo 
+          <lb ed="#B1" n="15"/>rare in doctrina, &amp; exemplo bonae uitae. Iuxta illud 1. Timoth. 5. Qui bene 
+          <lb ed="#B1" n="16"/>praesunt presbyteri, duplici honore digni habeantur, maxime qui laborant in 
+          <lb ed="#B1" n="17"/>uerbo &amp; doctrina, &amp;c 
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

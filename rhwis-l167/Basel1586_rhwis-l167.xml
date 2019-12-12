@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 167 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 167 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="551"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l167">
+        <p xml:id="rhwis-l167-d1e95">
+          <lb ed="#B1" n="25"/>OSITIS tribus causis adinuentionis idolatriae, uidelicet amore 
+          <lb ed="#B1" n="26"/>dilectorum, timore tyrannorum, &amp; decore idolorum: In hac parte 
+          <lb ed="#B1" n="27"/>prosequitur enarrare quantae maliciae, &amp; quot uitia seu morum cor 
+          <lb ed="#B1" n="28"/>ruptiones, ex idolatria causabantur. Et circa hoc duo facit. Quia
+          <!--sap_Page_586.xml-->
+          <pb ed="#B1" n="552"/>
+          <lb ed="#B1" n="1"/>primo ista mala enumerat diuisim. Secundo coniunctim, ibi: Et omnia com 
+          <lb ed="#B1" n="2"/>mixta sunt.
+        </p>
+        <p xml:id="rhwis-l167-d1e115">
+          <lb ed="#B1" n="3"/>Mala autem quae inter idolatras per idolatriam sunt suborta, sunt quatuot  
+          <lb ed="#B1" n="4"/>in genere: quia, quantum ad DEVM, debita eius noticia priuabantur: quan  
+          <lb ed="#B1" n="5"/>tum ad seipsos, decipiebantur: quantum ad daemones, eorum seruituti subde 
+          <lb ed="#B1" n="6"/>bantur: quantum ad proximos, omnes sibijnuicem iniuriabantur. Si igitur lo 
+          <lb ed="#B1" n="7"/>quamur de noticia quam homo per fidem debet habere de DEO, ista priuaban 
+          <lb ed="#B1" n="8"/>tur. Vnde praemittitur: Et non suffecerat errasse eos circa DEI scientiam per infi 
+          <lb ed="#B1" n="9"/>delitatem, sed &amp; in magno viuentes inscientie bello tot in multitudine &amp; tam mae 
+          <lb ed="#B1" n="10"/>gna mala, intentione, scilicet maliciosa, pacem appellant, ergo decipicbantur,  
+          <lb ed="#B1" n="11"/>quantum ad seipsos. Haec enim in scientia bellare eos fecit contra DEVM, cu 
+          <lb ed="#B1" n="12"/>ius debuissent subdi legibus, &amp; cum essent in bello continuo contra DEVM 
+          <lb ed="#B1" n="13"/>&amp; bonos mores, existimauerunt se uiuere in quiete. Haec ergo duo mala con 
+          <lb ed="#B1" n="14"/>secuti sunt, quo ad DEVM primo, &amp; postea quo ad seipsos. Tertio daem oni 
+          <lb ed="#B1" n="15"/>bus seruitute crudelissima lubdebantur. Nam cultus &amp; sacrificia quae idolis fa 
+          <lb ed="#B1" n="16"/>cicbant, fuerunt inhumana, &amp; irrationabilia quantum ad materiam, de qua fie 
+          <lb ed="#B1" n="17"/>bant: intempestiua &amp; suspecta, quantum ad tempus, in quo fiebant: foeda &amp; 
+          <lb ed="#B1" n="18"/>abominabilia, quantum ad ritum &amp; modum quo fiebant. Vndae quantum ad 
+          <lb ed="#B1" n="19"/>ista tria dicit sic: Aut enim filios suos sacrificantes, sicut obsentuabant, in sacrifi 
+          <lb ed="#B1" n="20"/>cijs Saturni. Hoc enim propter odium louis filij sui, qui eum de regno expule 
+          <lb ed="#B1" n="21"/>rat, cultoribus suis praecepit sibi filios suos immolare. Aut obscura sacrificia fa 
+          <lb ed="#B1" n="22"/>cientes, uel de nocte, uel de die: scilicet in antris, uel speluncis, &amp; lucis, siue in lo 
+          <lb ed="#B1" n="23"/>cis obscuris. Dicitur enim lucus per aimapaeop locus sine luce, propter nimiam 
+          <lb ed="#B1" n="24"/>atborum umbram. Aut insaniae plenas vigilias habentes, sicut in sacrificns Bac 
+          <lb ed="#B1" n="25"/>chi &amp; Cybeles matris deorum: in quorum festiuitatibus lusibus &amp; luxurijs ua 
+          <lb ed="#B1" n="26"/>cantes, totam noctem turpiter transibant. Quos redarguit Apostolus ad Ephes.  
+          <lb ed="#B1" n="27"/>5. Nolite communicare operibus infructuosis tenebrarum, magis redargui  
+          <lb ed="#B1" n="28"/>te. Quae autem in occulto siunt ab ipsis turpe est dicere: Propter huiusmodi foe 
+          <lb ed="#B1" n="29"/>ditates subtraxit Ecclesia multas uigilias, quae solebant ab omnibus populis  
+          <lb ed="#B1" n="30"/>celebrari de nocte in solennitatibus sanctorum. Quarto sibijnuicem iniuria 
+          <lb ed="#B1" n="31"/>bantur in corporibus inferendo molestias, &amp; in uxoribus nuptias uiolando, 
+          <lb ed="#B1" n="32"/>unde dicit: Neque vitam suppse mundam iam custodiunt, neque nuptias mundas, sed  
+          <lb ed="#B1" n="33"/>alius alium per inuidiam occidit aut adulterans contristat, &amp;c. Litera est plana.
+        </p>
+        <p xml:id="rhwis-l167-d1e185">
+          <lb ed="#B1" n="34"/>Sequitur secunda pars lectionis huius in qua morum corruptiones coniun 
+          <lb ed="#B1" n="35"/>ctim enumerat, idolatriam consequentes &amp; sunt 15. Dicit enim sic: Et omnia 
+          <lb ed="#B1" n="36"/>commixta sunt, sanguis, scilicet in inuasione, &amp; in uulneratione iniusta, homici 
+          <lb ed="#B1" n="37"/>dium in occisione, furtum in alienae rei indebita detentione, fictio in falsa hypo 
+          <lb ed="#B1" n="38"/>crysis simulatione, corruptio in uirginum defloratione, infidelitas in mutua pro 
+          <lb ed="#B1" n="39"/>ditione, turbatio in discordiarum seminatione, periurium in falsa probatione, 
+          <lb ed="#B1" n="40"/>tumultus in rixarum contentione, bonorum Domini immemoratio, in beneficio 
+          <lb ed="#B1" n="41"/>rum DEI ingrata obliuione, animarum inquinatione, in gulae &amp; Iuxutiae dele 
+          <lb ed="#B1" n="42"/>ctatione, in natiuitatis immutatione, in uitij contra naturam perpetrationem, nu 
+          <lb ed="#B1" n="43"/>ptiarum inconstantia, in uxorum iulicita permutatione, inordinatio maec hiae, in in 
+          <lb ed="#B1" n="44"/>cestus &amp; adulterij permixtione, &amp; impudicitiae inordinatio supple, in libidino  
+          <lb ed="#B1" n="45"/>sa contrectatione. Contra tales idolatras luculenter inuehit Didymus rex 
+          <lb ed="#B1" n="46"/>2 Braginannorum in Epistola ad Alexandrum Magnum, deridens eos in hoc 
+          <lb ed="#B1" n="47"/>quod hominem minorem mundum dixerunt, &amp; singulas partes corporis sin 
+          <lb ed="#B1" n="48"/>gulis dijs coaptauerunt. Hominem (inquit) mundum paruum dicitis, &amp; sicut  
+          <lb ed="#B1" n="49"/>in eo multiplicata sunt membra &amp; disposita: ita uarios deos confingitis in coe  
+          <lb ed="#B1" n="50"/>lo consistere, quorum unicuique diuersas &amp; diuisas uestri corporis partes depu 
+          <lb ed="#B1" n="51"/>tatis, &amp; familiares singulis uictimas immolatis, &amp; uocabula illis exquisita tri 
+          <lb ed="#B1" n="52"/>butis, asserentes Mineruam capitis arcem, utpote sapientiam tenere. Iunonem  
+          <lb ed="#B1" n="53"/>iracundiae praesidentem, praecordia possidere. Martem bellorum praesidem, 
+          <!--sap_Page_587.xml-->
+          <pb ed="#B1" n="553"/>
+          <lb ed="#B1" n="1"/>pectora uulneribus apta distinguere: Mercurium facundiae repertorem, lingua 
+          <lb ed="#B1" n="2"/>ianuas possidere. Herculem Iacertos sibi, utpote pugilem uendicasse. Cupidi 
+          <lb ed="#B1" n="3"/>nem iecoris secreta coërcere. Bacchum ebrietatis ductorem, cellaria gutturis  
+          <lb ed="#B1" n="4"/>obtinere. Cererem frumenti datricem, horrea uentris implere. Venerem ma 
+          <lb ed="#B1" n="5"/>trem libidinis, femorum occupasse cubicula. Iouem quasi atrium supremum, 
+          <lb ed="#B1" n="6"/>in naribus habere praeconem. Apollinem medicinae &amp; musicae praeceptorem, 
+          <lb ed="#B1" n="7"/>palmarum habitacula possidere, &amp;c. Tantaqe hominis fabrica dijs, quos dici 
+          <lb ed="#B1" n="8"/>tis uestris dominando contradicitur, nulla parte corporei domicilij naturali do 
+          <lb ed="#B1" n="9"/>mino, uestris sedibus reseruata. Qui tamen nec gratiarum uobis debitam a 
+          <lb ed="#B1" n="10"/>ctionem, ut liberis hospitibus referunt, sed ut inquilinis obnoxijs soluendum 
+          <lb ed="#B1" n="11"/>uectigal imponunt, atque alijs alia tributa profligant. Itaqe Marti aper caeditur,  
+          <lb ed="#B1" n="12"/>Baccho dicatur hircus: Iunoni pauo mactatur: loui taurus ducitur: Apollini  
+          <lb ed="#B1" n="13"/>cygnus offert: Veneri columba decernitur: Mineruae noctua consecratur: Ce 
+          <lb ed="#B1" n="14"/>reri farra libantur: Mercurio mella panduntur: Aras Herculeas populea coro 
+          <lb ed="#B1" n="15"/>na circundat, phanum cupidinis rosea serta condecorant. Et infra: Reuera non 
+          <lb ed="#B1" n="16"/>opitulares deos, sed carnifices teterrimos inuocatis, qui uiscera uestra suppli  
+          <lb ed="#B1" n="17"/>ciorum diuersitate discerpant: Necesse est enim in corpore uestro tot poenas 
+          <lb ed="#B1" n="18"/>constitutas esse, quot sunt dij, cum singuli sui vos cogunt inseruire ludibrijs:  
+          <lb ed="#B1" n="19"/>unus trahit ad bellum, alter eundem ducit ad luxuriam, tertius lucrandi causa 
+          <lb ed="#B1" n="20"/>hortatur inquiri, hic desiderium suggerit epulandi. Et in fine epulae sic deri 
+          <lb ed="#B1" n="21"/>dendo concludit: O uos felicissimos dixerim, quorum &amp; religio crimen est, 
+          <lb ed="#B1" n="22"/>&amp; uita supplicium
+        </p>
+        <p xml:id="rhwis-l167-d1e283">
+          <lb ed="#B1" n="23"/>Circa istam clausulam: Et tam magna mala pacem appellant. Video quod in 
+          <lb ed="#B1" n="24"/>communi modo loquendi tria magna mala pacis nomine gloriantur. Inter 
+          <lb ed="#B1" n="25"/>dum enim uocatur pax licet indigne beneuolentia libidinosae familiaritatis: 
+          <lb ed="#B1" n="26"/>interdum uiolentia calumniosae fraternitatis: &amp; interdum negligentia scelero 
+          <lb ed="#B1" n="27"/>sae impunitatis. Prima est pax carnalium peccatorum: secunda est pax mundia 
+          <lb ed="#B1" n="28"/>lium conspiratorum: tertia est pax curialium praelatorum. Prima pax scilicet 
+          <lb ed="#B1" n="29"/>carnalium peccatorum reperitur inter adulterum &amp; adulteram, fornicatorem  
+          <lb ed="#B1" n="30"/>&amp; fornicatricem, ut dicat mulier illud Can. 8. Ego murus, &amp; ubera mea sicut  
+          <lb ed="#B1" n="31"/>turris, ex quo facta sum coram eo, quasi pacem reperiens. Talis pacificus fuit  
+          <lb ed="#B1" n="32"/>Salomon, de quo Ecclesiast. 47. Salomon imperauit in diebus pacis. Et cito 
+          <lb ed="#B1" n="33"/>post sequitur: Inclinasti femora tua mulieribus, habuisti potestatem in corpo  
+          <lb ed="#B1" n="34"/>re tuo, dedisti maculam in gloria tua. In diebus belli &amp; aduersitatis homines 
+          <lb ed="#B1" n="35"/>non uacant libidini, sed in diebus ocii. Vnde Dauid cum ociaretur in domo, 
+          <lb ed="#B1" n="36"/>loab existente in bello, adulterium commisit, 2. Regum 11. Sic ciuitas Roma 
+          <lb ed="#B1" n="37"/>na cum bellis &amp; discordijs contra Carthaginem uexaretur, uirtuosis exercitijs  
+          <lb ed="#B1" n="38"/>colebatur. Sed postquam Carthago subuersa fuit, ocio, libidini, &amp; gulae tota 
+          <lb ed="#B1" n="39"/>se dedit, ut plus nocuerit Romae euersa Carthago, quam prius nocebat aduer 
+          <lb ed="#B1" n="40"/>sa. Sicut dicit Augustin. 3. de Ciuit. DEI, cap. 19. In horum signum mensis 
+          <lb ed="#B1" n="41"/>Martius DEO belli fuit consecratus. Vnde ille mensis in quo solent reges ad 
+          <lb ed="#B1" n="42"/>bella procedere, 2. Reg. 12. Et statim immediate mensis sequens qui est Apri 
+          <lb ed="#B1" n="43"/>lis, Veneri est dedicatus. In cuius signum quod finito bello &amp; exercitio bo 
+          <lb ed="#B1" n="44"/>norum operum, tempore pacis &amp; ocii dominatur libido, iuxta illud Ouidij de 
+          <lb ed="#B1" n="45"/>remedio Amoris: 
+          <lb ed="#B1" n="46"/>ocia si tollas, periere Cupidinis arcus. 
+        </p>
+        <p xml:id="rhwis-l167-d1e338">
+          <lb ed="#B1" n="47"/>Secunda est pax mundialium conspiratorum, quae nihil aliud est, quam uio 
+          <lb ed="#B1" n="48"/>lentia quaedam calumniosae fraternitatis, qua mali se colligant, &amp; confoede 
+          <lb ed="#B1" n="49"/>rant ad resistendum &amp; nocendum iustis. Haec figuratur per amicitiam &amp; pa 
+          <lb ed="#B1" n="50"/>cem Herodis &amp; Pilati contra CHRISTVM. Et sicut uidemus quod inter spi 
+          <lb ed="#B1" n="51"/>nas steriles, &amp; infructuosas longe maior est connexio, quam inter arbores fru 
+          <lb ed="#B1" n="52"/>ctuosas, sic in malis congregationibus, &amp; collegijs longe fortior est cohaeren 
+          <lb ed="#B1" n="53"/>tia brigosarum personarum, adinuicem ad se defendendum, quam sit bono 
+          <!--sap_Page_588.xml-->
+          <pb ed="#B1" n="554"/>
+          <lb ed="#B1" n="1"/>rum ad malos corrigendum. Naum 1. Sicut spinae inuicem complectuntur,  
+          <lb ed="#B1" n="2"/>sic conuiuium eorum pariter potantium, De ista pace dicit Psalm. Zelaui su 
+          <lb ed="#B1" n="3"/>per iniquos, pacem iniquorum uidens: Gloss. 1. inuidi eis, &amp; male tuli pa 
+          <lb ed="#B1" n="4"/>cem peccatorum. Tertia est pax curialium praelatorum, &amp; haec nihil aliud est, 
+          <lb ed="#B1" n="5"/>quam quaedam negligentia scelerosae impunitatis, quando enim praelatus ui  
+          <lb ed="#B1" n="6"/>det peccata notoria subditorum, &amp; ea dissimulat scire, talis praelatus uocatur  
+          <lb ed="#B1" n="7"/>pacificus. Notandum quod humectatio locorum circa aures, quae uocantur  
+          <lb ed="#B1" n="8"/>tempora de lacte mulieris, inducit somnum. Sic consimiliter quando praela 
+          <lb ed="#B1" n="9"/>tus habet uerba remissionis &amp; dulcedinis ad manifeste malos, inducit eos ad 
+          <lb ed="#B1" n="10"/>dormiendum in peccato suo. Vnde uerba praelatorum &amp; prophetarum anti  
+          <lb ed="#B1" n="11"/>quitus uocabantur onera, Malach. 1. Onus uerbi DEI ad Israel. Et in Esa. O 
+          <lb ed="#B1" n="12"/>nus Damasci, onus Aegypti, onus Tyri, &amp; sic de alijs. Debent enim uerba prae 
+          <lb ed="#B1" n="13"/>lati esse onerosa contra pertinaces &amp; rebelles, sed solatiosa ad deuotos &amp; hu 
+          <lb ed="#B1" n="14"/>miles. Sed distinguendum uidetur de remissione &amp; rigore in praelatis: quia si 
+          <lb ed="#B1" n="15"/>loquamur de eorum personali iniuria, uel de derogatione honoris eorum, in 
+          <lb ed="#B1" n="16"/>ueniuntur acutissimi &amp; rigidissimi, nihil remittunt. Si uero agatur de iniuria 
+          <lb ed="#B1" n="17"/>illatao DEO, uel de honoris diuini diminutione, ibi sunt remississimi, nec cu 
+          <lb ed="#B1" n="18"/>rant omnino. Contra tales loquitur Chrysost. super Matth. Episcopus si debi 
+          <lb ed="#B1" n="19"/>tum honoris non acceperit a presbytero, aut presbyter a diacono, aut diaco  
+          <lb ed="#B1" n="20"/>nus a lectore, irascitur &amp; turbatur: Si autem uiderit Episcopus presbyterum, 
+          <lb ed="#B1" n="21"/>aut presbytet diaconum, aut diaconus lectorem circa obsequium Ecclesiae  
+          <lb ed="#B1" n="22"/>non permanentem, aut alias peccantem in DEVM, non irascitur, neque cu 
+          <lb ed="#B1" n="23"/>rat. Quia omnes quidem de honore suo solliciti sunt, de honore autem DEI 
+          <lb ed="#B1" n="24"/>nullus. Haec Chrysostomus. Quamuis enim esse pacificum &amp; patientem in 
+          <lb ed="#B1" n="25"/>proprijs iniurijs sit laudabile: esse tamen patientem in DEI iniurijs est, sum 
+          <lb ed="#B1" n="26"/>me uituperabile in praelato. In cuius figuram CHRISTVS: sicut legimus 
+          <lb ed="#B1" n="27"/>Matthaei 4 quando Diabolus sibi dixit: Si Filius DEI es, dic ut lapides isti 
+          <lb ed="#B1" n="28"/>panes fiant, patienter sustinuit, &amp; per autoritatem Sacrae scripturae eum con 
+          <lb ed="#B1" n="29"/>futauit. Iterum secundo, quando sibi similiter dixit: Si Filius DEI es, mitte te 
+          <lb ed="#B1" n="30"/>deorsum. Quia istae duae tentationes non fuerunt directae nisi contra huma 
+          <lb ed="#B1" n="31"/>nitatem. Sed in tertia tentatione, quando dixit: Haec omnia tibi dabo, si cadens 
+          <lb ed="#B1" n="32"/>adoraueris me: repulit miserum cum indignatione dicens: Vade Satana, non 
+          <lb ed="#B1" n="33"/>tentabis Dominum DEVM tuum. Deuter. 6. Super quem locum dicit Chry 
+          <lb ed="#B1" n="34"/>sost. Exemplo CHRISTI discamus iniurias nostras aequanimiter sustinere, 
+          <lb ed="#B1" n="35"/>DEI autem iniurias, neque usque ad auditum sufferre. Quoniam in proprijs iniu 
+          <lb ed="#B1" n="36"/>rijs esse quandoque patientem laudabile est: Iniurias uero DEI dissimulare, nimis 
+          <lb ed="#B1" n="37"/>impium est. Et de ista mala pace negligentiae, praelatis dicit Saluator Matth. 10. 
+          <lb ed="#B1" n="38"/>Non ueni pacem mittere, sed gladium: id est, acutam correctionem uitiorum.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

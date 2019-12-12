@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 150 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 150 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="501"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l150">
+        <p xml:id="rhwis-l150-d1e95">
+          <lb ed="#B1" n="28"/>POSTQVAM declarata est diuina pietas in punitione malorum: 
+          <lb ed="#B1" n="29"/>in ista parte concluditur eius aequitas in gubernatione uniuerso 
+          <lb ed="#B1" n="30"/>rum. Et circa hoc duo siunt: quia primo praemittitur conclusio: se 
+          <lb ed="#B1" n="31"/>cundo subditur conclusionis probatio: secunda pars ibi: Ipsum 
+          <lb ed="#B1" n="32"/>queque.
+        </p>
+        <p xml:id="rhwis-l150-d1e108">
+          <lb ed="#B1" n="33"/>Conclusio quae praemittit est ista. Quod cum Dominus siue DEUS sit iustus, 
+          <lb ed="#B1" n="34"/>iuste omnia disponit. Ista conclusio probatur sic. Omnis homo habens usum 
+          <lb ed="#B1" n="35"/>liberi arbitrij, uel est peccator, uel iustus: Si est peccator, tu eum corripis, admo 
+          <lb ed="#B1" n="36"/>nes, &amp; alloqueris, sicut superius dictum fuit, &amp; si uelit correctionem recipere,  
+          <!--sap_Page_536.xml-->
+          <pb ed="#B1" n="502"/>
+          <lb ed="#B1" n="1"/>eum admittis. Sin autem non, iuste repellis. Si est iustus, hoc non est nisi per 
+          <lb ed="#B1" n="2"/>gratiam tuam: quia nullus potest iustus fieri nisi te initiante, &amp; incipiente bo 
+          <lb ed="#B1" n="3"/>num motum: in eo ergo iuste siue bonos siue malos disponis. Et si quaeratur,  
+          <lb ed="#B1" n="4"/>unde est quod tu omnipotens tam clementer disponis: Haec est causa genera 
+          <lb ed="#B1" n="5"/>lis, omnipotentia, qua creaturas conseruas, &amp; annihilas si uolueris uniuersa. 
+          <lb ed="#B1" n="6"/>Dicit ergo sic: Cum ergo sis iustus sic quod non possis esse iniustus: quia quid 
+          <lb ed="#B1" n="7"/>quid uis fieri, iustum est fieri: Iuste omnia disponis: in Psalm. Iustus Domi 
+          <lb ed="#B1" n="8"/>nus &amp; iusticiam dilexit. Ipsum quoque qui non debet puniri: id est, ad tempus miseri 
+          <lb ed="#B1" n="9"/>corditer flagellari, condemnas in perpetuum: Et exterum: id est, extraneum aesti 
+          <lb ed="#B1" n="10"/>mas a virtute tua, quae est misericordia tua: quia illa est proprie uirtus DEI 
+          <lb ed="#B1" n="11"/>DEVS cui proprium est misereri. Et quia posset aliquis credere, quod soli pec 
+          <lb ed="#B1" n="12"/>catores misericordia DEI indigent, quae uocatur uirtus DEI, subdit quod e 
+          <lb ed="#B1" n="13"/>tiam iusti gratia &amp; misericordia sua egent: Virtus enim tua: id est, gratia, iusticiae 
+          <lb ed="#B1" n="14"/>initium est: quia nisi gratia praeueniat hominis uoluntatem, saltem natura uel 
+          <lb ed="#B1" n="15"/>causalitate, homo iustus esse non potest, Roman. 3. Iustificati gratis per gratiam 
+          <lb ed="#B1" n="16"/>ipsius. Et ad Titum 3. Non ex operibus iusticiae quae fecimus nos, sed secun 
+          <lb ed="#B1" n="17"/>dum suam misericordiam saluos nos fecit. Sed unde habet ortum ista miseri 
+          <lb ed="#B1" n="18"/>cordia: Certem ex omnipotentia. Vnde dicit litera: Et ob hoc quod Dominus om 
+          <lb ed="#B1" n="19"/>nium es, omnibus te parcere facis.
+        </p>
+        <p xml:id="rhwis-l150-d1e165">
+          <lb ed="#B1" n="20"/>Vbi notandum quod DEUS in natura sic praeuidit communiter, quod cle 
+          <lb ed="#B1" n="21"/>mentia &amp; potentia, fortitudo &amp; mansuetudo naturaliter coniunguntur, &amp; ubi 
+          <lb ed="#B1" n="22"/>est plus fortitudinis, ibi plus mansuetudinis &amp; clementiae reperitur. Exemplum 
+          <lb ed="#B1" n="23"/>de leone, qui fortissimus bestiarum, clementissimus est etiam. Vnde Solinus 
+          <lb ed="#B1" n="24"/>de mirabilibus mundi: Leonum clementiae indicia multa sunt. Prostratis par 
+          <lb ed="#B1" n="25"/>cunt, in uiros potius quam in foeminas saeuiunt. Infantes non nisi in magna fa 
+          <lb ed="#B1" n="26"/>me perimunt, nec a misericordis separant. Haec Solinus. Vnde metrice dicit:  
+          <lb ed="#B1" n="27"/>Parcere prostratis scit nobis ira leonis.
+        </p>
+        <p xml:id="rhwis-l150-d1e185">
+          <lb ed="#B1" n="28"/>Et per oppositum DEVS animalia crudelia potestate priuauit. Vnde inter ca 
+          <lb ed="#B1" n="29"/>nes paruissimi canes sunt maxime cholerici, &amp; quo minus possunt uiribus, eo 
+          <lb ed="#B1" n="30"/>magis abundant latratibus. CHRISTVS autem more leonis quibuscunque 
+          <lb ed="#B1" n="31"/>se prosternentibus per pcenitentiam, clementem se exhibet, in uiros potius quam 
+          <lb ed="#B1" n="32"/>in foeminas: hoc est, in peccantes malicia potius, quam in peccantes ex passio  
+          <lb ed="#B1" n="33"/>ne, se uindicat: &amp; infantes: id est, innocentes non nisi magna fame: id est, ma 
+          <lb ed="#B1" n="34"/>gno amore salutis eorum, in praesenti flagellat, Apocal. 3. Et ego quos amo, ar 
+          <lb ed="#B1" n="35"/>guo &amp; castigo. Sic ergo DEVS principaliter, &amp; leo naturaliter parcunt pro 
+          <lb ed="#B1" n="36"/>stratis: Ita omnis bona anima petens ueniam, de offensis parcere consueuit.  
+          <lb ed="#B1" n="37"/>Vnde apud gentiles sic principes informabantur antiquitus. Sicut docet Vir 
+          <lb ed="#B1" n="38"/>gilius 6. Aeneid. Et idem recitat Augustin. 5. de Ciuitate DEI, cap. 12. Cum 
+          <lb ed="#B1" n="39"/>Aeneas patrem suum Anchisen per loca infernalia quaesiuisset, &amp; per campos 
+          <lb ed="#B1" n="40"/>Elysios tandem inuenisset: sic a patre suo informatus fuit, quod conditiones no 
+          <lb ed="#B1" n="41"/>bilitatis Romanis concedentur inter populos totius orbis: 
+          <lb ed="#B1" n="42"/>Tu regere imperio populos Romane memento 
+          <lb ed="#B1" n="43"/>He tibi erunt artes pacis imponere mores. 
+          <lb ed="#B1" n="44"/>Parcere subiectis, &amp; debellare superbos. 
+          <lb ed="#B1" n="45"/>De hac diuina iusticia &amp; misericordia simul coniuncta loquitur Anshelmus 
+          <lb ed="#B1" n="46"/>prosologion cap. 10. Alio modo iuste punis malos, alio modo iuste parcis ma 
+          <lb ed="#B1" n="47"/>lis. Cum enim punis malos iustum est: quia eorum meritis conuenit. Cum uero 
+          <lb ed="#B1" n="48"/>parcis malis, iustum est: non quia illorum meritis, sed quia bonitati tuae conde 
+          <lb ed="#B1" n="49"/>cens est. Nam parcendo malis ita iustus es, secundum te, &amp; non secundum nos: 
+          <lb ed="#B1" n="50"/>sicut misericors es secundum nos, &amp; non secundum te: quod saluando nos quos 
+          <lb ed="#B1" n="51"/>iuste perderes, sicut misericors es, non quia tu sentias affectum, sed quia nos sen 
+          <lb ed="#B1" n="52"/>timus effectum: ita iustus es, non quia reddis debitum, sed quia facis quoc de 
+          <lb ed="#B1" n="53"/>cet te summum bonum. Sic itaqe sine repugnantia, iuste punis, &amp; iuste parcis. 
+          <!--sap_Page_537.xml-->
+          <pb ed="#B1" n="503"/>
+          <lb ed="#B1" n="1"/>Haec Anshelm. Et infra cap. 11. in Anshelmo. Sic ergo nascitur de iusticia tua 
+          <lb ed="#B1" n="2"/>misericordia: quia iustum est, te &amp; sic esse bonum, ut parcendo sis bonus: er 
+          <lb ed="#B1" n="3"/>go ab noc quod Dominus omnium es, omnibus te parcere facis, Glosi. ut praus po 
+          <lb ed="#B1" n="4"/>tentia, mitescas natura.
+        </p>
+        <p xml:id="rhwis-l150-d1e257">
+          <lb ed="#B1" n="5"/>Notandum quod in toto mundo non est res, quae possit rationabiliter do Sc 
+          <lb ed="#B1" n="6"/>minus nuncupari praeter DEVM solum, de tribus causis. Tum quia homo dis re 
+          <lb ed="#B1" n="7"/>pensator, mutuator, mendicator, non potest rationabiliter dominus nuncupa ni 
+          <lb ed="#B1" n="8"/>ri. Et adde tres impotentias in omni domino terreno. Prima est quod non po 
+          <lb ed="#B1" n="9"/>test tantum reddere seruo sicut seruus sibi: &amp; per consequens magis indiget 
+          <lb ed="#B1" n="10"/>seruo, quam seruus eo, ut communiter, sicut ibi probatur. Secundo quia nul  
+          <lb ed="#B1" n="11"/>lus dominus terrenus potest facere seruum suum liberum. Cuius probatio est:  
+          <lb ed="#B1" n="12"/>quia ipse non est liber, seruit enim malis affectionibus cupiditatibus, irae &amp; im 
+          <lb ed="#B1" n="13"/>patientiae. Vnde Seneca Epistola 47. secundum communes libros: Seruus es, 
+          <lb ed="#B1" n="14"/>ostende quis non sit: alius libidini, alius auariciae, alius ambitioni, omnes timo 
+          <lb ed="#B1" n="15"/>ri seruiunt. Imo sicut docet idem Seneca in Proverbijs suis: Domini ut com 
+          <lb ed="#B1" n="16"/>muniter magis timent, quam subditi: res uera est: Qui a multis timetur, mul  
+          <lb ed="#B1" n="17"/>tos timet: regibus peius est multo quam seruientibus. Res uera: quia isti sin 
+          <lb ed="#B1" n="18"/>gulos, illi uniuersos timent. Vult dicere, quod una priuata persona habet forte 
+          <lb ed="#B1" n="19"/>unum quem timent, &amp; alia priuata habet quem timet: ita quod singuli habent  
+          <lb ed="#B1" n="20"/>singulos. Sed domini &amp; praelati timent uniuersos. Tertia impotentia est, quam  
+          <lb ed="#B1" n="21"/>domini terreni sustinent, quod non possent hominem compellere ad seruien 
+          <lb ed="#B1" n="22"/>dum eis, uelint, nolint: quia nunquam eis aliquis benem seruiet inuitus. Per op 
+          <lb ed="#B1" n="23"/>positum DEVS est Dominus realiter, qui seruo in nullo indiget, nec per eius 
+          <lb ed="#B1" n="24"/>seruitium aliquid sibi accrescit: imo econtra ipse suo potius seruit, quem sem 
+          <lb ed="#B1" n="25"/>per custodit. In Psalm. Conserua me, Domine: quoniam speraui in te, dixi. Do  
+          <lb ed="#B1" n="26"/>mine, DEVS meus es tu: quoniam bonorum meorum non eges. Secundo i 
+          <lb ed="#B1" n="27"/>pse sibi seruientes, liberos facit, imo reges, Apocal. 5. Dignus est dominus ac 
+          <lb ed="#B1" n="28"/>cipere librum. Et infra: Redemisti nos in sanguine tuo, &amp; fecisti nos DEO no 
+          <lb ed="#B1" n="29"/>stro reges &amp; sacerdotes. Tertio non solum homo, imo omnis creatura sibi ser 
+          <lb ed="#B1" n="30"/>uit, uelit, nolit, in coelo &amp; in terra, &amp; in inferno: quia si homo obediat suis prae 
+          <lb ed="#B1" n="31"/>ceptis uoluntarie, &amp; uirtuose seruit DEO, ad declarandam diuinam misericor 
+          <lb ed="#B1" n="32"/>diam in praesenti ad tempus, &amp; in futuro pro semper. Si nolit diuinis praeceptis  
+          <lb ed="#B1" n="33"/>seruire uoluntarie, seruiet DEO inuoluntarie, ad declarandam diuinam iusti  
+          <lb ed="#B1" n="34"/>ciam in praesenti ad tempus, &amp; in futuro pro semper: &amp; ideo omnia necessario 
+          <lb ed="#B1" n="35"/>seruient ei, uel in suo coelesti pallatio, uel in suo infernali ergasculo in aeternum. 
+          <lb ed="#B1" n="36"/>Et ideo dicit Psalm. Magnus Dominus &amp; laudabilis nimis, &amp; magnitudinis  
+          <lb ed="#B1" n="37"/>eius non est finis. Et iterum: Ordinatione tua perseuerat dies, &amp; omnia seruient 
+          <lb ed="#B1" n="38"/>tibi. Istud satis aduerterat Octauianus Augustus: sicut narrat de eo Sueto 
+          <lb ed="#B1" n="39"/>nius, de uita 16. Caesarum. Domini (inquit) appellationem, &amp; maledictum &amp; 
+          <lb ed="#B1" n="40"/>opprobrium semper exhorruit: cum spectante eo ludos, pronunciatum esset  
+          <lb ed="#B1" n="41"/>in initio. O Dominum aequum &amp; bonum. Et uniuersi dictum, quasi de eo exul  
+          <lb ed="#B1" n="42"/>tantes, comprobassent, statim manu, uultuque indecoras adulationes repressit, &amp; 
+          <lb ed="#B1" n="43"/>sequenti die grauissimo corripuit edicto, dominumque se post haec appellari ne a 
+          <lb ed="#B1" n="44"/>liberis quidem, &amp; nepotibus suis serio uel ioco passus est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

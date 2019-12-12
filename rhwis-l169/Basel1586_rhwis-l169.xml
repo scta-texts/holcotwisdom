@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 169 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 169 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="558"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l169">
+        <p xml:id="rhwis-l169-d1e95">
+          <!--sap_Page_592.xml-->
+          <pb ed="#B1" n="558"/>
+          <lb ed="#B1" n="1"/>INTENTIO Spiritus sancti tam in isto Capitulo, quam  
+          <lb ed="#B1" n="2"/>in duobus praecedentibus est idolatriam destruere, &amp; ue 
+          <lb ed="#B1" n="3"/>rum DEI cultum hominibus suadere. Hoc autem in isto 
+          <lb ed="#B1" n="4"/>capitulo per duas uias aggreditur: Nam primo commen 
+          <lb ed="#B1" n="5"/>dat diuinam bonitatem, propter quam omnis creatura ra 
+          <lb ed="#B1" n="6"/>tionalis ei debet seruire. Secundo declarat idolorum uili  
+          <lb ed="#B1" n="7"/>Itatem propter quam omnis homo tenetur ea contemnere. 
+          <lb ed="#B1" n="8"/>Secunda pars ibi: Non enim in errorem: Circa primum, primo ponit diuinam  
+          <lb ed="#B1" n="9"/>commendationem: secundo subiugit commendationis declarationem. Secun 
+          <lb ed="#B1" n="10"/>da pats ibi: Et enim si peccauerimus.
+        </p>
+        <p xml:id="rhwis-l169-d1e124">
+          <lb ed="#B1" n="11"/>Commendabilia autem quae dicit de DEO sunt quatuor, quae maxime mo 
+          <lb ed="#B1" n="12"/>uent aliquem ad seruiendum Domino, tales conditiones habenti: Videlicet  
+          <lb ed="#B1" n="13"/>suauitas in communicatione. Domino enim amaro &amp; iracundo nullus famu 
+          <lb ed="#B1" n="14"/>latur libenter: Veritas in promissione. Nam multa promittens &amp; pauca per 
+          <lb ed="#B1" n="15"/>soluens raro habebit famulos sibi deuotos: Patientia in expectatione. Domi 
+          <lb ed="#B1" n="16"/>nus enim qui non subito nec rigide procedit ad sui ultionem, dat subditis con 
+          <lb ed="#B1" n="17"/>fidentiam sperandi ueniam post offensas. Et misericordia in generali disposi 
+          <lb ed="#B1" n="18"/>tione: quia misericordia Domini famulos facit esse deuotos &amp; obedientes. 
+          <lb ed="#B1" n="19"/>Quantum ergo ad ista quatuor dicitur: Tu autem DEUS noster suauis &amp; verus 
+          <lb ed="#B1" n="20"/>es. Suauis, beneficia largiendo: verus, promissa implendo: patiens, expectando 
+          <lb ed="#B1" n="21"/>delinquentes, Ecclesialt. 5. Altissimus est patiens redditor, &amp; in misericordia 
+          <lb ed="#B1" n="22"/>disponens omnia: quia punit citra condignum, &amp; praemiat bonos ultra con 
+          <lb ed="#B1" n="23"/>dignum. Haec est ueri DEI commendatio.
+        </p>
+        <p xml:id="rhwis-l169-d1e155">
+          <lb ed="#B1" n="24"/>Secundo subiungitur huius magnae commendationis declaratio. Iustum 
+          <lb ed="#B1" n="25"/>est enim ut DEO seruiamus, &amp; eum honoremus siue fuerimus in statu culpae 
+          <lb ed="#B1" n="26"/>siue in statu iusticiae: quia si fuerimus peccatores nihilominus infra potentiam 
+          <lb ed="#B1" n="27"/>suam puniendi sumus: Si fuerimus iusti, sumus infra potentiam suam, &amp; per 
+          <lb ed="#B1" n="28"/>eam supra meritum praemiandi: &amp; hoc est quod subdit: Etenim si peccauerimus 
+          <!--sap_Page_593.xml-->
+          <pb ed="#B1" n="559"/>
+          <lb ed="#B1" n="1"/>tui sumus scientes magnitudinem tuam: id est, infinitatem potentiae tuae. In Psal.1 
+          <lb ed="#B1" n="2"/>Magnus Dominus &amp; laudabilis nimis, &amp; magnitudinis eius non est finis. Et  
+          <lb ed="#B1" n="3"/>si non peccauerimus scimus: id est, firmissima fide credimus: quia apud te compi 
+          <lb ed="#B1" n="4"/>tati sumus: id est, numerati &amp; electiut in coelis aeternaliter praemiemur, Luc. 6. 
+          <lb ed="#B1" n="5"/>Gaudete, &amp; exultate: quia merces uestra multa est in coelis.
+        </p>
+        <p xml:id="rhwis-l169-d1e183">
+          <lb ed="#B1" n="6"/>Sed posset aliquis quaerere: Quod est illud praemium uitae, &amp; quomodo ad 
+          <lb ed="#B1" n="7"/>qiud perueniemus: Ideo subdit: Nosse enim te nude videlicet &amp; apte consummata 
+          <lb ed="#B1" n="8"/>iusticia est, Ioh. 17. Haec est uita aeterna, ut cognoscant te solum uerum DEVM, 
+          <lb ed="#B1" n="9"/>&amp; quem misisti IESVMCHRISTVM. Ecce praemium. Sed quomodo ad illud  
+          <lb ed="#B1" n="10"/>perueniemus subdit: Et scire: id est, credere per dilectionem, iusticiam: id est, ae 
+          <lb ed="#B1" n="11"/>quitatem &amp; virtutem tuam: id est, pietatem: radix est: id est, principium immor 
+          <lb ed="#B1" n="12"/>talitatis: id est, beatitudinis sempiternae, quid d qui habet fidem formatam chari 
+          <lb ed="#B1" n="13"/>tate, quod tu es uere iustus, &amp; uere pius, ille habet radicem beatitudinis. De 
+          <lb ed="#B1" n="14"/>hac radice fidei Christianae loquitur Augustinus super Ioh. sic dicens: Sicut in 
+          <lb ed="#B1" n="15"/>radice arboris nulla prorsus apparet species, &amp; tamen quidquid est in arbore 
+          <lb ed="#B1" n="16"/>pulchritudinis uel decoris, totum ex illa procedit: sic ex fidei humilitate quid  
+          <lb ed="#B1" n="17"/>quid meriti, quidquid beatitudinis anima susceptura est, ex fidei fundamento 
+          <lb ed="#B1" n="18"/>procedit: unde signanter dicitur quod fides est radix immortalitatis: Vnde Ec  
+          <lb ed="#B1" n="19"/>clesiast. 1. Radix sapientiae est timere DEVM, rami eius longaeui.
+        </p>
+        <p xml:id="rhwis-l169-d1e216">
+          <lb ed="#B1" n="20"/>Circa iuam clausulam: Scimus quoniam apud te sumus computati: Notandum 
+          <lb ed="#B1" n="21"/>est, quod istud uerbum dicitur praecise de electis, quorum numerus soli DEO 
+          <lb ed="#B1" n="22"/>cognitus est: sicut dicit Augustinus in Enche. c. 22. Vbi notandum quod ma 
+          <lb ed="#B1" n="23"/>gni domini aliter possident modica &amp; uilia, &amp; aliter preciosa &amp; nobilia. Vilia 
+          <lb ed="#B1" n="24"/>uel res parui precij licet habeantur, non tamen a dominis computantur. Sed 
+          <lb ed="#B1" n="25"/>preciosa &amp; nobilia iocalia bene habentur, &amp; in numero diligenter computan 
+          <lb ed="#B1" n="26"/>tur. Isto modo est de DEO, qui omnes possidet siue sint peccatores, siue iusti, 
+          <lb ed="#B1" n="27"/>&amp; praedestinati. Peccatores habet sub dominio suo, sed nullius numeri sunt a 
+          <lb ed="#B1" n="28"/>pud eum Ecclesiast. 1. Stultorum infinitus est numerus. Vnde Boët. 1. Arithme 
+          <lb ed="#B1" n="29"/>loquens de diuisione numeri, per diminutum &amp; superfluum, &amp; perfectum di 
+          <lb ed="#B1" n="30"/>cit. In his est magna similitudo uirtutis &amp; uitij: perfectos enim raros inueni 
+          <lb ed="#B1" n="31"/>mus numeros, sed superfluos &amp; diminutos multos &amp; infinitos. Perfectus e 
+          <lb ed="#B1" n="32"/>nim numerus est, qui ex omnibus partibus suis aliquotis simul sumptis: sicut  
+          <lb ed="#B1" n="33"/>est sex, &amp; infra centum millia, non sunt nisi quinque tales numeri: &amp; quia tanta est 
+          <lb ed="#B1" n="34"/>malorum copia, non est DEO cura de eis, ut numerentur. Iusti autem possiden 
+          <lb ed="#B1" n="35"/>tur, sicut iocalia perfecta &amp; preciosa, Esa. 13. Preciosior erit uir auro, &amp; homo 
+          <lb ed="#B1" n="36"/>mundo obrizxo. Et bene dicit, uir. Quia sicut ordinabatur in lege, mulieres &amp; 
+          <lb ed="#B1" n="37"/>paruuli non numerabantur, sed soli uiri: ita apud DEVM effoeminati ad ope 
+          <lb ed="#B1" n="38"/>ra uirilia seu virtuosa, nec irrationabiliter uiuentes preciosi iudicantur: sed tan 
+          <lb ed="#B1" n="39"/>tum uiri: id est, uirtuosi qui pro CHRISTO persecutiones, &amp; iniurias seu igno 
+          <lb ed="#B1" n="40"/>minias pertulerunt. De quibus Sap. 5. scribitur: Tunc stabunt iusti in magna 
+          <lb ed="#B1" n="41"/>constantia aduersus eos, qui se angustiauerunt. Et sicut ibidem intra dicitur  
+          <lb ed="#B1" n="42"/>tunc dicent reprobi: Nos insensati uitam illorum aestimabamus, insaniam, &amp; 
+          <lb ed="#B1" n="43"/>finem illorum sine honore. Quomodo igitur computati sunt inter filios DEI 
+          <lb ed="#B1" n="44"/>&amp; inter sanctos sors illorum est: Possunt ergo sancti &amp; electi dicere: Scimus 
+          <lb ed="#B1" n="45"/>quoniam apud te sumus computati, sicut ex arte algoristica satis patet. Septem 
+          <lb ed="#B1" n="46"/>sunt computationis species quae in communibus uersibus continentur: 
+          <lb ed="#B1" n="47"/>Addere, subtrahere, duplare, dimidiare. 
+          <lb ed="#B1" n="48"/>Sext aque, diuidere, quinta vero multiplicare. 
+          <lb ed="#B1" n="49"/>Radicem trahere pars septima dicitur esse. 
+          <lb ed="#B1" n="50"/>DEVS autem in effectibus gratiosis, quos circa nos electos suos facit, omne 
+          <lb ed="#B1" n="51"/>istas computationis species exercet: Addit, subtrahit, duplat, &amp; dimidiat, mul 
+          <lb ed="#B1" n="52"/>tiplicat, diuidit, &amp; radices extrahit. Addit enim nobis peccantibus tempus po 
+          <lb ed="#B1" n="53"/>nitentiae ut co 
+          <!--sap_Page_594.xml-->
+          <pb ed="#B1" n="560"/>
+          <lb ed="#B1" n="1"/>Dominus: Addam diebus tuis 15. annos. Subtrahit quandoque malos &amp; im 
+          <lb ed="#B1" n="2"/>peditores quietis nostrae, ut proficiamus: quia Proverb. 26. dicitur: Susurro 
+          <lb ed="#B1" n="3"/>ne subtracto, iurgia quiescunt. Et ideo consulit per Apostolum 2. Thess. 3. Sub  
+          <lb ed="#B1" n="4"/>trahite uos ab omni fratre ambulante inordinate. Duplat nobis spiritualia in 
+          <lb ed="#B1" n="5"/>praesenti, ut sufficiant, quando dat nobis uirtutes tam naturales quam gratui  
+          <lb ed="#B1" n="6"/>tas, Proverb. 31. Omnes domestici eius uestiti duplicibus. Et in futuro duplat  
+          <lb ed="#B1" n="7"/>nobis gloriam, quando dabit nobis duplicem stolam: id est, quando tam in cor 
+          <lb ed="#B1" n="8"/>pore quam in anima glorificati erimus, Esa. 61. In terra sua duplicia posside 
+          <lb ed="#B1" n="9"/>bunt. Dimidiat poenas quas iuste meremur: quia longe citra condignum pu 
+          <lb ed="#B1" n="10"/>nit: si tamen alia poena posset aestimari peccato mortali condigna, 1. Mach. 10. 
+          <lb ed="#B1" n="11"/>Dimidiam partem fructus ligni, quod est portionis meae relinquo uobis, &amp;c 
+          <lb ed="#B1" n="12"/>Multiplicat in nobis dona sua &amp; beneficia, orationes nostras exaudiendo. In 
+          <lb ed="#B1" n="13"/>Psalm. <quote xml:id="rhwis-l169-Qd1e324" source="http://scta.info/resource/ps137_3">In quacunque die inuocauero te, uelociter exaudi me, multiplicabis in a 
+            <lb ed="#B1" n="14"/>nima mea uirtutem</quote>. Diuidit, quando gratias gratis datas, diuersis personis com  
+          <lb ed="#B1" n="15"/>municat diuersimode, ut omnes fideles in Ecclesia seinuicem ualeant suppor 
+          <lb ed="#B1" n="16"/>tare: iuxta sententiam Apostoli 1. Corinth.12. Diuisiones gratiarum sunt. <quote xml:id="rhwis-l169-Qd1e333" source="http://scta.info/resource/Icor12_11">I 
+            <lb ed="#B1" n="17"/>dem autem spiritus diuidens singulis prout uult</quote>. Sed radices extrahet, quan  
+          <lb ed="#B1" n="18"/>do peruersas cogitationes, a quibus omnia mala oriuntur, iudicialiter denuda 
+          <lb ed="#B1" n="19"/>bit, <ref xml:id="rhwis-l169-Rd1e343">Proverb. 25</ref>. <quote xml:id="rhwis-l169-Qd1e346" source="http://scta.info/resource/prov15_5">Cogitationes impiorum eradicabuntur</quote>. Sunt ergo iusti mul  
+          <lb ed="#B1" n="20"/>tipliciter computati. Notandum est autem quod aliter computat senescallus 
+          <lb ed="#B1" n="21"/>cum praeposito, aliter usurarius de superfluo, aliter oeconomus: id est, procura 
+          <lb ed="#B1" n="22"/>tor domus, cum famulo. Primus computat ad calumniandum: secundus ad 
+          <lb ed="#B1" n="23"/>iniuste lucrandum: tertius ad iuste remunerandum. Isto modo aliter compu 
+          <lb ed="#B1" n="24"/>tant nobiscum daemones, aliter uani arrogantes homines, &amp; aliter DEVS, &amp; 
+          <lb ed="#B1" n="25"/>angeli boni nos expectantes. Daemones computant ad calumniandum tan 
+          <lb ed="#B1" n="26"/>tummodo. Vnde sicut falsus auditor computi, qui calumniari proponit prae 
+          <lb ed="#B1" n="27"/>positum uel baliuum, illas expensas diligentissime computat, in quibus uidit  
+          <lb ed="#B1" n="28"/>eum amplius neglexisse: ita Diabolus computat nobiscum de peccatis no 
+          <lb ed="#B1" n="29"/>stris. Portat enim sempers taliam praeparatam contra nos. Qui plus laetatur in 
+          <lb ed="#B1" n="30"/>sentibus peccatorum, quam in floribus meritorum. De quibus dicitur lob. 30. 
+          <lb ed="#B1" n="31"/>Inter huiuscemodi laetabantur, &amp; esse sub sentibus delicias computabant.
+        </p>
+        <p xml:id="rhwis-l169-d1e377">
+          <lb ed="#B1" n="32"/>Secundo aliter computant homines arrogantes. Illi enim computant  
+          <lb ed="#B1" n="33"/>modo usurarij. Solus usurarius uendit tempus: quia pro solo lapsu tem 
+          <lb ed="#B1" n="34"/>poris plus percipit quam debet. Et istum modum computandi habent ali  
+          <lb ed="#B1" n="35"/>quae personae, quae cum suae iuuentutis tempora transierint ociose, sine quo 
+          <lb ed="#B1" n="36"/>cunque merito uirtuoso: ex solo lapsu temporis, &amp; naturae defectu, honorem 
+          <lb ed="#B1" n="37"/>uendicant senectutis: similes antiquis imaginibus, in quibus secundum opinio 
+          <lb ed="#B1" n="38"/>nem uetularum nihil est numinis, donec fuerint 60. annorum. Et certe istud  
+          <lb ed="#B1" n="39"/>lucrum est illicitum: quia non correspondet merito uel uirtuti, sed lapsui tem 
+          <lb ed="#B1" n="40"/>poris &amp; senectuti. Ecce quid dicit Scriptura Sap. 4. Senectus enim uenerabilis  
+          <lb ed="#B1" n="41"/>est non diuturna, nec annorum numero computata. Cani sunt sensus homi 
+          <lb ed="#B1" n="42"/>nis, &amp; aetas senectutis uita immaculata. Et ideo uos quicunque iuuenes qui in 
+          <lb ed="#B1" n="43"/>senectute uirtutis honores proponitis uendicare, nitamini in iuuentute non 
+          <lb ed="#B1" n="44"/>ociosis, sed studiosis insistere laboribus &amp; meritis, dum uires habetis in cor 
+          <lb ed="#B1" n="45"/>pore, &amp; recens ingenium possidetis in mente. Iuxta consilium Ouidij de arte 
+          <lb ed="#B1" n="46"/>Amandi lib. 3. 
+          <lb ed="#B1" n="47"/>Dum vires annique sinunt, tolerare labores.  
+          <lb ed="#B1" n="48"/>Nam veniet tacito curua senecta pede 
+          <lb ed="#B1" n="49"/>Non quae praeterijt ziterum vocabitur unda 
+          <lb ed="#B1" n="50"/>Nec quae praeterijt hora redire potest. 
+          <lb ed="#B1" n="51"/>Vtendum est etate, cito pede labitur atas. 
+          <lb ed="#B1" n="52"/>Nec bona tam sequitur, quam bona prima fuit.  
+          <lb ed="#B1" n="53"/>Quia nisi uirtuose uixeritis iuuenes, non potestis iuste uendicare uirtutis ho 
+          <!--sap_Page_595.xml-->
+          <pb ed="#B1" n="561"/>
+          <lb ed="#B1" n="1"/>nores. Sap. 3. Siquidem longae uitae erunt, in nihilum computabuntur, &amp; sine 
+          <lb ed="#B1" n="2"/>honore erit nouissima senectus eorum. Et quamuis homo honores ambire 
+          <lb ed="#B1" n="3"/>non debeat, debet tamen se honoribus dignificare, sicut dicit Aristot. 4. Ethic.  
+          <lb ed="#B1" n="4"/>&amp; alias extitit declaratum.
+        </p>
+        <p xml:id="rhwis-l169-d1e440">
+          <lb ed="#B1" n="5"/>Tertio computant nobiscum DEVS, &amp; angeli eius beati, &amp; etiam animae 
+          <lb ed="#B1" n="6"/>nos expectantes, modo quo oeconomus computat cum famulo suo, de labo  
+          <lb ed="#B1" n="7"/>re ad remunerandum: sicut computauit ille procurator qui sero redijt singulis  
+          <lb ed="#B1" n="8"/>operarijs reddere singulos denarios, Matth. 20. Sic etiam DEVS computat mo 
+          <lb ed="#B1" n="9"/>do dies, quibus meritorie laboramus, &amp; actus etiam meritorum. Et non solum 
+          <lb ed="#B1" n="10"/>DEVS, imo tota coelestis Hierusalem mater nostra, ut merito dicatquilibet no 
+          <lb ed="#B1" n="11"/>strum illud Tob. 10. Ego novi quod pater meus &amp; mater mea dies computant,  
+          <lb ed="#B1" n="12"/>ad iuste uidelicet remunerandum unicuique pro merito uitam sempiternam.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

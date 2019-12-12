@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 165 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 165 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="545"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l165">
+        <p xml:id="rhwis-l165-d1e95">
+          <!--sap_Page_579.xml-->
+          <pb ed="#B1" n="545"/>
+          <lb ed="#B1" n="1"/>OSITA prima causa adinuentionis idolorum, quae fuit amor de 
+          <lb ed="#B1" n="2"/>ordinatus hominum ad amicos, &amp; parentes: In ista parte prosequi 
+          <lb ed="#B1" n="3"/>tur de causa secunda principali eiusdem erroris, quae fuit superbia, 
+          <lb ed="#B1" n="4"/>&amp; uana ambitio regum &amp; principum, ad dominationes &amp; honores. 
+          <lb ed="#B1" n="5"/>Principes &amp; tyranni volentes honorari non solum a praesentibus, sed etiam  
+          <lb ed="#B1" n="6"/>ab absentibus, dedicauerunt uel ordinauerunt sibiipsis imagines, quas multi  
+          <lb ed="#B1" n="7"/>Mlicari fecerunt, &amp; apud remotas nationes statui, &amp; ueneratione seruari, ut u 
+          <lb ed="#B1" n="8"/>bique timerentur. Vnde sibiipsis honores diuinos fecerunt attribui, infirmi 
+          <lb ed="#B1" n="9"/>tatis humanae obliti. Sic Nabuchodonosor praecepit Holoferni omnes deos 
+          <lb ed="#B1" n="10"/>terrrae exterminare, ut ipse solus DEVS diceretur ab alijs nationibus, quae po 
+          <lb ed="#B1" n="11"/>tuissent Holofernis potentia subiugari. Sic Caius Caligula Imperator per u 
+          <lb ed="#B1" n="12"/>niuersum mundum imaginem suam misit, ut ab omnibus tanquam DEVS co 
+          <lb ed="#B1" n="13"/>leretur. Dicebat enim se fratrem louis esse. Vnde &amp; unicam filiam quam ha 
+          <lb ed="#B1" n="14"/>bebat, posuit inter genua louis, ut postquam egressa esset de genibus louis, 
+          <lb ed="#B1" n="15"/>communis utriusque filia videretur. Iste Caius mandauit Petronio, quem lu 
+          <lb ed="#B1" n="16"/>daeae praefecerat, pro praetore, quod statuam suam erigeret in Hierusalem, eo 
+          <lb ed="#B1" n="17"/>quod intellexerat solos ludaeos cultum statuae suae recusare. Quo audito lu 
+          <lb ed="#B1" n="18"/>daei ad Petronium accesserunt supplicantes, ut nullo modo ad cultum statuae 
+          <lb ed="#B1" n="19"/>Caesaris eos hortaretur: quia citius uellent occidi, &amp; se iugulari obtulerunt, &amp; 
+          <lb ed="#B1" n="20"/>iurabant quod nunquam amplius terram colerent, &amp; sic inedia afflicti more 
+          <lb ed="#B1" n="21"/>rentur. Sic Herodes Agrippa diuos honores ab adulatoribus recepit, sicut di 
+          <lb ed="#B1" n="22"/>citur Actu. 12. qui inter honores sibi factos, bubonem uidit insistentem &amp; im 
+          <lb ed="#B1" n="23"/>minentem capiti suo, nuncium mortis suae, &amp; inclinatus ad eos, qui sibi applau 
+          <lb ed="#B1" n="24"/>debant, dixit: En ego DEVS uester morior. Statimque percussus ab angelo, 
+          <lb ed="#B1" n="25"/>&amp; consumptus a corrodentibus uermibus uiscera eius, expirauit. Haec ergo 
+          <lb ed="#B1" n="26"/>uana superbia, &amp; ambitiosa elatio secunda causa fuit idola faciendi. Et hoc est, 
+          <lb ed="#B1" n="27"/>quod dicitur inlitera: Hos quos palam: id est, principaliter: homines honorare non 
+          <lb ed="#B1" n="28"/>poterant, scilicet colendo propter hoc quod: id est, quia, longe essent, ipsi a regioni 
+          <lb ed="#B1" n="29"/>bus suis a longinquo figura eorum allata euidentem imaginem, &amp;c. Litera glana est.
+        </p>
+        <p xml:id="rhwis-l165-d1e165">
+          <lb ed="#B1" n="30"/>Circa iuam clausulam, imaginem regis quam honorare voluerunt, notandum, 
+          <lb ed="#B1" n="31"/>quod quia hic agitur de ambitione honoris gentilium principum, &amp; secundum 
+          <lb ed="#B1" n="32"/>doctrinam Aristot. 4. Ethic. circa amorem honoris, contingit inuenire superabun 
+          <lb ed="#B1" n="33"/>dantiam, &amp; defectum, &amp; medium. Ideo circa honoris materiam est sciendum, 
+          <lb ed="#B1" n="34"/>quod ad honorem tripliciter nos habere debemus. Debemus enim honoribus  
+          <lb ed="#B1" n="35"/>nos dignificare, honores non nimis desiderare, honores inuicem communi 
+          <lb ed="#B1" n="36"/>care. Primo enim debemus honoribus nos dignificare. Sola enim uirtus facit  
+          <lb ed="#B1" n="37"/>hominem dignum honore: nullus enim prauus existens, dignus est honore: quia 
+          <lb ed="#B1" n="38"/>uirtutis praemium est honor, &amp; tribuitur bonis, sicut dicit Aristot. 4. Ethic. ca. 4. 
+          <lb ed="#B1" n="39"/>In cuius signum narrat Aug. 5. de Ciuit. DEI, cap. 13. quod Romani antiqui  
+          <lb ed="#B1" n="40"/>tus uirtutem &amp; honorem, sicut duos deos coluerunt: quibus duas aedes, siue duo 
+          <lb ed="#B1" n="41"/>templa constituerunt, sic ad seinuicem ordinata, &amp; continuata, quo nullus possit 
+          <lb ed="#B1" n="42"/>intrare templum Honoris, nisi prius templum Virtutis pertransiret. In signum 
+          <!--sap_Page_580.xml-->
+          <pb ed="#B1" n="546"/>
+          <lb ed="#B1" n="1"/>quod apud eos nullus reportaret honorem, nisi illum per uirtutem aliquam 
+          <lb ed="#B1" n="2"/>meruisset. Et ideo dicit Aristot. 4. Ethic. cap. 5. Secundum ueritatem ergo solus 
+          <lb ed="#B1" n="3"/>bonus est honorandus. Vnde ad Rom. 2. <quote xml:id="rhwis-l165-Qd1e206" source="http://scta.info/resource/rom2_10">Honor &amp; pax omni operanti bonum</quote> 
+          <lb ed="#B1" n="4"/>Et quamuis honor debeatur uirtuti, sicut praemium quoddam insufficiens, tamen 
+          <lb ed="#B1" n="5"/>nihilominus honor plerunque derogat uirtuti, dum mentem honorati in super 
+          <lb ed="#B1" n="6"/>biam nititur eleuare. Et ideo ad istam pestem rationabiliter euitandam legimus 
+          <lb ed="#B1" n="7"/>quod uictoribus, triumphantibus, &amp; Romam redeuntibus triplex honor im 
+          <lb ed="#B1" n="8"/>endebatur, &amp; triplex iniuria inferebatur: Primus honor fuit que uictori popu 
+          <lb ed="#B1" n="9"/>lus obuiauit cum iubilo &amp; laeticia: Secundus quo omnes captiui sequebantur cur 
+          <lb ed="#B1" n="10"/>rum eius, ligatis manibus post tergum. Tertius honor fuit, quod uictor indue 
+          <lb ed="#B1" n="11"/>batur tunicam louis, &amp; ponebatur in curru, quem trahebant quatuor equi al  
+          <lb ed="#B1" n="12"/>bi, &amp; ducebatur usque ad Capitolium. Iuxta illud:  
+          <lb ed="#B1" n="13"/>Quat tuor in niueis aureus ibis equis.
+        </p>
+        <p xml:id="rhwis-l165-d1e231">
+          <lb ed="#B1" n="14"/>Ne tamen istis honoribus sublimatus, obliuisceretur sui, triplicem molestiam  
+          <lb ed="#B1" n="15"/>sustinere debuit illo die. Prima erat quod ponebatur una cum eo quaedam  
+          <lb ed="#B1" n="16"/>persona seruilis conditionis, ut daretur spes cuilibet quantumcunque uilis con 
+          <lb ed="#B1" n="17"/>ditionis, perueniendi ad talem honorem si per probitatem &amp; uirtute se digni 
+          <lb ed="#B1" n="18"/>ficare uellet: Secunda molestia erat quod seruus ille eum per uices sedentem in 
+          <lb ed="#B1" n="19"/>curru colaphisabat, dicens: vronti Atarau: id est, nosce teipsum, &amp; noli de hono 
+          <lb ed="#B1" n="20"/>re tibi exhibito superbire. Tertia molestia erat, quod illo die licebat cuilibet di 
+          <lb ed="#B1" n="21"/>cere impune opprobria in uictorem. Vnde Iulio Caesari reuertenti post mul  
+          <lb ed="#B1" n="22"/>tas uictorias fuerunt grauissimae contumeliae dictae, nulla penitus ultione se 
+          <lb ed="#B1" n="23"/>quente. Aliter aliquantulum de isto honore scribit lsidor. 8. Ethym. cap. 2. &amp; al  
+          <lb ed="#B1" n="24"/>legat Tranquillum ducem, quod triumphus dicitur ab eo: quia triumphans 
+          <lb ed="#B1" n="25"/>cum urbem ingrederetur, tripartito iudicio honorabatur: Nam primum de 
+          <lb ed="#B1" n="26"/>triumpho duci concedendo iudicabat exercitus: secundo senatus: tertio po 
+          <lb ed="#B1" n="27"/>pulus. Erat autem mos Romanorum, ut triumphans quadrigis ueheretur, co  
+          <lb ed="#B1" n="28"/>lore rufo perliniretur, purpura &amp; palmata toga indueretur, palma aurea uel  
+          <lb ed="#B1" n="29"/>lauro corgnaretur, scipione seu sceptro, super quod sedebat aquila, ornare 
+          <lb ed="#B1" n="30"/>tur. Et istis omnibus praeparatis, ei carnifex pro socio praeponeretur. Ideo ue 
+          <lb ed="#B1" n="31"/>ro in quadriga uehebatur: quia illo genere uehiculi primi praeliantes uteban 
+          <lb ed="#B1" n="32"/>tur. Ideo colore rubeo perliniebatur, quasi diuini ignis inuictam effigiem  
+          <lb ed="#B1" n="33"/>imitaretur: Ideo super scipionem siue sceptrum aquilam habebat, eo quod  
+          <lb ed="#B1" n="34"/>per uictoriam ad summam magnificentiam ascendebat. Coronabatur coro  
+          <lb ed="#B1" n="35"/>na palmea, si in bello uel in conflictu triumphasset. Palma autem aculeos ha 
+          <lb ed="#B1" n="36"/>bet, &amp; significat conflictum. Coronabatur corona laurea, si sine conflictu 
+          <lb ed="#B1" n="37"/>contingeret triumphare, uidelicet hostes sine pugna fugando: quia laurus a 
+          <lb ed="#B1" n="38"/>culeos uel spinas non habet. A carnifice contingebatur, ut ad tantum fasti 
+          <lb ed="#B1" n="39"/>gium euectus, mediocritatis humanae commoueretur. Ac si sibi diceretur il  
+          <lb ed="#B1" n="40"/>lud Ecclesiastici undecimo: In uestitu ne glorieris unquam, nec in die honoris  
+          <lb ed="#B1" n="41"/>tui extollaris. Secundo debemus honores non nimis desiderare, Aristotel. 6. 
+          <lb ed="#B1" n="42"/>Topi. dicit, quod omnes appetunt honores: Nec bene diffinitur ambitiosus, si 
+          <lb ed="#B1" n="43"/>sic dicatur. Ambitiosus est appetens honores, sed ultra merita quaerens, uel a 
+          <lb ed="#B1" n="44"/>quibus non debet, aut quando non debet: hoc est enim uitiosum Ecclesiast. 
+          <lb ed="#B1" n="45"/>10. In mansuetudine serua animam tuam, &amp; da illi honorem secundum meri 
+          <lb ed="#B1" n="46"/>tum suum. Qui autem ultra meritum uel sine merito honorari desiderat, alios  
+          <lb ed="#B1" n="47"/>ad falsum testimonium inuitat. Qui enim honorem alteri impendit, eum ali  
+          <lb ed="#B1" n="48"/>qua uirtute praeditum dicit, Ecclesiast. 10. dicitur, quod inscius non honora 
+          <lb ed="#B1" n="49"/>bitur, &amp; Proverbi. 26. Sicut qui mittit lapidem in aceruum Mercurij, sic qui tri 
+          <lb ed="#B1" n="50"/>buit insipienti honorem.
+        </p>
+        <p xml:id="rhwis-l165-d1e314">
+          <lb ed="#B1" n="51"/>Status enim honoris non est nimis appetendus: quia sicut dicit Senec. Epi 
+          <lb ed="#B1" n="52"/>stola 82. Abstrahunt a recto, diuitiae, potentia, &amp; honores: Narratur de quodam 
+          <lb ed="#B1" n="53"/>priore Clareuallensi, Gaufrido nomine. Qui cum electus esset in Episcopum Tor 
+          <!--sap_Page_581.xml-->
+          <pb ed="#B1" n="547"/>
+          <lb ed="#B1" n="1"/>nacensem, &amp; ab Eugenio Papa &amp; abbate suo sancto Bernardo cogeret onus 
+          <lb ed="#B1" n="2"/>Episcopatus subire, prostratus ad pedes abbatis &amp; clericorum, qui se elegerant  
+          <lb ed="#B1" n="3"/>in modum crucis, dixit: Monachus fugitiuus si me eligitis esse potero, Episco 
+          <lb ed="#B1" n="4"/>pus nunquam ero. Isti laboranti in extremis quidam monachus ei charus assi 
+          <lb ed="#B1" n="5"/>debat, &amp; dixit: Chare mi, quia nunc corpore separamur, oro te, ut si potes, salua 
+          <lb ed="#B1" n="6"/>DEI uoluntate, statum tuum mihi post mortem reueles. Cui oranti, post mortem 
+          <lb ed="#B1" n="7"/>eius, coram altari apparuit Gaufridus, dicens: Ecce assum Gaufridus frater tuus. 
+          <lb ed="#B1" n="8"/>Cui ille: Chare mi quomodo est tibiccui Gaufridus: Bene, inquit, est, sed reue 
+          <lb ed="#B1" n="9"/>latum est mihi a sancta Trinitate, quod si promotus fuissem in Episcopum, fuissem 
+          <lb ed="#B1" n="10"/>de numero reproborum: nec mirum, quia honores ut frequenter mutant mo 
+          <lb ed="#B1" n="11"/>res in peius. Vnde metrice dicitur:  
+          <lb ed="#B1" n="12"/>Plurima cum soleant hominum corrumpere mores 
+          <lb ed="#B1" n="13"/>Altius euertunt tria femina census honores. 
+          <lb ed="#B1" n="14"/>Vnde quidam dixit ad socium iam ad dignitatem promotum. Optimus esse so 
+          <lb ed="#B1" n="15"/>les, te fecit honor meliorem, aestimo quod fies de meliore bonus. Et ideo ne 
+          <lb ed="#B1" n="16"/>mo sibi sumat honorem, sed qui uocatur a DEO tanquam Aaron, qui iudicio 
+          <lb ed="#B1" n="17"/>uirgae florentis, &amp; incendio aemulorum electus est, &amp; monstratus placere DEO 
+          <lb ed="#B1" n="18"/>secundum Glossam, ad Hebr. 5.
+        </p>
+        <p xml:id="rhwis-l165-d1e366">
+          <lb ed="#B1" n="19"/>Tertio debemus honores inuicem comunicare. Est em triplex honor: scilicet 
+          <lb ed="#B1" n="20"/>honor subiectionis &amp; obedientiae, honor supportationis &amp; beneficentiae, honor 
+          <lb ed="#B1" n="21"/>affectionis &amp; beneuolentiae. Primus honor debet praelatis &amp; principibus Dicit 
+          <lb ed="#B1" n="22"/>enim Aristot. 5. Ethic. cap. 7. quo quilibet tenet dare mercedem ei, qui pro se laborat.  
+          <lb ed="#B1" n="23"/>Sed princeps laborat pro tota multitudine. Haec aut merces est honor &amp; gloria. 
+          <lb ed="#B1" n="24"/>Et cui ista non sufficiunt, tyrannus est &amp; non princeps, 1. Pet. 3. DEVM timete, regen 
+          <lb ed="#B1" n="25"/>honorate. Et concordat Apostolus 1. Timoth. 5. Quibene prsunt presbyteri du 
+          <lb ed="#B1" n="26"/>plici honore digni habeant, &amp; maxime qui laborant in uerbo, &amp; doctrina: Dupli  
+          <lb ed="#B1" n="27"/>ci honore, ut scilicet eis obediat, &amp; exteriora ministrent secundum Gloss. Secundus 
+          <lb ed="#B1" n="28"/>honor est supportationis &amp; beneficentiae, &amp; maxime debet parentibus Deuter. 5. 
+          <lb ed="#B1" n="29"/>Honora patrem &amp; matrem, ut longaeuus sis super terram. Et Deuter. 27. Maledictus qui  
+          <lb ed="#B1" n="30"/>non honorat patrem suum &amp; matrem suam. Tertius honor, qui est honor affectionis &amp;  
+          <lb ed="#B1" n="31"/>beneuolentiae, debet omnibus 1. Pet. 2. Omnes honorate, fraternitatem diligite. Ad 
+          <lb ed="#B1" n="32"/>Rom. 12. <quote xml:id="rhwis-l165-Qd1e398" source="http://scta.info/resource/rom12_10">Honore inuicem praeuenientes</quote>, <quote xml:id="rhwis-l165-Qd1e401" source="http://scta.info/resource/rom12_16">non alta sapientes, sed humilibus consentien 
+            <lb ed="#B1" n="33"/>tes</quote>. Et ideo refert Magister Helinandus, quod Helius Adrianus ex senatore factus 
+          <lb ed="#B1" n="34"/>est imperator., Iste intantum gratiam habuit populi &amp; senatus, quod senatus eum roga 
+          <lb ed="#B1" n="35"/>uit ut filium suum Augustum appellaret. Pater uero sciens quod graue pericu 
+          <lb ed="#B1" n="36"/>lum imminebat regimini: Respondit: Sufficit quod ego inuitus regnauerim. 
+          <lb ed="#B1" n="37"/>Et subiunxit: Alendi sunt prius pueri, &amp; uirtutibus exercendi, ut probentur uir 
+          <lb ed="#B1" n="38"/>tutibus antecedere, quos debent honoribus anteire. Vnde metrice dicitur:  
+          <lb ed="#B1" n="39"/>Vt ver dat florem, flos fructum, fructus odorem: 
+          <lb ed="#B1" n="40"/>Sic studium morem, mos sensum, sensus honorem. 
+          <lb ed="#B1" n="41"/>Huius uero conclusionis uidelicet, quod iuxta meritum uirtutis honor debe 
+          <lb ed="#B1" n="42"/>tur, notabile reperimus exemplum in Sexto lulio 6. lib. 4. cap. 1 de duce quo 
+          <lb ed="#B1" n="43"/>dam qui Theogenes dicebatur. Iste dux erat Atheniensium, &amp; exercitum con 
+          <lb ed="#B1" n="44"/>tra Megarem ducere debuit: Milites statim ordinem suum petunt, ut uide 
+          <lb ed="#B1" n="45"/>licet designentur, qui &amp; quot praecedere debeant. Theogenes respondit se tunc 
+          <lb ed="#B1" n="46"/>ordinem assignaturum, cum Megarem peruenissent: Et statim clam equites 
+          <lb ed="#B1" n="47"/>quosdam praemisit, qui in specie hostium impetunt in socios retorquerent. De 
+          <lb ed="#B1" n="48"/>istis autem quos secum habuit uisis istis insultationibus, permisit unumquen 
+          <lb ed="#B1" n="49"/>que ordinare sicut uoluit. Strenui &amp; cordati sponte praetulerunt se, uecordes  
+          <lb ed="#B1" n="50"/>&amp; timidi se retro traxerunt: ubi igitur ad insultantes deuentum est, compertum 
+          <lb ed="#B1" n="51"/>est eos socios esse, non hostes. Dux ergo praedictus prudens: unicuique 
+          <lb ed="#B1" n="52"/>ordinem illum tribuit, quem sibiipsi in isto euentu 
+          <lb ed="#B1" n="53"/>eligere primo uidit.  
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

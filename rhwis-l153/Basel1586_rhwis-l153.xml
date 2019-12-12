@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 153 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 153 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n=""/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l153">
+        <p xml:id="rhwis-l153-d1e95">
+          <lb ed="#B1" n="6"/>SPIRITUS sanctus postquam nos instruxit, qualiter ex malo 
+          <lb ed="#B1" n="7"/>rum punitione animari debemus, ad spem respectu gratiae in prae 
+          <lb ed="#B1" n="8"/>senti: Hic consequenter ostendit, quod ex malorum flagellatione 
+          <lb ed="#B1" n="9"/>&amp; damnatione debent boni animari, ad spem gloriae in uita futu  
+          <lb ed="#B1" n="10"/>ra. Et circa hoc duo siunt: quia primo ostendit quale iudicium 
+          <lb ed="#B1" n="11"/>DEVS exercet circa peccatores corrigibiles: Secundo ostendit, quale iudi  
+          <lb ed="#B1" n="12"/>eium exercet contra obstinatos &amp; incorrigibiles, &amp; specialiter istos Cananaeos. 
+          <lb ed="#B1" n="13"/>Secunda pars ibi: Vnde &amp; illis qui in vita, &amp;c.
+        </p>
+        <p xml:id="rhwis-l153-d1e115">
+          <lb ed="#B1" n="14"/>Quantum ad primum innuitur talis deductio rationis. Sicut obstinati fla 
+          <lb ed="#B1" n="15"/>gellantur in praesenti, &amp; quia se non corrigunt in perpetuum damnantur: ita 
+          <lb ed="#B1" n="16"/>poenitentes disciplinantur in praesenti: &amp; quia se corrigunt, praemiantur in per 
+          <lb ed="#B1" n="17"/>petuum. Quando uero uidemus malos flagellari sine correctione, &amp; nos disci 
+          <lb ed="#B1" n="18"/>plinari cum nostra correctione, iudicare possumus diuinam bonitatem in prae 
+          <lb ed="#B1" n="19"/>miatione nostra futura, &amp; sperare de misericordia, quae ab omni miseria liberat,  
+          <lb ed="#B1" n="20"/>quae est collatio uitae aeternae. Dicit ergo sic DEO loquens de nobis. Cum ergo 
+          <lb ed="#B1" n="21"/>nobis disciplinam das, disciplinam scilicet uerborum, pel verbum das contra ma 
+          <lb ed="#B1" n="22"/>liciam aliquorum, qui dicunt tribulationem non esse a DEO: inimicos nostros. 
+          <lb ed="#B1" n="23"/>qui uidelicet sunt inimici tui, multipliciter flagellas: iuxta illud Psalm. Multa fla 
+          <lb ed="#B1" n="24"/>gella peccatoris: vt bonitatem tuam, qua omnibus te communicas secundum 
+          <lb ed="#B1" n="25"/>natur arum diuersarum capacitatem, cogitemus iudicantes, alios incorrigibiles  
+          <!--sap_Page_544.xml-->
+          <pb ed="#B1" n="510"/>
+          <lb ed="#B1" n="1"/>ad flagella tua. Et cum de nobis iudicatur: id est, exercetur iudicium siue iuste, 
+          <lb ed="#B1" n="2"/>siue iniustem, siue ab hominibus, siue a DEO, speremus misericordiam tuam. lob. 13. 
+          <lb ed="#B1" n="3"/>Et si occidat me, in ipso sperabo: misericordiam uidelicet ab omni poena liberan. 
+          <lb ed="#B1" n="4"/>tem, quae ab omnibus immisericordibus abstrahetur. Iuxta illud Iac. 2. Iudi  
+          <lb ed="#B1" n="5"/>cium sine misericordia fiet illi, qui non facit misericordiam. Secundo ostendit 
+          <lb ed="#B1" n="6"/>quale iudicium exercet DEVS, puniendo peccatores obstinatos, &amp; specialiter 
+          <lb ed="#B1" n="7"/>illos Cananaeos, quos expulit a facie Hebraeorum. Illi enim tales fuerunt ido 
+          <lb ed="#B1" n="8"/>latrae, quod coluerunt imagines animalium, sicut superius dictum fuit. Et ideo 
+          <lb ed="#B1" n="9"/>merito DEVS illos per animalia uilia voluit exterminare, propter quod sic 
+          <lb ed="#B1" n="10"/>suosugit. Vnde &amp; illis qui in vita sua insensate, &amp; iniuste vixerunt. Insensate quo 
+          <lb ed="#B1" n="11"/>ad DEVM, &amp; iniuste tam contra DEVM quam contra proximum: uel insensa 
+          <lb ed="#B1" n="12"/>te, quo ad se ipsos: &amp; iniuste contia DEVM &amp; proximos. Per hec quae colueruns  
+          <lb ed="#B1" n="13"/>deaisti summa tormenta: quando per uespas &amp; muscas, &amp; uilissima animalia eos 
+          <lb ed="#B1" n="14"/>interemisti. Et quod hoc fuit conuenienter factum, hoc sic probatur. Illi enim 
+          <lb ed="#B1" n="15"/>non ex surreptione, nec modico tempore errauerunt colendo talia animalia, 
+          <lb ed="#B1" n="16"/>sed diu, &amp; uixerunt more infantium, &amp; ideo conueniens fuit, quod extermma 
+          <lb ed="#B1" n="17"/>rentur iudicio singulari, &amp; derisibili sicut infantes, uel fatui a bestijs, quas prius 
+          <lb ed="#B1" n="18"/>coluerant. Vnde dicit sic: Et enim isti Cananaei in erroris via: id est, in idolatria, 
+          <lb ed="#B1" n="19"/>diutius, non per modicum tempus, errauerunt errore negligentiae: quia nolue. 
+          <lb ed="#B1" n="20"/>tunt eum corrigere, nec ad uerum DEVM conuerti: deos estimantes bec, quae in 
+          <lb ed="#B1" n="21"/>animalibus sunt superuacua: id est, inutilia &amp; nociua, cuiusmodi sunt dracones, 
+          <lb ed="#B1" n="22"/>serpentes, &amp; talpae. Vel secundum aliam literam. Deos estimantes, quae in mani  
+          <lb ed="#B1" n="23"/>bus sunt superuacua: id est, ab operibus humanis, quae per manus siunt homi 
+          <lb ed="#B1" n="24"/>num, sunt superuacua &amp; inutilia: sicut carpentarius extremitates lignorum, &amp; 
+          <lb ed="#B1" n="25"/>truncos tunc dimittit, quando sibi seruire non possunt. Et de talibus uenit scul  
+          <lb ed="#B1" n="26"/>ptor, &amp; pingit imagines. Esa. 44. Artifex lignarius sumpsit ex lignis saltus, &amp; 
+          <lb ed="#B1" n="27"/>calefactus est, &amp; succendit, &amp; coxit panes: de reliquo aut operatus est DEVM, 
+          <lb ed="#B1" n="28"/>&amp; adorauit. Fecit sculptile sibi, &amp; incuruatus est ante illud. Medium eius com 
+          <lb ed="#B1" n="29"/>bussit igni, &amp; de medio eius carnes coxit, &amp;c. Et infra. Reliquum autem eius 
+          <lb ed="#B1" n="30"/>DEVM fecit, &amp; sculptile sibi. Curuatur ante illud, &amp; adorat illud, &amp; obsecrat  
+          <lb ed="#B1" n="31"/>illud dicens: Libera me, quia DEVS meus es tu. Talia ergo coluerunt isti Ca 
+          <lb ed="#B1" n="32"/>nanaei, infantium insensatorum more viuentes. Pueri enim insensati faciunt sibi 
+          <lb ed="#B1" n="33"/>puppas, &amp; imagines puerorum, &amp; Iudunt cum eis. Et ideo merito tu DEVS 
+          <lb ed="#B1" n="34"/>dedisti eis iudicium in derisum, tanquam pueris insensatis. Quia latis derisibi 
+          <lb ed="#B1" n="35"/>les uidebantur, cum per cyniphes, muscas, &amp; ranas, ursos, &amp; leones extermi 
+          <lb ed="#B1" n="36"/>nabantur.
+        </p>
+        <p xml:id="rhwis-l153-d1e226">
+          <lb ed="#B1" n="37"/>Circa illam clausulam: Speremus misericordiam.] Notandum est quod spem 
+          <lb ed="#B1" n="38"/>nostram tribus temporibus praecipue recolligere debemus: uidelicet immi 
+          <lb ed="#B1" n="39"/>nente tempestate temporalis tribulationis, accedente necessitate corporalis  
+          <lb ed="#B1" n="40"/>dissolutionis: &amp; superueniente perplexitate criminalis desperationis. Primo 
+          <lb ed="#B1" n="41"/>sperare debemus diuinam misericordiam, nobis facillime affuturam, imminen 
+          <lb ed="#B1" n="42"/>te tempestate temporalis tribulationis. In Psalm. Quoniam in me sperauit, li  
+          <lb ed="#B1" n="43"/>berabo eum, protegam eum, quoniam cognouit nomen meum. Exemplum 
+          <lb ed="#B1" n="44"/>ad hoc habemus in uita sancti Martini. Qui cum inter Alpes incidisset in latro  
+          <lb ed="#B1" n="45"/>nes, &amp; unus eorum eum ferire minaretur, alius ictum ferientis continuit. Et  
+          <lb ed="#B1" n="46"/>cum postea latrones quaererent ab eo, an timeret: dixit se nunquam magis se 
+          <lb ed="#B1" n="47"/>curum fuisse. Quia sciebat misericordem DEVM maxime in tentationibus as  
+          <lb ed="#B1" n="48"/>futurum. Summa cautela militum antiquorum fuit, omnia quae uidebantur ad 
+          <lb ed="#B1" n="49"/>uersa &amp; terribilia, &amp; bonae spei contraria, ad confidentiam interpretari: sicut nar 
+          <lb ed="#B1" n="50"/>rat Sextus lulius stratagematon lib. 1. cap. 1. Vnde cum Scipio Aphricanus ex 
+          <lb ed="#B1" n="51"/>Italia in Aphricam exercitum traduxisset, &amp; ipse de naui deberet descendere,  
+          <lb ed="#B1" n="52"/>cecidit ad terram. Considerans ergo milites attonitos de casu, ipsum lapsum ma 
+          <!--sap_Page_545.xml-->
+          <pb ed="#B1" n="511"/>
+          <lb ed="#B1" n="1"/>teriam spei fecit. Audite (inquit) milites, Aphricani oppressi, &amp;c. Consimili mo 
+          <lb ed="#B1" n="2"/>do Gaius Caesar, cum nauem ascendere deberet, decidit ad terram, &amp; militibus 
+          <lb ed="#B1" n="3"/>consternatis dixit: Teneo (inquit) te terra mater, quasi diceret: non sic recedo, 
+          <lb ed="#B1" n="4"/>quin ad te redibo. Et sic illo uerbo milites sperare fecit, notando se in terram  
+          <lb ed="#B1" n="5"/>propriam rediturum. Iterum Stercorius dux quidam militum, cum equitum 
+          <lb ed="#B1" n="6"/>scuta, equorumque pectora cruenta subito prodigio apparuissent, &amp; milites 
+          <lb ed="#B1" n="7"/>inde consternarentur: uictoriam (inquit) pro nobis protendit. Istae enim partes 
+          <lb ed="#B1" n="8"/>non proprio, sed hostili cruore solent aspergi: Eamundus Thebanus, cum fax  
+          <lb ed="#B1" n="9"/>de coelo nocte fuisset delapsa, &amp; eos qui aduerterant, terruit: metum conceptum 
+          <lb ed="#B1" n="10"/>sic fugauit. Lumina (inquit) numina ostendunt: quasi dicat: Dij nobis mittunt  
+          <lb ed="#B1" n="11"/>lumen, ut nos iuuent. Isto modo uiri sancti omnia terribilia, quae eis accidunt,  
+          <lb ed="#B1" n="12"/>uel malorum persecutione, seu mundana mutatione, seu corporis infirmitate: 
+          <lb ed="#B1" n="13"/>interpretantur in bonum, scientes quod diligentibus DEVM omnia coope. R 
+          <lb ed="#B1" n="14"/>rantur in bonum. Et quanto maior materia timoris incutitur, tanto feruentior 
+          <lb ed="#B1" n="15"/>spes eorum erigitur. Iuxta illud Iob. 13. Etiam si occiderit me, sperabo in eum.
+        </p>
+        <p xml:id="rhwis-l153-d1e300">
+          <lb ed="#B1" n="16"/>Secundo sperare debemus confidenter, accedente necessitate corporalis dis  
+          <lb ed="#B1" n="17"/>solutionis. Prou.14. Sperat iustus in morte sua: sicut docet Arist. lib. suo de po 
+          <lb ed="#B1" n="18"/>mo &amp; morte. Non est philosophi timere mortem, sed magis gaudere, &amp; bonae spei 
+          <lb ed="#B1" n="19"/>esse imminente morte: &amp; hoc suis discipulis declarauit in morte per duas rationes. 
+          <lb ed="#B1" n="20"/>Primo sic petiuit ab eis. Creditis (inqt per philosophiam uestram quae differentia est 
+          <lb ed="#B1" n="21"/>inter hominem &amp; bestiam, &amp; qui inquirit ueritatem &amp; rectitudinem in philosophia, 
+          <lb ed="#B1" n="22"/>meretur gradus altissimos. Credimus (inquiunt). Tunc ille: Bonum igitur quod  
+          <lb ed="#B1" n="23"/>prouenit homini ex scientijs illis, aut prouenit eis in hoc seculo in quo sumus, 
+          <lb ed="#B1" n="24"/>aut in alio futuro. Si dicitis quod in hoc seculo, in quo sumus: ergo gradus com  
+          <lb ed="#B1" n="25"/>uenientes scientiae non didicistis. Nam plures homines insipientes qui non 
+          <lb ed="#B1" n="26"/>cognouerunt Creatorem, finierunt dies suos in bono, &amp; annos suos in deside 
+          <lb ed="#B1" n="27"/>rijs eorum: &amp; plures sapientes, qui cognouerunt Creatorem suum, habent pri 
+          <lb ed="#B1" n="28"/>uationem boni &amp; pacis. Ex quo autem bonum a philosophis expectatum non 
+          <lb ed="#B1" n="29"/>euenit ante mortem, sed post mortem: quare mortem timetis, quae uia est, &amp; 
+          <lb ed="#B1" n="30"/>incessus animae ad illud quod maxime concupiuit: Secundo sic idem persua 
+          <lb ed="#B1" n="31"/>sit. Quaero (inquit) a uobis: Vtrum mors sit aliquid aliud, quam recessus ani 
+          <lb ed="#B1" n="32"/>mae a corpore. Responderunt quod non. Corpus enim nihil audit, nec uidet,  
+          <lb ed="#B1" n="33"/>nisi per animam: sed consentit delectationibus &amp; passionibus, quae sunt con 
+          <lb ed="#B1" n="34"/>traria appetitui animae, in eo quod uult ascendere ad gradus bonos &amp; rectos. 
+          <lb ed="#B1" n="35"/>Quare igitur doletis, si anima recedit ab eo, quod est contrarium suae delecta 
+          <lb ed="#B1" n="36"/>tioni, &amp; perfectioni, &amp; suo desiderio. Et ideo cum facies Aristotelis morituri 
+          <lb ed="#B1" n="37"/>clara esset, &amp; iocunda, dixit eis: Non cogitatis in cordibus uestris, quod ego 
+          <lb ed="#B1" n="38"/>laetor, eo quod sperem euadere de infirmitate mea. Quoniam bene scio me mo 
+          <lb ed="#B1" n="39"/>do moriturum, &amp; nisi esset hoc pomum quod in manu mea teneo: &amp; quod o 
+          <lb ed="#B1" n="40"/>dor illius me confortat, &amp; aliqualiter prolongat uitam meam, iam expirassem. 
+          <lb ed="#B1" n="41"/>Sed anima sensitiua in qua communicamus cum bestijs, fouetur odore bono 
+          <lb ed="#B1" n="42"/>Et ego laetor, quod recedo de hoc seculo, quod est compositum ex contrarijs: 
+          <lb ed="#B1" n="43"/>quia quodlibet quatuor elementorum est contrarium alteri. Vnde quomodo  
+          <lb ed="#B1" n="44"/>posset stare, aut diu prolongari corpus ex his compositum: Tandem cadente 
+          <lb ed="#B1" n="45"/>pomo de manu mortuus est, pro quo philosophi orauerunt. Ille qui suscipit a 
+          <lb ed="#B1" n="46"/>nimas philosophorum, suscipiat animam tuam, Esa. 40. Qui sperat in Domino 
+          <lb ed="#B1" n="47"/>mutabit fortitudinem, per mortem uidelicet transeundo ad uitam.
+        </p>
+        <p xml:id="rhwis-l153-d1e372">
+          <lb ed="#B1" n="48"/>Tertio maxime sperare debemus superueniente perplexitate criminalis de 
+          <lb ed="#B1" n="49"/>sperationis, Ecclesiast. 2. Scitote quia nullus sperauit in Domino, &amp; confusus 
+          <lb ed="#B1" n="50"/>est. Dicit Hippoc. in Amphor. Desipientiae cum risu factae securiores sunt cae 
+          <lb ed="#B1" n="51"/>teris, &amp; alibi. Et ideo sicut infirmis multum confert, quod sint bonae spei, ita 
+          <lb ed="#B1" n="52"/>moraliter peccatoribus. Iuxta illud metricum: 
+          <!--sap_Page_546.xml-->
+          <pb ed="#B1" n="512"/>
+          <lb ed="#B1" n="1"/>Speret qui metuit, morituros viuere vidi 
+          <lb ed="#B1" n="2"/>Spe duce victuros, spe moriente mori. 
+          <lb ed="#B1" n="3"/>Vnde Bernhardus in quodam sermone: Tu es Domine spes mea. Quidquid  
+          <lb ed="#B1" n="4"/>agendum, quidquid declinandum, quidquid tolerandum, quidquid optan 
+          <lb ed="#B1" n="5"/>dum, tu es Domine spes mea. Haec mihi una omnium promissionum causa, 
+          <lb ed="#B1" n="6"/>haec tota ratio meae expectationis. Praetendat alter meritum, sustinere se iactet 
+          <lb ed="#B1" n="7"/>pondus diei, &amp; aestus, ieiunare se bis in sabbato dicat, postremo non esse sicut  
+          <lb ed="#B1" n="8"/>caeteri hominum glorietur: Mihi autem adhaerete DEO bonum est, &amp; pone 
+          <lb ed="#B1" n="9"/>re in Domino DEO spem meam. Et infra: Si mihi praemia promittuntur, per 
+          <lb ed="#B1" n="10"/>te obtinenda sperabo. Si surgant aduersum me praelia, si saeuiat mundus, si fre 
+          <lb ed="#B1" n="11"/>mat malignus, si ipsa caro aduersus spiritum concupiscat, in te sperabo. In Psal. 
+          <lb ed="#B1" n="12"/>4. Quoniam tu Domine singulariter in spe constituisti me.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

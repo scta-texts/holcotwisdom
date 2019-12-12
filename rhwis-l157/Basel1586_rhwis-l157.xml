@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 157 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 157 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="521"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l157">
+        <p xml:id="rhwis-l157-d1e95">
+          <!--sap_Page_555.xml-->
+          <pb ed="#B1" n="521"/>
+          <lb ed="#B1" n="1"/>OSTQVAM Spiritus sanctus declarauit uitam &amp; modum, 
+          <lb ed="#B1" n="2"/>per quem gentiles philosophi poterant deuenisse ad ueram DEI 
+          <lb ed="#B1" n="3"/>cognitionem: Hic ostendit quod de eorum negligentia in hac par 
+          <lb ed="#B1" n="4"/>te nullam habuerunt excusationem. Et circa hoc tria facit: quia pri 
+          <lb ed="#B1" n="5"/>mo ponit eiusdem excusationis allegationem: Secundo illius alle 
+          <lb ed="#B1" n="6"/>gationis probationem: Tertio eiusdem rationis confutationem. Secunda pars 
+          <lb ed="#B1" n="7"/>ibi. Et enim cum in operibus. Tertia pars ibi: Iterum tamen nec his  
+          <lb ed="#B1" n="8"/>Allegatio ad excusandum gentiles philosophos posset esse talis. Videri ete 
+          <lb ed="#B1" n="9"/>nim posset quod eis minor esset querela quam praedicta praetendunt pro tan 
+          <lb ed="#B1" n="10"/>to: quia ipsi fecerunt quod in eis fuit. Quaesierunt DEVM studijs &amp; ingenijs, 
+          <lb ed="#B1" n="11"/>disputationibus &amp; doctrinis uolebant eum inuenisse: unde si non inuenerunt,  
+          <lb ed="#B1" n="12"/>non uidetur culpa eorum. Confirmatio istius allegationis est, quod ipsi con 
+          <lb ed="#B1" n="13"/>tinue in operibus DEI scilicet creaturis discutiendis conuersabantur, studen 
+          <lb ed="#B1" n="14"/>tes circa naturam rerum creatarum. Et ad DEVM cognoscendum multiplici 
+          <lb ed="#B1" n="15"/>ter inquisierunt, inueniendo, disputando, &amp; docendo, &amp; concluserunt euidenter,  
+          <lb ed="#B1" n="16"/>quod omnia sensibilia quae uidentur, bona sunt, &amp; usui humano multum necessa. 
+          <lb ed="#B1" n="17"/>na. Igitur uidetur quod si potuissent ulterius ascendisse ad DEVM cognoscen 
+          <lb ed="#B1" n="18"/>dum, hoc multo libentius attentassent. Sed confutatio istius allegationis cum 
+          <lb ed="#B1" n="19"/>sua probatione est talis: Si isti fuerunt ita studiosi &amp; ingeniosi, quod potuerunt sibi 
+          <lb ed="#B1" n="20"/>adquirere aestimationem, &amp; aliqualem cognitionem de toto mundo, sicut de moti  
+          <lb ed="#B1" n="21"/>bus Solis, &amp; Lunae, de uiribus arborum, lapidum, &amp; herbarum, quod est difficilimum: 
+          <lb ed="#B1" n="22"/>quomodo non facilius horum omnium Dominum &amp; causam poterant inuenire: prae 
+          <lb ed="#B1" n="23"/>ertim cum ipse se deuote uiuentibus sponte iugerat. Sap. 6. Praeoccupat aut qui se 
+          <lb ed="#B1" n="24"/>concupiscunt, ut illis se prior ostendat. Dicit ergo sic a principio lectionis pro li  
+          <lb ed="#B1" n="25"/>tera. Sed tamen adhuc in his gentibus, uidelicet colentibus corpora coelestia &amp; 
+          <lb ed="#B1" n="26"/>elementa, minor est querela, uel minor quam de colentibus idola de quibus postea 
+          <lb ed="#B1" n="27"/>statim dicetur. Vel minor querela est: hoc est, uidetur quam lectio ultima praeten 
+          <lb ed="#B1" n="28"/>debat. Et hi enim, enim, pro quia: quia hi fortassis errant. In hoc quod dicit for 
+          <lb ed="#B1" n="29"/>tassis, innuit excusationis insufficientiam: DEVM quaerentes &amp; sic facientes quod  
+          <lb ed="#B1" n="30"/>in eis fuit, &amp; volentes inuenire, sed non ualentes. Huius rationis confirmatio uidet  
+          <lb ed="#B1" n="31"/>esse iuud, quod sequitur. Et enim cum in operibus illius conuersentur &amp; inquirunt &amp;  
+          <lb ed="#B1" n="32"/>sic continue versentur per studium, &amp; inquisitionem in operibus illius: id est, DEI 
+          <!--sap_Page_556.xml-->
+          <pb ed="#B1" n="522"/>
+          <lb ed="#B1" n="1"/>etiam manifestum est ex dictis eorum, quod persuasum habent: id est, ratum &amp; 
+          <lb ed="#B1" n="2"/>per rationem probatum: quoniam bona sunt quae videntur, uidelicet ista sensibilia. Sed  
+          <lb ed="#B1" n="3"/>haec responsio refellitur sic: Iterum tamen nec his debet ignosci. Et exponitur per li 
+          <lb ed="#B1" n="4"/>teram quae est ista. Aut est, uel tamen pro sed, sed istis non debet ignosci: id est, non de 
+          <lb ed="#B1" n="5"/>bet pro excusatis haberi. Et subiungitur ratio in litera: Si enim tantum potuerant  
+          <lb ed="#B1" n="6"/>scire, ut possent astimare seculum, quomodo Dominum hisius facilius non inuenerunt: 
+          <lb ed="#B1" n="7"/>quasi diceret: Mirum est, &amp; si tanti erant ingenij, quod istos effectus scire poterant. Igi 
+          <lb ed="#B1" n="8"/>tur causam omnium istorum effectuum utique leuissime scire potuisset. Sed contra illud  
+          <lb ed="#B1" n="9"/>ultimum uidetur esse illud superius positum 6. cap. Difficile aestimamus quae in ter 
+          <lb ed="#B1" n="10"/>ra sunt, &amp; quae in prospectu sunt inuenimus cum labore, quae aut in coelis sunt quis  
+          <lb ed="#B1" n="11"/>inuestigabit: Igitur non potuerunt facilius inuenisse DEVM quam aestimare seculum. 
+          <lb ed="#B1" n="12"/>Dicunt doctores quo aliud est comprehendere de DEO, quia est, &amp; aliud, quid est. 
+          <lb ed="#B1" n="13"/>Primum potuerunt philosophi per creaturas: secundum fuit eis impossibile. Sed  
+          <lb ed="#B1" n="14"/>quia DEVM esse hucusque demonstratum non inueni, siue ab Aristo. siue a quo 
+          <lb ed="#B1" n="15"/>cumque alio, ut dicit quidam doctor: licet ego cum philosopho, &amp; alijs solennibus do 
+          <lb ed="#B1" n="16"/>ctoribus in ultima lectione tenuerim, &amp; adhuc teneam oppositum. Et ideo iuxta 
+          <lb ed="#B1" n="17"/>uiam illius doctoris, aliter ad dictam obiectionem respondeo. Dicam enim secundum 
+          <lb ed="#B1" n="18"/>mentem beati Aug. 28. de Ciui. DEI cap. 38. Quod ante omnes philosophos 
+          <lb ed="#B1" n="19"/>Graecos uel Barbaros prophetae sancti praecesserunt, qui tam uerbo quam scripto 
+          <lb ed="#B1" n="20"/>DEI noticiam docuerunt: &amp; ideo DEUM esse statim a principio mundi per 
+          <lb ed="#B1" n="21"/>Adam &amp; filios suos extitit praedicatum. Cui dicto quidam assenserunt, &amp; quidam  
+          <lb ed="#B1" n="22"/>dissenserunt, sicut modo de alijs articulis inuenimus. Isti ergo philosophi au 
+          <lb ed="#B1" n="23"/>dientes DEVM esse, &amp; a DEI cultoribus fuisse praedicatum, poterant ex regimi 
+          <lb ed="#B1" n="24"/>ne mundi rerum uniformi gubernatione rationabiliter asseruisse DEVM esse. Et  
+          <lb ed="#B1" n="25"/>ideo quod errauerunt, eorum uel negligentia, uel malicia fuit in causa. Et quia 
+          <lb ed="#B1" n="26"/>propter reuelationem antiquam diuulgatum est apud omnes genres, legibus utentes 
+          <lb ed="#B1" n="27"/>DEVM esse: &amp; quod est omnibus notum, uidetur ipsa natura notum. Ideo aestimo  
+          <lb ed="#B1" n="28"/>Damascenum dixisse 2. sen. cap. 3. Cognitio existendi DEVM nobis natu  
+          <lb ed="#B1" n="29"/>raliter inserta est, quanuis non ingenij naturalis inuestigatione, sed potius diuina 
+          <lb ed="#B1" n="30"/>reuelatione DEI noticia hominibus fuerit comunicata. Vnde dico ad obiectio 
+          <lb ed="#B1" n="31"/>nem, quod multo facilius est DEVM: id est, fidem de DEO inuenire, quam secu 
+          <lb ed="#B1" n="32"/>lum aestimare: quia bene utentibus naturali ingenio, DEVS seipsum aliquo mo 
+          <lb ed="#B1" n="33"/>do reuelat, uel per extrinsecam informationem, uel per intrinsecam inspirationem. Com 
+          <lb ed="#B1" n="34"/>firmatur haec responsio: quia nec aliter astronomiam dicunt plurimi adinuentam  
+          <lb ed="#B1" n="35"/>fuisse. Vnde Magister in historijs scholasticis super Gen. de dispersione filiorum 
+          <lb ed="#B1" n="36"/>Noë, narrat: Noë habuisse filium quendam nomine lonichum, qui accepit a 
+          <lb ed="#B1" n="37"/>DEO sapientiam seu donum sapientiae, &amp; inuenit astronomiam. Sicut ergo 
+          <lb ed="#B1" n="38"/>ad discere potuerunt scientiam ad mensurandum quantitatem terrae Solis &amp; 
+          <lb ed="#B1" n="39"/>Lunae: Ita potuerant didicisse colere uerum DEVM
+        </p>
+        <p xml:id="rhwis-l157-d1e260">
+          <lb ed="#B1" n="40"/>luxta illam clausulam: Dominum non inuenerunt.] Notandum, quod ratio est: quia 
+          <lb ed="#B1" n="41"/>non quaesierunt eum ubi manet. Non enim inuenitur in lasciuijs uoluptatis, nec 
+          <lb ed="#B1" n="42"/>in diuitijs uanitatis, nec in consortijs carnalis consanguinitatis. Non inuenitur in 
+          <lb ed="#B1" n="43"/>lasciuijs uoluptatis: quia secundum quod scribitur lob. 28. Non inuenitur in ter 
+          <lb ed="#B1" n="44"/>ra suauiter uiuentium. Et Canti. 3. In lectulo meo per noctem quaesiui, quem diligit 
+          <lb ed="#B1" n="45"/>anima mea, quaesiui &amp; non inueni. Secundo non inuenitur in diuitijs uanitatis:  
+          <lb ed="#B1" n="46"/>quia Oseae 5. In gregibus suis &amp; in armentis uadent ad quaerendum Dominum, &amp; 
+          <lb ed="#B1" n="47"/>non inuenient. Tertio non inuenitur Dominus in consortio carnalis consanguini 
+          <lb ed="#B1" n="48"/>tatis, Luc. 2. Requirebant eum inter cognatos &amp; notos, &amp; non inuenientes eum, 
+          <lb ed="#B1" n="49"/>egressi sunt in lerusalem. Sed inuenitur in praesepio pannis inuolutus auisterae 
+          <lb ed="#B1" n="50"/>poenitentiae. Luc. 2. Inuenietis infantem pannis inuolutum, &amp; positum in praesepio. In 
+          <lb ed="#B1" n="51"/>uenit etiam in domo mundae conscientiae, Matth. 2. Intrantes domum, inuenerunt pue 
+          <lb ed="#B1" n="52"/>rum cum Maria matre eius. Tertio aut inuenitur in templo contemplationis deuotae,  
+          <lb ed="#B1" n="53"/>Luc. 2. Post triduum inuenerunt eum in templo. Erraucrunt ergo isti philosophi circa 
+          <!--sap_Page_557.xml-->
+          <pb ed="#B1" n="523"/>
+          <lb ed="#B1" n="1"/>diuina &amp; coelestia propter nimiam distantiam. Dicit enim Basilius quo nimia distan 
+          <lb ed="#B1" n="2"/>tia facit errare circa tria, uidelicet quantitatem, qualitatem, &amp; circa figuram. Circa  
+          <lb ed="#B1" n="3"/>quantitatem secundum Basilium, &amp; ponit exemplum de Sole, qui propter nimiam distan 
+          <lb ed="#B1" n="4"/>tiam a nobis apparet uix pedalis quantitatis in diametro. Circa qualitatem, &amp;c. Et  
+          <lb ed="#B1" n="5"/>ponit exemplum de uelis nauium, quae cum sint alba, apparent multum distantibus esse ni 
+          <lb ed="#B1" n="6"/>gra. Erratur etiam circa figuram, propter distantiam, &amp;c. Et ponit exemplum de turribus 
+          <lb ed="#B1" n="7"/>quae cum sint quadratae propter nimiam distantiam, apparent esse rotundae. Vnde autor 
+          <lb ed="#B1" n="8"/>de uisu propositone 10. Rectangulae magnitudines magna distantia uisae pari 
+          <lb ed="#B1" n="9"/>fariae apparent. Vbi habet alia translatio: Sicut quadra per distantiam longam uisa ro 
+          <lb ed="#B1" n="10"/>tunda apparent. Ratio est, quia in magna distantia anguli quadrati non immutant  
+          <lb ed="#B1" n="11"/>sensum: quia cuiuslibet uisibilis per improportionatam distantiam, siue per eloga 
+          <lb ed="#B1" n="12"/>tionem uisum terminari contingit, sicut dicitur propositone tertia eiusdem libri 
+          <lb ed="#B1" n="13"/>lsto modo peccatores elogati a coelestibus errant circa futuram gloriam tripliciter: qia 
+          <lb ed="#B1" n="14"/>circa eis quantitatem, non considerantes quam magna est multitudo dulcedinis tuae 
+          <lb ed="#B1" n="15"/>Dne, &amp;c. Circa eius qualitatem, non considerantes: quia nec auris audiuit nec in cor 
+          <lb ed="#B1" n="16"/>hominis ascendit gloria, quam DEVS se diligentibus praeparauit: Circa eius figuram 
+          <lb ed="#B1" n="17"/>non considerantes: quam stabilis sit &amp; aeterna. Est enim in quadro posita: sicut dici 
+          <lb ed="#B1" n="18"/>tur Apoc. 21. Ipsi aut credunt eam esse rotundam: id est, uolubilem &amp; caducam.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

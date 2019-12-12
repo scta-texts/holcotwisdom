@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 139 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 139 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="472"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l140">
+        <p xml:id="rhwis-l140-d1e95">
+          <lb ed="#B1" n="4"/>POSTQUAM ostensum est qualiter poena consimili ad diuersum 
+          <lb ed="#B1" n="5"/>amen finem afflicti fuerunt siti Aegyptij &amp; Hebraei: llli in Aegy 
+          <lb ed="#B1" n="6"/>pto, isti in deserto. In hac parte declaratur quis inde profectus iusti  
+          <lb ed="#B1" n="7"/>ciae prouenerit apud Aegyptios: Et est duplex. Primo iustum fuit,  
+          <lb ed="#B1" n="8"/>quod qui se DEVM ignorare dicebant, ad DEI noticiam &amp; confessionem in 
+          <lb ed="#B1" n="9"/>ducerentur per coactionem. Secundo iustum fuit quod qui DEI Prophetam 
+          <lb ed="#B1" n="10"/>contempserant, &amp; morti exposuerant, postea uenerarentur per admirationem. 
+          <lb ed="#B1" n="11"/>Et istum duplicem profectum ex diuina flagellatione secutum, explicat Salomon 
+          <lb ed="#B1" n="12"/>in hodierna lectione. Secunda pars ibi: Quem enim in expositone. Primo igitur  
+          <lb ed="#B1" n="13"/>istud bonum de Aegyptiorum flagellatione sequebatur, quod illi qui proter 
+          <lb ed="#B1" n="14"/>ue &amp; maliciose DEI noticiam se habere negauerant, Exod. 5. Quis est Domi 
+          <lb ed="#B1" n="15"/>nus ut audiam uocem eius, &amp; dimittam Israel. Nescio Dominum &amp; Israel non 
+          <lb ed="#B1" n="16"/>dimittam. Quod illi (inquam) ad DEI recognitionem &amp; confessionem per 
+          <lb ed="#B1" n="17"/>tormenta cogerentur. Et sic factum est: Nam quando senserunt se torqueri di 
+          <lb ed="#B1" n="18"/>uinitus, nunc per mutationem aquarum in sanguinem, nunc per ranas immis  
+          <lb ed="#B1" n="19"/>sas, nunc per alias octo plagas, reducti fuerunt ad recognoscendam diuinam  
+          <lb ed="#B1" n="20"/>uirtutem. Vnde uiso tertio signo de ciniphibus, dixerunt malefici Pharaonis: di 
+          <lb ed="#B1" n="21"/>gitus DEI est hic, Exod. 8. &amp;9. Dixit &amp; Pharao post plagam grandinis. Pec 
+          <lb ed="#B1" n="22"/>caui etiam, &amp; nunc Dominus iustus, ego &amp; populus meus impij, &amp; Exod. 14. 
+          <lb ed="#B1" n="23"/>Fugiamus Israel: Dominus enim pugnat pro eis contra nos. Hoc dixerunt  
+          <lb ed="#B1" n="24"/>quando fuerunt in mari rubro, &amp; Dominus exercitum eorum percussit imbre,  
+          <lb ed="#B1" n="25"/>fulmine, &amp; tonitruo, immediate antequam mare redijt super eos: &amp; hoc est, 
+          <lb ed="#B1" n="26"/>quod litera uult dicere: Cum enim audirent supple Aegypti, per sua tormenta 
+          <lb ed="#B1" n="27"/>benem secum agi: id est, iustem agi cum eis: commemorati sunt Dominum: id est, reco  
+          <lb ed="#B1" n="28"/>gnoscentes se diuina uirtute correptos, Dominum esse DEVM confessi sunt,  
+          <lb ed="#B1" n="29"/>admirantes in finem exitus: id est, de fine exitus Israel de Aegypto. In Psalm. 
+          <lb ed="#B1" n="30"/>Fecit magnalia in Aegypto &amp; mirabilia in terra Cham, terribilia in mari ru 
+          <lb ed="#B1" n="31"/>bro. Secundo per tormenta &amp; flagella DEI reducti fuerunt Aegyptij ad ue 
+          <lb ed="#B1" n="32"/>nerandum Moysen, DEI Prophetam, quem prius paruulum submersisse uole 
+          <lb ed="#B1" n="33"/>bant, Exod. 1. Et quantum ad hoc litera dicit sic: Quem enim in exposittone pra 
+          <lb ed="#B1" n="34"/>ua, quando uidelicet de praecepto malicioso regis Aegypti paruuli expone. 
+          <lb ed="#B1" n="35"/>bantur ad mortem, &amp; proijciebantur in flumen, proiectum Moysem deriserunt: 
+          <lb ed="#B1" n="36"/>id est, contemptibiliter abiecerunt: In finem euentus mirati sunt: quando uide 
+          <lb ed="#B1" n="37"/>licet in tot plagis &amp; portentis percussit Aegyptum, &amp; eduxit populum suum 
+          <lb ed="#B1" n="38"/>de Aegypto, &amp; ultra mare rubrum submerso Aegyptiorum exercitu in eodem: 
+          <lb ed="#B1" n="39"/>non similiter iustis faciens. Ista litera debet refetri ad textum lectionis praeceden 
+          <!--sap_Page_507.xml-->
+          <pb ed="#B1" n="473"/>
+          <lb ed="#B1" n="1"/>tis, dol dicit: Illos tanquam durus rex interrogans condemnasti, non similiter iustis 
+          <lb ed="#B1" n="2"/>faciens, aliter non appareret congruitas in sermone: &amp; est sensus, quod aliter pu 
+          <lb ed="#B1" n="3"/>niuit iustos Hebraeos, aliter iniustos Aegyptios: quia illos ad correctionem, hos 
+          <lb ed="#B1" n="4"/>ad damnationem seu condemnationem, ut in lectione praecedenti dictum fuit.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

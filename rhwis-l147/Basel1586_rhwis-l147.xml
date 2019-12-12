@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 147 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 147 [Basel Transcription]</title>
+          <date when="2019-12-12">December 12, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-12" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="493"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l147">
+        <p xml:id="rhwis-l147-d1e95">
+          <!--sap_Page_527.xml-->
+          <pb ed="#B1" n="493"/>
+          <lb ed="#B1" n="1"/>DECLARATA diuina castigatione ad omnes peccatores generali  
+          <lb ed="#B1" n="2"/>ter: quia omnes corripit, admonet, &amp; alloquitur, ut relinquant mali  
+          <lb ed="#B1" n="3"/>ciam: In hac parte ostendit diuinam clementiam in castigatione illarum 
+          <lb ed="#B1" n="4"/>gentium, quas de terra Sancta expulerunt filij Israel specialiter. Et cir 
+          <lb ed="#B1" n="5"/>ca hoc duo facit. Nam primo replicat puniendorum peruersitatem: Secundo 
+          <lb ed="#B1" n="6"/>explicat DEI punientis pietatem, ibi: Sed in his tanquam. Et tertio recapitulat  
+          <lb ed="#B1" n="7"/>DEI miserentis aequitatem, ibi: Cum ergo sis iustus.
+        </p>
+        <p xml:id="rhwis-l147-d1e117">
+          <lb ed="#B1" n="8"/>Circa primum in explicando puniendorum peruersitatem quinque siunt in 
+          <lb ed="#B1" n="9"/>lectione hodierna: Nam primo ostenditur, qui erant puniendi: secundo quare 
+          <lb ed="#B1" n="10"/>erant puniendi: tertio quomodo erant puniendi: quarto per quos erant punien 
+          <lb ed="#B1" n="11"/>di: &amp; quinto ad quid erant puniendi. Primo ergo ostendit qui fuerunt quos 
+          <lb ed="#B1" n="12"/>DEVS puniuit in aduentu filiorum Israel in terram Sanctam. Et quantum ad hoc 
+          <lb ed="#B1" n="13"/>dicit: Illos enim antiquos habitatores sanctae tuae terrae.
+        </p>
+        <p xml:id="rhwis-l147-d1e133">
+          <lb ed="#B1" n="14"/>Vbi notandum quod septem gentes, quae a terra sancta eiectae fuerunt suis 
+          <lb ed="#B1" n="15"/>nominibus computantur Deuteron. 7. uidelicet Ethaei, Amorrhaei, Chananaei 
+          <lb ed="#B1" n="16"/>&amp; Pherezaei, Euaei, &amp; lebuzxaei, &amp; Gergexaei. Et significant septem peccata mor 
+          <lb ed="#B1" n="17"/>talia, quae nos oportet expugnare, si terram Promissionis uelimus intrare. Quare 
+          <lb ed="#B1" n="18"/>autem eiectae fuerunt dicitur in litera statim: quos (inquit) ex horruisti: id est, ab 
+          <lb ed="#B1" n="19"/>ominabiles habuisti: quoniam odibilia sunt tibi opera quae faciebant. Et quomo 
+          <lb ed="#B1" n="20"/>do: Certe peccauerunt in DEVM, peccauerunt in proximum. In DEVM pec 
+          <lb ed="#B1" n="21"/>cauerunt, contra summam ueritatem, contra summam maiestatem, contra sum 
+          <lb ed="#B1" n="22"/>mam bonitatem: Peccauerunt contra summam ueritatem indulgendo sortile 
+          <lb ed="#B1" n="23"/>giis, quibus inuestigabant de occultis, &amp; quibus se dicebant mederi infirmos. 
+          <lb ed="#B1" n="24"/>Vnde eorum fortilegia uocat hic medicamina: quia infirmitates per sortilegia 
+          <lb ed="#B1" n="25"/>medebantur, sicut nonnullae uetulae adhuc facere dicuntur. Contra summam 
+          <lb ed="#B1" n="26"/>maiestatem deliquerunt: quia sacrificia quae solo DEO debebantur, idolis fa 
+          <lb ed="#B1" n="27"/>ciebant, &amp; ideo iniuste. Et hoc intelligit, quando dicit, quod faciebant iniusta 
+          <lb ed="#B1" n="28"/>sacrificia: ergo grauiter peccauerunt in DEVM. Et non solum hoc, imo pecca 
+          <lb ed="#B1" n="29"/>uerunt in proximum, &amp; maxime in illos, quibus caeteris paribus magis grati de 
+          <lb ed="#B1" n="30"/>bebant fuisse, uidelicet in filijs suis. Vnde litera subdit quod fuerunt filiorum suorum 
+          <lb ed="#B1" n="31"/>necatores. In Psal. Immolauerunt filios suos, &amp; filias suas daemonibus Ecce quam 
+          <lb ed="#B1" n="32"/>difficile fuit colere daemones qui iubebant sibi filios a patribus immolari: &amp; hoc 
+          <lb ed="#B1" n="33"/>fecerunt isti gentiles sine misericordia. Vnde non solum interfecerunt filios suos, 
+          <lb ed="#B1" n="34"/>ut immolarent daemonibus: imo cum gaudio &amp; hilaritate hoc fecerunt. Et ideo 
+          <lb ed="#B1" n="35"/>sitera dicit, quod fuerunt filiorum suorum necatores sine misericordia, &amp; non solum 
+          <lb ed="#B1" n="36"/>occiderunt filios, imo viscera: id est, carnes humanas comederunt, quarum partes 
+          <lb ed="#B1" n="37"/>DEO sacrificauerunt comburendo: partem comederunt masticando, sicut lu 
+          <lb ed="#B1" n="38"/>daei de suis sacrificijs faciebant: &amp; hoc est, quod subdit: Et viscerum comestores, 
+          <lb ed="#B1" n="39"/>&amp; nominantum uiscera ad ostendendum crudelitatem eorum: quia potest esse quae in 
+          <lb ed="#B1" n="40"/>teriora humana, sicut pulmonem, &amp; epar, &amp; renes comederunt. Quid. Meta. 15. 
+          <lb ed="#B1" n="41"/>deu quantum scelus est in viscera viscera condi, 
+          <lb ed="#B1" n="42"/>Congestoque, auidum pinguescere corpore corpus. 
+          <lb ed="#B1" n="43"/>O quam crudele est in uiscera uiscera condi, &amp; etiam in sanguine. Vnde subdi:  
+          <lb ed="#B1" n="44"/>Deuoratores sanguinis: &amp; hoc super omnia sectam eorum reddit detestabilem: 
+          <lb ed="#B1" n="45"/>quod erant autores parentum animarum inauxiliatarum, litera est obscura, sed  
+          <!--sap_Page_528.xml-->
+          <pb ed="#B1" n="494"/>
+          <lb ed="#B1" n="1"/>uult dicere. Quod illi qui fuerunt parentes animarum inauxiliatarum: id est, ho 
+          <lb ed="#B1" n="2"/>minum occisorum sine auxilio, &amp; defuerunt autores iubendo &amp; ordinando 
+          <lb ed="#B1" n="3"/>de morte eorum: ita quod ipsimet parentes uitae fuerunt autores mortis: &amp; hoc 
+          <lb ed="#B1" n="4"/>est quod dicit, quod fuerunt iubendo &amp; ordinando ipsam mortem filiorum ad 
+          <lb ed="#B1" n="5"/>sacrificium deorum suorum. Ipsimet inquam parentes carnaliter animarum in 
+          <lb ed="#B1" n="6"/>auxiliatarum: id est, hominum derelictorum sine auxilio: Peccauerunt ergo tam in 
+          <lb ed="#B1" n="7"/>DEVM quam in proximum: &amp; sic patet qualiter deleri debebant. Sed quomo 
+          <lb ed="#B1" n="8"/>do. Certe per occisionem &amp; expulsionem a terra illa Sancta in qua Filius DEI e 
+          <lb ed="#B1" n="9"/>rat nasciturus, uicturus, &amp; moriturus: propter quod illam sacram nominat. Vn 
+          <lb ed="#B1" n="10"/>de subdit sic litera a medio sacramento tuo sic voluisti perdere. Terra enim sancta 
+          <lb ed="#B1" n="11"/>sacramentum dicitur. Est enim sacramentum generaliter loquendo sacrae rei si 
+          <lb ed="#B1" n="12"/>gnum: Quia ergo illa terra figurabat Ecclesiam militantem, &amp; etiam triumphan 
+          <lb ed="#B1" n="13"/>tem: Et quia CHRISTVS in ea sacramenta novi Testamenti fuerat constitutus, 
+          <lb ed="#B1" n="14"/>merito sacramentum uocatur: medium uero sacramentum: quia in medio mun 
+          <lb ed="#B1" n="15"/>di posita est. Sed per quos fuerunt delendi: Certe dicit Salomon per manus pa 
+          <lb ed="#B1" n="16"/>rentum nostrorum, qui sub losuae intrauerant terram Promissionis, Iosuae 5. Iustum 
+          <lb ed="#B1" n="17"/>enim fuit quoe cultores ueri DEI, cultores daemonum superarent. Et ideo subdit  
+          <lb ed="#B1" n="18"/>quinto causam, ad quid expulsi fuerunt, ut uidelicet dignam perciperent peregri 
+          <lb ed="#B1" n="19"/>nationem puerorum DEI: id est, Abraham, Isaac, &amp; Iacob, qui in terra illa fuerunt  
+          <lb ed="#B1" n="20"/>peregrinati, &amp; quibus terta Sancta fuerat repromissa: quae tibi DEO, omnium est 
+          <lb ed="#B1" n="21"/>charior terra. Primo quia ibi habitauerunt sancti Patriarchae taquam peregri 
+          <lb ed="#B1" n="22"/>ni: secundo quia ibi CHRISTVS conceptus est, natus, conuersatus, docuit,  
+          <lb ed="#B1" n="23"/>mortuus, &amp; resurrexit, ascendit in coelum, &amp; ibi iudicaturus est uiuos &amp; mor 
+          <lb ed="#B1" n="24"/>tuos. In Psal. Benedixisti Domine terram tuam. Illud adhuc per discrimina mul  
+          <lb ed="#B1" n="25"/>ta a deuotis transitur, ubi mori non timetur, ibi per martyrium ad terram uiuen 
+          <lb ed="#B1" n="26"/>tium ascenditur: Chara est ergo DEO terra illa ratione creationis: Charior ra 
+          <lb ed="#B1" n="27"/>tione recreationis: Charissima ratione figurationis, ut dignam acciperent uel 
+          <lb ed="#B1" n="28"/>perciperent peregrinationem puerorum DEI.
+        </p>
+        <p xml:id="rhwis-l147-d1e270">
+          <lb ed="#B1" n="29"/>Cum uita Christiana peregrinatio quaedam situersus patriam nobis promissam, 
+          <lb ed="#B1" n="30"/>necesse est quae Christianus conditiones peregrini habeat eundo &amp; redeundo 
+          <lb ed="#B1" n="31"/>Peregrins aut tria seruat, tria uitat, &amp; tria reportat. Seruat peregrinando ista tria 
+          <lb ed="#B1" n="32"/>Quotidie socios malos uitat, quotidie computat, quotidie terminum recogitat.  
+          <lb ed="#B1" n="33"/>Primo ergo hoc maxime habet in corde, quo non intrat puersam societatem: quia hoc 
+          <lb ed="#B1" n="34"/>est summe periculosum sibi. Aliqui enim sunt pditiosi, aliqui nimis sumptuosi, &amp; 
+          <lb ed="#B1" n="35"/>aliqui nimis accidiosi: &amp; isti oes impedirent eum. Isto modo moraliter Christian, ca 
+          <lb ed="#B1" n="36"/>uere sibi debet ne malorum societate turbet a bona uita, non habeat societatem cum 
+          <lb ed="#B1" n="37"/>daemone, quia est pditiosus: nec cum mundo, quia est nimis sumptuosus: nec cum carne, 
+          <lb ed="#B1" n="38"/>quia est noster hostis, &amp; nimis accidiosus. Secundo peregrinus quotidie compu 
+          <lb ed="#B1" n="39"/>tat &amp; eodem modo bonus Christianus quotidie uitam suam examinat. Vnde Se 
+          <lb ed="#B1" n="40"/>neca de Ira lib. 3. versus finem. Quotidie animus ad rationem reddendam uocandus 
+          <lb ed="#B1" n="41"/>est, faciebat hoc Sextimus noster, ut consummato die cum se ad quietem noctur 
+          <lb ed="#B1" n="42"/>nam reposuisset interrogaret animum suum, quod hodie malum tuum sanasti, cui uitio 
+          <lb ed="#B1" n="43"/>obstitisti, qua parte melior factus es: Tertio peregrinus quotidie de termino  
+          <lb ed="#B1" n="44"/>recogitat, &amp; nos semper de patria cogitare debemus, August. In hostili enim ter 
+          <lb ed="#B1" n="45"/>ra duicis est recogitatio patriae. In Psalm. Heu quia incolatus meus prolonga 
+          <lb ed="#B1" n="46"/>tus est: Sic recogitauit Paulus terminum suum, quando dixit: Dissolui enim 
+          <lb ed="#B1" n="47"/>cupio, &amp; esse cum CHRISTO multo melius est.
+        </p>
+        <p xml:id="rhwis-l147-d1e314">
+          <lb ed="#B1" n="48"/>Secundo peregrinus tria uitat quantum est sibi possibile: thesauri sui osten 
+          <lb ed="#B1" n="49"/>sionem, hospitis deceptionem, &amp; suijpsius nimiam onerationem. Isto modo deuotus 
+          <lb ed="#B1" n="50"/>Christianus uitat semper ostensionem suarum uirtutum per iactantiam, quin potius eas 
+          <lb ed="#B1" n="51"/>occultat per humilitatem. Greg. Depraedari desiderat qui thesaurum in uia publi  
+          <lb ed="#B1" n="52"/>ce portat. Secundo uitat hospitis deceptionem, hospes noster &amp; hostis mundus 
+          <lb ed="#B1" n="53"/>est, qui sicut hospes gratissimum uultum facit, lectisternia honestissima demostrat,  
+          <!--sap_Page_529.xml-->
+          <pb ed="#B1" n="495"/>
+          <lb ed="#B1" n="1"/>&amp; bona propinat: sed in fine parcissime &amp; strictissime computat, nec hominem 
+          <lb ed="#B1" n="2"/>secum quicquam asportare permittit. Tertio peregrinus uitat suiipsius nimiam o 
+          <lb ed="#B1" n="3"/>nerationem: quanto minus potest secum portat de uestibus &amp; alijs quibuscunque.  
+          <lb ed="#B1" n="4"/>Eodem modo Christiani deuoti dicunt cum Apostolo: Habentes alimenta &amp; quibus  
+          <lb ed="#B1" n="5"/>tegamur, his contenti sumus, imo pecuniam suam ipsi non portant interdum, sed  
+          <lb ed="#B1" n="6"/>mercatoribus eam in patria sua tradunt, ut ab alijs eiusdem societatis mercatoribus  
+          <lb ed="#B1" n="7"/>tantum recipiant in patria ad quam uadunt. Sic etiam prudentes Christiani diuitias 
+          <lb ed="#B1" n="8"/>suas eleemosynas erogando pauperibus tribuunt in praesenti. Hi enim sunt mer 
+          <lb ed="#B1" n="9"/>catores coelorum &amp; securitatem ab eis habent: literas CHRISTI Euangelium 
+          <lb ed="#B1" n="10"/>uidelicet, quod tantundem imo centuplum in coelo recipient.
+        </p>
+        <p xml:id="rhwis-l147-d1e357">
+          <lb ed="#B1" n="11"/>Tertio peregrinus tria reportat quando in patriam suam redit, de peccatis in 
+          <lb ed="#B1" n="12"/>dulgentiam, ab amicis reuerentiam, &amp; deinceps quiescendi licentiam. Sic etiam Chri 
+          <lb ed="#B1" n="13"/>stianus deuotus rediens uersus patriam coelestem, in morte gaudet: quia secum por 
+          <lb ed="#B1" n="14"/>tat indulgentiam peccatorum, &amp; recipit ab amicis reuerentiam. Solent enim amici ho 
+          <lb ed="#B1" n="15"/>minis uenientis de peregrinatione sibi processionabiliter occurrere, &amp; in do 
+          <lb ed="#B1" n="16"/>mum suam deuote deducere. Eodem modo in morte sanctorum redeuntium de pere 
+          <lb ed="#B1" n="17"/>grinatione mundi, occurrunt sancti angeli, sicut pie petit Ecclesia. Subuenite 
+          <lb ed="#B1" n="18"/>ancti DEI, occurrite angeli Domini, suscipientes animam eius, offerte in conspe 
+          <lb ed="#B1" n="19"/>ctu altissimi, &amp; tunc est in domo sua: Et tunc consequetur post labores perpetuam 
+          <lb ed="#B1" n="20"/>quiescendi licentiam, Apoc. 14. A modo iam dicit spiritus, ut requiescant a labo  
+          <lb ed="#B1" n="21"/>ribus suis: &amp; hi condignam peregrinationem faciunt puerorum DEI.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
