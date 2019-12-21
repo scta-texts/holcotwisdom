@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 176 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 176 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="579"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l176">
+        <p xml:id="rhwis-l176-d1e95">
+          <lb ed="#B1" n="20"/>OSTQVAM Spiritus sanctus reprobauit idolatras per 
+          <lb ed="#B1" n="21"/>multas uias, &amp; declarauit diffuse unum solum uerum DEVM 
+          <lb ed="#B1" n="22"/>esse colendum. Cultus autem unius DEI fuit antiquitus 
+          <lb ed="#B1" n="23"/>potissime apud Hebraeos, cultus uero idolorum apud Ae 
+          <lb ed="#B1" n="24"/>gyptios: Modo consequenter in ista parte, ut cultum unius 
+          <lb ed="#B1" n="25"/>DEI complete suadeat, &amp; cultum idolorum perfecte dis  
+          <lb ed="#B1" n="26"/>suadeat, agit comixtim usque ad finem libri, nunc de sup  
+          <lb ed="#B1" n="27"/>plicijs inflictis Aegyptijs, nunc de beneficijs collatis ludaeis. Ostendens quod  
+          <!--sap_Page_614.xml-->
+          <pb ed="#B1" n="580"/>
+          <lb ed="#B1" n="1"/>illi erant iuste puniti, propter eorum iniquitatem: &amp; isti mirabiliter uisitati a DEO 
+          <lb ed="#B1" n="2"/>propter eorum pietatem: quia unum uerum DEVM fideliter coluerunt. Et hu 
+          <lb ed="#B1" n="3"/>iusmodi processum tenuit supra, cap. 5. Diuiditur ergo processus suus usque ad 
+          <lb ed="#B1" n="4"/>finem libri in duas partes. Nam primo narrat iustorum &amp; iniustorum commu 
+          <lb ed="#B1" n="5"/>nem retributionem: Secundo rependit autor libri DEO pro collatis beneficijs  
+          <lb ed="#B1" n="6"/>populo DEI, gratiarum actione, in fine libri, ibi: In omnibus enim magnificasti.
+        </p>
+        <p xml:id="rhwis-l176-d1e132">
+          <lb ed="#B1" n="7"/>Circa primum duo facit: Nam primo narrat malorum multiplicem tribu 
+          <lb ed="#B1" n="8"/>lationem: Secundo eorum finalem exterminationem, ibi: Impiis autem. Circa 
+          <lb ed="#B1" n="9"/>primum tria facit: Primo ostendit quomodo Aegyptij affligebantur per be 
+          <lb ed="#B1" n="10"/>stias &amp; animalia: Secundo ostendit quomodo affligebantur per res insensatas 
+          <lb ed="#B1" n="11"/>&amp; elementa: Tertio quomodo affligebantur per corpora supercoelestia. Secun 
+          <lb ed="#B1" n="12"/>pats intra capitulo isto: Negantes enim nosse. Tertia cap. 17. Magna enim sunt  
+          <lb ed="#B1" n="13"/>iudicia tua. In qualibet enim istarum partium facit collationem, &amp; corre spon 
+          <lb ed="#B1" n="14"/>dentiam inter beneficia &amp; supplicia. Nam sicut Aegyptij premebantur per be 
+          <lb ed="#B1" n="15"/>stias, elementa, &amp; corpora supercoelestia: ita Hebraei contra haec tres mirabi  
+          <lb ed="#B1" n="16"/>les consolationes habuerunt, siue receperunt: habuerunt coturnices eis datas 
+          <lb ed="#B1" n="17"/>in escam, ut sicut muscae &amp; ciniphes afflixerunt Aegyptios: ita uolucres nobiles  
+          <lb ed="#B1" n="18"/>consolarentur Hebraeos. Secundo habuerunt Manna de aëre descendens, ut  
+          <lb ed="#B1" n="19"/>sicut ignis &amp; grando afflixerunt per elementum aëris Aegyptios: ita Manna 
+          <lb ed="#B1" n="20"/>per idem elementum descendens, confortaret Hebraeos. Tertio habuerunt  
+          <lb ed="#B1" n="21"/>lucem a corporibus supercoelestibus, semper cum eis permanentem, ut cor 
+          <lb ed="#B1" n="22"/>pora coelestia (quando Aegyptijs lucem suam subtraherent) eam tamen nihil 
+          <lb ed="#B1" n="23"/>ominus Hebraeis exhiberent. De istis ergo beneficijs &amp; supplicijs agitur alter 
+          <lb ed="#B1" n="24"/>natim per uirsenr per duo capitula. Circa tamen primam qailaciu, quae est de 
+          <lb ed="#B1" n="25"/>Aegyptiorum exterminatione, &amp; de Hebraeorum consolatione, &amp; utraque,  
+          <lb ed="#B1" n="26"/>per bestias &amp; uolatilia, tria facit. Nam primo narrat Aegyptiorum extermi 
+          <lb ed="#B1" n="27"/>nationem: Secundo Hebraeorum mirabilem consolationem: Tertio assignat  
+          <lb ed="#B1" n="28"/>inter Aegyptios &amp; Hebraeos cuiusdam diuersitatis distinctionem. Secunda 
+          <lb ed="#B1" n="29"/>pars ibi: Pro quibus tormentis. Tertia ibitoportebat. Quantum ad primum dicit:  
+          <lb ed="#B1" n="30"/>propter haec: id est, idolatriam multiplicem, &amp; bis similia: quia aliquos modos  
+          <lb ed="#B1" n="31"/>idolatriae specificauit, &amp; aliquos praetermisit: Passi sunt digne vormenta, &amp; per 
+          <lb ed="#B1" n="32"/>multitudinem bestiarum exterminati sunt: quia per multitudinem bestiarum 
+          <lb ed="#B1" n="33"/>quidam afflicti, &amp; quidam exterminati sunt. Circa secundum per contrarium 
+          <lb ed="#B1" n="34"/>tecit DEVS circa populum suum, licet peccassent in deserto: sicut narratur  
+          <lb ed="#B1" n="35"/>Exod. 16. Filij Israel in deserto murmurauerunt contra Dominum, dicentes: 
+          <lb ed="#B1" n="36"/>Vtinam essemus mortui in Aegypto, quando sedebamus super ollas carnium, 
+          <lb ed="#B1" n="37"/>&amp; comedebamus ad saturitatem: statim uero, cum Moyses orasset ad Domi 
+          <lb ed="#B1" n="38"/>num redijt, &amp; respondit eis: Audiuit Dominus murmurationes uestras con 
+          <lb ed="#B1" n="39"/>tra eum, &amp; dabit uobis uespere carnes. Facto uero uespere ascenderunt cotur 
+          <lb ed="#B1" n="40"/>nices de quodam sinu Arabico, ubi potissime nutriuntur, &amp; transito mari in 
+          <lb ed="#B1" n="41"/>termedio ceciderunt inter castra: id est, inter tentoria Hebraeorum, &amp; capie 
+          <lb ed="#B1" n="42"/>bantur ad nutum populi. Et hanc Historiam narrans in litera, dicit sic: pro qui  
+          <lb ed="#B1" n="43"/>bus tormentis Aegyptiorum prius recitatis: id est, loco tormentorum Aegi 
+          <lb ed="#B1" n="44"/>ptis illatorum bene disposiuisti populum tuum: id est, dedistibeneficia populo  
+          <lb ed="#B1" n="45"/>tuo, quibus: id est, illis qui fuit populus tuus, Dedisti concupiscentiam delecta 
+          <lb ed="#B1" n="46"/>mentisui: id est, delectationem concupitam, iuxta illud Psalm. Concupierunt  
+          <lb ed="#B1" n="47"/>concupiscentiam in deserto, nouum saporem: id est, escam novi saporis, parans 
+          <lb ed="#B1" n="48"/>eis ortygometram. Est autem ortygometra auis regia secundum Magistrum in 
+          <lb ed="#B1" n="49"/>Historijs, quam losephus ortygiam uocat. Graecus uero ortygometram, nos 
+          <lb ed="#B1" n="50"/>uulgo dicimus currilegum a currendo, &amp; dicitur ortygometra quasi recta men 
+          <lb ed="#B1" n="51"/>sura. Isidorus tamen uidetur differentiam ponere inter coturnicem, &amp; ortygo 
+          <lb ed="#B1" n="52"/>metram, 2 Etymolog. cap. 7. Coturnices a sono uocis dicuntur, quas Grae 
+          <lb ed="#B1" n="53"/>ci fortygias uocant, eo quod uisae fuerunt primo in Ortygia insula in mari 
+          <!--sap_Page_615.xml-->
+          <pb ed="#B1" n="581"/>
+          <lb ed="#B1" n="1"/>Aegaeo omnium Cycladum clarissima. Hae adueniendi tempora habent. Nam 
+          <lb ed="#B1" n="2"/>aestate depulsa maria transmeant, Ortygometra dicitur quae gregem ducit. Cum 
+          <lb ed="#B1" n="3"/>autem terrae appropinquat, accipiter uidens eam rapit: &amp; propterea cura est uni 
+          <lb ed="#B1" n="4"/>uersis ducem solicitare externi generis, per quam caueant extrema pericula: 
+          <lb ed="#B1" n="5"/>Cibos gratissimos habent, semina uenenorum: quam ob causam eas ueteres ue 
+          <lb ed="#B1" n="6"/>sci interdixerunt, solum enim hoc animal sicut homo caducum patitur morbum 
+          <lb ed="#B1" n="7"/>Haec lsido. Vbi patet secundum eum, quo coturnix &amp; ortygometra non sunt idem: 
+          <lb ed="#B1" n="8"/>quia solum illa dicitur ortygometra, quae ducit exercitum, &amp; non alia: quamuis aut  
+          <lb ed="#B1" n="9"/>dicat Isi. accipiens a Solino, quio solum hoc animal morbum patitur caducum, non 
+          <lb ed="#B1" n="10"/>tamen creditur hoc esse uerum. Vulgus enim dicit, quod autor libri, qui incipit, tri 
+          <lb ed="#B1" n="11"/>plex est, esse scribit, quod illum quidem morbum patiuntur passeres. Scribit etiam  
+          <lb ed="#B1" n="12"/>Solinus de mirabilibus Mundi de coturnicibus, quio quando mare transire uolunt  
+          <lb ed="#B1" n="13"/>austro flante, nunquam exeunt. Nam uim flatus tumidioris metuunt, plurimumque  
+          <lb ed="#B1" n="14"/>se aquilonaribus credunt, ut corpora pinguia, &amp; ideo tarda facilius prouehat.  
+          <lb ed="#B1" n="15"/>Fortior ac uehementior spiritus, cum maria transeunt, impetus differunt, &amp; 
+          <lb ed="#B1" n="16"/>metu spacij longioris uires suas tarditate nutriunt: ubi uero terram conspiciunt,  
+          <lb ed="#B1" n="17"/>cateruatim coëunt. Deinde cogIobatae uehementius properant, quae festina 
+          <lb ed="#B1" n="18"/>tio plerunque exitium parat nauigantibus. Accidit enim noctibus ut uela inci 
+          <lb ed="#B1" n="19"/>dant, &amp; praeponderatis funibus in alueos mergant. Haec Solinus. Isto ergo 
+          <lb ed="#B1" n="20"/>auium genere pauit Dominus filios Israel in deserto, cum paterentur concu 
+          <lb ed="#B1" n="21"/>piscentiam carnium, quales comederant in Aegypto, ut uidelicet per illas car 
+          <lb ed="#B1" n="22"/>nes auerterentur a concupiscentia quam habebant, &amp; hoc est, quod dicitur in 
+          <lb ed="#B1" n="23"/>litera: vt illi quidem: id est, filij Israel concupiscentes escam carnium, scilicet de Ae 
+          <lb ed="#B1" n="24"/>gypto auerterentur, &amp; a necessaria concupiscentia: hoc est, uiolenta (necessarium 
+          <lb ed="#B1" n="25"/>enim uno modo dicitur uiolentum secundum Aristot. 5. Metam. cap. de ne 
+          <lb ed="#B1" n="26"/>cessario)fuit autem concupiscentia eorum uiolenta: quia oriebatur ex consue 
+          <lb ed="#B1" n="27"/>tudine uescendi carnibus in Aegypto. Consuetudo autem assimilatur naturae,  
+          <lb ed="#B1" n="28"/>7. Ethi. Consuetudo est altera natura. Vt ergo auerterentur a necessaria concu 
+          <lb ed="#B1" n="29"/>piscentia, propter ea, quae illis ostensa &amp; missa sunt: id est, propter animalia, quae 
+          <lb ed="#B1" n="30"/>illis missa fuerunt per diuinam prouidentiam: id est, coturnices: ideo eis diui  
+          <lb ed="#B1" n="31"/>nitus datae fuerunt, quod &amp; factum pro tunc saltem fuit, ut a concupiscentia 
+          <lb ed="#B1" n="32"/>auerterentur. unde subdit: Hi autem: id est, filij Israel in breui inopes facti: id est, 
+          <lb ed="#B1" n="33"/>indigentes cibo novam gustauerunt escam, de qua dictum est. Et est notandum 
+          <lb ed="#B1" n="34"/>quod consuetudo maximam habet uiolentiam inclinandi uoluntatem ad se: 
+          <lb ed="#B1" n="35"/>&amp; ideo sicut optimum est assuefieri ad bonas consuetudines &amp; uirtuosas: ita 
+          <lb ed="#B1" n="36"/>periculosum &amp; pessimum est assuefieri ad uitia. unde narrat Valerius libro 7. 
+          <lb ed="#B1" n="37"/>cap. 2. in fine: Quod Cretenses cum acerbissima execratione uti uolunt aduer 
+          <lb ed="#B1" n="38"/>sus eos, quos uehementer odiunt: optant, ut mala consuetudine delectentur  
+          <lb ed="#B1" n="39"/>modestoque uoluntatis genere efficacissimum genus ultionis euentum repe 
+          <lb ed="#B1" n="40"/>riunt. Haec ille. Vult dicere, quod ipsi uidentur moleste maledicere, quando di 
+          <lb ed="#B1" n="41"/>cunt homini mala consuetudine delecteris: &amp; tamen imprecantur ei maximum 
+          <lb ed="#B1" n="42"/>genus mali. De malicia uero peruersae consuetudinis loquitur. Augustinus 8. 
+          <lb ed="#B1" n="43"/>confess. cap. 5. de semetipso dicens, quod difficilis fuit ad conuertendum ad fi 
+          <lb ed="#B1" n="44"/>dem, unde dicit sic: Ligatus eram non ferro alieno, sed mea ferrea uoluntate, 
+          <lb ed="#B1" n="45"/>uelle meum tenebat inimicus, &amp; inde mihi catenam fecerat &amp; constrinxerat  
+          <lb ed="#B1" n="46"/>me: quippe ex uoluntate peruersa facta est libido, &amp; dum seruiui libidini, fa 
+          <lb ed="#B1" n="47"/>cta est consuetudo: &amp; dum consuetudini non restiti, facta est necessitas. Haec 
+          <lb ed="#B1" n="48"/>Augustinus. Vnde etiam metrice dicitur:  
+          <lb ed="#B1" n="49"/>Qui non assuescit virtuti dum iuuenescit. 
+          <lb ed="#B1" n="50"/>A vitijs nescit discedere, quando senescit. 
+          <lb ed="#B1" n="51"/>In cuius figuram Saluator faciliter suscitauit puellam in domo, &amp; iuuenem de 
+          <lb ed="#B1" n="52"/>latum in porta. Sed Laxarum quadriduanum in momento cum gemitu, la 
+          <lb ed="#B1" n="53"/>chrymis &amp; clamore, Ioh. 11. Quam Historiam exponens August. super Mat  
+          <!--sap_Page_616.xml-->
+          <pb ed="#B1" n="582"/>
+          <lb ed="#B1" n="1"/>thaeum Homel. 15. dicit sic: Moles imposita sepulchris, ipsa est dura uis con 
+          <lb ed="#B1" n="2"/>suetudinis, qua premitur anima, nec resurgere nec spirare permittitur: dictum 
+          <lb ed="#B1" n="3"/>est autem quadriduanus. Reuera ad istam consuetudinem de qua loquor, de 
+          <lb ed="#B1" n="4"/>quodam progressu peruenit anima: prima est quasi scintillatio delectationis  
+          <lb ed="#B1" n="5"/>in corde: secunda consensus in uoluntate: tertia factum: quarta consuetudo. 
+          <lb ed="#B1" n="6"/>Haec Augustinus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

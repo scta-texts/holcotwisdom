@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 179 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 179 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="588"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l179">
+        <p xml:id="rhwis-l179-d1e95">
+          <!--sap_Page_622.xml-->
+          <pb ed="#B1" n="588"/>
+          <lb ed="#B1" n="1"/>EXPLICATA tribulatione Aegyptijs illata, per minutas be 
+          <lb ed="#B1" n="2"/>stias, quibus sine remedio exterminabantur: Redit ad correptio 
+          <lb ed="#B1" n="3"/>nem filiorum Israel in deserto, a qua cum mirabili adiutorio libe  
+          <lb ed="#B1" n="4"/>rabantur. Et circa hoc tria facit. Nam primo ostendit huius reme 
+          <lb ed="#B1" n="5"/>dij causam supernaturalem: Secundo ponit huius remedij causam  
+          <lb ed="#B1" n="6"/>finalem: Et tertio excludit, ad huius remedij efficientia, omnem causam medi 
+          <lb ed="#B1" n="7"/>cinalem. secunda pars ibi: Ns in ultam. tertia ibi: Etenim neque herba.
+        </p>
+        <p xml:id="rhwis-l179-d1e117">
+          <lb ed="#B1" n="8"/>Quantum ad primum dicit sic: Filios autem tuos, &amp;c. quia fuerunt filij, ideo 
+          <lb ed="#B1" n="9"/>debuerunt castigari, Eccles. 7. Filij tibi sunt, erudi illos, &amp; curua illos a pueritia 
+          <lb ed="#B1" n="10"/>eorum. In cuius figuram dicit Psal. Beatus qui tenebit &amp; allidet paruulos suos 
+          <lb ed="#B1" n="11"/>ad petram: id est, beatus qui castigabit filios suos, uel carnales per naturam, uel 
+          <lb ed="#B1" n="12"/>spirituales per curam, &amp; allidens eos petrae: id est, CHRISTO, assuefaciens eo:  
+          <lb ed="#B1" n="13"/>ad opera uirtuosa, &amp; alibi dicit: In matutino interficiebam omnes peccatores  
+          <lb ed="#B1" n="14"/>terrae: hoc est, statim in iuuentute uitia peccatorum per castigationes condi 
+          <lb ed="#B1" n="15"/>gnas amputari: &amp; hoc est capere uulpes paruulas, quae demoliuntur uineas. 
+          <lb ed="#B1" n="16"/>Can. 2. Vnde Hieron. super epistolam Ephes. 2. &amp; habetur in Cano. di. 37. le 
+          <lb ed="#B1" n="17"/>gant. Heli sacerdos pater sanctus fuit, sed quia filios non erudiuit in omni dis  
+          <lb ed="#B1" n="18"/>ciplina, &amp; correctione, supinus cecidit, &amp; mortuus est. Filios autem tuos nec 
+          <lb ed="#B1" n="19"/>draconum nec venatorum vicerunt dentes: quia nec a magnis bestijs in quanti  
+          <lb ed="#B1" n="20"/>tate, cuiusmodi sunt dracones: nec a maliciosis in qualitate, cuiusmodi sunt ser 
+          <lb ed="#B1" n="21"/>pentes minores, Domino protegente laedebantur: Draco enim secundum Isid.  
+          <lb ed="#B1" n="22"/>ueneno caret, 12. Ethi. cap. 8. ita scribit: Draco maior cunctorum serpentum 
+          <lb ed="#B1" n="23"/>siue omnium animantium super terram. Hunc Graecit draconta uocant: Vn 
+          <lb ed="#B1" n="24"/>de &amp; deriuatum est in Latinum, ut draco diceretur, qui saepe a speluncis ex  
+          <lb ed="#B1" n="25"/>tractus fertur in aërem, concitaturque propter eum aër. Est autem cristatus, ore 
+          <lb ed="#B1" n="26"/>paruo, &amp; arctis fistulis, per quas trahit spiritum, &amp; linguam exurit. Vim au 
+          <lb ed="#B1" n="27"/>tem non in dentibus, sed in cauda habet. Verbere potius quam ictu nocet: in 
+          <lb ed="#B1" n="28"/>noxius est enim a uenenis, &amp; ideo huic ad mortem faciendam uenena non 
+          <lb ed="#B1" n="29"/>erunt necessaria: quia si quem ligauerit, occidit. Vnde nec elephas tutus est 
+          <lb ed="#B1" n="30"/>sui corporis magnitudine. Nam circa semitas delitescens, per quas elephan 
+          <lb ed="#B1" n="31"/>tes solito gradiuntur, crura eorum nodis illigat, ac suffocatos perimit. Haec 
+          <lb ed="#B1" n="32"/>lsid. Fertur autem secundum Papiam quod herba quae dracontea dicitur, na 
+          <lb ed="#B1" n="33"/>ta sit de sanguine draconis, &amp; ideo sic uocata, &amp; est draconij coloris: flos uero 
+          <lb ed="#B1" n="34"/>eius sicut lingua draconis. Si quis radicem huius herbae sanis confricet manibus, ser 
+          <lb ed="#B1" n="35"/>pentes sine piculo prendet: est aut tyriacae uirtutis si legat mense lulij. Haec Papias. 
+          <!--sap_Page_623.xml-->
+          <pb ed="#B1" n="589"/>
+          <lb ed="#B1" n="1"/>Mirabile est autem, si ueneno careat draco, cum secundum autores auram spi 
+          <lb ed="#B1" n="2"/>rando inficiat, &amp; inflatu mortifero pestes ingerat: sicut patet ex narratione 
+          <lb ed="#B1" n="3"/>Aristot. lib. suo de proprietatibus elementorum, de eo quod contigit tempore 
+          <lb ed="#B1" n="4"/>Philippi in Armenia, &amp; Solinus de Mirabilibus mundi dicit expresse, quod  
+          <lb ed="#B1" n="5"/>non in dentibus, sed in cauda uenenum habeat: nec obstat quod eius carnes 
+          <lb ed="#B1" n="6"/>comedunt Aethiopes, sicut dicit Psal. Dedisti eam populo Aethiopum escam: 
+          <lb ed="#B1" n="7"/>quod potest esse, uel quia uenenum excutiunt aliqua arte, sicut medici faciunt  
+          <lb ed="#B1" n="8"/>de serpentibus: uel caudam abscidunt, in qua latet uenenum. Draconis autem 
+          <lb ed="#B1" n="9"/>caro uitrei coloris est, &amp; infrigidat uescentes eam: hinc est quod Aethiopes in 
+          <lb ed="#B1" n="10"/>feruida plaga habitantes, carne draconis libenter uescuntur. Mercatores etiam  
+          <lb ed="#B1" n="11"/>squod est mirabile dictu) quibusdam carminibus dracones faciunt mansuetos 
+          <lb ed="#B1" n="12"/>ad tempus, quibus insidentes freno eos regunt, usque tunc in Aethiopiam ueni 
+          <lb ed="#B1" n="13"/>unt, ubi eos uendunt, ut dicitur in lib. de Naturis rerum. Dicit ergo litera: Fi  
+          <lb ed="#B1" n="14"/>lios autem tuos nec draconum, nec uenatorum uicerunt dentes: misericordia au 
+          <lb ed="#B1" n="15"/>tem tua adueniens saluauit eos per aspectum serpentis, sicut in lectione praeceden 
+          <lb ed="#B1" n="16"/>te dictum est. Subdit autem causam quare sic affligebantur, &amp; alt: In memoriam 
+          <lb ed="#B1" n="17"/>enim sermonum tuorum exterminabantur, &amp; velociter sanabantur, ne in altam  
+          <lb ed="#B1" n="18"/>incidentes obliuionem, non possent vti tuo adiutorio. Et dicuntur tria: videlicet,  
+          <lb ed="#B1" n="19"/>causa afflictionis illatae, modus medicinae collatae: &amp; finis salutis eis datae. Pu 
+          <lb ed="#B1" n="20"/>niebantur enim in memoriam sermonum tuorum: hoc est, ad memoriam &amp; 
+          <lb ed="#B1" n="21"/>comminationem DEI exterminabantur. Aliqui legunt in memoria dictiona 
+          <lb ed="#B1" n="22"/>liter: quia obliuio diuinorum sermonum multos duxit in exterminium. Ali  
+          <lb ed="#B1" n="23"/>qui legunt exanimabantur, aliqui exterminabantur: &amp; potest exponi extermi 
+          <lb ed="#B1" n="24"/>nabantur: id est, grauiter uexabantur. Modus medicinae collatae subiungitur,  
+          <lb ed="#B1" n="25"/>cum dicitur: Et velociter sanabantur. Finis uero salutis eis datae, fuit remotio 
+          <lb ed="#B1" n="26"/>desperationis, unde subdit: Ne in altam incidentes obliuionem: in altam: id est, in 
+          <lb ed="#B1" n="27"/>pto fundam, ut non possent tuo vti adiutorio, desperatione praeueniente cogita 
+          <lb ed="#B1" n="28"/>tionem. Vltimo excludit ab illo remedio causam naturalem, &amp; dicit sic: Etenim 
+          <lb ed="#B1" n="29"/>nec herba, nec malagma sanauit eos: sed tuus Domine sermo, qui sanat omnia. Mala 
+          <lb ed="#B1" n="30"/>gma, idem est, quod * emplastrum: &amp; dicitur a malaxo, as, quod est, manu laxare 
+          <lb ed="#B1" n="31"/>&amp; comprimere herbas coctas, cum oleo uel butyro in aliquo genere gummi: 
+          <lb ed="#B1" n="32"/>uel aliquas species commiscere pro emplastro, &amp; nihil tale sanauit eos: sed ser 
+          <lb ed="#B1" n="33"/>mo DEI, quo praecepit serpentem aeneum fieri, &amp; poni pro signo. Numeri 21
+        </p>
+        <p xml:id="rhwis-l179-d1e256">
+          <lb ed="#B1" n="34"/>Circa illam clausulam: Tuus sermo Domine sanat omnia. Notandum est, quod  
+          <lb ed="#B1" n="35"/>sermo DEI deuote conceptus, sanat omnes infirmitates mortales, uel morales  
+          <lb ed="#B1" n="36"/>uirtute diuina, de quo Psalm. Qui propiciatur omnibus tuis, qui sanat omnes 
+          <lb ed="#B1" n="37"/>infirmitates tuas: &amp; sicut medicina non subito sanitatis effectum inducit, sed per 
+          <lb ed="#B1" n="38"/>processum temporis, &amp; cum mora: ita uerbum auditum aliquotiens audito  
+          <lb ed="#B1" n="39"/>rem subito non conuertit, sed cum forte in anima eius quieuit per 20. annos, tunc 
+          <lb ed="#B1" n="40"/>primo incipit operari. Habet autem anima multas infirmitates, quae ad septem 
+          <lb ed="#B1" n="41"/>capitales radicaliter reducuntur, &amp; per septem corporeas infirmitates, figuran 
+          <lb ed="#B1" n="42"/>tur. Nam superbia phrenesi comparatur: patitur enim phreneticus mentis  
+          <lb ed="#B1" n="43"/>alienationem, qua nec bene iudicat de seipso, nec de alijs: imo seipsum iudicat  
+          <lb ed="#B1" n="44"/>quanto infirmiorem, tanto ualentiorem. Eodem modo superbus omnes con 
+          <lb ed="#B1" n="45"/>temnit &amp; damnat, &amp; se solum sufficientem reputat, &amp; sibi plus quam habet sem 
+          <lb ed="#B1" n="46"/>per arrogat. Istam mentis alienationem patiebatur merito pro sua superbia rex  
+          <lb ed="#B1" n="47"/>Nabuchodonosor, de quo Danielis 4: qui dixit deambulans in aula sua: Non 
+          <lb ed="#B1" n="48"/>ne haec est Babylon magna, quam ego aedificaui in domum regis, in robore 
+          <lb ed="#B1" n="49"/>fortitudinis meae, &amp; gloria decoris mei: Et statim uirtute DEI eiectus est ab  
+          <lb ed="#B1" n="50"/>hominibus, &amp; cum feris uixit, &amp; passus est mentis alienationem, &amp; uidebatur  
+          <lb ed="#B1" n="51"/>sibi, quod esset bos in anterioribus, &amp; in posterioribus leo: &amp; post septem men 
+          <lb ed="#B1" n="52"/>ses restitutus est ad preces Danielis ad sensum, licet non statim ad regnum: &amp; 
+          <lb ed="#B1" n="53"/>tunc legitur sic dixisse: Omnes uiae DEI iudicia, &amp; gradientes in superbia po 
+          <!--sap_Page_624.xml-->
+          <pb ed="#B1" n="590"/>
+          <lb ed="#B1" n="1"/>test humiliare. Daniel. 4. Cura uero phrenesis in principio, est euacuatio san 
+          <lb ed="#B1" n="2"/>guinis, &amp; aliorum superfluorum, quae ad cerebrum ascendentes perturbant  
+          <lb ed="#B1" n="3"/>usum rationis. Et eodem modo uerbum uel sermo DEI ostendens nos ua 
+          <lb ed="#B1" n="4"/>cuos esse ab omni bono, quantum ad nos attinet, &amp; a DEO habere quidquid  
+          <lb ed="#B1" n="5"/>boni fecerimus: &amp; quamdiu in phrenesi superbiae detinemur, a nobis sanita 
+          <lb ed="#B1" n="6"/>tem mentis recuperare non ualemus: iuxta illud Eccles. 3. Sinagogae super 
+          <lb ed="#B1" n="7"/>borum non est sanitas: &amp; ideo certe oportet nos sanguinem superbiae emitte 
+          <lb ed="#B1" n="8"/>re, &amp; effundere superfluos humores rerum temporalium, &amp; cum uera humili 
+          <lb ed="#B1" n="9"/>tate &amp; firma fide currere ad DEVM: de quo dicitur Luc. 6. Omnis turba quae 
+          <lb ed="#B1" n="10"/>rebat eum tangere: quia uirtus de illo exibat, &amp; sanabat omnes. Secunda infir 
+          <lb ed="#B1" n="11"/>mitas spiritualis est ira: &amp; haec comparatur febri acutae: eo quod habens eam, 
+          <lb ed="#B1" n="12"/>patitur calorem continuum, &amp; sitim magnam, secundum Constantinum lib.  
+          <lb ed="#B1" n="13"/>7 uiati. ca. de Cersi. uel causon. Et isto modo est de homine iracundo, qui sta 
+          <lb ed="#B1" n="14"/>tim ad quodlibet uerbum calorem cholerae suae ostendit gestu, uerbis, &amp; uul  
+          <lb ed="#B1" n="15"/>tu: habent etiam sitim magnam semetipsum uindicandi, &amp; talis omni die in 
+          <lb ed="#B1" n="16"/>cendit omnes uicinos suos Pro nihilo. Hanc infirmitatem patiebatur Hero 
+          <lb ed="#B1" n="17"/>des, quando uidebat quod illusus a Magis esset. Iratus est ualde: &amp; mittens, oc 
+          <lb ed="#B1" n="18"/>cidit omnes pueros, qui erant in Bethleem, &amp; in omnibus finibus eius. Ecce 
+          <lb ed="#B1" n="19"/>praecessit calor nimius, &amp; secuta est sitis irrationabilis ultionis: Istam infirmi 
+          <lb ed="#B1" n="20"/>tatem curat sermo diuinus praedicando de diuina dulcedine, &amp; pietate DEI, 
+          <lb ed="#B1" n="21"/>In cuius figuram legimus Marc. 6. Quod discipuli ungebant multos oleo, &amp; 
+          <lb ed="#B1" n="22"/>sanabantur. Tertia infirmitas est inuidia: &amp; haec comparatur sebri seu febrici 
+          <lb ed="#B1" n="23"/>tanti. Febricitans namque modo calescit, modo frigescit: eodem modo inuidus 
+          <lb ed="#B1" n="24"/>modo gaudet de aduersitate bonorum, modo dolet de eorum prosperitate. 
+          <lb ed="#B1" n="25"/>Istam infirmitatem patiebatur Saul 1. Reg. 18. quando iuuenculas audiuit ca 
+          <lb ed="#B1" n="26"/>nere de Dauid, &amp; ait: Mihi dederunt mille, &amp; Dauid decem millia. Ista infirmi 
+          <lb ed="#B1" n="27"/>tas putrefacit interiora hominis, &amp; cura eius est sermo diuinus persuadens ami 
+          <lb ed="#B1" n="28"/>citiam, &amp; gratitudinem: quia sicut inuidia est putredo animae, ita amicitia est 
+          <lb ed="#B1" n="29"/>eius sanitas. Prover.14. Vita carnium sanitas cordis, putredo ossium inuidia. 
+          <lb ed="#B1" n="30"/>Quarta infirmitas spiritualis est accidia, quae comparatur paralysi, quae est mem 
+          <lb ed="#B1" n="31"/>brorum dissolutio, &amp; debilitatio, ita quod motum debitum perficere non pos  
+          <lb ed="#B1" n="32"/>sunt, patientes eam. Istam infirmitatem patiebatur figuratiue loquendo ille, qui  
+          <lb ed="#B1" n="33"/>38. annis iacuit ante piscinam salutiferam, &amp; nunquam descendit in eam, ut sa 
+          <lb ed="#B1" n="34"/>naretur. Ioan. 5. &amp; significatinueteratos dierum malorum, qui continue iacent 
+          <lb ed="#B1" n="35"/>iuxta sacramentum confessionis &amp; poenitentiae, &amp; nunquam curant intrare, do 
+          <lb ed="#B1" n="36"/>nec debeant mori. Ista infirmitas sanat per ualde calida: quia si ex una parte consi 
+          <lb ed="#B1" n="37"/>deratur calor poenae gehennalis, &amp; ex alia parte calor charitatis CHRISTI, ex  
+          <lb ed="#B1" n="38"/>citantis ad operationes uirtutis, statim de tanta accidia poterit habere curam, 
+          <lb ed="#B1" n="39"/>Hiere. 3. Convertimini filij reuertentes, &amp; sanabo infirmitates uestras. Quinta 
+          <lb ed="#B1" n="40"/>infirmitas spiritualis est auaritia, &amp; comparatur hydropisi secundum Bedam, 
+          <lb ed="#B1" n="41"/>cuius proprietas est: quanto magis bibit, tanto plus sitit, iuxta illud Horatij li  
+          <lb ed="#B1" n="42"/>bro 2. Ode 2 
+          <lb ed="#B1" n="43"/>Crescit indulgens sibi dirus hidrops. 
+          <lb ed="#B1" n="44"/>Nec sitim pellit, nisi causa morbi 
+          <lb ed="#B1" n="45"/>Fugerit venis, &amp; aquosus albo  
+          <lb ed="#B1" n="46"/>Corpore languor. 
+        </p>
+        <p xml:id="rhwis-l179-d1e406">
+          <lb ed="#B1" n="47"/>Et eodem modo auarus nunquam dicit, sufficit: hanc infirmitatem patiebatur  
+          <lb ed="#B1" n="48"/>diues ille qui dixit Luc. 12. Destruam horrea mea, &amp; faciam maiora, &amp; illuc con 
+          <lb ed="#B1" n="49"/>gregabo omnia, quae nata sunt mihi. Istam infirmitatem sanat sermo diuinus, 
+          <lb ed="#B1" n="50"/>persuadens eleemosynam, &amp; opera pietatis. Esa. 58. Frange esurienti panem tuum, 
+          <lb ed="#B1" n="51"/>&amp; egenos uagosque induc in domum tuam: &amp; sequitur: Tunc erumpet quasi 
+          <lb ed="#B1" n="52"/>mane lumen tuum, &amp; sanitas tua citius orietur. Sexta infirmitas spiritualis, est 
+          <lb ed="#B1" n="53"/>gula &amp; ebrietas, subuertens iudicium rationis, &amp; comparatur x epilentiae, quae 
+          <!--sap_Page_625.xml-->
+          <pb ed="#B1" n="591"/>
+          <lb ed="#B1" n="1"/>facit hominem caderem corporaliter: spiritualiter autem &amp; mortaliter ad omnia 
+          <lb ed="#B1" n="2"/>genera peccatorum, cum sit ingressus, &amp; ianua omnium uitiorum. Istam infir 
+          <lb ed="#B1" n="3"/>mitatem patiebatur diues epulo, Luc. 16. qui induebatur purpura &amp; bysso, &amp; 
+          <lb ed="#B1" n="4"/>epulabatur quotidie splendide. Loth etiam inebriatus utranque filiam cognouit.  
+          <lb ed="#B1" n="5"/>Gene.19. Quia haec est infirmitas, quae nunquam sola uenit, hanc sanat sermo 
+          <lb ed="#B1" n="6"/>diuinus, persuadens abstinentiam rationabilem. Eccles. 31. Sanitas est mentis  
+          <lb ed="#B1" n="7"/>&amp; corporis sobrius potus. Septima infirmitas est luxuria, &amp; comparatur leprae: 
+          <lb ed="#B1" n="8"/>eo quod generatur ex calore corrupto &amp; deordinato. Et istam infirmitatem pa 
+          <lb ed="#B1" n="9"/>tiebatur Salomon, qui habuit uxores reginas quasi septingentas, &amp; concubi  
+          <lb ed="#B1" n="10"/>nas trecentas: &amp; cum iam senex esset, deprauatum est cor eius per mulieres,  
+          <lb ed="#B1" n="11"/>3. Reg. 11. Haec est infirmitas contagiosa, &amp; abominabilis. Vna nanque persona 
+          <lb ed="#B1" n="12"/>talis centum potest inficere: &amp; hanc sanat sermo DEI persuadens homini ho 
+          <lb ed="#B1" n="13"/>nestam societatem, &amp; poenitentiae seueritatem, &amp; deuotae orationis instantiam. 
+          <lb ed="#B1" n="14"/>Haec enim omnia ad curam huius infirmitatis exiguntur. In cuius figura, Ma 
+          <lb ed="#B1" n="15"/>ria lepra percussa, per septem dies fuit exclusa a castris, &amp; non nisi ad orationem  
+          <lb ed="#B1" n="16"/>Moysi sanata. Numeri 12. dicente Moyse ad Dominum: DEVS obsecro, sana 
+          <lb ed="#B1" n="17"/>eam. Sic ergo sermo DEI sanat omnia. In cuius figura dicitur Luc. 9. quod  
+          <lb ed="#B1" n="18"/>CHRISTVS conuocatis duodecim discipulis, misit eos praedicare regnum 
+          <lb ed="#B1" n="19"/>DEI, &amp; sanare infirmos.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 194 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 194 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="638"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l194">
+        <p xml:id="rhwis-l194-d1e95">
+          <!--sap_Page_672.xml-->
+          <pb ed="#B1" n="638"/>
+          <lb ed="#B1" n="1"/>ECRARATO de poena timoris tempore tenebrarum, quae fuit  
+          <lb ed="#B1" n="2"/>uniuersalis Aegyptijs, tam ex parte temporis, quam ex parte per 
+          <lb ed="#B1" n="3"/>sonarum. In ista parte declarat tertio, quod fuit uniuersalis ex parte cau 
+          <lb ed="#B1" n="4"/>sarum, &amp; ponuntur 7. causae illatiuae timoris. Non quidem ex natura 
+          <lb ed="#B1" n="5"/>sua, sed ex conditione Aegyptiorum, tunc temporis in tenebris exi  
+          <lb ed="#B1" n="6"/>stentium: quia perturbata conscientia semper praesumit saeua. Ideo etiam illa quae 
+          <lb ed="#B1" n="7"/>ex natura bonis hominibus praestant solatium, conscijs sibiipsis de malitia pro 
+          <lb ed="#B1" n="8"/>pria, praestant metum, sed causa mouens ad timorem stat uel in aëre, uel in aqua, 
+          <lb ed="#B1" n="9"/>uel in terra: id est, iuxta terram in alto aëris. Duae differentiae ibi erant. Sonus 
+          <lb ed="#B1" n="10"/>uentorum, &amp; cantus auium. Quantum ad primum dicit: Siue spiritus sibilans. 
+          <lb ed="#B1" n="11"/>id est, uentus leuiter flans. Quantum ad secundum dicit: Aut inter spissos arborum 
+          <lb ed="#B1" n="12"/>ramos. Sed qualiter erit terribilis, si erat suauis. Sibilus enim uenti uel suauitas 
+          <lb ed="#B1" n="13"/>cantus est, maxime delectabilis: quia non inducunt timores, sed quia differenter 
+          <lb ed="#B1" n="14"/>aliquando siunt, possunt aues infestae &amp; feroces dulciter canere, ut est cantus Sy 
+          <lb ed="#B1" n="15"/>renum. Ideo propter causas ignotas, ut fiebant sibilus, &amp; cantus terribilis erat  
+          <lb ed="#B1" n="16"/>eis. Et ideo dicit: Inter spissos arborum ramos: quia spissitudo crudelis negotui 
+          <lb ed="#B1" n="17"/>significat absconsionem. Secundo in aqua fuit duplex differentia causarum 
+          <lb ed="#B1" n="18"/>deterrentium. Vna ex impetu aquae, alia ex collisione petrarum contentarum 
+          <lb ed="#B1" n="19"/>in aqua. Quantum ad primum dicit sic, aut uis aquae quaecurrentis nimium: id est,  
+          <lb ed="#B1" n="20"/>impetuose uel nimium irruentis a sublimi in profundum. Quantum ad secun 
+          <lb ed="#B1" n="21"/>dum dicit, aut sonus validus praecipitatarum petrarum des. uidelicet per uim 
+          <lb ed="#B1" n="22"/>aquae. Tertio in terra: id est, prope terram erat triplex differentia causarum, eos de 
+          <lb ed="#B1" n="23"/>terrentium: quia triplex sonus eos perturbabat, unus per motum animalium loca 
+          <lb ed="#B1" n="24"/>lem, alius per motum animalium uocalem, &amp; tertius per motus uocales simi 
+          <lb ed="#B1" n="25"/>situdinarie. Quantum ad primum dicit: aut ludentium animalium cursus inui sus, &amp; 
+          <lb ed="#B1" n="26"/>ideo timebant ne ab animalibus conculcarentur. Quantum ad secundum dicit,  
+          <lb ed="#B1" n="27"/>a mugientium valida bestiarum vox. De tecuo dicit: aut resonans de altissimis mon 
+          <lb ed="#B1" n="28"/>tibus Echo: ista igitur omnia defi. faci. &amp;c. Circa generationem Echo, notanda 
+          <lb ed="#B1" n="29"/>sunt duo, unum est naturale, aliud fabulosum. Naturalem autem generationem 
+          <lb ed="#B1" n="30"/>ipsius Echo declarat Aristot. 2. de Anima, correspondente comento 8. Est enim 
+          <lb ed="#B1" n="31"/>secundum comentatorem iteratio soni, conseruando figuram suam, &amp; sit ab 
+          <lb ed="#B1" n="32"/>aëre percusso, &amp; sonante cum reflexione ad aliquod obstaculum, maxime con 
+          <lb ed="#B1" n="33"/>cauum. Ponit autem ad hoc exemplum Aristinus de Lumine: Lumen multiplica 
+          <lb ed="#B1" n="34"/>tum in aëre, &amp; reflexum ad aliquod politum reflectitur uersus illam partem, in 
+          <lb ed="#B1" n="35"/>qua generatur: sicut manifestum est in corpore luminoso, quod illuminatur,  
+          <lb ed="#B1" n="36"/>non solum perradios incidentes, sed per radios reflexos: aliter esset umbra, 
+          <lb ed="#B1" n="37"/>ubicunque non incidunt radij Solis. Aliud exemplum est in aqua. Si enim la 
+          <lb ed="#B1" n="38"/>pillus proijciatur in aquam, siunt multae circulationes ubi cecidit lapillus, &amp; 
+          <lb ed="#B1" n="39"/>minor circulus pellendo causat maiorem, &amp; ille alium: &amp; sic deinceps, donec 
+          <lb ed="#B1" n="40"/>deficiat uirtus primi pellentis. Si autem circulationes illae occurrant alicui ob  
+          <lb ed="#B1" n="41"/>staculo, priusquam uirtus primi pellentis deficiat, repercutiuntur, &amp; siunt cir 
+          <lb ed="#B1" n="42"/>culationes uersus locum, ubi prima percussio facta est per lapidem. Eo 
+          <lb ed="#B1" n="43"/>dem modo, quando ex percutiente &amp; percusso sit sonus in aëre, ille sonus mul 
+          <lb ed="#B1" n="44"/>tiplicatur, &amp; sonus iste generat alium, &amp; ille alium circulariter, quamdiu du 
+          <lb ed="#B1" n="45"/>rat uirtus primi percutientis. Si autem occurret alicui obstaculo, quod transi 
+          <lb ed="#B1" n="46"/>re non posset, reflectitur sonus ueniendo per idem medium, per quod iuit us  
+          <lb ed="#B1" n="47"/>que ad locum suae generationis, conseruando figuram primo causatam, &amp; ista 
+          <lb ed="#B1" n="48"/>iteratio soni est Echo. Fabulose loquendo Echo narrat Ouid. 3. Metamorph  
+          <lb ed="#B1" n="49"/>Fuit enim virgo quaedam mirae eloquentiae, quae lunonem longa narratione 
+          <lb ed="#B1" n="50"/>detinere solebat, dummodo lupiter in montibus adulteria sua fecit cum pu 
+          <lb ed="#B1" n="51"/>ellis. Impediebatur igitur luno per narrationes ipsius Echo, ne deprehendere 
+          <lb ed="#B1" n="52"/>posset istas puellas ipsis fugientibus. Iunone detenta per narrationes ipsius 
+          <lb ed="#B1" n="53"/>Echo, tandem luno hoc percepto:  
+          <!--sap_Page_673.xml-->
+          <pb ed="#B1" n="639"/>
+          <lb ed="#B1" n="1"/>Huuius, ait. linguae, qua sum decepta, potestas 
+          <lb ed="#B1" n="2"/>Parua tibi dabitur vocisque breuissimus vsus 
+          <lb ed="#B1" n="3"/>Priuauit eam usu loquendi, hoc solum sibi relinquens, quod fines uerborum 
+          <lb ed="#B1" n="4"/>ingeminat. Haec ergo Echo Narcissum iuuenem adamauit pulcherrimum, sed  
+          <lb ed="#B1" n="5"/>ab eo repellitur.  
+          <lb ed="#B1" n="6"/>Spreta letet sluis pudibundaque frondibus ora 
+          <lb ed="#B1" n="7"/>protegit, &amp; solis ex illo viuit in antris. 
+          <lb ed="#B1" n="8"/>Fatigantibus igitur eam amore, dolore, &amp; pudore, cuius corpus totum eua 
+          <lb ed="#B1" n="9"/>nuit preter uocem &amp; ossa. Ossa uero conuersa sunt in saxa, &amp; tandem sola uox 
+          <lb ed="#B1" n="10"/>remansit quae uocatur Echo.
+        </p>
+        <p xml:id="rhwis-l194-d1e243">
+          <lb ed="#B1" n="11"/>Deficientes faciebant illos prae timore, quamuis non fiat hic mentio de bono 
+          <lb ed="#B1" n="12"/>timore moraliter, sed tantum de timore qui est poena. Est tamen nihilominus 
+          <lb ed="#B1" n="13"/>advertendum, quod timor laudabilis multa bona operatur in hominibus. Causat  
+          <lb ed="#B1" n="14"/>enim timor in persona bona de futuris prouidentiam &amp; circumspectionem, de prae 
+          <lb ed="#B1" n="15"/>teritis contritionem &amp; poenitentiam, in agendis discretionem &amp; diligentiam, in pericu 
+          <lb ed="#B1" n="16"/>lis bonam aggressionem &amp; confidentiam. Primum omnium bonorum, quae timor opera  
+          <lb ed="#B1" n="17"/>tur in homine est, quo dat sibi de futuris prouidentiam &amp; circumspectionem. Videtur  
+          <lb ed="#B1" n="18"/>enim queo praesumptuosi &amp; superbi &amp; accidiosi negligenter omittunt procurare,  
+          <lb ed="#B1" n="19"/>quae sunt saluti eorum necessaria. Virtuosi uero timentes, praeuident &amp; prouident  
+          <lb ed="#B1" n="20"/>sibi de his quae ad salutem sua pertinent. Ad hoc est exemplum losuae 9. de Gabaonitis  
+          <lb ed="#B1" n="21"/>qui timentes a facie filiorum Israel, eos cautelose praeuenerunt: &amp; ne eos destrue 
+          <lb ed="#B1" n="22"/>ret, iuramento constrinxerunt eos, &amp; requisiti de fraude responderunt: Timui  
+          <lb ed="#B1" n="23"/>mus ualde, &amp; praeuidimus animabus nostris uestro terrore compulsi: Consimi 
+          <lb ed="#B1" n="24"/>liter uiri sancti in praesenti uita multa considerant eis periculosa futura: &amp; ideo 
+          <lb ed="#B1" n="25"/>cum omni diligentia prouident animabus suis. Et ideo dixit Epimenides Phi 
+          <lb ed="#B1" n="26"/>losophus: Beata ciuitas, quae in pace bellum timet. In uitis patrum legitur lib.  
+          <lb ed="#B1" n="27"/>2. parte tertia, quod Abbas Helias ait: Tres res timeo. Vna quomodo anima 
+          <lb ed="#B1" n="28"/>egressura est de corpore: Alia quomodo sum iudici occursurus. Tertia quo 
+          <lb ed="#B1" n="29"/>modo de me fuerit proferenda sententia. Dicit Macrobius in Saturnal de con 
+          <lb ed="#B1" n="30"/>uiuio tertiae diei fere in fine. Carnes aprorum delatae in lumine Lunae, contra 
+          <lb ed="#B1" n="31"/>hunt ex nimia humore putrefactionem: ita quod nihil ualent ad esum humanum, 
+          <lb ed="#B1" n="32"/>Cum ergo uenatores illud perpendissent, nec possent de syluis ad ciuitatem per 
+          <lb ed="#B1" n="33"/>diem omnes apros transferre. Vnus prudentior caeteris dixit, quo carnes illas in 
+          <lb ed="#B1" n="34"/>multis partibus acutis clauis aereis configerent. Infixo ergo unicuique parti cla 
+          <lb ed="#B1" n="35"/>uo aeneo, detulerunt illas carnes in lumine Lunae sine quacunque iactura car 
+          <lb ed="#B1" n="36"/>nium. Moraliter. Lumen Lunae est uana gloria mundi: in qua qui nimis conuer 
+          <lb ed="#B1" n="37"/>santur, propter humorem nimium deliciarum putrescunt, in Psalm. Putruerunt  
+          <lb ed="#B1" n="38"/>&amp; corruptae sunt cicatrices meae, &amp;c. Vnde remedium speciale est contra illud:  
+          <lb ed="#B1" n="39"/>Timor futuri iudicij, quo homo configat crebro meditando cor suum: iuxta 
+          <lb ed="#B1" n="40"/>illud Psal. Confige timore tuo carnes meas a iudicijs, &amp;c. Solinus de mirabi  
+          <lb ed="#B1" n="41"/>libus mundi, cap. 2. quod mutis interdum incitamentum uocis timor est: quia 
+          <lb ed="#B1" n="42"/>non solum acuit, sed si nunquam fuerit, extorquet. Denique cum Olimpiade 
+          <lb ed="#B1" n="43"/>octaua &amp; quinquagesima, uictor Cyrus intrasset Sardis Asiae oppidum, ubi 
+          <lb ed="#B1" n="44"/>tunc latebat Croesus, filius IAchis regis mutus usque ad illud tempus, in uocem 
+          <lb ed="#B1" n="45"/>metu timoris prorupit. Exclamasse enim dicitur: Parce patri meo Cyre, &amp; ho 
+          <lb ed="#B1" n="46"/>minem te disce uel casibus nostris. Sic peccator saltem metu iudicij diuini, si 
+          <lb ed="#B1" n="47"/>mutus ante fuerit, in uocem confessionis erumpat, Tobiae 13. Cum timo 
+          <lb ed="#B1" n="48"/>re &amp; tremore confitemini illi, regemque seculorum exaltare in operibus uestris.
+        </p>
+        <p xml:id="rhwis-l194-d1e328">
+          <lb ed="#B1" n="49"/>Secundo timor uirtuosus causat in homine de praeteritis poenitentiam &amp; 
+          <lb ed="#B1" n="50"/>contritionem. Est enim sicut r thyriaca, quae expellit uenenum. Sicut enim thy 
+          <lb ed="#B1" n="51"/>riaca de tyro efficitur serpente, &amp; est nihilominus antidotum contra uenenum: ita 
+          <lb ed="#B1" n="52"/>timor de peccatis oritur, &amp; tamen peccata expellit, Eccl. 1. Timor Domini ex  
+          <lb ed="#B1" n="53"/>pellit peccatum. Nam qui sine timore est, non potest iustus fieri. Hinc est quod  
+          <!--sap_Page_674.xml-->
+          <pb ed="#B1" n="640"/>
+          <lb ed="#B1" n="1"/>tam Philosophi sancti inter omnes passiones praecipue comendant uerecun  
+          <lb ed="#B1" n="2"/>diam, quae est quasi quidam timor, significans poenitentiam de aliquo defectu 
+          <lb ed="#B1" n="3"/>Dicit enim Aristot. 4. Ethi. in fine, uerecundia est timor ingloriationis: id est, ti 
+          <lb ed="#B1" n="4"/>mor confusionis, de quo probatcomentator primo, quo non est uirtus, sed pas  
+          <lb ed="#B1" n="5"/>sio. Quod ostendit, cum per eius definitionem, tum per effectum eius. Per de 
+          <lb ed="#B1" n="6"/>finitionem quidem: quia timor est uerecundia ingloriationis: omnis autem ti 
+          <lb ed="#B1" n="7"/>mor est passio, &amp; non uirtus. Per effectum uerecundiae probatidem: omnes 
+          <lb ed="#B1" n="8"/>passiones appetitus sensitiui causant in corpore transmutationem, &amp; hoc fa 
+          <lb ed="#B1" n="9"/>cit uerecundia. Sicut enim per timorem in periculis mortis homo pallescit: ita 
+          <lb ed="#B1" n="10"/>per uerecundiam, quae est timor ingloriationis, homo rubescit. Ratio huius  
+          <lb ed="#B1" n="11"/>diuersitatis inter timorem &amp; uerecundiam fuit ista. Quod uerecundia sit qui  
+          <lb ed="#B1" n="12"/>dam timor: quia timor proprie est de periculo mortis, uel alicuius nocentis  
+          <lb ed="#B1" n="13"/>uitam hominis. Sedes autem uitae est in corde, &amp; ideo quando cor incipit de 
+          <lb ed="#B1" n="14"/>ficere per timorem, natura mittit illuc spiritus &amp; calorem: &amp; ideo tunc retra 
+          <lb ed="#B1" n="15"/>hitur calor a facie cum sanguine, &amp; homo pallescit. Honor autem &amp; inhonor 
+          <lb ed="#B1" n="16"/>in exterioribus est, &amp; ideo, quando homo timet per uerecundiam perdere ho 
+          <lb ed="#B1" n="17"/>norem, spiritus &amp; humores trahunt se ad exteriora, &amp; sic concurrente sangui  
+          <lb ed="#B1" n="18"/>ne homo exterius rubescit, secundum quod ibi probat Aristoteles de uerecun 
+          <lb ed="#B1" n="19"/>dia, quae est passio laudabilis in iuuene. Vnde dicit: Laudamus quidem uere 
+          <lb ed="#B1" n="20"/>cundos. Tertio ostendit quod non conuenit aetati senili. Quarto que nec studio 
+          <lb ed="#B1" n="21"/>so: quia neque senex neque studiosus aliquid debet committere, unde debeat ue 
+          <lb ed="#B1" n="22"/>recundari. Sed certe si senex aliquid commiserit turpe, uel etiam studiosus, lau 
+          <lb ed="#B1" n="23"/>dabile est, quo uerecundetur, &amp; illaudabilis obstinationis signum est, non uere 
+          <lb ed="#B1" n="24"/>cundari de turpibus. Quantum uero sancti uerecundiam commendent. Ecce 
+          <lb ed="#B1" n="25"/>uerba Bern. super Can. sermone 87. Nescio si quicquam gratius uerecundia 
+          <lb ed="#B1" n="26"/>in moribus hominum deprehendi queat. Verecundia omnium est ornatus 
+          <lb ed="#B1" n="27"/>aetatum, sed in tenera aetate amplius, pulchrius enitescit. Quid amabilius ue 
+          <lb ed="#B1" n="28"/>recundo adolescente: quam pulchra haec est, quam splendida gemma morum 
+          <lb ed="#B1" n="29"/>in uultu adolescentis, quam uera &amp; minime dubia nuntia bonae spei, bonae in 
+          <lb ed="#B1" n="30"/>dolis, iudex sui, uirga disciplinae, propugnatrix puritatis innatae specialis glo 
+          <lb ed="#B1" n="31"/>ria, conscientiae fama, custos uitae, decus uirtutis, sedes praemij, naturae laus, 
+          <lb ed="#B1" n="32"/>&amp; insigne totius honesti: hic est timor necessarius, Eccles. 23. Nihil melius est 
+          <lb ed="#B1" n="33"/>quam timor Domin.
+        </p>
+        <p xml:id="rhwis-l194-d1e417">
+          <lb ed="#B1" n="34"/>Tertio timor bonus causat in agendis diligentiam &amp; discretionem, Eccles.  
+          <lb ed="#B1" n="35"/>7. Qui timet DEVM, nihil negligit.
+        </p>
+        <p xml:id="rhwis-l194-d1e424">
+          <lb ed="#B1" n="36"/>Quarto bonus timor causat homini in periculo confidentiam &amp; aggressio  
+          <lb ed="#B1" n="37"/>nem. Multi enim reputant se debiles, qui ingruente timore, &amp; cogente ardua 
+          <lb ed="#B1" n="38"/>&amp; difficilia fecerunt. Vnde Gregorius 5. Mora. In uia DEI a timore incipie 
+          <lb ed="#B1" n="39"/>tur, ut ad fortitudinem ueniatur. Nam sicut in uia seculi audacia fortitudinem: 
+          <lb ed="#B1" n="40"/>ita in uia DEI audacia debilitatem facit. Et sicut in uia seculi timor debilita 
+          <lb ed="#B1" n="41"/>tem: ita in uia DEI timor fortitudinem. Proverb. 14. In timore Domini fidu 
+          <lb ed="#B1" n="42"/>cia fortitudinis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

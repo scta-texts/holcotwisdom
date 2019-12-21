@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 208 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 208 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="685"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l208">
+        <p xml:id="rhwis-l208-d1e95">
+          <!--sap_Page_719.xml-->
+          <pb ed="#B1" n="685"/>
+          <lb ed="#B1" n="1"/>ACTVM est superius de exterminio Aegyptiorum mirabili in ma 
+          <lb ed="#B1" n="2"/>ri Rubro: Hic agitur consequenter de fauorabili patrocinio colla 
+          <lb ed="#B1" n="3"/>to Hebraeis in recedendo de Aegypto. Et circa hoc duo facit: Nam 
+          <lb ed="#B1" n="4"/>primo commemoratur diuina gubernatio: Secundo narratur He 
+          <lb ed="#B1" n="5"/>braeorum exultatio, ibi: Tanquam enim equi. Circa primum duo ta 
+          <lb ed="#B1" n="6"/>cit. Nam primo ostendit in generali, qualiter omnis creatura famulabatur di 
+          <lb ed="#B1" n="7"/>uinae uoluntati, ad Hebraeorum liberationem: Secundo hoc ipsum manifestat  
+          <lb ed="#B1" n="8"/>in speciali, per particulatem deductionem, ibi: Nam nubes.
+        </p>
+        <p xml:id="rhwis-l208-d1e119">
+          <lb ed="#B1" n="9"/>Circa primum est sciendum, quod sicut omnis creatura libera DEI uolunta 
+          <lb ed="#B1" n="10"/>te producta est de nihilo: ita omnis creatura diuinae uoluntati suam operatio  
+          <lb ed="#B1" n="11"/>nem, uel exercendo, uel suspendendo, pro tempore famulabatur: Et ideo cum 
+          <lb ed="#B1" n="12"/>DEVS uoluerit, Solem &amp; Lunam retrahit, &amp; motum eis sistit: &amp; cum voluerit 
+          <lb ed="#B1" n="13"/>mundum ac lucem illuminat, &amp; motum continuat: sicut miraculose factum 
+          <lb ed="#B1" n="14"/>fuit tempore passionis CHRISTI quomodo ad subtractionem: &amp; etiam tem 
+          <lb ed="#B1" n="15"/>pore losuae, quo ad stationem, &amp;c. Et sic est de omni alia creatura. Et hoc est, 
+          <lb ed="#B1" n="16"/>quod dicit: omnis enim creatura ab initio ad suum genus refigurabatur, tenecten 
+          <lb ed="#B1" n="17"/>do se ad suum genus, quod DEVS est, &amp; conformabatur illius voluntati. Sicut  
+          <lb ed="#B1" n="18"/>enim docet Aristot. 5. Metaph ca. de genere: Genus uno modo dicitur illud, a 
+          <lb ed="#B1" n="19"/>quo multitudo aliqua, sicut a primo generante producitur. Et secundum illum 
+          <lb ed="#B1" n="20"/>modum loquendi, DEVS potest dici omnium rerum genus, Apocal. 22. Ego 
+          <lb ed="#B1" n="21"/>sum radix &amp; genus omnium. Ad hoc genus omnis creatura refigurabatur: id  
+          <lb ed="#B1" n="22"/>est, reuertendo conformabatur, deserutens tuis praeceptis. Ad hoc enim omnis  
+          <lb ed="#B1" n="23"/>creatura condita est, ut conditori suo per omnia obediat. Et multipliciter refi 
+          <lb ed="#B1" n="24"/>gurabatur per benignam gubernationem Hebraeorum. Et ideo subdit: Vt pueri 
+          <lb ed="#B1" n="25"/>tui, uidelicet famulantes tibi, Hebraeitpuer enim dicitur famulus) custodirentur 
+          <lb ed="#B1" n="26"/>illesi, scilicet in Aegypto, in mari Rubro, &amp; in deserto. Hanc autem obedientiam  
+          <lb ed="#B1" n="27"/>creaturae ad DEVM &amp; solatium Hebraeorum in speciali declarat dupliciter, ui  
+          <lb ed="#B1" n="28"/>delicet in columna nubis, quae eos protexit per diem, ne calore Solis combure 
+          <lb ed="#B1" n="29"/>rentur: &amp; in recessu maris Rubri, quo dedit eis uiam siccam, in qua sine impedi 
+          <lb ed="#B1" n="30"/>mento gradetentur: unde dicit sic: Nom nubes illorum castra obumbrabat, quae 
+          <lb ed="#B1" n="31"/>tria eis fecit. Nam diuidebat inter eos &amp; hostes, compescuit Solis ardores, &amp; Iu 
+          <!--sap_Page_720.xml-->
+          <pb ed="#B1" n="686"/>
+          <lb ed="#B1" n="1"/>cebat per noctes. Item quantum ad recessum maris, dicit sic: Et ex aqua quae an 
+          <lb ed="#B1" n="2"/>tea erat, supple in loco suo, terra, apparuit arida: &amp; in mari Rubro via sine impedi 
+          <lb ed="#B1" n="3"/>mento. &amp; campus germinans de profundo nimio: id est locus speciosus, &amp; italecu 
+          <lb ed="#B1" n="4"/>rus, &amp; amoenus pro itinere, ac si fuisset campus germinans. per quem: id est, cam  
+          <lb ed="#B1" n="5"/>pum siue locum ad modum campi se habentis, omnis natio Hebraeoram transiuit.  
+          <lb ed="#B1" n="6"/>quae regebatur manu tua: id est, potestate: uidentes tua mirabilia, quo ad tran 
+          <lb ed="#B1" n="7"/>situm eius sicco pede, per medium Rubri maris: &amp; menstru, quoad submersionem 
+          <lb ed="#B1" n="8"/>Aegyptiorum in illo. Circa illam clausulam, Ad genus suum refigurabatur.  
+          <lb ed="#B1" n="9"/>Moraliter, genus nostrum considerare debemus quadrupliciter, ex parte pa 
+          <lb ed="#B1" n="10"/>tris, ex parte matris, ex parte germanorum, ex parte filiorum. Pater est DEVS, 
+          <lb ed="#B1" n="11"/>mater est terra, germani sunt angeli, filij sunt opera. Seruemus igitur in nobis  
+          <lb ed="#B1" n="12"/>ratione patris nobilitatem: ratione matris humilitatem: ratione fratrum stabi  
+          <lb ed="#B1" n="13"/>litatem: ratione filiorum: id est, operum utilitatem. Primo ergo cum sumus de 
+          <lb ed="#B1" n="14"/>genere ipsius DEI, oportet quod simus nobiles, non degeneres, Actu. 6. Fecit 
+          <lb ed="#B1" n="15"/>ex uno homine omne genus hominum. Et infra: Igitur cum sumus genus DEI, 
+          <lb ed="#B1" n="16"/>non debemus aestimare auro, &amp; argento, aut lapidi sculpturae artis, &amp; cogita 
+          <lb ed="#B1" n="17"/>tioni huiusmodi diuinum esse simile: Nobilitas autem ista non est nisi bonitas 
+          <lb ed="#B1" n="18"/>moralis. Vnde omnis uirtuosus est nobilis, &amp; generosus: &amp; omnis uitiosus 
+          <lb ed="#B1" n="19"/>degener est, &amp; ignobilis. Et ideo contra uitiosos gloriantes dem sua generosita 
+          <lb ed="#B1" n="20"/>te carnali, rationabiliter inuehit Boëtius 3 de consola, metro 6. probans homi 
+          <lb ed="#B1" n="21"/>nem uitiosum esse ignobilem, &amp; hominem uirtuosum nobilem. Et dicit sic:  
+          <lb ed="#B1" n="22"/>omne hominum genus in terris Ccelsa sede petitos. 
+          <lb ed="#B1" n="23"/>Simili surgit ab ortu:  Mortales igitur cunctos 
+          <lb ed="#B1" n="24"/>Vnus enim rerum pater est: Edidit nobile germen. 
+          <lb ed="#B1" n="25"/>Vnus qui cuncta ministrat. Quid genus &amp; proauos strepitist 
+          <lb ed="#B1" n="26"/>Iille dedit Pheboradios. . St primordia vestra 
+          <lb ed="#B1" n="27"/>Dedit &amp; cornua luna n  Autoremque DEVM fpectes. 
+          <lb ed="#B1" n="28"/>Ille homines etiam terri. Nullus degener extat.  
+          <lb ed="#B1" n="29"/>Dedit &amp; sidera celo. Ni uitijs peiora fouens 
+          <lb ed="#B1" n="30"/>tsic membris claudit animo:. Proprium deserat ortum,
+        </p>
+        <p xml:id="rhwis-l208-d1e241">
+          <lb ed="#B1" n="31"/>In hoc metro 5. Boëtius dicit primo, quod homines siue diuites siue pauperes  
+          <lb ed="#B1" n="32"/>similem habent ortum: quia anima de DEO, corpus autem de terra. Secundo 
+          <lb ed="#B1" n="33"/>quod DEVS est pater omnium rerum tam hominum quam aliorum. Tertio 
+          <lb ed="#B1" n="34"/>dicit, quod iste pater est ualde nobilis: quia omnia produxit, &amp; omnia mini 
+          <lb ed="#B1" n="35"/>strat tam in coelo quam in terra. Dedit &amp; Phoebo radios. Dedit &amp; cornua lunae. 
+          <lb ed="#B1" n="36"/>Quarto enim dicit quod fatuum est genus, &amp; proauos ad iactantiam recitare. 
+          <lb ed="#B1" n="37"/>Quinto quod omnis uirtuosus est nobilis, sed ille degener efficitur, qui defe 
+          <lb ed="#B1" n="38"/>rens DEVM, implicat se uitijs. Huic concordat Seneca, quaere ca. 8. lectionis 3 
+          <lb ed="#B1" n="39"/>Recogitantes igitur genus nostrum ex parte patris, simus tales in moribus, ut  
+          <lb ed="#B1" n="40"/>non mentiamur cum dicimus: Pater noster, &amp;c. Matth. 6. ca. sed ut de nobis pos  
+          <lb ed="#B1" n="41"/>sit ueraciter dici illud 1. Pet. 2. Vos autem estis genus electum, regale sacerdo 
+          <lb ed="#B1" n="42"/>tium, gens sancta, &amp; populus adquisitionis, &amp;c. Secundo intelligentes genus 
+          <lb ed="#B1" n="43"/>nostrum ex parte matris, seruemus humilitatem. Terra enim est mater nostra 
+          <lb ed="#B1" n="44"/>secundum philosophum. Terra est infimum &amp; ultimum elementum. Narrat 
+          <lb ed="#B1" n="45"/>Valerius lib. 7. ca. 3. de lunio Bruto: Qui cum a rege Tarquinio auunculo suo 
+          <lb ed="#B1" n="46"/>omnem nobilitatis indolem exciperet, interque caeteros etiam fratrem suum, quod uegetioris  
+          <lb ed="#B1" n="47"/>ingenii erat interfectum animaduerteret, obtusi se esse cordis simulauit, eaqe fal 
+          <lb ed="#B1" n="48"/>lacia maximas uirtutes texit suas. Profectus etiam Delphos, cum Tranquinij filijs,  
+          <lb ed="#B1" n="49"/>quos is ad Apollinem Pythium muneribus sacrificijsque honorandum miserat, aurum DEO 
+          <lb ed="#B1" n="50"/>nomine doni causa, cauato baculo inclusum tulit: quia timebat ne sibi coeleste 
+          <lb ed="#B1" n="51"/>numen aperta liberalitate uenerari tutum non esset. Peractis deinde mandatis pa 
+          <lb ed="#B1" n="52"/>tris Apollinem iuuenes consuluerunt, quis nam ex ipsis Romae regnaturus 
+          <lb ed="#B1" n="53"/>uideretur. At is penes eum summam urbis nostrae potestatem futuram respon 
+          <!--sap_Page_721.xml-->
+          <pb ed="#B1" n="687"/>
+          <lb ed="#B1" n="1"/>dit, qui ante omnes osculum matri dedisset. Tum Brutus perinde atque casu pro 
+          <lb ed="#B1" n="2"/>lapsus de industria se abiecit, terramque communem omnium matrem existimans, 
+          <lb ed="#B1" n="3"/>oiculatus est. Quod tam uafre telluri impressum osculum, urbi libertatem, Bru 
+          <lb ed="#B1" n="4"/>to primum in x fascijs locum tribuit. Et illo modo moraliter, quicunque ad re 
+          <lb ed="#B1" n="5"/>gnum aspirant coeleste, necesse habent se in praesenti humiliter tenere, simplices  
+          <lb ed="#B1" n="6"/>se simulare, &amp; esse: terram matrem per mortis recordationem osculari, ut sciat  
+          <lb ed="#B1" n="7"/>quilibet cuius generis sit ex parte matris: quia non est coelestis, sed terrenus. Et  
+          <lb ed="#B1" n="8"/>dicat illud Sapient. 7. Sum quidem &amp; ego mortalis homo, &amp; ex genere terre 
+          <lb ed="#B1" n="9"/>ni illius, qui primo factus est. Tertio rememorantes genus nostrum ex parte 
+          <lb ed="#B1" n="10"/>fratrum, qui sunt angeli, seruemus instabilitatem in bono. Dicitur enim natura a 
+          <lb ed="#B1" n="11"/>humana germana angelorum. Vnde cum Tobias a Raphaele uellet genus in 
+          <lb ed="#B1" n="12"/>quirere, respondit: Genus quaeris mercenarij, an ipsum mercenarium qui cum 
+          <lb ed="#B1" n="13"/>filio tuo eat. Sed ne forte sollicitum te reddam: Egosum Azarias, Ananiae ma 
+          <lb ed="#B1" n="14"/>gni filius. Tobias respondit: Ex magno genere es tu, Tobiae 5. Verum dixit 
+          <lb ed="#B1" n="15"/>angelus secundum nominis interpretationem. Axcarias namque interpretatur  
+          <lb ed="#B1" n="16"/>adiutor. Ananias gloria DEI. Erat enim adiutor gloriae DEI. Quando ergo 
+          <lb ed="#B1" n="17"/>recogitamus angelos fratres nostros germanos esse in tanta gloria, &amp; nos ad 
+          <lb ed="#B1" n="18"/>eos non posse pertingere, nisi fratribus nostris assimilemur, conari debemus 
+          <lb ed="#B1" n="19"/>totis uiribus nostris, ipsos fratres nostros imitari, in signum fraternitatis istius 
+          <lb ed="#B1" n="20"/>Raphael, qui &amp; Axcarias, quem Tobias uicissim fratrem uocat, Tobiae 6 
+          <lb ed="#B1" n="21"/>Obsecro te Azaria frater. Et Tob. 9. Frater peto te, ut auscultes uerba mea, 
+          <lb ed="#B1" n="22"/>&amp; angelus ad eum, Tobiae 11. Tobia frater scis, quemadmodum reliquisti pa 
+          <lb ed="#B1" n="23"/>trem tuum, &amp;c. Sunt ergo tam homo quam angelus de parentela diuina: sed  
+          <lb ed="#B1" n="24"/>certe homo multiplicius, cum sit triplex cognatio, scilicet legalis per adoptio  
+          <lb ed="#B1" n="25"/>nem, spiritualis per sacramenti susceptionem, &amp; carnalis per carnis propaga 
+          <lb ed="#B1" n="26"/>tionem. Angeli tantum attinent DEO secundum cognationem legalem, qua 
+          <lb ed="#B1" n="27"/>per gratiam sunt adoptati. Homo autem attinet DEO triplici cognatione. 
+          <lb ed="#B1" n="28"/>Legali: quia est filius DEI adoptiuus. Ad Ephes. 1. Praedestinauit in ado 
+          <lb ed="#B1" n="29"/>ptionem filiorum DEI. Etiam est filius DEI spiritualis: quia per baptismum 
+          <lb ed="#B1" n="30"/>nos regenerauit, Iohan. 1. Dedit eis potestatem filios DEI fieri. Est etiam car 
+          <lb ed="#B1" n="31"/>nalis frater: quia de nostra progenie naturam assumpsit. Ad Hebrae. 1. Nus  
+          <lb ed="#B1" n="32"/>quam angelos apprehendit, sed semen Abrahae: &amp; ideo possumus dicere an 
+          <lb ed="#B1" n="33"/>gelo illud 2. Macha. 7. Noli putare genus nostrum a DEO derelictum esse  
+          <lb ed="#B1" n="34"/>Quarto recordantes genus nostrum ex parte filiorum, seruemus in moribus 
+          <lb ed="#B1" n="35"/>utilitatem. Filij enim nostri opera nostra sunt, Ecclesiast. 11. Ante mortem ne 
+          <lb ed="#B1" n="36"/>laudes hominem quenquam: quoniam in filijs suis agnoscitur uir: id est, in o 
+          <lb ed="#B1" n="37"/>peribus perfectis, secundum Gloss. ibidem Apocaly. 20. Iudicatum est de sin 
+          <lb ed="#B1" n="38"/>gulis, secundum opera eorum. Et Apocal. 14. Opera enim illorum sequun 
+          <lb ed="#B1" n="39"/>tur illos. In istis ergo filijs seruemus utilitatem, ut sint nobis meritorij ad glo 
+          <lb ed="#B1" n="40"/>riam, &amp; non ad poenam: quod est quando opus nostrum producitur a gra 
+          <lb ed="#B1" n="41"/>tia diuina &amp; libero arbitrio. Quando uero producitur a Diabolo, carne, uel 
+          <lb ed="#B1" n="42"/>mundo, &amp; libero arbitrio, est quasi spurium genus. Et non potest consequi hae 
+          <lb ed="#B1" n="43"/>reditatem coelestem Et ideo prohibetur pontifici legis ueteris sub figura, Le 
+          <lb ed="#B1" n="44"/>uit. 21. quod non commisceat stirpem sui generis uulgo gentis suae: quia ego 
+          <lb ed="#B1" n="45"/>Dominus, qui sanctifico eum, &amp;c
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

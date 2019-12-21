@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 172 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 172 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n=""/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l187">
+        <p xml:id="rhwis-l187-d1e95">
+          <!--sap_Page_648.xml-->
+          <pb ed="#B1" n="614"/>
+          <lb ed="#B1" n="1"/>AD commendationem diuinae gubernationis &amp; excellen  
+          <lb ed="#B1" n="2"/>tiam sapientiae increatae, agit Autor in postrema parte sui,  
+          <lb ed="#B1" n="3"/>de speciali protectione generis ludaici, quod DEVS sibi 
+          <lb ed="#B1" n="4"/>adoptauerat, &amp; de miraculosa deiectione generis Aegy 
+          <lb ed="#B1" n="5"/>ptiaci, quod filios Israel captiuauerat multis annis. Afflixit 
+          <lb ed="#B1" n="6"/>autem DEVS Aegyptios decem plagis. Inter quas infereban 
+          <lb ed="#B1" n="7"/>tur quaedam per bestias &amp; animalia, quando scilicet illis su 
+          <lb ed="#B1" n="8"/>peruenit saeua bestiarum ira, morsibus peruersorum colubrorum extermina 
+          <lb ed="#B1" n="9"/>bantur, ac draconum &amp; locustarum inuasionibus attriti, irremediabiliter tor 
+          <lb ed="#B1" n="10"/>quebantur. Aliqua per res insensatas, &amp; elementa, &amp; aliqua per corpora super 
+          <lb ed="#B1" n="11"/>coelestia: utpote in aquarum novo immisso genere, ac grandinibus, &amp; pluuijs  
+          <lb ed="#B1" n="12"/>desuper immissis, saeua trucidati interemptione: sicut superius uisum fuit. Ideo 
+          <lb ed="#B1" n="13"/>postquam Autor declarauit quomodo Aegyptij affligebantur per bestias &amp; 
+          <lb ed="#B1" n="14"/>animalia, &amp; etiam per res insensatas &amp; elementa: In ista parte ostendit, quomo 
+          <lb ed="#B1" n="15"/>do idem Aegyptij afflicti fuerunt per corpora coelestia: dupliciter enim punie 
+          <lb ed="#B1" n="16"/>bantur. Vno modo per luminis subtractionem: Alio modo per primogenito 
+          <lb ed="#B1" n="17"/>rum occisionem, &amp; secundum hoc diuiditur processus in duas partes. Nam 
+          <lb ed="#B1" n="18"/>primo agit de nova plaga illata Aegyptijs, quae fuit per tenebras palpabiles, si 
+          <lb ed="#B1" n="19"/>cut dicitur Exod. 10. Secundo agit de decima plaga quae fuit per innumerabi 
+          <lb ed="#B1" n="20"/>les mortes primogenitorum,. De quo Exod. 12. secunda pars infra cap. 18. ibi:  
+          <lb ed="#B1" n="21"/>Cum cogitarent. Circa primum duo facit. Primo agit de mirabili supplicio tene 
+          <lb ed="#B1" n="22"/>brarum illato Aegyptijs: Secundo de beneficio speciali luminis, tunc tempo 
+          <lb ed="#B1" n="23"/>ris collata Hebraeis, ibi: Sanctis autem tuis. Circa primum quinque facit. Nam pri 
+          <lb ed="#B1" n="24"/>mo agit de istius poenae causalitate: Secundo de eius irremediabilitate: Tertio 
+          <lb ed="#B1" n="25"/>de eit is immensitate: Quarto de eius uniuersitate: Quinto de ipsius aequitate. 
+          <lb ed="#B1" n="26"/>i:cunda pars ibi: Dum putant se latere. tertia ibi frequenter. quarta ibi: Ille autem 
+          <lb ed="#B1" n="27"/>qui im notcri: eni. quinta ibi: omnes enim orbis terrarum. Circa primum duo fa 
+          <lb ed="#B1" n="28"/>cit: Quia primo asserit tantae poenae causam: Secundo eiusdem poenae ponit 
+          <lb ed="#B1" n="29"/>to: inam, ibi: In vinculis tenebrarum. Causa autem eius fuit duplex, ex parte 
+          <lb ed="#B1" n="30"/>DEI iusta considerat: o, &amp; ex parte Aegyptiorum iniqua conuersatio. Quan  
+          <lb ed="#B1" n="31"/>tum ad 1rimum d: cit sic: Mtagna enim sunt iudicia tuae Deomine, quibus electos. 
+          <lb ed="#B1" n="32"/>dest, silio: Erael gubernasti, &amp; eorum adversarios flagellasti, &amp; inenarrabilia 
+          <lb ed="#B1" n="33"/>perb. itua: id est, factatua. DEVS enim factis loquitur, qui dixit &amp; facta sunt,  
+          <!--sap_Page_649.xml-->
+          <pb ed="#B1" n="615"/>
+          <lb ed="#B1" n="1"/>Luc. 2. Transeamus Bethleem, &amp; uideamus hoc uerbum quod factum est. Ex 
+          <lb ed="#B1" n="2"/>parte Aegyptiorum fuit duplex iniquitas. Vna contra DEVM per rebellio  
+          <lb ed="#B1" n="3"/>nem: Alia contra proximum per uiolentam oppressionem. Fuerunt enim 
+          <lb ed="#B1" n="4"/>DEO rebelles in hoc maxime, quod cum eos plagis grauissimis flagellaret,  
+          <lb ed="#B1" n="5"/>illi nullam disciplinam receperunt. Et quantum ad hoc dicit: Propter hoc: id  
+          <lb ed="#B1" n="6"/>est, quia iudicia DEI &amp; flagella eius non receperunt Aegyptij ad sui corre 
+          <lb ed="#B1" n="7"/>ctionem, indisciplinatae animae errauerunt repugnantes imperijs DEI supet  
+          <lb ed="#B1" n="8"/>dimissione populi sui. Secundo peccauerunt contra proximum, uideli  
+          <lb ed="#B1" n="9"/>cet contra filios Israel, super quos usurpabant sibi violentam oppressionem. 
+          <lb ed="#B1" n="10"/>Et quantum ad hoc subdit: Dum enim persuasum habent: id est, firmiter cre 
+          <lb ed="#B1" n="11"/>dunt iniqui Aegyptij, posse dominari per opptessionem, nationi tuae: id est, po 
+          <lb ed="#B1" n="12"/>pulo Hebraeorum, quem DEVS sibi sanctis dedicauerat legibus deserui  
+          <lb ed="#B1" n="13"/>re: Ecce culpa &amp; statim subditur poenae forma: vinculis tenebrarum &amp; Ion 
+          <lb ed="#B1" n="14"/>ge noctis, &amp;c. quasi dicat: Dum Aegyptii diuinis prodigijs factis per Moy 
+          <lb ed="#B1" n="15"/>ien rebellarent, &amp; populum Iirael seruitute solita cogitarent opprimere, subi  
+          <lb ed="#B1" n="16"/>to tenebris palpabilibus inclusi iacuerunt immobiles: Et tangit istarum te 
+          <lb ed="#B1" n="17"/>nebrarum tres conditiones graues, uidelicet palpabilitatem, cum dicit: Vin 
+          <lb ed="#B1" n="18"/>culis tenebrarum compediti. Fuit enim aër non solum priuatus lumine, imo 
+          <lb ed="#B1" n="19"/>sic condensatus quod palpari potuit. Vnde ipsi miseri iacuerunt quasi uin 
+          <lb ed="#B1" n="20"/>culati in tenebris. Dicunt enim quidam quod aër potest condensari per ar 
+          <lb ed="#B1" n="21"/>tem in tantum, quod fiat homini impenetrabilis: sed siue hoc sit uerum, siue 
+          <lb ed="#B1" n="22"/>non, saltem hoc tunc a DEO factum legitur. Exod. 10. Erant tenebrae in ter 
+          <lb ed="#B1" n="23"/>ra Aegypti ut possent palpari: nec mouit se quisque de loco in quo erat. Se 
+          <lb ed="#B1" n="24"/>cundo tangit istius ligationis diuturnitatem, cum dicit: Et longae noctis. 
+          <lb ed="#B1" n="25"/>Exod. 10. Tribus diebus nemo uidit fratrem suum: Tertio tangit ligatorum  
+          <lb ed="#B1" n="26"/>immobilitatem, cum dicit: lacuerunt inclusi sub tectis: quia nullibi pote 
+          <lb ed="#B1" n="27"/>tant se uertere propter aëris densitatem: Fugitiui perpetuae prouidentiae: id  
+          <lb ed="#B1" n="28"/>est, putantes se posse fugere diuinam prouidentiam, quae immobilis &amp; immu 
+          <lb ed="#B1" n="29"/>tabilis, Sapient. 16. Manum tuam effugere impossibile est. Rabanus &amp; an 
+          <lb ed="#B1" n="30"/>tiqui habent: Latuerunt, &amp; tunc sensus non mutatur. Nii dicunt, Placuerunt,  
+          <lb ed="#B1" n="31"/>&amp; tunc est sensus, quod miseri puniti satisfecerunt per poenas perpetuae pro 
+          <lb ed="#B1" n="32"/>uidentiae.
+        </p>
+        <p xml:id="rhwis-l187-d1e247">
+          <lb ed="#B1" n="33"/>Magna sunt iudicia tua Domine.] Nota quod diuina iudicia magna sunt  
+          <lb ed="#B1" n="34"/>propter quatuor: uidelicet, propter iudicis infallibilitatem, propter iurisdi  
+          <lb ed="#B1" n="35"/>ctionis generalitatem, propter iusticiae inflexibilitatem, &amp; propter poten 
+          <lb ed="#B1" n="36"/>tiae incomprehensibilitatem. Primo iudicium DEI dicitur magnum pro 
+          <lb ed="#B1" n="37"/>pter iudicis infallibilitatem: Humanum enim iudicium fallit, &amp; fallitur. Vn 
+          <lb ed="#B1" n="38"/>de iudicium Ecclesiae fallitur nonnunquam: sicut dicitur extra de sen. ex. a. no 
+          <lb ed="#B1" n="39"/>bis &amp; 24. quaest. 3. Si quis. &amp; cap. Cum aliquis exit. Vnde ibi dicitur, quod 
+          <lb ed="#B1" n="40"/>Ecclesia quandoque in suo iudicio decipitur: &amp; qui intrat illam per eam, extra 
+          <lb ed="#B1" n="41"/>mittatur, &amp; qui foris est, intromittatur. Et ideo solius DEI est occulta iudi  
+          <lb ed="#B1" n="42"/>care, qui solus nouit corda hominum, ut dicitur 2: quaest. 4. Consuluisti. &amp; ali  
+          <lb ed="#B1" n="43"/>bi dicitur: Diuinum iudicium usurpant, qui incerta &amp; dubia iudicant: &amp; ideo 
+          <lb ed="#B1" n="44"/>dicit beatus Augustinus 19. de Ciuitate DEI: <quote xml:id="rhwis-l187-Qd1e275" source="http://scta.info/resource/adcd-l19-d1e3093">Quod ignorantia iudicis est 
+            <lb ed="#B1" n="45"/>plerunque calamitas innocentis</quote>. Debet enim in iudicio diligens examina 
+          <lb ed="#B1" n="46"/>tio praecedere iudicium, siue sententiam, &amp; sententia punitionem siue absolu 
+          <lb ed="#B1" n="47"/>tionem. Vnde fingunt poëtae, sicut tangit Claudianus in fine secundi maioris. 
+          <lb ed="#B1" n="48"/>Tres fuerunt filij louis, qui sunt Minos, Aeacus, &amp; Rhadamancus. Qui quo 
+          <lb ed="#B1" n="49"/>niam in uita sua iustissimi fuerunt, ideo officium apud inferos exercere dicun 
+          <lb ed="#B1" n="50"/>tur. Vnde finguntur tres iudices esse in inferno, quilibet eorum antiquissimum 
+          <lb ed="#B1" n="51"/>exercens iudicium: quis tamen sit qui exercet iudicium uel officium, dubium 
+          <lb ed="#B1" n="52"/>est, quamuis a nonnullis dicatur:  
+          <!--sap_Page_650.xml-->
+          <pb ed="#B1" n="616"/>
+          <lb ed="#B1" n="1"/>Minos examen, Rhadamancus dat cruciamen, 
+          <lb ed="#B1" n="2"/>Quaerere de labe, tertius frater habet.  
+          <lb ed="#B1" n="3"/>De istis non est magna cura: sed hoc est certum, quod uolebant signare per ista, 
+          <lb ed="#B1" n="4"/>quod in omni iudicio ista debent esse: diligens inquisitio, sententiae pronun 
+          <lb ed="#B1" n="5"/>ciatio, &amp; eiusdem executio: Modo si agamus de iudicio humano, cum homo 
+          <lb ed="#B1" n="6"/>iudicare non possit, nisi secundum allegata, &amp; probata: &amp; frequenter contin 
+          <lb ed="#B1" n="7"/>gat falsa probari probatione iuris, consequens est omnem terrenum iudicem 
+          <lb ed="#B1" n="8"/>tallibilem esse, sed solus DEVS est qui errare non potest, de quo solo verifica 
+          <lb ed="#B1" n="9"/>tur illud Proverb. 16. Diuinatio in labijs regis, non errabit in iudicio os eius. 
+          <lb ed="#B1" n="10"/>Secundo iudicium DEI dicitur magnum propter iurisdictionum generalita 
+          <lb ed="#B1" n="11"/>tem. Nullus enim homo est, cuius dominium ad omnem locum se extendat: 
+          <lb ed="#B1" n="12"/>DEVS autem omnes gentes iudicabit. Iohan. 5. Pater omne iudicium dedit 
+          <lb ed="#B1" n="13"/>Filio. Et Iohelis 3. Consurgant &amp; ascendant gentes in uallem losaphat: quia 
+          <lb ed="#B1" n="14"/>ibi sedebo, ut iudicem omnes gentes. 2. Corinth. 5. Omnes nos manifestari 
+          <lb ed="#B1" n="15"/>oportet ante tribunal CHRISTI, ut referat unusquisque: &amp; Chrysostomus 
+          <lb ed="#B1" n="16"/>Homel. 19. loquens in imperfecto opere de die iudicij, sic dicit: In qua die 
+          <lb ed="#B1" n="17"/>quando uenerit in maiestate sua, quando iam nemo ausus garrula contentio 
+          <lb ed="#B1" n="18"/>ne sermonem, aut mendacium defendere, aut contradicere ueritati: quando  
+          <lb ed="#B1" n="19"/>non os loquitur, &amp; opus absconditur, sicut in hoc tempore: sed econtra opera 
+          <lb ed="#B1" n="20"/>singulorum loquentur, &amp; ora tacebunt: non quando persona interrogatur &amp; 
+          <lb ed="#B1" n="21"/>conscientia non uidetur, sed econtra conscientia discutitur, &amp; persona confun 
+          <lb ed="#B1" n="22"/>ditur: quando nemo excusat peccatorem, sed omnes accusant, nec alter pro al  
+          <lb ed="#B1" n="23"/>tero interuenit, sed singuli ibi timebunt: quia in illo iudicio non erunt testes 
+          <lb ed="#B1" n="24"/>adulatores, sed angeli ueraces, non erunt iudicantes personarum acceptores. 
+          <lb ed="#B1" n="25"/>sed DEVS qui iustus est, reddet unicuique secundum opera. Haec Chrysostomus. 
+          <lb ed="#B1" n="26"/>Narrat Ouid. 15. Metamorph quod:  
+          <lb ed="#B1" n="27"/>Mos erat antiquis niueis atrisque lapillis:  
+          <lb ed="#B1" n="28"/>His damnare reos, illis absoluere culpas.
+        </p>
+        <p xml:id="rhwis-l187-d1e361">
+          <lb ed="#B1" n="29"/>Mos enim siue modus fuit sententiam proferre signo, non uoce: quia si accu 
+          <lb ed="#B1" n="30"/>satus debebat absolui, effundebantur &amp; urna coram toto populo aliqui lapil  
+          <lb ed="#B1" n="31"/>li albi: &amp; si debuit damnari, nigri. Eodem modo in iudicio generali quili  
+          <lb ed="#B1" n="32"/>bet fundet de urna sua: id est, de conscientia propria, lapides quales ipsemet  
+          <lb ed="#B1" n="33"/>immisit: id est, opera dura, &amp; in perpetuum perseuerantia, quantum ad meri 
+          <lb ed="#B1" n="34"/>tum uel reatum: &amp; si fundat opera alba, saluabitur: si nigra peccata, condem 
+          <lb ed="#B1" n="35"/>nabitur. Naum 2. dicitur de damnatis: Facies hominum sicut nigredo ollae. 
+          <lb ed="#B1" n="36"/>Tertio iudicium DEI dicitur magnum, propter iustitiae inflexibilitatem, si 
+          <lb ed="#B1" n="37"/>cut dicit Isidorus de summo bono, &amp; in Canone 11. quaest. 3. Quatuor mo 
+          <lb ed="#B1" n="38"/>dis peruertitur humanum iudicium, timore, cupiditate, odio, &amp; amore. DEVS 
+          <lb ed="#B1" n="39"/>autem nullum istorum modorum corrumpi poterit. Non timore: quia omni 
+          <lb ed="#B1" n="40"/>potens est, &amp; nullum metum habet. Iob 22. Nunquid timens arguet te, &amp; ue 
+          <lb ed="#B1" n="41"/>niet tecum ad iudicium: quasi diceret, non: imo quanto potentiores, tanto con 
+          <lb ed="#B1" n="42"/>tra eos sententiam profert duriorem. Sapient. 6. Potentes potenter tormenta 
+          <lb ed="#B1" n="43"/>patientur. Et ibidem: Fortioribus fortior instat cruciatio. Fingitur quod leo 
+          <lb ed="#B1" n="44"/>semel tenuit curiam bestiarum, debuitque unaquaeque semetipsam proclama 
+          <lb ed="#B1" n="45"/>re de culpis coram leone. Asinus ait: Sequebar (inquit) aliquando plaustrum 
+          <lb ed="#B1" n="46"/>plenum foeno, &amp; cum manipulus foeni cecidisset de plaustro accepi &amp; com 
+          <lb ed="#B1" n="47"/>medi. Cui leo: Male, inquit, errasti miser, &amp; contra legem &amp; fidelitatem feci 
+          <lb ed="#B1" n="48"/>sti. Debebas enim ei qui perdidit reddidisse, ergo de praecepto leonis uerbe 
+          <lb ed="#B1" n="49"/>rabatur ad mortem. Accessit lupus, &amp; ait: Domine, Circumiui aliquando  
+          <lb ed="#B1" n="50"/>greges quium &amp; armentorum, &amp; rapui aliquando agnum tenerum &amp; stran 
+          <lb ed="#B1" n="51"/>gulaui, aliquando pinguem uitulum, quando eum attingere poteram, quan  
+          <lb ed="#B1" n="52"/>doque ouem, quandoque hoedum. Cui leo: Dimittas innuit charissime ta 
+          <!--sap_Page_651.xml-->
+          <pb ed="#B1" n="617"/>
+          <lb ed="#B1" n="1"/>lia ponderare, nimis strictam conscientiam habes: Naturale est tibi sic face 
+          <lb ed="#B1" n="2"/>re, &amp; nemo faciens quod natura dictat, peccat. Sic a falso iudice lupus iustifi  
+          <lb ed="#B1" n="3"/>catur, &amp; asinus innocens uerberatur. Non sic erit de iudice CHRISTO qui  
+          <lb ed="#B1" n="4"/>nullum timet, imo sicut dicitur Sapient. 6. Iudicium durissimum his, qui prae 
+          <lb ed="#B1" n="5"/>sunt fiet: nec corrumpi cupiditate poterit, quia ditissimus est: nec odio, quia  
+          <lb ed="#B1" n="6"/>optimus: nec amore, quia iustissimus. Iob 34. Vere enim DEVS non con 
+          <lb ed="#B1" n="7"/>demnabit frustra, nec Omnipotens subuertet iudicium. Et Tob. 3. Omnia iu 
+          <lb ed="#B1" n="8"/>dicia tua uera sunt. Quarto iudicium DEI dicitur magnum propter suae po 
+          <lb ed="#B1" n="9"/>tentiae incomprehensibilitatem <ref xml:id="rhwis-l187-Rd1e439">Roman. 11.</ref> <quote xml:id="rhwis-l187-Qd1e442" source="http://scta.info/resource/rom11_33">O altitudo diuitiarum sapien 
+          <lb ed="#B1" n="10"/>tiae &amp; scientiae DEI, quam incomprehensibilia sunt iudicia eius &amp; inuesti 
+          <lb ed="#B1" n="11"/>gabiles uiae illius</quote>: Ista sunt occulta iudicia DEI, quibus homines disponit,  
+          <lb ed="#B1" n="12"/>&amp; regit in praesenti, permittendo iustum affligi, &amp; iniustum extolli: quae a no 
+          <lb ed="#B1" n="13"/>bis modo non uidentur, sed patebunt clarius, quando eum, sicuti est, ui  
+          <lb ed="#B1" n="14"/>debimus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

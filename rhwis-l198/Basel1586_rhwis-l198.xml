@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 198 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 198 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="651"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l198">
+        <p xml:id="rhwis-l198-d1e95">
+          <!--sap_Page_685.xml-->
+          <pb ed="#B1" n="651"/>
+          <lb ed="#B1" n="1"/>DE plaga nona postquam actum est diffuse, Aegyptijs per tenebro 
+          <lb ed="#B1" n="2"/>si aëris obscuritatem illata: In ista parte incipit agere de decima 
+          <lb ed="#B1" n="3"/>plaga, illata eisdem per primogenitorum exterminationem. Et cir 
+          <lb ed="#B1" n="4"/>ca hoc duo facit. Nam primo agit de morte mirabili primogeni 
+          <lb ed="#B1" n="5"/>torum in Aegypto: Secundo de submersione totali &amp; rationabili  
+          <lb ed="#B1" n="6"/>Aegyptiorum in mari rubro: secunda pars ibi cap. ult. Impiis autem: Circa pri 
+          <lb ed="#B1" n="7"/>mum duo facit. Primo agit de poena mortis, quae inflicta fuit Aegyptijs per di 
+          <lb ed="#B1" n="8"/>uinam animaduersionem. Secundo de quadam poena mortis indicta Hebraeis,  
+          <lb ed="#B1" n="9"/>propter eorum rebellionem, ibi: Tetigit autem &amp; tunc. Circa primum duo fa 
+          <lb ed="#B1" n="10"/>cit. Nam primo agit de illius exterminationis qualitate. Secundo de eiusdem  
+          <lb ed="#B1" n="11"/>quantitate, ibi: Simili autem pena. Circa primum quatuor siunt: Nam primo 
+          <lb ed="#B1" n="12"/>ostenditur, quod ista exterminatio primogenitorum fuit Aegyptijs iuste illata. Se 
+          <lb ed="#B1" n="13"/>cundo quod fuit Hebraeis iuste prius prophetata: tertio quod fuit a iustis lau 
+          <lb ed="#B1" n="14"/>dabiliter accepta: Et quarto ostendit qualiter diuersimode se habuerunt Ae 
+          <lb ed="#B1" n="15"/>gyptij &amp; Hebraei, cum poena fuisset illata. Secunda pars ibi: llla enim nox est. 
+          <lb ed="#B1" n="16"/>tertia ibi: Suscepta est. quarta in lectione sequenti: Absconse, &amp;c. legenda est er 
+          <lb ed="#B1" n="17"/>go litera sic: Cum cogitarent Negypti iustorum: id est, ludaeorum occidere infan 
+          <lb ed="#B1" n="18"/>tes, sicut ad longum habetur, Exod. 1. Vno exposito filio: id est, Moyse proiecto 
+          <lb ed="#B1" n="19"/>in aqua in fiscellam, &amp; liberato a morte per filiam Pharaonis, sororem matris  
+          <lb ed="#B1" n="20"/>Moysi, considerantem euentum rei, Exod. 2. In traductionem illorum: id est, ut  
+          <lb ed="#B1" n="21"/>traduceret filios Israel de Aegypto: Multitudinem filiorum abstulisti: id est, pri 
+          <lb ed="#B1" n="22"/>mogenita Aegyptiorum occidisti, Exod. 12. &amp; pariter illos: id est, Aegyptios 
+          <lb ed="#B1" n="23"/>peraidisti in aqua valida, in mari rubro. Exod. 14. quasi diceret: Non solum fi 
+          <lb ed="#B1" n="24"/>lios Aegyptiorum occidisti, sed etiam patres eorum occidisti, Moyse liberato.  
+          <lb ed="#B1" n="25"/>Consequenter dicit, quomodo haec nox fuit Hebraeis prophetata. Rec autem 
+          <lb ed="#B1" n="26"/>nox, qua primogenita Aegyptiorum percussisti, non subitanea fuit &amp; improui  
+          <lb ed="#B1" n="27"/>sa, imo DEUS haec ante reuelauerat Abraham, Isaac &amp; iacob, dicens eis, quod  
+          <lb ed="#B1" n="28"/>in manu forti educturus esset filios Israel de Aegypto. Vnde Genes. 15. Scito 
+          <lb ed="#B1" n="29"/>praenoscens dixit Dominus ad Abraham, quod peregrinum futurum sit semen 
+          <lb ed="#B1" n="30"/>tuum in terra, non sua &amp; subijcient eos seruituti, &amp; affligent quadringentis an 
+          <lb ed="#B1" n="31"/>nis. Veruntamen gentem cui seruituri sunt, ego iudicabo, &amp; post haec egredien 
+          <!--sap_Page_686.xml-->
+          <pb ed="#B1" n="652"/>
+          <lb ed="#B1" n="1"/>tur: dicit ergo: Illa nox, qua mortua sunt primogenita Aegyptiorum, cognita est 
+          <lb ed="#B1" n="2"/>a patribus nostris: scilicet de nis reuelante, vt vere scientes, quibus iuramentis: id  
+          <lb ed="#B1" n="3"/>est, firmis promissionibus, crediderunt: animae quietiores essent: id est, magis pa 
+          <lb ed="#B1" n="4"/>tientes: Nam certitudo de liberatione futura facit hominem magis patientem 
+          <lb ed="#B1" n="5"/>in iniuria siue in iniutijs: suscepta est a populo tuo sanitas quidem iustorum: id est, 
+          <lb ed="#B1" n="6"/>debita iustis: Iniustorum autem ex terminatio: quasi diceret: Vtrumque istorum 
+          <lb ed="#B1" n="7"/>scilicet, iustorum sanitas, &amp; iniustorum exterminatio, factum est ad utilitatem  
+          <lb ed="#B1" n="8"/>populi tui. Nam sicut eiecisti aduersarios nostros: id est, Aegyptios, sic nos prouo 
+          <lb ed="#B1" n="9"/>cans magnificasti: id est, te Domine magnificare fecisti.
+        </p>
+        <p xml:id="rhwis-l198-d1e193">
+          <lb ed="#B1" n="10"/>Vno filio exposito: id est, liberato. Extra de infantibus &amp; languidis exposits. 
+          <lb ed="#B1" n="11"/>Si a patre. De expositone talium sic determinant iura. Si a patre siue alio scien 
+          <lb ed="#B1" n="12"/>te, aut ratum habente de negato pietatis officio, infans expositus extiterit, hoc 
+          <lb ed="#B1" n="13"/>ipso a potestate Patris est liberatus. Nam in hoc casu ingenuitatem libertus 
+          <lb ed="#B1" n="14"/>&amp; seruus in libertatem eripitur: id est, de languidis cuiuscunque fuerint aeta 
+          <lb ed="#B1" n="15"/>tis. Moraliter mundus iste filios suos tractat diuersimode: quosdam sibi appli  
+          <lb ed="#B1" n="16"/>cat &amp; praeficit, quosdam abdicat &amp; exponit. Applicat sibi diuites, &amp; abdicat 
+          <lb ed="#B1" n="17"/>pauperes, sicut Aegyptus filios Aegyptiorum saluauit, &amp; filios Israel submer 
+          <lb ed="#B1" n="18"/>sit, &amp; tamen de isto nocumento prouenit unum lucrum. Nam diuites rema 
+          <lb ed="#B1" n="19"/>nent in tutela mundi, semper subiecti ipsius potestati, sed certe pauperes exi  
+          <lb ed="#B1" n="20"/>muntur a mundi huius potestate, eo ipso quod a mundi huius amicitia de 
+          <lb ed="#B1" n="21"/>seruntur. Et sicut quem impius &amp; crudelis pater naturalis exponit, pius &amp; ge 
+          <lb ed="#B1" n="22"/>nerosus homo interdum adoptat: ita quem mundus exponit DEVS adoptat,  
+          <lb ed="#B1" n="23"/>&amp; a seruitute mundi liberat. Roman. 8. Non enim accepistis spiritum seruitu 
+          <lb ed="#B1" n="24"/>tis iterum in timore: sed accepistis spiritum adoptionis filiorum DEI in quo 
+          <lb ed="#B1" n="25"/>clamamus, Abba pater.
+        </p>
+        <p xml:id="rhwis-l198-d1e230">
+          <lb ed="#B1" n="26"/>Circa illam clausulam: Scientes quibus iuramentis crediderunt] Notandum 
+          <lb ed="#B1" n="27"/>quod bona credulitas siue fides quatuor impetrat fore appetenda. Procurat  
+          <lb ed="#B1" n="28"/>enim fides bene credenti peccatorum remissionem, daemoniorum confusio  
+          <lb ed="#B1" n="29"/>nem, optatorum consecutionem, &amp; electorum benedictionem. Primo enim 
+          <lb ed="#B1" n="30"/>fides confert credenti peccatorum remissionem, Actu 10. de CHRISTO di 
+          <lb ed="#B1" n="31"/>citur: Huic omnes prophetae testimonum perhibent, remissionem peccato 
+          <lb ed="#B1" n="32"/>rum accipere per nomen eius omnes qui credunt in eum. Exemplum Ionae 3 
+          <lb ed="#B1" n="33"/>Crediderunt uiri Niniuitae Domino, &amp; praedicauerunt ieiunium, Docet Ari 
+          <lb ed="#B1" n="34"/>stot. primo Rhetorice in principio, quod tria sunt quae faciunt dictum alicu 
+          <lb ed="#B1" n="35"/>ius credibile, quamuis non demonstratiue loquatur, uidelicet prudentia, uir 
+          <lb ed="#B1" n="36"/>tus, &amp; beneuolentia. Cuius causa est secundum eum: quia propter opposita 
+          <lb ed="#B1" n="37"/>istorum discredimus alicui, non demonstratiue loquenti uidelicet. Aut pro 
+          <lb ed="#B1" n="38"/>pter imprudentiam, quia reputamus eum ignarum: aut propter malitiam, quia 
+          <lb ed="#B1" n="39"/>quamuis uerum sciat, non tamen est amicus ueritatis, &amp; iustitiae: aut propter 
+          <lb ed="#B1" n="40"/>defectum beneuolentiae, quia in casu licet sit prudens &amp; uirtuosus, non tamen 
+          <lb ed="#B1" n="41"/>reputamus eum ita beneuolum, quod uelit nobis consulere, quod nobis ex  
+          <lb ed="#B1" n="42"/>pediens iudicat. Sed quando ista tria concurrunt in consiliario scilicet, quod  
+          <lb ed="#B1" n="43"/>reputamus eum prudentem, uirtuosum, &amp; nobis beneuolum, tunc absque du 
+          <lb ed="#B1" n="44"/>bio credimus dictis eius, quamuis ea nequaquam demonstret. Sic de CHRI 
+          <lb ed="#B1" n="45"/>STO loquamur, quo uenit in mundum persuadere, &amp; praedicare, non dicta sua 
+          <lb ed="#B1" n="46"/>scientifice demonstrare, &amp; ideo doctrina sua non scientia, sed fides nominatur.  
+          <lb ed="#B1" n="47"/>Sunt tamen dicta sua nihilominus credibilia, propter tres rationes praedictas. 
+          <lb ed="#B1" n="48"/>Tum quia in eo uigumprudentia, cum esset sapientia DEI Patris: tum quia in 
+          <lb ed="#B1" n="49"/>eo fuit uirtus: quia omnia bene fecit, Mar. 7. tum quia in eo fuit beneuolentia 
+          <lb ed="#B1" n="50"/>ad nos: quia dilexit nos, &amp; lauit nos a peccatis nostris, in sanguine suo, Apoc.  
+          <lb ed="#B1" n="51"/>1 &amp; ideo signanter dicit Psal. Testimonia tua credibilia facta sunt nimis.
+        </p>
+        <p xml:id="rhwis-l198-d1e289">
+          <lb ed="#B1" n="52"/>Secundo operatur fides daemoniorum confusionem, Mar. ult. Signa eos qui 
+          <lb ed="#B1" n="53"/>in me crediderint, sequentur: In nomine meo daemonia eijcient. Et ideo fides  
+          <!--sap_Page_687.xml-->
+          <pb ed="#B1" n="653"/>
+          <lb ed="#B1" n="1"/>dicitur scutum spirituale, in quo daemonia uincimus, Ephes. 6. In omnibus su 
+          <lb ed="#B1" n="2"/>mentes scutum fidei, in quo possitis omnia tela nequissimi ignea extinguere. 
+          <lb ed="#B1" n="3"/>Dicit Papa, &amp; habetur in expositone super luuenalem Satyra 2. quo Numa Pom 
+          <lb ed="#B1" n="4"/>pilio sacrificante, cecidit quoddam scutum de coelo, quod antile dictum fuit: da 
+          <lb ed="#B1" n="5"/>tumque est responsum, quod illuc foret Romanum lmperium terminatum, ubi antile foret 
+          <lb ed="#B1" n="6"/>seruatum. Numa undecim alia scuta fecit, ut essent duodecim numero, ut illud  
+          <lb ed="#B1" n="7"/>quod de coelo deciderat maneret occultum. Moraliter scutum fidei de coelo ceci 
+          <lb ed="#B1" n="8"/>dit, quando CHRISTVS ueniens de coelo fidem hominibus praedicauit, ut ubi  
+          <lb ed="#B1" n="9"/>cunque fuerit scutum istud seruatum, daemonis extirpabitur dominium, &amp; perse 
+          <lb ed="#B1" n="10"/>uerabit diuinum Imperium. Haec autem scuta duodecim sunt: quia fidei articu 
+          <lb ed="#B1" n="11"/>los duodecim Apostoli fundauerunt. Istudscutum liberat a daemonibus, quod  
+          <lb ed="#B1" n="12"/>in Daniele figuratum fuit conuenienter, qui licet in lacu cum leonibus mora 
+          <lb ed="#B1" n="13"/>retur, nulla tamen laesio inuenta est in eo: quia credidit de suo, Dan. 6.
+        </p>
+        <p xml:id="rhwis-l198-d1e328">
+          <lb ed="#B1" n="14"/>Tertio confert fides optatorum consecutionem, Mar. 11. Quaecunque oran 
+          <lb ed="#B1" n="15"/>tes petitis, credite: quia accipietis &amp; fiet uobis. Narrat Magister in historijs: 
+          <lb ed="#B1" n="16"/>Quod cum Alexander uenisset in montes Caspios, miserunt ad eum filij ca 
+          <lb ed="#B1" n="17"/>ptiuitatis decem tribuum, egrediendi licentiam postulantes: cumque quaesisset  
+          <lb ed="#B1" n="18"/>causam captiuitatis, responderunt: Quod eo, quia recessissent a DEO Israel, 
+          <lb ed="#B1" n="19"/>uitul is aureis immolando, &amp; per prophetas DEI dictum esse, eos non reditu 
+          <lb ed="#B1" n="20"/>ros. Tunc respondit Alexander, quod arctius eos includeret. Cum ergo angusta uia 
+          <lb ed="#B1" n="21"/>rum inciperet obstruere molibus bituminatis, &amp; uidit humanum laborem non 
+          <lb ed="#B1" n="22"/>posse sufficere, rogauit DEVM Israel, ut illud opus compleret. Et ecce nutu di 
+          <lb ed="#B1" n="23"/>uino praerupta montium ad se inuicem accesserunt, &amp; factus est locus immeabilis, 
+          <lb ed="#B1" n="24"/>&amp; ut ait losephus: DEVS, inquit, quid facturus est pro fidelibus suis, cum pro 
+          <lb ed="#B1" n="25"/>in fidelibus ab eo auxilium petentibus, tanto miraculorum insignia voluit ope 
+          <lb ed="#B1" n="26"/>rari: Exemplum ad istud patet Iohan. 4: de regulo, cuius filius infirmabatur Ca 
+          <lb ed="#B1" n="27"/>pernaum. Cuius reguli fides, licet esset dimmuta: quia non credidit CHRISTVM 
+          <lb ed="#B1" n="28"/>posse sanare filium suum nisi descenderet corporaliter ad eum, salutem tamen 
+          <lb ed="#B1" n="29"/>filio impetrauit. Patet etiam istud exemplum in centurione, Matth. 8. Cui pro 
+          <lb ed="#B1" n="30"/>salute serui deprecanti finaliter responsum fuit: Vade sicut credidisti fiet tibi
+        </p>
+        <p xml:id="rhwis-l198-d1e368">
+          <lb ed="#B1" n="31"/>Quarto fides bene credenti confert electorum benedictionem, Iohan. 20. 
+          <lb ed="#B1" n="32"/>Dixit IESVS, quia uidisti me Thoma, credidisti: beati qui non uiderunt, &amp; cre 
+          <lb ed="#B1" n="33"/>diderunt. Quod exponens Gregorius, dicit sic: In hac sententia nos specialiter 
+          <lb ed="#B1" n="34"/>signati sumus, qui eum quem carne non uidemus, mente retinemus, si tamen 
+          <lb ed="#B1" n="35"/>fidem nostram operibus sequamur. Ille etenim uere credit, quae exercet ope 
+          <lb ed="#B1" n="36"/>rando quod credit. Distinguunt autem doctores de fide quod fides quaedam  
+          <lb ed="#B1" n="37"/>est informis, quaedam formata. Informis est, quando est sine charitate, sicut esi 
+          <lb ed="#B1" n="38"/>in malis daemonibus, &amp; alijs hominibus. Formata dicitur quando charitate ui  
+          <lb ed="#B1" n="39"/><!-- line that needs to be removed --><!--cu&amp; ,--> 
+          <lb ed="#B1" n="40"/>uificatur. Et ideo dicit Magister sententiarum libro 3 di. 23. Aliud est credere 
+          <lb ed="#B1" n="41"/>DEVM, &amp; aliud in DEVM, &amp; aliud DEO credere. Credete DEO, est credere 
+          <lb ed="#B1" n="42"/>esse uera, quae loquitur, quod &amp; mali faciunt, &amp; nos credimus homini, sed non 
+          <lb ed="#B1" n="43"/>in hominem. Credere DEVM est, credere quod ipse sit, quod etiam mali faci 
+          <lb ed="#B1" n="44"/>unt. Credere in DEVM, est credendo amare, &amp; amando in eum ire. Et haec est 
+          <lb ed="#B1" n="45"/>illa credulitas sola, quae facit hominem, siue animam hominis esse rectam. Per 
+          <lb ed="#B1" n="46"/>cuius contrarium dicitur Abacuc 2. Qui incredulus est, anima eius non erit 
+          <lb ed="#B1" n="47"/>recta in semetipso. lustus autem ex fide sua uiuit: &amp; signanter dicit quod ani 
+          <lb ed="#B1" n="48"/>ma increduli, qui fidem formatam non habet, non est recta. Vbi notandum, 
+          <lb ed="#B1" n="49"/>quod est de anima humana moraliter, sicut de triangulo naturaliter constat  
+          <lb ed="#B1" n="50"/>esse. Nullus enim triangulus plures angulos rectos habere potest, sed tantum 
+          <lb ed="#B1" n="51"/>unum, &amp; tamen ab illo totus triangulus denominatur rectangulus, uel orto  
+          <lb ed="#B1" n="52"/>gonus: sicut in penultima conclusione elenchorum primo Euclidis patet. Cu 
+          <lb ed="#B1" n="53"/>ius figuram ipse Pythagoras nominauit dulcarnon. Sicut enim narrat Ale 
+          <lb ed="#B1" n="54"/>xander Nequam libro de Naturis rerum: Dulcarnon fuit figura Pythagorae,  
+          <!--sap_Page_688.xml-->
+          <pb ed="#B1" n="654"/>
+          <lb ed="#B1" n="1"/>&amp; dicitur: dulcarnon a dulia carnis, id est, ab immolatione carnis tauri, quem 
+          <lb ed="#B1" n="2"/>idem philosophus imolauit loui, ob inuentionem dictae conclusionis. Ab hac er 
+          <lb ed="#B1" n="3"/>go conclusione habeo, quod totus triangulus ab uno angulo recto trianguli,  
+          <lb ed="#B1" n="4"/>denominatur rectangulus. Et eodem modo est de anima humana moraliter 
+          <lb ed="#B1" n="5"/>Anima enim humana triangularis esse dinoscitur, per memoriam, intelligen 
+          <lb ed="#B1" n="6"/>tiam, &amp; uoluntatem. Vnde August. 10. de Trini. cap. 18. nulla istarum perso 
+          <lb ed="#B1" n="7"/>narum seu virium dicitur anima esse recta nisi a sola voluntate. Non enim 
+          <lb ed="#B1" n="8"/>dicitur anima recta propter bonitatem memoriae, nec a subtilitate intelligentiae. 
+          <lb ed="#B1" n="9"/>Multi enim reperiuntur ualde foecundae memoriae &amp; subtilis &amp; perspicacis in 
+          <lb ed="#B1" n="10"/>telligentiae, qui tamen non sunt recti nec iusti, imo quandoque ualde distorti &amp; 
+          <lb ed="#B1" n="11"/>iniusti. Relinquitur ergo quod anima humana dicitur esse recta a sola volun 
+          <lb ed="#B1" n="12"/>tate, a qua sola existente recta homo dicitur iustus, &amp; rectus: &amp; ideo rationa 
+          <lb ed="#B1" n="13"/>biliter concludit Anshelmus 8. de lib. arbi. quod iustitia est rectitudo uolun 
+          <lb ed="#B1" n="14"/>tatis. Est ergo magna uanitas, quod homo nititur totis uiribus illas partes re 
+          <lb ed="#B1" n="15"/>ctificare, quae eum non faciunt rectum, &amp; illam potentiam dimittat incultam, 
+          <lb ed="#B1" n="16"/>a qua tota ipsius sumitur rectitudo. Sunt enim homines communiter curiosi,  
+          <lb ed="#B1" n="17"/>ut multarum scientiarum ueritates memoriter teneant, &amp; eas per intelligen 
+          <lb ed="#B1" n="18"/>tiam diligenter discutiunt, sed quod uoluntas eorum amore DEI &amp; proximi 
+          <lb ed="#B1" n="19"/>inflammetur non curant: a qua sola homo dicitur rectus, Can. 2. Recti diligunt  
+          <lb ed="#B1" n="20"/>te: &amp; ideo non immerito plangit propheta Mich. 7. Perijt sanctus de terra, &amp; 
+          <lb ed="#B1" n="21"/>rectus in hominibus non est. Cuius causa assignatur Ecclesiast. 7. Solummo 
+          <lb ed="#B1" n="22"/>do hoc inueni quod DEVS fecit hominem rectum, &amp; ipse se immiscuit infini 
+          <lb ed="#B1" n="23"/>tis quaestionibus. Et ideo ut recte credamus, &amp; benedictionem electorum ha 
+          <lb ed="#B1" n="24"/>beamus, fidem nostram catholicam charitate informare debemus, Gal. 3. Qui  
+          <lb ed="#B1" n="25"/>ex fide sunt, benedicentur.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 197 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 197 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="647"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l197">
+        <p xml:id="rhwis-l197-d1e95">
+          <lb ed="#B1" n="32"/>POSTQVAM tactum est de beneficio luminis, collato Hebraeis  
+          <lb ed="#B1" n="33"/>in Aegypto, quando Aegyptij tenebrarum nubilo triduo teneban 
+          <lb ed="#B1" n="34"/>tur. In ista parte agit de alio luminis beneficio, collato filijs Israel 
+          <lb ed="#B1" n="35"/>in deserto. Et circa hoc duo facit. Primo recitatur beneficium Iu 
+          <lb ed="#B1" n="36"/>minis collatum filijs Israel in deserto: Secundo ostenditur per oppositum, 
+          <lb ed="#B1" n="37"/>quod digni fuerunt Aegyptij puniri, &amp; affligi tenebrarum supplicio: secunda 
+          <lb ed="#B1" n="38"/>pars ibi: Digni quidem erant. Concessum aut fuit filijs Israel beneficium lucis, dum per 
+          <!--sap_Page_682.xml-->
+          <pb ed="#B1" n="648"/>
+          <lb ed="#B1" n="1"/>desertum transirent per modum illum. Quod nocte &amp; die Iux eis seruiuit, du 
+          <lb ed="#B1" n="2"/>cendo eos per uiam ignotam: nocte apparuit columna ignis, &amp; in die colum 
+          <lb ed="#B1" n="3"/>na nubis. unde Exod. 13. Nunquam eis defuit columna nubis per diem, ne 
+          <lb ed="#B1" n="4"/>que defecit eis columna ignis per noctem, ut dux esset itineris utroque tem 
+          <lb ed="#B1" n="5"/>pore. Et hoc est quod dicit, propter quod: quia filij Israel tibi gratias agebant,  
+          <lb ed="#B1" n="6"/>&amp; de nocte petebant adiutorium tuum, &amp; habuerunt ardentem columnam i 
+          <lb ed="#B1" n="7"/>onis, ducem ignotae viae per noctem uidelicet: &amp; in die cum sufficientiluce Solis ha 
+          <lb ed="#B1" n="8"/>buerunt columnam nubis, ne laederentur aestu Solis: &amp; hoc est quod dicit: Et  
+          <lb ed="#B1" n="9"/>Solem sine lesura boni hospitij praestitisti: id est, tranquiliae protectionis: Interpo  
+          <lb ed="#B1" n="10"/>sitio enim nubis temperabat Solis ardorem, ut esset illis refrigerium, quod a 
+          <lb ed="#B1" n="11"/>lias fuisset eis incendium. Et potest esse quod uapor eleuatus uno tempore 
+          <lb ed="#B1" n="12"/>nubis fieret, &amp; alio tempore igniebatur, &amp; fieret columna ignis. Moraliter 
+          <lb ed="#B1" n="13"/>secundum Gregorium in nocte aduersitatis ostendit DEVS electis suis ignem 
+          <lb ed="#B1" n="14"/>consolationis, &amp; in die prosperitatis nubem sustinere obscurae aduersitatis: 
+          <lb ed="#B1" n="15"/>monetque in eis sibi praecauere dupliciter. Primo ne aduersitas frangat. Secun 
+          <lb ed="#B1" n="16"/>do ne prosperitas dissoluat: Consequenter ostendit, quam iuste Aegyptij pri 
+          <lb ed="#B1" n="17"/>uabantur beneficio luminis in Aegypto, &amp; dicit sic: Digni quidem illi: id est, 
+          <lb ed="#B1" n="18"/>Aegypii erant, carere luce exteriori: quia carebant luce interiori gratiae, &amp; pa 
+          <lb ed="#B1" n="19"/>ti carcerem tenebrarum, qui inclusos custodiebant filios sanctos tuos litaclitas, non 
+          <lb ed="#B1" n="20"/>permittentes abire sicut mandauit Dominus per Moysen: per quos incipiebit 
+          <lb ed="#B1" n="21"/>corruptum legis lumen: id est, lex incorrupta, &amp; iuuminans seculo dari: quia 
+          <lb ed="#B1" n="22"/>ipsi filij Israel propter miracula quae uiderant in Aegypto, non praeparabant  
+          <lb ed="#B1" n="23"/>se ad legem suscipiendam: id est, adeundum in desertum, ubi legem acceptu 
+          <lb ed="#B1" n="24"/>ri erant. Circa iulam clausulam: Ardentem columnam habuerunt ducem. No 
+          <lb ed="#B1" n="25"/>tandum, quod status boni praelati describitur penes quatuor conditiones in 
+          <lb ed="#B1" n="26"/>his uerbis. Debet enim bonus praelatus habere zelum feruoris &amp; sanctae cor 
+          <lb ed="#B1" n="27"/>reptionis, statum uigoris &amp; supportationis, iocum amoris &amp; communicatio  
+          <lb ed="#B1" n="28"/>nis, motum praecessoris &amp; informationis. Primo ergo praelatus debet habe  
+          <lb ed="#B1" n="29"/>re zelum feruoris, &amp; sanctae correptionis, ut sit ardens per industriam, non 
+          <lb ed="#B1" n="30"/>tepidus per ignauiam, nec fumigans per inanem gloriam, non extinctus per 
+          <lb ed="#B1" n="31"/>infamiam. Ardentem, inquit, columnam. In cuius figuram dicitur de Helia, Ec 
+          <lb ed="#B1" n="32"/>clesiast. 48. Surrexit Helias quasi ignis, &amp; uerbum illius quasi facula arde 
+          <lb ed="#B1" n="33"/>bat. Est ergo praelatus quasi ignis ardens per sincerum zelum: sed isti igni, 
+          <lb ed="#B1" n="34"/>quandoque adiungitur sulphur, &amp; quandoque thus: quando enim thus ad 
+          <lb ed="#B1" n="35"/>miscetur igni, tota domus suauitate redolet: quando uero sulphuri adiungi 
+          <lb ed="#B1" n="36"/>tur ignis, uehementer accenditur, sed tota domus foetore repletur: &amp; isto mo 
+          <lb ed="#B1" n="37"/>do est de praelato nonnunquam. Contingit enim quandoque quod praela 
+          <lb ed="#B1" n="38"/>tus collaterales &amp; consiliarios sibi assumit, &amp; personas sulphureas incenden 
+          <lb ed="#B1" n="39"/>tes per maliciam, &amp; foetentes per infamiam: &amp; quando sic est, domus reple 
+          <lb ed="#B1" n="40"/>tur abominatione, &amp; foetore, &amp; tribulatione, Apocalyp. 21. Pars illorum in 
+          <lb ed="#B1" n="41"/>stagno ardente igne, &amp; sulphure, Esaiae tricesimoquarto: Conuertentur tor 
+          <lb ed="#B1" n="42"/>rentes eius in picem, &amp; humus eius in sulphur, &amp; erit terra eius in picem ar 
+          <lb ed="#B1" n="43"/>dentem nocte &amp; die. Quandoque enim sit quod praelatus collaterales &amp; con 
+          <lb ed="#B1" n="44"/>siliarios sibi facit de sanctis personis, &amp; deuotis, &amp; famae honestae: &amp; tunc nul  
+          <lb ed="#B1" n="45"/>li dubium, quin domus tota repleatur dulcedine dilectionis, &amp; suauitate pa 
+          <lb ed="#B1" n="46"/>cis, quae per thus figurantur. Et uerificatur de tali praelato illud Ecclesiast. 50. 
+          <lb ed="#B1" n="47"/>Quasi ignis effulgens &amp; thus ardens in igne. Hic enim est notandum qua 
+          <lb ed="#B1" n="48"/>lis conditionis debet esse, a quo debet praelatus consilium petere. Quod pul  
+          <lb ed="#B1" n="49"/>chre &amp; eloquenter describit Ambrosius de Officijs libro secundo: Aduerten 
+          <lb ed="#B1" n="50"/>dum, inquit, quod in adquirendis consilijs plurimum ualet uitae probitas, uir 
+          <lb ed="#B1" n="51"/> tutum praerogatiua, beneuolentiae usus, facilitatis gratia. Quis enim in coeno 
+          <lb ed="#B1" n="52"/>fontem requirat: Quis de aqua turbida potum petat: Itaqe ubi est luxuria, ibi 
+          <lb ed="#B1" n="53"/>est intemperantia, ubi uitiorum confusio, quis inde sibi aliquid hauriendum 
+          <!--sap_Page_683.xml-->
+          <pb ed="#B1" n="649"/>
+          <lb ed="#B1" n="1"/>existimet: Quis utilem iudicet causae alienae: quam uidet inutilem uitae suae: 
+          <lb ed="#B1" n="2"/>Quomodo eum potero iudicare consilio superiorem, quem uideo moribus 
+          <lb ed="#B1" n="3"/>inferiorem: Supra me debet esse, cui me committere paro. An eum putabo  
+          <lb ed="#B1" n="4"/>idoneum, qui mihi det consilium: qui non dat sibi: &amp; mihi eum uacare credam, 
+          <lb ed="#B1" n="5"/>qui sibi non uacat: cuius animam uoluptates occupant, libido deuincit, aua 
+          <lb ed="#B1" n="6"/>ritia submergit, cupiditas perturbat. Haec Ambrosius.
+        </p>
+        <p xml:id="rhwis-l197-d1e249">
+          <lb ed="#B1" n="7"/>Secundo praelatus debet habere statum uigoris, &amp; supportationis, ut sit: 
+          <lb ed="#B1" n="8"/>columna fortiter supportans regiminis sui onus. Vnde praelato leremiae 1 
+          <lb ed="#B1" n="9"/>dicitur: Dedi te hodie in ciuitatem munitam, &amp; columnam ferream: quam  
+          <lb ed="#B1" n="10"/>diu enim columna est recta benem supportat onus superpositum, sed quamci 
+          <lb ed="#B1" n="11"/>to incipit curuari, statim tota fabrica cadit: Ita est moraliter, quamdiu seruat  
+          <lb ed="#B1" n="12"/>praelatus rectitudinem, &amp; iustitiam sequens, iura &amp; bonam conscientiam, me 
+          <lb ed="#B1" n="13"/>ritorie supportat, &amp; exequitur causam suam. Quando uero declinat ad la 
+          <lb ed="#B1" n="14"/>tus propter affectiones, uel offensam, non reprimendo defectiuos, &amp; fouen 
+          <lb ed="#B1" n="15"/>do bonos, tunc tota fabrica cadit. Iudicum 16. legimus quod Samson con 
+          <lb ed="#B1" n="16"/>cutiendo duas columnas quibus tota domus innitebatur, domum prostra 
+          <lb ed="#B1" n="17"/>uit, &amp; omnes qui in ea erant occidit. Isto modo est de Diabolo. Affectat enim 
+          <lb ed="#B1" n="18"/>aliquando unam congregationem deuotam subuertere, &amp; eos occidere: hoc 
+          <lb ed="#B1" n="19"/>est, eis charitatem, quae est uita spiritualis, auferre. Et ut illud fiat breuiorem  
+          <lb ed="#B1" n="20"/>uiam non habet, nisi columnas illius congregationis concutere, &amp; allidere 
+          <lb ed="#B1" n="21"/>perturbationes &amp; commotiones, Iob 9. Qui terram commouet de loco suo, 
+          <lb ed="#B1" n="22"/>&amp; columnae eius concutientur. Legimus enim in historia Scholastica super 
+          <lb ed="#B1" n="23"/>Genes. Quod Cham filius Noë septem artes liberales, in quatuordecim co 
+          <lb ed="#B1" n="24"/>lumnis descripsit: quarum septem erant aereae, &amp; septem latericiae, ut contra 
+          <lb ed="#B1" n="25"/>diluuium ignis, &amp; aquae in perpetuum manerent. In figuram, quod in praela 
+          <lb ed="#B1" n="26"/>tis, qui columnae dicuntur, sufficiens scientia debet esse, &amp; non ignorantia. Et  
+          <lb ed="#B1" n="27"/>ideo sapienti dicitur excidisse columnas septem, Proverbiorum nono: Quia 
+          <lb ed="#B1" n="28"/>nisi praelati Ecclesiae scientia &amp; sapientia fuerint informati, fabrica Ecclesiae  
+          <lb ed="#B1" n="29"/>cito rueret.
+        </p>
+        <p xml:id="rhwis-l197-d1e301">
+          <lb ed="#B1" n="30"/>Tertio praelatus debet habere locum amoris &amp; communicationis, ut per 
+          <lb ed="#B1" n="31"/>beneuolentiam, &amp; bonam affectionem subditos habeat, &amp; a subditis habea  
+          <lb ed="#B1" n="32"/>tur, &amp; hoc notatur cum dicitur: Habuerunt. Debet enim praelatus haberi ab  
+          <lb ed="#B1" n="33"/>omnibus, &amp; non a quibusdam tantum, &amp; a quibusdam non, sed omnibus &amp;  
+          <lb ed="#B1" n="34"/>singulis debet esse communis. Vnde in laudem Traiani Caesaris dicitur, quod  
+          <lb ed="#B1" n="35"/>cum arguerent eum amici sui de nimia communitate: &amp; quod ad simplices 
+          <lb ed="#B1" n="36"/>nimis esset affabilis, ultra id quod etiam imperialem dignitatem deceret. Re 
+          <lb ed="#B1" n="37"/>spondit: Talem se uelle esse imperatorem priuatis, quales sibi esse imperato  
+          <lb ed="#B1" n="38"/>res priuatus optasset. Sicut dicit Eutropius Romanae historiae libro octauo.  
+          <lb ed="#B1" n="39"/>Et sic etiam lulius Caesar amorem suorum militum meruit: quia eos non mi 
+          <lb ed="#B1" n="40"/>lites, sed commilitones appellauit. Sicut de eo narrat Suetonius libro primo 
+          <lb ed="#B1" n="41"/>Et Vegetius de re militari, libro tertio, capite primo, docet quod in exercitu 
+          <lb ed="#B1" n="42"/>bene ordinato debent esse tres duces. Primus, secundus, &amp; tertius. Primus 
+          <lb ed="#B1" n="43"/>autem qui praecipuam sustinet potestatem, debet esse in parte dextera, &amp; in 
+          <lb ed="#B1" n="44"/>ter equites &amp; pedites, ut &amp; consilio regeret, tam equites quam pedites, &amp; au 
+          <lb ed="#B1" n="45"/>toritate ad pugnam possit hortari. Moraliter sic praelatus persona commu 
+          <lb ed="#B1" n="46"/>nis debet esse, ut &amp; maioribus &amp; minoribus suam beneuolentiam ostendat:  
+          <lb ed="#B1" n="47"/>non semper cum equitibus proprium requirat honorem, nec semper cum 
+          <lb ed="#B1" n="48"/>peditibus subiectus, nimiae negligentiae torpore sordescat. Sic enim CHRI 
+          <lb ed="#B1" n="49"/>STVS in familia sua, hoc est, inter Apostolos se habebat: nam aliquando ex  
+          <lb ed="#B1" n="50"/>hibebat se ut superior, Iohannis decimotertio: Vos uocatis me Magister &amp; 
+          <lb ed="#B1" n="51"/>Domine, &amp; bene dicitis. Sum etenim. Aliquando se habebat ut inferior, Lu 
+          <lb ed="#B1" n="52"/>cae uigesimo secundo: Ego autem in medio uestrum sum sicut qui ministrat.  
+          <lb ed="#B1" n="53"/>Aliquando ut aequalis, Iohannis decimoquinto: Iam non dicam uos seruos, 
+          <!--sap_Page_684.xml-->
+          <pb ed="#B1" n="650"/>
+          <lb ed="#B1" n="1"/>sed amicos meos: amicitia enim aequalitatem requirit, 8. Ethico. Eodem mo 
+          <lb ed="#B1" n="2"/>do praelatus inter subditos aliquando debet esse maior, aliquando minor,  
+          <lb ed="#B1" n="3"/>aliquando aequalis. Maior quantum ad corrigendum iniquitatem, ad Ti 
+          <lb ed="#B1" n="4"/>tum secundo: Argue cum omni imperio Minor quantum ad humilitatis 
+          <lb ed="#B1" n="5"/>repraesentationem, 1. Thessalon. 2. Facti sumus paruuli in medio uestrum. 
+          <lb ed="#B1" n="6"/>Aequalis quantum ad amicabilem operationem, uel conuersationem, Eccle 
+          <lb ed="#B1" n="7"/>siast. trigesimosecundo: Rectorem te posuerunt noli extolli: sed isto in illis quasi 
+          <lb ed="#B1" n="8"/>unus ex illis. Ista tria tangit beatus Augustinus in regula, vel speculo cleri 
+          <lb ed="#B1" n="9"/>corum: Honore coram uobis praelatus sit uobis, ecce reuerentia autoritatis: 
+          <lb ed="#B1" n="10"/>timore coram DEO substratus sit pedibus uestris, ecce repraesentatio humi 
+          <lb ed="#B1" n="11"/>litatis: erga omnes semetipsum bonorum operum se praebeat exemplum a 
+          <lb ed="#B1" n="12"/>micabilitatis, ecce conuersatio aequalitatis: Secundum Aristot. 13 de Anima 
+          <lb ed="#B1" n="13"/>libus: Cor est commune principium a quo omnia membra uitam &amp; uirtu 
+          <lb ed="#B1" n="14"/>tem recipiunt. Declinat tamen magis ad sinistram partem, quam ad dexte 
+          <lb ed="#B1" n="15"/>ram, quantum ad suum situm. Isto modo moraliter praelatus est cor in cor 
+          <lb ed="#B1" n="16"/>pore CHRISTI mystico, a quo omnes subditi recipere debent uirtutem, 
+          <lb ed="#B1" n="17"/>&amp; consolationem, &amp; influentiam sui motus. Debent tamen ad infirmio 
+          <lb ed="#B1" n="18"/>res compatiendo fauorabiliter declinare. Vnde in libro de ponderibus, pro 
+          <lb ed="#B1" n="19"/>positione quinta dicitur sic: Si brachia librae fuerint inaequalia, aequalibus 
+          <lb ed="#B1" n="20"/>appensis ex parte longiori motus fiet. Moraliter, libra est praelatus, qui  
+          <lb ed="#B1" n="21"/>facta suorum subditorum secundum regulas iustitiae librare tenetur, Esaiae  
+          <lb ed="#B1" n="22"/>quadragesimo: Librauit in pondere montes, &amp; colles in statera: aliquan 
+          <lb ed="#B1" n="23"/>do ergo contingit, quod ista libra habet longam &amp; magnam affectionem 
+          <lb ed="#B1" n="24"/>priuatam, &amp; partialem ad unam personam &amp; breuem &amp; paruam ad aliam: 
+          <lb ed="#B1" n="25"/>certe tunc brachia librae sunt inaequalia, &amp; statera necessario est dolosa. Nam 
+          <lb ed="#B1" n="26"/>illa persona quae iacet in brachio longiori maioris affectionis, licet sit aequa 
+          <lb ed="#B1" n="27"/>lis alteri in rei ueritate, uel forte minus bonus, praeponderabit alteri iacenti 
+          <lb ed="#B1" n="28"/>in brachio breuiori. Et ideo non sic formaliter iudicat de isto praelatus suus, 
+          <lb ed="#B1" n="29"/>sicut talis est in rei ueritate: sed oportet supponere, quod praelatus sit statera 
+          <lb ed="#B1" n="30"/>iusta, &amp; non de numero eorum, de quibus Psal. Mendaces filij hominum in sta 
+          <lb ed="#B1" n="31"/>teris, ut decipiant, sed debet haberi praelatus a subditis tanquam persona com 
+          <lb ed="#B1" n="32"/>munis, a qua quaelibet consimili modo consolationem, eruditionem, instru 
+          <lb ed="#B1" n="33"/>ctionem, &amp; exemplum habere possit, ut merito subditi dicant ei illud To 
+          <lb ed="#B1" n="34"/>biae decimo: Omnia in te uno habentes, te non debuimus dimittere ire a no 
+          <lb ed="#B1" n="35"/>bis. Quarto debet praelatus habere motum praecessoris, &amp; informationis 
+          <lb ed="#B1" n="36"/>&amp; hoc notatur cum dicitur: Ducem. Vnde ad boni ducis strenuitatem non suf  
+          <lb ed="#B1" n="37"/>ficit bene monere, praecipere, &amp; corripere, &amp; solis sermonibus ordinare, sed  
+          <lb ed="#B1" n="38"/>necesse est eum strenue se habere, &amp; uirtuose pro loco &amp; tempore militare, &amp; 
+          <lb ed="#B1" n="39"/>quod praecipit alijs exercere, aliquotiens factis suis debet implere, * Machabus  
+          <lb ed="#B1" n="40"/>2. IESVS dum impleuit uerbum, factus est dux in Israel. Talis dux fuit lu 
+          <lb ed="#B1" n="41"/>lius Caesar, qui nunquam dixit militibus suis: Ite, sed semper uenite, &amp; subiun 
+          <lb ed="#B1" n="42"/>xit causam: Labor (inquit) participatus cum duce, uidetur militibus esse mi 
+          <lb ed="#B1" n="43"/>nor: sicut de eo scribit Iohannes Galensis. Talis fuit dux Abimelech qui prae 
+          <lb ed="#B1" n="44"/>scindens arboris ramum, impositumque ferens humeris sociis suis, dixit: Quod  
+          <lb ed="#B1" n="45"/>me uideritis facere cito facite: ergo certatim ramos de arboribus prae 
+          <lb ed="#B1" n="46"/>scindentes sequebantur ducem, Iudicum 9. Ergo si 
+          <lb ed="#B1" n="47"/>gnificare uerum &amp; bonum praela 
+          <lb ed="#B1" n="48"/>tum ex dictis patet.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

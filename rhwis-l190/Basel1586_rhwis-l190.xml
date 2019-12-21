@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 190 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 190 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="623"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l190">
+        <p xml:id="rhwis-l190-d1e95">
+          <lb ed="#B1" n="25"/>POSTQVAM declaratum est quod Aegyptij per totum tri 
+          <lb ed="#B1" n="26"/>duum tenebrosum, nullum poterant habere solatium contra te 
+          <lb ed="#B1" n="27"/>nebras, nec ab igne, nec a lumine: Hic ostendit quod nec ali  
+          <lb ed="#B1" n="28"/>quid remedium consequi poterant per eorum magos: quos 
+          <lb ed="#B1" n="29"/>tamen peritissimos habuerunt, imo ipsi magi a daemonibus 
+          <lb ed="#B1" n="30"/>derelicti, &amp; a DEO afflicti deridebantur, &amp; qualiter cum alijs affligeban 
+          <lb ed="#B1" n="31"/>tur. Et circa hoc tria facit: Primo ponit eorum derisionem: Secundo po 
+          <lb ed="#B1" n="32"/>nit derisionis rationem: Tertio excludit quandam obiectionem. Secun 
+          <!--sap_Page_658.xml-->
+          <pb ed="#B1" n="624"/>
+          <lb ed="#B1" n="1"/>da pars ibi: illi enim qui promittebant. Tertia ibi: Nam &amp; si nihil. Quan 
+          <lb ed="#B1" n="2"/>tum ad primum dicit sic: Et magicae artis appositi erant derisus: hoc est, tunc 
+          <lb ed="#B1" n="3"/>temporis derisibiles ostendebantur magi Aegyptiaci manifeste, qui per ma 
+          <lb ed="#B1" n="4"/>gicam artem monstra faciebant, quando nec sibi nec alijs contra praedictas te 
+          <lb ed="#B1" n="5"/>neoras potuerunt prodesse, &amp; sapientiae gloria correptio cum contumelia: quasi  
+          <lb ed="#B1" n="6"/>diceret, uana gloria quam habuerunt dicti magi Aegyptiaci de falsa sapientia, 
+          <lb ed="#B1" n="7"/>uersa modo fuit in correptione, cum contumelia, quando Pharao &amp; alij nobi  
+          <lb ed="#B1" n="8"/>les clamantes petierunt eorum subsidia, &amp; cum eos iuuare non possent, contu 
+          <lb ed="#B1" n="9"/>melias intulerunt, tanquam fallacibus &amp; pomposis deceptoribus. Secundo 
+          <lb ed="#B1" n="10"/>ponit derisionis occasionem: illi enim qui promittebant timores &amp; turbatio  
+          <lb ed="#B1" n="11"/>nes se expellere ab anima languente, ni cum derisu pleni timore languebant. Ergo 
+          <lb ed="#B1" n="12"/>manifeste fuerunt derisi, &amp; deridendi sicut praesumptuosi &amp; fallaces promit 
+          <lb ed="#B1" n="13"/>tentes se alios adiuturos, quando nec potuerunt succurrere sibiipsis. Tertio 
+          <lb ed="#B1" n="14"/>quia possit aliquis obijcere, quod ipsi non affligebantur ex uisione corporali 
+          <lb ed="#B1" n="15"/>uel imaginaria tristium personarum, &amp; monstrosarum effigierum: quia assueti 
+          <lb ed="#B1" n="16"/>fuerunt talia cernere, sicut nec Balaam expauit ad locutionem asinae. Respon 
+          <lb ed="#B1" n="17"/>detur, quod nihilominus hoc concesso turbabantur, maxime tamen ex tran 
+          <lb ed="#B1" n="18"/>situ animalium, quae iuxta eos strepitum facientia, uidebantur eos conculcare,  
+          <lb ed="#B1" n="19"/>&amp; sibilationem serpentium, quos tamen non uidebant: tamen ex hoc quod 
+          <lb ed="#B1" n="20"/>negabant se uidere, ac rem sine quo nemo uiuere potest, &amp; hoc est quod dicit:  
+          <lb ed="#B1" n="21"/>Nam &amp; si nihil illos ex monstris, apparentibus in coruscationibus uisibiliter,  
+          <lb ed="#B1" n="22"/>uel imaginariem, perturbabat transitu, tamen, animalium robustorum, &amp; serpen 
+          <lb ed="#B1" n="23"/>tium sibilatione commoti, ne ab animalibus conculcarentur, uel a serpentibus 
+          <lb ed="#B1" n="24"/>intoxicatentur, tremebundi peribant, &amp; aërem quem nulla ratione euadere quis  
+          <lb ed="#B1" n="25"/>posset, negantes se vuidere, quem tamen timebant &amp; tangebant.
+        </p>
+        <p xml:id="rhwis-l190-d1e173">
+          <lb ed="#B1" n="26"/>Et magicae artis appositi erant derisus.] Ad literam uacantes arti magicae mul  
+          <lb ed="#B1" n="27"/>tipliciter deridentur. Nam deridentur a daemonibus, &amp; ab hominibus, deri 
+          <lb ed="#B1" n="28"/>dentur a bonis angelis, &amp; deridentur a DEO. A daemonibus deridentur, &amp; 
+          <lb ed="#B1" n="29"/>decipiuntur frequenter, aliquando ab ipsis spiritibus fallacibus, &amp; mendosis, 
+          <lb ed="#B1" n="30"/>quibus sacrificant, &amp; quos colunt. Sicut patuit de Papa Syluestro secundo, qui  
+          <lb ed="#B1" n="31"/>prius dicebatur Gerebertus. Hic primo monachus Floriacensis coenobij:  
+          <lb ed="#B1" n="32"/>postea diabolo suadente, &amp; enormiter instigante apostatauit, diaboli obse  
+          <lb ed="#B1" n="33"/>quijs &amp; arti magicae se obligauit intantum, quod diabolo fecit homagium 
+          <lb ed="#B1" n="34"/>cum pacto, ut ei omnia ad nutum succederent. Auxilio ergo daemonis pro 
+          <lb ed="#B1" n="35"/>motus &amp; suffultus, factus est primo Remensis archiepiscopus: postea Raue 
+          <lb ed="#B1" n="36"/>nensis, &amp; tandem Papa: &amp; tunc quaesiuit a diabolo, quamdiu adhuc uiueret in 
+          <lb ed="#B1" n="37"/>papatu: Responsum est sibi: quamdiu non celebraret in Hierusalem. Cum er 
+          <lb ed="#B1" n="38"/>go postea celebraret in quodam loco Romae qui Hierusalem dicitur, in eccle 
+          <lb ed="#B1" n="39"/>sia Sanctae Crucis, ex motu &amp; strepitu daemonum mortem sibi sensit adesse. 
+          <lb ed="#B1" n="40"/>Suspirauit ergo &amp; ingemuit, &amp; licet sceleratissimus esset, nullo modo tamen 
+          <lb ed="#B1" n="41"/>desperauit: sed coram omnibus peccatum suum confessus, membratim ordi 
+          <lb ed="#B1" n="42"/>nauit diuidi corpus suum, ut omnia illa membra diuiderentur, &amp; amputaren 
+          <lb ed="#B1" n="43"/>tur, quibus daemones adorauerat. Corpus uero mortuum super bigam im 
+          <lb ed="#B1" n="44"/>poni, &amp; ubicunque animalia illud trahentia sisterent sepeliri. DEO uero si 
+          <lb ed="#B1" n="45"/>gnum eiusdem suae clementiae demonstrante, tulerunt animalia corpus il  
+          <lb ed="#B1" n="46"/>lud in Ecclesiam Lateranensem. In cuius sepulchro literis exaratum habetur,  
+          <lb ed="#B1" n="47"/>quod tumultu suorum ossium, &amp; sudore Papae, praebetur praesagium mo 
+          <lb ed="#B1" n="48"/>rituro: haec in Chronica fratris Martini. De hac eadem persona talis ex  
+          <lb ed="#B1" n="49"/>tat uersus: 
+          <lb ed="#B1" n="50"/>Transit a Re: Serebertus ad Ra: post Ro: Papa regens. 
+          <lb ed="#B1" n="51"/>Et designantm tres nobiles Ecclesiae quas exijt successiue, quae suntiRemensis, Ra 
+          <lb ed="#B1" n="52"/>uenensis &amp; Romanensis. Iste ergo fuit turpiter derisus. Consimile narratur de quo 
+          <lb ed="#B1" n="53"/>dam alio episcopo, qui scilicet propter honores consequendos arti magicae fuit datus. 
+          <!--sap_Page_659.xml-->
+          <pb ed="#B1" n="625"/>
+          <lb ed="#B1" n="1"/>Tandem factus episcopus, cum multos haberet aduersarios, &amp; esset in castro 
+          <lb ed="#B1" n="2"/>quodam suo, de quo plurimum confidebat, &amp; cum timeret: consuluit daemo 
+          <lb ed="#B1" n="3"/>nem suum sub hac forma: Fugiam, an non: Respondit daemon: sta secure. Ve 
+          <lb ed="#B1" n="4"/>nient inimici tui suauiter, &amp; subdentur tibi. Accedunt hostes, &amp; castrum capiunt  
+          <lb ed="#B1" n="5"/>&amp; succendunt. Inuocans ergo daemonem in extrema necessitate, quaesiuit quid 
+          <lb ed="#B1" n="6"/>faceret, &amp; quare eum finaliter sic fefellisset. Et respondit daemon, quod eum non 
+          <lb ed="#B1" n="7"/>decepisset, sed uerum dixit, si dictum suum intellexisset. Dixi, inquam, non sta 
+          <lb ed="#B1" n="8"/>secure: id est, fugias. Venient inimici tui suauiter, &amp; tibi subdent, xur, id est,  
+          <lb ed="#B1" n="9"/>gnem: &amp; sic suum famulum in fine Diabolus decipit, his similia infinita possunt 
+          <lb ed="#B1" n="10"/>narrari. Alij autem decipiuntur a spiritibus alijs: Non quidem ab ipsis, quos 
+          <lb ed="#B1" n="11"/>inuocant, sed ab eorum principibus, quibus sunt alij potentiores. Vnde cur 
+          <lb ed="#B1" n="12"/>quidam Teutonicus peregrinaretur ad sanctum Iacobum, in quadam uilla Na 
+          <lb ed="#B1" n="13"/>uariae quendam Necromanticum obuium habuit, hic dixit peregrino: Video 
+          <lb ed="#B1" n="14"/>te charissime esse in periculo mortis, sed si uis mihi rependere mercedem, sal 
+          <lb ed="#B1" n="15"/>uabo uitam tuam. Spondet Teutonicus: Volo. Ducit ergo Necromanticus 
+          <lb ed="#B1" n="16"/>Teutonicum inquandam cameram, parat sibi balneum, &amp; poniteum in aqua: 
+          <lb ed="#B1" n="17"/>eollocat ante eum speculum de calybe, quo magici solent uti. Et quaerit ab eo,  
+          <lb ed="#B1" n="18"/>quid uideat in speculo. Et respondet Teutonicus quod uideret uirum &amp; uxo  
+          <lb ed="#B1" n="19"/>rem in domo popria. Et Necromanticus quandam imaginem formauerat de 
+          <lb ed="#B1" n="20"/>cera, statque cleritus arcu extenso, &amp; sagitta immissa, ut sagittaret imaginem. Cui 
+          <lb ed="#B1" n="21"/>Necromanticus: Imago, inquit, cerea imago tua est. Vxor uero tua &amp; clericus 
+          <lb ed="#B1" n="22"/>amasius suus inhoc conuenerunt, ut te occidant: quia si imaginem illam pos  
+          <lb ed="#B1" n="23"/>set clericus sagitare mortuus esses. Custodias ergo teipsum, &amp; cum incipiet  
+          <lb ed="#B1" n="24"/>trahere, immerge te totum in aqua: sub aqua balnei in qua stas, &amp; sic secundo, 
+          <lb ed="#B1" n="25"/>&amp; tertio: quia pliries non poterit sagittare: fecit sic. Tandem se erigens. Tertio 
+          <lb ed="#B1" n="26"/>de aqua respiciers speculum, uidit qualiter uxor cum famula clericum illum 
+          <lb ed="#B1" n="27"/>subito mortuumin stabulo quodam sepeliunt. Soluit ergo Teutonicus Ne 
+          <lb ed="#B1" n="28"/>cromantico suo nercedem, &amp; facta peregrinatione domum rediens, quae per 
+          <lb ed="#B1" n="29"/>speculum uidera opera, completa prospexit. Vnde habentur tales uersus: 
+          <lb ed="#B1" n="30"/> <!-- extra line that needs to be removed -->
+          <lb ed="#B1" n="31"/>Teutonicusperegrinus eo lacobita Nauarie. 
+          <lb ed="#B1" n="32"/>Balneum cum speculo docuere malum muliebre 
+          <lb ed="#B1" n="33"/>Telatet ad Tatuam sub aquis immersio terna. 
+          <lb ed="#B1" n="34"/>infatuat fatiam fatuus stabuli tenet ima.
+        </p>
+        <p xml:id="rhwis-l190-d1e316">
+          <lb ed="#B1" n="35"/>Vnde signanter dicitur magico spiritu eum decipiente, Ecclesiast. 13. Subri 
+          <lb ed="#B1" n="36"/>dens spem dabit, narrans tibi bona, &amp; in nouissimo deridebit te. Secundo de 
+          <lb ed="#B1" n="37"/>ridentur dantes se ilharti etiam ab hominibus: sicut nuper patuit nostris die m 
+          <lb ed="#B1" n="38"/>bus de quodam clerico necromantico, cui daemon apparens promisit, quod n 
+          <lb ed="#B1" n="39"/>esset rex Angliae, &amp; quod cum tanta militia duceretur in medio Angliae sicut  
+          <lb ed="#B1" n="40"/>unquam Eduardum filium Henrici uiderat equitare. Hic tandem in TNor 
+          <lb ed="#B1" n="41"/>thumbria tempore Parleamenti comitatibus totius regis proceribus tractus fuit h 
+          <lb ed="#B1" n="42"/>&amp; suspensus quamdiu ossa ossibus adhaerebant. Imo generaliter omnes qui tali ni 
+          <lb ed="#B1" n="43"/>arti insistunt, &amp; apud DEVM &amp; apud homines confundantur: Sed mihi tem 
+          <lb ed="#B1" n="44"/>pus deficeret si omnia narrarem, ut merito dicere possim illud Psalm. Posuisti q 
+          <lb ed="#B1" n="45"/>nos opprobrium uicinis nostris subsannationem &amp; derisum, &amp;c. Figuram &amp; 
+          <lb ed="#B1" n="46"/>exemplum 3. Regum 18. habemus quomodo Helias prophetas Baal derisit, quan 
+          <lb ed="#B1" n="47"/>do dixit: Clamate uoce maiori, DEVS uester forsitan dormit, aut loquitur cum 
+          <lb ed="#B1" n="48"/>alio, aut in diuersorio est, uel in itinere. Tertio non est dubium quin a bonis an ni 
+          <lb ed="#B1" n="49"/>gelis etiam deridentur: quia se uilissimis spiritibus submittere non uerentur, m 
+          <lb ed="#B1" n="50"/>Vnde angelus obuians Balaam prophetae necromantico, cum gladio satis eum 
+          <lb ed="#B1" n="51"/>de dijs suis confidentem derisit, quando asinam eum ad maceriam collidere im 
+          <lb ed="#B1" n="52"/>perauit. Numer. 22. Quarto deridebuntur a DEO finaliter. Iuxta illud Psalm. ii 
+          <lb ed="#B1" n="53"/>Et tu Domine deridebis eos, &amp; ad nihilum deduces omnes gentes: id est, om 
+          <lb ed="#B1" n="54"/>nes gentiliter se daemonibus submittentes.
+        </p>
+        <p xml:id="rhwis-l190-d1e362">
+          Dubitatio literalis est: Vtrum ars 
+          <!--sap_Page_660.xml-->
+          <pb ed="#B1" n="626"/>
+          <lb ed="#B1" n="1"/>magica sit hominibus rationabiliter interdicta.
+        </p>
+        <p xml:id="rhwis-l190-d1e371">
+          Quod non probo: Nam ad 
+          <lb ed="#B1" n="2"/>honorem DEI uidetur esse, quod homines uirtute nominum sanctorum, uel 
+          <lb ed="#B1" n="3"/>Euangelij, uel Sacramentorum Ecclesiae possint daemonibus imperare. Sed hoc 
+          <lb ed="#B1" n="4"/>frequenter traditur in arte magica, uidelicet inuocare daemones per nomen 
+          <lb ed="#B1" n="5"/>DEI: ergo non debet hominibus prohiberi. Praeterea ad artem magicam ui  
+          <lb ed="#B1" n="6"/>detur pertinere uti imaginibus ad curam hominum spectantibus, sed hoc fieri 
+          <lb ed="#B1" n="7"/>potest naturaliter: ergo illud est irrationabiliter homini prohibitum. Minor pro 
+          <lb ed="#B1" n="8"/>batur per illud, quod narrat commendator super centilogium Ptolomaei, uer 
+          <lb ed="#B1" n="9"/>bo 9. Vbi narrat se uidisse quendam, qui sculpsit figuram Scorpionis in lapide, 
+          <lb ed="#B1" n="10"/>Luna existente in signo Scorpionis, uno de quatuor angulis, &amp; quicquid po 
+          <lb ed="#B1" n="11"/>stea impressionem illius sigilli habebat, siue in cera siue in quocunque alio, a 
+          <lb ed="#B1" n="12"/>morsu Scorpionis curabatur: sicut ipse testatur se uidisse. Sed hoc non fiebat 
+          <lb ed="#B1" n="13"/>nisi per naturam: ergo, &amp;c. Praeterea rationabile est illud prohibere, quod a di 
+          <lb ed="#B1" n="14"/>uersis est expertum: sed diuersi sunt experti, quod quaedam negotia malos e 
+          <lb ed="#B1" n="15"/>uentus denunciant, sicut obuiare lepori est malum, &amp; obuiare bufoni signifi 
+          <lb ed="#B1" n="16"/>cat bonum, uestes rodi a soricibus, offendere statim, cum homo de domo pro 
+          <lb ed="#B1" n="17"/>cedit: &amp; multa huiusmodi habentur pro experimentis, maxime a mulieribus 
+          <lb ed="#B1" n="18"/>quibus plus uacat talia considerare, quae sunt signa fortunij uel infortunij. Er 
+          <lb ed="#B1" n="19"/>go irrationabile est talia prohibere. Praeterea Magister in historia narrat super 
+          <lb ed="#B1" n="20"/>Euangelia, quod inter Iudaeos fuerunt quidam exorcistae, qui per exorcismos 
+          <lb ed="#B1" n="21"/>factos a Salomone, daemones eijciebant, maxime apposita radice cuiusdam  
+          <lb ed="#B1" n="22"/>herbae in naribus obsessi: ergo hoc uidetur naturale. Et confirnatur: Quia di 
+          <lb ed="#B1" n="23"/>citur communiter, quod herba Iohannis, quae dicitur perforata, fugat daemo 
+          <lb ed="#B1" n="24"/>nes per naturam. Praeterea uerbis confertur uis naturalis, &amp; tharacteribus ex  
+          <lb ed="#B1" n="25"/>stellis, &amp; signis coelestibus. Sed cum rebus naturalibus liceatati, applicando ad  
+          <lb ed="#B1" n="26"/>effectum continentem: ergo non debet rationabiliter prohiFeri.
+        </p>
+        <p xml:id="rhwis-l190-d1e429">
+          <lb ed="#B1" n="27"/>Ad oppositum est Augustinus 2. de doctrina Christiana. Vbi dicit, quod  
+          <lb ed="#B1" n="28"/>ad superstitionem pertinent uolumina magicarum artium, &amp; ligatur, quae me 
+          <lb ed="#B1" n="29"/>dicorum quoque disciplina condemnat, siue in imprecationibus, siue quibus  
+          <lb ed="#B1" n="30"/>cunque uotis, quas characteres uocant.
+        </p>
+        <p xml:id="rhwis-l190-d1e440">
+          Ad quaestionem dicendum quod sic  
+          <lb ed="#B1" n="31"/>Ratio est: Quia ars magica dicitur illa superstitiosa obseruamia, qualiscunque 
+          <lb ed="#B1" n="32"/>fuerit, quae auxilio uel consilio daemonum ad hoc precibus uel pactionibus uo 
+          <lb ed="#B1" n="33"/>catorum, completur. Vbi primo sciendum quod daemones antiquitus tempo 
+          <lb ed="#B1" n="34"/>re idolatriae multas obseruantias hominibus reuelauerunt, ad certos effectus 
+          <lb ed="#B1" n="35"/>cauendos, quos ipsimet daemones causabant ad decipiendum homines, &amp; con 
+          <lb ed="#B1" n="36"/>trahendum cum eis familiaritatem, &amp; ad fallendum eos finaliter: &amp; inter talia 
+          <lb ed="#B1" n="37"/>uidetur ars notoria tenere locum, per quam suadetur homini omnem scientiam 
+          <lb ed="#B1" n="38"/>posse acquiri per inspectionem quarundam figurarum, &amp; orationibus dicen 
+          <lb ed="#B1" n="39"/>dis, cum obseruationibus, quae uel est totaliter inefficax, quod est mihi incredi 
+          <lb ed="#B1" n="40"/>bile: uel per reuelationem daemonum potest haberi obseruatis principus illius 
+          <lb ed="#B1" n="41"/>artis: quae sunt ualde difficilia, ut patet artem illam intuenti. Vlterius est no 
+          <lb ed="#B1" n="42"/>tandum, quod inter ea quae sunt hominibus per daemones reuelata, quaedam  
+          <lb ed="#B1" n="43"/>continent expressas daemonum inuocationes: sicut patet de modo includen 
+          <lb ed="#B1" n="44"/>di spiritus, &amp; in alijs daemonum superstitionibus: quaedam alia seruitia in ex  
+          <lb ed="#B1" n="45"/>hibitione rerum, quaedam continent quasi uana, quae cum daemones ordina 
+          <lb ed="#B1" n="46"/>uerunt fieri, quibus factis ad modum quo illi ordinauerunt, accedunt daemo 
+          <lb ed="#B1" n="47"/>nes non coacti, sed sponte &amp; quasi ex quodam pacto, &amp; efficiunt effectus, quos 
+          <lb ed="#B1" n="48"/>antiquitus promiserunt, &amp; in talibus consistit tota magica ars. Qualiter autem 
+          <lb ed="#B1" n="49"/>discerni possit, an sequatur effectus ex magica arte, uel ex natura rerum creata 
+          <lb ed="#B1" n="50"/>rum, est in quibusdam casibus nimis difficile. Quando tamen sic est, quod  
+          <lb ed="#B1" n="51"/>nulla causalitas naturalis inuenitur, quare talis effectus sequi debet, &amp; quando 
+          <lb ed="#B1" n="52"/>aliquid admiscetur necessario quod causare non potest ex natura sua, sicut sunt  
+          <lb ed="#B1" n="53"/>figurae, characteres, uel uoces extraneae, uel alia huiusmodi, arbitrandum est, 
+          <!--sap_Page_661.xml-->
+          <pb ed="#B1" n="627"/>
+          <lb ed="#B1" n="1"/>talia magica esse omnino. Sicut est illud quod scribit Palladius de Agricultura 
+          <lb ed="#B1" n="2"/>libro 1. ubi agens de columbis dicit: Columbae non pariunt, nec locum dese 
+          <lb ed="#B1" n="3"/>runt, si super omnes fenestras aliquid de strangulati hominis loro, uel uincu 
+          <lb ed="#B1" n="4"/>lo, uel fune suspendas. Et in Plinio de historia naturali multa talia inueniun 
+          <lb ed="#B1" n="5"/>tur. Similiter in Gilberto ubicunque ponitur experimentum, intelligitur ali  
+          <lb ed="#B1" n="6"/>quid superstitiosum, quae omnia generaliter spectant ad aliqua pacta antiqui  
+          <lb ed="#B1" n="7"/>tus inter daemones &amp; homines constituta. Tertio notandum quod nulla vir 
+          <lb ed="#B1" n="8"/>tus naturae corporeae, lapidis, metalli, ligni, uel herbae, potest daemones ad ali  
+          <lb ed="#B1" n="9"/>quid compellere, quamuis fingant se compelli, &amp; homini aliquo modo subdi:  
+          <lb ed="#B1" n="10"/>ut per haec familiaritatem cum hominibus contrahant, &amp; finaliter eos fallant.  
+          <lb ed="#B1" n="11"/>Quod autem dicitur agrimonia uel acrimonia fugare daemonem, non est cre 
+          <lb ed="#B1" n="12"/>dendum, nisi miraculose a DEO, sicut fuisse creditur de Dauid &amp; Saule, 2. Re 
+          <lb ed="#B1" n="13"/>gum 16. Friuolum est, sicut satis innuit Augustinus 10. de Ciuitate DEI con 
+          <lb ed="#B1" n="14"/>tra Porphyrium. Sed sciendum quod daemon dupliciter homini seruit. Primo 
+          <lb ed="#B1" n="15"/>modo sponte, ut decipiat: alio modo coacte a superiori spiritu. Sicut ludaei 
+          <lb ed="#B1" n="16"/>dixerunt de CHRISTO, quod in Beelzcebub principe daemoniorum eijce 
+          <lb ed="#B1" n="17"/>ret daemonia, Matthaei 12. Vlterius est notandum de incantationibus serpen 
+          <lb ed="#B1" n="18"/>tum, quod ex quo nulla causa naturalis apparet, quare uoces tales, qualescun 
+          <lb ed="#B1" n="19"/>que fuerint faciant serpentem expectare, nec serpens intelligit quod profer 
+          <lb ed="#B1" n="20"/>tur. Videntur tales incantationes per daemones effectum sortiri, &amp; sunt reli 
+          <lb ed="#B1" n="21"/>quiae ueteris idolatriae. Inuocationes etiam quas uetulae per nomina barbari 
+          <lb ed="#B1" n="22"/>ca &amp; extranea, uel obseruationes infinitas pro morbis curandis, sortilegia 
+          <lb ed="#B1" n="23"/>sunt, quamuis admisceantur quaedam de DEO uel de Euangelio. Si quis au 
+          <lb ed="#B1" n="24"/>tem contra infirmitatem appendi faciat nomina CHRISTI seu Euangelij, 
+          <lb ed="#B1" n="25"/>ex simplici deuotione, non habendo spem ad modum ligandi, uel scribendi, 
+          <lb ed="#B1" n="26"/>uel figuram, uel characteres, non est periculum: quamuis talia non ordinan 
+          <lb ed="#B1" n="27"/>tur ad expellendum morbos directe.
+        </p>
+        <p xml:id="rhwis-l190-d1e555">
+          <lb ed="#B1" n="28"/>Ad rationes. Ad primam quod ad honorem DEI est. Dicendum, quod non 
+          <lb ed="#B1" n="29"/>est ad honorem DEI, quod homines talia faciant, ad quaerendum auxilium, &amp; 
+          <lb ed="#B1" n="30"/>consilium a daemonibus: imo est eis contra eos bellum indictum. Vnde expel  
+          <lb ed="#B1" n="31"/>lere eum de corporibus hominum quos uexant, bene licet, sicut faciunt exor 
+          <lb ed="#B1" n="32"/>cistae. Non autem eos suscitare, ut doceant homines quaecunque media, uel ut iu 
+          <lb ed="#B1" n="33"/>uent ad quemcunque effectum. Si autem inuenitur hoc aliquis fecisse, fecit hoc 
+          <lb ed="#B1" n="34"/>domino dispensante &amp; miraculose cooperante.
+        </p>
+        <p xml:id="rhwis-l190-d1e573">
+          Ad secundum de imaginibus  
+          <lb ed="#B1" n="35"/>curantibus infirmitates artificialiter factis, in quacunque materia fuerint, nisi forte i 
+          <lb ed="#B1" n="36"/>ipsa materia habeat efficaciam naturalem. Dicit sanctus Thomas secunda seu 
+          <lb ed="#B1" n="37"/>cundae: quod omnes imagines tales superstitiosae &amp; magicae sunt, quod patet  
+          <lb ed="#B1" n="38"/>ex hoc: quia secundum eum nullum effectum habent, nisi in eis quidam cha 
+          <lb ed="#B1" n="39"/>racteres scribantur. Figura autem non est naturalis actionis principium. Haec 
+          <lb ed="#B1" n="40"/>autem est differentia inter imagines astrologicas, &amp; necromanticas. Quod ne 
+          <lb ed="#B1" n="41"/>cromanticae siunt per expressam inuocationem daemonum: Astrologicae per 
+          <lb ed="#B1" n="42"/>pacta tacita figurarum uel characterum.
+        </p>
+        <p xml:id="rhwis-l190-d1e593">
+          Ad tertium, quod obseruantiae a dae 
+          <lb ed="#B1" n="43"/>monibus traditae antiquitus non sunt causae talium euentuum, sed signa tantum, 
+          <lb ed="#B1" n="44"/>&amp; non naturaliter instituta, nec a DEO: igitur ab angelo non bono uel ab ho 
+          <lb ed="#B1" n="45"/>mine.
+        </p>
+        <p xml:id="rhwis-l190-d1e602">
+          Ad quartum, constat Salomonem aliquando idololatram fuisse. Vnde 3 
+          <lb ed="#B1" n="46"/>possibile est suos exorcismos per daemones ordinatos fuisse, &amp; ideo sunt illici 
+          <lb ed="#B1" n="47"/>ti.
+        </p>
+        <p xml:id="rhwis-l190-d1e610">
+          Ad quintum quod figuris &amp; characteribus nulla virtus actiua a stellis potest 
+          <lb ed="#B1" n="48"/>imprimi, cum non sint res distinctae a rebus figuratis. Si autem dicatur  
+          <lb ed="#B1" n="49"/>quod ipsis rebus imprimitur uirtus, propter figuram uel cha 
+          <lb ed="#B1" n="50"/>racterem, hoc non est, nisi per pacta antiquitus 
+          <lb ed="#B1" n="51"/>per daemones inita
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

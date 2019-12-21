@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 177 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 177 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="582"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l177">
+        <p xml:id="rhwis-l177-d1e95">
+          <lb ed="#B1" n="7"/>POSTQVAM Spiritus sanctus per Salomonem declarauit ali  
+          <lb ed="#B1" n="8"/>qualiter, quomodo Aegyptij puniebantur in Aegypto per cyni 
+          <lb ed="#B1" n="9"/>phes, muscas, &amp; ranas: quia posset aliquis dicere, quod omnino com  
+          <lb ed="#B1" n="10"/>similiter affligebantur Hebraei in deserto per serpentes ignitos, qui  
+          <lb ed="#B1" n="11"/>populum tactu uenenoso inflammauerunt, &amp; occiderunt, ideo placuit Autori 
+          <lb ed="#B1" n="12"/>diuersitatem assignare in hac parte, inter afflictiones illatas Aegyptijs per hu 
+          <lb ed="#B1" n="13"/>iusmodi bestias: &amp; castigationes illatas Hebraeis per consimilem modum. Et  
+          <lb ed="#B1" n="14"/>circa hoc duo facit. Nam primo assignat miraculosam diuersitatem: Secundo 
+          <lb ed="#B1" n="15"/>illorum miraculorum DEO attribuit autoritatem. Secunda pars ibi: Tu es Do 
+          <lb ed="#B1" n="16"/>mine. Circa primum duo facit: Primo ostendit diuersitatem inter Aegyptios 
+          <lb ed="#B1" n="17"/>punitos, &amp; Hebraeos, ex parte eorum qui patiebantur. Secundo ex parte poe 
+          <lb ed="#B1" n="18"/>narum, quae eis infligebantur. Secunda pars ibi: Sed non in perpetuum. Circa 
+          <lb ed="#B1" n="19"/>primum duo facit. Primo ostendit quomodo diuersimode digni fuerunt puni 
+          <lb ed="#B1" n="20"/>tione: Secundo quomodo Hebraei haburrunt se in afflictione. Secunda pars 
+          <lb ed="#B1" n="21"/>ibi: Etenim cum illis.
+        </p>
+        <p xml:id="rhwis-l177-d1e130">
+          <lb ed="#B1" n="22"/>Circa primum sciendum quod Aegyptij qui detinuerunt Hebraeos: id est, filios 
+          <lb ed="#B1" n="23"/>Israel per 4oo annos, in seruitute post mortem loseph, qui etiam ordinauerunt  
+          <lb ed="#B1" n="24"/>totum masculinum genus Hebraeorum interfici: merito debent tradi ad interitum 
+          <lb ed="#B1" n="25"/>sine quocunque remedio. Et maxime propter duritiam cordis eorum ad orationem 
+          <lb ed="#B1" n="26"/>Moysi &amp; Aaron, merito debuerunt morti tradi: sed Hebraei in deserto multo 
+          <lb ed="#B1" n="27"/>minus peccauerunt, &amp; ideo sufficit que aliqua tali punirentur poena per bestias, 
+          <lb ed="#B1" n="28"/>sicut Aegyptij quondam puniti extiterant, ut castigarentur in seipsis, &amp; per 
+          <lb ed="#B1" n="29"/>penderent quae Aegyptij sustinuerant in Aegypto. Et hoc est quod dicit: opor 
+          <lb ed="#B1" n="30"/>tebat enim illis quidem: id est, Aegyptins sine excusatione: id est, sine poenae mi 
+          <lb ed="#B1" n="31"/>tigatione superuenire interitum: id est, mottem, exercentibus tyrannidem  
+          <lb ed="#B1" n="32"/>in eis. Haec tyrannidis est regimen tyranni: &amp; est quaedam species Monar 
+          <lb ed="#B1" n="33"/>chiae regalis, quando aliquis principatur populo contra eorum uoluntatem, 
+          <lb ed="#B1" n="34"/>&amp; ad sunpsius solum utilitatem priuatam, secundum Aristot. 3. Pol. &amp; 8. Ethi  
+          <lb ed="#B1" n="35"/>co. Vnde tyrannidis est crudelis damnatio. Eis autem: id est, filijs Israel oporte 
+          <lb ed="#B1" n="36"/>batostendere tantum, per sensibilem experientiam in consimilibus afflictioni 
+          <lb ed="#B1" n="37"/>bus, quemadmodum inimici illorum, scilicet Aegypti exterminabantur. Haec 
+          <lb ed="#B1" n="38"/>autem perpenderunt sensibiliter, exterminabantur morsibus colubrorum. Et  
+          <lb ed="#B1" n="39"/>hnoc est quod suobdit: Et enim cum illis superuenit saua bestiarum tra, scilicet ser 
+          <lb ed="#B1" n="40"/>pentum ignitorum immissa uidelicet a DEO, morsibus peruersorum colubrorum  
+          <lb ed="#B1" n="41"/>exterminabantur: id est, aliqui murmurantes contra Dominum, &amp; non poeni 
+          <!--sap_Page_617.xml-->
+          <pb ed="#B1" n="583"/>
+          <lb ed="#B1" n="1"/>tentes mordebantur, sed non exterminabantur. Coluber est genus serpentis, 
+          <lb ed="#B1" n="2"/>&amp; dicitur coluber quasi colens umbras: quia in umbris saepium commoratur,  
+          <lb ed="#B1" n="3"/>&amp; dicitur Deut. 8. In deserto illo fuerunt serpentes flatu adurentes scorpiones 
+          <lb ed="#B1" n="4"/>&amp; dipsades. Dipsas, dis, est genus serpentis, &amp; dicitur Latinem situla per contra 
+          <lb ed="#B1" n="5"/>rium: quia perimit homines siti. Vas uero situla vocatur proprie, quod aufert 
+          <lb ed="#B1" n="6"/>sitim, &amp; istae situlae sunt adeo prauae, ut cum calcantur uix uideantur, quarum uene 
+          <lb ed="#B1" n="7"/>num ante extinguit quam sentiatur: nec tristiciam sentit moriturus secundum 
+          <lb ed="#B1" n="8"/>Magistrum in historia super 8 cap. Deutero. Et figurant moraliter istae situlae 
+          <lb ed="#B1" n="9"/>daemones, qui bonos uiros foedis cogitationibus agitant &amp; infestant. Istae etiam 
+          <lb ed="#B1" n="10"/>sunt ita paruae, quo uix uidentur, &amp; ex nimia occasione surgunt &amp; intoxicant sine 
+          <lb ed="#B1" n="11"/>molestia, imo cum delectatione perimunt, quando sunt per delectationem morosae
+        </p>
+        <p xml:id="rhwis-l177-d1e204">
+          <lb ed="#B1" n="12"/>Circa illam clausulam: oportebit enim illis sine excusatione superuenire interi 
+          <lb ed="#B1" n="13"/>tum: Notandum, quod tria sunt quae inexcusabiles reddunt omnes peccatores. 
+          <lb ed="#B1" n="14"/>&amp; poena dignos ostendunt, uidelicet magnitudo scientiae in peccante, similitu 
+          <lb ed="#B1" n="15"/>do culpae in iudicante, &amp; ineptitudo causae in allegante. Primo reddit hominem 
+          <lb ed="#B1" n="16"/>inexcusabilem magnitudo scientiae in peccante. Quanto enim aliquis maiorem 
+          <lb ed="#B1" n="17"/>&amp; clariorem noticiam habet de DEO, tanto magis peccat caeteris paribus. 
+          <lb ed="#B1" n="18"/>Et ideo de Philosophis dicit Apostolus ad Rom. 1. <quote xml:id="rhwis-l177-Qd1e221" source="http://scta.info/resource/rom1_20">Quod inuisibilia DEI eis  
+            <lb ed="#B1" n="19"/>per creaturas innotuerunt</quote>, &amp; tamen <quote xml:id="rhwis-l177-Qd1e226" source="http://scta.info/resource/rom1_21">euanuerunt in cogitationibus suis, &amp; ob  
+              <lb ed="#B1" n="20"/>scuratum est insipiens cor eorum</quote>, intantum ut idola coluerunt: nec super hoc 
+          <lb ed="#B1" n="21"/>in aliquo excusantur, quasi de DEO nullam noticiam habuissent: quia inuisibi  
+          <lb ed="#B1" n="22"/>lia DEI, per ea quae facta sunt, intellecta conspiciuntur, sempiterna quoqe uir 
+          <lb ed="#B1" n="23"/>tus eius &amp; diuinitas, ita ut sint inexcusabiles. Simile dicit Saluator de ludaeis  
+          <lb ed="#B1" n="24"/>Ioh. 15. <quote xml:id="rhwis-l177-Qd1e240" source="http://scta.info/resource/io15_22">Si non uenissem, &amp; locutus eis fuissem, peccatum non haberent: nunc 
+            <lb ed="#B1" n="25"/>autem de peccato suo non habent excusationem</quote>.
+        </p>
+        <p xml:id="rhwis-l177-d1e246">
+          <lb ed="#B1" n="26"/>Secundo reddit hominem inexcusabilem similitudo culpae in iudicante: 
+          <lb ed="#B1" n="27"/>quando aliquis iudex deprehenditur in crimine, pro quo solet alios punire,  
+          <lb ed="#B1" n="28"/>nullam potest excusationem praetendere. Exemplum de falsis iudicibus, qui  
+          <lb ed="#B1" n="29"/>uolebant condemnare Susannam, Daniel. 13. Et ideo signanter dicit Aposto 
+          <lb ed="#B1" n="30"/>lus Rom. 2. <quote xml:id="rhwis-l177-Qd1e259" source="http://scta.info/resource/rom2_1">Inexcusabilis es o homo omnis qui iudicas: in quo enim alterum  
+            <lb ed="#B1" n="31"/>iudicas, teipsum condemnas</quote>.
+        </p>
+        <p xml:id="rhwis-l177-d1e265">
+          <lb ed="#B1" n="32"/>Tertio reddit hominem inexcusabilem ineptitudo causae in allegante: quan  
+          <lb ed="#B1" n="33"/>do enim causa quae allegatur manifeste nulla est, uel conficta per mendacium, 
+          <lb ed="#B1" n="34"/>non est excusatio, sed aggrauatio ad praecedens delictum. Exemplum de in 
+          <lb ed="#B1" n="35"/>uitatis ad coenam, Lucae 14. qui falsas &amp; fictas excusationes fecerunt &amp; as  
+          <lb ed="#B1" n="36"/>signauerunt, a coena fuerunt reprobati, &amp; alij loco eorum uocati: &amp; ideo 
+          <lb ed="#B1" n="37"/>contra tales excusationes maliciosas petit Psalm. Non declines cor meum in 
+          <lb ed="#B1" n="38"/>uerba maliciae, ad excusandas excusationes in peccatis. Excusant tamen se 
+          <lb ed="#B1" n="39"/>quadrupliciter homines de peccatis suis. Quidam per lasciuam societatem. 
+          <lb ed="#B1" n="40"/>quidam per diuinam uoluntatem, quidam per carnalem fragilitatem, quidam  
+          <lb ed="#B1" n="41"/>per finalem utilitatem. Primo dicunt comuniter quando deprehenduntur pec 
+          <lb ed="#B1" n="42"/>casse, mala societas compulit me ad hoc malum. Quae quidem excusatio fa 
+          <lb ed="#B1" n="43"/>tuissima putaretur apud iudicem secularem, cum concedat facinus, &amp; alios coaccu 
+          <lb ed="#B1" n="44"/>set: sed multo magis apud DEVM non ualet, qui nouvit mali arbitrij libertatem. Vn 
+          <lb ed="#B1" n="45"/>de Seneca in Proverbijs: Omitte excusatione, nemo peccatinuitus: &amp; est excu 
+          <lb ed="#B1" n="46"/>satio multorum allegatio sociorum, sicut dicunt multi. Quare non licet mihi: sic enim 
+          <lb ed="#B1" n="47"/>facit talis &amp; talis. Sed ista societas non excusat peccantem secundum Hierony  
+          <lb ed="#B1" n="48"/>mum in quadam epistola: Multitudo sociorum impunibile non facit crimen
+        </p>
+        <p xml:id="rhwis-l177-d1e305">
+          <lb ed="#B1" n="49"/>Secundo quidam se excusant per diuinam uoluntatem: quorum aliqui di 
+          <lb ed="#B1" n="50"/>cunt DEVM eos sciuisse peccaturos, &amp; uelle eos tales esse, nec eis etiam impu 
+          <lb ed="#B1" n="51"/>tandum, sed dispositioni diuinae, &amp; corporibus coelestibus, &amp; constellationi. Et  
+          <lb ed="#B1" n="52"/>tales DEVM blasphemant, quasi sit autor malorum, &amp; uindex factorum quae homines 
+          <lb ed="#B1" n="53"/>cauere non possunt. Isti aliquo modo figurant per Iacob uolentem decipere patrem 
+          <!--sap_Page_618.xml-->
+          <pb ed="#B1" n="584"/>
+          <lb ed="#B1" n="1"/>suum, cum pater quaereret, quomodo tam cito inuenire potuisset, unde sibi ci 
+          <lb ed="#B1" n="2"/>bum optatum pararet. Respondit: Voluntas DEI fuit, ut mihi cito occurreret,  
+          <lb ed="#B1" n="3"/>quod uolebam, Gen. 27. Isto modo sunt nonnulli mundi sapientes iuris ciui  
+          <lb ed="#B1" n="4"/>lis periti, quidquid faciunt, colorare legibus &amp; munire rationibus sciunt, om 
+          <lb ed="#B1" n="5"/>nino ut nihil faciant sceleris, quod non sit iuribus excusatum, si homo credere 
+          <lb ed="#B1" n="6"/>uelit eis. Tales assimilantur Dionysio tyranno, de quo narrat Valerius lib. 1. 
+          <lb ed="#B1" n="7"/>cap. 2. Iste ingressus templa deorum, detracto loui Olympio magni ponderis  
+          <lb ed="#B1" n="8"/>aureo amictu, pannum laneum ei circundedit: &amp; admirantibus illis qui ade 
+          <lb ed="#B1" n="9"/>rant, quod sic sine timore sanctos suos spoliare praesumpsit: Respondit, quod  
+          <lb ed="#B1" n="10"/>illud ad DEI sui commodum fecisset. Nam aureum amictum graue foret pro 
+          <lb ed="#B1" n="11"/>aestate, &amp; frigidum pro hyeme, laneum quoqe pro utroque tempore fuit aptum, 
+          <lb ed="#B1" n="12"/>Iterum Aesculapio qui fuit barba aurea redimitus, demi iussit barbam, &amp; au 
+          <lb ed="#B1" n="13"/>ferri. Cuius causam assignauit, quod Apollo pater suus imberbis esset, &amp; non 
+          <lb ed="#B1" n="14"/>decebat, patre carente barba, filium apparere barbatum. Iterum uittas aureas. 
+          <lb ed="#B1" n="15"/>&amp; pateras, &amp; coronas quae simulachra porrectis manibus sustinebant tolle 
+          <lb ed="#B1" n="16"/>bat, &amp; se eas accipere, non auferre dicebat: stultum esse confirmans a quibus 
+          <lb ed="#B1" n="17"/>bona precamur, ab his porrigentibus nolle sumere. Isto modo prudentes se 
+          <lb ed="#B1" n="18"/>culi quantumcunque flagitose se habeant, contra iura DEVM, &amp; Ecclesiam  
+          <lb ed="#B1" n="19"/>semper coloratis rationibus se excusant.
+        </p>
+        <p xml:id="rhwis-l177-d1e364">
+          <lb ed="#B1" n="20"/>Tertio quidam se excusant per carnalem fragilitatem, &amp; dicunt plane blas  
+          <lb ed="#B1" n="21"/>phemantes DEVM se non posse a libidinibus abstinere propter complexio  
+          <lb ed="#B1" n="22"/>nem talem. Contra quos arguit Hieronymus in explanatione fidei, &amp; allegat  
+          <lb ed="#B1" n="23"/>eum Magister senten. 2. di. 36. Execramus (inquit) nos blasphemiam eorum, 
+          <lb ed="#B1" n="24"/>qui dicunt impossibile aliquid homini a DEO praeceptum esse, &amp; mandata 
+          <lb ed="#B1" n="25"/>DEI non a singulis, sed ab omnibus in communi posse seruari.
+        </p>
+        <p xml:id="rhwis-l177-d1e380">
+          <lb ed="#B1" n="26"/>Quarto quidam excusant se per finalem utilitatem: &amp; tales inueniuntur nonnul  
+          <lb ed="#B1" n="27"/>li praedones, raptores, &amp; iniusti exquisitores, qui auferunt a diuitibus bona sua 
+          <lb ed="#B1" n="28"/>sine conscientia, colligunt &amp; recondunt, &amp; eleemosynas causam finalem prae 
+          <lb ed="#B1" n="29"/>tendunt. Isto modo diuersi diuersas excusationes inueniunt, &amp; cum peccato  
+          <lb ed="#B1" n="30"/>res existant, se tamen contra DEVM de peccatis defendunt. Vnde Greg. 21 
+          <lb ed="#B1" n="31"/>Mora. Vsitatum generi humani uitium est libido, peccatum comittere, &amp; com 
+          <lb ed="#B1" n="32"/>missum negando abscondere, &amp; coniunctim defendendo excusare. Sicut aut  
+          <lb ed="#B1" n="33"/>impium est, peccata, quae comisimus nos, pertinaciter excusare: ita uirtuosum est 
+          <lb ed="#B1" n="34"/>ualde, proximum non faciliter iudicare, sed compatiendo aliqualiter excusare,  
+          <lb ed="#B1" n="35"/>considerantes comunis fragilitatis conditionem, sincerae familiaritatis commu 
+          <lb ed="#B1" n="36"/>nionem, &amp; uerae pietatis exercitationem. Prima enim comunis fragilitas, qua fre 
+          <lb ed="#B1" n="37"/>quenter omnes erramus, debet nos mouere ad aliqualiter excusandum, non ta 
+          <lb ed="#B1" n="38"/>men pertinaciter defendendum errores faciles aliorum. Vnde Bern. super Canti  
+          <lb ed="#B1" n="39"/>ca sermo. 41. Noli iudicare proximum, sed magis excusa intentionem, si opus 
+          <lb ed="#B1" n="40"/>non potes: puta ignorantiam, puta surreptionem, puta casum, quod si omnes 
+          <lb ed="#B1" n="41"/>omnino dissimulationem rei certitudo recusat, suade nihilominus tibi, &amp; di 
+          <lb ed="#B1" n="42"/>cito apud temetipsum, uehemens tentatio fuit. Quid de me illa fecisset, si illa 
+          <lb ed="#B1" n="43"/>accepisset in me similiter potestatem. Secundo movere nos debet ad idem  
+          <lb ed="#B1" n="44"/>sincerae familiaritatis communio, ut saltem de amicis faciliter mala non cre 
+          <lb ed="#B1" n="45"/>damus, nec etiam de proximis, nec de praelatis, uel aetate prouectis. Vnde Hie 
+          <lb ed="#B1" n="46"/>ronymus in epistola ad Rusticum: Non est facile malum de prouecta aetate cre 
+          <lb ed="#B1" n="47"/>dendum, quam uita praeterita defendit, &amp; honorat uocabulum dignitatis. De 
+          <lb ed="#B1" n="48"/>amico etiam suo Zenocrate, cum quidam Platoni dixisset, quod dixerat de eo 
+          <lb ed="#B1" n="49"/>malum: respondit non esse sibi credibile, quod ille quem tantum amabat, eum non di 
+          <lb ed="#B1" n="50"/>ligeret. Cunque narrans dictum suum se probaturum assereret: Respondit Plato nun 
+          <lb ed="#B1" n="51"/>quam Zenocratem talia dixisse, nisi expedire iudicasset. Tertio mouere nos de 
+          <lb ed="#B1" n="52"/>bet ad idem, uerae pietatis exercitatio. Pium est enim alienos defectus sine lae 
+          <lb ed="#B1" n="53"/>sione iusticiae, quantum fieri potest excusare, &amp; famam proximorum quan 
+          <!--sap_Page_619.xml-->
+          <pb ed="#B1" n="585"/>
+          <lb ed="#B1" n="1"/>tum possibile est, illaesam seruare. Vnde Origenes super Leuit. 33. cap. Non 
+          <lb ed="#B1" n="2"/>uult te Dominus, si forte uideris peccatum fratris, continuo euolare ad publi  
+          <lb ed="#B1" n="3"/>cum, &amp; proclamare passim &amp; diuulgare peccata aliena: quod esset utique non 
+          <lb ed="#B1" n="4"/>corrigentis, sed infamantis. Vnde Apostoli: Simon &amp; Iudas Thaddaeus: Nos 
+          <lb ed="#B1" n="5"/>innocentes absoluere oportet, nocentes uero prodere non decet
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 213 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 213 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="698"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l213">
+        <p xml:id="rhwis-l213-d1e95">
+          <!--sap_Page_732.xml-->
+          <pb ed="#B1" n="698"/>
+          <lb ed="#B1" n="1"/>Os iusti meditabitur sapientiam, Psal. 36. Omnis sapientia siue huma 
+          <lb ed="#B1" n="2"/>nitus adinuenta, siue diuinitus inspirata, tam in doctore quam in 
+          <lb ed="#B1" n="3"/>auditore, habilitatem requirit idoneam iuxta ipsius scientiae qua 
+          <lb ed="#B1" n="4"/>litatem. Nullus enim quantumcunque doctus naturali ingenio, nisi 
+          <lb ed="#B1" n="5"/>habilitetur, proficiet ad quamcunque facultatem. Hinc est quod  
+          <lb ed="#B1" n="6"/>pueri ad mathematicam &amp; ad logicam, adolescentes ad physicam, senes uel 
+          <lb ed="#B1" n="7"/>iam prouecti ad ethicam aptiores credunt. Et hoc est quod dicit Aristot. 1. E 
+          <lb ed="#B1" n="8"/>thic. cap. 3 ubi docet: Quod iuuenis non est proprius auditor Politicae, &amp;6 
+          <lb ed="#B1" n="9"/>Ethic. ca. 6. dicit quod aliquis potest esse mathematicus, dum est puer, &amp; nul  
+          <lb ed="#B1" n="10"/>lus potest esse philosophus, uel sapiens, dum est puer. Quanto igitur facultas 
+          <lb ed="#B1" n="11"/>aliqua dignior est &amp; nobilior, tanto ad ipsius adquirendam noticiam since 
+          <lb ed="#B1" n="12"/>rior praeexigit aptitudo, &amp; habilior dispositio in studente: &amp; ideo cum Sacra scri 
+          <lb ed="#B1" n="13"/>ptura, quae singulariter sapientia uocatur, omnem transcendit scientiam secularem, 
+          <lb ed="#B1" n="14"/>utpote cuius materia nobilior, cuius forma facilior, cuius finis utilior, cuius 
+          <lb ed="#B1" n="15"/>efficiens sublimior inuenitur: Necesse est ergo uolentem in Sacra scriptura stu 
+          <lb ed="#B1" n="16"/>dere, dispositiones conuenientes habere: Non enim ad hoc sufficiunt gram 
+          <lb ed="#B1" n="17"/>maticorum rudimenta, rhetoricorum ornamenta, dialecticorum documen 
+          <lb ed="#B1" n="18"/>ta, nec medicorum experimenta: Plus namque ad Sacram scripturam intelligen 
+          <lb ed="#B1" n="19"/>da prodesse poterit deuota deprecatio, quam profunda perscrutatio, plus com  
+          <lb ed="#B1" n="20"/>fert immaculata conuersatio, quam intricata disputatio, magis etiam ualet di 
+          <lb ed="#B1" n="21"/>uinae bonitatis contemplatio, quam mundanae curiositatis occupatio: &amp; mul  
+          <lb ed="#B1" n="22"/>to plus ualet mentalis suauitatis degustatio, quam sermotionalis indagatio  
+          <lb ed="#B1" n="23"/>Huius ergo tam sacratissimae facultatis solus ille auditor reperitur idoneus, 
+          <lb ed="#B1" n="24"/>qui fuerit moraliter uirtuosus. Et quia iusticia generalis ab Aristotele dicitur  
+          <lb ed="#B1" n="25"/>sapientia, 5. Ethic. cap. 1. Ideo sacratissimae theologiae auditori appropriatur  
+          <lb ed="#B1" n="26"/>nomen iusti.
+        </p>
+        <p xml:id="rhwis-l213-d1e158">
+          <lb ed="#B1" n="27"/>os iusti meditabitur sapientiam.] In quibus uerbis informatur deuotus Theo 
+          <lb ed="#B1" n="28"/>logus uel catholicus, quod Sacrae scripturae noticia per occasionem quadru 
+          <lb ed="#B1" n="29"/>plicem impetratur. Per officiosam supplicationem, per fructuosam conuersa 
+          <lb ed="#B1" n="30"/>tionem, per seriosam considerationem, per saporosam delectationem. Os signi 
+          <lb ed="#B1" n="31"/>ficat officiosam supplicationem: iustus fructuosam conuersationem: medita 
+          <lb ed="#B1" n="32"/>tio seriosam considerationem: &amp; sapientia saporosam delectationem. Os iusti 
+          <lb ed="#B1" n="33"/>meditabitur sapientiam. Prima ergo noticia Sacrae scripturae est a DEO attra 
+          <lb ed="#B1" n="34"/>henda per officiosam supplicationem: &amp; quantum ad hoc praemittitur, os, 
+          <lb ed="#B1" n="35"/>Psalm. Os meum aperui, &amp; attraxi spiritum: id est, de Scriptura sacra non lite 
+          <lb ed="#B1" n="36"/>ralem, sed spiritualem sensum: quia litera occidit, spiritus autem uiuificat, a 
+          <lb ed="#B1" n="37"/>Corinth. 3. Sicut illi pulli auium facilius reficiuntur a matre, qui in nido, ia 
+          <lb ed="#B1" n="38"/>centes capita altius leuant, &amp; os spaciosius dilatant: ita scholares deuoti, qui  
+          <lb ed="#B1" n="39"/>in nido Scripturae iacentes tanto a CHRISTO uberiori noticia recreantur,  
+          <lb ed="#B1" n="40"/>quanto per orationis instantiam DEVM deuotius deprecantur: ipso dicente 
+          <lb ed="#B1" n="41"/>in Psalm. Dilata os tuum &amp; implebo illud. Et Luc. 21. Ego dabo uobis os, &amp; 
+          <lb ed="#B1" n="42"/>sapientiam, cui non poterunt resistere, nec contradicere omnes aduersarij ue 
+          <lb ed="#B1" n="43"/>stri. Et hoc est quod dicit beatus Gregorius 1, moral ca. 27. Ea quae perscrutari 
+          <lb ed="#B1" n="44"/>in nobis nitimur, saepe melius orando, quam inuestigando penetramus. Hinc 
+          <lb ed="#B1" n="45"/>est, quod sicut scribit Hieronymus ad Demetriadem uirginem. Lectionem (in 
+          <lb ed="#B1" n="46"/>quit) frequenter interrumpat oratio, &amp; animam iugiter adhaerentem DEO, 
+          <lb ed="#B1" n="47"/>grata uicissitudo sanctae occupationis accendat. Sic sanctus August. in omni 
+          <lb ed="#B1" n="48"/>bus comuniter libris suis, cum perscrutatione &amp; studio deuotam orationem 
+          <!--sap_Page_733.xml-->
+          <pb ed="#B1" n="699"/>
+          <lb ed="#B1" n="1"/>admisit. Sic sanctus Tho. de Aquino, quotiens perplexis difficultatibus an 
+          <lb ed="#B1" n="2"/>gebatur, deuotioni legitur se dedisse. Et sic suam scientiam plus deuotionis  
+          <lb ed="#B1" n="3"/>subsidio, quam inuestigationis studio dicitur adquisisse. Sic Paulus se recom 
+          <lb ed="#B1" n="4"/>mendat Ephesijs, ad Ephes. 6. Orantes sitis omni tempore in spiritu, ut detur  
+          <lb ed="#B1" n="5"/>mihi sermo in apertione oris mei, cum fiducia notum facere mysterium E 
+          <lb ed="#B1" n="6"/>uan gelij.
+        </p>
+        <p xml:id="rhwis-l213-d1e226">
+          <lb ed="#B1" n="7"/>Os ergo deuoti Theologi ad hoc quod digne Scripturae sacrae difficultatem  
+          <lb ed="#B1" n="8"/>attrahat, quadrupliciter se disponat. Separetur a luto lubricae uilitatis, expun 
+          <lb ed="#B1" n="9"/>getur calculo coelicae sanctitatis, cibetur libro solidae ueritatis, &amp; armetur gla 
+          <lb ed="#B1" n="10"/>dio seueritatis. Primo ergo os deuoti Theologi separari debet a luto lubricae 
+          <lb ed="#B1" n="11"/>uilitatis, Hierem. 15. cap. Si separaueris preciosum a uili, quasi os meum eris. 
+          <lb ed="#B1" n="12"/>Preciosum a uili: id est, animam preciosam a carnalibus desiderijs, uilibus, &amp; 
+          <lb ed="#B1" n="13"/>lutosis, Sap. 15. Luto uilior uita illius. Secundo debet expurgari calculo coe  
+          <lb ed="#B1" n="14"/>licae sanctitatis. Iuxta illud Esa. 6. Volauit unus ad me de Seraphin, &amp; in ma 
+          <lb ed="#B1" n="15"/>nu eius calculus, quem forcipe tulerat de altari, &amp; tetigit os meum &amp; dixit:  
+          <lb ed="#B1" n="16"/>Ecce tetigi hoc labia tua, &amp; auferetur iniquitas tua, &amp; peccatum tuum mun 
+          <lb ed="#B1" n="17"/>dabitur. Moraliter: altare est Sacra scriptura, calculus difficilis sensus eius, for 
+          <lb ed="#B1" n="18"/>ceps subtilis eiusdem facultatis extractio. Ad literam, angelici spiritus deuo 
+          <lb ed="#B1" n="19"/>te studentes illuminant, &amp; expurgant ne in Scripturis aberrent. Tertio os de 
+          <lb ed="#B1" n="20"/>uoti Theologi cibari debet libro solidae ueritatis: de quo Apocal. 10. Accepi 
+          <lb ed="#B1" n="21"/>librum de manuangeli, &amp; deuoraui illum, &amp; erat in ore meo tanquam mel dul  
+          <lb ed="#B1" n="22"/>ce. Iste liber est Scriptura sacra, quae non debet dentibus conteri, sed potius 
+          <lb ed="#B1" n="23"/>deuorari: quia credi debet per fidem integraliter &amp; summatim, &amp; non per ra 
+          <lb ed="#B1" n="24"/>tionem discuti minutatim: &amp; sic sit tanquam mel, imo plus quam mel dulce 
+          <lb ed="#B1" n="25"/>Iuxta illud Psal. Quam dulcia faucibus meis eloquia tua, super mel ori meo 
+          <lb ed="#B1" n="26"/>Quarto debet os Theologi armari gladio rigide seueritatis, ad destruendum 
+          <lb ed="#B1" n="27"/>haereses &amp; errores, uitia &amp; malos mores, Esa. 49. Posuit os meum, ut gladium 
+          <lb ed="#B1" n="28"/>acutum, ut illi assimiletur, de quo Apoc. 19. Vidi coelum apertum, &amp; ecce e 
+          <lb ed="#B1" n="29"/>quus albus, &amp; qui sedebat super illum, uocabatur fidelis, &amp; uerax, &amp; ex ore e 
+          <lb ed="#B1" n="30"/>ius procedebat gladius acutus, ut in ipso percutiat omnes gentes. Et Apoc. 2: 
+          <lb ed="#B1" n="31"/>Pugnabo cum illis in gladio oris mei. Sed dolendum est theologis his die 
+          <lb ed="#B1" n="32"/>bus, quorum os locutum est uanitatem, &amp; dextera eorum dextera iniquitatis  
+          <lb ed="#B1" n="33"/>in Psalm. In quorum quibusdam inuenitur os dissolutionis, &amp; in nonnullis  
+          <lb ed="#B1" n="34"/>os detractionis, in plerisque os ambitionis, in multis os adulationis. Os dissolu 
+          <lb ed="#B1" n="35"/>tionis habent illi, quorum omnis sermo turpiloquio &amp; scurrilitatibus admi 
+          <lb ed="#B1" n="36"/>scetur. Contra quos Coloss. 3. Deponite turpem sermonem de ore uestro. Et  
+          <lb ed="#B1" n="37"/>ad Eph. 4. Omnis sermo malus de ore uestro non procedat. Os detractionis  
+          <lb ed="#B1" n="38"/>habent illi, qui non cessant detrahere paupertati, quam CHRISTVS docuit:  
+          <lb ed="#B1" n="39"/>castitatem derident, quam CHRISTVS consuluit: pauperes paruipendunt,  
+          <lb ed="#B1" n="40"/>quos CHRISTVS elegit. Hi sunt Pseudoprophetae. De quorum ore nihil 
+          <lb ed="#B1" n="41"/>aliud nisi ranae uanae garrulitatis procedunt, Apoc. 6. Os ambitionis habent  
+          <lb ed="#B1" n="42"/>illi, qui Sacrae scripturae noticiam ad humanos honores ordinant, &amp; Ecclesia 
+          <lb ed="#B1" n="43"/>sticas dignitates ad officia, praebendas, &amp; gradus in Ecclesia consequendos. 
+          <lb ed="#B1" n="44"/>Isti pro se allegant, quod ter dictum est Petro: Pasce oues meas, Ioh. 21. Et qui  
+          <lb ed="#B1" n="45"/>Episcopatum desiderat, bonum opus desiderat, 1. Timoth. 3. Hi sunt uiles hy 
+          <lb ed="#B1" n="46"/>pocritae, cum sola terrena desiderant, de coelestibus uero non curant. Iuxta il  
+          <lb ed="#B1" n="47"/>lud Psalm. 71. Posuerunt in coelum os suum, &amp; lingua eorum transiuit in ter 
+          <lb ed="#B1" n="48"/>ra. Lingua: id est, linguae intentio corrupta. Os adulationis habent illi, qui sta 
+          <lb ed="#B1" n="49"/>tum praelaciae tenentes, &amp; in suis subditis scandalosa uidentes, cantant semper 
+          <lb ed="#B1" n="50"/>placebo, sed dirige, nunquam cantant.
+        </p>
+        <p xml:id="rhwis-l213-d1e324">
+          <lb ed="#B1" n="51"/>De quibus verificatur illud Psal. 40. Haec uia illorum scandalum ipsis. Et  
+          <lb ed="#B1" n="52"/>postea in ore suo complacebunt. Secundo principaliter Sacra scriptura est a 
+          <lb ed="#B1" n="53"/>Theologo exercenda per fructuosam conuersationem, ut sit non solum doctus 
+          <!--sap_Page_734.xml-->
+          <pb ed="#B1" n="700"/>
+          <lb ed="#B1" n="1"/>in scientiai sed iustus in uita. Os (inquam) iusti. <quote xml:id="rhwis-l213-Qd1e339" source="http://scta.info/resource/rom2_13">Non enim auditores legis iusti 
+          <lb ed="#B1" n="2"/>sunt apud DEVM, sed factores legis iustificabuntur</quote>, Rom. 2. Distinguit enim 
+          <lb ed="#B1" n="3"/>Aristot. 5. Ethic. iustitiam quadruplicem, scilicet distributiuam, commutati  
+          <lb ed="#B1" n="4"/>uam, dominatiuam, &amp; paternam. Primo ergo deuotus moralis debet habere 
+          <lb ed="#B1" n="5"/>iustitiam distributiuam, ut quod sine fictione didicit sine inuidia, communi 
+          <lb ed="#B1" n="6"/>cet alios liberaliter instruendo. Proverb. 10. Labia iusti erudiunt plurimos.  
+          <lb ed="#B1" n="7"/>Iustitiam commutatiuam debet habere, ut nequaquam pro doctrinae merito, 
+          <lb ed="#B1" n="8"/>famam humanam intendat pro praemio Matth. 5. <quote xml:id="rhwis-l213-Qd1e357" source="http://scta.info/resource/mt6_1">Attendite ne iustitiam ue 
+            <lb ed="#B1" n="9"/>stram faciatis coram hominibus</quote>, scilicet propter temporale lucrum, sed perpe 
+          <lb ed="#B1" n="10"/>tuum. Dan. 12. Qui ad iustitiam erudiunt multos, quasi stellae in perpetuas 
+          <lb ed="#B1" n="11"/>aeternitates fulgebunt. Habeat &amp; tertio iustitiam dominatiuam, instinctus be 
+          <lb ed="#B1" n="12"/>stiales carnis compescendo legibus rationis. Et hoc est quod docet Plato in 
+          <lb ed="#B1" n="13"/>Phoedone ante medium. In hoc (inquit) manifestus est philosophus, si absol  
+          <lb ed="#B1" n="14"/>uat animam a corporis comunione, differentius alijs hominibus. Et cito post: 
+          <lb ed="#B1" n="15"/>Anima philosophi inhonorat corpus, &amp; fugit ab eo, quaeritque ipsa secundum 
+          <lb ed="#B1" n="16"/>seipsam fieri. Isti concordat commentator Auerrois in prologo 6. Physico. 
+          <lb ed="#B1" n="17"/>ubi loquens de inclinationibus carnis, &amp; corporis passionibus, dicit sic: Stu 
+          <lb ed="#B1" n="18"/>dentes (inquit) cum sciuerint uilitatem earum, expellant eas a se, &amp; odiant eas 
+          <lb ed="#B1" n="19"/>maximo odio: &amp; sic erunt casti, retinentes leges diuinas, &amp; obedientes legibus 
+          <lb ed="#B1" n="20"/>naturalibus. Haec commentator Psal. Damnabuntur eorum iusti in matuti  
+          <lb ed="#B1" n="21"/>no. Habeat quarto iustitiam paternam: humanitatem patris errantibus exhi 
+          <lb ed="#B1" n="22"/>bendo. Sap. 12. Docuisti populum tuum per talia: quoniam oportet iustum 
+          <lb ed="#B1" n="23"/>&amp; humanum esse. Tertio principaliter Sacra scriptura est a Theologo prospi 
+          <lb ed="#B1" n="24"/>cienda per seriosam considerationem, quod notatur cum infertur: Meditabi  
+          <lb ed="#B1" n="25"/>tur. In Psalm. In lege Domini voluntas eius &amp; in lege eius meditabitur die ac 
+          <lb ed="#B1" n="26"/>nocte. Ista meditatio temperat corporis uoluptatem, mitigat mundi tempe 
+          <lb ed="#B1" n="27"/>statem, praedicat DEI pietatem, excitat hominis charitatem. Primo dico quod  
+          <lb ed="#B1" n="28"/>haec meditatio temperat corporis uoluptatem, Eccles. 12. Frequens medita 
+          <lb ed="#B1" n="29"/>tio carnis afflictio est. Et Hieronymus: Ama scientiam Scripturarum, &amp; carnis  
+          <lb ed="#B1" n="30"/>uitia non amabis. Secundo haec meditatio mundi mitigat tempestatem. Vn 
+          <lb ed="#B1" n="31"/>de Hieronymus super Epistolam ad Ephesios: Si aliquid est, quod in hac uita 
+          <lb ed="#B1" n="32"/>uirum sapientem teneat, &amp; inter pressuras &amp; tentationes mundi aequo animo 
+          <lb ed="#B1" n="33"/>permanere suadeat, illud primum esse reor, meditationem &amp; scientiam Scri 
+          <lb ed="#B1" n="34"/>pturarum. Tertio haec meditatio praedicat DEI pietatem. In Psal. In matutinis  
+          <lb ed="#B1" n="35"/>meditabor in te: quia fuisti adiutor meus. Quarto ista meditatio excitat ho 
+          <lb ed="#B1" n="36"/>minis charitatem. In Psal. In meditatione mea exardescet ignis. Ista meditatio 
+          <lb ed="#B1" n="37"/>Sacrae scripturae non debet esse transitoria, sicut de dialectica dixerunt quidam  
+          <lb ed="#B1" n="38"/>antiqui, quod est a limine salutanda: Sed debet esse morosa, &amp; diuturna, &amp; 
+          <lb ed="#B1" n="39"/>continua. Et eo feruentior, quo homo senior inuenitur, Eccles. 14. Beatus uir  
+          <lb ed="#B1" n="40"/>qui in sapientia morabitur, &amp; qui iustitiam meditabitur. Vnde Hiero. ad De 
+          <lb ed="#B1" n="41"/>metriadem uirginem Sacrarum scripturarum ardor nulla prorsus aetate extin 
+          <lb ed="#B1" n="42"/>guitur: imo ut secularis auctoris utar sententia, potius aetate inflammatur: Et  
+          <lb ed="#B1" n="43"/>Gregor. 20. Moral cap. 1. Scriptura sacra paruulis humili sermone blanditur:  
+          <lb ed="#B1" n="44"/>quae nec sic clausa est, ut pauesci debeat, nec sic patet, ut uilescat: sed usu fasti  
+          <lb ed="#B1" n="45"/>dium tollit, &amp; tanto diligitur, quanto plus meditatur. Quarto principaliter 
+          <lb ed="#B1" n="46"/>Scriptura sacra est recolligenda cum saporosa delectatione. Et ideo merito uo 
+          <lb ed="#B1" n="47"/>catur sapientia quasi sapida scientia, de qua loquens Hugo de sancto Victore 
+          <lb ed="#B1" n="48"/>libro suo primo de Anima, dicit sic: Nihil in hac uita dulcius sentitur, &amp; nihil 
+          <lb ed="#B1" n="49"/>auidius sumitur: Nihil ita mentem ab amore mundi separat, nihil sic animum 
+          <lb ed="#B1" n="50"/>contra tentationes roborat, nihil ita hominem excitat, &amp; adiuuat ad omne bo 
+          <lb ed="#B1" n="51"/>num, sicut studium Sacrae scripturae. Et in eodem uolumine lib. 3. dicit: In re 
+          <lb ed="#B1" n="52"/>fectorio Sacrae scripturae tres mensae: id est, tres intellectus ponuntur: historia 
+          <lb ed="#B1" n="53"/>lis, mysticus, &amp; moralis: prima mensa simplicibus: secunda doctoribus: tertia 
+          <!--sap_Page_735.xml-->
+          <pb ed="#B1" n="701"/>
+          <lb ed="#B1" n="1"/>communis est utrisque. In prima est cibus grossior: In secunda subtilior: In ter 
+          <lb ed="#B1" n="2"/>tia dulcior. Prima continet saporem exemplorum: Secunda uim gestorum: 
+          <lb ed="#B1" n="3"/>Tertia dulcedinem morum. Et infra: In hac scriptura quidquid docetur, ueri 
+          <lb ed="#B1" n="4"/>tas: quidquid praecipitur, bonitas: quidquid pmittitur, felicitas. Nam DEVS 
+          <lb ed="#B1" n="5"/>ueritas est sine fallacia, bonitas sine malitia, felicitas sine miseria. Haec Hugo.  
+          <lb ed="#B1" n="6"/>Est ergo ista scientia inobfuscabilis in decore, inseparabilis in uigore, inappre 
+          <lb ed="#B1" n="7"/>ciabilis in ualore, interminabilis in honore. Primo dico quod est inobfusca 
+          <lb ed="#B1" n="8"/>bilis in decore. Sapien. 6. Clara est, &amp; quae nunquam marcescet, sapientia: Se 
+          <lb ed="#B1" n="9"/>cundo insuperabilis in uigore. Sap. 5. Melior est sapientia quam uires. Et Sa 
+          <lb ed="#B1" n="10"/>pien. 10. Omnipotentior est sapientia: Tertio est inappreciabilis in ualore.  
+          <lb ed="#B1" n="11"/>Proverb. 8. Melior est sapientia cunctis opibus preciosissimis. Quarto  
+          <lb ed="#B1" n="12"/>interminabilis in honore: quia Sap. 6. Concupiscentia sapien 
+          <lb ed="#B1" n="13"/>tiae deducet ad regnum perpetuum. Ad quod nos 
+          <lb ed="#B1" n="14"/>perducat, qui sine fine uiuit, &amp; re 
+          <lb ed="#B1" n="15"/>gnat, Amen.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

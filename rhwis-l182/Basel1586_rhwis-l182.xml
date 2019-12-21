@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 182 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 182 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="597"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l182">
+        <p xml:id="rhwis-l182-d1e95">
+          <lb ed="#B1" n="6"/>DECLARATA miserabili flagellatione Aegyptiorum per ignem  
+          <lb ed="#B1" n="7"/>&amp; grandinem: In ista parte agit de mirabili uariatione ipsorum fla 
+          <lb ed="#B1" n="8"/>gellorum. Ignis autem non uniformiter, sed multum difformiter 
+          <lb ed="#B1" n="9"/>iuxta diuinam uoluntatem se habuit, in agendo malorum afflictio 
+          <lb ed="#B1" n="10"/>nem. Nam quodam tempore uidebatur suam naturam comburendi &amp; laeden  
+          <lb ed="#B1" n="11"/>di continere etiam a rebus, quae de facili combustibiles uidebantur, &amp; extite 
+          <lb ed="#B1" n="12"/>runt. Nam iumenta &amp; homines repertos in agro combussit: lumentis uero 
+          <lb ed="#B1" n="13"/>domi detentis pepercit, sicut dicitur Exod. 9. ut homines quibus ignis peper 
+          <lb ed="#B1" n="14"/>cit, possent uidere, quod illi iuste patiebantur, qui in agris remanserunt contra 
+          <lb ed="#B1" n="15"/>monitionem Domini cum animalibus. Alio uero tempore circa iustorum as 
+          <lb ed="#B1" n="16"/>flictionem ignis supra uirtutem suam exardebat in aqua: id est, in locis humi 
+          <lb ed="#B1" n="17"/>dis Sodomae &amp; Gomorrae, ubi humido non obstante, ignis omnia consum 
+          <lb ed="#B1" n="18"/>plit. Gene.19. Vt iniquam terrae nationem exterminaret. Sic ergo diuersis tem 
+          <lb ed="#B1" n="19"/>poribus diuersimode egit ignis, ut manifestum esset omnibus, quod non es  
+          <lb ed="#B1" n="20"/>set operatio naturae, sed uindicta diuinae iustitiae. Dicit ergo sic: Quodam vero 
+          <lb ed="#B1" n="21"/>tempore mansuetabatur ignis: id est, mansuetem uidebatur in parcendo, ne com 
+          <lb ed="#B1" n="22"/>burerentur, quae ad impios missa erant animalia, illa videlicet, quae de agris missa 
+          <lb ed="#B1" n="23"/>erant ad impios, domi existentes. Sed vt ipsi videntes: id est, percipientes, sci 
+          <lb ed="#B1" n="24"/>rent, quoniam DEI iudicio patiebantur per secutionem. Et quodam tempore. 
+          <lb ed="#B1" n="25"/>in subuersione uidelicet Sodomae, quando Dominus pluit ignem, &amp; sulphur  
+          <lb ed="#B1" n="26"/>de coelo in aqua super uirtutem ignis exarsit, &amp;c. ut expositum est. Posset ta 
+          <lb ed="#B1" n="27"/>men prima particula de mansuetudine ignis exponi, &amp; verificari multo eui  
+          <lb ed="#B1" n="28"/>dentius de tribus pueris missis in caminum ignis: Anania, Azxcaria, Mizcahele. 
+          <lb ed="#B1" n="29"/>Daniel. 3. Vbi ita mirabiliter se habuit, quod ipsos positos in fornace non lae 
+          <lb ed="#B1" n="30"/>sit: tamen illos qui circumstabant, &amp; qui eos in fornacem mittebant, confla 
+          <lb ed="#B1" n="31"/>grauit. Et uocantur isti pueri animalia ad impios missa, propter eorum simpli  
+          <lb ed="#B1" n="32"/>citatem &amp; captiuitatem, in qua tenebantur: &amp; haec facta sunt, ut Babyloni 
+          <lb ed="#B1" n="33"/>uidentes, scirent, quoniam ipsimet DEI iudicio patiebantur per secutionem, ao 
+          <lb ed="#B1" n="34"/>igne, propter idolatriam suam. Secunda uero pars lectionis exponi potest de 
+          <lb ed="#B1" n="35"/>plaga septima Aegyptiorum, uidelicet de igne mixto cum grandine, de qua su 
+          <lb ed="#B1" n="36"/>pra dictum est, uidelicet de subuersione Sodomorum: &amp; in hoc solum stat sen 
+          <lb ed="#B1" n="37"/>tentia, quod ignis uario modo se habuit: aliquando parcendo, aliquando 
+          <lb ed="#B1" n="38"/>agendo mirabiliter, &amp; contra naturam, ut DEI obediret uoluntati.
+        </p>
+        <p xml:id="rhwis-l182-d1e169">
+          <lb ed="#B1" n="39"/>Circa illam clausulam: In aqua supra naturam ignis exardebat. Notandum, quod  
+          <!--sap_Page_632.xml-->
+          <pb ed="#B1" n="598"/>
+          <lb ed="#B1" n="1"/>moraliter ignis in aqua est, Spiritus sanctus in muliere sancta. Ignis nanque spiri 
+          <lb ed="#B1" n="2"/>tus est, Actu. 1. Tanquam ignis sedit supra singulos eorum Spiritus sanctus. Mu 
+          <lb ed="#B1" n="3"/>lier naturaliter est sexus fragilis, &amp; ideo caeteris paribus amplius comendanda, 
+          <lb ed="#B1" n="4"/>quando uirtuose se gerit, Proverb. 31. Mulierem fortem quis inueniet, procul &amp;  
+          <lb ed="#B1" n="5"/>de ultimis finibus precium illius. Est enim inuenire in bona muliere iuxta nume 
+          <lb ed="#B1" n="6"/>rum senarium, qui perfectissimus est, sex praerogatiuas comendabiles &amp; ama 
+          <lb ed="#B1" n="7"/>biles: nam in ipsa reperiuntur sine dubio promptitudo clementiae, gratitudo be 
+          <lb ed="#B1" n="8"/>neuolentiae, sollicitudo diligentiae, magnitudo innocentiae, certitudo confiden 
+          <lb ed="#B1" n="9"/>tiae, &amp; beatitudo complacentiae. In cuius figura dixit Lea Gen.30. Mecum erit 
+          <lb ed="#B1" n="10"/>maritus meus, eo quod ego genuerim ei sex filios: hoc est, me diligit omnis ra 
+          <lb ed="#B1" n="11"/>tionalis creatura. Dicit sexus mulierum naturaliter, eo quod in me reperiet sex 
+          <lb ed="#B1" n="12"/>habitus uirtuosos praedictos, &amp; ideo merito nomine aquae poterit designari 
+          <lb ed="#B1" n="13"/>In aqua enim sex proprietates habentur. Est enim in aqua liquiditas saporosa, 
+          <lb ed="#B1" n="14"/>luciditas radiosa, foecunditas fructuosa, sinceritas speciosa, soliditas seriosa, &amp; 
+          <lb ed="#B1" n="15"/>felicitas ministeriosa. Primo ergo in aqua patet liquiditas saporosa: quia quan  
+          <lb ed="#B1" n="16"/>tumcunque fuerit congelata, faciliter liquescit: &amp; designat promptitudinem cle 
+          <lb ed="#B1" n="17"/>mentiae &amp; pietatis, quae inest naturaliter mulieri. Nam ipsa est consolatiuum pri 
+          <lb ed="#B1" n="18"/>mum humanae imbecillitatis, ipsa est nutrimentum humanae quantitatis, ipsa est 
+          <lb ed="#B1" n="19"/>medicamentum omnis infirmitatis, ipsa est supplementum cuiuscunque egestatis  
+          <lb ed="#B1" n="20"/>Eccles. 36. Vbi non est mulier, ingemiscit egens. In signum autem quod in mu 
+          <lb ed="#B1" n="21"/>liere est omnis clementia naturaliter, Filius DEI corpus humanae redemptionis 
+          <lb ed="#B1" n="22"/>totaliter a muliere decreuit accipere: quia Eccles. 10. Non est creata iracundia 
+          <lb ed="#B1" n="23"/>nationi mulierum. Iste igitur sexus in quo latet omnis mali remedium, conue 
+          <lb ed="#B1" n="24"/>nienter figuratur per aquam piscinae probaticae, per quam sanus fiebat, quicunque 
+          <lb ed="#B1" n="25"/>prius in eam descendebat, post motionem aquae, a quacunque detinebatur infir 
+          <lb ed="#B1" n="26"/>mitate, Iohan. 5. Secundo, in aqua est luciditas radiosa, Proverb. 27. In aquis  
+          <lb ed="#B1" n="27"/>resplendent uultus prospicientium. Sicut autem inter creaturas nihil est nobilius, 
+          <lb ed="#B1" n="28"/>nec amabilius ipsa luce: ita nihil reperitur gratiosius ipsa gratitudine in mulie 
+          <lb ed="#B1" n="29"/>re, &amp; ideo luciditas radiosa, quae in aquarum specie continetur, gratitudinem im 
+          <lb ed="#B1" n="30"/>mortalis affectionis &amp; beneuolentiae repraesentat, quae in bonis mulieribus sem  
+          <lb ed="#B1" n="31"/>per uiget. Quanquam enim CHRISTVS quosdam dum hic uiueret uiros gra 
+          <lb ed="#B1" n="32"/>tos inueniret, nunquam tamen tam constantem gratitudinem in Petro, &amp; Iaco  
+          <lb ed="#B1" n="33"/>bo, uel Iohanne repperit, quantam in mulieribus sibi deuotis inuenit: Hae sunt  
+          <lb ed="#B1" n="34"/>quae eum per patrias praedicantem sequebantur, ministrantes ei de facultatibus 
+          <lb ed="#B1" n="35"/>luis. Luc. 8. &amp; Mar. 15. Hae sunt quae eum in cruce pendentem, fugientibus disci 
+          <lb ed="#B1" n="36"/>pulis comitabantur. Mat. 28. Hae sunt quae mortuo corpori sepulto, unguenta 
+          <lb ed="#B1" n="37"/>aromatica parauerunt. Hae sunt, quae nec tenebrosae noctis caligine, nec militum 
+          <lb ed="#B1" n="38"/>armatorum furiosa saeuitia deterrebantur, ut CHRISTVS de eis dicatillud Boëtij:  
+          <lb ed="#B1" n="39"/>tas autem nullus potuit peruincere terror.  
+          <lb ed="#B1" n="40"/>Ne nostrum comites prosequerentur iter.
+        </p>
+        <p xml:id="rhwis-l182-d1e265">
+          <lb ed="#B1" n="41"/>Et ideo prae uiris omnibus CHRISTVS huic sexui primum suae resurrectionis  
+          <lb ed="#B1" n="42"/>nunciauit triumphum: sciens quoniam super omnem gratiam est gratia mulie 
+          <lb ed="#B1" n="43"/>ris, Eccles. 26. Gratia super gratiam in muliere sancta, &amp; pudorata. Istae sunt  
+          <lb ed="#B1" n="44"/>aquae, quae super coelos esse dicuntur: quia mulieres super Apostolos dilexerunt.  
+          <lb ed="#B1" n="45"/>In Psal. Aquae quae super coelos sunt laudent nomen Domini. Harum gratitudo  
+          <lb ed="#B1" n="46"/>non solum in fidelibus elucet mulieribus, sed etiam in gentilibus satis claret.  
+          <lb ed="#B1" n="47"/>Quae gratior esse poterit, &amp; magis pudica Penelope: quae Vlyssis absentiam  
+          <lb ed="#B1" n="48"/>20. annis expers cuiuslibet uirilis amoris alterius, expectauit: Quae quantis  
+          <lb ed="#B1" n="49"/>afflictionibus angebatur, explicat ipsa satis in epistola sua, dicens: 
+          <lb ed="#B1" n="50"/>Hanc tua penelopes lento tibi mittit Vlisti, 
+          <lb ed="#B1" n="51"/>Nil mihi rescribas, attamen ipse veni.
+        </p>
+        <p xml:id="rhwis-l182-d1e291">
+          <lb ed="#B1" n="52"/>Quae gratitudine flagrantior esse potuit Porcia filia Catonis &amp; uxore Bruti:  
+          <lb ed="#B1" n="53"/>quae uiro interfecto uiuere noluit, sed arma quibus interemit se, statim postu 
+          <!--sap_Page_633.xml-->
+          <pb ed="#B1" n="599"/>
+          <lb ed="#B1" n="1"/>lauit: famulis autem arma negantibus, prunas ardentes transglutiuit. De qua 
+          <lb ed="#B1" n="2"/>sic scribit Martial. epigram. lib. 4. 
+          <lb ed="#B1" n="3"/>Coniugis audisset fatum cum porcia Bruti,  
+          <lb ed="#B1" n="4"/>Et lubtracta sibi quaereret arma dolor: 
+          <lb ed="#B1" n="5"/>Nondum satis, ait, mortem non posse negari, 
+          <lb ed="#B1" n="6"/>Credideram satis hoc edocuisse patrem. 
+          <lb ed="#B1" n="7"/>Dixit, &amp; ardentes auido bibit ore fauilla 
+          <lb ed="#B1" n="8"/>Dum nunc &amp; ferum turba molest a negat.
+        </p>
+        <p xml:id="rhwis-l182-d1e320">
+          <lb ed="#B1" n="9"/>Quae gratior esse potuit Aria Paeti coniuge, qui simul se interfecerunt. Illa ta 
+          <lb ed="#B1" n="10"/>men prius semetipsam gladio mariti percussit. De qua idem Martialis Co 
+          <lb ed="#B1" n="11"/>cus lib. 2. scribit: 
+          <lb ed="#B1" n="12"/>Casta suum gladium cum traheret Aria Peto. 
+          <lb ed="#B1" n="13"/>Quem devisceribus traxerat ipsa suis.  
+          <lb ed="#B1" n="14"/>Si qua fides, vulnus, quod feci, non dolet, inquit.  
+          <lb ed="#B1" n="15"/>Sed quod tu facies, hoc mihi Pete dolet.
+        </p>
+        <p xml:id="rhwis-l182-d1e339">
+          <lb ed="#B1" n="16"/>Quae Didone gratior esse potuit: De qua Hieronymus contra louinianum lib. 
+          <lb ed="#B1" n="17"/>1. &amp; Virg. lib. 4. Aeneid. Dido soror Pygmaleonis, cum Carthaginem condi 
+          <lb ed="#B1" n="18"/>disset, &amp; ab Hyarba rege Libyae in coniugium peteretur, nuptias distulit cau 
+          <lb ed="#B1" n="19"/>telose, &amp; tandem condita ciuitate Pyram quandam in memoriam mariti sui con 
+          <lb ed="#B1" n="20"/>struxit, &amp; semetipsam proiecit in medio, &amp; ardere quam nubere maluit. Quid  
+          <lb ed="#B1" n="21"/>de Lucretia &amp; Sabinis, Iulia filia Caesaris: Sulpitia Lentuli, Alcmena, &amp; de alijs  
+          <lb ed="#B1" n="22"/>infinitis dici possit.
+        </p>
+        <p xml:id="rhwis-l182-d1e357">
+          <lb ed="#B1" n="23"/>Tertio, in aqua est foecunditas fructuosa. Sine enim humore aqueo nihil ui  
+          <lb ed="#B1" n="24"/>rescit, nihil crescit, uel florescit, uel frutescit, iuxta illud Psal. Erit tanquam lignum 
+          <lb ed="#B1" n="25"/>quod plantatum est, &amp;c. Haec autem aquae foecunditas designat tertiam mulie 
+          <lb ed="#B1" n="26"/>ris nobilitatem, quae est solicitudo diligentiae. Mulier enim in regendo familiam  
+          <lb ed="#B1" n="27"/>circuspecta, &amp; in operibus artificiosa sic se habet in domo, quod omnis domus 
+          <lb ed="#B1" n="28"/>est sine ordine, quae mulieris caret regimine. Et ideo uir &amp; mulier non solum cau 
+          <lb ed="#B1" n="29"/>sa prolis coniunguntur, sed etiam propter administrationem oeconomicam, quae 
+          <lb ed="#B1" n="30"/>sine muliere compleri non potest: sicut docet Aristoteles. In cuius signum dictum 
+          <lb ed="#B1" n="31"/>est Gen. 2. Faciamus ei adiutorium, simile sibi. De mulierum diligentia dicitur  
+          <lb ed="#B1" n="32"/>Proverb. 12. Mulier diligens corona est uiro suo. Et 14. eiusdem: Mulier sapiens 
+          <lb ed="#B1" n="33"/>aedificat domum suam. Et Eccles. 26. Gratia mulieris sedulae delectabit uirum  
+          <lb ed="#B1" n="34"/>suum. Quarto, sinceritas est in aqua speciosa. Aqua enim pura est, &amp; quaecunque  
+          <lb ed="#B1" n="35"/>foeda purificat &amp; emundat, quod designat magnitudinem innocentiae: quae inue 
+          <lb ed="#B1" n="36"/>nitur in bona muliere. Per aquam enim ad originalem innocentiam restituimur,  
+          <lb ed="#B1" n="37"/>per aquam a uenialibus emundamur. Ad Ephes. 5. Viri diligite uxores uestras. 
+          <lb ed="#B1" n="38"/>sicut CHRISTVS ecclesiam, mundans eam lauacro aquae. Quinta est in aqua so 
+          <lb ed="#B1" n="39"/>liditas seriosa. Nam iuxta Scripturam sacram terra quae est solidissima fundatur  
+          <lb ed="#B1" n="40"/>super aquas. In Psal. Domini est terra &amp; plenitudo eius, &amp;c. quia ipse super ma 
+          <lb ed="#B1" n="41"/>ria fundauit eam. &amp; alibi: Fundauit terram super aquas, &amp; designat certitudi  
+          <lb ed="#B1" n="42"/>nem confidentiae, quam homo potest habere de bona muliere, quae infirmum 
+          <lb ed="#B1" n="43"/>hominem non detestatur, pauperem non aspernatur, deliris &amp; senibus famu 
+          <lb ed="#B1" n="44"/>latur. 1. Cor. 7. Sanctificatus est uir infidelis per mulierem fidelem. Sic ergo tota 
+          <lb ed="#B1" n="45"/>uirorum bonitas &amp; stabilitas, super mulierum bonarum gratiosa soliditate fun 
+          <lb ed="#B1" n="46"/>datur. Mulier namque formata est de osse solidissimo, uir autem de terra arida, &amp; 
+          <lb ed="#B1" n="47"/>in puluerem faciliter redigenda. In cuius figura arcam cum toto genere huma 
+          <lb ed="#B1" n="48"/>no aqua supportauit. Gene. 7. in qua octo animae saluae factae sunt per aquam, 
+          <lb ed="#B1" n="49"/>1. Pet. 3. Sexto, in aqua est facilitas ministeriosa. Deus enim sacramentorum my 
+          <lb ed="#B1" n="50"/>steria in aquarum substantia condidit, sicut superius dictum fuit, significatbea 
+          <lb ed="#B1" n="51"/>titudinem complacentiae, quam uir ex sancta muliere sortitur, quia Eccles. 26. 
+          <lb ed="#B1" n="52"/>Mulieris bonae beatus uir, &amp; eiusdem 25. Beatus qui habitat cum muliere sen 
+          <lb ed="#B1" n="53"/>sata. Sic ergo ignis in aqua, est Spiritus sanctus in muliere sancta
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 191 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 191 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="628"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l191">
+        <p xml:id="rhwis-l191-d1e95">
+          <!--sap_Page_662.xml-->
+          <pb ed="#B1" n="628"/>
+          <lb ed="#B1" n="1"/>ENARRATIS poenis multiplicibus, quibus afflicti fuerunt Ae 
+          <lb ed="#B1" n="2"/>gyptij, tenebris palpabilibus circumsepti per triduum, intra quas 
+          <lb ed="#B1" n="3"/>poenas una de maximis fuit timor, quo semper suspicabantur eis  
+          <lb ed="#B1" n="4"/>peiora superuentura supplicia, quam fuerunt praesentialiter iam il  
+          <lb ed="#B1" n="5"/>lata: In ista parte intendit assignare causam huius timoris suspicio  
+          <lb ed="#B1" n="6"/>si. Et circa hoc facit duo. Primo assignat huius timoris originem in generali:  
+          <lb ed="#B1" n="7"/>Secundo magis eam explanat in speciali, ibi: Cum sit enim timida. Circa primum 
+          <lb ed="#B1" n="8"/>dicit. Frequenter enim praeoccupant pessima, redarguente conscientia, qui d. Aaec est. 
+          <lb ed="#B1" n="9"/>causa tanti timoris in peccatoribus iam afflictis, ut non solum doleant de poe 
+          <lb ed="#B1" n="10"/>nis praesentibus, sed magis timeant poenas futuras: quia tales frequenter prae 
+          <lb ed="#B1" n="11"/>occupant: id est, concipiunt, pessima: id est, maxima poenalia eis inferenda, redar 
+          <lb ed="#B1" n="12"/>guente conscientia, quae iudicat sibi poenam maiorem deberi, quam actualiter 
+          <lb ed="#B1" n="13"/>infertur, lerem. 2. Arguet te malitia tua: Conscientia ergo laesa per culpam, 
+          <lb ed="#B1" n="14"/>facit hominem praeoccupare: id est, concipere grauiora futura, quam patitur,  
+          <lb ed="#B1" n="15"/>ut plus torqueatur metu quam sensu. Vel potest pesima esse nominatiui casus 
+          <lb ed="#B1" n="16"/>pessima: id est, grauissima tormenta praeoccupant malos, &amp; est sententia consi 
+          <lb ed="#B1" n="17"/>milis. Consequenter illud magis explanat in speciali: Et ponit istius timoris  
+          <lb ed="#B1" n="18"/>principium, medium, &amp; effectum. Principium enim est, nequitia, quae est prin 
+          <lb ed="#B1" n="19"/>cipalis origo timoris. Et quantum ad hoc dicit: Cum sit enim timida nequitiae. 
+          <lb ed="#B1" n="20"/>data est in omnium condemnationem: in omnium videlicet malorum, uue peccan 
+          <lb ed="#B1" n="21"/>tium condemnationem: Nam ipsamet nequitia poenam secum habet, ne aliquod  
+          <lb ed="#B1" n="22"/>in uniuerso deordinatum remaneat. Vnde <ref xml:id="rhwis-l191-Rd1e149">Boëtius 4. de consola. prosa. 3.</ref> <quote xml:id="rhwis-l191-Qd1e152" source="http://scta.info/resource/hy7y6y-d1e75-d1e358">Sicut  
+          <lb ed="#B1" n="23"/>probis probitas ipsa est praemium: Ita improbis nequitia ipsa est supplicium</quote>. Et  
+          <lb ed="#B1" n="24"/><ref xml:id="rhwis-l191-Rd1e158">Aug. 1. confess.</ref> <quote xml:id="rhwis-l191-Qd1e161" source="http://scta.info/resource/aconf-l1-d1e191">iussisti Domine, &amp; sic est, ut poena sit sibi omnis inordinatus 
+          <lb ed="#B1" n="25"/>animus</quote>. Et de uera innocentia ca. 4. Nullae poenae grauiores sunt, quam malae 
+          <lb ed="#B1" n="26"/>conscientiae, in qua cum non habetur DEVS, consolatio non inuenitur: Hoc 
+          <lb ed="#B1" n="27"/>est ergo principium excessiui timoris in peccatoribus, uidelicet nequitia, quae 
+          <lb ed="#B1" n="28"/>teste eorum conscientia, iudicat eos esse malos. Hic est primus effectus culpae 
+          <lb ed="#B1" n="29"/>sicut dicit poeta luuenalis lib. 5. 
+          <lb ed="#B1" n="30"/>Ext emplo quodcunque malum committitur, ipsi 
+          <lb ed="#B1" n="31"/>Displicet actori. 
+          <lb ed="#B1" n="32"/>Prima est ergo ultio quod se iudice nemo nocens absoluit:  
+          <lb ed="#B1" n="33"/>improba quamuis  
+          <lb ed="#B1" n="34"/>Gratia fallacis praetoris vicerit vrna. 
+          <!--sap_Page_663.xml-->
+          <pb ed="#B1" n="629"/>
+          <lb ed="#B1" n="1"/>Modus erat antiquitus sicut narrat Ouid. 15. Metam. quod praetor condem  
+          <lb ed="#B1" n="2"/>naturus nocentem, misit in urna nigros lapillos, &amp; eos postea coram populo 
+          <lb ed="#B1" n="3"/>effudit, &amp; sic reum ostendit esse damnandum: quando autem erat liberaturus, 
+          <lb ed="#B1" n="4"/>misit lapillos albos, quos postea ad ostensionem innocentiae effundebat: dicit 
+          <lb ed="#B1" n="5"/>ergo luuenalis, quod quamuis aliquis conscius suae malitiae euadat iudicium 
+          <lb ed="#B1" n="6"/>praetoris, praetore per gratiam &amp; favorem uincente, tamen seipso iudice non 
+          <lb ed="#B1" n="7"/>absoluitur, sed dignus supplicio iudicatur, &amp; ideo dicit Senec. de Moribus Ma 
+          <lb ed="#B1" n="8"/>la conscientia saepe tuta est, secura nunquam. Et ideo signanter dicitur, quo 
+          <lb ed="#B1" n="9"/>nequitia data est omnibus in damnationem. Velsicut alia litera habet: dat testi 
+          <lb ed="#B1" n="10"/>monium condemnationi, &amp; eadem sententia est. Et haec est ratio illius, quod sequi  
+          <lb ed="#B1" n="11"/>tur, semper enim seua praesumit: id est, praeconcipit sibi futura poenalia, &amp; crude 
+          <lb ed="#B1" n="12"/>lia, perturbata uel conturbata, seu turbata conscientia: haec ergo triplici nequi  
+          <lb ed="#B1" n="13"/>tia perpetrata conscientia dictat. Quod omnis culpa poena aliqua debet puni 
+          <lb ed="#B1" n="14"/>ti. Et praeconceptio poenae causat timorem. Et hoc est quae subdit: Nihil enim est ti 
+          <lb ed="#B1" n="15"/>mor nisi praesumptionis: id est, anticipationis uel praeconceptionis praedictae de 
+          <lb ed="#B1" n="16"/>poena debita inferenda, adiutorium proditio cogitationis auxiliorim. Prodit enim ti 
+          <lb ed="#B1" n="17"/>mor: id est, manifestat quoe timens habet cogitationis de auxilio acquirendo, &amp; 
+          <lb ed="#B1" n="18"/>eo ipso qued sollicite desiderat auxilium, &amp; nihil uidet bonitatis intrinsecus in sei 
+          <lb ed="#B1" n="19"/>pso, unde debeat esse dignus auxilio, &amp; eo ipso auget timor, &amp; iudicat poenam 
+          <lb ed="#B1" n="20"/>causae, per quam torquetur esse maiorem. Vnde subdit: Et dum ab intro minor est 
+          <lb ed="#B1" n="21"/>expectatio de temedio, maiorem computat peenam, uel scientiam secundum alia  
+          <lb ed="#B1" n="22"/>literam credo conscientiam: id est, certitudinem eiusdem: id est, exterioris rei,  
+          <lb ed="#B1" n="23"/>de qua tormentum praestat: id est, a qua infertur sibi poena.
+        </p>
+        <p xml:id="rhwis-l191-d1e241">
+          <lb ed="#B1" n="24"/>Praoccupat pessima redarguente conscientia.] Notandum est, quo conscientia ho 
+          <lb ed="#B1" n="25"/>minis multiplicem actum habet. Est aut conscientia accusatrix prauae transgres  
+          <lb ed="#B1" n="26"/>sionis. Sicut enim puero dat dica, in qua defectus sui signant, ut postea uerbe 
+          <lb ed="#B1" n="27"/>retur, &amp; nullo modo licet sibi abijcere dicam suam, sed per eam accusabitr: Ita cuili  
+          <lb ed="#B1" n="28"/>Bet homini alligat conscientia, in qua omnia peccata notant, ut secundum eam in iu 
+          <lb ed="#B1" n="29"/>dicio accuset, Rom. 2. <quote xml:id="rhwis-l191-Qd1e256" source="http://scta.info/resource/rom2_15 http://scta.info/resource/rom2_16">Testimonium reddente illis conscientia ipsorum, &amp; inter se inui 
+            <lb ed="#B1" n="30"/>cem cogitationum accusantium, &amp; defendentium in die, quo iudicabit DEVS occul 
+            <lb ed="#B1" n="31"/>ta hominum</quote>. Et ideo istam accusatricem maxime timere debemus dicente Sen. li. suo 
+          <lb ed="#B1" n="32"/>de Moribus: Nullum conscium peccatorum tuorum magis timueris quam temeti 
+          <lb ed="#B1" n="33"/>psum: Alienum enim potes fugere, te aut nunquam. Item in eodem, conscientiam 
+          <lb ed="#B1" n="34"/>magis quam famam adtende. Falli em saepe potest fama, conscientia nunquam. 
+          <lb ed="#B1" n="35"/>Sicut em charitatiuus accusator primo manet ad partem, &amp; eum praemonet de suis 
+          <lb ed="#B1" n="36"/>defectibus, &amp; si se correxerit, culpam celat: Si uero corrigere contempserit publi  
+          <lb ed="#B1" n="37"/>ce in iudicio proclamat: Ita conscientia nostra in praesenti quidem nos corripit, &amp; 
+          <lb ed="#B1" n="38"/>reprehendit occulte: sed si nos non correxerimus, in futuro iudicio nos procla 
+          <lb ed="#B1" n="39"/>mabit, Leu. 5. Conscius est sibi, nisi iudicauerit, portabit iniquitatem suam.
+        </p>
+        <p xml:id="rhwis-l191-d1e281">
+          <lb ed="#B1" n="40"/>Secundo conscientia hominis est eleuatrix suae depressionis. In omni em de 
+          <lb ed="#B1" n="41"/>pressione, uel turbatione terrena, singularis consolatio est bona conscientia, 2. Co 
+          <lb ed="#B1" n="42"/>rinth. 1. Gloria nostra haec est, testimonium conscientiae nostrae. Vnde Ambros. de 
+          <lb ed="#B1" n="43"/>Officijs: Bene sibi conscius, falsis non debet comoueri conuitijs, nec estimare plus 
+          <lb ed="#B1" n="44"/>ponderis in alieno conuitio, quam in suae conscientiae testimonio. Et Greg. super 
+          <lb ed="#B1" n="45"/>Excech. Homel. 9. Quid pdest si omnes laudant, &amp; conscientia accusat: Aut quid  
+          <lb ed="#B1" n="46"/>obest, si omnes derogant, &amp; sola conscientia defendat: Item Aug. in quadam episto  
+          <lb ed="#B1" n="47"/>la, &amp; ponit in Canone 11 q. 3. senti. loquens ad Manichaeum dicit: Senti de Au 
+          <lb ed="#B1" n="48"/>gustino quicquid libet, sola me in oculis DEI conscientia non accuset. Et ca. se 
+          <lb ed="#B1" n="49"/>quenti habet, qualiter Constantinus Mediolanen. Archiepiscopus quibusdam  
+          <lb ed="#B1" n="50"/>malignis infamatus erat, de quibusdam criminibus, propter quod praetermitte 
+          <lb ed="#B1" n="51"/>bat populo praedicare uerbum: quia ista crimina probari non poterant, ut uerisi 
+          <lb ed="#B1" n="52"/>milia fuerant, scribit sibi Papa Greg. qua ad propriam conscientiam redeat, &amp; inde com  
+          <lb ed="#B1" n="53"/>solatus populo non subtrahat, quae ei utilia esse cognoscit: Quem, inqt, conscientia 
+          <!--sap_Page_664.xml-->
+          <pb ed="#B1" n="630"/>
+          <lb ed="#B1" n="1"/>defendit, liber est inter accusationes, &amp; liber sine accusatione esse non potest, si 
+          <lb ed="#B1" n="2"/>sola quae interius addicit, conscientia accuset. De hoc etiam Aug. notabiliter loquit  
+          <lb ed="#B1" n="3"/>super Psal. 37. &amp; ponit similiter in Canone 11 q. 3. Custodi (inguintus conscientiam 
+          <lb ed="#B1" n="4"/>tuam, ubi nemo opprimit causam tuam, praeualebit in te falsum testimonium, sed a 
+          <lb ed="#B1" n="5"/>pud homines nunquam: apud DEVM ualebit, ubi causa tua dicenda est, quan  
+          <lb ed="#B1" n="6"/>do DEVS erit iudex, non alius testis, quam tua conscientia erit inter iudicem iu 
+          <lb ed="#B1" n="7"/>stum, &amp; conscientiam tuam, noli timere nisi causam tuam. Haec August.
+        </p>
+        <p xml:id="rhwis-l191-d1e333">
+          <lb ed="#B1" n="8"/>Tertio conscientia hominis est conseruatrix bonae possessionis. Bernhardus: 
+          <lb ed="#B1" n="9"/>Sanum uas conscientia, &amp; seruandis secretis idoneum, nullis patens insidijs, nul 
+          <lb ed="#B1" n="10"/>lis uiolentijs cedens: utpote nec manu, nec oculis accessibilis, quicquid impo 
+          <lb ed="#B1" n="11"/>suero securus sum: seruabit uiuo, defuncto restituet, quocunque uado ipsa erat  
+          <lb ed="#B1" n="12"/>mecum: secum ferens depositum, quod seruandum acceperat, ubique gloria uel 
+          <lb ed="#B1" n="13"/>confusio ineuitabilis pro qualitate deposit. Haec Bern. Est ergo conseruatrix  
+          <lb ed="#B1" n="14"/>bonae possessionis. Est enim bona conscientia, sicut quaedam bona charta, in 
+          <lb ed="#B1" n="15"/>qua merita nostra scribunt, per quam assecuramur de praemio paradisi, 1. Tim. 1. 
+          <lb ed="#B1" n="16"/>Finis autem praecepti est charitas, de corde puro, &amp; conscientia bona. Finis prae 
+          <lb ed="#B1" n="17"/>cepti potest dici praemium suae merces debita pro praecepto. Habens igitur char 
+          <lb ed="#B1" n="18"/>tam bonam, per quam occupaturus est magnam haereditatem, eamdiligenter praeca 
+          <lb ed="#B1" n="19"/>uet, &amp; maxime conseruet, ne a tineis uel a uermibus consumatur. Charta aut per 
+          <lb ed="#B1" n="20"/>quam uitam coelestem uendicamus est conscientia bona, informata charitate, scripta 
+          <lb ed="#B1" n="21"/>tota plena bonis meritis: &amp; ideo praeseruari debet a tineis &amp; uermibus: hoc aut  
+          <lb ed="#B1" n="22"/>fit dupliciter. Vno modo si frequenter tractetur, si respiciatur, &amp; tergatur: Alio 
+          <lb ed="#B1" n="23"/>modo si perliniatur cedria, quae est gumma cedri. Dicit enim Isid. 17. Ethym. 
+          <lb ed="#B1" n="24"/>ca. 8. de cedro, quod resinam quandam habet, quae cedria dicitur, quae in seruan 
+          <lb ed="#B1" n="25"/>dis libris adeo est utilis, ut perliniti ex ea, nec tineas patiantur, nec tempore sene 
+          <lb ed="#B1" n="26"/>scant. Isto duplici modo si chartam nostrae conscientiae a corruptione seruare ue 
+          <lb ed="#B1" n="27"/>limus: primo oportet, quod frequenter eam tractemus, &amp; respiciamus dicta, fa 
+          <lb ed="#B1" n="28"/>cta, &amp; cogitationes diligenter discutiendo, &amp; eam diligenter etiam a puluere 
+          <lb ed="#B1" n="29"/>detergamus, ut nec uenialia inconfessa dimittamus, exemplo Apostoli Pauli,  
+          <lb ed="#B1" n="30"/>qui dicebatActuum 24. Studeo sine offendiculo conscientiam habere ad DEVM, 
+          <lb ed="#B1" n="31"/>Studium est secundum Tullium, uehemens animi applicatio ad aliquid agen 
+          <lb ed="#B1" n="32"/>dum, cum summa voluntate &amp; reuerentia: maxima animi applicatio requiri 
+          <lb ed="#B1" n="33"/>tur ad bene discutiendum ac discernendum, ac pure confitendum de peccatis: 
+          <lb ed="#B1" n="34"/>&amp; ideo merito dicit Apostolus: Studeo conscientiam habere: non leuiter ac per 
+          <lb ed="#B1" n="35"/>functorie loquendo, seruo conscientiam, sed studeo conscientiam habere, &amp; hoc si 
+          <lb ed="#B1" n="36"/>ne offendiculo, ut nec etiam diminuta peccata, &amp; quae contingunt continue ne 
+          <lb ed="#B1" n="37"/>gligantur. Secundo debemus istam chartam perlinire cedria, quae est resina ce 
+          <lb ed="#B1" n="38"/>dri, quasi sanguinem crucifixi, uel crucis CHRISTI frequenter cogitare &amp; me 
+          <lb ed="#B1" n="39"/>ditari. De cedro nanque fuit pes crucis ad literam, &amp; sic per synecdochen pro cruce 
+          <lb ed="#B1" n="40"/>potest poni. Habet autem talis meditatio uermes: id est, remorsus peccatorum 
+          <lb ed="#B1" n="41"/>exstirpare omnino, dicente Apostolo ad Hebr. 9. Sanguis CHRISTI emun 
+          <lb ed="#B1" n="42"/>dabit conscientias nostras ab operibus mortuis: &amp; sicut idem est perdere haere 
+          <lb ed="#B1" n="43"/>ditatem, &amp; talem chartam: ita idem est perdere conscientiam bonam, &amp; uitam  
+          <lb ed="#B1" n="44"/>futuram. Et ideo illi qui se omnino depingunt ad famae claritatem, non ad con 
+          <lb ed="#B1" n="45"/>scientiae ueritatem, perdent finaliter coelestem haereditatem. Contra quos Sen 
+          <lb ed="#B1" n="46"/>de Moribus: Plurimi famam, pauci conscientiam uerentur.
+        </p>
+        <p xml:id="rhwis-l191-d1e420">
+          <lb ed="#B1" n="47"/>Quarto conscientia est uindicatrix fractae professionis: Omnes enim Chri 
+          <lb ed="#B1" n="48"/>stiana professione censemur, ideo quotiens istam professionem infringimus, 
+          <lb ed="#B1" n="49"/>conscientia nostra non solum accusat, imo uindicat mordendo, &amp; puniendo, 
+          <lb ed="#B1" n="50"/>Proverb. 12. Est qui promittit, &amp; supple non implet, &amp; quasi gladio pungitur  
+          <lb ed="#B1" n="51"/>conscientiae. In baptismali professione sigillatur imago DEI in conscientia ho 
+          <lb ed="#B1" n="52"/>minis per uirtutes, &amp; gratiam, quae tunc infundunt paruulis etiam carentibus usu ra 
+          <lb ed="#B1" n="53"/>tionis. Et est ille denarius quem semper CHRISTVS exigit pro tributo, per quem con 
+          <!--sap_Page_665.xml-->
+          <pb ed="#B1" n="631"/>
+          <lb ed="#B1" n="1"/>fiteri debem, nos esse seruos suos. Vnde Chrysost. super Matth. 22. Reddite Cae 
+          <lb ed="#B1" n="2"/>sari, quae sunt Caesaris. Numisma Caesaris aurum est, numisma DEI homo. In soli  
+          <lb ed="#B1" n="3"/>dis uidet Caesar, in hominibus aut DEVS cognoscit. Ideo diuitias uestras date 
+          <lb ed="#B1" n="4"/>Caesari, DEO autem conscientiae uestrae innocentiam reseruate.
+        </p>
+        <p xml:id="rhwis-l191-d1e452">
+          <lb ed="#B1" n="5"/>Sed istis temporibus conscientiam habent nonulli quadrupliciter defecti 
+          <lb ed="#B1" n="6"/>uam. Habent enim quidam conscientiam dilatatam, quidam conscientiam in 
+          <lb ed="#B1" n="7"/>firmatam, quidam conscientiam perturbatam, &amp; quidam conscientiam habent  
+          <lb ed="#B1" n="8"/>cauteriatam. Primo inueniuntur nonnulli, quorum conscientia est nimis dila 
+          <lb ed="#B1" n="9"/>tata, qui nunquam ponderant, nisi grossiora peccata, quorum conscientia est sicut  
+          <lb ed="#B1" n="10"/>rete habens larga foramina, ubi non comprehenduntur nisi pisces maiores: sed  
+          <lb ed="#B1" n="11"/>minores semper euadunt: tales non ponderant odiosa iuramenta, imo nec men 
+          <lb ed="#B1" n="12"/>dacia, periuria, nisi forte coram iudice super librum. Mendacia nullius momenti 
+          <lb ed="#B1" n="13"/>sunt apud tales, nisi cedant in diffamationem proximi. Furtum non est eis ma 
+          <lb ed="#B1" n="14"/>gni ponderis, si sit de bonis regis, uel alicuius alterius magni: sed tantum si de 
+          <lb ed="#B1" n="15"/>bonis pauperis fiat furtum, etiamsi fiat de bonis personalibus, furtum remor 
+          <lb ed="#B1" n="16"/>det conscientia: sed si de bonis alicuius comunitatis non remordet, nec rema 
+          <lb ed="#B1" n="17"/>net in conscientijs quorundam, ut peccatum alicuius ponderis, qui nimis dila 
+          <lb ed="#B1" n="18"/>tant conscientias suas, dicentes GGenes. 43.] Non est in conscientijs nostris, quis 
+          <lb ed="#B1" n="19"/>eam uidelicet pecuniam posuerit in marsupijs nostris. Alij sunt qui habent con 
+          <lb ed="#B1" n="20"/>scientiam satis infirmatam per oppositum, qui non solum peccata magna pon 
+          <lb ed="#B1" n="21"/>derant, sed etiam parua, sicut debent, &amp; plus iusto: &amp; quae non sunt peccata, iudi  
+          <lb ed="#B1" n="22"/>cant esse peccata, &amp; haec conscientia frequenter Diabolo instigante generatur,  
+          <lb ed="#B1" n="23"/>qui sic inducit homines ad perplexitatem peccandi: quia quicquid contra com  
+          <lb ed="#B1" n="24"/>scientiam fit, etiam erroneam, aedificat ad gehennam, &amp; hoc est conscientia in 
+          <lb ed="#B1" n="25"/>firma, quam Apostolus prohibet, 1. Corinth. 8. Percutientes conscientiam eo 
+          <lb ed="#B1" n="26"/>rum infirmam, in CHRISTVM peccatis: &amp; tales uidi tentatione cessante fre 
+          <lb ed="#B1" n="27"/>quenter habuisse conscientiam nimis largam. Tertio sunt, qui habent conscien 
+          <lb ed="#B1" n="28"/>tiam perturbatam, qui propter comissa desperant. Contra quos Bern. sermone 
+          <lb ed="#B1" n="29"/>62. super Cantic. Quid efficacius ad conscientiae uulnera, necnon ad purgandum 
+          <lb ed="#B1" n="30"/>aciem mentis, quam CHRISTI uulnerum sedula meditatio. Et idem: Turbabor,  
+          <lb ed="#B1" n="31"/>sed non perturbabor: quia uulnerum Domini recordabor, 1. Cor. 1. Omne quod  
+          <lb ed="#B1" n="32"/>in macello uenit manducate, nihil interrog. propter conscientiuo de ista conscien 
+          <lb ed="#B1" n="33"/>tia dicit in litera, semper praesumit saeua perturbata conscientia. Quarto sunt qui  
+          <lb ed="#B1" n="34"/>dam qui habent conscientiam cauteriatam, &amp; hi ponderant parua, sed de magnis 
+          <lb ed="#B1" n="35"/>nihil curant. Tales fuerunt Pharisaei decimantes mentam, &amp; rutam, &amp; omne 
+          <lb ed="#B1" n="36"/>olus, &amp; grauiora legis praetermittentes, Matth. 23. Et hi sunt hypocritae, de qui  
+          <lb ed="#B1" n="37"/>bus prophetauit Apostolus, 1. Timoth. 4: quod in nouissimis diebus uenient  
+          <lb ed="#B1" n="38"/>quidam hypocritae loquentes mendacium, &amp; cauteriatam habentes conscien 
+          <lb ed="#B1" n="39"/>tiam. Nos ergo huiusmodi quadruplicem conscientiam deponentes, faciamus 
+          <lb ed="#B1" n="40"/>quod scribitur Hebrae. 10. Accedamus cum uero corde, &amp; in plenitudine fi 
+          <lb ed="#B1" n="41"/>dei aspersi corde a conscientia mala, &amp; abluti corpus aqua munda.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 202 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 202 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="664"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l202">
+        <p xml:id="rhwis-l202-d1e95">
+          <lb ed="#B1" n="8"/>POSTQUAM ostensum est, quod poena illata Aegyptijs in morte 
+          <lb ed="#B1" n="9"/>primogenitorum nulli pepercit, propter generis nobilitatem, nec 
+          <lb ed="#B1" n="10"/>propter temporis importunitatem: In hac parte declaratur, quod nul  
+          <lb ed="#B1" n="11"/>li pepercit propter status insensibilitatem, siue qualitatem. In illa namque  
+          <lb ed="#B1" n="12"/>nocte interfectionis primogenitorum non pepercit diuina uindicta dormien 
+          <lb ed="#B1" n="13"/>tibus: sed indifferenter primogenita Aegypti interfecit, siue dormirent siue ui  
+          <lb ed="#B1" n="14"/>gilarent. In hoc aut diuina seueritas temperamento clementiae commixta fuit,  
+          <lb ed="#B1" n="15"/>quod perituros per somnia &amp; uisiones praemonuit, scientes quare fuerunt in 
+          <lb ed="#B1" n="16"/>proximo puniendi temporaliter, si uellent, aeternaliter per poenitentiam saluaren 
+          <lb ed="#B1" n="17"/>tur. Tria ergo dicuntur in litera ista. Primum est, quod dormientes praemone 
+          <lb ed="#B1" n="18"/>bantur per somniorum apparentiam. Secundum est, quod expellebantur a lo 
+          <lb ed="#B1" n="19"/>cis suis per corporalem uiolentiam. Tertium est, quod immissio uisionum fuit  
+          <lb ed="#B1" n="20"/>eis, ad comunis reatus euidentiam. Primo ergo quantum ad somniorum appa 
+          <lb ed="#B1" n="21"/>rentiam, dicit sic: Tunc continuo: id est, statim sine impedimento: quia senten 
+          <lb ed="#B1" n="22"/>tia diuina decreuit hanc mirabilem plagam inferre Aegyptijs illa nocte. Visus 
+          <lb ed="#B1" n="23"/>somniorum: id est, phantasmatum subito. apparentium turbauerunt illos, &amp; timo 
+          <lb ed="#B1" n="24"/>res superuenerunt insperati in illis, qui se ad somnum posuerunt pro quiete. Sic  
+          <lb ed="#B1" n="25"/>moraliter mundiales dormientes in peccatis, quanuis in delectationibus semper 
+          <lb ed="#B1" n="26"/>intendant quiescere, remorsu tamen conscientiae turbantur continue, quem se 
+          <lb ed="#B1" n="27"/>cum habent. Et non solum sic perturbabantur Aegyptij spiritualiter, &amp; imagi 
+          <lb ed="#B1" n="28"/>narie, sed etiam transferebantur corporaliter de loco ad locum. Et hoc est quod  
+          <lb ed="#B1" n="29"/>dicit: Et alius alibi proiectus semiuiuus: id est, unus in unoloco, alius in alio loco 
+          <lb ed="#B1" n="30"/>sacuit semiuiuus, &amp; deficiens ab actu uitali, qui est sensus uel motus. Demenstra 
+          <lb ed="#B1" n="31"/>bat causam mortis propter quam moriebatur: id est, modus moriendi, ita irregu 
+          <lb ed="#B1" n="32"/>laris fuit ex diuersis circumstantijs, quod euidenter apparuit, quod non habue 
+          <lb ed="#B1" n="33"/>runt causam efficientem nisi DEVM. Notandum moraliter quod duo faciunt  
+          <lb ed="#B1" n="34"/>uitam spiritualem animae, uidelicet uirtus, &amp; scientia. Virtus in uoluntate siue 
+          <lb ed="#B1" n="35"/>affectu, scientia in intellectu. Quando ergo uirtus tollitur, &amp; remanet scientia, 
+          <lb ed="#B1" n="36"/>tunc talis persona relinquitur semiuiua. Scit enim bene agere, sed tamen non 
+          <lb ed="#B1" n="37"/>operatur. Et talis tanquam uilis proijciendus est in foueam infernalem, Luc. 10. 
+          <lb ed="#B1" n="38"/>Plagis impositis abierunt semiuiuo relicto. Hoc est quodammodo. i. Diabolus 
+          <lb ed="#B1" n="39"/>rasit dimidiam barbam nunciorum Dauid, &amp; decurtauit uestes eorum usque ad 
+          <!--sap_Page_699.xml-->
+          <pb ed="#B1" n="665"/>
+          <lb ed="#B1" n="1"/>nates, 2. Reg. 10. Moraliter loquendo. Dimidia pars barbae raditur, quando o 
+          <lb ed="#B1" n="2"/>peratio uirtutis omittitur, &amp; claritas scientiae reseruatur: uestes praescinduntur  
+          <lb ed="#B1" n="3"/>usque ad nates, quando fama ex prauis operibus orta, uilitas personae, quae per 
+          <lb ed="#B1" n="4"/>nates designatur, denudatur. Semiuiuus etiam dicit peccator uiuens in corpo  
+          <lb ed="#B1" n="5"/>re &amp; mortuus in anima. Anima em talis mortua est spiritualiter, quae caret uitae 
+          <lb ed="#B1" n="6"/>gratia, 1. Tim. 5. Vidua quae in delicijs est, uiuens mortua est: Semiuiuus etiam 
+          <lb ed="#B1" n="7"/>dicitur fama clarus, &amp; uita sordidus, Apoc. 3. Nomen habes que uiuas, &amp; mor 
+          <lb ed="#B1" n="8"/>tuus es. Tandem finaliter dicitur in litera: quo talis apparentia uisionum dormien 
+          <lb ed="#B1" n="9"/>do fuit facta eis, ad comunis reatus euidentiam, ut uidelicet praemonerentur de 
+          <lb ed="#B1" n="10"/>peccatis suis, ne ignorarent, quare tot mala patiebantur. Vnde dicit sic: Visiones e 
+          <lb ed="#B1" n="11"/>nim quae illos turbauerunt, hec praemonebant ex DEI misericordia: ne inscii. s igno 
+          <lb ed="#B1" n="12"/>tantes, quare mala patiebantur, perirent: Vbi dicit Rabanus in Gloss. Hoc diuinae 
+          <lb ed="#B1" n="13"/>bonitatis est, quae peccantes castigat, ut abstineant a peccatis suis, &amp; poenitentiam 
+          <lb ed="#B1" n="14"/>agant. Si aut DEI patientia abutunt, sine excusatione in aeternum punient.
+        </p>
+        <p xml:id="rhwis-l202-d1e202">
+          Quia 
+          <lb ed="#B1" n="15"/>hic dicitur quo Aegyptij fuerunt praemoniti per uisiones somniorum, sit dubitatio li  
+          <lb ed="#B1" n="16"/>teralis. Vtrum diuinatio per somnia sit licita.
+        </p>
+        <p xml:id="rhwis-l202-d1e209">
+          Et arguitur quod non: Nam Leuit. 19 
+          <lb ed="#B1" n="17"/>dicitur: Non augurabimini nec obseruabitis somnia. Et similiter Deutero.18 
+          <lb ed="#B1" n="18"/>prohibetur somniorum obseruatio: ergo est illicitum.
+        </p>
+        <p xml:id="rhwis-l202-d1e216">
+          <lb ed="#B1" n="19"/>Ad oppositum scribitur Iohel. 2. Iuuenes uestri uisiones uidebunt, &amp; senes ut 
+          <lb ed="#B1" n="20"/>stri somnia somniabunt. Et lerem. 23. Propheta qui habet somnium suum: ergo 
+          <lb ed="#B1" n="21"/>licitum est in casu per somnia diuinare. Et consirmatur per textum huius lectionis. Visio 
+          <lb ed="#B1" n="22"/>nes, inquit, quae eos turbauerunt, haec praemonebant eos. Ergo ilae uisiones fuerunt  
+          <lb ed="#B1" n="23"/>signa futurorum euentuum. Ergo licitum est per tales uisiones somniales diuinare. Item 
+          <lb ed="#B1" n="24"/>in Scriptura sacra legimus multa per somnia diuinasse, Genes. 37. de Ioseph, qui  
+          <lb ed="#B1" n="25"/>dixit: Vidi per somnium, quasi Solem, &amp; Lunam, &amp; stellas duodecim, adorare me, &amp;c 
+          <lb ed="#B1" n="26"/>Et Iudic. 7. de somnio mediante quo confortatus est Gedeon. &amp; 2. Mach. 15. so 
+          <lb ed="#B1" n="27"/>mnio digno fide ostenso ludae Machabaeo. Igitur aliqua sunt somnia digna fi 
+          <lb ed="#B1" n="28"/>de. Pro dubitatione ista uidendum est primo, quid sit somnium, &amp; quid diuinatio.  
+          <lb ed="#B1" n="29"/>Somnium secundum Arist. 2. de somno &amp; uigilia, est phantasma factum a motu si  
+          <lb ed="#B1" n="30"/>mulachrorum in simpliciter dormiente. Remanent em simulachra, idola siue 
+          <lb ed="#B1" n="31"/>species in organo phantasiae, &amp; ex illis causantur idola in organo sensus com 
+          <lb ed="#B1" n="32"/>munis, &amp; etiam in organis exteriorum sensuum, sicut uisus, auditus, &amp; sic de alijs.  
+          <lb ed="#B1" n="33"/>Et sic apparet homini quod uideat, audiat, &amp; tangat: eo quod anima utitur si 
+          <lb ed="#B1" n="34"/>mulachris rerum pro rebus ipsis, &amp; ideo dicit August. 12. super Gen. ad literam. 
+          <lb ed="#B1" n="35"/>Quod tunc est somnium, cum inter species receptas, &amp; ueras res, cuius sunt spe 
+          <lb ed="#B1" n="36"/>cies, non discernitur: &amp; ideo CHRISTUS nunquam somniauit. Diuinare uerc 
+          <lb ed="#B1" n="37"/>est praedicere euentum futurum uel ignotum, quantum ad propositum pertinet. I 
+          <lb ed="#B1" n="38"/>stis uisis dico tria. Vnum est, quod diuinatio per somnia est licita in casu. Secum 
+          <lb ed="#B1" n="39"/>dum est, quod talis diuinatio non est ab omnibus expectanda. Tertium est, quio  
+          <lb ed="#B1" n="40"/>talis diuinatio est multum periculosa.
+        </p>
+        <p xml:id="rhwis-l202-d1e266">
+          Prima conclusio patet sic: Diuinatio per 
+          <lb ed="#B1" n="41"/>somnia est naturalis aliquando: ergo tunc est licita: consequentia patet. Antece 
+          <lb ed="#B1" n="42"/>dens est, Arist. 2. de somno &amp; uigilia, de diuinatione, ubi dicit Arist. que diuina 
+          <lb ed="#B1" n="43"/>tionem quam in somnijs agunt, nec est contemnere idoneum, nec omnino suadere. Vbi 
+          <lb ed="#B1" n="44"/>dicit comentator, quo nullus homo est, qui non uidit somnium quod enunciauit sibi a 
+          <lb ed="#B1" n="45"/>liquod futurum. Ergo, &amp;c. Ex quo ergo diuinatio per somnium non est nisi somnium 
+          <lb ed="#B1" n="46"/>significatiuum: &amp; manifestum est multa somnia esse significatiua: planum est diuina 
+          <lb ed="#B1" n="47"/>tionem per somnium esse licitam in casu. Confirmatur per dictum Arist. 7. Ethic. Fama non o 
+          <lb ed="#B1" n="48"/>mnino perdit, quam omnes famant. Multi aut existimant somnia signationem habe  
+          <lb ed="#B1" n="49"/>re tanquam ab experientia moti, secundum Aristinus de somn, &amp; uigi. ubi prius. Vnde 
+          <lb ed="#B1" n="50"/>uerisimile est diuinationem esse similem, &amp; per consequens in casu licitam. Est ergo ad 
+          <lb ed="#B1" n="51"/>uertendum sicut extrahi potest ex dictis beati August. 22. Genes. ca. 44. Et Arist. s. 
+          <lb ed="#B1" n="52"/>de som. &amp; uigil. &amp; etiam Albertus in libro suo de eisdem. Somnia sumunt originem o 
+          <lb ed="#B1" n="53"/>multipliciter. Aliquando a corpore humano, aliquando ab anima, aliquando a 
+          <!--sap_Page_700.xml-->
+          <pb ed="#B1" n="666"/>
+          <lb ed="#B1" n="1"/>corporibus supercoelestibus, aliquando a spiritibus bonis, aliquando a spiritibus 
+          <lb ed="#B1" n="2"/>malis. Ex parte quidem corporis originaliter oriunt somnia comuniter in humo 
+          <lb ed="#B1" n="3"/>re. Vnde quando in corpore humano superabundat humor phlegmaticus, acce 
+          <lb ed="#B1" n="4"/>dens ad organum phantasiae, phantasia fit sicut idolum simile illi humori, &amp; homini 
+          <lb ed="#B1" n="5"/>queo est in aliquo humido, sicut in aqua, uel quod gustat aquam. Similiter quando hu 
+          <lb ed="#B1" n="6"/>mor dulcis &amp; phlegmaticus descendit a capite, apparet illi que ipsa gustet dulcia. 
+          <lb ed="#B1" n="7"/>Consimiliter cholera nimis abundante in corpore, somniat homo frequenter de in 
+          <lb ed="#B1" n="8"/>cendijs, &amp; conflagratione domus, &amp; huiusmodi. Et sic narrat Albertus quendam 
+          <lb ed="#B1" n="9"/>somniasse picem ardentem fuisse in uentre suo, &amp; causa fuit: quia in eo abundauit  
+          <lb ed="#B1" n="10"/>cholera nigra, unde exurgens emisit choleram nigram in magna quantitate. Talia er 
+          <lb ed="#B1" n="11"/>go somnia manifesta sunt significatiua futurarum infirmitatum frequenter: &amp; de ta 
+          <lb ed="#B1" n="12"/>libus somnijs bene informantur medici ad iudicandum solliciti, &amp; cogitatiui, cum a 
+          <lb ed="#B1" n="13"/>liqua negocia facere cogitant frequenter somniant de eisdem, Eccles. 5. Per multas 
+          <lb ed="#B1" n="14"/>curas sequunt somnia. Et hoc est causa, quare homines frequenter somniant de 
+          <lb ed="#B1" n="15"/>amicis suis, &amp; notis suis, &amp; citius de eis, quam de extraneis, &amp; plura de eis prae 
+          <lb ed="#B1" n="16"/>uident. Amici em procul existentes maxime solliciti sunt de se inuicem, sicut do 
+          <lb ed="#B1" n="17"/>cet Arist. ubi prius. Haec est etiam causa quare dediti uilibus uigilando, uilia som 
+          <lb ed="#B1" n="18"/>niant dormiendo: &amp; quare tantus potest esse habitus honestatis in uigilando, 
+          <lb ed="#B1" n="19"/>que prsona etiam non assentiet dormiendo foeditatibus, nec uoluptatibus carnali  
+          <lb ed="#B1" n="20"/>bus: sicut docet August. 10. confess. Quod tantum habitum honestatis potest 
+          <lb ed="#B1" n="21"/>homo adquirere, quod uirtute istius habitus dissipabuntur phantasiae malae,  
+          <lb ed="#B1" n="22"/>qua per somnia ingeruntur dormienti. Tertio sunt somnia quae causantur in ho 
+          <lb ed="#B1" n="23"/>mine uirtute corporum supercoelestium: Nam corpora supercoelestia influendo 
+          <lb ed="#B1" n="24"/>uirtutem nostris corporibus, alterant corpora nostra in somno: &amp; tunc contingit 
+          <lb ed="#B1" n="25"/>phantasiam sibi formare species, &amp; idola conformia qualitatibus in corpore cau 
+          <lb ed="#B1" n="26"/>satis: &amp; sic apparent animae aliquae effectus futuri: sicut de bellis, &amp; fertilitate &amp; 
+          <lb ed="#B1" n="27"/>sterilitate terrae, &amp; huiusmodi: quae a corporibus coelestibus causam habent: sic  
+          <lb ed="#B1" n="28"/>fuit de somnio Pharaonis de septem bobus, &amp; septem spicis, Genes. 42. Quarto  
+          <lb ed="#B1" n="29"/>originantur in nobis nonumquam somnia spiritibus bonis, sicut patet Matt. 2. de 
+          <lb ed="#B1" n="30"/>angelo quae apparuit in somnis loseph, &amp; in alijs Scripturae locis. Et tale uidet 
+          <lb ed="#B1" n="31"/>somnium Simoniadis, de quo narrat Valerius lib. 1. ca. 5. Simonides cum ad lit  
+          <lb ed="#B1" n="32"/>tus nauem applicuisset, inhumatumque corpus iacens reperisset, &amp; illud sepultu  
+          <lb ed="#B1" n="33"/>rae mandasset, admonitus ab eo per fomnium ne proxima die nauigaret, in ter 
+          <lb ed="#B1" n="34"/>ra remansit, quae inde soluerant fluctibus &amp; procellis in eius conspectu obrutm 
+          <lb ed="#B1" n="35"/>sunt. Ipse laetatus est, quo uitam suam somnio quam naui credere maluisset. Me 
+          <lb ed="#B1" n="36"/>mor aut beneficij elegantissimo carmine aeternitati consecrauit: melius illi &amp; diu 
+          <lb ed="#B1" n="37"/>turnius in animis hominum constituens sepulchrum, quam in desertis &amp; ignotis a 
+          <lb ed="#B1" n="38"/>renis construxerat. Hoc somnium ab aliquo bono spiritu potuit fieri in recompen 
+          <lb ed="#B1" n="39"/>sationem pietatis Simonidis, &amp;c. Quinto originant nonnunquam somnia a ma 
+          <lb ed="#B1" n="40"/>lis spiritibus, sicut patet de uxore Pilati. Quae otiosa die Parasceues dormie 
+          <lb ed="#B1" n="41"/>bat, multaque passa fuit per uisum de CHRISTO, daemone immittente, ut per tales  
+          <lb ed="#B1" n="42"/>uisiones seu apparitiones nostram impedire potuisset redemptionem. Vnde mu 
+          <lb ed="#B1" n="43"/>lier mandauit uiro suo Pilato, dicens taliter: Nihil tibi &amp; iusto illi. Multa enim 
+          <lb ed="#B1" n="44"/>passa sum per uisum hodie propter eum. Matthaei uicesimoseptimo: &amp; a tali spi  
+          <lb ed="#B1" n="45"/>ritu uidetur illud somnium causatum esse, quod narrat Valerius lib. 1. ca. 7. de 
+          <lb ed="#B1" n="46"/>Cassio Parmensi: Huic dormienti quidam procerae magnitudinis &amp; nigri co  
+          <lb ed="#B1" n="47"/>loris, apparuit squalidus barba, &amp; capite demisso, interrogatus quis esset: re 
+          <lb ed="#B1" n="48"/>spondit, Cacodaemon. Cassius perterritus familiam excitauit, &amp; quaesiuit, si quia 
+          <lb ed="#B1" n="49"/>talis cameram suam fuisset ingressus: responderunt quod non. Rursus obdor 
+          <lb ed="#B1" n="50"/>miuit, &amp; rursus eadem species apparuit. Lumen ergo iussit afferri, &amp; pueros sibi 
+          <lb ed="#B1" n="51"/>assistere praecepit. Et ecce infra modicum tempus post hoc de mandato Caesa 
+          <lb ed="#B1" n="52"/>ris capite punitus est. Ex dictis enim patet quod somnia siue uno modo, siue 
+          <lb ed="#B1" n="53"/>alio modo causentur, frequenter contingit, quod sunt futurorum euentuum 
+          <!--sap_Page_701.xml-->
+          <pb ed="#B1" n="667"/>
+          <lb ed="#B1" n="1"/>signa. Ex quo patet ueritas primae conclusionis, quod diuinatio per somnia in 
+          <lb ed="#B1" n="2"/>casu est licita.
+        </p>
+        <p xml:id="rhwis-l202-d1e426">
+          <lb ed="#B1" n="3"/>Secunda conclusio est, quod diuinatio ista in omnibus somnijs non est expe 
+          <lb ed="#B1" n="4"/>ctanda. Vnde Aristinus de som. &amp; uigi. ubi prius distinguit sic: Quaedam (inquit)  
+          <lb ed="#B1" n="5"/>somnia sunt signa aliorum effectuum, quaedam causae, quaedam accidentia: id  
+          <lb ed="#B1" n="6"/>est, pertinentia ad futuros euentus. Signa sunt, sicut patuit superius de humo 
+          <lb ed="#B1" n="7"/>ribus, cholericis &amp; phlegmaticis. Causae sunt interdum: quia aliquando homo uel 
+          <lb ed="#B1" n="8"/>sollicitatur circa opus inchoatum, uel inchoandum: quia in dormiendo perfecte 
+          <lb ed="#B1" n="9"/>comprehendit modum conuenientem, quo illud opus perficiet: &amp; postea iuxta 
+          <lb ed="#B1" n="10"/>phantasiam producit propositum ad effectum. Et sic est somnium causa euen 
+          <lb ed="#B1" n="11"/>tus futuri. Sunt etiam quaedam accidentia &amp; impertinentia ad euentum futu  
+          <lb ed="#B1" n="12"/>rorum: quia nec sunt signa, nec causa alicuius euentus futuri: &amp; ex talibus somnijs  
+          <lb ed="#B1" n="13"/>nullo modo est diuinatio expectanda, &amp; sic patet secunda conclusio.
+        </p>
+        <p xml:id="rhwis-l202-d1e452">
+          <lb ed="#B1" n="14"/>Tertia conclusio est quod somniorum diuinationi indulgere est multum peri 
+          <lb ed="#B1" n="15"/>culosum. Haec conclusio patet, primo propter deceptionem malorum spirituum, 
+          <lb ed="#B1" n="16"/>qui per somnia nituntur decipere illos, uel seducere, qui somnijs fidem praestant: 
+          <lb ed="#B1" n="17"/>&amp; ideo faciliter posset homo nimis credens somnijs labi in desperationem, ad  
+          <lb ed="#B1" n="18"/>suggestionem Diaboli. Secundo propter diuersitatem significationis in som 
+          <lb ed="#B1" n="19"/>nijs: potest enim somnium aequiuoce &amp; aequaliter multa significare: &amp; ideo ho 
+          <lb ed="#B1" n="20"/>mo applicans ad unum particulare statim decipitur. Tertio, quia nonulla somnia 
+          <lb ed="#B1" n="21"/>habent interpretari persimile, &amp; nonnulla per contrarium: &amp; in hoc casu diffi 
+          <lb ed="#B1" n="22"/>cile est discernere. Quarto quia sicut dicit Arist. licet somnia sunt significatiua 
+          <lb ed="#B1" n="23"/>futurorum aliquando, tamen non est necesse euentum somniorum accidere: 
+          <lb ed="#B1" n="24"/>quia possunt superiores causae impedire. Sicut enim nubes, quae sunt causae plu 
+          <lb ed="#B1" n="25"/>uiae, aliquando abundant &amp; signant pluuiam futuram, &amp; tamen per aliam cau 
+          <lb ed="#B1" n="26"/>sam superiorem eas dispergentem, contingit pluuiam impedire. Consimiliter 
+          <lb ed="#B1" n="27"/>in uoluntarijs operationibus, quas habet quis ad aliquid faciendum, &amp; firmum 
+          <lb ed="#B1" n="28"/>propositum ad illud exequendum: non tamen est necesse, quod sic faciat: po 
+          <lb ed="#B1" n="29"/>test enim fortius consilium superuenire, &amp; totum mutare propositum. Et ideo 
+          <lb ed="#B1" n="30"/>interpretator somniorum non debet dicere determinate, quo sic eueniet sicut som 
+          <lb ed="#B1" n="31"/>nium signat, sed cum conditione, nisi fortior causa superueniens impediat. Et  
+          <lb ed="#B1" n="32"/>consimiliter debent astronomi diuinari. Vnde dicit Albertus, ubi prius: Quod  
+          <lb ed="#B1" n="33"/>Astrologi dicentes determinate quod talis effectus eueniet, faciunt scientiam A 
+          <lb ed="#B1" n="34"/>strologicam uilescere: cum tamen in scientia Astrologica uitium non inueniatur  
+          <lb ed="#B1" n="35"/>sed in Astrologo determinante, &amp; aliter sententiam proferente. Periculosum est 
+          <lb ed="#B1" n="36"/>ergo per somnia nimis communiter diuinare: quia poetice dicitur:  
+          <lb ed="#B1" n="37"/>Somnia ne cures, nam fallunt somnia plures.
+        </p>
+        <p xml:id="rhwis-l202-d1e507">
+          <lb ed="#B1" n="38"/>Et Ecclesiast. 34. Vana spes &amp; mendacium insensato uiro, &amp; somnia extollunt.  
+          <lb ed="#B1" n="39"/>imperitos. Quasi qui apprehendit umbram, &amp; persequitur uentum: sic qui at  
+          <lb ed="#B1" n="40"/>tendit ad uisa mendacia: secundum hoc uiso somniorum, &amp;c. Sicut parturien 
+          <lb ed="#B1" n="41"/>tia cor tuum phantasias patietur, nisi ab altissimo emissa fuerit uisitatio. Et sic pa 
+          <lb ed="#B1" n="42"/>tet ad dubitationem.
+        </p>
+        <p xml:id="rhwis-l202-d1e520">
+          Ad rationem in oppositum inhibetur ne superstitiose hoc 
+          <lb ed="#B1" n="43"/>fiat nimis communiter: Non aut, quin aliquando liceat, sicut declaratum est.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

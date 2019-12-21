@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 172 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 172 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="679"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l206">
+        <p xml:id="rhwis-l206-d1e95">
+          <!--sap_Page_713.xml-->
+          <pb ed="#B1" n="679"/>
+          <lb ed="#B1" n="1"/>POSTQVAM Autor commendauit DEI sapientiam iu 
+          <lb ed="#B1" n="2"/>ste omnia gubernantem a mirabili exterminatione primo 
+          <lb ed="#B1" n="3"/>genitorum in Aegypto. In hoc ultimo Capitulo commen 
+          <lb ed="#B1" n="4"/>dat eandem a terribili submersione Aegyptiorum in mari 
+          <lb ed="#B1" n="5"/>rubro. Et circa hoc duo facit. Nam primo agit de terribili  
+          <lb ed="#B1" n="6"/>exterminio in mari rubro: Secundo de multiplici patroci 
+          <lb ed="#B1" n="7"/>nio Hebraeorum in deserto. Secunda pars ibi: omnis enim 
+          <lb ed="#B1" n="8"/>creatura. Et de istis duabus agit alternatim, nunc de patrocinio collato He 
+          <lb ed="#B1" n="9"/>braeis: nunc de exterminio illato Aegyptijs usque ad finem libri. Et circa hoc 
+          <lb ed="#B1" n="10"/>duo siunt. Nam primo agitur de peccantium graui malitia. Secundo de poe 
+          <lb ed="#B1" n="11"/>nae eorum conuenienti iustitia, ibi: Ducebat enim illos. Circa primum tria nar 
+          <lb ed="#B1" n="12"/>rat. Primo quomodo iusti &amp; impij a DEO diuersimode puniebantur. Secun 
+          <lb ed="#B1" n="13"/>do quomodo malorum scelera praesentia &amp; futura a DEO non abscondeban 
+          <lb ed="#B1" n="14"/>tur. Tertio prosequitur quam rationabiliter submergi merebantur. Secunda 
+          <lb ed="#B1" n="15"/>ibi: Praesciebat enim. Tertia ibi: Quoniam cum ipsi. Dicit ergo primo sic: lmpiis 
+          <lb ed="#B1" n="16"/>autem, &amp;c. quasi diceret, Hebraei rebelles &amp; murmurantes contra Dominum 
+          <lb ed="#B1" n="17"/>occisi sunt, pro, parte per ignis incendium, sed non totaliter desaeuit in popu 
+          <lb ed="#B1" n="18"/>lum ignis ille: quia sedatus fuit per pontificis supplicantis remedium. Sed cer 
+          <lb ed="#B1" n="19"/>te impijs: id est, Aegyptijs persequentibus Hebraeos infra mare rubrum, abs  
+          <lb ed="#B1" n="20"/>que remedio vsque in novissimum se misericordia ira superuenit. Ira: idest, uindicta 
+          <lb ed="#B1" n="21"/>iusta consumpti sunt: quia usque ad mortem uel vsque in nouissimum: id est. 
+          <lb ed="#B1" n="22"/>quemlibet: quia nullus de ea submersione liberatus est. Haec ira superuenit a 
+          <lb ed="#B1" n="23"/>DEO tanquam pondus, quod sustinere non possent. Ratio autem huius ua 
+          <lb ed="#B1" n="24"/>riae punitionis iustorum &amp; impiorum subiungitur: Quia Dominus praesciebat 
+          <lb ed="#B1" n="25"/>quod ipsi Hebraei poeniterent, &amp; se corrigerent: &amp; udleo parcitum est eis. Prae 
+          <lb ed="#B1" n="26"/>sciebat autem quod Aegyptij perdurarent finaliter obstinati. Et ideo promit 
+          <lb ed="#B1" n="27"/>tentibus correctionem pepercit, &amp; proponentes pertinaciam exterminatione 
+          <lb ed="#B1" n="28"/>finali percussit. &amp; hoc est quod dicit: Praesciebat enim futura illorum: id est, sce 
+          <lb ed="#B1" n="29"/>lera illorum futura, si permissi fuissent. Deinde cum dicit: Quoniam cum ipsi 
+          <lb ed="#B1" n="30"/>permisissent, declarat quomodo rationabiliter meruerunt submergi propter 
+          <lb ed="#B1" n="31"/>malitiam, quae dupliciter patuit in exitu Israel de Aegypto. Nam cum uidis  
+          <lb ed="#B1" n="32"/>sent Aegyptij decimam plagam, qua fuerant occisi primogeniti: ascenderunt,  
+          <lb ed="#B1" n="33"/>&amp; permiserunt quod filij Israel intrarent desertum, ad sacrificandum DEO suo, 
+          <lb ed="#B1" n="34"/>imo compellebant eos exire, sicut patet Exod. 12. ca. &amp; tamen hoc non obstan 
+          <lb ed="#B1" n="35"/>te statim displicuit eis, quod eos permisissent recedere, &amp; tanquam fugitiuos 
+          <lb ed="#B1" n="36"/>persequebantur. Haec ergo falsitas &amp; inconstantia in proposito suo, &amp; aggra 
+          <lb ed="#B1" n="37"/>uat malitiam eorum. Item quod ita recenter cum adhuc erant occupati circa 
+          <lb ed="#B1" n="38"/>luctum &amp; sepulturam suorum mortuorum, redierunt ad exercendam mali  
+          <lb ed="#B1" n="39"/>tiam, &amp; iniuriam in Hebraeos: &amp; persequendo, uolentes eos reuocare: satis 
+          <lb ed="#B1" n="40"/>ostendit eorum malitiam induratam fuisse, &amp; eos de bene actis non de culpis 
+          <lb ed="#B1" n="41"/>poenitere. Et ideo eos submersione mirabili dignos esse dicit. Igitur uerum est, 
+          <lb ed="#B1" n="42"/>quod DEVS praesciuit eos finaliter fore malos, quod ex hoc satis patuit. Quo 
+          <lb ed="#B1" n="43"/>niam cum ipsi Aegyptij reuersi essent ad cor, uidelicet ad DEI cognitionem  
+          <lb ed="#B1" n="44"/>aliqualem, quod permisissent licentiando Hebraeos, vt seducerent: id est, seor 
+          <lb ed="#B1" n="45"/>sum ducerent Aegyptij Hebraeos inter montes &amp; mare rubrum, &amp; cum ma 
+          <!--sap_Page_714.xml-->
+          <pb ed="#B1" n="680"/>
+          <lb ed="#B1" n="1"/>gna solicitudine remisissent illos sciicet Hebraeos, consequebatur illos actus peni 
+          <lb ed="#B1" n="2"/>tentiae: ipsis, scilicet Aegyptijs poenitentibus de bono, per eos facto Hebraeis.  
+          <lb ed="#B1" n="3"/>Istis malis Aegyptijs de bono opere poenitentibus similes sunt nonnulli reli 
+          <lb ed="#B1" n="4"/>giosi mali, qui de statu professionis poenitent, ad quem perpetuo sunt obliga 
+          <lb ed="#B1" n="5"/>ti. Contra quos Esa. 50. dicitur: Ego autem non contradico, retrorsum non 
+          <lb ed="#B1" n="6"/>abij, &amp;c. Et ecce quam fatuem fecerunt Aegyptij, adhuc inter manus luctum ha 
+          <lb ed="#B1" n="7"/>bentes: id est, materiam luctus: id est, funera suorum, &amp; deplorantes: id est, ual  
+          <lb ed="#B1" n="8"/>de plotantes, ad monumenta mortuorum: aliam sibi assumpserunt cogitationem  
+          <lb ed="#B1" n="9"/>inscientia: id est, quam facti sunt insipientes &amp; fatui: &amp; quos proiecerant: id est. 
+          <lb ed="#B1" n="10"/>eiecerant de Aegypto: Hos tanquam fugitiuos persequebantur, Exod. 13. In 
+          <lb ed="#B1" n="11"/>durauit Dominus cor Pharaonis regis Aegypti &amp; persecutus est filios Israel.  
+          <lb ed="#B1" n="12"/>Circa illam clausulam: In novissimo ira DEI superuenit. Notandum est, quod  
+          <lb ed="#B1" n="13"/>ira DEI, quae nihil aliud est quam iustao DEI uindicta, secundum <ref xml:id="rhwis-l206-Rd1e231">Augustinum 
+            <lb ed="#B1" n="14"/>de Ciuitate DEI, libro 5. capite 25</ref>. quatuor habet conditiones, propter quas 
+          <lb ed="#B1" n="15"/>merito debet formidari. Ira enim DEI non declinatur uirium potestate, non 
+          <lb ed="#B1" n="16"/>debilitatur temporis tarditate, in plures excitatur unius prauitate, nullatenus 
+          <lb ed="#B1" n="17"/>mitigatur sine humilitate. Prima ergo conditio irae DEI est, quod non decli  
+          <lb ed="#B1" n="18"/>natur uirium potestate. Ab ira enim hominis potest aliquis se fortassis abscon 
+          <lb ed="#B1" n="19"/>dere, uel subterfugere, uel resistere, sed ira DEI nec loco metitur, nec finitur  
+          <lb ed="#B1" n="20"/>tempore, nec uirtute * descenditur, Naum cap. primo: Ouis stabit ante faciem  
+          <lb ed="#B1" n="21"/>indignationis eius: &amp; quis resistet irae furoris eius: Et Psalm. Quis nouit po 
+          <lb ed="#B1" n="22"/>testatem irae tuae, &amp; prae timore tuo iram tuam, dinumerare: quasi diceret, nemo. 
+          <lb ed="#B1" n="23"/>Probat Boëtius 1. de Consolat. metro. 4. quo sapiens non habet timere iram cu 
+          <lb ed="#B1" n="24"/>iuscunque tyranni, quantumcunque saeuiat contra eum. Sapientis enim est facere 
+          <lb ed="#B1" n="25"/>iram ipsius inermem: quia si sapiens nihil timeat perdere, quod tyrannus potest 
+          <lb ed="#B1" n="26"/>auferre: nec aliquid potest ab eo recipere, quod tyrannus potest ei conferre: red  
+          <lb ed="#B1" n="27"/>dit iram tyranni totaliter impotentem, &amp; priuat eam totaliter armis suis. Vnde 
+          <lb ed="#B1" n="28"/>dicit sic: Quisquis composito serenus auo, &amp;c 
+          <lb ed="#B1" n="29"/>Et infra: 
+          <lb ed="#B1" n="30"/>Quid tantum miseri feros tyrannos Aut quisquis trepidus pauet vel optat.  
+          <lb ed="#B1" n="31"/>Mirantur sine viribus furentes: Quod non sit stabilis suique iuris, 
+          <lb ed="#B1" n="32"/>Nec speres aliquid, nec extimescas. Abiecit clypeum. Iocoque motus, 
+          <lb ed="#B1" n="33"/>Exarmaueris impotenta iram. Nectit, qua valeat trahi, catenam.
+        </p>
+        <p xml:id="rhwis-l206-d1e278">
+          <lb ed="#B1" n="34"/>Quicunque homo, sic huius uitae appetit immoderate honores, &amp; diuitias, uel 
+          <lb ed="#B1" n="35"/>abhorret pusillanimiter aduersitatis fortunae, talis de suis passionibus &amp; affe 
+          <lb ed="#B1" n="36"/>ctionibus facit catenam, qua hac &amp; illac per amorem uel iram alterius trahi pos  
+          <lb ed="#B1" n="37"/>sit. Modo si loquamur de DEO non possumus eum facere sic impotentem, non 
+          <lb ed="#B1" n="38"/>appetendo quod potest conferre: nec pertimescendo, quod potest inferre. Nam 
+          <lb ed="#B1" n="39"/>beatitudinem quam potest conferre, naturaliter omnes appetimus: &amp; miseriam  
+          <lb ed="#B1" n="40"/>quam potest inferre, naturaliter abhorremus. Omnes enim homines beati esse  
+          <lb ed="#B1" n="41"/>uolunt, idque unum ardentissimo amore appetunt. Sicut docet August. 13. de 
+          <lb ed="#B1" n="42"/>Trinitate, cap. 15. Et alibi dicit: quod nullo modo possumus uelle miseri esse:  
+          <lb ed="#B1" n="43"/>ergo non restat nobis aliud nisi diuinam voluntatem explere: ex quo naturali  
+          <lb ed="#B1" n="44"/>ter appetimus, quod sine eo habere nequimus.
+        </p>
+        <p xml:id="rhwis-l206-d1e304">
+          <lb ed="#B1" n="45"/>Secunda conditio irae DEI est quod non debilitatur temporis tarditate 
+          <lb ed="#B1" n="46"/>Vnde Valerius libro primo, capite secundo: Lento enim gradu ad uindi 
+          <lb ed="#B1" n="47"/>ctam sui, DEI ira procedit, &amp; tarditatem supplicij grauitate compensat, Eccle 
+          <lb ed="#B1" n="48"/>siast. capite decimosexto: In gente incredibili exardescit ira. Fertur de quadam  
+          <lb ed="#B1" n="49"/>ciuitate, quae bello lacessito misit ad quendam principem pro succursu haben 
+          <lb ed="#B1" n="50"/>do: &amp; ut illi de ciuitate eius animum citius inclinarent, exponunt sibi fortitu 
+          <lb ed="#B1" n="51"/>dinem ciuitatis in muris, &amp; turribus, &amp; fossatis: quibus ille pro responso remi 
+          <lb ed="#B1" n="52"/>sit. Est ne (inqu uestra ciuitas superius cooperta, ita quod ira DEI super ipsam  
+          <lb ed="#B1" n="53"/>descendere nequeat: Quod si est, libenter ueniam &amp; defendam uos. Sin aut non,  
+          <!--sap_Page_715.xml-->
+          <pb ed="#B1" n="681"/>
+          <lb ed="#B1" n="1"/>contra iram DEI propter peccata uestra pugnare non audeo. In quadam etiam  
+          <lb ed="#B1" n="2"/>patria in Anglia, quae Nortfolkia nominatur, dicitur contigisse. Quod * bla 
+          <lb ed="#B1" n="3"/>da in aestate pulcherrima creuerant: &amp; ecce appropinquante tempore mes  
+          <lb ed="#B1" n="4"/>sium, uenit quoddam genus muscarum in tanta multitudine, quod totum bla 
+          <lb ed="#B1" n="5"/>dum intantum consumpserunt, quod uix in quinque milliarium spacio unus 
+          <lb ed="#B1" n="6"/>modius inueniretur. Homines de illa patria quasdam de illis muscis coepe  
+          <lb ed="#B1" n="7"/>runt, &amp; diligenter inspicientes quales essent: quia nunquam prius consimiles  
+          <lb ed="#B1" n="8"/>uiderant: inuenerunt eas habere literas depictas in alis suis: in una ala, scribe 
+          <lb ed="#B1" n="9"/>batur, ira, in alia DEI: ut manifestum esset, propter demerita populi uindictam  
+          <lb ed="#B1" n="10"/>diuinam fuisse. Iuxta illud Ieremiae 12. Seminauerunt triticum, &amp; messuerunt  
+          <lb ed="#B1" n="11"/>spinas: haereditatem acceperunt, &amp; eis non proderit. Confundemini a fructi 
+          <lb ed="#B1" n="12"/>bus uestris, propter iram furoris Domini
+        </p>
+        <p xml:id="rhwis-l206-d1e356">
+          <lb ed="#B1" n="13"/>Tertia conditio irae DEI est, quod in plures excitatur ob unius prauitatem. 
+          <lb ed="#B1" n="14"/>Nam propter unius personae malitiam flagellat DEVS aliquando unam ma 
+          <lb ed="#B1" n="15"/>gnam multitudinem. Exemplum Exod. cap. 21. ubi dicitur quod tota domus 
+          <lb ed="#B1" n="16"/>Abimelech sterilis facta fuit, propter demeritum Abimelech, &amp; totus popu 
+          <lb ed="#B1" n="17"/>lus Israel propter peccatum * Achor punitus fuit. Vnde dicitur ibi: Non pote 
+          <lb ed="#B1" n="18"/>ris stare contra inimicos tuos, donec deleatur ex te, qui contaminatus est hoc 
+          <lb ed="#B1" n="19"/>scelere, dicit Dominus ad losuam, Iosuae 7. Propter quod legimus Phinees di 
+          <lb ed="#B1" n="20"/>xisse cuidam patri filiorum Israel, Iosuae 22. Vos hodie Dominum reliquistis,  
+          <lb ed="#B1" n="21"/>&amp; cras in uniuersum Israel ira eius desaeuiet. Nonne lAchor filius Zare prae 
+          <lb ed="#B1" n="22"/>terijt mandatum Domini: &amp; super omnem populum Israel ira eius incubuit.  
+          <lb ed="#B1" n="23"/>Dominus enim aliquando punit unum hominem pro peccato alterius tem 
+          <lb ed="#B1" n="24"/>poraliter, sed aeternaliter non.
+        </p>
+        <p xml:id="rhwis-l206-d1e385">
+          <lb ed="#B1" n="25"/>Quarta contradictio irae DEI est, quod non mitigatur nisi per humilitatem. 
+          <lb ed="#B1" n="26"/>Natura enim Ieonis est non irasci, nisi laedatur. Prostratis enim hominibus par 
+          <lb ed="#B1" n="27"/>cere dicitur. Iuxta illud poëticum: 
+          <lb ed="#B1" n="28"/>Parcere prostratis scit nobilis ira leonis 
+          <lb ed="#B1" n="29"/>Eodem modo CHRISTVS non irascitur, nisi laesus. Vnde Esa. 64. Ne irasceris  
+          <lb ed="#B1" n="30"/>Domine satis, &amp; ne ultra memineris iniquitatum nostrarum. Vnde nota quod  
+          <lb ed="#B1" n="31"/>quantumcunque DEVM offenderis, si te humiliaueris placabis eum, 2. Paralip.  
+          <lb ed="#B1" n="32"/>12. Quia humiliati sunt, auersa est ira DEI ab eis.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

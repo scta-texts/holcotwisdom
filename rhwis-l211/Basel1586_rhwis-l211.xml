@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 211 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 211 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="694"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l211">
+        <p xml:id="rhwis-l211-d1e95">
+          <!--sap_Page_728.xml-->
+          <pb ed="#B1" n="694"/>
+          <lb ed="#B1" n="1"/>REPROBATA crudelitate in hospitibus Aegyptiorum, &amp; ostenso quoe  
+          <lb ed="#B1" n="2"/>digne pro illa inhumanitate fuerunt percussi tenebrarum caecitate: 
+          <lb ed="#B1" n="3"/>In ista parte redit Autor satis abrupte tractando de diuina potesta 
+          <lb ed="#B1" n="4"/>te, in operando mirabilia pro filijs Israel in transitu maris Rubri, &amp; 
+          <lb ed="#B1" n="5"/>in itinere per desertum. Dixit enim superius in isto Capitulo quo om 
+          <lb ed="#B1" n="6"/>nis creatura reflectebat se quodammodo, applicato cursu Naturae ad obediendum 
+          <lb ed="#B1" n="7"/>diuinae uoluntati, circa gubernationem electorum suorum: illam eandem conclusionem 
+          <lb ed="#B1" n="8"/>pertractat in lectione hodierna. Et circa hoc duo facit: Quia primo declarat  
+          <lb ed="#B1" n="9"/>obedientiam creaturae tam in elementis, quam in elementatis in generali. Se 
+          <lb ed="#B1" n="10"/>cundo applicat obedientiam illam ad res gestas in speciali, ibi: Ignis in aqua valebat.
+        </p>
+        <p xml:id="rhwis-l211-d1e124">
+          <lb ed="#B1" n="11"/>Circa primum duo facit: quia primo ostenditque licet elementa tunc recesserunt  
+          <lb ed="#B1" n="12"/>DEO iubente a naturae suae consuetudine, non tamen recesserunt a consonan 
+          <lb ed="#B1" n="13"/>tia harmonicae dispositionis. Secundo declarat quomodo animalia inter se quae 
+          <lb ed="#B1" n="14"/>dam nova uicissitudine suas proprietates comunicauerunt, ibi: Agrestia enim. Di  
+          <lb ed="#B1" n="15"/>cit ergo primo sic: Quod sicut organisator in quocumque instrumento musico es  
+          <lb ed="#B1" n="16"/>ficit harmoniam ex diuersa tensione, &amp; moderatione chordarum iuxta scientiam ar 
+          <lb ed="#B1" n="17"/>tis suae, &amp; pro libito uoluntatis suae. Facit eandem chordam modo reddere acutum sonum, 
+          <lb ed="#B1" n="18"/>modo grauem, &amp; tamen semper seruatur bona harmonia, &amp; consonantia delectabilis in 
+          <lb ed="#B1" n="19"/>operatione sua. Eodem modo DEVS utitur pro uoluntate sua elementis, &amp; caeteris crea 
+          <lb ed="#B1" n="20"/>turis ad beneficia electorum, &amp; supplicia reproborum, pro libito uoluntatis suae, &amp; 
+          <lb ed="#B1" n="21"/>tamen hoc non obstante consonantia harmonica, quae est inter elementa non dissol  
+          <lb ed="#B1" n="22"/>uitur. Dicit ergo per similitudinem: Dum elementa in se couertuntur. 8 dum elementa 
+          <lb ed="#B1" n="23"/>suas uirtutes mutant uel intermittunt, sicut in organo quocumque musicali, qualitatis  
+          <lb ed="#B1" n="24"/>sonus hypallage. i: qualitas soni immutatur, pro uoluntate organisantis, &amp; om 
+          <lb ed="#B1" n="25"/>nia elementa sutum sonum custodiunt, quo ad uniuersalem modulationem: ita quoe sicut  
+          <lb ed="#B1" n="26"/>non tollit melodia per mutationem sonorum in diuersis chordis instrumenti: Ita nec 
+          <lb ed="#B1" n="27"/>in elementis tollitr eorum proportio &amp; harmonia propter mirabiles operationes, 
+          <lb ed="#B1" n="28"/>quas DEVS fecit per ea. Non em DEVS condidit creaturam sibi contrariam, sed suae 
+          <lb ed="#B1" n="29"/>uoluntati consentaneam. Vnde. 8. de quo facto aestimari ex ipso certo visu potest, quid  
+          <lb ed="#B1" n="30"/>non ex consueto usu Naturae, sed ex uoluntate conditoris ista fiebant: sicut in spe 
+          <lb ed="#B1" n="31"/>ciali statim declarat. Agrestia enim. i. homines, &amp; alia animalia, in aquatica con 
+          <lb ed="#B1" n="32"/>uertebantur. i ad modum piscium aquaticorum in fundo maris ambulant: &amp; quaecunque  
+          <lb ed="#B1" n="33"/>erant natantia, ut ranae, in terra transibant: hoc quantum ad animalia. Quantum ue 
+          <lb ed="#B1" n="34"/>to ad elementa. Ignis in aqua valebat supra virtutemnd e. ignis mixtus cum grandi 
+          <lb ed="#B1" n="35"/>ne de coelo ueniebat nec ignis aquam, nec aqua ignem impediebat. Exod. 9. Vnde 
+          <lb ed="#B1" n="36"/>subdit: Et aquae extinguentis naturae obliuiscebatur. 2. non extinguebat ignem, cum 
+          <lb ed="#B1" n="37"/>quo de coelo ueniebat: sicut expositum est c. 16. Consequenter subdit effectus mi 
+          <lb ed="#B1" n="38"/>rabiles diuinae gubernationis in speciali quantum ad elementa. Vbi sciendum que 
+          <lb ed="#B1" n="39"/>flamma siue ignis duplice habet uirtutem in duplici materia: Nam flamma naturaliter 
+          <lb ed="#B1" n="40"/>comburit siccum, &amp; dissoluit humidum congelatum, sicut in glacie. Sed fuit mirabile quae 
+          <lb ed="#B1" n="41"/>flamma DEO uolente etiam passiuis approximata, neutrum horum fecit. Vnde sub  
+          <lb ed="#B1" n="42"/>dit: Famae econtrario. s. contra naturam suam non vexauerunt carnes, inflammabiles, 
+          <lb ed="#B1" n="43"/>corruptibilium animalium coambulant ium per desertum: &amp; potest intelligi de serpend 
+          <lb ed="#B1" n="44"/>bus ignitis, quorum corpora non fuerunt consumpta per flammam in eis conten 
+          <lb ed="#B1" n="45"/>tam. Vel de hominibus, qui per serpentes non laedebantur, postquam serpen 
+          <lb ed="#B1" n="46"/>tem aeneum inspexissent. Vel de animalibus, uel de iumentis, quae non laedeban 
+          <lb ed="#B1" n="47"/>tur per illos serpentes ignitos. Nec flamae dissoluebant illam bonam escam, scilicet 
+          <lb ed="#B1" n="48"/>Manna, quae cum facile dissoluebatur sicut glacies ad calorem ignis, sicut supra di 
+          <lb ed="#B1" n="49"/>ctum est ca.16. Sed dubium est de eo, quod superius dixit: quod quaecunque e 
+          <lb ed="#B1" n="50"/>rant natantia in terra transibant. Vniuersaliter enim loquitur, &amp; tamen non le 
+          <lb ed="#B1" n="51"/>gimus quod pisces in terra transibant. Dicendum quod pisces erant mortui,  
+          <lb ed="#B1" n="52"/>Exod. 7. Pisces qui erant in fluuio mortui sunt, &amp; pro piscibus eructauit fluuius 
+          <lb ed="#B1" n="53"/>ranas. Vnde non erant alia tunc natantia nisi ranae.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

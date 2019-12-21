@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 173 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 173 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="570"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l173">
+        <p xml:id="rhwis-l173-d1e95">
+          <lb ed="#B1" n="8"/>POSTQVAM Spiritus sanctus redarguit idolatras de negligen 
+          <lb ed="#B1" n="9"/>tia bonae considerationis circa proprij corporis fragilitatem: In ista 
+          <lb ed="#B1" n="10"/>parte redarguit eorum falsam opinionem circa uitae humanae mo 
+          <lb ed="#B1" n="11"/>ralem bonitatem. Est autem opinio ipsorum reproborum, de con 
+          <lb ed="#B1" n="12"/>uersatione humana sic, quod tota conuersatio hominis ordinari debet ad duo:  
+          <lb ed="#B1" n="13"/>uidelicet ad delectationes siue delicias, &amp; ad possessiones siue diuitias: &amp; hoc 
+          <lb ed="#B1" n="14"/>est, quod dicit: Sed estimauerunt vitam nostram esse lusum, uel ludum uel luxum, 
+          <lb ed="#B1" n="15"/>secundum quod diuersi textus habent, hoc est, delectationem &amp; uoluptatem  
+          <lb ed="#B1" n="16"/>aestimauerunt finem esse, &amp; perfectionem uitae humanae, ut homo circa nihil 
+          <lb ed="#B1" n="17"/>aliud solicitari debeat, nisi quod fruatur delicijs &amp; uoluptatibus corporis, &amp; 
+          <lb ed="#B1" n="18"/>cum hoc abundet diuitijs. unde subdit: quod astimauerunt conuersationem ui  
+          <lb ed="#B1" n="19"/>tae humanae esse compositam: id est, ordinatam ad lucrum diuitiarum: &amp; ideo 
+          <lb ed="#B1" n="20"/>oportet undecunque siue iuste siue iniuste, etiam ex malo adquirere, &amp; ideo ta 
+          <lb ed="#B1" n="21"/>les miseri figuli studuerunt fabricare idola curiose, ut possent ea carius uende 
+          <lb ed="#B1" n="22"/>re idolatris. Consequenter comparat figulum de uili materia idola facientem, 
+          <lb ed="#B1" n="23"/>ad alios artifices idolorum, de nobiliori materia fabricantes. Et circa hoc duo 
+          <lb ed="#B1" n="24"/>facit. Primo uituperat eum sicut peccantem scienter, &amp; singulariter: Secundo 
+          <lb ed="#B1" n="25"/>uituperat omnes idolatras generaliter: secunda pars ibi: omnes enim insipien 
+          <lb ed="#B1" n="26"/>tes. Dicit enim defigulo deos fictiles faciente sic: Hic enim scit se super omnes 
+          <lb ed="#B1" n="27"/>delinquere qui ex terre materia: id est, ex materia fictili, fragilia vasa &amp; sculpti  
+          <lb ed="#B1" n="28"/>lia singit: Igitur expresse uidet &amp; palpat, quod non sunt plus honoranda scul  
+          <lb ed="#B1" n="29"/>ptilia, quam uasa fragilia. Sed non solum iste, sed etiam omnes idolatrae sunt 
+          <lb ed="#B1" n="30"/>insipientes &amp; infelices superbi, &amp; bonorum inimici, &amp; exprobratores popu 
+          <lb ed="#B1" n="31"/>li DEI. unde subdit: omnes enim insipientes, quantum ad cognitiuam cognitio  
+          <lb ed="#B1" n="32"/>nem, infelices, quantum ad effectiuam supra modum: id est, ultra mensuram  
+          <lb ed="#B1" n="33"/>animae suae: id est, propriae bonitatis, superbi sunt inimici etiam populo DEI, &amp; 
+          <lb ed="#B1" n="34"/>bonis uiris, eos opere persequendo, &amp; improperantes illis deridendo &amp; dif 
+          <lb ed="#B1" n="35"/>famando, &amp;c
+        </p>
+        <p xml:id="rhwis-l173-d1e158">
+          <!--sap_Page_605.xml-->
+          <pb ed="#B1" n="571"/>
+          <lb ed="#B1" n="1"/>Circa istam clausulam, Aestimauerunt lusum esse vitam nostram. Notandum, 
+          <lb ed="#B1" n="2"/>quod Aristoteles 10. Ethi. cap. 9. recitat opinionem quorundam, &amp; reprobat.  
+          <lb ed="#B1" n="3"/>qui posuerunt humanam felicitatem in operibus ludi consistere: &amp; est haec eadem  
+          <lb ed="#B1" n="4"/>opinio a Spiritu sancto reprobata in lectione hadierna. Ponit ergo Aristot. 1 
+          <lb ed="#B1" n="5"/>rationem quae eos mouit ad ponendum felicitatem humanam in ludis consi 
+          <lb ed="#B1" n="6"/>stere, &amp; est ista. Quo diuites &amp; potentes maxime indigent, &amp; quo maxime de 
+          <lb ed="#B1" n="7"/>lectantur, uidetur potissime ad felicitatem pertinere. Sed diuites &amp; potentes 
+          <lb ed="#B1" n="8"/>maxime quaerunt delectationes ludi, unde personae comuniter ludentes sunt  
+          <lb ed="#B1" n="9"/>eis charae &amp; preciosae. Ergo uidetur quod in talibus consistat felicitas. Secun 
+          <lb ed="#B1" n="10"/>do Aristot. istam rationem euacuat, propter duo. Primo, quia non est sufficiens si 
+          <lb ed="#B1" n="11"/>gnum, quod felicitas consistat in ludo propter hoc, quod potentes maxime in ludo de 
+          <lb ed="#B1" n="12"/>lectantur. Nam in illis hominibus nihil est singulare, quod non est in alijs homi 
+          <lb ed="#B1" n="13"/>nibus, nisi potentia uel diuitiae. Sed nec diuitiae nec potentia faciunt operatio  
+          <lb ed="#B1" n="14"/>nes eorum uirtuosas. Ideo non sequitur, quod ideo aliquid sit uirtuosum: quia 
+          <lb ed="#B1" n="15"/>sit a diuitibus &amp; potentibus. Minor patet: quia potentiae &amp; diuitiae nec confe 
+          <lb ed="#B1" n="16"/>runt homini uirtutes morales, nec intellectuales, quae sunt principia uirtuosa  
+          <lb ed="#B1" n="17"/>rum operationum. Secundo, quia si illi quibus non sapiunt delectationes spiri 
+          <lb ed="#B1" n="18"/>tuales, quae sunt in exercitio uirtutum moralium &amp; intellectualium, fugiunt ad  
+          <lb ed="#B1" n="19"/>delectationes corporales: non tamen propter hoc sequitur, quo illae sint eligibiles  
+          <lb ed="#B1" n="20"/>simpliciter &amp; propter se. Sicut nec sequitur, quo pueri qui intellectu &amp; uirtute ca 
+          <lb ed="#B1" n="21"/>rent, iudicant aliqua esse preciosa &amp; magni poderis, ergo sunt talia. Modo a simi 
+          <lb ed="#B1" n="22"/>li sicut pueris &amp; uiris perfectis, alia &amp; alia preciosa uident: Ita prauis &amp; uirtuo 
+          <lb ed="#B1" n="23"/>sis alia &amp; alia preciosa uidentur. Illud aute simpliciter uirtuosum siue ponde 
+          <lb ed="#B1" n="24"/>rosum est, siue preciosum, quod a uirtuoso laudabile iudicatur, uel preciosum, 
+          <lb ed="#B1" n="25"/>Cum ergo potentes a potentia sua uirtutem non habeant, patet que non sequitur.  
+          <lb ed="#B1" n="26"/>Potentes in ludo delectantur maxime: ergo felicitas consistit in ludo: falsum 
+          <lb ed="#B1" n="27"/>est. Tertio Aristoteles arguit istam uiam tripliciter. Primo cum felicitas sit finis  
+          <lb ed="#B1" n="28"/>humanae uitae: si in operibus ludi consistat felicitas, ludus foret finis uitae hu 
+          <lb ed="#B1" n="29"/>manae, &amp; ex hoc sequitur, quo homo studeret &amp; laboraret propter ludum, quod  
+          <lb ed="#B1" n="30"/>est stultum, &amp; puerile. Sed econuerso secundum sententiam Anacharsis, bene 
+          <lb ed="#B1" n="31"/>se habet dicere, scilicet quod aliquis ludat ad horam, ut postea melius studeat:  
+          <lb ed="#B1" n="32"/>quia requies est propter operationem, non operatio propter requiem. Secundo 
+          <lb ed="#B1" n="33"/>cum felicitas sit summum bonum, necesse est que in optimis consistat: Seria aut sunt  
+          <lb ed="#B1" n="34"/>ridiculosis meliora, ergo felicitas magis circa seriosa, quam circa ridiculosa com 
+          <lb ed="#B1" n="35"/>sistit. Vnde Tullius de Officijs: Non ita a natura generati sumus, ut ad ludum 
+          <lb ed="#B1" n="36"/>&amp; iocum facti esse uideamur: sed ad seueritatem potius, &amp; quaedam studia gra 
+          <lb ed="#B1" n="37"/>uiora atque maiora. Tertio, quia nobilioris partis animae est melior opera 
+          <lb ed="#B1" n="38"/>tio, &amp; per consequens in nobilissima parte poni debet felicitas, sed nihil pro 
+          <lb ed="#B1" n="39"/>hibet hominem bestialem corporales delectationes maxime participare: er 
+          <lb ed="#B1" n="40"/>go in talibus delectationibus non est felicitas: quamuis autem ludus non sic 
+          <lb ed="#B1" n="41"/>humanae uitae felicitas, est tamen ludus conueniens uirtus quaedam. Sicut e 
+          <lb ed="#B1" n="42"/>nim homo indiget aliquando a uexationibus corporis requiescere, ita indi 
+          <lb ed="#B1" n="43"/>get intentionem, &amp; a studijs seriosis relaxare, &amp; a solicitudinum anxietate pau 
+          <lb ed="#B1" n="44"/>sare. Hoc autem fit per ludum, qui consistit in colloquijs, &amp; collationibus con 
+          <lb ed="#B1" n="45"/>uenienter inter homines ordinatis.
+        </p>
+        <p xml:id="rhwis-l173-d1e262">
+          <lb ed="#B1" n="46"/>Est ergo notandum circa ludum quod ad hoc, quo uirtuose fiat, tria requiruntur:  
+          <lb ed="#B1" n="47"/>uidelicet, condecentia honestatis, prouidentia identitatis, &amp; carentia super 
+          <lb ed="#B1" n="48"/>fluitatis. Primum ergo quod a uirtuose ludentibus considerari debet, est ho 
+          <lb ed="#B1" n="49"/>nestatis condecentia: ut uidelicet talis ludus deceat personam ludentem, de 
+          <lb ed="#B1" n="50"/>ceat personas assistentes. Vnde alius ludus conuenit clerico uel praelato, seu 
+          <lb ed="#B1" n="51"/>uiro religioso, &amp; alius militi, armigero, uel famulo. Alius etiam ludus de 
+          <lb ed="#B1" n="52"/>cet senes, &amp; alius iuuenes: quia non omnia decent. Fingit Aesopus de 
+          <lb ed="#B1" n="53"/>asino &amp; catulo, quod asinus cosiderans catulum ociosum mirabiliter gratum 
+          <!--sap_Page_606.xml-->
+          <pb ed="#B1" n="572"/>
+          <lb ed="#B1" n="1"/>&amp; acceptum domino, deliberauit quae posset esse causa, quare dominus ca 
+          <lb ed="#B1" n="2"/>tulum nihil operis facientem tantum diligeret. Et deprehendit, quod quotiens 
+          <lb ed="#B1" n="3"/>dominus domum redijt, catulus ei occurrit pedibus, &amp; uoce modis omnibus 
+          <lb ed="#B1" n="4"/>quibus potuit domino suo sguper applausit. Visum est ergo &amp; expediens a 
+          <lb ed="#B1" n="5"/>sino effigiari catulum, &amp; sic domini sui gratiam promereri. Domino ergo 
+          <lb ed="#B1" n="6"/>de rure redeunte occurrit asinus, cum impetu pedes anteriores humeris do 
+          <lb ed="#B1" n="7"/>mini allisit, &amp; clamore ualido rudire cepit. Dominus turbatus &amp; laesus auxi  
+          <lb ed="#B1" n="8"/>lium conuocat famulorum, qui asinum ualidissime fustigatum a domino ab  
+          <lb ed="#B1" n="9"/>egerunt. Isto modo multi sunt, qui putant, quod eos deceat omnis ludus, &amp; 
+          <lb ed="#B1" n="10"/>tamen in rei ueritate displicent, ubi se putant placituros. Narratur fabulose quae  
+          <lb ed="#B1" n="11"/>Minerua inuentis tibijs incepit fistulare. Cum ergo circa aquam quandam suf  
+          <lb ed="#B1" n="12"/>flando tibias incederet: considerauit buccarum suarum magnitudinem, &amp; tu 
+          <lb ed="#B1" n="13"/>morem, &amp; uisa indecentia uultus sui, proiecit tibias suas, nec unquam postea 
+          <lb ed="#B1" n="14"/>uoluit fistulare. Consideret ergo ludens personae suae conditionem, &amp; hone 
+          <lb ed="#B1" n="15"/>statem, &amp; nihil attentet quod eum uel statum suum non deceat: &amp; semper o 
+          <lb ed="#B1" n="16"/>mnia turpia caueat, quae aliquo modo ad peccatum inclinent. Vnde Seneca 
+          <lb ed="#B1" n="17"/>de quatuor uirtutibus: Omnia tolerabilia praeter turpitudinem crede. A uer 
+          <lb ed="#B1" n="18"/>bis autem turpibus abstineto: quia licentia eorum impudentiam nutrit: sermo 
+          <lb ed="#B1" n="19"/>nes utiles magis, quam facetos &amp; affabiles ama: miscebis interdum serijs io 
+          <lb ed="#B1" n="20"/>cos, sed temperatos &amp; sine detrimento dignitatis, &amp; uerecundiae. Nam repre 
+          <lb ed="#B1" n="21"/>hensibilis risus est simul immodicus, uel immoderatus, uel pueriliter effusus, 
+          <lb ed="#B1" n="22"/>uel muliebriter fractus. Odibilem quoqe hominem facit risus, aut superbus, 
+          <lb ed="#B1" n="23"/>aut elatus, aut malignus, &amp; furtiuus, &amp; alienis malis euocatus. Haec Seneca 
+          <lb ed="#B1" n="24"/>De ista honestate &amp; decentia in ludo seruanda dicit Arist. 4. Ethi. cap. 16. Quod  
+          <lb ed="#B1" n="25"/>ludus liberalis &amp; disciplinatus differt a Iudo seruili: &amp; distinguit in hoc: quia 
+          <lb ed="#B1" n="26"/>ludens indisciplinate exponit se duplici damno: uidelicet derisioni, &amp; suspi  
+          <lb ed="#B1" n="27"/>cioni. Vnde indisciplinate ludentes in comoedijs, secundum eum aliquando pa 
+          <lb ed="#B1" n="28"/>tiebantur derisionem, si uidelicet inepte dixerunt: Aliquando suspicionem, quando  
+          <lb ed="#B1" n="29"/>uidelicet turpia dixerunt: quia probabile est, quio qui de turpibus ludunt, in tur 
+          <lb ed="#B1" n="30"/>pibus delectantur. Et ideo ex paruis magna saepe intelligimus (sicut docet Tul  
+          <lb ed="#B1" n="31"/>lius in sua Rhetorica) ex oculorum intuitu, ex hilaritate, &amp; risu, &amp; huiusmodi.  
+          <lb ed="#B1" n="32"/>Sicut (inquit) idem Tullius de Officijs lib. 1. Pueris non omnem licentiam lu 
+          <lb ed="#B1" n="33"/>dendi damus, sed solum circa ea quae ab honestis actionibus non sunt aliena:  
+          <lb ed="#B1" n="34"/>ut sic in ipso ioco semper aliquid probi ingenii elucescat. Et Ambrosius de 
+          <lb ed="#B1" n="35"/>Officijs libro primo: Caueamus ne dum animum relaxare uolumus, solua 
+          <lb ed="#B1" n="36"/>mus omnem harmoniam, quasi concentum quendam bonorum operum. Vsus 
+          <lb ed="#B1" n="37"/>enim cito inflectit naturam. Vnde clericos nullo modo decet procationes mu 
+          <lb ed="#B1" n="38"/>lierum, uel meretricia effigiare gestu, habitu, uel loquela, ne homines suspicen 
+          <lb ed="#B1" n="39"/>tur eos in talibus praecordialiter delectari. Item nec nimiae saltationes decent 
+          <lb ed="#B1" n="40"/>clericos, testante illud Chrysostomo super Matthaeum decimoquarto: <quote xml:id="rhwis-l173-Qd1e372" source="http://scta.info/resource/mt14_6">Die 
+            <lb ed="#B1" n="41"/>autem natalis Herodis saltauit filia Herodiadis</quote>, ubi dicit sic: Vbi saltatio,  
+          <lb ed="#B1" n="42"/>ibi Diabolus: nec enim ad hoc DEVS dedit nobis pedes, ut cum camelis  
+          <lb ed="#B1" n="43"/>saltemus, sed ut cum angelis choros faciamus. In saltibus exultant daemo 
+          <lb ed="#B1" n="44"/>nes &amp; laetantur ministri daemonum. Haec ille. Istam honestatem bene 
+          <lb ed="#B1" n="45"/>seruauerat illa virgo Sara, filia Raguelis, propter quod dicere potuit illud  
+          <lb ed="#B1" n="46"/>Tobiae tertio: Nunquam cum Iudentibus miscui me, neque cum his, qui in 
+          <lb ed="#B1" n="47"/>leuitate ambulant participem me praebui. Secundum quod ludus uirtuosus 
+          <lb ed="#B1" n="48"/>requirit, est prouidentia identitatis, ut ludens semper prouideat, quod Iudus suus 
+          <lb ed="#B1" n="49"/>sit simplex, innocens, &amp; innoxius, ne aliquis inde laedatur. Vnde qui nihil in 
+          <lb ed="#B1" n="50"/>dictis suis ponderant, nisi ut risum faciant, nec curant quem per dicta sua con 
+          <lb ed="#B1" n="51"/>tristent, derisores sunt, &amp; bomolochi: &amp; non eutrapoli secundum Aristot. 4: 
+          <lb ed="#B1" n="52"/>Ethic. Et de tali loquitur Salomon, Proverbiorum 26. Fraudulenter nocet  
+          <lb ed="#B1" n="53"/>amico suo, &amp; cum deprehensus fuerit, dicet, Iudens feci. Tales ludunt more 
+          <!--sap_Page_607.xml-->
+          <pb ed="#B1" n="573"/>
+          <lb ed="#B1" n="1"/>Samsonis, qui tam se quam assistentes ludens opptessit. Iudicum 16. Sed nunquid  
+          <lb ed="#B1" n="2"/>uirtuose ludens poterit alteri conuiciari. Ad hoc satis respondet Aristot. 4. E 
+          <lb ed="#B1" n="3"/>thic. quoe quaedam sunt conuicia contumeliosa, quaedam non: Dicere autem con 
+          <lb ed="#B1" n="4"/>tumeliam alicui, est eum infamare, &amp; ideo talia conuicia dicere nullo modo po 
+          <lb ed="#B1" n="5"/>test uirtuose ludens. Sed hoc apud gentiles legibus prohibebatur. Sunt autem 
+          <lb ed="#B1" n="6"/>alia quaedam conuicia de leuibus, quae potest conuenienter uirtuosus dicere: 
+          <lb ed="#B1" n="7"/>uel propter delectationem, uel propter emendationem sicut exponit ibidem  
+          <lb ed="#B1" n="8"/>Sanctus Thomas.
+        </p>
+        <p xml:id="rhwis-l173-d1e426">
+          <lb ed="#B1" n="9"/>Tertium quod uirtuosus ludus exquirit, est carentia superfluitatis, ne uel ni 
+          <lb ed="#B1" n="10"/>mis frequentet, uel nimis continuetur, &amp; quod fiat, quando oportet, &amp; sicut opor 
+          <lb ed="#B1" n="11"/>tet, &amp; quando debeat fieri, dicit Tullius lib. 1. de Offic. Ludo quidem &amp; ioco uti  
+          <lb ed="#B1" n="12"/>licet: sed sicut somno, &amp; quietibus caeteris: tunc uidelicet, cum grauibus serijs  
+          <lb ed="#B1" n="13"/>alijsque rebus satis fecerimus. Distinguit enim sanctus Thomas triplex genus 
+          <lb ed="#B1" n="14"/>ludi super 4 sententiarum dist. 16. q. ult. ar.1. Est enim Iudus turpis &amp; inho 
+          <lb ed="#B1" n="15"/>nestus, qui in se deformitatem importat, &amp; tales fecerunt gentiles coram dijs 
+          <lb ed="#B1" n="16"/>suis, in theatris &amp; templis, &amp; ille est simpliciter inhibitus Christianis: de Poeni 
+          <lb ed="#B1" n="17"/>ten. di. 5. in fine, &amp; in multis alijs locis. Alius est ludus gaudij spiritualis, qua 
+          <lb ed="#B1" n="18"/>lem faciunt Christiani in die corporis CHRISTI, &amp; qualem fecit Dauid co  
+          <lb ed="#B1" n="19"/>ram arca Domini, 2 Regum 6. Tertius est ludus humanae consolationis, cu 
+          <lb ed="#B1" n="20"/>ius medietas uocatur * eutrapelia, &amp; uirtuosus ista uirtute dicitur ab Aristot.  
+          <lb ed="#B1" n="21"/>libro 4. Ethicorum cap. 8. Teutrapelus, quae uirtus est ita necessaria humanc 
+          <lb ed="#B1" n="22"/>conuictui, quo secundum eum proprium eutrapeli est, esse tepidexiotem, ab ep 
+          <lb ed="#B1" n="23"/>quod est supra, &amp; doxios quod est aptus ad conuictum, quasi optime aptus 
+          <lb ed="#B1" n="24"/>humanum. Et de tali ludo potest exponi illud Zacha. 8. Plateae ciuitatis imple 
+          <lb ed="#B1" n="25"/>buntur infantibus, &amp; puellis ludentibus.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

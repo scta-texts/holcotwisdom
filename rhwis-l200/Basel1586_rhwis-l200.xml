@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 200 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 200 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="658"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l200">
+        <p xml:id="rhwis-l200-d1e95">
+          <lb ed="#B1" n="22"/>POSTQVAM actum est de mirabili exterminatione primoge 
+          <lb ed="#B1" n="23"/>nitorum in Aegypto quantum ad qualitatem eius: Hic agitur de 
+          <lb ed="#B1" n="24"/>eiusdem poenae magnitudine, quantum ad ipsius multiplicem acer 
+          <lb ed="#B1" n="25"/>bitatem. Circa quod tria facit. Primo ostendit quod illa poena nulli 
+          <lb ed="#B1" n="26"/>pepercit propter generis nobilitatem. Secundo quod nulli pepercit, propter 
+          <lb ed="#B1" n="27"/>temporis importunitatem. Et tertio, quod nulli pepercit status insensibilita 
+          <lb ed="#B1" n="28"/>tem. secunda ibi: Cum enim quietum. tertia ibi: Tunc continuo.
+        </p>
+        <p xml:id="rhwis-l200-d1e113">
+          Circa primum di 
+          <lb ed="#B1" n="29"/>cuntur tria. Nam primo enarratur poenae generalis indifferentia: Secundo 
+          <lb ed="#B1" n="30"/>sepulturae legalis insufficientia: Tertio contritionis aliqualis euidentia. Circa 
+          <lb ed="#B1" n="31"/>primum dicit, quod in poena ipsius plagae qua exterminabantur Aegyptiorum 
+          <lb ed="#B1" n="32"/>pri mogenita fuit duplex indifferentia: quia communiter &amp; indifferenter as 
+          <lb ed="#B1" n="33"/>fligebantur dominus &amp; seruus, rex &amp; uulgus. Simili (inquit) pena, &amp;c. Et ex  
+          <lb ed="#B1" n="34"/>noc conciudit, quod omnes simul vno nomine mortis mortuos habepant innumerabi  
+          <!--sap_Page_693.xml-->
+          <pb ed="#B1" n="659"/>
+          <lb ed="#B1" n="1"/>les. Insufficientia uero sepulturae subiungitur pro tanto, quod mortui fuerunt  
+          <lb ed="#B1" n="2"/>tot, quot uiui defecerunt prae tristitia, nec suffecerunt ad sepeliendum mortuos. 
+          <lb ed="#B1" n="3"/>Vnde suodit: Naec enim ad sepeliendum sufficiebant: quoniam vno momento quae 
+          <lb ed="#B1" n="4"/>erat praeclarior natio eorum: id est, primogenitorum exterminata est, &amp;c. Et ter 
+          <lb ed="#B1" n="5"/>tium, aliqualis contritionis euidentia, quae tunc in Aegyptijs apparuit: quod  
+          <lb ed="#B1" n="6"/>Ni, qui nullo modo volebant credere propter ipsa beneficia, tunc, quando extermi 
+          <lb ed="#B1" n="7"/>nium factum est primogenitorum spoponderunt se populum DEI esse: id est, pro 
+          <lb ed="#B1" n="8"/>miserunt se uelle subijci DEO, tali pacto, quod plaga cessaret. Vel legitur ali  
+          <lb ed="#B1" n="9"/>ter de Hebraeis, qui ante mortem primogenitorum, uisis alijs plagis Aegy 
+          <lb ed="#B1" n="10"/>ptiorum, &amp; beneficijs sibi praestitit, non crediderunt perfecte in DEVM: sed  
+          <lb ed="#B1" n="11"/>tunc primo cum uiderent mortem primogenitorum confessi sunt, se popu 
+          <lb ed="#B1" n="12"/>lum DEI esse. Et nota quod tria ponuntur hic historialiter peccata, quae quo 
+          <lb ed="#B1" n="13"/>tidie fieri cernimus inter gentes. Dicitur enim quod de qualibet familia iace 
+          <lb ed="#B1" n="14"/>batunus mortuus, &amp; quod iste erat de natione clariori: quia primogenitus. 
+          <lb ed="#B1" n="15"/>Et uisa illa plaga Aegyptij egerunt poenitentiam fictam, &amp; spoponderunt se fi 
+          <lb ed="#B1" n="16"/>lios DEI esse. Isto modo moraliter, si scrutemur, uix est aliqua domus, uel fa 
+          <lb ed="#B1" n="17"/>milia, in qua non iacet aliquis mortuus peccato, imo forte plures: quia stulto  
+          <lb ed="#B1" n="18"/>rum infinitus est numerus, Eccles. 1. Item consideremus ad oculum: illi qui de 
+          <lb ed="#B1" n="19"/>berent esse praeclariores, &amp; nobiliores genere, plurimum inueniuntur mor 
+          <lb ed="#B1" n="20"/>tui morte culpae. Item &amp; hoc perpendere possumus euidenter, quod ficta est 
+          <lb ed="#B1" n="21"/>poenitentia nonnullorum: qui tempore infirmitatis uel aduersitatis clamant  
+          <lb ed="#B1" n="22"/>ad DEVM plus timore poenae, quam amore iustitiae. Et ideo quando resti 
+          <lb ed="#B1" n="23"/>tuuntur sanitati uel prosperitati, redeunt ad solitam peruersitatem, sicut de lu 
+          <lb ed="#B1" n="24"/>po metrice dicitur:  
+          <lb ed="#B1" n="25"/>Heu cum languebat monachus lupus esse volebat.  
+          <lb ed="#B1" n="26"/>Sed dum conualusit mansit vt ante fuit. Item: 
+          <lb ed="#B1" n="27"/>Dum fero languorem, fero religionis amorem. 
+          <lb ed="#B1" n="28"/>Expers languoris, non sum memor huius amoris.
+        </p>
+        <p xml:id="rhwis-l200-d1e194">
+          <lb ed="#B1" n="29"/>Sic Antiochus a DEO percussus, promisit se ludaeum futurum, &amp; omnem lo 
+          <lb ed="#B1" n="30"/>cum terrae perambulaturum, &amp; praedicaturum DEI potestatem, 2. Machabus 9. 
+          <lb ed="#B1" n="31"/>quod non fecit. Circa illam clausulam: Popularis homo regi similia passus: Notan 
+          <lb ed="#B1" n="32"/>dum est, quod aliqua circa statum regium decreuerunt antiqui solicitius obser 
+          <lb ed="#B1" n="33"/>uanda: scilicet, praelationis regiae necessitatem, institutionis congruitatem, exe 
+          <lb ed="#B1" n="34"/>cutionis autoritatem, &amp; bonae conuersationis probitatem. Circa primum est 
+          <lb ed="#B1" n="35"/>advertendum, quod necessitatem regiae praelationis pulchre declarat Petrus 
+          <lb ed="#B1" n="36"/>Rauen. in suo epistolari epistola 1. dicit sic: Ad extollenda iustorum praeconia, 
+          <lb ed="#B1" n="37"/>&amp; reprimendas insolentias transgressorum, prospiciens e coelo iustitia erexit  
+          <lb ed="#B1" n="38"/>in populis regnantium solia, &amp; diuersorum principum potestates. Caruisset 
+          <lb ed="#B1" n="39"/>namque libentius humana conditio iugo dominij, nec libertatem a se quam  
+          <lb ed="#B1" n="40"/>eis natura donauerat, homines abdicassent, nisi quod impunita licentia scele 
+          <lb ed="#B1" n="41"/>rum, in euidentiam humani generis perniciem, redundabat. Et sic necessitate 
+          <lb ed="#B1" n="42"/>quadam oportuit naturam subesse iustitiae, &amp; seruare iudicij libertatem: sed nec 
+          <lb ed="#B1" n="43"/>extrinsecus exquiri decuit speciem aliquam creaturae, cui se repraesentata per ho 
+          <lb ed="#B1" n="44"/>minem coelestis imago subijceret. Sed homo praelatus est huiusmodi, ut gratiorem 
+          <lb ed="#B1" n="45"/>praelaturam efficeret identitas speciei potissime, cum diuina sententia praefecit ad re 
+          <lb ed="#B1" n="46"/>gimen populorum Romanorum imperium: dum ostensa sibi figura numismatis in 
+          <lb ed="#B1" n="47"/>redditione census, &amp; solutionibus tributorum prae caeteris regibus Caesareae for 
+          <lb ed="#B1" n="48"/>tunae praesigniuit fastigium: cui subiecit omnimodas nationes, non ad hoc so 
+          <lb ed="#B1" n="49"/>lum, ut eis imperando praeesset, sed ut ipsius potius iustitiae copiam ministran 
+          <lb ed="#B1" n="50"/>do prodesset, ne per impunitatem criminum conualescat insolentia transgres  
+          <lb ed="#B1" n="51"/>sorum. Haec ille. In qua sententia tres quaestiones soluuntur. Prima qua 
+          <lb ed="#B1" n="52"/>re necesse fuit regimen regis inter homines introduci, cum homo deside 
+          <lb ed="#B1" n="53"/>ret naturaliter libertate gaudere. Ratio est, ne impunita licentia scelerum 
+          <!--sap_Page_694.xml-->
+          <pb ed="#B1" n="660"/>
+          <lb ed="#B1" n="1"/>iustitiam extirparet, &amp; ideo oportuit libertatem subesse iustitiae. Secunda 
+          <lb ed="#B1" n="2"/>quare nulla species animalis creaturae assumpta est in regimine hominis uide 
+          <lb ed="#B1" n="3"/>licet. Quia homo est animal rationale habens in se imaginem Trinitatis: &amp; 
+          <lb ed="#B1" n="4"/>ideo nulli creaturae subijci debuit corporali, quae imagine talicaret: nec ange 
+          <lb ed="#B1" n="5"/>lus ei praelatus est, sed homo homini, ut gratiorem praelaturam efficeret iden 
+          <lb ed="#B1" n="6"/>titas speciei. Tertia quod ex sententia dicta liquet, quis inter reges regendi 
+          <lb ed="#B1" n="7"/>teneat fastigium: quia uidelicet lmperator ex sententia Saluatoris, Matthaei 
+          <lb ed="#B1" n="8"/>uigesimosecundo: Reddite ergo quae sunt Caesaris, Caesari, &amp; quae sunt DEI, 
+          <lb ed="#B1" n="9"/>DEO. Regna vero quatuor imperialia praeterisse cognoscimus, secundum 
+          <lb ed="#B1" n="10"/>Chronicas, &amp; in prophetia legimus Daniel. 7. uidelicet Assyriorum Per 
+          <lb ed="#B1" n="11"/>sarum, Graecorum &amp; Romanorum. Imperium uero Romanorum, quod per 
+          <lb ed="#B1" n="12"/>Constantinum ad Graecos fuit deuolutum, transtulit Romana Ecclesia in Teu 
+          <lb ed="#B1" n="13"/>thonicos, in persona Caroli Magni, filij Pipini, tempore Stephani secundi, ex  
+          <lb ed="#B1" n="14"/>tra de elect. &amp; elect. potestate c. uenerabilem. Hic autem est rex regum, cui 
+          <lb ed="#B1" n="15"/>omnes subsunt nationes &amp; populi, qui uidelicet temporalia ab eo recipiunt.  
+          <lb ed="#B1" n="16"/>Sacerdotio tamen ac summo Pontifici debet subesse, sicut declaratur extra de 
+          <lb ed="#B1" n="17"/>maioritate &amp; obedientiac. Solite. Pontifex enim in spiritualibus antecel  
+          <lb ed="#B1" n="18"/>lit, quae tanto temporalibus sunt digniora, quanto anima praefertur corpori 
+          <lb ed="#B1" n="19"/>Vnde Imperatori praecellere declaratur in decretali praedicta dupliciter, uel  
+          <lb ed="#B1" n="20"/>duplici autoritate. Quarum una est, quod Dominus dixit leremiae, qui  
+          <lb ed="#B1" n="21"/>sacerdos fuit: Ecce constitui te hodie super gentes, &amp; regna, Ieremiae primo 
+          <lb ed="#B1" n="22"/>Alia est Genesis primo: ibi dicit, quod DEVS fecit duo magna luminaria: id  
+          <lb ed="#B1" n="23"/>est, duas potestates instituit, quae sunt pontificalis &amp; regalis potestas, ad Ec 
+          <lb ed="#B1" n="24"/>clesiae firmamentum: sed illa quae praeest diei: id est, spiritualibus maior est: quae 
+          <lb ed="#B1" n="25"/>uero nocti: id est, carnalibus, minor est. Secundo de regiae institutionis con 
+          <lb ed="#B1" n="26"/>gruitate est sciendum, quod institutio regis siue principis quadruplici uia so 
+          <lb ed="#B1" n="27"/>let esse legitima: uidelicet diuina prouisione, Ecclesiae collatione generis  
+          <lb ed="#B1" n="28"/>successione, &amp; unanimi electione. Exemplum primi de Saul &amp; Dauid, pri 
+          <lb ed="#B1" n="29"/>mo Regum decimo. Exemplum secundi quomodo Moyses praefecit losuam  
+          <lb ed="#B1" n="30"/>Deuteronom. trigesimo primo. Et Samuel unxit Dauid in regem: in figu 
+          <lb ed="#B1" n="31"/>ra quod uicarius CHRISTI &amp; praelatus Ecclesiae confert principatum, 
+          <lb ed="#B1" n="32"/>&amp; regiam potestatem ad utilitatem Ecclesiae: Vnde &amp; uis &amp; autoritas exami 
+          <lb ed="#B1" n="33"/>nandi personam electam in regem, &amp; promouendi ad imperium ad Papam 
+          <lb ed="#B1" n="34"/>spectat: sicut patet extra de electionec. Venerabilem. Exemplum tertii de 
+          <lb ed="#B1" n="35"/>Salomone filio Dauidis, &amp; multis alijs. Exemplum quarti de Vespasiano, &amp; 
+          <lb ed="#B1" n="36"/>multis alijs, qui electione populi uel senatus adepti sunt regiam dignitatem. 
+          <lb ed="#B1" n="37"/>De quadam autem principis electione mirabili narrat Solinus de mirabili  
+          <lb ed="#B1" n="38"/>bus Mundi, ita dicens: Apud Trachiam in regis electione non nobilitas prae 
+          <lb ed="#B1" n="39"/>ualet, sed suffragium uniuersorum. Populus enim eligit spectabilem in mo 
+          <lb ed="#B1" n="40"/>ribus, uel inueteratum clementia, uel annis grauem: sed hoc in eo quaeritur cui  
+          <lb ed="#B1" n="41"/>liberi nulli sunt. Nam qui pater fuerit, etiam si uita polleat, non admittitur ad 
+          <lb ed="#B1" n="42"/>regendum: &amp; si forte dum regat, genuerit, exuitur potestate. Ideo hoc ma 
+          <lb ed="#B1" n="43"/>xime custoditur, nec fiat haereditarium regnum: deinde si rex praeferat maxi 
+          <lb ed="#B1" n="44"/>mam aequitatem, nolunt ei totum licere, sed quadraginta rectores accipit, ne 
+          <lb ed="#B1" n="45"/>in causis capitum solus iudicet: &amp; si displiceat, iudicatum ad populum reuo 
+          <lb ed="#B1" n="46"/>catur, atque ita datis iudicibus septuaginta fertur sententia, cui necessario ad 
+          <lb ed="#B1" n="47"/>quiescere est. Haec Solinus. Tertio de regiae executionis autoritate potest ex  
+          <lb ed="#B1" n="48"/>poni illud Proverbiorum uigesimo: Rex qui sedet in solio iudicij, dissipat o 
+          <lb ed="#B1" n="49"/>mne malum intuitu suo. Vbi quatuor conditiones ponuntur necessario ex  
+          <lb ed="#B1" n="50"/>quisitae, ad hoc, quod regia autoritas executionem debitam sortiatur, scilicet 
+          <lb ed="#B1" n="51"/>tranquillitas in praesidendo: quod notatur cum dicitur: Rex qui sedet. Ae qui  
+          <lb ed="#B1" n="52"/>tas in discernendo: quia in solio iudicij. Perspicacitas in inquirendo, int ui  
+          <lb ed="#B1" n="53"/>tu suo: &amp; ueritas in puniendo dissipatomne malum. Quarto praecipue pen 
+          <!--sap_Page_695.xml-->
+          <pb ed="#B1" n="661"/>
+          <lb ed="#B1" n="1"/>sabant antiqui regiae conuersationis probitatem: ut sicut praecedit &amp; praecellit  
+          <lb ed="#B1" n="2"/>ceteros dignitate regali, sic antecedat bonitate morali: unde Sen. epistola 180. 
+          <lb ed="#B1" n="3"/>Naturae est non deterioribus potiora submittere, sed melioribus. Arietes qui 
+          <lb ed="#B1" n="4"/>ducatu praesunt gregibus, aut maxima cornua habent, aut uehementissima: id  
+          <lb ed="#B1" n="5"/>est, fortissima. Non praecedit armenta degener taurus, sed qui magnitudine 
+          <lb ed="#B1" n="6"/>caeteros mares uincit: Elephantorum gregem excellentissimus ducit. Summa 
+          <lb ed="#B1" n="7"/>felicitas erat Gentium in aureo seculo, in quo non poterat potentior esse nisi 
+          <lb ed="#B1" n="8"/>melior. In illo igitur seculo, quod aureum perhibetur, penes sapientes fuisse re 
+          <lb ed="#B1" n="9"/>gnum Possidonius iudicat: quando officium erat imperare, non regnum. Haec 
+          <lb ed="#B1" n="10"/>Senec. &amp; Boët. de conso. 53. prosa 4. dicit sic: Tu, inquit, hanc sententiam ore 
+          <lb ed="#B1" n="11"/>Platonis sanxisti, beatas fore respublicas, si eas uel studiosi sapientiae regerent,  
+          <lb ed="#B1" n="12"/>uel earum rectores studere sapientiae contigisset. Vnde metrice dicitur:  
+          <lb ed="#B1" n="13"/>Regna beata forent si vel contingeret esse: 
+          <lb ed="#B1" n="14"/>Philosophos reges: vel reges philosophari.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

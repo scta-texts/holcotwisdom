@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 188 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 188 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="617"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l188">
+        <p xml:id="rhwis-l188-d1e95">
+          <lb ed="#B1" n="15"/>POSTQVAM Autor descripsit tenebras triduanas, olim illa 
+          <lb ed="#B1" n="16"/>tas Aegyptijs, quantum ad earum densitatem: quia fuerunt pal  
+          <lb ed="#B1" n="17"/>pabiles. In ista parte describit easdem, quantum ad puniendi po 
+          <lb ed="#B1" n="18"/>testatem, ostendens quod nullum remedium potuerunt Aegy 
+          <lb ed="#B1" n="19"/>ptij adhibere, quo contra tenebras se iuuarent: negabatur eis re 
+          <lb ed="#B1" n="20"/>medium tam intrinsecum quam extrinsecum. Intrinsecum remedium possent 
+          <lb ed="#B1" n="21"/>sibi sperasse per animosam audaciam cordis, sed contra illud remedium ha 
+          <lb ed="#B1" n="22"/>buerunt pauorem maximum, ut nullus quantumcunque cordatus posset  
+          <lb ed="#B1" n="23"/>alium animare. Primo ergo ostendit eos caruisse remedio consolationis cuius  
+          <lb ed="#B1" n="24"/>libet ab intrinseco. Secundo ostendit eos caruisse remedio, quod possent spe 
+          <lb ed="#B1" n="25"/>rasse ab extrinseco. secunda pars ibi: Neque enim quae continebat.
+        </p>
+        <p xml:id="rhwis-l188-d1e121">
+          <lb ed="#B1" n="26"/>Quantum ad primum tangit tria grauia, propter quae potuit tunc tempo  
+          <lb ed="#B1" n="27"/>ris nullus alium consolari: fuerunt enim dispersi locali separatione, fuerunt pa 
+          <lb ed="#B1" n="28"/>uidi &amp; percussi stupefactione, fuerunt turbati &amp; positi in nimia admiratio  
+          <lb ed="#B1" n="29"/>ne. Vnde dicit sic: Et dum putantsuppse Aegyptij, se latere in obscuris pecca  
+          <lb ed="#B1" n="30"/>tis, tenebroso obliuionis velamento dispersi sunt. Nentem tenebrosum uocat uen 
+          <lb ed="#B1" n="31"/>lamentum obliuionis: sicut enim lumen efficit &amp; figurat scientiam: ita tene 
+          <lb ed="#B1" n="32"/>brae obliuionem designant &amp; ignorantiam. Dicuntur peccata obscura pro 
+          <lb ed="#B1" n="33"/>pter effectum: quia auferunt cognitionem uerae lucis, Ephes. 4. Tenebris ob  
+          <lb ed="#B1" n="34"/>scuratum habentes intellectum: Et quia ducunt ad obscuritatem inferni. In 
+          <lb ed="#B1" n="35"/>Psalmo: Obscurantur oculi eorum ne uideant. Sic ergo fuerunt illi Aegyptij 
+          <lb ed="#B1" n="36"/>dispersi ab inuicem. Quia quidam erant in domibus, &amp; quidam in agris: &amp; illi  
+          <!--sap_Page_652.xml-->
+          <pb ed="#B1" n="618"/>
+          <lb ed="#B1" n="1"/>qui prope se erant, reputabant se multum distare propter tenebras palpabiles  
+          <lb ed="#B1" n="2"/>interpositas. Vnde fuerunt pauentes horrende &amp; cum admiratione perturbati.  
+          <lb ed="#B1" n="3"/>Consequenter excludit ab eis remedium, quod possent sperasse ab extrinsecq 
+          <lb ed="#B1" n="4"/>Possent autem sperasse triplex remedium ab extrinseco, contra illas tenebras. 
+          <lb ed="#B1" n="5"/>Primo loci securitatem: secundo ignis claritatem: tertio magorum suorum 
+          <lb ed="#B1" n="6"/>subtilitatem: &amp; ideo ista tria ab eis excludit. primum ibi: Nsque enim contine. 
+          <lb ed="#B1" n="7"/>bat. secundum ibi: Ignis quidem. tertium ibi: Et magicae artis. Quantum ad pri 
+          <lb ed="#B1" n="8"/>mum a loco continente eos, durantibus illis tenebris nullum habebant so 
+          <lb ed="#B1" n="9"/>latium propter duo. Primo propter strepitum quem audiebant in loco: quia 
+          <lb ed="#B1" n="10"/>quemlibet terrebat ille sonus. Secundo propter melancholicas imaginationes  
+          <lb ed="#B1" n="11"/>de daemonibus &amp; mortuis hominibus. Vnde dicit sic: Nec enim illa quae con 
+          <lb ed="#B1" n="12"/>tinebat illos spelunca: quia ad foueas &amp; cauernas multi confugerant, sine timo 
+          <lb ed="#B1" n="13"/>re custodiebat, quoniam sonitus descendens perturbabat illos, &amp; personae tristes 
+          <lb ed="#B1" n="14"/>illis apparentes uistione imaginatia, pauorem prestabant.
+        </p>
+        <p xml:id="rhwis-l188-d1e182">
+          <lb ed="#B1" n="15"/>Et personae tristes illis apparentes.] Nota quod quatuor sunt genera mala tri 
+          <lb ed="#B1" n="16"/>stium personarum quae ducunt communiter in tristitia dies suos, uidelicet in 
+          <lb ed="#B1" n="17"/>uidi &amp; perfidi, cupidi &amp; stupidi. Inuidi mordaces, perfidi fallaces, cupidi te 
+          <lb ed="#B1" n="18"/>naces, &amp; stupidi pertinaces. Primo uidemus quod omnes inuidi sunt com 
+          <lb ed="#B1" n="19"/>muniter tristes. Vnde Ouidius secundo Metamorphoseos fabulatur, quali  
+          <lb ed="#B1" n="20"/>ter Pallas iuit ad inuidiam, ut procuraret mortem * Aglantis, ubi descri 
+          <lb ed="#B1" n="21"/>bit quatuor ad inuidiam pertinentia, uidelicet domum, personam, escam, &amp; 
+          <lb ed="#B1" n="22"/>uiam. Domum describit: 
+          <lb ed="#B1" n="23"/>Protinus inuidiae nigro squalentia tabo.  
+          <lb ed="#B1" n="24"/>Tecta petit domus, &amp; est in vallibus imis 
+          <lb ed="#B1" n="25"/>Aodita, sole carens nonnulli peruia vento. 
+          <lb ed="#B1" n="26"/>Tristis &amp; ignaui plenissima frigoris, &amp; quae 
+          <lb ed="#B1" n="27"/>igne vacet semper: caligine semper abundet.
+        </p>
+        <p xml:id="rhwis-l188-d1e213">
+          <lb ed="#B1" n="28"/>Vult ergo dicere quod domus inuidiae est situata in uallibus, pro tanto, quod  
+          <lb ed="#B1" n="29"/>personae humiles inuident superioribus: &amp; omnis inuidus ideo inuidet: quia 
+          <lb ed="#B1" n="30"/>se inferiorem alio, in aliquo, quod appetit, esse uidet. Inferior planeta ecli 
+          <lb ed="#B1" n="31"/>psat superiorem, &amp; non econtra: sicut patet de Luna &amp; Sole: &amp; ita regulari 
+          <lb ed="#B1" n="32"/>ter illi qui minus ualent, &amp; sunt gratijs &amp; meritis inferiores, obumbrare ni 
+          <lb ed="#B1" n="33"/>tuntur per inuidiam meliores. Et ideo signanter dicit Iob 5. Paruulum oc 
+          <lb ed="#B1" n="34"/>cidit inuidia. Vnde merito dicitur quod domus inuidiae est in imis ualli  
+          <lb ed="#B1" n="35"/>bus situata. Tectum huius domus est coopertum squalenti tabe: id est, ue 
+          <lb ed="#B1" n="36"/>neno, squalore, &amp; languore. Nam tota locutio inuidiae est de peccato, to 
+          <lb ed="#B1" n="37"/>ta consideratio de defectibus electorum. Item domus inuidiae caret sole: 
+          <lb ed="#B1" n="38"/>quia nunquam gaudet de prosperitate, seu felicitate proximorum, imo uen 
+          <lb ed="#B1" n="39"/>ti bonarum narrationum eum occidunt. Item domus inuidiae est tristis. Di  
+          <lb ed="#B1" n="40"/>cit enim Damascenus: quod inuidia est tristitia de alienis bonis. Vnde sicut  
+          <lb ed="#B1" n="41"/>bufo tristatur de bono odore uinearum florentium: ita inuidus de profectu 
+          <lb ed="#B1" n="42"/>ualentium personarum. Item domus inuidiae semper caret igne, &amp; est ple  
+          <lb ed="#B1" n="43"/>na frigore: quia nullus inuidus feruet charitate, caligine tamen semper abun 
+          <lb ed="#B1" n="44"/>dat: quia nunquam bene iudicat inuidus de personis. Secundo quantum 
+          <lb ed="#B1" n="45"/>ad escam dicitur, quod Pallas eam inuenit comedentem carnes uipereas. Nam 
+          <lb ed="#B1" n="46"/>omnis inuidus pascitur de malignis cogitationibus, &amp; machinationibus tur 
+          <lb ed="#B1" n="47"/>batiuis aliorum. Tertio personam inuidi describit Ouidius sic: 
+          <lb ed="#B1" n="48"/>Pallor in ore sedet, macies in corpore toto  
+          <lb ed="#B1" n="49"/>Nu squam recta acies liuent rubigine dentes. 
+          <lb ed="#B1" n="50"/>pectora felle virent. lingua est suffusa veneno. 
+          <lb ed="#B1" n="51"/>Risus abest, nisi quem visi fecere dolores. 
+          <lb ed="#B1" n="52"/>Nec fruitur somno, vigilantibus excita curis, 
+          <lb ed="#B1" n="53"/>Sed videt ingratos, int abescitque videndo 
+          <!--sap_Page_653.xml-->
+          <pb ed="#B1" n="619"/>
+          <lb ed="#B1" n="1"/>Successus hominum carpit, &amp; carpitur vna 
+          <lb ed="#B1" n="2"/>Suppliciumque suum est, &amp;c
+        </p>
+        <p xml:id="rhwis-l188-d1e281">
+          <lb ed="#B1" n="3"/>Quarto uiam &amp; modum incedendi inuidiae euntis uersus Athenas de 
+          <lb ed="#B1" n="4"/>scribit sic: 
+          <lb ed="#B1" n="5"/>Indoluit baculumque, capit, quem spinea tortum 
+          <lb ed="#B1" n="6"/>Vincula cingebant adopert aqe, nubibus atris.  
+          <lb ed="#B1" n="7"/>Quacunque increditur florentia proterit arua 
+          <lb ed="#B1" n="8"/>Exurit que, herbas, &amp; summa cacumina carpit. 
+          <lb ed="#B1" n="9"/>Aifflatuque suo populus: vrbesque, domosque 
+          <lb ed="#B1" n="10"/>polluit, &amp;c 
+          <lb ed="#B1" n="11"/>Ecce modus nocendi, quem inuidus semper obseruat. Portat baculum ple 
+          <lb ed="#B1" n="12"/>num spinis, quia illud unde fulcire deberet pungit: &amp; non portat, quia non est 
+          <lb ed="#B1" n="13"/>quod inuidum posset delectari: atris nubibus operitur, quia inuidus &amp; detra 
+          <lb ed="#B1" n="14"/>ctor nunquam claram, sed obscuram dicit sententiam de illo, cui nocere pro 
+          <lb ed="#B1" n="15"/>ponit. Item quacunque ingreditur florentia arua proterit: quia inuidus nulli no 
+          <lb ed="#B1" n="16"/>cet nisi aliqua uirtute florescat. Vnde Valerius libro quarto: Nulla tam hone 
+          <lb ed="#B1" n="17"/>sta ciuitas, quae malignitatis dentes possit uitare. Diuites enim sunt alienis ia 
+          <lb ed="#B1" n="18"/>cturis, locupletes funeribus. Vnde quidam interrogatus, quomodo inuidus 
+          <lb ed="#B1" n="19"/>non haberetur: Respondit si nihil (inquit) ex magnis rebus habueris, aut ni 
+          <lb ed="#B1" n="20"/>hil felicitatis gesseris: nam sola miseria caret inuidia. Vnde Tullius ultimo re 
+          <lb ed="#B1" n="21"/>thoricae ponit exemplum de colore, qui uocatur gradatio, &amp; ait: Affirmatio 
+          <lb ed="#B1" n="22"/>iustitiam, iustitia ueritatem, ueritas gloriam, &amp; gloria aemulationem parit. 
+          <lb ed="#B1" n="23"/>Quarto dicit: quod exurit herbas: id est, iuuenes proficientes: sicut talpa caeca, 
+          <lb ed="#B1" n="24"/>quae moratur in terra, &amp; radices herbarum rodit, &amp; impedit ab augmento, &amp; 
+          <lb ed="#B1" n="25"/>non solum herbas, imo summa cacumina carpit: quia semper contra superio  
+          <lb ed="#B1" n="26"/>res suos praelatos &amp; dominos inuidus quisque garrit. Vltimo dicit, quod ex  
+          <lb ed="#B1" n="27"/>afflatu suo: id est, uerbo malicioso polluit omnem populum, &amp; urbem quam 
+          <lb ed="#B1" n="28"/>attingit. Hoc est primum genus tristium personarum. De qua tristitia dicitur  
+          <lb ed="#B1" n="29"/>Proverb. 25. Sicut tinea uestimento, &amp; uermes ligno, ita tristitia nocet cordi, 
+          <lb ed="#B1" n="30"/>Eccles. 30. Tristitiam longe expelle a te, multos enim occidit tristitia. Secun 
+          <lb ed="#B1" n="31"/>do uidemus quod omnes perfidi &amp; fallaces sunt communiter mali &amp; tristes. 
+          <lb ed="#B1" n="32"/>Vnde hypocritae ut decipiant alios quandam exteriorem tristitiam simulant  
+          <lb ed="#B1" n="33"/>&amp; sanctitatem. Contra quos monet Saluator Matth. 6. <quote xml:id="rhwis-l188-Qd1e350" source="http://scta.info/resource/mt6_16">Cum ieiunatis, nolite 
+            <lb ed="#B1" n="34"/>fieri sicut hypocritae tristes</quote>. Tales sunt iocundissimi in lasciuias, in occulto &amp; 
+          <lb ed="#B1" n="35"/>tristissimi, quantum ad apparentiam in publico, similes Gelliae de qua Mar 
+          <lb ed="#B1" n="36"/>tialis Cocus lib. epigram. 3. Senec. epist. 35. Ambrosius in quodam sermone: 
+          <lb ed="#B1" n="37"/>Latet plerunque sub tristi amictu lasciuia, &amp; deformis horror uili ueste obtexi 
+          <lb ed="#B1" n="38"/>tur, ut secreta tegantur petulantium animorum. Contra tales Horatius: 
+          <lb ed="#B1" n="39"/>Nunquam te fallant Tagni sub vulpe latentes. 
+          <lb ed="#B1" n="40"/>Impia sub dulci melle venena latent.
+        </p>
+        <p xml:id="rhwis-l188-d1e370">
+          <lb ed="#B1" n="41"/>Tertium genus tristium personarum sunt cupidi &amp; tenaces, imitatores Na 
+          <lb ed="#B1" n="42"/>bal, qui semper sunt in timore &amp; dolore, quomodo aliquid acquirant, uel 
+          <lb ed="#B1" n="43"/>adquisita retineant. Ecclesiast. capite secundo: Cuncti dies eius aerumnis 
+          <lb ed="#B1" n="44"/>&amp; doloribus pleni sunt, nec per noctem mente requiescunt. Talis fuit ille iu 
+          <lb ed="#B1" n="45"/>uenis, cui Saluator dixit Matthaei capite decimonono: <quote xml:id="rhwis-l188-Qd1e383" source="http://scta.info/resource/mt19_21">Si uis perfectus esse,  
+            <lb ed="#B1" n="46"/>uade, &amp; uende omnia quae habes, &amp; da pauperibus, &amp; habebis thesau 
+            <lb ed="#B1" n="47"/>rum in coelo, &amp; ueni sequere me</quote>, &amp; <quote xml:id="rhwis-l188-Qd1e390" source="http://scta.info/resource/mt19_22">abijt tristis. Erat enim habens possessio  
+              <lb ed="#B1" n="48"/>nes multas</quote>. Contra quos dicitur Ecclesiast. capite quarto: Declina paupe 
+          <lb ed="#B1" n="49"/>ri aurem tuam sine tristitia. Quartum genus male tristium personarum in a 
+          <lb ed="#B1" n="50"/>praesenti sunt stupidi, &amp; pertinaces, qui de DEI clementia &amp; pietate diffi 
+          <lb ed="#B1" n="51"/>dunt: quorum aliqui de peccatis proprijs sic irremediabiliter tristantur, ut di  
+          <lb ed="#B1" n="52"/>cant sacramentum poenitentiae eis non posse sufficere ad salutem: Vel quia iu 
+          <!--sap_Page_654.xml-->
+          <pb ed="#B1" n="620"/>
+          <lb ed="#B1" n="1"/>stitia DEI non permittat eum poenitentibus misereri. Contra quos Psalmus 
+          <lb ed="#B1" n="2"/>alloquens animam suam, dicit sic: Quare tristis es anima mea, &amp; quare contur  
+          <lb ed="#B1" n="3"/>bas me, &amp;c. Aliqui sunt de istis, sicut qui mortem amicorum suorum incon 
+          <lb ed="#B1" n="4"/>solabiliter nimis plangunt, quasi uel de eorum beatitudine, uel eorum resurre. 
+          <lb ed="#B1" n="5"/>ctione futura desperent. Contra quos Apostolus 1. Thessalonic. 4. Nolo uos 
+          <lb ed="#B1" n="6"/>ignorare fratres de dormientibus, ut non contristemini, sicut &amp; caeteri qui  
+          <lb ed="#B1" n="7"/>spem non habent. Et qui istud genus tristitiae patiuntur, miserrimi sunt, &amp; 
+          <lb ed="#B1" n="8"/>de miseria praesenti uadunt ad miseriam aeternam. Contra quos signanter 
+          <lb ed="#B1" n="9"/>dicitur Eccles. decimoquarto: Felix qui non habuit animi tristitiam, &amp; non 
+          <lb ed="#B1" n="10"/>excidit a spe sua.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

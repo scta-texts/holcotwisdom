@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 207 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 207 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="681"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l207">
+        <p xml:id="rhwis-l207-d1e95">
+          <lb ed="#B1" n="33"/>POSTQVAM declaratum est, quo Aegyptij persequentes filios Israel, 
+          <lb ed="#B1" n="34"/>utebantur contra eos uehementi malitia: In ista parte ostenditur con 
+          <lb ed="#B1" n="35"/>sequenter, quod statim postea submersi fuerunt, ex conuenienti di 
+          <lb ed="#B1" n="36"/>uina iustitia. Et primo tangitur eorum poena. Secundo ipsius poenae fi 
+          <lb ed="#B1" n="37"/>nalis causa. ibi: Vt quae deerant. Ex parte poenae dicitur sic: Ducebatenim illos, scili 
+          <lb ed="#B1" n="38"/>cet Aegyptios &amp; persecutores filiorum Iirael. ad hunc sinem, scilicet ut periclitarentur  
+          <lb ed="#B1" n="39"/>in mari rubro, digna necessitas: id est, exigentia culpae, quae talem mortem meruit. Nam 
+          <lb ed="#B1" n="40"/>omnium plagarum praecedentium, quae eis acciderant obliti fuerunt ex eorum pertinaci 
+          <!--sap_Page_716.xml-->
+          <pb ed="#B1" n="682"/>
+          <lb ed="#B1" n="1"/>malitia. Et ideo dicit: Et horum quae acciderant commemorationem amittebant.  
+          <lb ed="#B1" n="2"/>Causa uero finalis tangitur in genere cum dicitur: Quae deerant tormentis reple  
+          <lb ed="#B1" n="3"/>ret punitio: id est, id quod deerat plagis, quas euaserant, repleret: id est, perfecte 
+          <lb ed="#B1" n="4"/>consummaret, punitio usque ad mortem. Sed in specie ipsa causa finalis magis 
+          <lb ed="#B1" n="5"/>exprimitur, qua scilicet Aegyptij submersi sunt in mari rubro. Cuius submer 
+          <lb ed="#B1" n="6"/>sionis duplex est ratio. Vna fuit, ut populus DEI transiret magis mirabiliter: 
+          <lb ed="#B1" n="7"/>Alia, ut Aegyptiyinusitata morte perirent miserabiliter. Praeterea enim magis 
+          <lb ed="#B1" n="8"/>miramur filios Israel impune transisse, cedente illis mari: quia etiam uidemus 
+          <lb ed="#B1" n="9"/>Aegyptios submersos fuisse, mari super eos denuo redeunte. &amp; hoc quod di 
+          <lb ed="#B1" n="10"/>cit: Et populus quidem mirabiliter transiret ipse per siccum in medio matis. Illi  
+          <lb ed="#B1" n="11"/>autem: id est, Aegyptij novam mortem inuenirent. Haec mors dicitur nova fuisse, 
+          <lb ed="#B1" n="12"/>non quia multi homines ante submersi non fuissent, sed propter modum sub  
+          <lb ed="#B1" n="13"/>mergendi. Quia nutu diuino recepit eos omnes, mare stans ab utraqe parte si 
+          <lb ed="#B1" n="14"/>cut murus: Et cum omnes submersi fuissent, &amp; filij Israel iam littora attigissent,  
+          <lb ed="#B1" n="15"/>diuisit mare in alueum suum, &amp; omnes Aegyptios conclusit. Moraliter loquen 
+          <lb ed="#B1" n="16"/>do, sic frequenter accidit, quod illud quod est materia promotionis in princi 
+          <lb ed="#B1" n="17"/>pio, est causa confusionis in termino: Mundus quandoque cedit homini in prin 
+          <lb ed="#B1" n="18"/>cipio fauendo sibi, &amp; dando sibi diuitias &amp; honores: donec fuerit perfecte im 
+          <lb ed="#B1" n="19"/>plicatus curis &amp; solicitudinibus, &amp; superbia seculari: &amp; tunc quando credit se 
+          <lb ed="#B1" n="20"/>esse in optimo statu, &amp; apice suae dignitatis, commouet perturbationes, &amp; per 
+          <lb ed="#B1" n="21"/>secutiones deijciendo eum, ut in Psal. dicitur: Deiecisti eos, dum alleuarentur.
+        </p>
+        <p xml:id="rhwis-l207-d1e165">
+          <lb ed="#B1" n="22"/>Circa iulam clausulam: Ducebat enim illos digna necessitas ad hunc finem.] No 
+          <lb ed="#B1" n="23"/>tandum est, quod quatuor modis communiter homines male ducuntur. Qui  
+          <lb ed="#B1" n="24"/>dam enim abducuntur illecebrosa sensualitate, quidam pernitiosa familiarita 
+          <lb ed="#B1" n="25"/>te, quidam praesumptuosa temeritate, &amp; quidam malitiosa seueritate. Primo 
+          <lb ed="#B1" n="26"/>ducuntur quidam illecebrosa sensualitate. Hi sunt qui non secundum ratio  
+          <lb ed="#B1" n="27"/>nem, sed secundum passionem uiuunt: qui non quod honestum, sed quod est 
+          <lb ed="#B1" n="28"/>delectabile in omnibus quaerunt. Sic ductus est iuuenis ille uecors, quem mu 
+          <lb ed="#B1" n="29"/>lier irretiuit multis sermonibus, &amp; blanditijs labiorum pertraxit illum: &amp; sta 
+          <lb ed="#B1" n="30"/>tim illam sequitur quasi bos ductus ad uictimam, Proverb. 7. Narrat Fulgen 
+          <lb ed="#B1" n="31"/>tius 1. Mytholog. Quod cum Admetus rex Alcestam duxerat in uxorem, con 
+          <lb ed="#B1" n="32"/>tigit Admetum infirmari, consuluit Apollinem quomodo posset ab infirmitate 
+          <lb ed="#B1" n="33"/>curari. Responsum est per Apollinem, quod curari non posset nisi aliquis de 
+          <lb ed="#B1" n="34"/>suis propinquis pro eo moreretur uoluntarie. Quo intellecto Alcesta, mor 
+          <lb ed="#B1" n="35"/>tem sponte subijt, &amp; ad inferna descendit. Quo cum Hercules uenisset, ut inde 
+          <lb ed="#B1" n="36"/>Cerberum traheret, Alcestae compatiens, eam ab inferis liberauit. Moraliter:  
+          <lb ed="#B1" n="37"/>mens humana, &amp; sensualitas adinuicem copulantur sicut sponsus &amp; sponsa, 
+          <lb ed="#B1" n="38"/>uir &amp; uxor. Vir infirmatur, quando cogitationibus uarijs agitatur, clamat ad 
+          <lb ed="#B1" n="39"/>DEVM cum Psalmo: Miserere mei Domine, quoniam infirmus sum, sana me 
+          <lb ed="#B1" n="40"/>Domine. Quia sic orare debemus quando mens infirmatur: id est, tentatur:  
+          <lb ed="#B1" n="41"/>hoc est, DEVM sapientiae pro consilio requirere. Respondit autem DEVS per 
+          <lb ed="#B1" n="42"/>Scripturas suas, quod oportet ad hoc, quod spiritus consequatur salutem, unum 
+          <lb ed="#B1" n="43"/>de propinquis suis uoluntariam mortem subire: id est, carnem nostram uolun 
+          <lb ed="#B1" n="44"/>tarijs poenitentijs mortificari: quia nisi caro moriatur, spiritus uitam gratiae non 
+          <lb ed="#B1" n="45"/>habebit. Et hoc est, quod dicitur ad Rom. 8. <quote xml:id="rhwis-l207-Qd1e219" source="http://scta.info/resource/rom8_13">Si secundum carnem uixeritis, mo 
+            <lb ed="#B1" n="46"/>riemini. Si autem facta carnis mortificaueritis, uiuetis</quote>. Caro mortificata per 
+          <lb ed="#B1" n="47"/>poenitentiam rationabilem, tandem descendit ad inferos, quando in terra de 
+          <lb ed="#B1" n="48"/>qua natus est, finaliter reuertetur. Sed per Herculem uirtuosum, per quem  
+          <lb ed="#B1" n="49"/>CHRISTVM accipimus, in resurrectione generali resuscitabitur, &amp; uiro suo 
+          <lb ed="#B1" n="50"/>perpetuo iungetur. Caro igitur in hac uita ductrix nostra esse non debet, ut se 
+          <lb ed="#B1" n="51"/>cundum sensuales illecebras ducamur, sed magis secundum spiritum duci de 
+          <lb ed="#B1" n="52"/>beamus. Ad Gal. 5. Spiritu ambulate, &amp; desideria carnis non perficietis. Et in 
+          <lb ed="#B1" n="53"/>fra: Si spiritu ducimini, non estis sub lege, uidelicet carnalis concupiscentiae, 
+          <!--sap_Page_717.xml-->
+          <pb ed="#B1" n="683"/>
+          <lb ed="#B1" n="1"/>quae lex carnis dicitur ad Roman. 7. Video aliam legem in membris meis, re 
+          <lb ed="#B1" n="2"/>pugnantem legi mentis meae.
+        </p>
+        <p xml:id="rhwis-l207-d1e249">
+          <lb ed="#B1" n="3"/>Secundo sunt quidam, qui ducuntur pernitiosa familiaritate: Bernitiosa res 
+          <lb ed="#B1" n="4"/>est nimia familiaritas cum personis uitiosis. Et ratio est: quia sicut dicit Hugo 
+          <lb ed="#B1" n="5"/>de sancto Victore libro suo de Arrha animae: Ea est uis amoris, ut te talem esse  
+          <lb ed="#B1" n="6"/>necesse sit, quale sit illud quod amas, &amp; cui per affectum coniungeris, in ipsius si 
+          <lb ed="#B1" n="7"/>militudinem dilectionis societate confirmaris. Nec mirum, cum secundum Dionys. 
+          <lb ed="#B1" n="8"/>4. cap. de Diui. nominibus Amor habet quandam uim excitatiuam, unitatiuam, 
+          <lb ed="#B1" n="9"/>&amp; transformatiuam, quae non dimittit amatores suiipsius esse, sed amatorum. 
+          <lb ed="#B1" n="10"/>Et a conditionibus illius quem amat, potest homo uerissime describi, si eius 
+          <lb ed="#B1" n="11"/>conditiones cognoscat. Vnde signanter scribit Valerius ad Rufinum. Ethi  
+          <lb ed="#B1" n="12"/>cum est. Videto cui des: quasi diceret, quod homo uideat, cui dat bona sua. Il  
+          <lb ed="#B1" n="13"/>lud bene est Ethicum: id est, ad uirtutes morales pertinet: sicut quaedam pars 
+          <lb ed="#B1" n="14"/>eius pertinet ad uirtutem liberalitatis: sed uideat cum homo det seipsum per 
+          <lb ed="#B1" n="15"/>amorem, &amp; familiaritatem, seu amicabilem communicationem, &amp; hoc non est 
+          <lb ed="#B1" n="16"/>ethicum, quasi pars Ethicae: sed Ethica: id est, tota uirtus moralis. Istud ergo uer 
+          <lb ed="#B1" n="17"/>bum est summe iuuenibus imprimendum. Vnde quidam senex filium suum 
+          <lb ed="#B1" n="18"/>informans, ne familiaritatem cum uitioso contraheret, metrice sibi dixit: 
+          <lb ed="#B1" n="19"/>Talem quemque fore, qualem sibi nectit amore 
+          <lb ed="#B1" n="20"/>Sermo veridicus, sic ipse sit alter amicus. 
+          <lb ed="#B1" n="21"/>Huic 
+          <lb ed="#B1" n="22"/>dico alludens Aristot. 9. Ethic. cap. 11 dicit: Quod amicus est alter ipse  
+          <lb ed="#B1" n="23"/>Huius enim mores uenerare, cuius amorem appetis. Vnde quidam metrista: 
+          <lb ed="#B1" n="24"/>Quisquis amat reprobum, reprobis se facit amicum, 
+          <lb ed="#B1" n="25"/>Se negat esse probum, se facto clamat iniquum. Item: 
+          <lb ed="#B1" n="26"/>Qui tangit picem, tingit se turpi colore,  
+          <lb ed="#B1" n="27"/>Sic tibi lumme vicem, qui flagras turpis amore. 
+          <lb ed="#B1" n="28"/>Et consequenter explanat senex quem uocat turpem, &amp; dicit sic:  
+          <lb ed="#B1" n="29"/>Turpem tetra cutis nulum faciet nominari., 
+          <lb ed="#B1" n="30"/>Sed mens pollutis factis cupiens maculari. 
+          <lb ed="#B1" n="31"/>Et in fine alloquens filium sic concludit:  
+          <lb ed="#B1" n="32"/>Ergo caue fili turpatos crimine vili,  
+          <lb ed="#B1" n="33"/>Ne tu consimili turperis fine senili.
+        </p>
+        <p xml:id="rhwis-l207-d1e319">
+          <lb ed="#B1" n="34"/>Notandum quod Aristot. 9. Ethic. soluit tres notabiles quaestiones ad propo 
+          <lb ed="#B1" n="35"/>situm pertinentes. Prima est ista: Ponamus quod aliquis acceptet ad amici 
+          <lb ed="#B1" n="36"/>tiam uirum bonum, qui postea mutatur, &amp; sit malus. Quaestio est, utrum ami 
+          <lb ed="#B1" n="37"/>citia ad talem sit dissoluenda. Secunda quaestio est ista: dato quod sic, utrum 
+          <lb ed="#B1" n="38"/>statim amicitia ad talem sit soluenda, uel debet homo expectare. Tertia quae 
+          <lb ed="#B1" n="39"/>stio est, utrum ad talem post dissolutionem amicitiae se debeat habere alienus, 
+          <lb ed="#B1" n="40"/>uel infamiliarius, quasi nunquam fuisset amicus.
+        </p>
+        <p xml:id="rhwis-l207-d1e337">
+          Ad primam quaestionem re 
+          <lb ed="#B1" n="41"/>spondet Aristot. dicens duo. Vnum est, quod impossibile est, quod talis ame 
+          <lb ed="#B1" n="42"/>tur a uirtuoso, cuius malitia est manifesta uirtuoso: quia solum bonum hone 
+          <lb ed="#B1" n="43"/>stum amatur a uirtuoso. Secundo dicit, quod uir honestus non debet amare ta 
+          <lb ed="#B1" n="44"/>lem, sed omnino debet dissoluere amicitiam ad talem: &amp; ratio est: quia non est. 
+          <lb ed="#B1" n="45"/>possibile, quod diu seruetur amicitia ad talem, nisi causetur aliqua similitudo ma 
+          <lb ed="#B1" n="46"/>litiae.
+        </p>
+        <p xml:id="rhwis-l207-d1e354">
+          Ad secundam quaestionem distinguit: quia talis qui factus est malus, uel 
+          <lb ed="#B1" n="47"/>est omnino insanabilis, scilicet quod non potest reduci ad statum uirtutis, uel non 
+          <lb ed="#B1" n="48"/>Si non, sic non debet statim dimittere amicum suum, sed auxiliare ad hoc, quod  
+          <lb ed="#B1" n="49"/>recuperet bonos mores, &amp; multomagis debet amicus eum ad hoc iuuare, quam  
+          <lb ed="#B1" n="50"/>ad recuperandum diuitias uel pecuniam: quia uirtus est maius bonum quam 
+          <lb ed="#B1" n="51"/>substantia corporalis. Si uero sit omnino insanabilis, sicut sunt inueterati dierum 
+          <lb ed="#B1" n="52"/>malorum, statim debet amicitia ad eum dissolui. Nec est inconueniens hoc facere: 
+          <lb ed="#B1" n="53"/>quia non erat amicus huic, uel tali scilicet uitioso, sed uirtuoso. Et ideo dicit Ari 
+          <lb ed="#B1" n="54"/>stot. in eodem cap. Quod illi qui simulant se uirtuosos, ut amicitiam contra 
+          <!--sap_Page_718.xml-->
+          <pb ed="#B1" n="684"/>
+          <lb ed="#B1" n="1"/>bant cum uirtuosis, &amp; tamen sunt latenter mali: sunt magis criminandi, quam 
+          <lb ed="#B1" n="2"/>illi, qui corrumpunt numismata: quia nobilior est uirtus quam pecunia. Vnde 
+          <lb ed="#B1" n="3"/>qui simulant uirtutes, maligniores sunt, quam qui fingunt falsam monetam.
+        </p>
+        <p xml:id="rhwis-l207-d1e385">
+          <lb ed="#B1" n="4"/>Ad tertiam quaestionem respondet: Quia aut fit dissolutio amicitiae propter 
+          <lb ed="#B1" n="5"/>minorem bonitatem in amico, aut propter abundantem malitiam. Si secun 
+          <lb ed="#B1" n="6"/>do modo nihil debet homo familiariter exhibere tali, magis quam cuicunque 
+          <lb ed="#B1" n="7"/>extraneo: imo rationabile est, quod minus, pro quanto eum decepit, &amp; uere 
+          <lb ed="#B1" n="8"/>cundiam fecit. Verecundum enim est uirtuoso amicum fuisse uitioso. Si pri 
+          <lb ed="#B1" n="9"/>mo modo fiat amicitiae dissolutio: sicut contingit de duobus, quorum unus 
+          <lb ed="#B1" n="10"/>stat in gradu remisso uirtutis, &amp; alius proficit in gradum intensum: tunc enim 
+          <lb ed="#B1" n="11"/>non est possibile, quod proficiens seruet amicitiam ad non proficientem secun 
+          <lb ed="#B1" n="12"/>dum Aristotelem: quia non de eisdem gaudent, &amp; tristantur, quod est proprium 
+          <lb ed="#B1" n="13"/>amicorum. Tunc in tali casu homo debet se exhibere magis beneuolum, pro 
+          <lb ed="#B1" n="14"/>pter praeteritam amicitiam, quam si nunquam fuissent amici. Illi uero qui insa 
+          <lb ed="#B1" n="15"/>nabiles omnino sunt, abijciendi sunt omnino a comunicatione uirtuosorum, 
+          <lb ed="#B1" n="16"/>quantum possibile est. Nec curandum est, si homo eis displiceat, uel offendat:  
+          <lb ed="#B1" n="17"/>cum uirtuoso semper debet esse proprium, displicere pessimis. Sicut dicit Boë 
+          <lb ed="#B1" n="18"/>tius 1 de Conso. prosa 3. Hoc est enim secundum, quod est uirtuoso maxime 
+          <lb ed="#B1" n="19"/>cauendum, &amp; uitandum, tam propter conscientiam, quam propter famam, 
+          <lb ed="#B1" n="20"/>pernitiosa familiaritatis ad personas corruptas uel infectas, propter quam mul 
+          <lb ed="#B1" n="21"/>ti innocentes in principio corrupti, &amp; abominabiles facti, sunt in breui ducti, 
+          <lb ed="#B1" n="22"/>&amp; abducti primo a ueritate conscientiae, &amp; tandem a serenitate famae suae: quo 
+          <lb ed="#B1" n="23"/>rum cuilibet dici potest illud lerem. 38. Seduxerunt te, &amp; praeualuerunt aduer 
+          <lb ed="#B1" n="24"/>sum te uiri pacifici tui, dimerserunt in coeno &amp; in lubrico pedes tuos, &amp; reces  
+          <lb ed="#B1" n="25"/>serunt a te. De hac materia uidelicet de uitanda societate mala, quae ducit ho 
+          <lb ed="#B1" n="26"/>minem in uitam uitiosam, loquitur Seneca ad Lucillum epist. 18. secundum 
+          <lb ed="#B1" n="27"/>integros libros: Si uis (inquit) habere peregrinationes tuas iocundas, comitem 
+          <lb ed="#B1" n="28"/>tum serua. Haerebit tibi auaritia, quamdiu auaro sordidoque coniungeris: haere 
+          <lb ed="#B1" n="29"/>bit tumor, quamdiu superbo conuersaberis: nunquam saeuitiam in tortoris  
+          <lb ed="#B1" n="30"/>contubernijs pones, incendent libidines adulterorum sodalitia, si uelis uitijs  
+          <lb ed="#B1" n="31"/>cedere, longe a uitiorum exemplis secedendum est. Ad meliores transi. Haec 
+          <lb ed="#B1" n="32"/>Seneca. De tali ergo corruptore &amp; peruerso ductore dicitur Proverb. 16. Vir 
+          <lb ed="#B1" n="33"/>iniquus lactat amicum suum, &amp; ducit eum per uiam non bonam,
+        </p>
+        <p xml:id="rhwis-l207-d1e453">
+          <lb ed="#B1" n="34"/>Tertio quidam ducuntur praesumptuosa temeritate, quales sunt plerique in 
+          <lb ed="#B1" n="35"/>experti adhuc, qui proprio sensui nimis adhaerent: quia ut dicit Vegetius de 
+          <lb ed="#B1" n="36"/>Re militari lib. 3. Imperita rusticitas plura promittit, &amp; credit se scire, quae ne 
+          <lb ed="#B1" n="37"/>scit: &amp; ideo propter inexperientiam passio iuuentutis est praesumptio: timidi 
+          <lb ed="#B1" n="38"/>tas uero passio senectutis: sicut dicit Aristot. 12. Rethor. Et de talibus bene ue 
+          <lb ed="#B1" n="39"/>rificatur illud Matth. 15. Caeci sunt, &amp; duces caecorum, &amp;c
+        </p>
+        <p xml:id="rhwis-l207-d1e469">
+          <lb ed="#B1" n="40"/>Quarto quidam ducuntur malitiosa seueritate. Hi sunt potentes &amp; nobi  
+          <lb ed="#B1" n="41"/>les, qui latera sua stipant malitiosis consiliatoribus: quorum instigationibus 
+          <lb ed="#B1" n="42"/>ad iniurias uarias agitantur, nunc ad pauperum deceptiones, &amp; depraedatio  
+          <lb ed="#B1" n="43"/>nes, nunc ad iniustas perquisitiones, nunc ad iniquas seditiones, per quas 
+          <lb ed="#B1" n="44"/>respublica dissipatur, &amp; pax ciuilis turbatur, &amp; quod peius est, Ecclesia DEI 
+          <lb ed="#B1" n="45"/>pedibus conculcatur, &amp; verificatur illud Esa. 5.c. Propterea ductus est popu 
+          <lb ed="#B1" n="46"/>lus meus captiuus: quia non habuit scientiam, &amp; nobiles eius in 
+          <lb ed="#B1" n="47"/>terierunt fame, &amp; multitudo eius siti exaruit: &amp; est 
+          <lb ed="#B1" n="48"/>prophetia tam de culpa praeterita, 
+          <lb ed="#B1" n="49"/>quam de ultione fu 
+          <lb ed="#B1" n="50"/>tura.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

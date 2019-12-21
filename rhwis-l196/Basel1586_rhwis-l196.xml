@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lectio 196 [Basel Transcription]</title>
+        <author ref="#Holcot">Robert Holcot</author>
+        <editor xml:id="JW">Jeffrey C. Witt</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev">
+          <title>Lectio 196 [Basel Transcription]</title>
+          <date when="2019-12-21">December 21, 2019</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA</authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B1" n="Basel1586">Basel 1586</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0 guidelines for a diplomatic edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2019-12-21" status="draft" n="0.0.0">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#B1" n="644"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="rhwis-l196">
+        <p xml:id="rhwis-l196-d1e95">
+          <lb ed="#B1" n="14"/>POSTQVAM actum est de tenebris, quibus afflicti fue 
+          <lb ed="#B1" n="15"/>runt Aegyptij: In isto Capitulo agit de beneficio lucis, quo 
+          <lb ed="#B1" n="16"/>confortati sunt Hebraei. Et circa hoc duo facit: primo com 
+          <lb ed="#B1" n="17"/>memorat beneficium lucis collatum Hebraeis in Aegypto:  
+          <lb ed="#B1" n="18"/>Secundo beneficium lucis collatum eisdem in deserto. secunda 
+          <lb ed="#B1" n="19"/>pats ibi: Propter quod ignis ardentem, &amp;c.
+        </p>
+        <p xml:id="rhwis-l196-d1e111">
+          Circa primum no 
+          <lb ed="#B1" n="20"/>tatur, quomodo lucis beneficio deprecabantur. Secundo 
+          <lb ed="#B1" n="21"/>quomodo propter hoc DEO deuote regratiabantur. secunda pars ibi: Et quia 
+          <lb ed="#B1" n="22"/>non iusi. Circa primum, primo notatur apud Hebraeos lucis praesentia, cum dicitur:  
+          <lb ed="#B1" n="23"/>Sanctis aut tuis maxima erat lux. Secundo apud Aegyptios lucis carentia: quae 
+          <lb ed="#B1" n="24"/>impediebat uisum, licet non auditum. Et ideo dicit: Et eorum quidem vocem, scili 
+          <lb ed="#B1" n="25"/>cer Hebraeotum, inimici Aegypm audiebant, sed figuram corporalem non videbat,  
+          <lb ed="#B1" n="26"/>prae densitate tenebrarum, quae omnium lucem impediebant. Existentes enim in 
+          <lb ed="#B1" n="27"/>tenebris communibus, possunt existentes in lumine uidere. Ex quo argui po 
+          <lb ed="#B1" n="28"/>test, quem Iux multiplicat speciem suam per medium tenebrosum, quae species non est 
+          <lb ed="#B1" n="29"/>realiter lux, sed intensio lucis: sicut species coloris non est color, sed intensio colo 
+          <lb ed="#B1" n="30"/>ris: nisi enim talis multiplicatio specierum ponatur, infinitae difficultates perspe 
+          <lb ed="#B1" n="31"/>ctiuae insolubiles apparebunt. Sed ad istos Aegyptios non potuit lux attingere,  
+          <lb ed="#B1" n="32"/>in qua erant filij Israel: nec potuit se multiplicare, propter aëris uel uaporis den 
+          <lb ed="#B1" n="33"/>sitatem. Consequenter sequitur gratiarum actio, ubi narrat duo, uidelicet, quo tunc 
+          <lb ed="#B1" n="34"/>temporis filij Israel duo fecerunt. Nam regratiabantur &amp; deprecabantur. Regratia 
+          <!--sap_Page_679.xml-->
+          <pb ed="#B1" n="645"/>
+          <lb ed="#B1" n="1"/>bantur autem pro duobus, uidelicet pro sui impunitione, &amp; liberatione &amp; ab  
+          <lb ed="#B1" n="2"/>hostium potestate. Quantum ad primum dicit sic: Et quia non ipsi, sed Hebraet  
+          <lb ed="#B1" n="3"/>per eadem passi sunt, cum Aegyptijs, magnificabant te, Exo. 15. Cantemus Do 
+          <lb ed="#B1" n="4"/>mino, gloriose enim magnificatus est. Quantum ad liberationem ab hostium 
+          <lb ed="#B1" n="5"/>potestate subdit: Et qui ante lesi erant sub seruitio Pharaonis, Exod. 1. quia non  
+          <lb ed="#B1" n="6"/>ledebantur a plagis istis, gratias agebant tibi, &amp; sequitur eorum deprecatio. Fuit  
+          <lb ed="#B1" n="7"/>autem eorum deprecatio, quod esset differentia, inter illos &amp; Aegyptios: id est. 
+          <lb ed="#B1" n="8"/>ut non sic tractarentur, sicut Aegyptij, nec sic tractari mererentur: &amp; hoc est 
+          <lb ed="#B1" n="9"/>quod dicit: Et vt esset differentia te DEVM petebant, gratias agebant. Circa gra 
+          <lb ed="#B1" n="10"/>tiarum actionem notanda sunt tria. Primo qualiter DEO gratiarum actio est 
+          <lb ed="#B1" n="11"/>reddenda. Secundo de qua materia est sumenda. Tertio qualiter gratiarum actio 
+          <lb ed="#B1" n="12"/>est explenda. Circa primum est sciendum quo regratiari uel gratias agere DEO, est 
+          <lb ed="#B1" n="13"/>actus multum comendabilis, utpote quia est beatorum operatio, perceptorum 
+          <lb ed="#B1" n="14"/>augmentatio, diuinitatis protestatio, &amp; nostrae necessitatis demonstratio. Pri 
+          <lb ed="#B1" n="15"/>mo ergo DEO regratiari est propria operatio beatorum, qui ad nihil aliud va 
+          <lb ed="#B1" n="16"/>cant, nisi ad DEVM laudandum, &amp; ei de collatis beneficijs regratiandum. Et  
+          <lb ed="#B1" n="17"/>ideo illud artificium bonum est addiscere, de quo in perpetuum oportet nos 
+          <lb ed="#B1" n="18"/>uiuere. Qui enim ad curiam regis debent transire, tempestiue conditiones curiae 
+          <lb ed="#B1" n="19"/>debent addiscere. Eodem modo nos conuenit in praesenti gratiarum actionem 
+          <lb ed="#B1" n="20"/>addiscere, ut sciamus qualiter nos in patria debeamus habere: quia Esaiae 51 
+          <lb ed="#B1" n="21"/>dicitur: Gaudium &amp; laetitia inuenitur in ea, gratiarum actio, &amp; uox laudis. Se 
+          <lb ed="#B1" n="22"/>cundo gratiarum actio deuota est bonorum a DEO receptorum augmentatio. Nam sic  
+          <lb ed="#B1" n="23"/>DEVM maxime prouocamus ad dandum maiora, si de praeceptis gratias refe a 
+          <lb ed="#B1" n="24"/>ramus. Vnde Bern. Ad locum unde exeunt flumina gratiarum, reuertuntur, ut ite 
+          <lb ed="#B1" n="25"/>rum fluant. Agricola nimirum illam terram diligentius colit &amp; seminat, quae fru 
+          <lb ed="#B1" n="26"/>ctum reddit uberius: &amp; quanto terra est foecundior, tanto meliori semine semi 
+          <lb ed="#B1" n="27"/>natur. Moraliter homo est quasi ager DEI,Corinth. 3. DEI agricultura estis. 
+          <lb ed="#B1" n="28"/>Ipse enim est sicut agricola, iohannis 15. Pater meus agricola est: quanto ergo 
+          <lb ed="#B1" n="29"/>maiorem fructum per gratiarum actionem persona rependit, tanto ei liben 
+          <lb ed="#B1" n="30"/>tius dona sua tribuit. Et ideo optimus modus impetrandi est, gratias agere 
+          <lb ed="#B1" n="31"/>de acceptis. Et per oppositum, qui non agunt gratias de receptis, merentur 
+          <lb ed="#B1" n="32"/>puniri, &amp; priuari iam habitis, testante Apostolo, Roman. 1. de Philolophis, 
+          <lb ed="#B1" n="33"/>qui cum cognouissent DEVM, non tamen sicut DEVM glorificauerunt,  
+          <lb ed="#B1" n="34"/>aut gratias egerunt, sed euanuerunt in cogitationibus suis, &amp; obscuratum est 
+          <lb ed="#B1" n="35"/>insipiens cor eorum. Vbi dicit Augustinus, quod DEVS dedit gratis, tol  
+          <lb ed="#B1" n="36"/>lit ingratis. Exemplum enim habemus de Excechia, Esaiae trigesimooctauo 
+          <lb ed="#B1" n="37"/>qui punitus fuit propter ingratitudinem. Cum enim dedisset ei Dominus 
+          <lb ed="#B1" n="38"/>triumphum incredibilem, &amp; percussit centum octuagintaquinque millia in 
+          <lb ed="#B1" n="39"/>castris Sennacherib, licet secundum Iosephum hostias cum populo immo 
+          <lb ed="#B1" n="40"/>lasset, non tamen digne gratias egit, nec canticum inde cantauit, sicut patres  
+          <lb ed="#B1" n="41"/>illo tempore consueuerunt. Tertio gratiarum actio est quaedam diuinae ma 
+          <lb ed="#B1" n="42"/>iestatis protestatio. In hoc enim quod DEO de suis beneficijs regratiamur, cum a 
+          <lb ed="#B1" n="43"/>Dominum nostrum &amp; capitaneum protestamur. In cuius figura adeps in sacri 
+          <lb ed="#B1" n="44"/>ficijs soli DEO offerri debuit, Leuit. 3. Omnis adeps Domini est iure perpe 
+          <lb ed="#B1" n="45"/>tuo. Vnde &amp; CHRISTVS uolens de quinque panibus festum facere, quod non fuit  
+          <lb ed="#B1" n="46"/>festum humanum, sed diuinum, gratias agens, fregit &amp; dedit discipulis suis, ut 
+          <lb ed="#B1" n="47"/>apponerent turbae, Mar. 8. Quarto gratiarum actio est nostrae necessitatis 
+          <lb ed="#B1" n="48"/>demonstratio. Qui enim regratiatur, suam necessitatem protestatur. Et haec 
+          <lb ed="#B1" n="49"/>est ratio moralis, quare Decimae institutae fuerunt, &amp; DEO specialiter dedi 
+          <lb ed="#B1" n="50"/>catae: Est enim decem limes &amp; perfectio numerorum: &amp; ideo dum nobis no 
+          <lb ed="#B1" n="51"/>uem retinemus, &amp; DEO decimum damus, imperfectionem nobis esse fatemur,  
+          <lb ed="#B1" n="52"/>&amp; omnem perfectionem soli DEO attribuimus. Eodem modo dum DEO gra 
+          <lb ed="#B1" n="53"/>tias agimus de receptis, protestamur quom nihil nisi de eius munere possidemus. 
+          <!--sap_Page_680.xml-->
+          <pb ed="#B1" n="646"/>
+          <lb ed="#B1" n="1"/>Secundo notandum quod materiam regratiandi sumere debemus ex diuinis  
+          <lb ed="#B1" n="2"/>beneficijs, quae sunt potissime sex, uidelicet creationis, redemptionis, expecta 
+          <lb ed="#B1" n="3"/>tionis, iustificationis, conseruationis, &amp; praemiationis. De opere creationis  
+          <lb ed="#B1" n="4"/>Bern. in quodam sermone dicit sic: Considera DEVM in beneficio creationis quam  
+          <lb ed="#B1" n="5"/>creauit te sine comodo suo, Psal. ait. Bonorum meorum non indiges: sine merito 
+          <lb ed="#B1" n="6"/>tuo, quia nihil ante promeruit, qui penitus nihil fuit. Cogita qualem te fecit se 
+          <lb ed="#B1" n="7"/>cundum corpus, egregiam creaturam, secundum animam magis egregiam, ut  
+          <lb ed="#B1" n="8"/>pote imagini Creatoris insignem, rationis participem, beatitudinis sempiter 
+          <lb ed="#B1" n="9"/>nae capacem. Considera &amp; dominationis potestatem. Terror enim hominis  
+          <lb ed="#B1" n="10"/>super cuncta animantia in minimo discernitur. Considera ergo largitatis ad 
+          <lb ed="#B1" n="11"/>ministrationem, quanta tibi largitus est ad sustentationem, quanta ad eruditio 
+          <lb ed="#B1" n="12"/>nem, quanta ad consolationem, quanta ad correptionem, quanta ad delecta 
+          <lb ed="#B1" n="13"/>tionem. Secundo DEO gratias agamus de opere redemptionis. Bern. in quo 
+          <lb ed="#B1" n="14"/>dam alio sermone: O bone IESV, quid tibi &amp; morti: nos debuimus, &amp; tu sol  
+          <lb ed="#B1" n="15"/>uis, nos peccauimus, &amp; tu luis. O pietas: opus sine exemplo, gratia sine meri 
+          <lb ed="#B1" n="16"/>to, charitas sine modo. Tertio de beneficio expectationis, quo nos peccantes 
+          <lb ed="#B1" n="17"/>expectat, gratiarum actionis materia sumi debet, quotiens peccator prome 
+          <lb ed="#B1" n="18"/>ruit, quo ei tempus poenitentiae auferretur. Et constat quotiens mortaliter pec 
+          <lb ed="#B1" n="19"/>cauit, indignus est uita aeterna, statim cum sit ingratus autori uitae. Frequenter 
+          <lb ed="#B1" n="20"/>autem habet peccator considerare, quotiens in statu damnationis existens, in 
+          <lb ed="#B1" n="21"/>periculo mortis fuit, uel ab infirmitate intrinseca, uel ab aduersitate extrinse 
+          <lb ed="#B1" n="22"/>ca. Est enim beneficium, si quis addictus suspendio, &amp; fune applicato ad col  
+          <lb ed="#B1" n="23"/>lum, uel si uinculatus membrum extendit mutilatori, si tunc talis ab aliquo li  
+          <lb ed="#B1" n="24"/>beraretur, maximum beneficium esse dinosceretur. Quo ergo tunc peccator 
+          <lb ed="#B1" n="25"/>diuertisset, si tunc liberatus non fuisset, nisi ad infernum pro semper: Huius 
+          <lb ed="#B1" n="26"/>ergo liberationis beneficium sempiternum uendicat amorem humanum. Cas  
+          <lb ed="#B1" n="27"/>siodorus de opere uariorum dicit sic: Elephantem ingenio hominis posse ca 
+          <lb ed="#B1" n="28"/>pi. Cum enim se arbori semisuccisae appodiauerit, &amp; arbore fracta ceciderit, per 
+          <lb ed="#B1" n="29"/>se resurgere nequit, sed humano solatio cuius parte iacuit belua, suis gressibus 
+          <lb ed="#B1" n="30"/>restituta, memor est beneficij sui. In magistrum quippe recipit, quem sibi be 
+          <lb ed="#B1" n="31"/>neficium fuisse agnoscit, ad ipsius arbitrium mouvet gressus ipsius uoluntate, 
+          <lb ed="#B1" n="32"/>cibos capit, inuicem manus promuscidam tendit, &amp; a magistro pro futura gra 
+          <lb ed="#B1" n="33"/>tia tantum accipit: quia se ipsius cura uiuere posse intelligit. Si ergo bestia ra 
+          <lb ed="#B1" n="34"/>tionem non habens tantas liberatori gratias agit, qui lapsum ad gressum redu 
+          <lb ed="#B1" n="35"/>cit: Ionge magis homo gratias referre tenetur illi, qui pluries lapsum de infer 
+          <lb ed="#B1" n="36"/>ni uoragine pluries liberauit. Quarto de beneficio conseruationis tam in esse  
+          <lb ed="#B1" n="37"/>naturae, quam in esse gratiae, grates referendae sunt. Vnde Augustinus de san 
+          <lb ed="#B1" n="38"/>cta uirginitate: Omnia peccata sic habenda sunt, tanquam dimittantur, a qui  
+          <lb ed="#B1" n="39"/>bus DEVS custodit, ne committantur. Et infra: Quisquis ab initio pudicus 
+          <lb ed="#B1" n="40"/>permanet, ab illo regitur: &amp; quisquis ab impudico pudicus factus est, ab illo 
+          <lb ed="#B1" n="41"/>corrigitur, &amp; quisquis in finem impudicus est, ab illo deseritur occulto quidem 
+          <lb ed="#B1" n="42"/>iudicio, sed non iniquo. Et ideo signanter dicitur hic in litera: Quia non laede 
+          <lb ed="#B1" n="43"/>bantur gratias agebant. Nam sancti uiri non solum de sibi dimissis gratias agunt  
+          <lb ed="#B1" n="44"/>DEO, sed &amp; de his a quibus sunt per suum adiutorium praeseruati. Vltima ma 
+          <lb ed="#B1" n="45"/>teria gratiarum actionis est consideratio praemiationis: quia DEVS talia prae 
+          <lb ed="#B1" n="46"/>parauit electis, quae in cor hominis ascendere nequeunt in praesenti. Tertio no 
+          <lb ed="#B1" n="47"/>tandum quomodo uel qualiter gratiarum actio est explenda. Debet enim ha 
+          <lb ed="#B1" n="48"/>bere quatuor conditiones si debito modo debet expleri. Primo debet habere 
+          <lb ed="#B1" n="49"/>magnitudinem: secundo assiduitatem: tertio uniuersalitatem: &amp; quarto hila 
+          <lb ed="#B1" n="50"/>ritatem. Primo ergo debet habere magnitudinem: &amp; ratio est: quia homo plus 
+          <lb ed="#B1" n="51"/>accepit a DEO quam aliqua creatura, &amp; ideo decet eum magis magnifice gra 
+          <lb ed="#B1" n="52"/>tias agere. Nam lucis est talis natura, quod ubi plures radij ad aliquod soli  
+          <lb ed="#B1" n="53"/>dum diriguntur, ibi maior est reflectio, &amp; maior ad splendoris multiplicatio.  
+          <!--sap_Page_681.xml-->
+          <pb ed="#B1" n="647"/>
+          <lb ed="#B1" n="1"/>Vnde iuxta terram est maior calor, quam in medio interstitio aëris, propter ma 
+          <lb ed="#B1" n="2"/>iorem &amp; densiorem radiorum solarium multitudinem. Sic moraliter esse de 
+          <lb ed="#B1" n="3"/>bet, quo nanque homines plures diuinorum beneficiorum radios recipiunt, eo 
+          <lb ed="#B1" n="4"/>per gratiarum actiones plures radios in DEVM reflectere conuenit, 2. Mac hab  
+          <lb ed="#B1" n="5"/>1 de magnis periculis a DEO liberati magnifice gratias agimus ipsi. Secun 
+          <lb ed="#B1" n="6"/>do debet habere assiduitatem,1 Thess. 2. Gratias agimus DEO sine intermis  
+          <lb ed="#B1" n="7"/>sione. Haec est ratio quare omnes horas canonicas per DEO gratias termina 
+          <lb ed="#B1" n="8"/>mus: in signum, quod omnia opera nostra in eius debent gratiarum actione 
+          <lb ed="#B1" n="9"/>terminari. Tertio debet habere uniuersalitatem, ut pro omnibus non solum pro, 
+          <lb ed="#B1" n="10"/>placentibus &amp; prosperis, sed etiam pro aduersis DEO gratias reddamus, Ephes.  
+          <lb ed="#B1" n="11"/>5. Gratias DEO agentes semper pro omnibus. Aristot. 2. Politicorum prope 
+          <lb ed="#B1" n="12"/>finem dicit, quod Plato inter leges suas ordinauit, quod ciues se exercitarent  
+          <lb ed="#B1" n="13"/>per usum &amp; studium, ut fierent ambidextri, ut utraque manus fieret utilis ad 
+          <lb ed="#B1" n="14"/>bellandum. Isto modo moraliter nos exercitare debemus, ut ambidextri fia 
+          <lb ed="#B1" n="15"/>mus: ut uidelicet non solum tempore prosperitatis, sed etiam aduersitatis con 
+          <lb ed="#B1" n="16"/>tra fortunam pugnare, &amp; DEO semper regratiari sciamus. Dicit autem Ga 
+          <lb ed="#B1" n="17"/>lenus, quod mulier, utrasque dextras habens, non sit. Vir nanque quandoque 
+          <lb ed="#B1" n="18"/>utitur utraque pro dextra, mulier non: Ita moraliter effoeminati utranque for 
+          <lb ed="#B1" n="19"/>tunam aequanimiter sustinere non possunt, sed tantum prosperitate sciunt uti.  
+          <lb ed="#B1" n="20"/>Per oppositum uiri sancti omni fortuna benem utuntur ad honorem DEI &amp; 
+          <lb ed="#B1" n="21"/>uictoriam. Talis fuit Apostolus qui dicebata Corinth. 2. DEO autem gratias, 
+          <lb ed="#B1" n="22"/>qui semper triumphat nos in CHRISTO IESV. Quarto debet habere hilari 
+          <lb ed="#B1" n="23"/>tatem siue iocunditatem, ut fiat non ex tristitia uel necessitate. Solinus de mi 
+          <lb ed="#B1" n="24"/>rabilibus Mundi: Quod in Alessa regione est fons quietus, qui scaturit sem 
+          <lb ed="#B1" n="25"/>per, &amp; infra riuos suos manens: nisi ad cantum, siue ad citharam, uel tybiam, 
+          <lb ed="#B1" n="26"/>statim uero ad sonitum melodiae intumescit, &amp; alueum suum excedit. Fons 
+          <lb ed="#B1" n="27"/>omnis bonitatis DEVS est, hic ad laetam gratiarum actionem statim exube 
+          <lb ed="#B1" n="28"/>rant, &amp; beneficia maiora impendit, &amp; subtrahit ei, qui gratiarum actiones laete 
+          <lb ed="#B1" n="29"/>non rependit. In cuius figura dicitur Nehemiae duodecimo, quod ludaei con 
+          <lb ed="#B1" n="30"/>uocauerunt Leuitas ut dedicationem facerent muri Hierusalem in laetitia, gra 
+          <lb ed="#B1" n="31"/>tiarum actione, &amp; cymbalis, &amp; cantico: sic ergo gratias agebant in cantico.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
