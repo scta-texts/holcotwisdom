@@ -46,6 +46,7 @@
     </front>
     <body>
       <div xml:id="rhwis-l8">
+        <div xml:id="rhwis-l8-Dd1e96">
         <p xml:id="rhwis-l8-d1e96"><!--sap_Page_063.xml-->
           <pb ed="#B1" n="29"/>
           <lb ed="#B1" n="1"/>OSTQVAM Sapiens declarauit quod uitiosa locutio non tran<lb ed="#B1" n="2"/>sibit 
@@ -109,6 +110,11 @@
           <lb ed="#B1" n="4"/>uens amor. Vnde zelotipus &amp; zelotes dicit ille qui feruenter amat &amp; taliter uult  
           <lb ed="#B1" n="5"/>readamari, Exod. 34. <quote xml:id="rhwis-l8-Qd1e278" source="http://scta.info/resource/ex34_14">Dominus zelotes nomen eius</quote>.
         </p>
+        </div>
+        <div xml:id="rhwis-l8-Dd1e285">
+          <head xml:id="rhwis-l8-Hd1e287">Dubitatio</head>
+          <head xml:id="rhwis-l8-Hd1e290" type="question-title">Utrum peccata per poenitentiam condonata sint
+            revelanda in iudicio generali.</head>
         <p xml:id="rhwis-l8-d1e282">
           Dubitatio literalis esse potest: 
           <lb ed="#B1" n="6"/>Vtrum peccata per poenitentiam condonata, sint reuelanda in iudicio generali.
@@ -130,8 +136,8 @@
           <lb ed="#B1" n="13"/>multo magis in conspectu omnium hominum in iudicio.
         </p>
         <p xml:id="rhwis-l8-d1e320">
-          Ad oppositum est glo. su 
-          <lb ed="#B1" n="14"/>per illud <ref xml:id="rhwis-l8-Rd1e324">1. Cor. 4.</ref> <quote xml:id="rhwis-l8-Qd1e327" source="http://scta.info/resource/Icor4_5">Manifestabit consilia cordium</quote> dicens, quod gesta &amp; cogitata bona &amp; 
+          Ad oppositum est glo. su<lb ed="#B1" n="14"/>per 
+          illud <ref xml:id="rhwis-l8-Rd1e324">1. Cor. 4.</ref> <quote xml:id="rhwis-l8-Qd1e327" source="http://scta.info/resource/Icor4_5">Manifestabit consilia cordium</quote> dicens, quod gesta &amp; cogitata bona &amp; 
           <lb ed="#B1" n="15"/>mala nota tunc erunt omnibus hominibus Item beatus Bern. tractans idem uerbum dicit:  
           <lb ed="#B1" n="16"/>Cunctaque cunctorum cunctis arcana patebunt. Ad istua concordat <ref xml:id="rhwis-l8-Rd1e335">Ansnelmus de simi<lb ed="#B1" n="17"/>litudinibus 
           c. 6</ref>. Et textus <ref xml:id="rhwis-l8-Rd1e340">Apostoli cum glo. S. Thomas</ref> &amp; alij multi Catholici te<lb ed="#B1" n="18"/>nent 
@@ -161,6 +167,9 @@
           <lb ed="#B1" n="32"/>narrares beneficium regis omnibus amicis tuis, &amp; diceres eis: Regratiamini regi pro 
           <lb ed="#B1" n="33"/>me in tanto sibi tenebar &amp; pro tanto mihi remisit.
         </p>
+        </div>
+        <!-- division break aka end of dubitatio  is fuzzy -->
+        <div xml:id="rhwis-l8-Dd1e403">
         <p xml:id="rhwis-l8-d1e390">
           Cum ergo pro peccato mortalis me 
           <lb ed="#B1" n="34"/>rebaris poenam aeternam, &amp; remisit tibi DEVS pro poena temporali, quai nullam, proportionem 
@@ -258,6 +267,7 @@
           mundus ardens: peccator sic deprehensus in quam partem se premet, constri<lb ed="#B1" n="11"/>ctus 
           ubi latebit. Haec ibi: Et ideo ante iudicium para iusticiam, Eccles. 18.
         </p>
+        </div>
       </div>
     </body>
   </text>

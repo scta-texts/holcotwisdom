@@ -47,7 +47,7 @@
     <body>
       <div xml:id="rhwis-l4">
         <head xml:id="rhwis-l4-Hd1e95">Lectio 4</head>
-        <div>
+        <div xml:id="rhwis-l4-Dd1e98">
           <p xml:id="rhwis-l4-d1e98">
             <!--sap_Page_048.xml-->
             <pb ed="#B1" n="14"/>
@@ -112,9 +112,9 @@
             iusto esse necessarias patet manifeste. 
           </p>
         </div>
-        <div>
-          <head>Dubitatio</head>
-          <head type="question-title">Utrum praeter virtutes morales adquisitas necesse sit ponere theologicas</head>
+        <div xml:id="rhwis-l4-Dd1e303">
+          <head xml:id="rhwis-l4-Hd1e305">Dubitatio</head>
+          <head xml:id="rhwis-l4-Hd1e308" type="question-title">Utrum praeter virtutes morales adquisitas necesse sit ponere theologicas</head>
       
         <p xml:id="rhwis-l4-d1e300">
           <lb ed="#B1" n="17"/>Primo potest esse dubium hic utrum praeter uirtutes morales adquisitas 
@@ -171,7 +171,7 @@
           debet intelligi de habitibus naturalibus.
         </p>
         </div>
-        <div>
+        <div xml:id="rhwis-l4-Dd1e408">
           <p xml:id="rhwis-l4-d1e397">
             In simplicitate cordis quaerite il<lb ed="#B1" n="46"/>lum] 
             Circa quod nota quod in hoc quatuor innuuntur, quae uitam boni 

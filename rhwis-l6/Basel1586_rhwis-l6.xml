@@ -47,6 +47,7 @@
     <body>
       <div xml:id="rhwis-l6">
         <head xml:id="rhwis-l6-Hd1e96">Lectio 6</head>
+        <div xml:id="rhwis-l6-Dd1e99">
         <p xml:id="rhwis-l6-d1e99">
           <lb ed="#B1" n="26"/>OSTQUAM ostensum est quod per duplicem indispositionem 
           <lb ed="#B1" n="27"/>homo impeditur ne sapientiam consequatur, uidelicet per men<lb ed="#B1" n="28"/>tis 
@@ -138,6 +139,11 @@
           <lb ed="#B1" n="7"/>DEI ex una parte, &amp; propria iniquitas ex alia parte, Baruch. 4. <quote xml:id="rhwis-l6-Qd1e318"><!--baruch 4:35 -->Ignis enim su<lb ed="#B1" n="8"/>perueniet 
           ab aeterno in longiturnis diebus</quote>.
         </p>
+        </div>
+        <div xml:id="rhwis-l6-Dd1e328">
+          <head xml:id="rhwis-l6-Hd1e330">Dubitatio</head>
+          <head xml:id="rhwis-l6-Hd1e333" type="question-title">An Spiritus Sanctus detestetur et fugiat omnem
+            fictionem</head>
         <p xml:id="rhwis-l6-d1e326">
           <lb ed="#B1" n="9"/>Dubitatio potest esse, an Spiritus sanctus detestetur &amp; fugiat omnem fi<lb ed="#B1" n="10"/>ctionem.
         </p>
@@ -216,11 +222,13 @@
         <p xml:id="rhwis-l6-d1e481">
           <lb ed="#B1" n="10"/>Per hoc ad primum argumentum quod illa non fuit deordinata. Sed fuit  
           <lb ed="#B1" n="11"/>figura significans quales fuerunt illi discipuli amando &amp; dubitando secundum 
-          <lb ed="#B1" n="12"/>Greg. Ad secundum dicendum quod in transfiguratione Domini Moyses &amp; 
-          <lb ed="#B1" n="13"/>Helias uere realiter &amp; personaliter apparuerunt ibi: sicut docet Augustinus de Mi<lb ed="#B1" n="14"/>rabilibus 
-          diuinarum scripturarum cap. 9.
+          <lb ed="#B1" n="12"/>Greg.
         </p>
         <p xml:id="rhwis-l6-d1e494">
+          Ad secundum dicendum quod in transfiguratione Domini Moyses &amp; 
+          <lb ed="#B1" n="13"/>Helias uere realiter &amp; personaliter apparuerunt ibi: sicut docet Augustinus de Mi<lb ed="#B1" n="14"/>rabilibus 
+          diuinarum scripturarum cap. 9.
+          <!-- break ? -->
           <lb ed="#B1" n="15"/>Circa quorum apparitionem notanda sunt quatuor. Primum quod in suis 
           <lb ed="#B1" n="16"/>ueris corporibus ibi fuerit. Secundum, quod in Moyse non fuit finaliter resur<lb ed="#B1" n="17"/>rectio 
           completa, sed corpus suum iterato in terram seu puluerem est reuersum, 
@@ -307,6 +315,7 @@
           tenet, quod in CHRISTO fuit apertura uulnerum &amp; solutio continuita<lb ed="#B1" n="36"/>tis 
           recompensata per maiorem decorem gloriae, &amp; quod Thomas tetigit uulnera.  
         </p>
+        </div>
       </div>
     </body>
   </text>

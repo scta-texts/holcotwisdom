@@ -46,6 +46,7 @@
     </front>
     <body>
       <div xml:id="rhwis-l14">
+        <div xml:id="rhwis-l14-Dd1e95">
         <p xml:id="rhwis-l14-d1e95">
           <lb ed="#B1" n="30"/>POSTQVAM Spiritus sanctus rationabiliter reprobauit triplice 
           <lb ed="#B1" n="31"/>iniustorum hominum excusationem: In ista parte soluit quadam inci 
@@ -93,9 +94,16 @@
           <lb ed="#B1" n="24"/>icenderunt. Adam enim commisit crimen laesae Maiestatis, ideo puniri debuit,  
           <lb ed="#B1" n="25"/>tam in se quam in suis filijs, ad Ephes. 2. Eramus filij irae.
         </p>
+        </div>
+        <div xml:id="rhwis-l14-Dd1e196">
+          <head xml:id="rhwis-l14-Hd1e198">Dubitatio</head>
+          <head xml:id="rhwis-l14-Hd1e201" type="question-title">Utrum virtutes cardinales manebunt in patriam.</head>
         <p xml:id="rhwis-l14-d1e193">
           <lb ed="#B1" n="26"/>Hic autem incidit duplex dubitatio literalis: Prima est utrum uirtutes cardi 
-          <lb ed="#B1" n="27"/>nales manebunt in patria. Istam quaestionem pertractat beatus August. 14. de 
+          <lb ed="#B1" n="27"/>nales manebunt in patria.
+        </p>
+          <p xml:id="rhwis-l14-d1e211">
+          Istam quaestionem pertractat beatus August. 14. de 
           <lb ed="#B1" n="28"/>Trinit. cap. 9. De magnis ubi recitat opinionem Tullij in Hortensio dicentis: 
           <lb ed="#B1" n="29"/>Virtutes quatuor cardinales non manere post hanc uitam: Si autem esset quod 
           <lb ed="#B1" n="30"/>post hanc uitam immortaliter liceret uiuere in insulis Sanctorum, ut fabulae refe 
@@ -137,14 +145,28 @@
           <lb ed="#B1" n="11"/>passionum gustus tactus: &amp; sic in recto dicit habitum, &amp; in obliquo passiones, 
           <lb ed="#B1" n="12"/>&amp; sic de alijs.
         </p>
+        </div>
+        <div xml:id="rhwis-l14-Dd1e301">
+          <head xml:id="rhwis-l14-Hd1e303">Dubitatio</head>
+          <head xml:id="rhwis-l14-Hd1e306" type="question-title">An iustitia originalis includat aliquod donum
+            supernaturale.</head>
         <p xml:id="rhwis-l14-d1e287">
           <lb ed="#B1" n="13"/>Secunda dubitatio literalis est, an iusticia originalis includat aliquod do 
-          <lb ed="#B1" n="14"/>num supernaturale. Et dicendum quod si iusticia originalis dicatperfectam a 
+          <lb ed="#B1" n="14"/>num supernaturale.
+        </p>
+        <p xml:id="rhwis-l14-d1e316">
+          Et dicendum quod si iusticia originalis dicatperfectam a 
           <lb ed="#B1" n="15"/>nimae ad DEVM subiectionem &amp; corporis ad animam, cum anima sine gratia 
           <lb ed="#B1" n="16"/>perfecte non possit subdi: patet quod sic. Sed si praecipue corporis ad animam 
           <lb ed="#B1" n="17"/>includi: sic non oportet. Sic enim uocatur naturalis rectitudo. Vel iusticia qua 
           <lb ed="#B1" n="18"/>anima corpore perficiebatur in statu innocentiae, iuxta illud: Iusticia enim per 
-          <lb ed="#B1" n="19"/>petua est. Notandum quod iusticia est munimentum praeliantis, ornamentum 
+          <lb ed="#B1" n="19"/>petua est.
+        </p>
+        </div>
+        <!-- ending of dubatio unclear -->
+        <div xml:id="rhwis-l14-Dd1e332">
+          <p xml:id="rhwis-l14-d1e334">
+          Notandum quod iusticia est munimentum praeliantis, ornamentum 
           <lb ed="#B1" n="20"/>triumphantis, &amp; instrumentum iudicantis. Propter primum comparatur loricae, 
           <lb ed="#B1" n="21"/>ad Eph. 6. &amp; ultimo: State induti lorica iusticiae, &amp;c. Est enim Iorica genus ar 
           <lb ed="#B1" n="22"/>morum defensiuorum &amp; non inuasiuorum: &amp; disponit ipsum hominem ad su 
@@ -209,6 +231,7 @@
           <lb ed="#B1" n="24"/>bus actionibus est iustus, in aliquibus iniustus: non est perfecte uestitus, lob. 
           <lb ed="#B1" n="25"/>29. Iusticia indutus sum, uestiui me sicut uestimento.
         </p>
+        </div>
       </div>
     </body>
   </text>
