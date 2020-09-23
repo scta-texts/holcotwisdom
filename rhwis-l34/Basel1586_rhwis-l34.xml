@@ -46,8 +46,8 @@
     </front>
     <body>
       <div xml:id="rhwis-l34">
-        <head>Lectio 34</head>
-        <p>
+        <head xml:id="rhwis-l34-Hd1e95">Lectio 34</head>
+        <p xml:id="rhwis-l34-d1e98">
           <!--sap_Page_153.xml-->
           <pb ed="#B1" n="119"/>
           <lb ed="#B1" n="1"/>POSTQVAM Spiritus sanctus posuit unam promissionem ge 
@@ -62,7 +62,7 @@
           <lb ed="#B1" n="10"/>do qualis erit eis concessa assidentia iudicialis, ibi: Iudicabunt sancti. Tertio qua 
           <lb ed="#B1" n="11"/>lis erit beatorum in anima gloria spiritualis, ibi: qui confidunt in illum
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e129">
           <lb ed="#B1" n="12"/>Circa primum sciendum quod in isto textu quatuor dotes corporis glorio  
           <lb ed="#B1" n="13"/>si latenter innuuntur, quae sunt claritas, impassibilitas, subtilitas &amp; agilitas. Cu  
           <lb ed="#B1" n="14"/>ius ratio est: quia anima humana perfectum tunc habebit dominium corporis 
@@ -104,7 +104,7 @@
           <pb ed="#B1" n="120"/>
           <lb ed="#B1" n="1"/>habet corpus gloriosum ex dote subtilitatis, sed ex operatione uirtutis diuinae.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e218">
           <lb ed="#B1" n="2"/>Descendendo ergo ad literam: Istae quatuor dotes in hac litera exprimuntur  
           <lb ed="#B1" n="3"/>secundum istum ordinem: Primo enim notatur claritas cum dicitur fulgebunt.  
           <lb ed="#B1" n="4"/>Secundo impassibilitas: quia iusti Sap. 1. quia iusticia perpetua est &amp; immor 
@@ -118,14 +118,14 @@
           <lb ed="#B1" n="12"/>pro CHRISTO actibus uirtuosis in praesenti, &amp; si eis tribulationes occurrant,  
           <lb ed="#B1" n="13"/>illas aequanimiter sustinere, &amp; hoc habita consideratione ad praemium quod sequit
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e247">
           <lb ed="#B1" n="14"/>Armigeri qui seruiunt magnis dominis pro diuersis temporibus anni, conue 
           <lb ed="#B1" n="15"/>nientes robas accipiunt: qunam pro hyeme: aliam pro aestate. Illa aut datur pro hyeme 
           <lb ed="#B1" n="16"/>est de grosso panno, causa est: quia debet exponi modo pluuijs, modo uentis,  
           <lb ed="#B1" n="17"/>modo niui, modo igni: sed roba quae datur pro aestate, ordinatur de subtili pan 
           <lb ed="#B1" n="18"/>no &amp; delicato: ex eo, quia seruiet homini pro tempore gratioso, uidelicet in aestate. 
           <lb ed="#B1" n="19"/>lsto modo DEVS prouidet bonis uiris. Vita praesens est hyems. Vita futura est 
-          <lb ed="#B1" n="20"/>aestas. Corpus est animae roba, <ref>Iob. 10.</ref> <quote source="http://scta.info/resource/iob10_11">Pelle et carne uestiuisti me</quote>. Quia igitur in 
+          <lb ed="#B1" n="20"/>aestas. Corpus est animae roba, <ref xml:id="rhwis-l34-Rd1e264">Iob. 10.</ref> <quote xml:id="rhwis-l34-Qd1e267" source="http://scta.info/resource/iob10_11">Pelle et carne uestiuisti me</quote>. Quia igitur in 
           <lb ed="#B1" n="21"/>praesens est tempus tribulationis &amp; angustiae &amp; poenitentiae: igitur corpus pro nunc  
           <lb ed="#B1" n="22"/>est sicut roba de grosso &amp; rudi panno. Sed tempus futurum uitae aeternae est tempus 
           <lb ed="#B1" n="23"/>aestatis, gloriae &amp; honoris. Et ideo tunc habebit anima robam ualdegloriosam, 
@@ -142,13 +142,13 @@
           <lb ed="#B1" n="34"/>magis in igne tribulationis. Et ideo Ecclesiast. 2. dicitur: In igne probatur ar 
           <lb ed="#B1" n="35"/>gentum &amp; aurum: homines uero in camino humiliationis.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e305">
           <lb ed="#B1" n="36"/>Secundo notandum quod iusti fulgere debent in praesenti triplici claritate. 
           <lb ed="#B1" n="37"/>Videlicet famae, uitae, &amp; doctrinae. Vt fama referatur ad extraneos: uita ad nos  
           <lb ed="#B1" n="38"/>metipsos: doctrina ad subditos &amp; propinquos. Et haec triplex elaritas est ma 
           <lb ed="#B1" n="39"/>xime necessaria uiris Ecclesiasticis. Primo ut fulgeant bona fama: quandiu e 
           <lb ed="#B1" n="40"/>nim candela ardet &amp; fulget, delectabile negocium est &amp; utile: sed quando ex  
-          <lb ed="#B1" n="41"/>tinguitur, relinquit locum circustantem tenebrosum &amp; foetet: &amp; sicut dicit <ref>Arist. 
+          <lb ed="#B1" n="41"/>tinguitur, relinquit locum circustantem tenebrosum &amp; foetet: &amp; sicut dicit <ref xml:id="rhwis-l34-Rd1e320">Arist. 
             <lb ed="#B1" n="42"/>7 de Animalibus</ref>: Ille foetor est ualde nociuus praegnanti mulieri, quod si sit 
           <lb ed="#B1" n="43"/>uehemens, facit eam abortire &amp; occidit foetum. Isto modo est de quolibet ui  
           <lb ed="#B1" n="44"/>ro Ecclesiastico, qui quasi candela ardens &amp; lucens in Ecclesia constituitur,  
@@ -166,7 +166,7 @@
           <lb ed="#B1" n="1"/>rationabiliter honoratur, Thobiae 13. Luce splendida fulgens &amp; omnes fines 
           <lb ed="#B1" n="2"/>terrae adorabunt te.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e358">
           <lb ed="#B1" n="3"/>Secundo fulgere debemus in uita praesenti quo ad nosipsos intrinsecus in 
           <lb ed="#B1" n="4"/>conscientijs, ut DEVM timeamus &amp; luceamus more Solis, non more Lunae. Sol 
           <lb ed="#B1" n="5"/>enim sic lucet quod habet sibi lucem incorporatam per totum: Luna autem non sic. Et  
@@ -181,43 +181,43 @@
           <lb ed="#B1" n="14"/>Qui docti fuerint, fulgebunt sicut splendor firmamenti, &amp; qui ad iusticiam e 
           <lb ed="#B1" n="15"/>rudiunt multos tanquam stellae in perpetuas aeternitates.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e389">
           <lb ed="#B1" n="16"/>Dubitatio literalis. Vtrum corpus gloriosum istis quatuor dotibus sit do 
           <lb ed="#B1" n="17"/>tandum.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e396">
           Probatur primo quod non: quia non erit corpus impassibile, quia erit 
           <lb ed="#B1" n="18"/>corpus mixtum ex quatuor elementis, &amp; quatuor humoribus, &amp; per consequens 
           <lb ed="#B1" n="19"/>contraria erunt ibi approximata &amp; agent &amp; patientur ad inuicem: Ergo cor 
           <lb ed="#B1" n="20"/>pus erit passibile.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e405">
           Secundo modo sic. Sentire est pati, 2. de Anima: sed illa cor 
           <lb ed="#B1" n="21"/>pora erunt sensibilia &amp; sentient in actu uidendo, audiendo, tangendo, &amp; sic  
           <lb ed="#B1" n="22"/>de alijs: quia alias uita foret magis somnus quam uita, &amp; per consequens uita 
           <lb ed="#B1" n="23"/>imperfecta sicut dicit Arist. 5. Ethi. quod somnus est dimidia uita: Ergo erunt  
           <lb ed="#B1" n="24"/>passibilia.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e416">
           Tertio arguitur, quod corpus gloriosum non erit clarum: quia color 
           <lb ed="#B1" n="25"/>est extremitas perspicui in corpore terminato. Lux autem est qualitas corporis  
-          <lb ed="#B1" n="26"/>perspicui interminati secundum <ref>August.19. de Ciui. DEI.</ref> <quote source="http://scta.info/resource/adcd-l22-d1e3741">Pulchritudo cor 
+          <lb ed="#B1" n="26"/>perspicui interminati secundum <ref xml:id="rhwis-l34-Rd1e422">August.19. de Ciui. DEI.</ref> <quote xml:id="rhwis-l34-Qd1e425" source="http://scta.info/resource/adcd-l22-d1e3741">Pulchritudo cor 
             <lb ed="#B1" n="27"/>poris est conuenientia partium cum quadam coloris suauitate</quote>, igitur erit cor 
           <lb ed="#B1" n="28"/>pus coloratum, non ergo lucidum siue clarum.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e434">
           Quarto quod corpus glorio  
           <lb ed="#B1" n="29"/>sum non erit subtile: quia tunc posset esse in eodem loco cum corpore non glo<lb ed="#B1" n="30"/>rioso, 
-          &amp; eadem ratione cum infinitis sicut arguit <ref>Arist. 4. Physicor</ref>. Sic duo 
+          &amp; eadem ratione cum infinitis sicut arguit <ref xml:id="rhwis-l34-Rd1e440">Arist. 4. Physicor</ref>. Sic duo 
           <lb ed="#B1" n="31"/>corpora possunt esse simul &amp; infinita. Quinto quod corpus gloriosum non erit 
           <lb ed="#B1" n="32"/>illo modo agile, quod possit moveri ad uoluntatem animae: quia tunc posset  
           <lb ed="#B1" n="33"/>moveri in instanti: Consequentia patet: quia uoluntas potest hoc uelle. Nam 
-          <lb ed="#B1" n="34"/>uoluntas est impossibilium sicut patet <ref target="http://scta.info/resource/aristneth-l3">3. Ethicor</ref>.
+          <lb ed="#B1" n="34"/>uoluntas est impossibilium sicut patet <ref xml:id="rhwis-l34-Rd1e452" target="http://scta.info/resource/aristneth-l3">3. Ethicor</ref>.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e456">
           <lb ed="#B1" n="35"/>Ad oppositum est fides Christiana, &amp; habetur, 1. Corinth.15. &amp; in litera ista
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e461">
           <lb ed="#B1" n="36"/>Ad quaestionem dicendum quod sic. Nam sicut corpus humanum est instru 
           <lb ed="#B1" n="37"/>mentum ad merendum, sic iustum est quod premietur sicut instrumentum a 
           <lb ed="#B1" n="38"/>nimae ad bene uiuendum: sed ad hoc habendum requiritur quod defectus cor 
@@ -227,7 +227,7 @@
           <lb ed="#B1" n="42"/>inflicti, sicut nunc suppono: Ergo illi defectus debent in futura beatitudine 
           <lb ed="#B1" n="43"/>suppleri per gratias cocessas illis defectionibus contrarias.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e481">
           Ad primum dicendum 
           <lb ed="#B1" n="44"/>quod resurrectio corporum in futuro miraculosa erit &amp; comparando statum glo 
           <lb ed="#B1" n="45"/>riosum ad statum naturalem, totum erit miraculosum quidquid supernaturaliter 
@@ -240,7 +240,7 @@
           <lb ed="#B1" n="52"/>saltem fiet quod elementa non agant adinuicem in corpore glorificato, nec 
           <lb ed="#B1" n="53"/>qui tenetur credere consequens tenetur &amp; antecedens:
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e505">
           Ad secundum dicendum, 
           <!--sap_Page_156.xml-->
           <pb ed="#B1" n="122"/>
@@ -250,19 +250,19 @@
           <lb ed="#B1" n="4"/>tum propter immutationem spiritualem sensus hominis erit receptiuus specierum sine 
           <lb ed="#B1" n="5"/>materia, 2. de Anima.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e523">
           Ad tertium quod animae poterunt sua corpora ostendere clara 
           <lb ed="#B1" n="6"/>sicut uolent. Corpus autem clarum potest apparere coloratum. Et ideo erunt clara &amp; 
           <lb ed="#B1" n="7"/>colorata quantum ad apparentiam sicut homo uolet.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e531">
           Ad quartum concedendum est, 
           <lb ed="#B1" n="8"/>quod corpus gloriosum cum finitis corporibus esse potest: sed non posset esse  
           <lb ed="#B1" n="9"/>cum infinitis corporibus: quia nec possent esse infinita corpora simul: licet in 
           <lb ed="#B1" n="10"/>finita corpora possent esse. Vnde ad philosophum non est argumentum nisi a 
           <lb ed="#B1" n="11"/>latente impossibili ad minimum impossibile, uel apud multos putatum.
         </p>
-        <p>
+        <p xml:id="rhwis-l34-d1e542">
           Ad 
           <lb ed="#B1" n="12"/>quintum de agilitate quod posset moveri in instanti: neganda est consequen 
           <lb ed="#B1" n="13"/>tia: quia uoluntas beata non potest uelle impossibile: nescio tamen defendere,  
