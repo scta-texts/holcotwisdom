@@ -46,8 +46,8 @@
     </front>
     <body>
       <div xml:id="rhwis-l27">
-        <head>Lectio 27</head>
-        <p>
+        <head xml:id="rhwis-l27-Hd1e95">Lectio 27</head>
+        <p xml:id="rhwis-l27-d1e98">
           <lb ed="#B1" n="20"/>POSTQVAM Spiritus sanctus posuit conspirationem Iudaeorum 
           <lb ed="#B1" n="21"/>contra CHRISTVM &amp; ad CHRISTVM circumueniendum: Hic 
           <lb ed="#B1" n="22"/>ponit eorundem conspirationem ad CHRISTVM occidendum. Et  
@@ -55,7 +55,7 @@
           <lb ed="#B1" n="24"/>pli de morte eius percipient. Secundo de tormento, quo CHRISTVM ad mor 
           <lb ed="#B1" n="25"/>tem affligent: secunda pars ibi: Contumelia.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e114">
           <lb ed="#B1" n="26"/>Circa primum notandum quod nihil boni sciuerunt uidere, quod posset eis  
           <lb ed="#B1" n="27"/>de morte CHRISTI prouenire, nisiuna certitudo experientiae an esset uerus Fi 
           <lb ed="#B1" n="28"/>lius DEI uel non: &amp; haec fuit crudelis curiositas sciendi quod uolebant eum oc 
@@ -86,29 +86,29 @@
           <lb ed="#B1" n="10"/>suscipiet illum, &amp; liberabit eum de manibus contrariorum. Et in hoc decipieban 
           <lb ed="#B1" n="11"/>tur omnino. Vensrat enim mori, &amp; sic litera tota plana est.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e179">
           <lb ed="#B1" n="12"/>Dubitatio literalis. An persecutores CHRISTI cognouerunt eum esse  
           <lb ed="#B1" n="13"/>DEVM.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e186">
           Et uidetur quod sic: Nam principes sciuerunt eum esse illum, qui fue 
           <lb ed="#B1" n="14"/>rat promissus in lege secundum August. in libro quaestionum novi &amp; ueteris  
           <lb ed="#B1" n="15"/>Testamenti: sed secundum prophetas debuit esse DEVS: Ergo sciuerunt ipsum 
           <lb ed="#B1" n="16"/>esse DEVM.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e196">
           Praeterea sicut amare sic odire praesupponit cognitionem: sed o<lb ed="#B1" n="17"/>diebant 
           eum quatenus fuit DEVS: Ergo sciuerunt eum esse DEVM. Minor  
           <lb ed="#B1" n="18"/>patet Iohan. 15. Nunc &amp; uiderunt &amp; oderunt me &amp; Patrem meum.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e203">
           Ad oppo<lb ed="#B1" n="19"/>situm est Apostolus, 1. ad Corinth. 2. Si cognouissent, nunquam regem gloriae 
           <lb ed="#B1" n="20"/>crucifixissent, quod exponitur secundum Glos. tam dedaemonibus suggeren 
           <lb ed="#B1" n="21"/>tibus mortem CHRISTI quam etiam deIudaeis. Item CHRISTVS dixit Luc  
           <lb ed="#B1" n="22"/>23. Pater ignosce eis: quia nesciunt quid faciunt. Item Actuum 3 dixit Petrus 
           <lb ed="#B1" n="23"/>Iudaeis: Scio quia per ignorantiam fecistis, sicut &amp; principes uestri
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e216">
           <lb ed="#B1" n="24"/>Ad dubitationem dicendum, quod non: neque enim daemones, neque princi 
           <lb ed="#B1" n="25"/>pes, neque simplices cognouerunt eum esse DEVM. In hoc tamen est differentia 
           <lb ed="#B1" n="26"/>quod principes &amp; maiores instructi in lege sciebant eum esse Messiam, sed non 
@@ -125,18 +125,18 @@
           <lb ed="#B1" n="37"/>os. Ad secundum de daemonibus dixerunt illud ex suppositione &amp; suspicione, 
           <lb ed="#B1" n="38"/>non ex certa cognitione, sicut ponit Glos. 1. ad Corint. 2. Si cognouissent.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e251">
           Ad  
           <lb ed="#B1" n="39"/>primum principale dicendum quod licet scirent eum per facta &amp; signa quae fe 
           <lb ed="#B1" n="40"/>cit esse promissum in lege, non tamen omnes proprietates sciuerunt, quas de 
           <lb ed="#B1" n="41"/>DEO praedixerunt prophetae: sed tantum hoc sciuerunt quod fuit Messias.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e260">
           Ad  
           <lb ed="#B1" n="42"/>secundum dicendum quod cognouerunt Filium DEI: non tamen cogno<lb ed="#B1" n="43"/>uerunt 
           eum esse FiliumDDEI, ad odium DEI hoc sufficit, odite CHRISTVM
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e267">
           <lb ed="#B1" n="44"/>Videamus. N Notandum qued humanae conditionis consideratio ad quatuor se debet  
           <lb ed="#B1" n="45"/>extendere in praesenti, ad hoc quod uita nostra uirtuose regatur. Oportet enim 
           <lb ed="#B1" n="46"/>uidere quid supra nos patet, quid infra nos latet, quid circa nos cernitur, &amp; quid  
@@ -165,7 +165,7 @@
           <lb ed="#B1" n="14"/>infirmitate, tribulatione &amp; persecutione, bene recordabuntur de DEO, &amp; de 
           <lb ed="#B1" n="15"/>coelo ad quod facti sunt.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e329">
           <lb ed="#B1" n="16"/>Nota quod uespertiliones debiles sunt oculis. Causa est: quia humor cristal  
           <lb ed="#B1" n="17"/>linus qui necessarius est oculo ad uidendum transiuit in substantiam alarum, 
           <lb ed="#B1" n="18"/>Vnde habent alas coreales, &amp; sic propter uolatum amiserunt uisum: quia sub  
@@ -185,7 +185,7 @@
           <lb ed="#B1" n="32"/>uit in eam. Sic quidam literati uident coelestia per Sacram scripturam, sed nun 
           <lb ed="#B1" n="33"/>quam intrant in eam per contemplationem.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e371">
           <lb ed="#B1" n="34"/>Secundo uideamus internam comissorum conscientiam. Discutiamus fa 
           <lb ed="#B1" n="35"/>cta nostra, cogitationes &amp; uerba. Scriptorsi oculos suos auertat a libro, turpem 
           <lb ed="#B1" n="36"/>literam faciet: quia bona scriptura diligentissimam uisionem requirit. Libri no 
@@ -197,7 +197,7 @@
           <lb ed="#B1" n="42"/>se quae sibi e directo opponuntur: sed se ipsum nullo modo uidere potest: sed  
           <lb ed="#B1" n="43"/>indiget speculo repraesentante se. Et ita de nobis alienos defectus optime nota 
           <lb ed="#B1" n="44"/>mus, proprios non uidemus, nisi forte per speculum: hoc est, per correptionem 
-          <lb ed="#B1" n="45"/>alicuius sancti uiri, 1. ad Corinth. 13. Videmus nunc per speculum. Et talem  
+          <lb ed="#B1" n="45"/>alicuius sancti uiri, <ref xml:id="rhwis-l27-Rd1e399">1. ad Corinth. 13.</ref> <quote xml:id="rhwis-l27-Qd1e402" source="http://scta.info/resource/Icor13_12" synch="1-4">Videmus nunc per speculum</quote>. Et talem  
           <lb ed="#B1" n="46"/>quemlibet arguit Saluator, Matth. 7. Quid uides festucam in oculo fratris tui,  
           <lb ed="#B1" n="47"/>&amp; trabem quae in oculo tuo est non consideras. Hypocrita eijce primum trabem  
           <lb ed="#B1" n="48"/>de oculo tuo, &amp; tunc ueni &amp; eijce festucam de oculo fratris tui. Vnde Prosper 
@@ -214,7 +214,7 @@
           <lb ed="#B1" n="4"/>cuique nostrum illud Hier. 2. Vide quia malum &amp; amarum est reliquisse te Do 
           <lb ed="#B1" n="5"/>minum DEUM tuum, te inquit, non alium
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e438">
           <lb ed="#B1" n="6"/>Tertio uideamus fraternam proximorum indigentiam, Gene. 37. Vide si 
           <lb ed="#B1" n="7"/>cuncta prospera sint erga fratres tuos. Sed reuera multi uident fratres suos in 
           <lb ed="#B1" n="8"/>digentes, sicut sacerdos &amp; Leuita uiderunt Samaritanum sauciatum, Luc. 10. 
@@ -225,7 +225,7 @@
           <lb ed="#B1" n="13"/>cut Samaritanus fecit, qui uulnera alligauit &amp; in stabulum secum duxit, Luc. 10. 
           <lb ed="#B1" n="14"/>Videbo uos &amp; gaudebit cor uestrum, Ioh. 16.
         </p>
-        <p>
+        <p xml:id="rhwis-l27-d1e460">
           <lb ed="#B1" n="15"/>Quarto uideamus aeternam tormentorum uehementiam. Homo qui non di 
           <lb ed="#B1" n="16"/>ligenter praeuidet sibi de fouea &amp; puteo, faciliter cadit in eum: sic qui non pro 
           <lb ed="#B1" n="17"/>tunde &amp; frequenter imaginatur de poena putei infernalis, non bene cauet sibi, 
