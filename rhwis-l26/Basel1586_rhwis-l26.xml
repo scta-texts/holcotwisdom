@@ -46,8 +46,8 @@
     </front>
     <body>
       <div xml:id="rhwis-l26">
-        <head>Lectio 26</head>
-        <p>
+        <head xml:id="rhwis-l26-Hd1e95">Lectio 26</head>
+        <p xml:id="rhwis-l26-d1e98">
           <lb ed="#B1" n="25"/>POSITIS octo accusationibus, quibus ludaei accusabant CHRI 
           <lb ed="#B1" n="26"/>STVM in lectione hodierna supperadduntur quatuor aliae con 
           <lb ed="#B1" n="27"/>tra eum: &amp; secundum hoc haec lectio diuiditur in quatuor partes. 
@@ -68,7 +68,7 @@
           <lb ed="#B1" n="42"/>cusatione magis accusant seipsos: nam tales fuerunt in rei ueritate: nec ipse qui  
           <lb ed="#B1" n="43"/>ueritas fuit, potuit de eis aliter aestimare.
         </p>
-        <p>
+        <p xml:id="rhwis-l26-d1e142">
           <lb ed="#B1" n="44"/>Secunda accusatio &amp; decima in uniuerso est de partiali diuisione. Et forma 
           <lb ed="#B1" n="45"/>tur sic: Quicunque diuidit se a uita communi, trahens alios secum ad 
           <!--sap_Page_127.xml-->
@@ -83,7 +83,7 @@
           <lb ed="#B1" n="8"/>uit, &amp; bonis &amp; sanctis illam recipientibus se coniunxit, &amp; a malis hominibus 
           <lb ed="#B1" n="9"/>DEO inobedientibus se abstraxit siue subtraxit.
         </p>
-        <p>
+        <p xml:id="rhwis-l26-d1e173">
           <lb ed="#B1" n="10"/>Tertia accusatio est de praeiudiciali comparatione, &amp; formatur sic: Compa 
           <lb ed="#B1" n="11"/>rationes sunt odiosae, &amp; quando siunt communiter, generant discordiam. Sed 
           <lb ed="#B1" n="12"/>CHRISTVS tales comparationes fecit, praefert iustos gentiles non habentes 
@@ -97,7 +97,7 @@
           <lb ed="#B1" n="20"/>runt credere CHRISTO, qui fuit maior Salomone &amp; lona. Ista accusatio refel 
           <lb ed="#B1" n="21"/>litur in semetipsos: nam iuste fecit in hoc, quod iustos praetulit ipsis malis.
         </p>
-        <p>
+        <p xml:id="rhwis-l26-d1e202">
           <lb ed="#B1" n="22"/>Quarta accusatio &amp; duodecima in numero est eadem cum sexta in uirtute. 
           <lb ed="#B1" n="23"/>Vnde accusant eum de supernaturali usurpatione naturae diuinae. Vnde istae 
           <lb ed="#B1" n="24"/>duae causae: Filium DEI se nominat. Et gloriatur patrem se habere DEVM: idem  
@@ -118,14 +118,14 @@
           <lb ed="#B1" n="39"/>tem rex noster ante secula. Quidam de progenitorum diuitijs: &amp; de eo scribit 
           <lb ed="#B1" n="40"/>in Psalm. Gloria &amp; diuitiae in domo eius. Quidam de progenitorum militijs atque  
           <lb ed="#B1" n="41"/>DEVS ipse est Dominus exercituum, princeps militiae &amp; belli, de quo Iob. 25. 
-          <lb ed="#B1" n="42"/><quote source="http://scta.info/resource/iob25_3">Nunquid est numerus militum eius</quote>: Ergo confidenter gloriemur, DEVM nos 
+          <lb ed="#B1" n="42"/><quote xml:id="rhwis-l26-Qd1e248" source="http://scta.info/resource/iob25_3">Nunquid est numerus militum eius</quote>: Ergo confidenter gloriemur, DEVM nos 
           <lb ed="#B1" n="43"/>habere Patrem: quia Eccles. 3. Gloria hominis est honor patris sui, &amp; dedecus 
           <lb ed="#B1" n="44"/>filij pater sine honore. Inueniemus autem in isto patre libertatem sufficien 
           <lb ed="#B1" n="45"/>tis exhibitionis, si ei seruiamus. Regularitatem conuenientis castigationis  
           <lb ed="#B1" n="46"/>ne delinquamus. Hilaritatem allicientis reconciliationis si ad eum re 
           <lb ed="#B1" n="47"/>deamus. 
         </p>
-        <p>
+        <p xml:id="rhwis-l26-d1e264">
           <lb ed="#B1" n="48"/>De primo facit nobis CHRISTVS dulcissimum argumentum, quo DEVS nullo 
           <lb ed="#B1" n="49"/>modo nobis deficiet, si ei seruierimus, Luc. 11. Quis, inquit CHRISTVS, de ho 
           <lb ed="#B1" n="50"/>minibus petit a patre suo panem, nunquid lapidem dabit ei: Aut piscem, nunquid pro 
@@ -138,7 +138,7 @@
           <lb ed="#B1" n="2"/>dum contemnere &amp; paupertatem pro CHRISTO subire: quia DEVS omnibus 
           <lb ed="#B1" n="3"/>sibi seruientibus sufficienter prouidebit.
         </p>
-        <p>
+        <p xml:id="rhwis-l26-d1e290">
           <lb ed="#B1" n="4"/>Cum magister nostri ordinis, scilicet frater lordanus in quadam abbatia Ci 
           <lb ed="#B1" n="5"/>sterciensium, receptus fuisset, conuenerunt circa eum monachi secum amicabi 
           <lb ed="#B1" n="6"/>liter conferentes quaesierunt ab eo. Magister quomodo potest ordo uester du 
@@ -161,7 +161,7 @@
           <lb ed="#B1" n="23"/>tit. Sic modo diuites quidam, qui portant loculos pauperum, sed magis in uolu 
           <lb ed="#B1" n="24"/>ptatibus &amp; uanitatibus huius uitae consumunt.
         </p>
-        <p>
+        <p xml:id="rhwis-l26-d1e338">
           <lb ed="#B1" n="25"/>Qualiter autem DEVS diuitibus dat diuitias ratione pauperum, docet Au 
           <lb ed="#B1" n="26"/>gust. Sermone 24. Diues, inquit, &amp; pauper duo sunt sibiinuicem contraria. Sed  
           <lb ed="#B1" n="27"/>iterum duo sibiinuicem sunt necessaria. Nullus indigeret si inuicem se portarent,  
@@ -183,7 +183,7 @@
           <lb ed="#B1" n="43"/>tur eis: &amp; si non tantum, quantum deordinate appetunt, tamen quantum indi 
           <lb ed="#B1" n="44"/>gentiae est.
         </p>
-        <p>
+        <p xml:id="rhwis-l26-d1e384">
           <lb ed="#B1" n="45"/>Secundo inuenimus in isto Patre qui DEVS est, regularitatem conuenien 
           <lb ed="#B1" n="46"/>tis castigationis: inter tria quae pater datfilio secundum philosophum 8. Ethic  
           <lb ed="#B1" n="47"/>ponitur disciplina. Dat enim pater filio primo nutrimentum &amp; disciplinam. Et  
@@ -191,11 +191,11 @@
           <lb ed="#B1" n="49"/>matus, ad Heb. 12. Quis est filius quem non corripit pater: Nobilis homo qui  
           <lb ed="#B1" n="50"/>habet filios sibi charos, facit eos diligenter castigari, corripi &amp; flagellari pro o 
           <lb ed="#B1" n="51"/>mni defectu, ubi grationes &amp; famuli dimittuntur sibiipsis. Ideo dicit Apostol.  
-          <lb ed="#B1" n="52"/>ad Gal. 4. Quanto tempore haeres paruulus est, nihil differt a seruo cum sit do 
+          <lb ed="#B1" n="52"/>ad Gal. 4. <quote xml:id="rhwis-l26-Qd1e403" source="http://scta.info/resource/gal4_1 http://scta.info/resource/gal4_2">Quanto tempore haeres paruulus est, nihil differt a seruo cum sit do 
           <lb ed="#B1" n="53"/>minus omnium: sub tutoribus &amp; actoribus est usque ad praefinitum tempus a 
           <!--sap_Page_129.xml-->
           <pb ed="#B1" n="95"/>
-          <lb ed="#B1" n="1"/>patre. Isto modo DEVS reprobos &amp; finaliter damnandos dimittit suae uolun 
+          <lb ed="#B1" n="1"/>patre</quote>. Isto modo DEVS reprobos &amp; finaliter damnandos dimittit suae uolun 
           <lb ed="#B1" n="2"/>tati: filios autem suos corripit &amp; castigat nunc per infirmitates, nunc per aduer 
           <lb ed="#B1" n="3"/>sitates, nunc per subtractionem bonorum temporalium, nunc per detractionem 
           <lb ed="#B1" n="4"/>malorum hominum: quae omnia sunt tolerabiliter sustinenda si cogitemus: quia 
@@ -204,7 +204,7 @@
           <lb ed="#B1" n="7"/>reprobos tanquam durus rex interrogans condemnasti. Et ideo Eccles. 3. Iudi  
           <lb ed="#B1" n="8"/>cium patris audite filij, &amp; sic facite ut salui sitis.
         </p>
-        <p>
+        <p xml:id="rhwis-l26-d1e430">
           <lb ed="#B1" n="9"/>Tertio inuenimus in isto Patre hilaritatem allicientis consolationis, si ad eum 
           <lb ed="#B1" n="10"/>redeamus quotiescunque peccauerimus. Figuram habemus expressam ad hoc 
           <lb ed="#B1" n="11"/>Luc. 15. de filio prodigo, qui cum a patre paternam suam portionem petiuis  
