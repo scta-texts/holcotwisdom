@@ -155,7 +155,7 @@
           <lb ed="#B1" n="50"/>placebo, sed dirige, nunquam cantant.
         </p>
         <p xml:id="rhwis-l213-d1e324">
-          <lb ed="#B1" n="51"/>De quibus verificatur illud Psal. 40. <quote source="http://scta.info/resource/ps48_14">Haec uia illorum scandalum ipsis. Et  
+          <lb ed="#B1" n="51"/>De quibus verificatur illud Psal. 40. <quote xml:id="rhwis-l213-Qd1e328" source="http://scta.info/resource/ps48_14">Haec uia illorum scandalum ipsis. Et  
           <lb ed="#B1" n="52"/>postea in ore suo complacebunt</quote>. Secundo principaliter Sacra scriptura est a 
           <lb ed="#B1" n="53"/>Theologo exercenda per fructuosam conuersationem, ut sit non solum doctus 
           <!--sap_Page_734.xml-->
@@ -195,7 +195,7 @@
           <lb ed="#B1" n="33"/>permanere suadeat, illud primum esse reor, meditationem &amp; scientiam Scri 
           <lb ed="#B1" n="34"/>pturarum. Tertio haec meditatio praedicat DEI pietatem. In Psal. In matutinis  
           <lb ed="#B1" n="35"/>meditabor in te: quia fuisti adiutor meus. Quarto ista meditatio excitat ho 
-          <lb ed="#B1" n="36"/>minis charitatem. In Psal. <quote source="http://scta.info/resource/ps38_4@7-11">In meditatione mea exardescet ignis</quote>. Ista meditatio 
+          <lb ed="#B1" n="36"/>minis charitatem. In Psal. <quote xml:id="rhwis-l213-Qd1e424" source="http://scta.info/resource/ps38_4@7-11">In meditatione mea exardescet ignis</quote>. Ista meditatio 
           <lb ed="#B1" n="37"/>Sacrae scripturae non debet esse transitoria, sicut de dialectica dixerunt quidam  
           <lb ed="#B1" n="38"/>antiqui, quod est a limine salutanda: Sed debet esse morosa, &amp; diuturna, &amp; 
           <lb ed="#B1" n="39"/>continua. Et eo feruentior, quo homo senior inuenitur, Eccles. 14. Beatus uir  
