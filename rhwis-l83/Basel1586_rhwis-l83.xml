@@ -79,7 +79,7 @@
           <pb ed="#B1" n="287"/>
           <!--2 extra lines in images that need deletion <lb ed="#B1" n="1"/>M. RO B. Ho RROT. CHP 
       <lb ed="#B1" n="2"/>VI--> 
-          <lb ed="#B1" n="3"/>gatione semota, pacatus est. Et Eccl. 21. <quote source="http://scta.info/resource/sir21_13@1-6">Consummatio timoris DEI sapientia
+          <lb ed="#B1" n="3"/>gatione semota, pacatus est. Et Eccl. 21. <quote xml:id="rhwis-l83-Qd1e159" source="http://scta.info/resource/sir21_13@1-6">Consummatio timoris DEI sapientia
           <lb ed="#B1" n="4"/>&amp; sensus</quote>. Et per oppositum stultorum sensus semper est inconsummatus: quia 
           <lb ed="#B1" n="5"/>insensualitate stante, &amp; secundum rationem non uiuunt. Et ideo uocantur 
           su<lb ed="#B1" n="6" break="no"/>perius ca. 4. Rami inconsummati. Frangentur, inquit, rami inconsummati. Sic 
@@ -90,7 +90,7 @@
           <lb ed="#B1" n="11"/>loquens de futura beatitudine. <quote xml:id="rhwis-l83-Qd1e182" source="http://scta.info/resource/adt-l13-d1e1435@105-132">Omne quod ibi erit, bonum erit, &amp; ipse summus 
             <lb ed="#B1" n="12"/>DEVS summum bonum erit, atque ad fruendum eum amantibus praesto erit, &amp; quod  
             <lb ed="#B1" n="13"/>est omnino beatissimum, ita semper fore certum erit</quote>: Quilibet ergo bonus 
-          <lb ed="#B1" n="14"/>cito securus erit. Apocal. 22. <quote source="http://scta.info/resource/ap22_12@1-13">Ecce uenio cito &amp; merces mea mecum est, reddere
+          <lb ed="#B1" n="14"/>cito securus erit. Apocal. 22. <quote xml:id="rhwis-l83-Qd1e192" source="http://scta.info/resource/ap22_12@1-13">Ecce uenio cito &amp; merces mea mecum est, reddere
           <lb ed="#B1" n="15"/>unicuique secundum opera sua</quote>. Et Apocal. 1. Signauit DEVS quae oportet  
           <lb ed="#B1" n="16"/>fieri cito. Et ideo signanter dicit: Qui vigilauerit propter illam cito, securus erit,  
           <lb ed="#B1" n="17"/>ad differentiam hominum lasciuorum qui uigilias multas faciunt, non propter cigilie mppe 
@@ -118,9 +118,9 @@
           <lb ed="#B1" n="37"/>ramus te. Quaesiuit nos in terra docendo, in cruce moriendo, ac per insignia 
           <lb ed="#B1" n="38"/>passionis suae gloriosa misericorditer ad regna coelestia nos incitando: In infer 
           <lb ed="#B1" n="39"/>num descendendo. Et in vijs suis ostendit se illis hilariter. Viae CH.RISTI 
-          <lb ed="#B1" n="40"/>sunt praecepta CHRISTI, semitae sunt consilia. In Psalmo: <quote source="http://scta.info/resource/ps24_4@6-15">Viastuas rsal. 24  
+          <lb ed="#B1" n="40"/>sunt praecepta CHRISTI, semitae sunt consilia. In Psalmo: <quote xml:id="rhwis-l83-Qd1e254" source="http://scta.info/resource/ps24_4@6-15">Viastuas rsal. 24  
           <lb ed="#B1" n="41"/>Domine demonstra mihi, &amp; semitas tuas edoce me:</quote> Et hoc hilariter 
-          Prover<lb ed="#B1" n="42" break="no"/>biorum 16. <quote source="http://scta.info/resource/prov16_15@1-11">In hilaritate uultus regis uita: Et clementia eius quasi imber sero prudentiae pa 
+          Prover<lb ed="#B1" n="42" break="no"/>biorum 16. <quote xml:id="rhwis-l83-Qd1e261" source="http://scta.info/resource/prov16_15@1-11">In hilaritate uultus regis uita: Et clementia eius quasi imber sero prudentiae pa 
           <lb ed="#B1" n="43"/>tinus.</quote> Et in omni prouidentia occurret illis. Docet enim Tullius 2. Retho tes. 
           <lb ed="#B1" n="44"/>ricae quod prudentiae tres sunt partes: Memoria, Prouidentia, 
           Intellecti<lb ed="#B1" n="45" break="no"/>ua. Memoria est per quam animus repetit illa quae fuerunt: Intellectiua est per 
@@ -171,7 +171,7 @@
           <lb ed="#B1" n="30"/>deseruis de altario uiuas. Haec Bernhard. Est ergo praelatus Senascalius 
           paupe<lb ed="#B1" n="31" break="no"/>rum, figuratus per angelum, qui Thobiam iuniorem duxit in regionem Me 
           <lb ed="#B1" n="32"/>dorum, &amp; instruxit, quomodo uxorem sibi debuit copulare, &amp; sanum reduxit.  
-          <lb ed="#B1" n="33"/>Cui Thobias regratiando dixit. <quote source="http://scta.info/resource/tob9_2@1-11">Si meipsum tibi tradam seruum, non ero
+          <lb ed="#B1" n="33"/>Cui Thobias regratiando dixit. <quote xml:id="rhwis-l83-Qd1e373" source="http://scta.info/resource/tob9_2@1-11">Si meipsum tibi tradam seruum, non ero
           con<lb ed="#B1" n="34" break="no"/>dignus prouidentiae tuae</quote>. Vt dicitur Thobiae 9. Sic certe regratiabitur subditus 
           <lb ed="#B1" n="35"/>sanatus per prouidentiam boni praelati, ductus per uiam poenitentiae, &amp; 
           redu<lb ed="#B1" n="36" break="no"/>ctus ad ciuitatem laeticiae. Et ideo signanter dicitur praelatis, 1. Pet. 5. Pascite qui 
@@ -179,7 +179,7 @@
           <lb ed="#B1" n="38"/>autem praelati, sed omnes habentes substantiam huius mundi, ad aliqualem  
           <lb ed="#B1" n="39"/>huiusmodi prouidentiam obligantur, pro pauperibus sustentandis. Tertia 
           <lb ed="#B1" n="40"/>prudentia est personalium meritorum, ad istam faciendam omnes obligamur,  
-          <lb ed="#B1" n="41"/>quilibet pro seipso in nundinis huius uitae. Ad Rom. 12. <quote source="http://scta.info/resource/rom12_16@11-16 http://scta.info/resource/rom12_17@1-16">Nolite esse 
+          <lb ed="#B1" n="41"/>quilibet pro seipso in nundinis huius uitae. Ad Rom. 12. <quote xml:id="rhwis-l83-Qd1e393" source="http://scta.info/resource/rom12_16@11-16 http://scta.info/resource/rom12_17@1-16">Nolite esse 
           pruden<lb ed="#B1" n="42" break="no"/>tes apud uosmetipsos, nulli malum pro malo reddentes: sed prouidentes bona, 
           <lb ed="#B1" n="43"/>non tantum coram DEO, sed coram omnibus hominibus</quote>: prouidentes (inquit)  
           <lb ed="#B1" n="44"/>bona, uidelicet maxima, quae sunt uirtutes &amp; bona opera. Ista enim bona 
@@ -194,8 +194,8 @@
           <lb ed="#B1" n="53"/>faciunt de terrenis diuitijs, de quibus in morte sunt necessario spoliandi, 1. Tim. 6. 
           <!--sap_Page_323.xml-->
           <pb ed="#B1" n="289"/>
-          <lb ed="#B1" n="1"/><quote source="http://scta.info/resource/Itim6_7@1-12">Nihil intulimus in hunc mundum, haud dubium, quia nec auferre quid pos
-          <lb ed="#B1" n="2"/>sumus</quote>. Et in persona talium dicitur Sapien. 9. <quote source="http://scta.info/resource/sap9_14@1-8">Cogitationes mortalium
+          <lb ed="#B1" n="1"/><quote xml:id="rhwis-l83-Qd1e428" source="http://scta.info/resource/Itim6_7@1-12">Nihil intulimus in hunc mundum, haud dubium, quia nec auferre quid pos
+          <lb ed="#B1" n="2"/>sumus</quote>. Et in persona talium dicitur Sapien. 9. <quote xml:id="rhwis-l83-Qd1e433" source="http://scta.info/resource/sap9_14@1-8">Cogitationes mortalium
           timi<lb ed="#B1" n="3" break="no"/>dae, &amp; incertae prouidentiae nostrae</quote>. Aduertant etiam qui mundanas diuitias 
           <lb ed="#B1" n="4"/>per lonpum tempus cum laboribus, periculis, &amp; taedijs pro suis filijs &amp; 
           haere<lb ed="#B1" n="5" break="no"/>dibus, &amp; nihil adhuc pro seipsis perpetuum procurauerunt, quanta fatuitate 
@@ -209,7 +209,7 @@
           <lb ed="#B1" n="13"/>32. Vtinam saperent, &amp; intelligerent ac nouissima prouiderent. Prouidere est 
           <lb ed="#B1" n="14"/>procul uidere, sicut dicit Boëtius 5. de conso. Nouissima nostra sunt mors, &amp; 
           <lb ed="#B1" n="15"/>iudicium, poena &amp; praemium. Ista novissima dum procul sunt, prouidere &amp; 
-          <lb ed="#B1" n="16"/>praeordinare debemus, &amp; tunc nunquam peccabimus. Ecclesiast. 7. <quote source="http://scta.info/resource/sir7_40@1-12">In omnibus
+          <lb ed="#B1" n="16"/>praeordinare debemus, &amp; tunc nunquam peccabimus. Ecclesiast. 7. <quote xml:id="rhwis-l83-Qd1e466" source="http://scta.info/resource/sir7_40@1-12">In omnibus
           <lb ed="#B1" n="17"/>operibus tuis memorare nouissima tua, &amp; in aeternum non peccabis.</quote>
         </p>
       </div>

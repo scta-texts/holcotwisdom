@@ -99,14 +99,14 @@
         <p xml:id="rhwis-l27-d1e196">
           Praeterea sicut amare sic odire praesupponit cognitionem: sed o<lb ed="#B1" n="17" break="no"/>diebant 
           eum quatenus fuit DEVS: Ergo sciuerunt eum esse DEVM. Minor  
-          <lb ed="#B1" n="18"/>patet Iohan. 15. <quote source="http://scta.info/resource/io15_24@17-24">Nunc &amp; uiderunt &amp; oderunt me &amp; Patrem meum.</quote>
+          <lb ed="#B1" n="18"/>patet Iohan. 15. <quote xml:id="rhwis-l27-Qd1e197" source="http://scta.info/resource/io15_24@17-24">Nunc &amp; uiderunt &amp; oderunt me &amp; Patrem meum.</quote>
         </p>
         <p xml:id="rhwis-l27-d1e203">
           Ad oppo<lb ed="#B1" n="19" break="no"/>situm est Apostolus, 1. ad Corinth. 2. Si cognouissent, nunquam regem gloriae 
           <lb ed="#B1" n="20"/>crucifixissent, quod exponitur secundum Glos. tam dedaemonibus 
           suggeren<lb ed="#B1" n="21" break="no"/>tibus mortem CHRISTI quam etiam deIudaeis. Item CHRISTVS dixit Luc  
           <lb ed="#B1" n="22"/>23. Pater ignosce eis: quia nesciunt quid faciunt. Item Actuum 3 dixit Petrus 
-          <lb ed="#B1" n="23"/>Iudaeis: <quote source="http://scta.info/resource/act3_17@4-12">Scio quia per ignorantiam fecistis, sicut &amp; principes uestri</quote>
+          <lb ed="#B1" n="23"/>Iudaeis: <quote xml:id="rhwis-l27-Qd1e214" source="http://scta.info/resource/act3_17@4-12">Scio quia per ignorantiam fecistis, sicut &amp; principes uestri</quote>
         </p>
         <p xml:id="rhwis-l27-d1e216">
           <lb ed="#B1" n="24"/>Ad dubitationem dicendum, quod non: neque enim daemones, neque 
@@ -189,8 +189,8 @@
           <lb ed="#B1" n="34"/>Secundo uideamus internam comissorum conscientiam. Discutiamus 
           fa<lb ed="#B1" n="35" break="no"/>cta nostra, cogitationes &amp; uerba. Scriptorsi oculos suos auertat a libro, turpem 
           <lb ed="#B1" n="36"/>literam faciet: quia bona scriptura diligentissimam uisionem requirit. Libri 
-          no<lb ed="#B1" n="37" break="no"/>stri sunt conscientiae nostrae, Daniel. 7. <quote source="http://scta.info/resource/dan7_10@20-25">Iudicium sedit &amp; libri aperti sunt</quote>
-          con<lb ed="#B1" n="38" break="no"/>scientiarum, secundum Glos. Et Apoc. 20. <quote source="http://scta.info/resource/ap20_12@24-36">Iudicati sunt mortui ex his quae
+          no<lb ed="#B1" n="37" break="no"/>stri sunt conscientiae nostrae, Daniel. 7. <quote xml:id="rhwis-l27-Qd1e383" source="http://scta.info/resource/dan7_10@20-25">Iudicium sedit &amp; libri aperti sunt</quote>
+          con<lb ed="#B1" n="38" break="no"/>scientiarum, secundum Glos. Et Apoc. 20. <quote xml:id="rhwis-l27-Qd1e389" source="http://scta.info/resource/ap20_12@24-36">Iudicati sunt mortui ex his quae
           scri<lb ed="#B1" n="39" break="no"/>pta erant in libro secundum opera eorum.</quote> Videamus ergo quid scribamus. 
           <lb ed="#B1" n="40"/>Dum liber est in fieri, &amp; quod falsum est, corrigamus, &amp; abradamus dum pos  
           <lb ed="#B1" n="41"/>sumus per poenitentiam. Sed haec est conditio oculi quod optime uidet alia a 
@@ -198,8 +198,8 @@
           <lb ed="#B1" n="43"/>indiget speculo repraesentante se. Et ita de nobis alienos defectus optime nota 
           <lb ed="#B1" n="44"/>mus, proprios non uidemus, nisi forte per speculum: hoc est, per correptionem 
           <lb ed="#B1" n="45"/>alicuius sancti uiri, <ref xml:id="rhwis-l27-Rd1e399">1. ad Corinth. 13.</ref> <quote xml:id="rhwis-l27-Qd1e402" source="http://scta.info/resource/Icor13_12" synch="1-4">Videmus nunc per speculum</quote>. Et talem  
-          <lb ed="#B1" n="46"/>quemlibet arguit Saluator, Matth. 7. <quote source="http://scta.info/resource/mt7_3@1-14">Quid uides festucam in oculo fratris tui,
-          <lb ed="#B1" n="47"/>&amp; trabem quae in oculo tuo est non consideras.</quote> <quote source="http://scta.info/resource/mt7_5@1-16">Hypocrita eijce primum trabem
+          <lb ed="#B1" n="46"/>quemlibet arguit Saluator, Matth. 7. <quote xml:id="rhwis-l27-Qd1e415" source="http://scta.info/resource/mt7_3@1-14">Quid uides festucam in oculo fratris tui,
+          <lb ed="#B1" n="47"/>&amp; trabem quae in oculo tuo est non consideras.</quote> <quote xml:id="rhwis-l27-Qd1e421" source="http://scta.info/resource/mt7_5@1-16">Hypocrita eijce primum trabem
           <lb ed="#B1" n="48"/>de oculo tuo, &amp; tunc ueni &amp; eijce festucam de oculo fratris tui.</quote> Vnde Prosper 
           <lb ed="#B1" n="49"/>de uita contemplatiua l.2. Tam diu quis peccata sua quae nosse &amp; flere deberet  
           <lb ed="#B1" n="50"/>ignorat, quam diu aliena curiose considerat: quod si mores suos ad seipsum 
@@ -211,31 +211,31 @@
           <lb ed="#B1" n="1"/>seipsum. Non enim solus oculus, quae exterius habentur inspiciens, semeti 
           <lb ed="#B1" n="2"/>psum non ualet intueri. Sed &amp; mens ipsa satis acute aliena delicta contempsans, 
           <lb ed="#B1" n="3"/>tardior est erga suorum cognitionem uitiorum. Et ideo signanter dicitur uni  
-          <lb ed="#B1" n="4"/>cuique nostrum illud Hier. 2. <quote source="http://scta.info/resource/ier2_19@12-22">Vide quia malum &amp; amarum est reliquisse te Do 
+          <lb ed="#B1" n="4"/>cuique nostrum illud Hier. 2. <quote xml:id="rhwis-l27-Qd1e449" source="http://scta.info/resource/ier2_19@12-22">Vide quia malum &amp; amarum est reliquisse te Do 
           <lb ed="#B1" n="5"/>minum DEUM tuum</quote>, te inquit, non alium
         </p>
         <p xml:id="rhwis-l27-d1e438">
-          <lb ed="#B1" n="6"/>Tertio uideamus fraternam proximorum indigentiam, Gene. 37. <quote source="http://scta.info/resource/gen37_14@6-13">Vide si 
+          <lb ed="#B1" n="6"/>Tertio uideamus fraternam proximorum indigentiam, Gene. 37. <quote xml:id="rhwis-l27-Qd1e459" source="http://scta.info/resource/gen37_14@6-13">Vide si 
           <lb ed="#B1" n="7"/>cuncta prospera sint erga fratres tuos</quote>. Sed reuera multi uident fratres suos 
           in<lb ed="#B1" n="8" break="no"/>digentes, sicut sacerdos &amp; Leuita uiderunt Samaritanum sauciatum, Luc. 10. 
-          <lb ed="#B1" n="9"/><quote source="http://scta.info/resource/lc10_32@1-11">Leuita cum esset secus locum &amp; uideret eum, pertransijt.</quote> De unoquoque tali di 
-          <lb ed="#B1" n="10"/>citur 1. Ioh. 3. <quote source="http://scta.info/resource/Iio3_17@1-22">Qui habuerit substantiam huius mundi, &amp; uiderit fratrem suum
+          <lb ed="#B1" n="9"/><quote xml:id="rhwis-l27-Qd1e467" source="http://scta.info/resource/lc10_32@1-11">Leuita cum esset secus locum &amp; uideret eum, pertransijt.</quote> De unoquoque tali di 
+          <lb ed="#B1" n="10"/>citur 1. Ioh. 3. <quote xml:id="rhwis-l27-Qd1e473" source="http://scta.info/resource/Iio3_17@1-22">Qui habuerit substantiam huius mundi, &amp; uiderit fratrem suum
           <lb ed="#B1" n="11"/>necesse habere, &amp; clauserit uiscera sua ab eo, quomodo charitas DEI manet in
           <lb ed="#B1" n="12"/>illo</quote>, quasi diceret nullo modo. Sed uideamus nos pauperum indigentiam, 
           si<lb ed="#B1" n="13" break="no"/>cut Samaritanus fecit, qui uulnera alligauit &amp; in stabulum secum duxit, Luc. 10.
-          <lb ed="#B1" n="14"/><quote source="http://scta.info/resource/io16_22@10-15">Videbo uos &amp; gaudebit cor uestrum,</quote> Ioh. 16.
+          <lb ed="#B1" n="14"/><quote xml:id="rhwis-l27-Qd1e483" source="http://scta.info/resource/io16_22@10-15">Videbo uos &amp; gaudebit cor uestrum,</quote> Ioh. 16.
         </p>
         <p xml:id="rhwis-l27-d1e460">
           <lb ed="#B1" n="15"/>Quarto uideamus aeternam tormentorum uehementiam. Homo qui non 
           di<lb ed="#B1" n="16" break="no"/>ligenter praeuidet sibi de fouea &amp; puteo, faciliter cadit in eum: sic qui non pro 
           <lb ed="#B1" n="17"/>tunde &amp; frequenter imaginatur de poena putei infernalis, non bene cauet sibi, 
-          <lb ed="#B1" n="18"/>ideo Psal. ait: <quote source="http://scta.info/resource/ps90_8@2-8">Oculis tuis considerabis, &amp; retributionem peccatorum uidebis.</quote>  
-          <lb ed="#B1" n="19"/>Et quicumque haec uideret, infallibiliter retraheret se a peccato. Nau. 3. <quote source="http://scta.info/resource/nah3_7@3-9">Omnis qui  
+          <lb ed="#B1" n="18"/>ideo Psal. ait: <quote xml:id="rhwis-l27-Qd1e497" source="http://scta.info/resource/ps90_8@2-8">Oculis tuis considerabis, &amp; retributionem peccatorum uidebis.</quote>  
+          <lb ed="#B1" n="19"/>Et quicumque haec uideret, infallibiliter retraheret se a peccato. Nau. 3. <quote xml:id="rhwis-l27-Qd1e503" source="http://scta.info/resource/nah3_7@3-9">Omnis qui  
           <lb ed="#B1" n="20"/>uiderit te, resiliet a te.</quote> Vnde Hugo de sancto Victore lib. suo de Anima: Infer 
           <lb ed="#B1" n="21"/>nus lacus est sine mensura, profundus sine fundo, plenus ardore 
           incomparabi<lb ed="#B1" n="22" break="no"/>li, plenus foetore intolerabili, plenus dolore innumerabili: ibi miseriae, ibi 
           tene<lb ed="#B1" n="23" break="no"/>brae, ibi nullus ordo, ibi horror aeternus, ibi nulla spes boni, nulla desperatio 
-          <lb ed="#B1" n="24"/>mali. Haec Hugo. Et ideo uidete, uigilate &amp; orate, Marc. 13. Et ad Eph. 5. <quote source="http://scta.info/resource/eph5_15@1-12 http://scta.info/resource/eph5_16@1-6">Vide
+          <lb ed="#B1" n="24"/>mali. Haec Hugo. Et ideo uidete, uigilate &amp; orate, Marc. 13. Et ad Eph. 5. <quote xml:id="rhwis-l27-Qd1e517" source="http://scta.info/resource/eph5_15@1-12 http://scta.info/resource/eph5_16@1-6">Vide
           <lb ed="#B1" n="25"/>te itaqe fratres quomodo caute ambuletis, non quasi insipientes, sed ut
           sapien<lb ed="#B1" n="26" break="no"/>tes, redimentes tempus: quoniam dies mali sunt.</quote>
         </p>

@@ -95,7 +95,7 @@
           <lb ed="#B1" n="28"/>Expers languoris, non sum memor huius amoris.
         </p>
         <p xml:id="rhwis-l200-d1e194">
-          <lb ed="#B1" n="29"/>Sic Antiochus a DEO percussus, promisit <quote source="http://scta.info/resource/IImac9_17@4-14">se ludaeum futurum, &amp; omnem
+          <lb ed="#B1" n="29"/>Sic Antiochus a DEO percussus, promisit <quote xml:id="rhwis-l200-Qd1e193" source="http://scta.info/resource/IImac9_17@4-14">se ludaeum futurum, &amp; omnem
           lo<lb ed="#B1" n="30" break="no"/>cum terrae perambulaturum, &amp; praedicaturum DEI potestatem,</quote> 2. Machabus 9.
           <lb ed="#B1" n="31"/>quod non fecit. Circa illam clausulam: Popularis homo regi similia passus: 
           Notan<lb ed="#B1" n="32" break="no"/>dum est, quod aliqua circa statum regium decreuerunt antiqui solicitius 
@@ -129,7 +129,7 @@
           <lb ed="#B1" n="5"/>lus ei praelatus est, sed homo homini, ut gratiorem praelaturam efficeret 
           iden<lb ed="#B1" n="6" break="no"/>titas speciei. Tertia quod ex sententia dicta liquet, quis inter reges regendi 
           <lb ed="#B1" n="7"/>teneat fastigium: quia uidelicet lmperator ex sententia Saluatoris, Matthaei 
-          <lb ed="#B1" n="8"/>uigesimosecundo: <quote source="http://scta.info/resource/mt22_21@7-17">Reddite ergo quae sunt Caesaris, Caesari, &amp; quae sunt DEI,
+          <lb ed="#B1" n="8"/>uigesimosecundo: <quote xml:id="rhwis-l200-Qd1e270" source="http://scta.info/resource/mt22_21@7-17">Reddite ergo quae sunt Caesaris, Caesari, &amp; quae sunt DEI,
           <lb ed="#B1" n="9"/>DEO.</quote> Regna vero quatuor imperialia praeterisse cognoscimus, secundum 
           <lb ed="#B1" n="10"/>Chronicas, &amp; in prophetia legimus Daniel. 7. uidelicet Assyriorum 
           Per<lb ed="#B1" n="11" break="no"/>sarum, Graecorum &amp; Romanorum. Imperium uero Romanorum, quod per 
@@ -142,7 +142,7 @@
           antecel<lb ed="#B1" n="18" break="no"/>lit, quae tanto temporalibus sunt digniora, quanto anima praefertur corpori 
           <lb ed="#B1" n="19"/>Vnde Imperatori praecellere declaratur in decretali praedicta dupliciter, uel  
           <lb ed="#B1" n="20"/>duplici autoritate. Quarum una est, quod Dominus dixit leremiae, qui
-          <lb ed="#B1" n="21"/>sacerdos fuit: <quote source="http://scta.info/resource/ier1_10@1-9">Ecce constitui te hodie super gentes, &amp; regna</quote>, Ieremiae primo 
+          <lb ed="#B1" n="21"/>sacerdos fuit: <quote xml:id="rhwis-l200-Qd1e301" source="http://scta.info/resource/ier1_10@1-9">Ecce constitui te hodie super gentes, &amp; regna</quote>, Ieremiae primo 
           <lb ed="#B1" n="22"/>Alia est Genesis primo: ibi dicit, quod DEVS fecit duo magna luminaria: id  
           <lb ed="#B1" n="23"/>est, duas potestates instituit, quae sunt pontificalis &amp; regalis potestas, ad 
           Ec<lb ed="#B1" n="24" break="no"/>clesiae firmamentum: sed illa quae praeest diei: id est, spiritualibus maior est: quae 
@@ -169,7 +169,7 @@
           <lb ed="#B1" n="45"/>in causis capitum solus iudicet: &amp; si displiceat, iudicatum ad populum 
           reuo<lb ed="#B1" n="46" break="no"/>catur, atque ita datis iudicibus septuaginta fertur sententia, cui necessario ad 
           <lb ed="#B1" n="47"/>quiescere est. Haec Solinus. Tertio de regiae executionis autoritate potest ex  
-          <lb ed="#B1" n="48"/>poni illud Proverbiorum uigesimo: <quote source="http://scta.info/resource/prov20_8@1-11">Rex qui sedet in solio iudicij, dissipat
+          <lb ed="#B1" n="48"/>poni illud Proverbiorum uigesimo: <quote xml:id="rhwis-l200-Qd1e362" source="http://scta.info/resource/prov20_8@1-11">Rex qui sedet in solio iudicij, dissipat
           o<lb ed="#B1" n="49" break="no"/>mne malum intuitu suo.</quote> Vbi quatuor conditiones ponuntur necessario 
           ex<lb ed="#B1" n="50" break="no"/>quisitae, ad hoc, quod regia autoritas executionem debitam sortiatur, scilicet 
           <lb ed="#B1" n="51"/>tranquillitas in praesidendo: quod notatur cum dicitur: Rex qui sedet. Ae 

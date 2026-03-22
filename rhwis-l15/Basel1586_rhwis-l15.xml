@@ -68,7 +68,7 @@
           <lb ed="#B1" n="1"/>tur totaliter in corpore &amp; anima: ita ponit haec opinio de hominibus quoe penitus 
           <lb ed="#B1" n="2"/>moriuntur. Vnde haec opinio negat immortalitatem animae, &amp; poenas &amp; praemia 
           <lb ed="#B1" n="3"/>post hanc uitam durare. Sic ergo dicit: Dixerunt impii: id est, cogitauerunt 
-          oc<lb ed="#B1" n="4" break="no"/>culte, &amp; uerba mentis dixerunt credendo &amp; asserendo, in Psal. <quote source="http://scta.info/resource/ps13_1@5-12">Dixit insipiens 
+          oc<lb ed="#B1" n="4" break="no"/>culte, &amp; uerba mentis dixerunt credendo &amp; asserendo, in Psal. <quote xml:id="rhwis-l15-Qd1e138" source="http://scta.info/resource/ps13_1@5-12">Dixit insipiens 
           <lb ed="#B1" n="5"/>in corde suo, non est DEVS.</quote> Et hoc non recte: quia falsum est in rei ueritate, &amp; si 
           <lb ed="#B1" n="6"/>militer hominibus praecipitur credere contrarium. Sed quid dixerunt: Exiguum 
           <lb ed="#B1" n="7"/>&amp; cumtadio, &amp;c. Et nota quod impij tres propositones dicunt: quarum prima est 
@@ -89,13 +89,13 @@
           <lb ed="#B1" n="20"/>irrationabilibus se abstinuerit, nihil sibi post mortem tribuetur pro merito: Quiae 
           <lb ed="#B1" n="21"/>no est refrigerium in fine: id est, quies post mortem. Et istud est falsum: quia dicitur  
           <lb ed="#B1" n="22"/>Hie. 6. Ambulate in uia bona &amp; inuenietis requiem animabus uestris. Et Hiere.  
-          <lb ed="#B1" n="23"/>7. <quote source="http://scta.info/resource/ier7_23@20-30">Ambulate in omni uia quam mandaui uobis, ut bene sit uobis</quote>: &amp; Sap. 4. Iustus 
-          <lb ed="#B1" n="24"/>si in morte poccupatus fuerit, in refrigerio erit. Item Psal. <quote source="http://scta.info/resource/ps65_12@6-15">Transiuimus per ignem &amp;
+          <lb ed="#B1" n="23"/>7. <quote xml:id="rhwis-l15-Qd1e184" source="http://scta.info/resource/ier7_23@20-30">Ambulate in omni uia quam mandaui uobis, ut bene sit uobis</quote>: &amp; Sap. 4. Iustus 
+          <lb ed="#B1" n="24"/>si in morte poccupatus fuerit, in refrigerio erit. Item Psal. <quote xml:id="rhwis-l15-Qd1e190" source="http://scta.info/resource/ps65_12@6-15">Transiuimus per ignem &amp;
           <lb ed="#B1" n="25"/>aquam &amp; inouxisti nos in refrigerium:</quote> tertia proposito dicit, quod post mortem 
           ho<lb ed="#B1" n="26" break="no"/>minis nullus erit locus tormenti uel poenae: Vnde dicunt: Non est qui agnitus sit re 
           <lb ed="#B1" n="27"/>uersus ab infernis: quasi dicerent, si esset aliquis talis locus tormentorum, illi qui  
           <lb ed="#B1" n="28"/>sunt ibi puniti, accederent aliquando ad nos, &amp; nobis de suis poenis nunciarent. 
-          <lb ed="#B1" n="29"/>Sed isti fatue &amp; false loquuntur. Fatue, non aduertentes illud Luc. 16. <quote source="http://scta.info/resource/lc16_26@9-26">Chaos 
+          <lb ed="#B1" n="29"/>Sed isti fatue &amp; false loquuntur. Fatue, non aduertentes illud Luc. 16. <quote xml:id="rhwis-l15-Qd1e203" source="http://scta.info/resource/lc16_26@9-26">Chaos 
           <lb ed="#B1" n="30"/>magnum firmatum est inter nos &amp; uos, &amp; qui uolunt transire hinc ad uos non pos  
           <lb ed="#B1" n="31"/>sunt, neque inde huc transmeare:</quote> &amp; hoc de lege comuni. False loquuntur: quia &amp; 
           <lb ed="#B1" n="32"/>CHRISTVS ab inferis resurrexit, lohan. 20. &amp; Laxarus similiter, lohan. 11. 
@@ -166,7 +166,7 @@
           <lb ed="#B1" n="38"/>Primo ex diuina bonitate sic. Cum DEVS sit bonus singulariter, maxime 
           <lb ed="#B1" n="39"/>tamen bonus est amicis suis: sed amicorum proprie est conuiuere C8. Ethi.] &amp; 
           <lb ed="#B1" n="40"/>amicus saluat uitam amici si potest: Ergo DEVS confert amicis suis 
-          immor<lb ed="#B1" n="41" break="no"/>talitatem, 1. ad Corint. 15. <quote source="http://scta.info/resource/Icor15_19@1-13">Si in hac uita tantum sperantes essemus, miserabili  
+          immor<lb ed="#B1" n="41" break="no"/>talitatem, 1. ad Corint. 15. <quote xml:id="rhwis-l15-Qd1e356" source="http://scta.info/resource/Icor15_19@1-13">Si in hac uita tantum sperantes essemus, miserabili  
           <lb ed="#B1" n="42"/>ores essemus omnibus hominibus.</quote>
         </p>
         <p xml:id="rhwis-l15-d1e353">
@@ -202,7 +202,7 @@
           ue<lb ed="#B1" n="14" break="no"/>rissimum. In quo uita nostra a tribus describitur: a breuitate suae 
           duratio<lb ed="#B1" n="15" break="no"/>nis: exiguum: a poenalitate grauis afflictionis: cum tedio: ab instabilitate 
           <lb ed="#B1" n="16"/>seu labilitate continuae mutationis: tempus vitae nostrae. De primo 
-          Sapien<lb ed="#B1" n="17" break="no"/>tiae nono: <quote source="http://scta.info/resource/sap9_5@10-14">Homo infirmus &amp; exigui temporis.</quote> De secundo, lob. cap. 10. <quote source="http://scta.info/resource/iob10_1@1-5">
+          Sapien<lb ed="#B1" n="17" break="no"/>tiae nono: <quote xml:id="rhwis-l15-Qd1e432" source="http://scta.info/resource/sap9_5@10-14">Homo infirmus &amp; exigui temporis.</quote> De secundo, lob. cap. 10. <quote xml:id="rhwis-l15-Qd1e435" source="http://scta.info/resource/iob10_1@1-5">
           Tae<lb ed="#B1" n="18" break="no"/>det animam meam uitae meae.</quote> De tertio, Eccles. 18. De mane usque ad 
           ue<lb ed="#B1" n="19" break="no"/>speram immutabiturtempus. Istam breuitatem uitae humanae simul, cum poena 
           <lb ed="#B1" n="20"/>litate pertractans Seneca Epist. 2. dicit sic: Propone temporis profundi 
@@ -219,7 +219,7 @@
           <lb ed="#B1" n="31"/>ris causam: Non enim uiuunt, sed uicturi sunt: omnia differunt. Et si 
           attenderi<lb ed="#B1" n="32" break="no"/>mus, cum nos uita praecurreret: nunc uero cunctantes: id est, morantes quasi 
           <lb ed="#B1" n="33"/>aliena transcurrit &amp; ultimo die finitur, omni temporem perit. Et ideo iuxta 
-          con<lb ed="#B1" n="34" break="no"/>silium Apostoli ad Gala, sexto &amp; ultimo: <quote source="http://scta.info/resource/gal6_10@1-13">Dum tempus habemus operemur
+          con<lb ed="#B1" n="34" break="no"/>silium Apostoli ad Gala, sexto &amp; ultimo: <quote xml:id="rhwis-l15-Qd1e475" source="http://scta.info/resource/gal6_10@1-13">Dum tempus habemus operemur
           <lb ed="#B1" n="35"/>bonum ad omnes, maxime autem ad domesticos fidei:</quote> Senes, debiles, 
           impo<lb ed="#B1" n="36" break="no"/>tentes, non habent tempus, sed habentur a tempore. Infirmi &amp; grauiter 
           patien<lb ed="#B1" n="37" break="no"/>tes non habent tempus, cum non sint sui compotes. Mortui transierunt 
@@ -227,7 +227,7 @@
           be<lb ed="#B1" n="39" break="no"/>ne uiuendum, sed statim incipiendum est dum tempus nostrum est. Sed quod 
           <lb ed="#B1" n="40"/>plangendum est, multi inueniuntur &amp; communiter omnes de quorum quo 
           <lb ed="#B1" n="41"/>libet verificatur illud Iob. 24. Dedit eis tempus poenitentiae, &amp; ipsi abutuntu eo 
-          <lb ed="#B1" n="42"/>ad superbiam. Et Psal. <quote source="http://scta.info/resource/ps118_126@1-6">Tempus faciendi Domine dissipauerunt legem tuam,</quote> 
+          <lb ed="#B1" n="42"/>ad superbiam. Et Psal. <quote xml:id="rhwis-l15-Qd1e495" source="http://scta.info/resource/ps118_126@1-6">Tempus faciendi Domine dissipauerunt legem tuam,</quote> 
           <lb ed="#B1" n="43"/>Augustinus de disciplina Christiana: Peruerse plus amas mortem quam uitan 
           <lb ed="#B1" n="44"/>Absit, inquit: quamuis est homo qui plus amat mortem quam uitam. Forte 
           con<lb ed="#B1" n="45" break="no"/>uinco te quod plus amas mortem quam uitam. Ecce unde te conuinco: Tu a 
@@ -271,8 +271,8 @@
           <lb ed="#B1" n="24"/>mansit cum uoce coruina: quia non habuit gemitum columbinum. Haec ille 
           <lb ed="#B1" n="25"/>Est ergo summa stulticia iuuentutem uel tempus praesens expendere in pecca 
           <lb ed="#B1" n="26"/>tis, &amp; de tempore futuro, quod non est nostrum, sperare. Et ideo signanter di 
-          <lb ed="#B1" n="27"/>citur Eccles. 7. <quote source="http://scta.info/resource/qoh7_18@1-14">Ne impie agas multum: &amp; noli esse stultus ne moriaris in
-          tem<lb ed="#B1" n="28" break="no"/>pore non tuo</quote>. Et ad Gala. 6. &amp; ulti. <quote source="http://scta.info/resource/gal6_9@1-11">Bonum autem facientes non deficiamus: 
+          <lb ed="#B1" n="27"/>citur Eccles. 7. <quote xml:id="rhwis-l15-Qd1e590" source="http://scta.info/resource/qoh7_18@1-14">Ne impie agas multum: &amp; noli esse stultus ne moriaris in
+          tem<lb ed="#B1" n="28" break="no"/>pore non tuo</quote>. Et ad Gala. 6. &amp; ulti. <quote xml:id="rhwis-l15-Qd1e595" source="http://scta.info/resource/gal6_9@1-11">Bonum autem facientes non deficiamus: 
           <lb ed="#B1" n="29"/>tem pore enim suo metemus non deficientes:</quote> quia, 
           <lb ed="#B1" n="30"/>Vita brenis, cesus leuis, nee spes remeandi. 
           <lb ed="#B1" n="31"/>Quantu seres hinc tanta feres, sit cura parandi. 

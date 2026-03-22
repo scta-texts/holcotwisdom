@@ -64,8 +64,8 @@
           lumi<lb ed="#B1" n="42" break="no"/>ne Solis materialis: ita diuitiae, honores &amp; cupiditates mundanae auferunt &amp; 
           <!--sap_Page_258.xml-->
           <pb ed="#B1" n="224"/>
-          <lb ed="#B1" n="1"/>abscondunt homini gratiam &amp; dilectionem DEI, Sapien. cap. 2. <quote source="http://scta.info/resource/sap2_5@1-6">Vmbrae enim
-          <lb ed="#B1" n="2"/>transitus est tempus nostrum.</quote> Item Psalm. <quote source="http://scta.info/resource/ps108_23@1-6">Sicut umbra cum declinat ablatus
+          <lb ed="#B1" n="1"/>abscondunt homini gratiam &amp; dilectionem DEI, Sapien. cap. 2. <quote xml:id="rhwis-l64-Qd1e129" source="http://scta.info/resource/sap2_5@1-6">Vmbrae enim
+          <lb ed="#B1" n="2"/>transitus est tempus nostrum.</quote> Item Psalm. <quote xml:id="rhwis-l64-Qd1e135" source="http://scta.info/resource/ps108_23@1-6">Sicut umbra cum declinat ablatus
           <lb ed="#B1" n="3"/>sum</quote>, dicit in persona peccatoris. Vbi notandum quod iuxta tria genera 
           pec<lb ed="#B1" n="4" break="no"/>catorum triplex umbra correspondet. Est enim peccatum originale: est 
           pec<lb ed="#B1" n="5" break="no"/>catum ueniale: est peccatum mortale. Peccato originali, si non deleatur per 
@@ -148,12 +148,12 @@
           <lb ed="#B1" n="19"/>omnium terrenorum. In medio est uia poenitentiae aliquantulum &amp; 
           sufficien<lb ed="#B1" n="20" break="no"/>ter ampla. Quia secundum Boëtium: Paucis, minimisque natura contenta est. 
           <lb ed="#B1" n="21"/>Vnde Gregor. Via Domini nisi in arcto itinere inchoatur &amp; amoris 
-          dulcedi<lb ed="#B1" n="22" break="no"/>ne dilatatur, Proverb. 4. <quote source="http://scta.info/resource/prov4_11@5-9 http://scta.info/resource/prov4_12@1-8">Ducam te per semitam aequitatis. Quas cum ingressus
+          dulcedi<lb ed="#B1" n="22" break="no"/>ne dilatatur, Proverb. 4. <quote xml:id="rhwis-l64-Qd1e324" source="http://scta.info/resource/prov4_11@5-9 http://scta.info/resource/prov4_12@1-8">Ducam te per semitam aequitatis. Quas cum ingressus
           <lb ed="#B1" n="23"/>fueris non arctabuntur gressus tui, &amp; irruens non habebis offendiculum.</quote> Glos.  
           <lb ed="#B1" n="24"/>Semitae aequitatis dum inchoantur arctae uidentur &amp; angustae. Cum uero 
           pro<lb ed="#B1" n="25" break="no"/>fectum capiunt, iam ex consuetudine spaciosae uidentur &amp; latae. Vnde &amp; pro di 
-          <lb ed="#B1" n="26"/>uerso tempore dicebatPsal. <quote source="http://scta.info/resource/ps16_4@8-15">Propter uerba labiorum tuorum ego custodiui uias 
-          <lb ed="#B1" n="27"/>duras.</quote> Et <quote source="http://scta.info/resource/ps118_32@1-8">uiam mandatorum tuorum cucurri, cum dilatasti cor meum.</quote> Econ 
+          <lb ed="#B1" n="26"/>uerso tempore dicebatPsal. <quote xml:id="rhwis-l64-Qd1e336" source="http://scta.info/resource/ps16_4@8-15">Propter uerba labiorum tuorum ego custodiui uias 
+          <lb ed="#B1" n="27"/>duras.</quote> Et <quote xml:id="rhwis-l64-Qd1e341" source="http://scta.info/resource/ps118_32@1-8">uiam mandatorum tuorum cucurri, cum dilatasti cor meum.</quote> Econ 
           <lb ed="#B1" n="28"/>tra mali homines ingrediuntur latam uiam in principio, &amp; postea in progressu 
           <lb ed="#B1" n="29"/>arctant, Iob 18. <quote xml:id="rhwis-l64-Qd1e338" source="http://scta.info/resource/iob18_7">Arctabuntur gressus uirtutis eius</quote>. Sic ergo una conditio nauis  
           <lb ed="#B1" n="30"/>est quod est stricta in extremis, &amp; ampla in medio. Alia uero conditio eiusdem  
@@ -161,7 +161,7 @@
           <lb ed="#B1" n="32"/>poenitentis claudi debet ad mundum &amp; aperiri ad coelum. Facta est enim na 
           <lb ed="#B1" n="33"/>uis ad calcandum mare &amp; superandum, non ad recipiendum mare: Ita anima 
           <lb ed="#B1" n="34"/>poenitens calcare debet mundum, nec tangere ad delectationem, sed ad 
-          calcan<lb ed="#B1" n="35" break="no"/>dum &amp; dispensandum, Proverb. 31. <quote source="http://scta.info/resource/prov31_14@2-11">Facta est quasi nauis institoris de longe
+          calcan<lb ed="#B1" n="35" break="no"/>dum &amp; dispensandum, Proverb. 31. <quote xml:id="rhwis-l64-Qd1e365" source="http://scta.info/resource/prov31_14@2-11">Facta est quasi nauis institoris de longe
           <lb ed="#B1" n="36"/>portans panem suum.</quote> Secundo poenitentia naui comparatur propter uecturae 
           com<lb ed="#B1" n="37" break="no"/>moditatem. Faciliter merces &amp; quaecunque alia necessaria deportantur de terra ad 
           <lb ed="#B1" n="38"/>terram per naues. Existens in insula nullo modo potest exire eam, nisi per 

@@ -91,20 +91,20 @@
           <lb ed="#B1" n="30"/>Circa primum de iuramenti licentia est sciendum, quod fuerunt quidam hae 
           <lb ed="#B1" n="31"/>retici qui asseruerunt omne iuramentum esse illicitum, quocunque posito, ita  
           <lb ed="#B1" n="32"/>quod nullam ueritatem liceret omnino asserere cum iuramento, &amp; habuit hec 
-          <lb ed="#B1" n="33"/>haeresis motiua ex Scriptura sacra. Primo ex illo uerbo Saluatoris Matth. 5. <quote source="http://scta.info/resource/mt5_34@1-7">
-          E<lb ed="#B1" n="34" break="no"/>go dico uobis non iurare omnino.</quote> Item Iac. 5. <quote source="http://scta.info/resource/iac5_12@1-7">Ante omnia fratres mei nolite
+          <lb ed="#B1" n="33"/>haeresis motiua ex Scriptura sacra. Primo ex illo uerbo Saluatoris Matth. 5. <quote xml:id="rhwis-l152-Qd1e183" source="http://scta.info/resource/mt5_34@1-7">
+          E<lb ed="#B1" n="34" break="no"/>go dico uobis non iurare omnino.</quote> Item Iac. 5. <quote xml:id="rhwis-l152-Qd1e189" source="http://scta.info/resource/iac5_12@1-7">Ante omnia fratres mei nolite
           <lb ed="#B1" n="35"/>iurare.</quote> Item Matth. 5. Sit autem sermo uester, est, est, non, non: quod autem 
           <lb ed="#B1" n="36"/>abundantius est a malo est. Item Augustinus in quodam sermone: Falsa in 
           <lb ed="#B1" n="37"/>quit iuratio exitiosa est, uera iuratio periculosa, nulla iuratio est secura: ergo ab 
-          <lb ed="#B1" n="38"/>omni iuramento est abstinendum. Item Ecclesiast. 23. <quote source="http://scta.info/resource/sir23_11@11-20">Omnis iurans &amp; DEVM
+          <lb ed="#B1" n="38"/>omni iuramento est abstinendum. Item Ecclesiast. 23. <quote xml:id="rhwis-l152-Qd1e200" source="http://scta.info/resource/sir23_11@11-20">Omnis iurans &amp; DEVM
           <lb ed="#B1" n="39"/>nominans in toto a peccato non purgabitur</quote>: ergo illicitum est iurare. Sed 
           hae<lb ed="#B1" n="40" break="no"/>resis ista faciliter redarguitur a sanctis multipliciter. Primo DEVS ipse 
           inue<lb ed="#B1" n="41" break="no"/>nitur iurasse, sicut hic dicitur &amp; in Psalm. Iurauit Dominus, &amp; non poenitebit a 
-          <lb ed="#B1" n="42"/>eum. Item Hebr. 6. <quote source="http://scta.info/resource/hebr6_13@1-15">Abrahae nanque promittens DEVS, quoniam neminem
+          <lb ed="#B1" n="42"/>eum. Item Hebr. 6. <quote xml:id="rhwis-l152-Qd1e210" source="http://scta.info/resource/hebr6_13@1-15">Abrahae nanque promittens DEVS, quoniam neminem
           <lb ed="#B1" n="43"/>habuit, per quem iuraret maiorem: iurauit per semetipsum</quote>, &amp;c. Item 
           Aposto<lb ed="#B1" n="44" break="no"/>lus inuenitur iurasse Rom. 1. <quote xml:id="rhwis-l152-Qd1e212" source="http://scta.info/resource/rom1_9">Testis est mihi DEVS cui seruio in spiritu meo</quote>. 
           <lb ed="#B1" n="45"/>&amp; 2. Corinth. 1. Testem inuoco DEUM in animam meam. Item Deuteron.
-          <lb ed="#B1" n="46"/>6. <quote source="http://scta.info/resource/deut6_13@15-26">Dominum DEVM tuum timebis, &amp; per nomen eius iurabis.</quote> Item Matth.  
+          <lb ed="#B1" n="46"/>6. <quote xml:id="rhwis-l152-Qd1e227" source="http://scta.info/resource/deut6_13@15-26">Dominum DEVM tuum timebis, &amp; per nomen eius iurabis.</quote> Item Matth.  
           <lb ed="#B1" n="47"/>5. <quote xml:id="rhwis-l152-Qd1e222" source="http://scta.info/resource/mt5_33"><unclear>Reddens</unclear> Domino iuramenta tua</quote>. Item omnis natio &amp; omnis secta utitur 
           <lb ed="#B1" n="48"/>iureiurando. Et secundum philosophum uox omnium, est uox naturae. Et  
           <lb ed="#B1" n="49"/>ideo dicendum quod iuramentum est licitum, &amp; non est malum secundum se: 
@@ -150,7 +150,7 @@
         </p>
         <p xml:id="rhwis-l152-d1e320">
           <lb ed="#B1" n="35"/>Vbi secundo sciendum quod frequentia iurandi est primo periculosa, eo 
-          <lb ed="#B1" n="36"/>quod homo de facili delinquet in uerbo secundum illud Iacob. 3. <quote source="http://scta.info/resource/iac3_2@6-15">Si quis in
+          <lb ed="#B1" n="36"/>quod homo de facili delinquet in uerbo secundum illud Iacob. 3. <quote xml:id="rhwis-l152-Qd1e335" source="http://scta.info/resource/iac3_2@6-15">Si quis in
           <lb ed="#B1" n="37"/>uerbo non offendit, hic perfectus est uir.</quote> Vnde Ecclesiast. 23. lurationi non as  
           <lb ed="#B1" n="38"/>suescat os tuum. Multi enim casus in illa. Vnde signum infallibile magnae le 
           <lb ed="#B1" n="39"/>uitatis est, hominis proni ad mendacium, iurandi frequentia, &amp; facilitas: 
@@ -162,7 +162,7 @@
         </p>
         <p xml:id="rhwis-l152-d1e345">
           <lb ed="#B1" n="45"/>Tertio de iuramenti innocentia est sciendum quod ad iuramentum licitum 
-          <lb ed="#B1" n="46"/>requiruntur tria: Iusticia, iudicium &amp; ueritas. Sic dicitur Hierem. 4. <quote source="http://scta.info/resource/ier4_2@2-12">lurabis, 
+          <lb ed="#B1" n="46"/>requiruntur tria: Iusticia, iudicium &amp; ueritas. Sic dicitur Hierem. 4. <quote xml:id="rhwis-l152-Qd1e363" source="http://scta.info/resource/ier4_2@2-12">lurabis, 
           ui<lb ed="#B1" n="47" break="no"/>uit Dominus, in ueritate, &amp; in iudicio, &amp; in iusticia.</quote> Vt per ueritatem caueatur  
           <lb ed="#B1" n="48"/>iuramentum mendax, per iudicium iuramentum incautum, per iusticiam iu 
           <lb ed="#B1" n="49"/>ramentum iniquum, uel illicitum. Vnde ex parte iurantis debet praecedere 

@@ -66,7 +66,7 @@
           <lb ed="#B1" n="11"/>spiritus sapientiae, &amp; potest hic spiritus accipi dupliciter: notionaliter pro Spi<lb ed="#B1" n="12" break="no"/>ritu 
           sancto, iuxta illud <ref xml:id="rhwis-l7-Rd1e138">Ioh. 15.</ref> <quote xml:id="rhwis-l7-Qd1e141" source="http://scta.info/resource/io15_26">Spiritus ueritatis, qui a patre, procedit, ille testimo<lb ed="#B1" n="13" break="no"/>nium 
           perhibebit de me</quote>: essentialiter, pro tota Trinitate, quae est DEVS, iuxta illud  
-          <lb ed="#B1" n="14"/>4. <quote source="http://scta.info/resource/io4_24@1-14">Spiritus est DEVS &amp; eos qui adorant eum in spiritu &amp; veritate, oportet adora<lb ed="#B1" n="15" break="no"/>re</quote>. 
+          <lb ed="#B1" n="14"/>4. <quote xml:id="rhwis-l7-Qd1e143" source="http://scta.info/resource/io4_24@1-14">Spiritus est DEVS &amp; eos qui adorant eum in spiritu &amp; veritate, oportet adora<lb ed="#B1" n="15" break="no"/>re</quote>. 
           Et siue uno modo accipiatur, siue alio modo, benignus est spiritus sapientiae.
         </p>
         <p xml:id="rhwis-l7-d1e151">
@@ -134,7 +134,7 @@
           <lb ed="#B1" n="23"/>quod ille iam semimortuus sentiens recollectis uiribus, quas habebat erupuit  
           <lb ed="#B1" n="24"/>in uocem, &amp; ait: Recede a me mulier adhuc igniculus uiuit, tolle paleam. Et  
           <lb ed="#B1" n="25"/>cito post uenientibus ad se Petro &amp; Paulo Apostolis sicut sibi uidebatur, spi<lb ed="#B1" n="26" break="no"/>ritum 
-          exhalabat. Ille potuit DEO regratiari &amp; dicere cum Psal. <quote source="http://scta.info/resource/ps15_7@1-15">Benedicam
+          exhalabat. Ille potuit DEO regratiari &amp; dicere cum Psal. <quote xml:id="rhwis-l7-Qd1e363" source="http://scta.info/resource/ps15_7@1-15">Benedicam
           <lb ed="#B1" n="27"/>Dominum qui tribuit mihi intellectum insuper usque ad noctem increpue<lb ed="#B1" n="28" break="no"/>runt
           me renes mei:</quote> id est, usque ad mortem secundum gloss. increpuerunt: id  
           <lb ed="#B1" n="29"/>est, arguerunt uel tentauerunt me renes mei. Dicitur enim communiter, quod  
@@ -168,7 +168,7 @@
           <pb ed="#B1" n="28"/>
           <lb ed="#B1" n="1"/>concipiemus timorem, &amp; per timorem continebimus &amp; congregabimus cor 
           <lb ed="#B1" n="2"/>nostrum, Eccl. 30. <quote xml:id="rhwis-l7-Qd1e460" source="http://scta.info/resource/sir30_24">Contine &amp; congrega cor tuum in sanctitate eius &amp; tristiciam 
-          <lb ed="#B1" n="3"/>longe expelle a te</quote>. Refert <ref xml:id="rhwis-l7-Rd1e465"><name>Giraldus Cambrensis</name> in libro suo de Topographia 
+          <lb ed="#B1" n="3"/>longe expelle a te</quote>. Refert <ref xml:id="rhwis-l7-Rd1e465"><name xml:id="rhwis-l7-Nd1e467">Giraldus Cambrensis</name> in libro suo de Topographia 
           <lb ed="#B1" n="4"/>Hyberniae</ref>, quod quondam in mari prope Hyberniam apparuit subito quaedam 
           <lb ed="#B1" n="5"/>insula, iuuenes uero de Hybernia ascendentes. scaphas &amp; naues nitebantur  
           <lb ed="#B1" n="6"/>ad istam insulam applicare. Cum autem ita prope insulam nauis esset, quod eo<lb ed="#B1" n="7" break="no"/>rum 
@@ -202,9 +202,9 @@
           <lb ed="#B1" n="32"/>circa linguam, quod duplici muro clauderetur, osseo &amp; carneo: ad docendum 
           <lb ed="#B1" n="33"/>quod duplex examinatio fieri debet, antequam lingua suum opus exerceat.  
           <lb ed="#B1" n="34"/>Primo enim debet considerari an sit licitum. Secundo an sit expediens, &amp; 
-          <lb ed="#B1" n="35"/>istae sunt uiae per quas sermo debet transire: de quibus Psal. <quote source="http://scta.info/resource/ps38_2@1-14">Dixi custodiam ui<lb ed="#B1" n="36" break="no"/>as
+          <lb ed="#B1" n="35"/>istae sunt uiae per quas sermo debet transire: de quibus Psal. <quote xml:id="rhwis-l7-Qd1e574" source="http://scta.info/resource/ps38_2@1-14">Dixi custodiam ui<lb ed="#B1" n="36" break="no"/>as
           meas ut non delinquam in lingua mea Posui ori meo custodiam</quote>, &amp;c. Vnde 
-          <lb ed="#B1" n="37"/>abbas <name>Paphus</name> sicut narratur <ref xml:id="rhwis-l7-Rd1e581">li. 9. Historiae Tripartitae</ref> cum esset sine literis, ac<lb ed="#B1" n="38" break="no"/>cessit 
+          <lb ed="#B1" n="37"/>abbas <name xml:id="rhwis-l7-Nd1e581">Paphus</name> sicut narratur <ref xml:id="rhwis-l7-Rd1e581">li. 9. Historiae Tripartitae</ref> cum esset sine literis, ac<lb ed="#B1" n="38" break="no"/>cessit 
           ad quendam ut addisceret, &amp; cum deuenisset ad istum uersum: Dixi cu<lb ed="#B1" n="39" break="no"/>stodiam 
           uias, &amp;c. dixit se satis didicisse nec oporteret ulterius addiscere, si istam 
           <lb ed="#B1" n="40"/>lectionem posset bene scire, <ref xml:id="rhwis-l7-Rd1e591">Eccl. 25</ref>. <quote xml:id="rhwis-l7-Qd1e594" source="http://scta.info/resource/sir25_11">Beatus uir qui habitat cum muliere sensa<lb ed="#B1" n="41" break="no"/>ta, 
