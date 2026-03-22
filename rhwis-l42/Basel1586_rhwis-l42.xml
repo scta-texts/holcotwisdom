@@ -101,8 +101,8 @@
           <lb ed="#B1" n="36"/>in nihilum computabuntur: id est, dato quod DEVS concesserit eis longam ui  
           <lb ed="#B1" n="37"/>tam in praesenti in nihilum: id est, inter peccatores computabuntur: quia 
           pec<lb ed="#B1" n="38" break="no"/>catum nihil est, &amp; nihil siunt homines cum peccant, secundum Augustinum., 
-          <lb ed="#B1" n="39"/>Contrarium autem de generatione iustorum infra, capite quinto: 
-          Computa<lb ed="#B1" n="40" break="no"/>ti sunt inter filios DEI, &amp; inter sanctos sors illorum est. Et non solum haec 
+          <lb ed="#B1" n="39"/>Contrarium autem de generatione iustorum infra, capite quinto: <quote source="http://scta.info/resource/sap5_5@2-12">
+          Computa<lb ed="#B1" n="40" break="no"/>ti sunt inter filios DEI, &amp; inter sanctos sors illorum est.</quote> Et non solum haec 
           <lb ed="#B1" n="41"/>generationi iniquae prouenient, sed &amp; sine honore erit nouissima senectus eorum: 
           <lb ed="#B1" n="42"/>&amp; hoc est rationabile: quia honor est praemium uirtutis, &amp; attribuitur tantum 
           <lb ed="#B1" n="43"/>bonis, 4. Ethic. cap. 4. Cum ergo non fuerit uirtuosi in principio aetatis suae, nec 
@@ -185,16 +185,16 @@
         <p xml:id="rhwis-l42-d1e373">
           <lb ed="#B1" n="46"/>Circa crimen adulterij est notandum, quod huius uitij periculum &amp; 
           magni<lb ed="#B1" n="47" break="no"/>tudo patet ex tribus. Ex legis antiquae graui punitione, ex prolis peruersae 
-          <lb ed="#B1" n="48"/>procreatione, ex data fidei uiolatione. De primo Leuit. 20. Si moechatus 
-          fue<lb ed="#B1" n="49" break="no"/>rit aliquis cum uxore alterius, &amp; adulterium perpetrauerit cum uxore 
-          proxi<lb ed="#B1" n="50" break="no"/>mi sui, morte moriantur moechus &amp; adultera. Grauis poena est qua utraque 
+          <lb ed="#B1" n="48"/>procreatione, ex data fidei uiolatione. De primo Leuit. 20. <quote source="http://scta.info/resource/lev20_10@1-20">Si moechatus
+          fue<lb ed="#B1" n="49" break="no"/>rit aliquis cum uxore alterius, &amp; adulterium perpetrauerit cum uxore
+          proxi<lb ed="#B1" n="50" break="no"/>mi sui, morte moriantur moechus &amp; adultera.</quote> Grauis poena est qua utraque 
           <lb ed="#B1" n="51"/>persona morte afficitur. Eadem poena punitur hoc peccatum secundum 
           le<lb ed="#B1" n="52" break="no"/>ges mundanas: nec recipitur aliqua redemptio: licet Ecclesia illis legibus non 
           <lb ed="#B1" n="53"/>utatur. Item Iohannis 8. Scribae &amp; Pharisaei adduxerunt ad CHRISTVM 
           <!--sap_Page_183.xml-->
           <pb ed="#B1" n="149"/>
-          <lb ed="#B1" n="1"/>mulierem in adulterio deprehensam dicentes: Magister haec mulier modo  
-          <lb ed="#B1" n="2"/>deprehensa est in adulterio, in Lege mandauit nobis Moyses huiusmodi 
+          <lb ed="#B1" n="1"/>mulierem in adulterio deprehensam dicentes: <quote source="http://scta.info/resource/io8_4@4-11">Magister haec mulier modo  
+          <lb ed="#B1" n="2"/>deprehensa est in adulterio</quote>, in Lege mandauit nobis Moyses huiusmodi 
           la<lb ed="#B1" n="3" break="no"/>pidare. Patet etiam quam grauiter punitur hoc peccatum a Domino, 2. 
           Re<lb ed="#B1" n="4" break="no"/>gum 12. Cum Dauid adulteratus esset cum uxore Vriae: non recedet ait, 
           gla<lb ed="#B1" n="5" break="no"/>dius de domo tua usque in sempiternum, eo quod despexeris me, &amp; tuleris  
@@ -206,9 +206,9 @@
           <lb ed="#B1" n="11"/>mulier sint una caro, qui aufert uxorem alicui: id est, ac si seipsum sibi au 
           <lb ed="#B1" n="12"/>ferret, sicut fit in morte. Vnde grauius uidetur quam si hominem mutilaret.  
           <lb ed="#B1" n="13"/>Exuperat autem omne furtum: quia quod aufertur cum sit creatura 
-          rationa<lb ed="#B1" n="14" break="no"/>lis, melius est quam terrena substantia, Proverb. 6. Non grauis culpa est cum 
-          <lb ed="#B1" n="15"/>quis furatus fuerit. Furatur enim ut esurientem repleat animam. Qui autem 
-          <lb ed="#B1" n="16"/>adulteratur propter cordis inopiam, perdet animam suam.
+          rationa<lb ed="#B1" n="14" break="no"/>lis, melius est quam terrena substantia, Proverb. 6. <quote source="http://scta.info/resource/prov6_30@1-14">Non grauis culpa est cum 
+          <lb ed="#B1" n="15"/>quis furatus fuerit. Furatur enim ut esurientem repleat animam.</quote> <quote source="http://scta.info/resource/prov6_32@1-10">Qui autem
+          <lb ed="#B1" n="16"/>adulteratur propter cordis inopiam, perdet animam suam.</quote>
         </p>
         <p xml:id="rhwis-l42-d1e433">
           <lb ed="#B1" n="17"/>Secundo patet huius criminis periculum ex prolis peruersae procreatione, 
@@ -237,12 +237,12 @@
           <lb ed="#B1" n="38"/>reddens eam ignobilem ad Ecclesiasticas dignitates: peccatetiam &amp; in 
           proxi<lb ed="#B1" n="39" break="no"/>mum quem admittit. Nam frequenter de adulterio nascitur homicidium, &amp; 
           <lb ed="#B1" n="40"/>membrorum mutilatio, &amp; huiusmodi. Vnde Dauid cum in adulterium cecidisset,  
-          <lb ed="#B1" n="41"/>praecepit occidi fidelissimum militem suum, 2. Reg. 11 cap. Eccl. 23 .Omnis  
-          <lb ed="#B1" n="42"/>mulier relinquens uirum suum peccabit, &amp; statuens haereditatem ex alieno 
-          <lb ed="#B1" n="43"/>matrimonio. Primo enim in lege altissimi incredibilis fuit. 
-          Se<lb ed="#B1" n="44" break="no"/>cundo uirum suum deresiquit. Tertio in 
-          adulte<lb ed="#B1" n="45" break="no"/>rio fornicata est, &amp; ex alio uiro 
-          sta<lb ed="#B1" n="46" break="no"/>tuit sibi filios.
+          <lb ed="#B1" n="41"/>praecepit occidi fidelissimum militem suum, 2. Reg. 11 cap. Eccl. 23. <quote source="http://scta.info/resource/sir23_32@1-13 http://scta.info/resource/sir23_33@1-24">Omnis
+          <lb ed="#B1" n="42"/>mulier relinquens uirum suum peccabit, &amp; statuens haereditatem ex alieno
+          <lb ed="#B1" n="43"/>matrimonio. Primo enim in lege altissimi incredibilis fuit.
+          Se<lb ed="#B1" n="44" break="no"/>cundo uirum suum deresiquit. Tertio in
+          adulte<lb ed="#B1" n="45" break="no"/>rio fornicata est, &amp; ex alio uiro
+          sta<lb ed="#B1" n="46" break="no"/>tuit sibi filios</quote>.
         </p>
       </div>
     </body>
